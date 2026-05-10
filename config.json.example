@@ -1,0 +1,12 @@
+{
+  "api_keys": {
+    "openai": "your-openai-api-key-here",
+    "football_api": "your-football-data-org-key"
+  },
+  "settings": {
+    "auto_update_interval": 1800,
+    "generate_images": true,
+    "push_to_github": true,
+    "image_style": "dark, cinematic football, dramatic stadium lighting"
+  }
+}
