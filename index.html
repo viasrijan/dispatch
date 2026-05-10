@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dispatch | Dark Edition</title>
+    <title>KICKOFF | Football News</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -16,8 +16,8 @@
             --surface: #141414;
             --border: #27272a;
             --border-light: #3f3f46;
-            --accent: #3b82f6;
-            --accent-hover: #2563eb;
+            --accent: #25D366;
+            --accent-hover: #1DA851;
             --text-primary: #fafafa;
             --text-secondary: #a1a1aa;
             --text-muted: #71717a;
@@ -56,7 +56,7 @@
             align-items: center;
             padding: 20px 40px;
             border-bottom: 1px solid var(--border);
-            background: var(--bg-primary);
+            background: #ffffff;
             position: sticky;
             top: 0;
             z-index: 100;
@@ -66,7 +66,7 @@
             font-size: 1.8rem;
             font-weight: 800;
             letter-spacing: -1px;
-            color: var(--text-primary);
+            color: #25D366;
         }
 
         .nav-menu {
@@ -76,7 +76,7 @@
         }
 
         .nav-menu a {
-            color: var(--text-secondary);
+            color: #0a0a0a;
             font-size: 0.9rem;
             font-weight: 500;
             text-transform: capitalize;
@@ -84,7 +84,7 @@
         }
 
         .nav-menu a:hover {
-            color: var(--text-primary);
+            color: #25D366;
         }
 
         .nav-right {
@@ -93,11 +93,33 @@
             align-items: center;
         }
 
+        .nav-right a {
+            color: #0a0a0a;
+            font-size: 1.1rem;
+            transition: color 0.3s ease;
+        }
+
+        .nav-right a:hover {
+            color: #25D366;
+        }
+
         /* Hero */
         .hero {
             padding: 80px 40px 60px;
             text-align: center;
-            background: linear-gradient(180deg, var(--bg-primary) 0%, var(--bg-secondary) 100%);
+            background: linear-gradient(180deg, #0a0a0a 0%, #111111 100%);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .hero::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 4px;
+            background: linear-gradient(90deg, #25D366, #128C7E, #25D366);
         }
 
         .hero h1 {
@@ -106,6 +128,7 @@
             letter-spacing: -2px;
             margin-bottom: 24px;
             line-height: 1.1;
+            color: #ffffff;
         }
 
         .hero-text {
@@ -134,7 +157,7 @@
         }
 
         .view-all {
-            color: var(--accent);
+            color: #25D366;
             font-size: 0.9rem;
             font-weight: 600;
         }
@@ -195,7 +218,7 @@
         }
 
         .featured-card:hover .featured-title {
-            color: var(--accent);
+            color: #25D366;
         }
 
         /* Category Tabs */
@@ -227,13 +250,13 @@
             left: 0;
             width: 0;
             height: 2px;
-            background: var(--accent);
+            background: #25D366;
             transition: width 0.3s ease;
         }
 
         .category-tab:hover,
         .category-tab.active {
-            color: var(--text-primary);
+            color: #25D366;
         }
 
         .category-tab:hover::after,
@@ -275,7 +298,7 @@
         .stat-item h3 {
             font-size: 3.5rem;
             font-weight: 800;
-            color: var(--accent);
+            color: #25D366;
             margin-bottom: 8px;
         }
 
@@ -326,7 +349,7 @@
 
         .newsletter-form button {
             padding: 16px 32px;
-            background: var(--accent);
+            background: #25D366;
             color: white;
             border: none;
             border-radius: 8px;
@@ -337,7 +360,7 @@
         }
 
         .newsletter-form button:hover {
-            background: var(--accent-hover);
+            background: #1DA851;
         }
 
         /* All Publications */
@@ -386,7 +409,7 @@
         }
 
         .pub-card:hover .pub-title {
-            color: var(--accent);
+            color: #25D366;
         }
 
         /* Footer */
@@ -504,13 +527,13 @@
 <body>
 
     <header class="top-bar">
-        <a href="#" class="logo">DISPATCH</a>
+        <a href="#" class="logo">KICKOFF</a>
         <nav>
             <ul class="nav-menu">
-                <li><a href="#">About</a></li>
-                <li><a href="#">Science</a></li>
-                <li><a href="#">Economy</a></li>
-                <li><a href="#">Business</a></li>
+                <li><a href="#">Matches</a></li>
+                <li><a href="#">Transfers</a></li>
+                <li><a href="#">Leagues</a></li>
+                <li><a href="#">Rumors</a></li>
                 <li><a href="#">Contact</a></li>
             </ul>
         </nav>
@@ -522,7 +545,8 @@
     </header>
 
     <section class="hero">
-        <h1>In Tune with Revolutionary Moments</h1>
+        <h1>Your Daily Football Fix</h1>
+        <p class="hero-text">Breaking news, transfer rumors, match reports, and exclusive insights from the world of football.</p>
     </section>
 
     <section class="featured">
@@ -558,9 +582,9 @@
     <section class="categories-section">
         <div class="category-tabs">
             <a href="#" class="category-tab active">All</a>
-            <a href="#" class="category-tab">Science</a>
-            <a href="#" class="category-tab">Economy</a>
-            <a href="#" class="category-tab">Business</a>
+            <a href="#" class="category-tab">Premier League</a>
+            <a href="#" class="category-tab">La Liga</a>
+            <a href="#" class="category-tab">Transfers</a>
         </div>
         <div class="featured-grid">
             <a href="#" class="featured-card">
@@ -589,8 +613,8 @@
 
     <section class="stats-section">
         <div class="stats-header">
-            <h2>Statistically Speaking</h2>
-            <p>Coverage on Market Trends, Industry Innovations, and Strategic Moves</p>
+            <h2>By The Numbers</h2>
+            <p>Coverage on Premier League, Champions League, La Liga, and more</p>
         </div>
         <div class="stats-grid">
             <div class="stat-item">
@@ -609,8 +633,8 @@
     </section>
 
     <section class="newsletter">
-        <h2>Newsletter</h2>
-        <p class="newsletter-text">In Tune with Revolutionary Moments</p>
+        <h2>Never Miss A Goal</h2>
+        <p class="newsletter-text">Get the latest football news delivered to your inbox every morning.</p>
         <form class="newsletter-form" onsubmit="event.preventDefault(); alert('Thank you for subscribing!');">
             <input type="email" placeholder="Enter your email" required>
             <button type="submit">Subscribe</button>
@@ -673,15 +697,15 @@
     <footer class="site-footer">
         <div class="footer-grid">
             <div class="footer-brand">
-                <div class="logo">DISPATCH</div>
-                <p>A minimalist publication template for modern storytellers.</p>
+                <div class="logo">KICKOFF</div>
+                <p>Your daily dose of football news, transfers, and match updates.</p>
             </div>
             <div class="footer-column">
-                <h4>Categories</h4>
+                <h4>Sections</h4>
                 <ul>
-                    <li><a href="#">Science</a></li>
-                    <li><a href="#">Economy</a></li>
-                    <li><a href="#">Business</a></li>
+                    <li><a href="#">Matches</a></li>
+                    <li><a href="#">Transfers</a></li>
+                    <li><a href="#">Rumors</a></li>
                 </ul>
             </div>
             <div class="footer-column">
@@ -702,7 +726,7 @@
             </div>
         </div>
         <div class="footer-bottom">
-            <p>© 2024 Dispatch Dark Edition. All rights reserved.</p>
+            <p>© 2024 KICKOFF Football News. All rights reserved.</p>
             <div class="footer-social">
                 <a href="#"><i class="fab fa-twitter"></i></a>
                 <a href="#"><i class="fab fa-facebook"></i></a>
