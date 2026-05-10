@@ -1,1 +1,853 @@
-<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Dispatch Dark | Minimalist Portfolio</title>\n    <link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css\">\n    <style>\n        :root {\n            --bg-color: #0a0a0a; /* Deep Black */\n            --surface-color: #141414; /* Slightly lighter black/grey */\n            --accent-color: #3b82f6; /* Brand Blue */\n            --text-primary: #ffffff; /* Pure White */\n            --text-secondary: #a1a1aa; /* Muted Grey */\n            --border-color: #27272a; /* Subtle border */\n            --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);\n        }\n\n        * {\n            margin: 0;\n            padding: 0;\n            box-sizing: border-box;\n            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n        }\n\n        body {\n            background-color: var(--bg-color);\n            color: var(--text-primary);\n            line-height: 1.6;\n            -webkit-font-smoothing: antialiased;\n        }\n\n        /* Navigation */\n        nav {\n            display: flex;\n            justify-content: space-between;\n            align-items: center;\n            padding: 2rem 10%;\n            position: sticky;\n            top: 0;\n            z-index: 1000;\n            background-color: rgba(10, 10, 10, 0.8);\n            backdrop-filter: blur(12px);\n            border-bottom: 1px solid var(--border-color);\n        }\n\n        .logo {\n            font-size: 1.4rem;\n            font-weight: 800;\n            letter-spacing: -0.5px;\n            color: var(--text-primary);\n            text-decoration: none;\n            transition: var(--transition);\n        }\n\n        .nav-links {\n            display: flex;\n            gap: 2rem;\n            list-style: none;\n        }\n\n        .nav-links a {\n            color: var(--text-secondary);\n            text-decoration: none;\n            font-size: 0.9rem;\n            font-weight: 500;\n            transition: var(--transition);\n        }\n\n        .nav-links a:hover {\n            color: var(--text-primary);\n        }\n\n        /* Hero Section */\n        .hero {\n            padding: 8rem 10% 6rem 10%;\n            text-align: center;\n            max-width: 1100px;\n            margin: 0 auto;\n        }\n\n        .hero h1 {\n            font-size: 4.5rem;\n            line-height: 1.1;\n            margin-bottom: 1.5rem;\n            font-weight: 800;\n            letter-spacing: -2px;\n        }\n\n        .hero p {\n            font-size: 1.25rem;\n            color: var(--text-secondary);\n            max-width: 600px;\n            margin: 0 auto 3rem auto;\n        }\n\n        .btn {\n            display: inline-block;\n            padding: 1rem 2rem;\n            border-radius: 8px;\n            text-decoration: none;\n            font-weight: 600;\n            transition: var(--transition);\n            cursor: pointer;\n        }\n\n        .btn-primary {\n            background-color: var(--accent-color);\n            color: white;\n        }\n\n        .btn-primary:hover {\n            background-color: #2563eb;\n            transform: translateY(-2px);\n        }\n\n        /* Projects Grid */\n        .projects-grid {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));\n            gap: 2rem;\n            padding: 2rem 10% 8rem 10%;\n        }\n\n        .project-card {\n            background-color: var(--surface-color);\n            border: 1px solid var(--border-color);\n            border-radius: 20px;\n            overflow: hidden;\n            text-decoration: none;\n            color: inherit;\n            transition: var(--transition);\n            display: block;\n        }\n\n        .project-card:hover {\n            transform: translateY(-10px);\n            border-color: var(--accent-color);\n            box-shadow: 0 20px 40px rgba(0,0,0,0.4);\n        }\n\n        .project-img {\n            width: 100%;\n            height: 320px;\n            background-color: #1e1e1e;\n            object-fit: cover;\n            transition: var(--transition);\n        }\n\n        .project-info {\n            padding: 2rem;\n        }\n\n        .project-info h3 {\n            font-size: 1.6rem;\n            margin-bottom: 0.5rem;\n            font-weight: 700;\n        }\n\n        .project-info p {\n            color: var(--text-secondary);\n            font-size: 1rem;\n            margin-bottom: 1rem;\n        }\n\n        /* Footer */\n        footer {\n            padding: 4rem 10% 2rem 10%;\n            border-top: 1px solid var(--border-color);\n            text-align: center;\n            color: var(--text-secondary);\n            font-size: 0.9rem;\n        }\n\n        /* Responsive Design */\n        @media (max-width: 992px) {\n            .projects-grid {\n                grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));\n            }\n        }\n\n        @media (max-width: 768px) {\n            .hero h1 {\n                font-size: 3rem;\n            }\n            .hero p {\n                font-size: 1.1rem;\n            }\n            nav {\n                padding: 2rem 5%;\n            }\n            .projects-grid {\n                padding: 2rem 5% 8rem 5%;\n            }\n        }\n    </style>\n</head>\n<body>\n\n    <nav>\n        <a href=\"#\" class=\"logo\">DISPATCH.DARK</a>\n        <ul class=\"nav-links\">\n            <li><a href=\"#projects\">Work</a></li>\n            <li><a href=\"#about\">About</a></li>\n            <li><a href=\"#contact\">Contact</a></li>\n        </ul>\n    </nav>\n\n    <section class=\"hero\">\n        <h1>Designing the future <br>of digital products.</h1>\n        <p>I build scalable, high-performance interfaces that blend aesthetics with utility for modern tech companies.</p>\n        <a href=\"#projects\" class=\"btn btn-primary\">View Projects</a>\n    </section>\n\n    <section id=\"projects\" class=\"projects-grid\">\n        <!-- Project 1 -->\n        <a href=\"#\" class=\"project-card\">\n            <img src=\"https://via.placeholder.com/600x400/1a1a1a/ffffff?text=Project+One\" class=\"project-img\" alt=\"Project 1\">\n            <div class=\"project-info\">\n                <h3>Fintech App Design</h3>\n                <p>UI/UX Design, Branding, Mobile Development</p>\n            </div>\n        </a>\n\n        <!-- Project 2 -->\n        <a href=\"#\" class=\"project-card\">\n            <div class=\"project-img\" style=\"background-color: #252525; display: flex; align-items: center; justify-content: center;\">\n                 <i class=\"fas fa-layer-group\" style=\"font-size: 4rem; color: var(--accent-color);\"></i>\n            </div>\n            <div class=\"project-info\">\n                <h3>SaaS Dashboard</h3>\n                <p>UI/UX Design, B2B, Web Application</p>\n            </div>\n        </a>\n\n        <!-- Project 3 -->\n        <a href=\"#\" class=\"project-card\">\n            <img src=\"https://via.placeholder.com/600x400/1a1a1a/ffffff?text=Project+Three\" class=\"project-img\" alt=\"Project 3\">\n            <div class=\"project-info\">\n                <h3>E-commerce Platform</h3>\n                <p>UI/UX Design, Web Platform, User Research</p>\n            </div>\n        </a>\n\n        <!-- Project 4 -->\n        <a href=\"#\" class=\"project-info\" style=\"background-color: var(--surface-color); border: 1px solid var(--border-color); border-radius: 20px; padding: 2rem; display: block; text-decoration: none; color: inherit;\">\n            <div class=\"project-info\">\n                <h3>AI Content Generator</h3>\n                <p>UI/UX Design, Artificial Intelligence, Tooling</p>\n            </div>\n        </a>\n    </section>\n\n    <footer>\n        <p>&copy; 2024 Dispatch Dark Edition. Crafted by Your Name.</p>\n    </footer>\n\n</body>\n</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dispatch | Dark Edition</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-primary: #0a0a0a;
+            --bg-secondary: #111111;
+            --bg-tertiary: #1a1a1a;
+            --surface: #141414;
+            --border: #27272a;
+            --border-light: #3f3f46;
+            --accent: #3b82f6;
+            --accent-hover: #2563eb;
+            --text-primary: #fafafa;
+            --text-secondary: #a1a1aa;
+            --text-muted: #71717a;
+            --gradient: linear-gradient(135deg, #3b82f6 0%, #8b5cf6 100%);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            background-color: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        a {
+            text-decoration: none;
+            color: inherit;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 0 5%;
+        }
+
+        /* Navigation */
+        nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 1.5rem 5%;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+            background: rgba(10, 10, 10, 0.85);
+            backdrop-filter: blur(20px);
+            border-bottom: 1px solid var(--border);
+        }
+
+        .logo {
+            font-size: 1.5rem;
+            font-weight: 800;
+            letter-spacing: -1px;
+            background: var(--gradient);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 2.5rem;
+            list-style: none;
+        }
+
+        .nav-links a {
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+            font-weight: 500;
+            transition: all 0.3s ease;
+            position: relative;
+        }
+
+        .nav-links a:hover {
+            color: var(--text-primary);
+        }
+
+        .nav-links a::after {
+            content: '';
+            position: absolute;
+            bottom: -4px;
+            left: 0;
+            width: 0;
+            height: 2px;
+            background: var(--accent);
+            transition: width 0.3s ease;
+        }
+
+        .nav-links a:hover::after {
+            width: 100%;
+        }
+
+        /* Hero Section */
+        .hero {
+            padding: 6rem 5%;
+            text-align: center;
+            background: radial-gradient(ellipse at top, rgba(59, 130, 246, 0.15) 0%, transparent 60%);
+        }
+
+        .hero h1 {
+            font-size: 4rem;
+            font-weight: 800;
+            letter-spacing: -2px;
+            line-height: 1.1;
+            margin-bottom: 1.5rem;
+        }
+
+        .hero h1 span {
+            background: var(--gradient);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .hero p {
+            font-size: 1.25rem;
+            color: var(--text-secondary);
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        /* Featured Posts */
+        .featured {
+            padding: 4rem 5%;
+        }
+
+        .section-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 3rem;
+        }
+
+        .section-title {
+            font-size: 2rem;
+            font-weight: 700;
+            letter-spacing: -1px;
+        }
+
+        .featured-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 2rem;
+        }
+
+        .featured-card {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            overflow: hidden;
+            transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        .featured-card:hover {
+            transform: translateY(-8px);
+            border-color: var(--accent);
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+        }
+
+        .featured-img {
+            width: 100%;
+            height: 220px;
+            background: var(--bg-tertiary);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+        }
+
+        .featured-img img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .featured-img .placeholder-icon {
+            font-size: 3rem;
+            color: var(--text-muted);
+        }
+
+        .featured-content {
+            padding: 1.5rem;
+        }
+
+        .category-tag {
+            display: inline-block;
+            padding: 0.25rem 0.75rem;
+            background: rgba(59, 130, 246, 0.15);
+            color: var(--accent);
+            font-size: 0.75rem;
+            font-weight: 600;
+            border-radius: 4px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 0.75rem;
+        }
+
+        .featured-content h3 {
+            font-size: 1.25rem;
+            font-weight: 700;
+            margin-bottom: 0.75rem;
+            line-height: 1.3;
+        }
+
+        .featured-content .meta {
+            font-size: 0.85rem;
+            color: var(--text-muted);
+        }
+
+        /* Categories Section */
+        .categories {
+            padding: 4rem 5%;
+            background: var(--bg-secondary);
+        }
+
+        .categories-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 2rem;
+        }
+
+        .category-card {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            padding: 2rem;
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+
+        .category-card:hover {
+            border-color: var(--accent);
+            transform: translateY(-4px);
+        }
+
+        .category-icon {
+            width: 50px;
+            height: 50px;
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+        }
+
+        .category-card.science .category-icon {
+            background: rgba(139, 92, 246, 0.2);
+            color: #8b5cf6;
+        }
+
+        .category-card.economy .category-icon {
+            background: rgba(34, 197, 94, 0.2);
+            color: #22c55e;
+        }
+
+        .category-card.business .category-icon {
+            background: rgba(59, 130, 246, 0.2);
+            color: var(--accent);
+        }
+
+        .category-card h3 {
+            font-size: 1.5rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+        }
+
+        .category-card p {
+            color: var(--text-secondary);
+            font-size: 0.95rem;
+        }
+
+        /* Stats Section */
+        .stats {
+            padding: 5rem 5%;
+            background: var(--bg-secondary);
+            border-top: 1px solid var(--border);
+            border-bottom: 1px solid var(--border);
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 3rem;
+            text-align: center;
+        }
+
+        .stat-item h2 {
+            font-size: 3.5rem;
+            font-weight: 800;
+            background: var(--gradient);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 0.5rem;
+        }
+
+        .stat-item p {
+            color: var(--text-secondary);
+            font-size: 1rem;
+        }
+
+        /* Newsletter */
+        .newsletter {
+            padding: 6rem 5%;
+            background: linear-gradient(180deg, var(--bg-primary) 0%, var(--bg-secondary) 100%);
+        }
+
+        .newsletter-box {
+            max-width: 600px;
+            margin: 0 auto;
+            text-align: center;
+            padding: 3rem;
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 24px;
+        }
+
+        .newsletter-box h2 {
+            font-size: 2rem;
+            font-weight: 700;
+            margin-bottom: 1rem;
+        }
+
+        .newsletter-box p {
+            color: var(--text-secondary);
+            margin-bottom: 2rem;
+        }
+
+        .newsletter-form {
+            display: flex;
+            gap: 1rem;
+        }
+
+        .newsletter-form input {
+            flex: 1;
+            padding: 1rem 1.5rem;
+            background: var(--bg-primary);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            color: var(--text-primary);
+            font-size: 1rem;
+            outline: none;
+            transition: border-color 0.3s ease;
+        }
+
+        .newsletter-form input:focus {
+            border-color: var(--accent);
+        }
+
+        .newsletter-form input::placeholder {
+            color: var(--text-muted);
+        }
+
+        .newsletter-form button {
+            padding: 1rem 2rem;
+            background: var(--accent);
+            color: white;
+            border: none;
+            border-radius: 12px;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .newsletter-form button:hover {
+            background: var(--accent-hover);
+            transform: translateY(-2px);
+        }
+
+        /* All Posts Section */
+        .all-posts {
+            padding: 6rem 5%;
+        }
+
+        .posts-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 2rem;
+        }
+
+        .post-card {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            overflow: hidden;
+            transition: all 0.3s ease;
+        }
+
+        .post-card:hover {
+            transform: translateY(-6px);
+            border-color: var(--accent);
+            box-shadow: 0 16px 32px rgba(0, 0, 0, 0.3);
+        }
+
+        .post-img {
+            width: 100%;
+            height: 180px;
+            background: var(--bg-tertiary);
+        }
+
+        .post-content {
+            padding: 1.5rem;
+        }
+
+        .post-content h3 {
+            font-size: 1.1rem;
+            font-weight: 700;
+            margin-bottom: 0.75rem;
+            line-height: 1.4;
+        }
+
+        .post-content .meta {
+            font-size: 0.8rem;
+            color: var(--text-muted);
+        }
+
+        /* Footer */
+        footer {
+            padding: 4rem 5% 2rem;
+            background: var(--bg-secondary);
+            border-top: 1px solid var(--border);
+        }
+
+        .footer-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 3rem;
+        }
+
+        .footer-brand {
+            max-width: 300px;
+        }
+
+        .footer-brand .logo {
+            margin-bottom: 1rem;
+            display: inline-block;
+        }
+
+        .footer-brand p {
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+        }
+
+        .footer-links {
+            display: flex;
+            gap: 4rem;
+        }
+
+        .footer-column h4 {
+            font-size: 1rem;
+            font-weight: 700;
+            margin-bottom: 1.25rem;
+            color: var(--text-primary);
+        }
+
+        .footer-column ul {
+            list-style: none;
+        }
+
+        .footer-column li {
+            margin-bottom: 0.75rem;
+        }
+
+        .footer-column a {
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+            transition: color 0.3s ease;
+        }
+
+        .footer-column a:hover {
+            color: var(--accent);
+        }
+
+        .social-links {
+            display: flex;
+            gap: 1rem;
+            margin-top: 2rem;
+        }
+
+        .social-links a {
+            width: 40px;
+            height: 40px;
+            border-radius: 10px;
+            background: var(--surface);
+            border: 1px solid var(--border);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: var(--text-secondary);
+            transition: all 0.3s ease;
+        }
+
+        .social-links a:hover {
+            background: var(--accent);
+            border-color: var(--accent);
+            color: white;
+        }
+
+        .footer-bottom {
+            padding-top: 2rem;
+            border-top: 1px solid var(--border);
+            text-align: center;
+            color: var(--text-muted);
+            font-size: 0.85rem;
+        }
+
+        /* Responsive */
+        @media (max-width: 1200px) {
+            .featured-grid,
+            .categories-grid,
+            .posts-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+
+        @media (max-width: 768px) {
+            .hero h1 {
+                font-size: 2.5rem;
+            }
+
+            .nav-links {
+                display: none;
+            }
+
+            .featured-grid,
+            .categories-grid,
+            .posts-grid,
+            .stats-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .newsletter-form {
+                flex-direction: column;
+            }
+
+            .footer-content {
+                flex-direction: column;
+                gap: 2rem;
+            }
+
+            .footer-links {
+                flex-wrap: wrap;
+                gap: 2rem;
+            }
+
+            .stat-item h2 {
+                font-size: 2.5rem;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <nav>
+        <a href="#" class="logo">DISPATCH</a>
+        <ul class="nav-links">
+            <li><a href="#about">About</a></li>
+            <li><a href="#science">Science</a></li>
+            <li><a href="#economy">Economy</a></li>
+            <li><a href="#business">Business</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section class="hero">
+        <h1>In Tune with <span>Revolutionary Moments</span></h1>
+        <p>Exploring the intersection of ideas, innovation, and insight that shapes our world.</p>
+    </section>
+
+    <section class="featured">
+        <div class="section-header">
+            <h2 class="section-title">Featured Stories</h2>
+            <a href="#" style="color: var(--accent); font-weight: 600;">View All →</a>
+        </div>
+        <div class="featured-grid">
+            <a href="#" class="featured-card">
+                <div class="featured-img">
+                    <i class="fas fa-chart-line placeholder-icon"></i>
+                </div>
+                <div class="featured-content">
+                    <span class="category-tag">Business</span>
+                    <h3>The Future of Business and Innovation</h3>
+                    <span class="meta">Aug 25, 2024</span>
+                </div>
+            </a>
+            <a href="#" class="featured-card">
+                <div class="featured-img">
+                    <i class="fas fa-lightbulb placeholder-icon"></i>
+                </div>
+                <div class="featured-content">
+                    <span class="category-tag">Science</span>
+                    <h3>Exploring New Frontiers of Creativity</h3>
+                    <span class="meta">Feb 2, 2024</span>
+                </div>
+            </a>
+            <a href="#" class="featured-card">
+                <div class="featured-img">
+                    <i class="fas fa-rocket placeholder-icon"></i>
+                </div>
+                <div class="featured-content">
+                    <span class="category-tag">Business</span>
+                    <h3>Transforming Visions Into Solutions for Your Business</h3>
+                    <span class="meta">Jul 15, 2024</span>
+                </div>
+            </a>
+        </div>
+    </section>
+
+    <section class="categories" id="about">
+        <div class="section-header">
+            <h2 class="section-title">Explore Categories</h2>
+        </div>
+        <div class="categories-grid">
+            <a href="#science" class="category-card science">
+                <div class="category-icon">
+                    <i class="fas fa-atom"></i>
+                </div>
+                <h3>Science</h3>
+                <p>Discover breakthroughs and innovations shaping tomorrow.</p>
+            </a>
+            <a href="#economy" class="category-card economy">
+                <div class="category-icon">
+                    <i class="fas fa-chart-pie"></i>
+                </div>
+                <h3>Economy</h3>
+                <p>Insights into market trends and economic shifts.</p>
+            </a>
+            <a href="#business" class="category-card business">
+                <div class="category-icon">
+                    <i class="fas fa-briefcase"></i>
+                </div>
+                <h3>Business</h3>
+                <p>Strategies and stories from the business world.</p>
+            </a>
+        </div>
+    </section>
+
+    <section class="stats">
+        <div class="stats-grid">
+            <div class="stat-item">
+                <h2>120k</h2>
+                <p>New subscribers</p>
+            </div>
+            <div class="stat-item">
+                <h2>6.3k</h2>
+                <p>Articles published</p>
+            </div>
+            <div class="stat-item">
+                <h2>+44%</h2>
+                <p>Traffic increased</p>
+            </div>
+            <div class="stat-item">
+                <h2>50+</h2>
+                <p>Contributors</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="all-posts" id="economy">
+        <div class="section-header">
+            <h2 class="section-title">Economy</h2>
+        </div>
+        <div class="posts-grid">
+            <a href="#" class="post-card">
+                <div class="post-img" style="background: linear-gradient(135deg, #134e4a 0%, #0a0f0d 100%);"></div>
+                <div class="post-content">
+                    <span class="category-tag" style="background: rgba(34, 197, 94, 0.15); color: #22c55e;">Economy</span>
+                    <h3>Refined Style Insights</h3>
+                    <span class="meta">Apr 10, 2024</span>
+                </div>
+            </a>
+            <a href="#" class="post-card">
+                <div class="post-img" style="background: linear-gradient(135deg, #1e1b4b 0%, #0c0a1d 100%);"></div>
+                <div class="post-content">
+                    <span class="category-tag" style="background: rgba(34, 197, 94, 0.15); color: #22c55e;">Economy</span>
+                    <h3>Abstract Horizons</h3>
+                    <span class="meta">Aug 31, 2022</span>
+                </div>
+            </a>
+            <a href="#" class="post-card">
+                <div class="post-img" style="background: linear-gradient(135deg, #1f2937 0%, #111827 100%);"></div>
+                <div class="post-content">
+                    <span class="category-tag" style="background: rgba(34, 197, 94, 0.15); color: #22c55e;">Economy</span>
+                    <h3>Chic Living Daily</h3>
+                    <span class="meta">Jun 20, 2022</span>
+                </div>
+            </a>
+        </div>
+    </section>
+
+    <section class="newsletter" id="contact">
+        <div class="newsletter-box">
+            <h2>Stay in the Loop</h2>
+            <p>Join our newsletter for weekly insights and groundbreaking stories.</p>
+            <form class="newsletter-form" onsubmit="event.preventDefault(); alert('Thanks for subscribing!');">
+                <input type="email" placeholder="Enter your email" required>
+                <button type="submit">Subscribe</button>
+            </form>
+        </div>
+    </section>
+
+    <section class="all-posts" id="business">
+        <div class="section-header">
+            <h2 class="section-title">Business</h2>
+        </div>
+        <div class="posts-grid">
+            <a href="#" class="post-card">
+                <div class="post-img" style="background: linear-gradient(135deg, #1e3a5f 0%, #0f172a 100%);"></div>
+                <div class="post-content">
+                    <span class="category-tag">Business</span>
+                    <h3>The Future of Business and Innovation</h3>
+                    <span class="meta">Aug 25, 2021</span>
+                </div>
+            </a>
+            <a href="#" class="post-card">
+                <div class="post-img" style="background: linear-gradient(135deg, #2d1b4e 0%, #1a1a2e 100%);"></div>
+                <div class="post-content">
+                    <span class="category-tag">Business</span>
+                    <h3>Mastering Form, Function, and Flow</h3>
+                    <span class="meta">Aug 9, 2021</span>
+                </div>
+            </a>
+            <a href="#" class="post-card">
+                <div class="post-img" style="background: linear-gradient(135deg, #0f0f23 0%, #1a1a2e 100%);"></div>
+                <div class="post-content">
+                    <span class="category-tag">Business</span>
+                    <h3>Polished to Perfection</h3>
+                    <span class="meta">Jun 9, 2023</span>
+                </div>
+            </a>
+        </div>
+    </section>
+
+    <section class="all-posts" id="science">
+        <div class="section-header">
+            <h2 class="section-title">Latest Stories</h2>
+        </div>
+        <div class="posts-grid">
+            <a href="#" class="post-card">
+                <div class="post-img" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);"></div>
+                <div class="post-content">
+                    <span class="category-tag">Science</span>
+                    <h3>Trends and Inspiration</h3>
+                    <span class="meta">Nov 22, 2024</span>
+                </div>
+            </a>
+            <a href="#" class="post-card">
+                <div class="post-img" style="background: linear-gradient(135deg, #2d1b4e 0%, #1a1a2e 100%);"></div>
+                <div class="post-content">
+                    <span class="category-tag">Science</span>
+                    <h3>Insights into the World of Design</h3>
+                    <span class="meta">Oct 14, 2024</span>
+                </div>
+            </a>
+            <a href="#" class="post-card">
+                <div class="post-img" style="background: linear-gradient(135deg, #1b2838 0%, #0f0f0f 100%);"></div>
+                <div class="post-content">
+                    <span class="category-tag">Science</span>
+                    <h3>Crafting Tomorrow's World</h3>
+                    <span class="meta">Mar 7, 2024</span>
+                </div>
+            </a>
+            <a href="#" class="post-card">
+                <div class="post-img" style="background: linear-gradient(135deg, #1e3a5f 0%, #0f172a 100%);"></div>
+                <div class="post-content">
+                    <span class="category-tag">Science</span>
+                    <h3>The Power of Thoughtful Design</h3>
+                    <span class="meta">Apr 14, 2023</span>
+                </div>
+            </a>
+            <a href="#" class="post-card">
+                <div class="post-img" style="background: linear-gradient(135deg, #2c3e50 0%, #1a1a1a 100%);"></div>
+                <div class="post-content">
+                    <span class="category-tag">Business</span>
+                    <h3>Expressions Unveiled</h3>
+                    <span class="meta">Sep 14, 2024</span>
+                </div>
+            </a>
+            <a href="#" class="post-card">
+                <div class="post-img" style="background: linear-gradient(135deg, #1c1c1c 0%, #0a0a0a 100%);"></div>
+                <div class="post-content">
+                    <span class="category-tag">Business</span>
+                    <h3>Masterpiece Insights</h3>
+                    <span class="meta">Nov 21, 2023</span>
+                </div>
+            </a>
+        </div>
+    </section>
+
+    <footer>
+        <div class="footer-content">
+            <div class="footer-brand">
+                <a href="#" class="logo">DISPATCH</a>
+                <p>Your daily dose of insights into science, economy, and business.</p>
+                <div class="social-links">
+                    <a href="#"><i class="fab fa-twitter"></i></a>
+                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                </div>
+            </div>
+            <div class="footer-links">
+                <div class="footer-column">
+                    <h4>Categories</h4>
+                    <ul>
+                        <li><a href="#science">Science</a></li>
+                        <li><a href="#economy">Economy</a></li>
+                        <li><a href="#business">Business</a></li>
+                    </ul>
+                </div>
+                <div class="footer-column">
+                    <h4>Company</h4>
+                    <ul>
+                        <li><a href="#about">About</a></li>
+                        <li><a href="#contact">Contact</a></li>
+                        <li><a href="#">Careers</a></li>
+                    </ul>
+                </div>
+                <div class="footer-column">
+                    <h4>Legal</h4>
+                    <ul>
+                        <li><a href="#">Privacy</a></li>
+                        <li><a href="#">Terms</a></li>
+                        <li><a href="#">Cookies</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>© 2024 Dispatch Dark Edition. All rights reserved.</p>
+        </div>
+    </footer>
+
+</body>
+</html>
