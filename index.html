@@ -55,8 +55,8 @@
             justify-content: space-between;
             align-items: center;
             padding: 20px 40px;
-            border-bottom: 1px solid var(--border);
-            background: var(--bg-primary);
+            border-bottom: 1px solid #e5e5e5;
+            background: #ffffff;
             position: sticky;
             top: 0;
             z-index: 100;
@@ -76,7 +76,7 @@
         }
 
         .nav-menu a {
-            color: var(--text-secondary);
+            color: #333333;
             font-size: 0.9rem;
             font-weight: 500;
             text-transform: capitalize;
@@ -94,14 +94,18 @@
         }
 
         .nav-right a {
-            color: var(--text-secondary);
+            color: #333333;
             font-size: 1.1rem;
             transition: color 0.3s ease;
         }
 
         .nav-right a:hover {
-            color: #25D366;
+            color: #1DA851;
         }
+
+        .nav-right a:hover.fa-twitter { color: #1DA1F2; }
+        .nav-right a:hover.fa-facebook { color: #1877F2; }
+        .nav-right a:hover.fa-linkedin { color: #0A66C2; }
 
         /* Featured */
         .featured {
@@ -666,6 +670,10 @@
             color: var(--text-primary);
         }
 
+        .footer-social a:hover.fa-twitter { color: #1DA1F2; }
+        .footer-social a:hover.fa-facebook { color: #1877F2; }
+        .footer-social a:hover.fa-linkedin { color: #0A66C2; }
+
         /* Responsive */
         @media (max-width: 1200px) {
             .featured-grid,
@@ -1033,7 +1041,7 @@
             </div>
         </div>
         <div class="footer-bottom">
-            <p>© 2024 KICKOFF Football News. All rights reserved.</p>
+            <p>© 2026 KICKOFF Football News. All rights reserved.</p>
             <div class="footer-social">
                 <a href="#"><i class="fab fa-twitter"></i></a>
                 <a href="#"><i class="fab fa-facebook"></i></a>
