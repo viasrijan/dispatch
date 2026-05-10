@@ -56,7 +56,7 @@
             align-items: center;
             padding: 20px 40px;
             border-bottom: 1px solid var(--border);
-            background: #ffffff;
+            background: var(--bg-primary);
             position: sticky;
             top: 0;
             z-index: 100;
@@ -76,7 +76,7 @@
         }
 
         .nav-menu a {
-            color: #0a0a0a;
+            color: var(--text-secondary);
             font-size: 0.9rem;
             font-weight: 500;
             text-transform: capitalize;
@@ -94,7 +94,7 @@
         }
 
         .nav-right a {
-            color: #0a0a0a;
+            color: var(--text-secondary);
             font-size: 1.1rem;
             transition: color 0.3s ease;
         }
@@ -141,6 +141,209 @@
         /* Featured */
         .featured {
             padding: 60px 40px;
+        }
+
+        /* Slider */
+        .slider-container {
+            display: grid;
+            grid-template-columns: 2fr 1fr;
+            gap: 32px;
+            margin-bottom: 60px;
+        }
+
+        .slider-main {
+            position: relative;
+            overflow: hidden;
+            border-radius: 16px;
+        }
+
+        .slider-track {
+            display: flex;
+            transition: transform 0.5s ease;
+        }
+
+        .slide {
+            min-width: 100%;
+            position: relative;
+        }
+
+        .slide-image {
+            width: 100%;
+            height: 400px;
+            background: var(--surface);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .slide-image img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .slide-placeholder {
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(135deg, var(--bg-tertiary) 0%, var(--surface) 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .slide-placeholder i {
+            font-size: 4rem;
+            color: var(--text-muted);
+        }
+
+        .slide-content {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            padding: 40px;
+            background: linear-gradient(180deg, transparent 0%, rgba(0,0,0,0.9) 100%);
+        }
+
+        .slide-meta {
+            font-size: 0.8rem;
+            color: #25D366;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 8px;
+        }
+
+        .slide-title {
+            font-size: 1.8rem;
+            font-weight: 700;
+            line-height: 1.3;
+            color: white;
+        }
+
+        .slider-nav {
+            display: flex;
+            gap: 8px;
+            position: absolute;
+            bottom: 20px;
+            right: 20px;
+        }
+
+        .slider-dot {
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            background: rgba(255,255,255,0.5);
+            cursor: pointer;
+            transition: background 0.3s ease;
+        }
+
+        .slider-dot.active {
+            background: #25D366;
+        }
+
+        /* Bulletin Card */
+        .bulletin-card {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            padding: 32px;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .bulletin-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 24px;
+            padding-bottom: 16px;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .bulletin-title {
+            font-size: 1.2rem;
+            font-weight: 700;
+        }
+
+        .bulletin-badge {
+            background: #25D366;
+            color: white;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.75rem;
+            font-weight: 600;
+        }
+
+        .bulletin-list {
+            list-style: none;
+            flex: 1;
+        }
+
+        .bulletin-item {
+            padding: 16px 0;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .bulletin-item:last-child {
+            border-bottom: none;
+        }
+
+        .bulletin-item a {
+            display: block;
+            transition: color 0.3s ease;
+        }
+
+        .bulletin-item a:hover {
+            color: #25D366;
+        }
+
+        .bulletin-item-title {
+            font-size: 0.95rem;
+            font-weight: 600;
+            line-height: 1.4;
+            margin-bottom: 4px;
+        }
+
+        .bulletin-item-meta {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+        }
+
+        /* Mini Post Grid */
+        .mini-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 24px;
+        }
+
+        .mini-card {
+            display: block;
+        }
+
+        .mini-image {
+            width: 100%;
+            height: 140px;
+            background: var(--surface);
+            border-radius: 12px;
+            margin-bottom: 12px;
+            overflow: hidden;
+        }
+
+        .mini-image-inner {
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(135deg, var(--bg-tertiary) 0%, var(--surface) 100%);
+        }
+
+        .mini-title {
+            font-size: 1rem;
+            font-weight: 600;
+            line-height: 1.4;
+            transition: color 0.3s ease;
+        }
+
+        .mini-card:hover .mini-title {
+            color: #25D366;
         }
 
         .section-header {
@@ -550,34 +753,140 @@
     </section>
 
     <section class="featured">
+        <div class="slider-container">
+            <!-- Slider with 4 posts -->
+            <div class="slider-main">
+                <div class="slider-track" id="sliderTrack">
+                    <div class="slide">
+                        <div class="slide-image">
+                            <div class="slide-placeholder"><i class="fas fa-futbol"></i></div>
+                        </div>
+                        <div class="slide-content">
+                            <div class="slide-meta">Premier League · 2 hours ago</div>
+                            <h3 class="slide-title">Arsenal stun Liverpool in epic 3-2 comeback at the Emirates</h3>
+                        </div>
+                    </div>
+                    <div class="slide">
+                        <div class="slide-image">
+                            <div class="slide-placeholder"><i class="fas fa-handshake"></i></div>
+                        </div>
+                        <div class="slide-content">
+                            <div class="slide-meta">Transfer News · 5 hours ago</div>
+                            <h3 class="slide-title">Barcelona confirm €150M deal for Bundesliga star striker</h3>
+                        </div>
+                    </div>
+                    <div class="slide">
+                        <div class="slide-image">
+                            <div class="slide-placeholder"><i class="fas fa-trophy"></i></div>
+                        </div>
+                        <div class="slide-content">
+                            <div class="slide-meta">Champions League · Yesterday</div>
+                            <h3 class="slide-title">Real Madrid vs Man City: The final set for blockbuster showdown</h3>
+                        </div>
+                    </div>
+                    <div class="slide">
+                        <div class="slide-image">
+                            <div class="slide-placeholder"><i class="fas fa-exclamation-triangle"></i></div>
+                        </div>
+                        <div class="slide-content">
+                            <div class="slide-meta">Injury Update · 1 day ago</div>
+                            <h3 class="slide-title">Star midfielder faces 6 weeks out ahead of crucial fixtures</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="slider-nav">
+                    <span class="slider-dot active" onclick="goToSlide(0)"></span>
+                    <span class="slider-dot" onclick="goToSlide(1)"></span>
+                    <span class="slider-dot" onclick="goToSlide(2)"></span>
+                    <span class="slider-dot" onclick="goToSlide(3)"></span>
+                </div>
+            </div>
+
+            <!-- Bulletin Card -->
+            <div class="bulletin-card">
+                <div class="bulletin-header">
+                    <h3 class="bulletin-title">Latest Headlines</h3>
+                    <span class="bulletin-badge">LIVE</span>
+                </div>
+                <ul class="bulletin-list">
+                    <li class="bulletin-item">
+                        <a href="#">
+                            <div class="bulletin-item-title">PSG submit €80M bid for Manchester United forward</div>
+                            <div class="bulletin-item-meta">Transfer · 10 min ago</div>
+                        </a>
+                    </li>
+                    <li class="bulletin-item">
+                        <a href="#">
+                            <div class="bulletin-item-title">Chelsea manager confirms contract talks with star winger</div>
+                            <div class="bulletin-item-meta">Premier League · 25 min ago</div>
+                        </a>
+                    </li>
+                    <li class="bulletin-item">
+                        <a href="#">
+                            <div class="bulletin-item-title">Bayern Munich complete shock signing from rivals</div>
+                            <div class="bulletin-item-meta">Bundesliga · 1 hour ago</div>
+                        </a>
+                    </li>
+                    <li class="bulletin-item">
+                        <a href="#">
+                            <div class="bulletin-item-title">VAR controversy sparks debate after El Clasico incident</div>
+                            <div class="bulletin-item-meta">La Liga · 2 hours ago</div>
+                        </a>
+                    </li>
+                    <li class="bulletin-item">
+                        <a href="#">
+                            <div class="bulletin-item-title">Juventus reject €60M offer for defensive star</div>
+                            <div class="bulletin-item-meta">Serie A · 3 hours ago</div>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- Mini Grid with 4 more posts -->
         <div class="section-header">
-            <h2 class="section-title">Featured</h2>
+            <h2 class="section-title">Latest Stories</h2>
             <a href="#" class="view-all">View All →</a>
         </div>
-        <div class="featured-grid">
-            <a href="#" class="featured-card">
-                <div class="featured-image">
-                    <div class="featured-placeholder"><i class="fas fa-chart-line"></i></div>
-                </div>
-                <div class="featured-meta">Business · Aug 25</div>
-                <h3 class="featured-title">The Future of Business and Innovation</h3>
+        <div class="mini-grid">
+            <a href="#" class="mini-card">
+                <div class="mini-image"><div class="mini-image-inner"></div></div>
+                <h3 class="mini-title">Inter Milan dominate Milan derby with 3-0 victory</h3>
             </a>
-            <a href="#" class="featured-card">
-                <div class="featured-image">
-                    <div class="featured-placeholder"><i class="fas fa-lightbulb"></i></div>
-                </div>
-                <div class="featured-meta">Science · Feb 2</div>
-                <h3 class="featured-title">Exploring New Frontiers of Creativity</h3>
+            <a href="#" class="mini-card">
+                <div class="mini-image"><div class="mini-image-inner"></div></div>
+                <h3 class="mini-title">Liverpool identify replacement for outgoing midfielder</h3>
             </a>
-            <a href="#" class="featured-card">
-                <div class="featured-image">
-                    <div class="featured-placeholder"><i class="fas fa-rocket"></i></div>
-                </div>
-                <div class="featured-meta">Business · Jul 15</div>
-                <h3 class="featured-title">Transforming Visions Into Solutions for Your Business</h3>
+            <a href="#" class="mini-card">
+                <div class="mini-image"><div class="mini-image-inner"></div></div>
+                <h3 class="mini-title">Haaland scores hat-trick as City thrash opponents 5-0</h3>
+            </a>
+            <a href="#" class="mini-card">
+                <div class="mini-image"><div class="mini-image-inner"></div></div>
+                <h3 class="mini-title">Messi return to Barcelona? President gives major update</h3>
             </a>
         </div>
     </section>
+
+    <script>
+        let currentSlide = 0;
+        const totalSlides = 4;
+
+        function goToSlide(index) {
+            currentSlide = index;
+            const track = document.getElementById('sliderTrack');
+            track.style.transform = `translateX(-${index * 100}%)`;
+            
+            document.querySelectorAll('.slider-dot').forEach((dot, i) => {
+                dot.classList.toggle('active', i === index);
+            });
+        }
+
+        setInterval(() => {
+            currentSlide = (currentSlide + 1) % totalSlides;
+            goToSlide(currentSlide);
+        }, 5000);
+    </script>
 
     <section class="categories-section">
         <div class="category-tabs">
@@ -643,53 +952,53 @@
 
     <section class="publications">
         <div class="section-header">
-            <h2 class="section-title">All Publications</h2>
+            <h2 class="section-title">More Stories</h2>
         </div>
         <div class="publications-grid">
             <a href="#" class="pub-card">
                 <div class="pub-image"><div class="pub-image-inner"></div></div>
-                <div class="pub-meta">Economy · Jul 15, 2024</div>
-                <h3 class="pub-title">Transforming Visions Into Solutions for Your Business</h3>
+                <div class="pub-meta">Transfers · Dec 5, 2024</div>
+                <h3 class="pub-title">Top 10 most impactful transfers of the season</h3>
             </a>
             <a href="#" class="pub-card">
                 <div class="pub-image"><div class="pub-image-inner"></div></div>
-                <div class="pub-meta">Science · Nov 22, 2024</div>
-                <h3 class="pub-title">Trends and Inspiration</h3>
+                <div class="pub-meta">Premier League · Dec 4, 2024</div>
+                <h3 class="pub-title">Manchester City extend lead at top of the table</h3>
             </a>
             <a href="#" class="pub-card">
                 <div class="pub-image"><div class="pub-image-inner"></div></div>
-                <div class="pub-meta">Business · Sep 14, 2024</div>
-                <h3 class="pub-title">Expressions Unveiled</h3>
+                <div class="pub-meta">Analysis · Dec 3, 2024</div>
+                <h3 class="pub-title">Why tactical flexibility is the new manager's must-have skill</h3>
             </a>
             <a href="#" class="pub-card">
                 <div class="pub-image"><div class="pub-image-inner"></div></div>
-                <div class="pub-meta">Economy · Apr 10, 2024</div>
-                <h3 class="pub-title">Refined Style Insights</h3>
+                <div class="pub-meta">La Liga · Dec 2, 2024</div>
+                <h3 class="pub-title">Atletico Madrid's title charge surprises experts</h3>
             </a>
             <a href="#" class="pub-card">
                 <div class="pub-image"><div class="pub-image-inner"></div></div>
-                <div class="pub-meta">Science · Feb 17, 2024</div>
-                <h3 class="pub-title">Exploring Functionality in Everyday Design</h3>
+                <div class="pub-meta">Interviews · Dec 1, 2024</div>
+                <h3 class="pub-title">Exclusive: Rising star on his dream move to European giants</h3>
             </a>
             <a href="#" class="pub-card">
                 <div class="pub-image"><div class="pub-image-inner"></div></div>
-                <div class="pub-meta">Business · Nov 21, 2023</div>
-                <h3 class="pub-title">Masterpiece Insights</h3>
+                <div class="pub-meta">Rumors · Nov 30, 2024</div>
+                <h3 class="pub-title">Which club will land the wonderkid from South America?</h3>
             </a>
             <a href="#" class="pub-card">
                 <div class="pub-image"><div class="pub-image-inner"></div></div>
-                <div class="pub-meta">Science · Oct 14, 2021</div>
-                <h3 class="pub-title">Insights into the World of Design</h3>
+                <div class="pub-meta">Champions League · Nov 29, 2024</div>
+                <h3 class="pub-title">European powerhouses book their place in knockout stages</h3>
             </a>
             <a href="#" class="pub-card">
                 <div class="pub-image"><div class="pub-image-inner"></div></div>
-                <div class="pub-meta">Economy · Aug 31, 2022</div>
-                <h3 class="pub-title">Abstract Horizons</h3>
+                <div class="pub-meta">Premier League · Nov 28, 2024</div>
+                <h3 class="pub-title">Derby day drama: 5 things we learned from this weekend's action</h3>
             </a>
             <a href="#" class="pub-card">
                 <div class="pub-image"><div class="pub-image-inner"></div></div>
-                <div class="pub-meta">Business · Jul 26, 2021</div>
-                <h3 class="pub-title">Sculpting the Imagination Exploring Artistic Expressions</h3>
+                <div class="pub-meta">Opinion · Nov 27, 2024</div>
+                <h3 class="pub-title">Is VAR helping or hurting the beautiful game?</h3>
             </a>
         </div>
     </section>
