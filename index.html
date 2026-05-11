@@ -120,120 +120,140 @@ max-width: 1200px;
 
         /* Featured */
         .featured {
-            padding: 60px 32px;
+            padding: 0;
         }
 
-        /* Slider */
-        .slider-container {
-            margin-bottom: 60px;
-        }
-
-        .slider-main {
+        .featured-hero {
             position: relative;
             overflow: hidden;
-            border-radius: 8px;
-            max-width: 100%;
+            background: var(--bg-primary);
         }
 
-        .slider-main:hover .slider-arrow {
-            opacity: 1;
-        }
-
-        .slider-track {
-            display: flex;
-            transition: transform 0.5s ease;
-        }
-
-        .slide {
-            min-width: 100%;
-            position: relative;
-            aspect-ratio: 16/9;
-        }
-
-        .slide-image {
+        .featured-hero-image {
             width: 100%;
-            height: 100%;
-            background: var(--surface);
-            display: flex;
-            align-items: center;
-            justify-content: center;
+            height: 600px;
+            overflow: hidden;
         }
 
-        .slide-image img {
+        .featured-hero-image img {
             width: 100%;
             height: 100%;
             object-fit: cover;
         }
 
-        .slide-placeholder {
-            width: 100%;
-            height: 100%;
-            background: linear-gradient(135deg, var(--bg-tertiary) 0%, var(--surface) 100%);
-            display: flex;
-            align-items: center;
-            justify-content: center;
+        .featured-hero-content {
+            padding: 60px 32px;
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            color: #000;
         }
 
-        .slide-placeholder i {
-            font-size: 4rem;
-            color: var(--text-muted);
+        .featured-hero-title {
+            font-size: 3.2rem;
+            font-weight: 700;
+            line-height: 1.2;
+            margin: 0 0 20px 0;
+            color: #000;
+        }
+
+        .featured-hero-description {
+            font-size: 1.1rem;
+            color: #666;
+            margin: 0;
+            max-width: 600px;
+        }
+
+        .featured-related {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 40px;
+            padding: 60px 32px;
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+        }
+
+        .related-article {
+            display: block;
+            cursor: pointer;
+            transition: transform 0.3s ease;
+        }
+
+        .related-article:hover {
+            transform: translateY(-4px);
+        }
+
+        .related-image {
+            width: 100%;
+            height: 350px;
+            overflow: hidden;
+            margin-bottom: 24px;
+            border-radius: 4px;
+        }
+
+        .related-image img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.3s ease;
+        }
+
+        .related-article:hover .related-image img {
+            transform: scale(1.05);
+        }
+
+        .related-title {
+            font-size: 1.8rem;
+            font-weight: 700;
+            line-height: 1.3;
+            margin: 0 0 12px 0;
+            color: #000;
+        }
+
+        .related-date {
+            font-size: 0.85rem;
+            color: #999;
+            margin: 0;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        /* Old slider styles - hidden */
+        .slider-container {
+            display: none;
+        }
+
+        .slider-main {
+            display: none;
+        }
+
+        .slider-track {
+            display: none;
+        }
+
+        .slide {
+            display: none;
+        }
+
+        .slide-image {
+            display: none;
         }
 
         .slide-content {
-            position: absolute;
-            bottom: 0;
-            left: 0;
-            right: 0;
-            padding: 24px;
-            background: rgba(0, 0, 0, 0.6);
-            backdrop-filter: blur(8px);
+            display: none;
         }
 
         .slide-meta {
-            font-size: 0.75rem;
-            color: var(--text-secondary);
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
-            margin-bottom: 6px;
+            display: none;
         }
 
         .slide-title {
-            font-size: 1.4rem;
-            font-weight: 600;
-            line-height: 1.3;
-            color: white;
-            margin: 0;
+            display: none;
         }
 
         .slider-arrow {
-            position: absolute;
-            top: 50%;
-            transform: translateY(-50%);
-            width: 50px;
-            height: 50px;
-            background: rgba(255, 255, 255, 0.2);
-            border: none;
-            color: white;
-            font-size: 24px;
-            cursor: pointer;
-            transition: all 0.3s ease;
-            opacity: 0;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            z-index: 10;
-        }
-
-        .slider-arrow:hover {
-            background: rgba(255, 255, 255, 0.4);
-        }
-
-        .slider-arrow.prev {
-            left: 12px;
-        }
-
-        .slider-arrow.next {
-            right: 12px;
+            display: none;
         }
 
         .slider-nav {
@@ -241,6 +261,10 @@ max-width: 1200px;
         }
 
         .slider-dot {
+            display: none;
+        }
+
+        .slide-placeholder {
             display: none;
         }
 
@@ -710,11 +734,14 @@ max-width: 1200px;
             .footer-grid {
                 grid-template-columns: repeat(2, 1fr);
             }
-            .slider-container {
-                grid-template-columns: 1fr;
+            .featured-hero-title {
+                font-size: 2.2rem;
             }
-            .slide-title {
-                font-size: 1rem;
+            .related-title {
+                font-size: 1.4rem;
+            }
+            .featured-related {
+                grid-template-columns: 1fr;
             }
             .featured-title {
                 font-size: 0.9rem;
@@ -751,22 +778,30 @@ max-width: 1200px;
                 overflow-x: auto;
                 gap: 16px;
             }
-            .slide-title {
-                font-size: 0.95rem;
+            .featured-hero-image {
+                height: 300px;
             }
-            .slide-content {
-                padding: 16px;
+            .featured-hero-title {
+                font-size: 1.8rem;
+            }
+            .featured-hero-content {
+                padding: 40px 24px;
+            }
+            .featured-related {
+                padding: 40px 24px;
+                gap: 24px;
+            }
+            .related-image {
+                height: 250px;
+            }
+            .related-title {
+                font-size: 1.2rem;
             }
             .featured-title {
                 font-size: 0.9rem;
             }
             .mini-title, .pub-title {
                 font-size: 0.8rem;
-            }
-            .slider-arrow {
-                width: 40px;
-                height: 40px;
-                font-size: 18px;
             }
         }
     </style>
@@ -794,96 +829,35 @@ max-width: 1200px;
     </header>
 
     <section class="featured">
-        <div class="slider-container">
-            <!-- Slider with 4 posts -->
-            <div class="slider-main">
-                <div class="slider-track" id="sliderTrack">
-                    <div class="slide">
-                        <div class="slide-image">
-                            <img src="https://images.unsplash.com/photo-1522778119026-d647f0565c6a?w=800&h=800&fit=crop?w=800&h=800&fit=crop?w=150&h=150&fit=crop" alt="Football match" style="width:100%;height:100%;object-fit:cover;">
-                        </div>
-                        <div class="slide-content">
-                            <div class="slide-meta"><span style="color:#0e8a46">● LIVE</span> · Premier League</div>
-                            <h3 class="slide-title">Premier League title race heats up as top teams drop points</h3>
-                        </div>
-                    </div>
-                    <div class="slide">
-                        <div class="slide-image">
-                            <img src="https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=800&h=800&fit=crop?w=800&h=800&fit=crop?w=800&h=800&fit=crop?w=800&h=800&fit=crop?w=800&h=800&fit=crop?w=150&h=150&fit=crop" alt="Transfer news" style="width:100%;height:100%;object-fit:cover;">
-                        </div>
-                        <div class="slide-content">
-                            <div class="slide-meta"><span style="color:#0e8a46">● LIVE</span> · Transfer News</div>
-                            <h3 class="slide-title">Transfer window: Top clubs in final negotiations before deadline</h3>
-                        </div>
-                    </div>
-                    <div class="slide">
-                        <div class="slide-image">
-                            <img src="https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=800&h=800&fit=crop?w=800&h=800&fit=crop?w=800&h=800&fit=crop?w=800&h=800&fit=crop?w=150&h=150&fit=crop" alt="Trophy" style="width:100%;height:100%;object-fit:cover;">
-                        </div>
-                        <div class="slide-content">
-                            <div class="slide-meta"><span style="color:#0e8a46">● LIVE</span> · Champions League</div>
-                            <h3 class="slide-title">Champions League quarter-finals: Key matches and storylines</h3>
-                        </div>
-                    </div>
-                    <div class="slide">
-                        <div class="slide-image">
-                            <img src="https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?w=800&h=800&fit=crop?w=800&h=800&fit=crop?w=150&h=150&fit=crop" alt="Breaking news" style="width:100%;height:100%;object-fit:cover;">
-                        </div>
-                        <div class="slide-content">
-                            <div class="slide-meta"><span style="color:#0e8a46">● LIVE</span> · Breaking News</div>
-                            <h3 class="slide-title">Breaking: Star player announces shock departure from club</h3>
-                        </div>
-                    </div>
+        <div class="featured-hero">
+            <div class="featured-hero-image">
+                <img src="https://images.unsplash.com/photo-1522778119026-d647f0565c6a?w=1600&h=1000&fit=crop" alt="Featured story" style="width:100%;height:100%;object-fit:cover;">
+            </div>
+            <div class="featured-hero-content">
+                <h1 class="featured-hero-title">Premier League title race heats up as top teams drop points</h1>
+                <p class="featured-hero-description">Live coverage of the latest matches, transfers, and tactical insights from Europe's top leagues</p>
+            </div>
+        </div>
+
+        <div class="featured-related">
+            <div class="related-article">
+                <div class="related-image">
+                    <img src="https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=400&fit=crop" alt="Article" style="width:100%;height:100%;object-fit:cover;">
                 </div>
-                <button class="slider-arrow prev" onclick="previousSlide()">&#10094;</button>
-                <button class="slider-arrow next" onclick="nextSlide()">&#10095;</button>
+                <h2 class="related-title">Transfer window: Top clubs in final negotiations before deadline</h2>
+                <p class="related-date">Transfer News</p>
+            </div>
+            <div class="related-article">
+                <div class="related-image">
+                    <img src="https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=400&fit=crop" alt="Article" style="width:100%;height:100%;object-fit:cover;">
+                </div>
+                <h2 class="related-title">Champions League quarter-finals: Key matches and storylines</h2>
+                <p class="related-date">Champions League</p>
             </div>
         </div>
     </section>
 
     <script>
-        let currentSlide = 0;
-        const totalSlides = 4;
-        let autoSlideInterval;
-
-        function goToSlide(index) {
-            currentSlide = index;
-            const track = document.getElementById('sliderTrack');
-            track.style.transform = `translateX(-${index * 100}%)`;
-            resetAutoSlide();
-        }
-
-        function nextSlide() {
-            currentSlide = (currentSlide + 1) % totalSlides;
-            goToSlide(currentSlide);
-        }
-
-        function previousSlide() {
-            currentSlide = (currentSlide - 1 + totalSlides) % totalSlides;
-            goToSlide(currentSlide);
-        }
-
-        function resetAutoSlide() {
-            clearInterval(autoSlideInterval);
-            autoSlideInterval = setInterval(() => {
-                currentSlide = (currentSlide + 1) % totalSlides;
-                const track = document.getElementById('sliderTrack');
-                track.style.transform = `translateX(-${currentSlide * 100}%)`;
-            }, 5000);
-        }
-
-        // Start auto-slide
-        resetAutoSlide();
-
-        // Keyboard navigation
-        document.addEventListener('keydown', (e) => {
-            if (e.key === 'ArrowLeft') {
-                previousSlide();
-            } else if (e.key === 'ArrowRight') {
-                nextSlide();
-            }
-        });
-
         // Real-time timestamp updater
         function updateTimestamps() {
             const now = new Date();
@@ -891,19 +865,10 @@ max-width: 1200px;
                 const minutes = Math.floor(Math.random() * 30);
                 el.textContent = el.dataset.live + ' · ' + (minutes === 0 ? 'Just now' : minutes + ' min ago');
             });
-            document.querySelectorAll('.slide-meta').forEach((el, i) => {
-                const times = ['Just now', '2 min ago', '5 min ago', '8 min ago'];
-                const time = times[Math.floor(Math.random() * times.length)];
-                el.innerHTML = '<span style="color:#0e8a46">● LIVE</span> · ' + time;
-            });
             document.querySelectorAll('.pub-meta').forEach((el) => {
                 const minutes = Math.floor(Math.random() * 60);
                 const cat = el.textContent.split('·')[0].trim();
                 el.textContent = cat + ' · ' + (minutes < 10 ? minutes + ' min ago' : Math.floor(minutes/60) + ' hour ago');
-            });
-            document.querySelectorAll('.mini-title').forEach((el, i) => {
-                const times = ['LIVE', 'Just now', '2 min ago'];
-                el.closest('.mini-card').querySelector('.mini-image').dataset.time = times[i % times.length];
             });
         }
         setInterval(updateTimestamps, 60000);
