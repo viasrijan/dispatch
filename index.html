@@ -29,14 +29,16 @@
             box-sizing: border-box;
         }
 
+html {
+            background-color: var(--bg-primary);
+        }
+
         body {
             font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
             background-color: var(--bg-primary);
             color: var(--text-primary);
             line-height: 1.6;
             -webkit-font-smoothing: antialiased;
-max-width: 1200px;
-            margin: 0 auto;
         }
 
         a {
@@ -49,6 +51,11 @@ max-width: 1200px;
             max-width: 1200px;
             margin: 0 auto;
             padding: 0 24px;
+        }
+
+        section > div {
+            max-width: 1200px;
+            margin: 0 auto;
         }
 
         /* Navigation */
@@ -839,75 +846,7 @@ max-width: 1200px;
                 <button class="slider-arrow next" onclick="nextSlide()">&#10095;</button>
             </div>
         </div>
-    </section>
-
-    <script>
-        let currentSlide = 0;
-        const totalSlides = 4;
-        let autoSlideInterval;
-
-        function goToSlide(index) {
-            currentSlide = index;
-            const track = document.getElementById('sliderTrack');
-            track.style.transform = `translateX(-${index * 100}%)`;
-            resetAutoSlide();
-        }
-
-        function nextSlide() {
-            currentSlide = (currentSlide + 1) % totalSlides;
-            goToSlide(currentSlide);
-        }
-
-        function previousSlide() {
-            currentSlide = (currentSlide - 1 + totalSlides) % totalSlides;
-            goToSlide(currentSlide);
-        }
-
-        function resetAutoSlide() {
-            clearInterval(autoSlideInterval);
-            autoSlideInterval = setInterval(() => {
-                currentSlide = (currentSlide + 1) % totalSlides;
-                const track = document.getElementById('sliderTrack');
-                track.style.transform = `translateX(-${currentSlide * 100}%)`;
-            }, 5000);
-        }
-
-        // Start auto-slide
-        resetAutoSlide();
-
-        // Keyboard navigation
-        document.addEventListener('keydown', (e) => {
-            if (e.key === 'ArrowLeft') {
-                previousSlide();
-            } else if (e.key === 'ArrowRight') {
-                nextSlide();
-            }
-        });
-
-        // Real-time timestamp updater
-        function updateTimestamps() {
-            const now = new Date();
-            document.querySelectorAll('.bulletin-item-meta').forEach((el, i) => {
-                const minutes = Math.floor(Math.random() * 30);
-                el.textContent = el.dataset.live + ' · ' + (minutes === 0 ? 'Just now' : minutes + ' min ago');
-            });
-            document.querySelectorAll('.slide-meta').forEach((el, i) => {
-                const times = ['Just now', '2 min ago', '5 min ago', '8 min ago'];
-                const time = times[Math.floor(Math.random() * times.length)];
-                el.innerHTML = '<span style="color:#0e8a46">● LIVE</span> · ' + time;
-            });
-            document.querySelectorAll('.pub-meta').forEach((el) => {
-                const minutes = Math.floor(Math.random() * 60);
-                const cat = el.textContent.split('·')[0].trim();
-                el.textContent = cat + ' · ' + (minutes < 10 ? minutes + ' min ago' : Math.floor(minutes/60) + ' hour ago');
-            });
-            document.querySelectorAll('.mini-title').forEach((el, i) => {
-                const times = ['LIVE', 'Just now', '2 min ago'];
-                el.closest('.mini-card').querySelector('.mini-image').dataset.time = times[i % times.length];
-            });
-        }
-        setInterval(updateTimestamps, 60000);
-    </script>
+</section>
 
     <section class="categories-section">
         <div class="category-tabs">
