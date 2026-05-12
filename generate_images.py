@@ -68,7 +68,7 @@ class KICKOFFImageGenerator:
     def get_fallback_image(self, prompt):
         """Return fallback placeholder based on prompt keywords"""
         if "premier league" in prompt.lower():
-            return "https://images.unsplash.com/photo-1522778119026-d647f0565c6a?w=800&h=800&fit=crop"
+            return "https://images.unsplash.com/photo-1511882150382-421056c89033?w=800&h=800&fit=crop"
         elif "transfer" in prompt.lower():
             return "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=800&h=800&fit=crop"
         elif "champions" in prompt.lower():

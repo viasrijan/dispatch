@@ -341,7 +341,7 @@ async def run():
             image_map[key] = rel
         else:
             # Fallback to Unsplash placeholders
-            image_map[key] = f"https://images.unsplash.com/photo-1522778119026-d647f0565c6a?w=500&h=281&fit=crop"
+            image_map[key] = f"https://images.unsplash.com/photo-1511882150382-421056c89033?w=500&h=281&fit=crop"
 
     # 4. Update HTML
     print("\n🌐 Updating website...")
