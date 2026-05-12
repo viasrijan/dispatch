@@ -147,6 +147,7 @@ html {
             align-items: center;
             justify-content: space-between;
             gap: 18px;
+            position: relative;
             width: 100%;
             padding: 0 12px;
             box-sizing: border-box;
@@ -247,8 +248,14 @@ html {
 
         .slider-prev,
         .slider-next {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
             margin: 0;
         }
+        
+        .slider-prev { left: 24px; }
+        .slider-next { right: 24px; }
 
         .slider-nav {
             position: absolute;
