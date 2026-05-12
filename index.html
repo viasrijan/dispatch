@@ -139,37 +139,48 @@ html {
             padding: 60px 32px;
         }
 
-        /* Slider */
+/* Slider */
         .slider-container {
             margin-bottom: 60px;
-            display: flex;
-            align-items: stretch;
-            gap: 0;
             max-width: 1200px;
+            position: relative;
+        }
+
+        .slider-main {
+            display: flex;
+            width: 100%;
+            height: 300px;
+            border-radius: 12px;
+            overflow: hidden;
         }
 
         .slider-nav-arrow {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
             width: 40px;
             height: 40px;
             border-radius: 50%;
-            background: #0e8a46;
-            border: 1px solid #0e8a46;
-            color: #ffffff;
+            background: #ffffff;
+            border: 1px solid #ffffff;
+            color: #0e8a46;
             cursor: pointer;
             display: flex;
             align-items: center;
             justify-content: center;
             font-size: 18px;
             transition: all 0.3s ease;
-            align-self: center;
-            flex-shrink: 0;
+            z-index: 10;
         }
 
         .slider-nav-arrow:hover {
             background: #0e8a46;
             border-color: #0e8a46;
-            color: #000000;
+            color: #ffffff;
         }
+
+        .slider-prev { left: 20px; }
+        .slider-next { right: 20px; }
 
         .slider-main {
             display: flex;
@@ -877,8 +888,7 @@ html {
 
 <section class="featured">
         <div class="slider-container">
-            <!-- Left arrow -->
-            <button class="slider-nav-arrow" onclick="prevSlide()">&#10094;</button>
+            <button class="slider-nav-arrow slider-prev" onclick="prevSlide()">&#10094;</button>
             
             <div class="slider-main">
                 <div class="slider-track" id="sliderTrack">
@@ -921,10 +931,10 @@ html {
                 </div>
             </div>
             
-            <!-- Right arrow -->
-            <button class="slider-nav-arrow" onclick="nextSlide()">&#10095;</button>
+            <button class="slider-nav-arrow slider-next" onclick="nextSlide()">&#10095;</button>
         </div>
-                        <div class="slide-content">
+
+    <script>
                             <div class="slide-meta"><span style="color:#0e8a46">● LIVE</span> · Premier League</div>
                             <h3 class="slide-title">Premier League title race heats up as top teams drop points</h3>
                         </div>
