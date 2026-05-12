@@ -45,6 +45,19 @@ async def fetch_rss_headlines():
 
 
 async def call_openai(messages, api_key, response_format=None, max_tokens=2000, model="gpt-4o-mini"):
+    # If we have a Gemini key instead, use it for text generation
+    gemini_key = os.environ.get("GEMINI_API_KEY", "")
+    if not gemini_key:
+        config_file = PROJECT_DIR / "config.json"
+        if config_file.exists():
+            with open(config_file) as f:
+                cfg = json.load(f)
+                gemini_key = cfg.get("api_keys", {}).get("gemini", "")
+    
+    if gemini_key:
+        return await call_gemini(messages, gemini_key, response_format, max_tokens)
+    
+    # Fall back to OpenAI if no Gemini key
     headers = {
         "Authorization": f"Bearer {api_key}",
         "Content-Type": "application/json",
@@ -63,6 +76,55 @@ async def call_openai(messages, api_key, response_format=None, max_tokens=2000, 
         ) as resp:
             data = await resp.json()
             return data["choices"][0]["message"]["content"]
+
+
+async def call_gemini(messages, gemini_key, response_format=None, max_tokens=2000):
+    """Use Gemini for text generation"""
+    import json
+    
+    # Convert messages format for Gemini
+    user_msg = messages[-1]["content"] if messages else ""
+    
+    headers = {
+        "Content-Type": "application/json",
+    }
+    
+    body = {
+        "contents": [{"parts": [{"text": user_msg}]}],
+        "generationConfig": {
+            "temperature": 0.7,
+            "maxOutputTokens": max_tokens,
+        }
+    }
+    
+    try:
+        async with aiohttp.ClientSession() as session:
+            async with session.post(
+                f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={gemini_key}",
+                headers=headers, json=body,
+                timeout=aiohttp.ClientTimeout(total=60),
+            ) as resp:
+                if resp.status != 200:
+                    err = await resp.text()
+                    print(f"  ⚠ Gemini text error {resp.status}: {err[:100]}")
+                    return "[]"
+                data = await resp.json()
+                if "candidates" in data and len(data["candidates"]) > 0:
+                    text = data["candidates"][0]["content"]["parts"][0]["text"]
+                    # Extract JSON from response if wrapped in text
+                    try:
+                        # Try to find JSON in the response
+                        import re
+                        json_match = re.search(r'\[.*\]', text, re.DOTALL)
+                        if json_match:
+                            return json_match.group(0)
+                        return text
+                    except:
+                        return text
+                return "[]"
+    except Exception as e:
+        print(f"  ⚠ Gemini text error: {e}")
+        return "[]"
 
 
 async def generate_slider_content(api_key, rss_headlines):
@@ -411,19 +473,26 @@ async def run():
     print("⚡ KICKOFF AI AUTOMATION SYSTEM")
     print("=" * 60)
 
+    # Get API keys
     api_key = os.environ.get("OPENAI_API_KEY", "")
+    gemini_key = os.environ.get("GEMINI_API_KEY", "")
+    
     if not api_key:
-        # Try config file
         config_file = PROJECT_DIR / "config.json"
         if config_file.exists():
             with open(config_file) as f:
                 cfg = json.load(f)
                 api_key = cfg.get("api_keys", {}).get("openai", "")
+                if not gemini_key:
+                    gemini_key = cfg.get("api_keys", {}).get("gemini", "")
     
-    if not api_key or api_key == "your-openai-api-key-here":
-        print("❌ No valid OpenAI API key found. Set OPENAI_API_KEY env var or update config.json")
-        return
-
+    # Check available keys
+    print(f"\n🔑 API Keys status:")
+    print(f"   OpenAI (DALL-E): {'✓' if api_key and api_key != 'your-openai-api-key-here' else '✗'}")
+    print(f"   Gemini (text+images): {'✓' if gemini_key else '✗'}")
+    
+    # If no OpenAI key, we can still use Gemini for both text and images
+    
     # 1. Fetch live RSS headlines
     rss_headlines = await fetch_rss_headlines()
 
