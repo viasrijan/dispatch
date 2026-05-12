@@ -141,16 +141,23 @@ html {
 
 /* Slider */
         .slider-container {
-            margin-bottom: 60px;
+            margin: 0 auto 60px;
             max-width: 1200px;
-            position: relative;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 18px;
+            width: 100%;
+            padding: 0 12px;
+            box-sizing: border-box;
         }
 
         .slider-main {
             overflow: hidden;
             border-radius: 12px;
             width: 100%;
-            position: relative;
+            min-width: 0;
+            flex: 1 1 auto;
         }
 
         .slider-track {
@@ -186,16 +193,17 @@ html {
 
         .slide-content {
             flex: 1;
+            min-width: 0;
+            min-height: 281px;
             padding: 24px 28px;
             display: flex;
             flex-direction: column;
             justify-content: center;
             background: var(--surface);
-            min-height: 281px;
         }
 
         .slide-meta {
-            font-size: 0.75rem;
+            font-size: 0.85rem;
             color: var(--text-secondary);
             text-transform: uppercase;
             letter-spacing: 0.5px;
@@ -203,22 +211,20 @@ html {
         }
 
         .slide-title {
-            font-size: clamp(30px, 3.2vw, 48px);
+            font-size: clamp(28px, 3vw, 44px);
             font-weight: 700;
             line-height: 1.05;
             color: var(--text-primary);
             margin: 0;
-            max-height: 281px;
             word-break: break-word;
             overflow-wrap: break-word;
         }
 
         .slider-arrow {
-            position: absolute;
-            top: 50%;
-            transform: translateY(-50%);
+            position: relative;
             width: 40px;
             height: 40px;
+            flex-shrink: 0;
             border-radius: 50%;
             background: rgba(14, 138, 70, 0.95);
             border: 1px solid rgba(14, 138, 70, 0.95);
@@ -229,12 +235,8 @@ html {
             justify-content: center;
             font-size: 18px;
             transition: all 0.25s ease;
-            opacity: 0;
-            z-index: 10;
-        }
-
-        .slider-main:hover .slider-arrow {
             opacity: 1;
+            z-index: 10;
         }
 
         .slider-arrow:hover {
@@ -243,12 +245,9 @@ html {
             border-color: #ffffff;
         }
 
-        .slider-prev {
-            left: 18px;
-        }
-
+        .slider-prev,
         .slider-next {
-            right: 18px;
+            margin: 0;
         }
 
         .slider-nav {
@@ -798,6 +797,13 @@ html {
         }
 
         @media (max-width: 760px) {
+            .slider-container {
+                flex-direction: column;
+                align-items: stretch;
+            }
+            .slider-main {
+                width: 100%;
+            }
             .slide {
                 flex-direction: column;
                 height: auto;
@@ -812,9 +818,6 @@ html {
             }
             .slide-title {
                 font-size: clamp(22px, 6vw, 32px);
-            }
-            .slider-main:hover .slider-arrow {
-                opacity: 0.9;
             }
         }
     </style>
@@ -923,15 +926,20 @@ html {
         }
 
         function adjustTitleSizing() {
-            document.querySelectorAll('.slide-title').forEach(title => {
-                const container = title.parentElement;
+            document.querySelectorAll('.slide').forEach(slide => {
+                const title = slide.querySelector('.slide-title');
+                const meta = slide.querySelector('.slide-meta');
+                const content = slide.querySelector('.slide-content');
+                if (!title || !content) return;
+
+                const maxHeight = content.clientHeight - (meta ? meta.offsetHeight + 8 : 0);
                 let fontSize = 42;
                 title.style.fontSize = fontSize + 'px';
-                while (title.offsetHeight < container.offsetHeight - 10 && fontSize < 64) {
+                while (title.offsetHeight < maxHeight && fontSize < 64) {
                     fontSize += 1;
                     title.style.fontSize = fontSize + 'px';
                 }
-                while (title.offsetHeight > container.offsetHeight && fontSize > 20) {
+                while (title.offsetHeight > maxHeight && fontSize > 20) {
                     fontSize -= 1;
                     title.style.fontSize = fontSize + 'px';
                 }
