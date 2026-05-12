@@ -149,8 +149,77 @@ Examples:
         return []
 
 
-async def generate_image(api_key, prompt, size, filepath):
+async def generate_image(api_key, prompt, size, filepath, recraft_key=None):
     os.makedirs(IMAGES_DIR, exist_ok=True)
+    
+    # Use Recraft if API key provided, otherwise fallback to DALL-E
+    if recraft_key:
+        return await generate_recraft_image(recraft_key, prompt, size, filepath)
+    else:
+        return await generate_dalle_image(api_key, prompt, size, filepath)
+
+
+async def generate_recraft_image(recraft_key, prompt, size, filepath):
+    """Generate image using Recraft API"""
+    headers = {
+        "Authorization": f"Bearer {recraft_key}",
+        "Content-Type": "application/json",
+    }
+    
+    # Map sizes to Recraft dimensions (must be multiples of 32)
+    size_map = {
+        "1792x1024": {"width": 1792, "height": 1024},
+        "1024x1024": {"width": 1024, "height": 1024},
+    }
+    dimensions = size_map.get(size, {"width": 1024, "height": 1024})
+    
+    full_prompt = f"{prompt}. Cinematic dark moody aesthetic, dramatic stadium lighting, film print grain, high contrast, professional sports photography, photorealistic, football"
+    
+    body = {
+        "model": "recraft-v3",
+        "prompt": full_prompt,
+        "image_size": dimensions,
+        "style": "realistic_image",
+    }
+    
+    try:
+        async with aiohttp.ClientSession() as session:
+            async with session.post(
+                "https://external.api.recraft.ai/v1/images/generations",
+                headers=headers, json=body,
+                timeout=aiohttp.ClientTimeout(total=120),
+            ) as resp:
+                if resp.status != 200:
+                    err = await resp.text()
+                    print(f"    ⚠ Recraft error {resp.status}: {err[:100]}")
+                    return None
+                data = await resp.json()
+                # Recraft returns base64 or URL
+                if data.get("images") and len(data["images"]) > 0:
+                    image_data = data["images"][0]
+                    if isinstance(image_data, dict):
+                        # URL returned
+                        if "url" in image_data:
+                            image_url = image_data["url"]
+                        elif "base64" in image_data:
+                            # Base64 - decode and save directly
+                            import base64
+                            img_bytes = base64.b64decode(image_data["base64"])
+                            with open(filepath, "wb") as f:
+                                f.write(img_bytes)
+                            rel = os.path.relpath(filepath, PROJECT_DIR)
+                            print(f"    ✅ Saved: {rel}")
+                            return rel
+                    return None
+                print(f"    ⚠ Recraft response missing images")
+                return None
+    except Exception as e:
+        print(f"    ❌ Recraft error: {e}")
+    return None
+
+
+async def generate_dalle_image(api_key, prompt, size, filepath):
+    """Generate image using DALL-E (fallback)"""
     headers = {
         "Authorization": f"Bearer {api_key}",
         "Content-Type": "application/json",
@@ -320,6 +389,20 @@ async def run():
              "image_prompt": "Young Barcelona player training at La Masia academy"},
         ]
 
+    # Check for Recraft API key first
+    recraft_key = os.environ.get("RECRAFT_API_KEY", "")
+    if not recraft_key:
+        config_file = PROJECT_DIR / "config.json"
+        if config_file.exists():
+            with open(config_file) as f:
+                cfg = json.load(f)
+                recraft_key = cfg.get("api_keys", {}).get("recraft", "")
+    
+    if recraft_key:
+        print("  Using Recraft API for image generation")
+    elif api_key:
+        print("  Using DALL-E for image generation (fallback)")
+    
     # 3. Add keys for image mapping
     all_items = []
     for prefix, items in [("slider", slider_items), ("featured", featured_items), ("story", stories_items)]:
@@ -336,7 +419,7 @@ async def run():
         size = "1792x1024" if is_slider else "1024x1024"
         filename = f"{key}.png"
         filepath = IMAGES_DIR / filename
-        rel = await generate_image(api_key, item["image_prompt"], size, filepath)
+        rel = await generate_image(api_key, item["image_prompt"], size, filepath, recraft_key)
         if rel:
             image_map[key] = rel
         else:

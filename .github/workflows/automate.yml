@@ -29,6 +29,7 @@ jobs:
       - name: Generate content & images
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          RECRAFT_API_KEY: ${{ secrets.RECRAFT_API_KEY }}
         run: python automate.py
 
       - name: Commit and push changes
