@@ -1,286 +1,115 @@
 {
-  "generated_at": "2026-05-11T19:54:26.750846",
-  "version": "2.0",
-  "website_title": "DISPATCH | Football Edition",
-  "last_updated": "19:54:26",
+  "generated_at": "2026-05-12T02:46:13.335253",
+  "rss_headlines_used": 15,
   "sections": {
+    "slider": [
+      {
+        "headline": "Salah hat-trick sinks Manchester United at Anfield",
+        "category": "Premier League",
+        "category_tag": "LIVE",
+        "image_prompt": "Mohamed Salah celebrating a hat-trick at Anfield under dramatic floodlights",
+        "_key": "slider_0"
+      },
+      {
+        "headline": "Real Madrid agree \u20ac127M deal for Florian Wirtz",
+        "category": "Transfer Talk",
+        "category_tag": "BREAKING",
+        "image_prompt": "Florian Wirtz signing contract at Santiago Bernabeu",
+        "_key": "slider_1"
+      },
+      {
+        "headline": "Arsenal title hopes crushed by Newcastle smash-and-grab",
+        "category": "Premier League",
+        "category_tag": "LIVE",
+        "image_prompt": "Newcastle players celebrating a last-minute winner at St James Park",
+        "_key": "slider_2"
+      },
+      {
+        "headline": "Barcelona on verge of financial collapse after La Liga rejection",
+        "category": "La Liga",
+        "category_tag": "EXCLUSIVE",
+        "image_prompt": "Camp Nou stadium in darkness, moody atmosphere",
+        "_key": "slider_3"
+      }
+    ],
     "featured": [
       {
-        "headline": "\ud83d\udd25 Real Madrid vs Barcelona - 3-3 Absolute Thriller!",
-        "body": "What. A. Match! Real Madrid and Barcelona delivered an absolute spectacle ending 3-3. The La Liga has never been more exciting!",
-        "tags": [
-          "LIVE",
-          "La Liga",
-          "MATCH REPORT"
-        ],
-        "image": "https://via.placeholder.com/800x400/0a0a0a/3b82f6?text=dramatic+football+ma",
-        "league": "La Liga"
-      }
-    ],
-    "matches": [
-      {
-        "headline": "\ud83d\udd25 Arsenal vs Liverpool - 2-1 Absolute Thriller!",
-        "body": "What. A. Match! Arsenal and Liverpool delivered an absolute spectacle ending 2-1. The Premier League has never been more exciting!",
-        "tags": [
-          "LIVE",
-          "Premier League",
-          "MATCH REPORT"
-        ],
-        "home": "Arsenal",
-        "away": "Liverpool",
-        "score": "2-1",
-        "time": "FT",
-        "league": "Premier League"
-      },
-      {
-        "headline": "\ud83d\udd25 Real Madrid vs Barcelona - 3-3 Absolute Thriller!",
-        "body": "What. A. Match! Real Madrid and Barcelona delivered an absolute spectacle ending 3-3. The La Liga has never been more exciting!",
-        "tags": [
-          "LIVE",
-          "La Liga",
-          "MATCH REPORT"
-        ],
-        "home": "Real Madrid",
-        "away": "Barcelona",
-        "score": "3-3",
-        "time": "FT",
-        "league": "La Liga"
-      },
-      {
-        "headline": "\ud83d\udd25 Bayern Munich vs Dortmund - 2-2 Absolute Thriller!",
-        "body": "What. A. Match! Bayern Munich and Dortmund delivered an absolute spectacle ending 2-2. The Bundesliga has never been more exciting!",
-        "tags": [
-          "LIVE",
-          "Bundesliga",
-          "MATCH REPORT"
-        ],
-        "home": "Bayern Munich",
-        "away": "Dortmund",
-        "score": "2-2",
-        "time": "FT",
-        "league": "Bundesliga"
-      },
-      {
-        "headline": "\ud83d\udd25 PSG vs Marseille - 1-0 Absolute Thriller!",
-        "body": "What. A. Match! PSG and Marseille delivered an absolute spectacle ending 1-0. The Ligue 1 has never been more exciting!",
-        "tags": [
-          "LIVE",
-          "Ligue 1",
-          "MATCH REPORT"
-        ],
-        "home": "PSG",
-        "away": "Marseille",
-        "score": "1-0",
-        "time": "FT",
-        "league": "Ligue 1"
-      },
-      {
-        "headline": "\ud83d\udd25 Man City vs Arsenal - 1-0 Absolute Thriller!",
-        "body": "What. A. Match! Man City and Arsenal delivered an absolute spectacle ending 1-0. The Premier League has never been more exciting!",
-        "tags": [
-          "LIVE",
-          "Premier League",
-          "MATCH REPORT"
-        ],
-        "home": "Man City",
-        "away": "Arsenal",
-        "score": "1-0",
-        "time": "FT",
-        "league": "Premier League"
-      },
-      {
-        "headline": "\ud83d\udd25 Juventus vs AC Milan - 0-0 Absolute Thriller!",
-        "body": "What. A. Match! Juventus and AC Milan delivered an absolute spectacle ending 0-0. The Serie A has never been more exciting!",
-        "tags": [
-          "LIVE",
-          "Serie A",
-          "MATCH REPORT"
-        ],
-        "home": "Juventus",
-        "away": "AC Milan",
-        "score": "0-0",
-        "time": "FT",
-        "league": "Serie A"
-      }
-    ],
-    "transfers": [
-      {
-        "headline": "\ud83d\udcb0 TRANSFER: Kylian Mbapp\u00e9 to Real Madrid?",
-        "body": "Breaking: Sources reveal Kylian Mbapp\u00e9 could be set for a move from PSG to Real Madrid. Fee: Free. \u2705 Verified",
-        "tags": [
-          "TRANSFER",
-          "Real Madrid",
-          "RUMOR"
-        ],
-        "player": "Kylian Mbapp\u00e9",
-        "from": "PSG",
-        "to": "Real Madrid",
-        "fee": "Free"
-      },
-      {
-        "headline": "\ud83d\udcb0 TRANSFER: Jude Bellingham to Real Madrid?",
-        "body": "Breaking: Sources reveal Jude Bellingham could be set for a move from Dortmund to Real Madrid. Fee: \u20ac103M. \u2705 Verified",
-        "tags": [
-          "TRANSFER",
-          "Real Madrid",
-          "RUMOR"
-        ],
-        "player": "Jude Bellingham",
-        "from": "Dortmund",
-        "to": "Real Madrid",
-        "fee": "\u20ac103M"
-      },
-      {
-        "headline": "\ud83d\udcb0 TRANSFER: Victor Osimhen to Chelsea?",
-        "body": "Breaking: Sources reveal Victor Osimhen could be set for a move from Napoli to Chelsea. Fee: \u20ac95M. \u23f3 Unverified",
-        "tags": [
-          "TRANSFER",
-          "Chelsea",
-          "RUMOR"
-        ],
-        "player": "Victor Osimhen",
-        "from": "Napoli",
-        "to": "Chelsea",
-        "fee": "\u20ac95M"
-      },
-      {
-        "headline": "\ud83d\udcb0 TRANSFER: Kevin De Bruyne to Al Ittihad?",
-        "body": "Breaking: Sources reveal Kevin De Bruyne could be set for a move from Man City to Al Ittihad. Fee: \u20ac60M. \u23f3 Unverified",
-        "tags": [
-          "TRANSFER",
-          "Al Ittihad",
-          "RUMOR"
-        ],
-        "player": "Kevin De Bruyne",
-        "from": "Man City",
-        "to": "Al Ittihad",
-        "fee": "\u20ac60M"
-      }
-    ],
-    "news": [
-      {
-        "headline": "Champions League Final Set",
-        "body": "Real Madrid and Manchester City to face off in what promises to be an epic encounter.",
-        "tags": [
-          "NEWS",
-          "UEFA"
-        ],
-        "category": "UEFA",
-        "image": "https://via.placeholder.com/800x400/0a0a0a/3b82f6?text=Champions+League+Fin"
-      },
-      {
-        "headline": "Injury Crisis at Old Trafford",
-        "body": "Manchester United dealt blow as several key players ruled out for crucial fixtures.",
-        "tags": [
-          "NEWS",
-          "Premier League"
-        ],
+        "headline": "Salah hat-trick sinks Manchester United at Anfield",
         "category": "Premier League",
-        "image": "https://via.placeholder.com/800x400/0a0a0a/3b82f6?text=Injury+Crisis+at+Old"
+        "category_tag": "LIVE",
+        "image_prompt": "Mohamed Salah celebrating a hat-trick at Anfield under dramatic floodlights",
+        "_key": "featured_0"
       },
       {
-        "headline": "New Stadium Plans Announced",
-        "body": "Tottenham reveals ambitious plans for expanded capacity at Tottenham Hotspur Stadium.",
-        "tags": [
-          "NEWS",
-          "Stadium"
-        ],
-        "category": "Stadium",
-        "image": "https://via.placeholder.com/800x400/0a0a0a/3b82f6?text=New+Stadium+Plans+An"
+        "headline": "Real Madrid agree \u20ac127M deal for Florian Wirtz",
+        "category": "Transfer Talk",
+        "category_tag": "BREAKING",
+        "image_prompt": "Florian Wirtz signing contract at Santiago Bernabeu",
+        "_key": "featured_1"
       },
       {
-        "headline": "VAR Controversy Erupts",
-        "body": "Major decision in weekend's biggest match sparks heated debate across football world.",
-        "tags": [
-          "NEWS",
-          "Rules"
-        ],
-        "category": "Rules",
-        "image": "https://via.placeholder.com/800x400/0a0a0a/3b82f6?text=VAR+Controversy+Erup"
-      },
-      {
-        "headline": "Record Breaking Transfer Window",
-        "body": "This summer's transfer window set to break all previous spending records.",
-        "tags": [
-          "NEWS",
-          "Transfer"
-        ],
-        "category": "Transfer",
-        "image": "https://via.placeholder.com/800x400/0a0a0a/3b82f6?text=Record+Breaking+Tran"
+        "headline": "Arsenal title hopes crushed by Newcastle smash-and-grab",
+        "category": "Premier League",
+        "category_tag": "LIVE",
+        "image_prompt": "Newcastle players celebrating a last-minute winner at St James Park",
+        "_key": "featured_2"
       }
     ],
-    "gossip": [
+    "stories": [
       {
-        "headline": "\ud83d\udcac Twitter: \ud83d\udea8 EXCLUSIVE: Big club ready to trigger release clause for in...",
-        "body": "\ud83d\udea8 EXCLUSIVE: Big club ready to trigger release clause for in-demand striker. Medical in 48 hours!\n\n\ud83d\udfe2 HIGH Reliability \u2022 15.2K engagement",
-        "tags": [
-          "GOSSIP",
-          "Twitter",
-          "HIGH"
-        ],
-        "source": "Twitter",
-        "engagement": "15.2K"
+        "headline": "Exclusive: Ruben Amorim agrees Man United deal for 2026",
+        "category": "Premier League",
+        "image_prompt": "Ruben Amorim in Old Trafford tunnel",
+        "_key": "story_0"
       },
       {
-        "headline": "\ud83d\udcac Twitter: Reliable source: Contract talks broken down. Player seeking ...",
-        "body": "Reliable source: Contract talks broken down. Player seeking new challenge. Premier League clubs monitoring \ud83d\udc40\n\n\ud83d\udfe1 MEDIUM Reliability \u2022 12.8K engagement",
-        "tags": [
-          "GOSSIP",
-          "Twitter",
-          "MEDIUM"
-        ],
-        "source": "Twitter",
-        "engagement": "12.8K"
+        "headline": "Man City trigger Joshua Kimmich \u20ac85M release clause",
+        "category": "Transfers",
+        "image_prompt": "Joshua Kimmich in action at Allianz Arena",
+        "_key": "story_1"
       },
       {
-        "headline": "\ud83d\udcac Reddit: [Tier 1] Manchester City in advanced negotiations for next g...",
-        "body": "[Tier 1] Manchester City in advanced negotiations for next generation talent. Fee agreed.\n\n\ud83d\udfe2 HIGH Reliability \u2022 8.5K engagement",
-        "tags": [
-          "GOSSIP",
-          "Reddit",
-          "HIGH"
-        ],
-        "source": "Reddit",
-        "engagement": "8.5K"
+        "headline": "Lamine Yamal signs new Barcelona deal until 2032",
+        "category": "La Liga",
+        "image_prompt": "Lamine Yamal signing contract at Camp Nou",
+        "_key": "story_2"
       },
       {
-        "headline": "\ud83d\udcac ESPN: Sources: Barcelona preparing surprise move for Premier Leagu...",
-        "body": "Sources: Barcelona preparing surprise move for Premier League star. Clubs in talks.\n\n\ud83d\udfe1 MEDIUM Reliability \u2022 11.3K engagement",
-        "tags": [
-          "GOSSIP",
-          "ESPN",
-          "MEDIUM"
-        ],
-        "source": "ESPN",
-        "engagement": "11.3K"
+        "headline": "Liverpool plot surprise move for Inter Milan star",
+        "category": "Rumors",
+        "image_prompt": "Inter Milan star walking through stadium tunnel",
+        "_key": "story_3"
       },
       {
-        "headline": "\ud83d\udcac Twitter: Medical completed! \ud83c\udf89 Big announcement coming tomorrow mornin...",
-        "body": "Medical completed! \ud83c\udf89 Big announcement coming tomorrow morning!\n\n\ud83d\udfe2 HIGH Reliability \u2022 18.7K engagement",
-        "tags": [
-          "GOSSIP",
-          "Twitter",
-          "HIGH"
-        ],
-        "source": "Twitter",
-        "engagement": "18.7K"
+        "headline": "PSG prepare \u20ac200M bid for Victor Osimhen this summer",
+        "category": "Transfers",
+        "image_prompt": "Victor Osimhen celebrating goal in Serie A",
+        "_key": "story_4"
       },
       {
-        "headline": "\ud83d\udcac Reddit: [Reliable] Chelsea and Liverpool in battle for same target. ...",
-        "body": "[Reliable] Chelsea and Liverpool in battle for same target. Decision within days.\n\n\ud83d\udfe1 MEDIUM Reliability \u2022 6.2K engagement",
-        "tags": [
-          "GOSSIP",
-          "Reddit",
-          "MEDIUM"
-        ],
-        "source": "Reddit",
-        "engagement": "6.2K"
+        "headline": "Why Serie A is becoming the destination for aging superstars",
+        "category": "Analysis",
+        "image_prompt": "Serie A match at San Siro under floodlights",
+        "_key": "story_5"
+      },
+      {
+        "headline": "Exclusive interview: Wrexham's Hollywood dream continues",
+        "category": "Interviews",
+        "image_prompt": "Wrexham stadium packed with fans, dramatic lighting",
+        "_key": "story_6"
+      },
+      {
+        "headline": "Champions League reform: What the new 36-team format means",
+        "category": "Opinion",
+        "image_prompt": "Champions League trophy at stadium centre circle",
+        "_key": "story_7"
+      },
+      {
+        "headline": "La Masia revival: Barcelona's latest teenage sensation",
+        "category": "Analysis",
+        "image_prompt": "Young Barcelona player training at La Masia academy",
+        "_key": "story_8"
       }
-    ],
-    "stats": {
-      "new_subscribers": "120k",
-      "articles": "6.3k",
-      "growth": "+44%"
-    }
+    ]
   }
 }
