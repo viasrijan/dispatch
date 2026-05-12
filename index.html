@@ -145,41 +145,16 @@ html {
         /* Slider */
         .slider-container {
             margin-bottom: 60px;
-            display: flex;
-            align-items: stretch;
-            gap: 0;
             max-width: 1200px;
-        }
-
-        .slider-nav-arrow {
-            width: 40px;
-            height: 40px;
-            border-radius: 50%;
-            background: var(--surface);
-            border: 1px solid var(--border);
-            color: var(--text-primary);
-            cursor: pointer;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 18px;
-            transition: all 0.3s ease;
-            align-self: center;
-            flex-shrink: 0;
-        }
-
-        .slider-nav-arrow:hover {
-            background: var(--accent);
-            border-color: var(--accent);
         }
 
         .slider-main {
             display: flex;
-            width: 900px;
-            height: 300px;
+            width: 100%;
+            height: 350px;
             border-radius: 12px;
             overflow: hidden;
-            flex-shrink: 0;
+            position: relative;
         }
 
         .slider-track {
@@ -191,15 +166,15 @@ html {
 
         .slide {
             display: flex;
-            width: 900px;
-            height: 300px;
+            width: 100%;
+            height: 350px;
             flex-shrink: 0;
             background: var(--surface);
         }
 
         .slide-image {
-            width: 500px;
-            height: 300px;
+            width: 55%;
+            height: 100%;
             background: var(--surface);
             flex-shrink: 0;
             display: flex;
@@ -214,7 +189,7 @@ html {
         }
 
         .slide-content {
-            flex: 1;
+            width: 45%;
             padding: 40px;
             display: flex;
             flex-direction: column;
@@ -222,7 +197,29 @@ html {
             background: var(--surface);
         }
 
-        .slider-nav-arrow:hover {
+        .slider-dots {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-top: 20px;
+        }
+
+        .slider-dot {
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            background: var(--border);
+            cursor: pointer;
+            transition: background 0.3s ease;
+        }
+
+        .slider-dot.active {
+            background: var(--accent);
+        }
+
+        .slider-dot:hover {
+            background: var(--accent-hover);
+        }
             opacity: 1;
         }
 
@@ -882,14 +879,11 @@ html {
 
 <section class="featured">
         <div class="slider-container">
-            <!-- Left arrow -->
-            <button class="slider-nav-arrow" onclick="prevSlide()">&#10094;</button>
-            
             <div class="slider-main">
                 <div class="slider-track" id="sliderTrack">
                     <div class="slide">
                         <div class="slide-image">
-                            <img src="https://images.unsplash.com/photo-1522778119026-d647f0565c6a?w=500&h=300&fit=crop" alt="Football match">
+                            <img src="https://images.unsplash.com/photo-1522778119026-d647f0565c6a?w=800&h=500&fit=crop" alt="Football match">
                         </div>
                         <div class="slide-content">
                             <div class="slide-meta"><span style="color:#0e8a46">● LIVE</span> · Premier League</div>
@@ -898,7 +892,7 @@ html {
                     </div>
                     <div class="slide">
                         <div class="slide-image">
-                            <img src="https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=500&h=300&fit=crop" alt="Transfer news">
+                            <img src="https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=800&h=500&fit=crop" alt="Transfer news">
                         </div>
                         <div class="slide-content">
                             <div class="slide-meta"><span style="color:#0e8a46">● LIVE</span> · Transfer News</div>
@@ -907,7 +901,7 @@ html {
                     </div>
                     <div class="slide">
                         <div class="slide-image">
-                            <img src="https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=500&h=300&fit=crop" alt="Trophy">
+                            <img src="https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=800&h=500&fit=crop" alt="Trophy">
                         </div>
                         <div class="slide-content">
                             <div class="slide-meta"><span style="color:#0e8a46">● LIVE</span> · Champions League</div>
@@ -916,7 +910,7 @@ html {
                     </div>
                     <div class="slide">
                         <div class="slide-image">
-                            <img src="https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?w=500&h=300&fit=crop" alt="Breaking news">
+                            <img src="https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?w=800&h=500&fit=crop" alt="Breaking news">
                         </div>
                         <div class="slide-content">
                             <div class="slide-meta"><span style="color:#0e8a46">● LIVE</span> · Breaking News</div>
@@ -925,9 +919,12 @@ html {
                     </div>
                 </div>
             </div>
-            
-            <!-- Right arrow -->
-            <button class="slider-nav-arrow" onclick="nextSlide()">&#10095;</button>
+            <div class="slider-dots">
+                <span class="slider-dot active" onclick="goToSlide(0)"></span>
+                <span class="slider-dot" onclick="goToSlide(1)"></span>
+                <span class="slider-dot" onclick="goToSlide(2)"></span>
+                <span class="slider-dot" onclick="goToSlide(3)"></span>
+            </div>
         </div>
                         <div class="slide-content">
                             <div class="slide-meta"><span style="color:#0e8a46">● LIVE</span> · Premier League</div>
