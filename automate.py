@@ -401,6 +401,34 @@ def format_times_ago(count):
     return times[:count]
 
 
+# Fallback content when API quota is exceeded
+FALLBACK_CONTENT = [
+    {"headline": "Premier League title race reaches thrilling climax with 3 teams in contention", "category": "Premier League", "importance": 5, "image_prompt": "Premier League trophy at stadium", "category_tag": "BREAKING"},
+    {"headline": "Real Madrid complete €120M signing of generational talent", "category": "Transfers", "importance": 5, "image_prompt": "Player signing contract at Bernabeu", "category_tag": "BREAKING"},
+    {"headline": "Champions League final: Tactical preview and key battles to watch", "category": "Champions League", "importance": 4, "image_prompt": "Champions League trophy in stadium", "category_tag": "FEATURED"},
+    {"headline": "Barcelona's youth academy produces next generational superstar", "category": "La Liga", "importance": 4, "image_prompt": "Young player training at La Masia", "category_tag": "FEATURED"},
+    {"headline": "Bayern Munich secure domestic double with dominant display", "category": "Bundesliga", "importance": 4, "image_prompt": "Bayern Munich celebration", "category_tag": "FEATURED"},
+    {"headline": "Inter Milan announce ambitious expansion plans for stadium", "category": "Serie A", "importance": 3, "image_prompt": "San Siro stadium", "category_tag": "NEWS"},
+    {"headline": "PSG's new project aims to build around homegrown talent", "category": "Ligue 1", "importance": 3, "image_prompt": "PSG stadium", "category_tag": "NEWS"},
+    {"headline": "Rising star reveals childhood dream of playing for hometown club", "category": "Interviews", "importance": 2, "image_prompt": "Player interview", "category_tag": "NEWS"},
+    {"headline": "VAR controversy sparks debate among managers and fans", "category": "Analysis", "importance": 2, "image_prompt": "VAR monitor", "category_tag": "NEWS"},
+    {"headline": "Football legends gather for annual charity match event", "category": "Opinion", "importance": 1, "image_prompt": "Charity football match", "category_tag": "NEWS"},
+]
+
+FALLBACK_IMAGES = [
+    "https://images.unsplash.com/photo-1522778119026-d647f0565c6a?w=1024&h=768&fit=crop",
+    "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=1024&h=768&fit=crop",
+    "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=1024&h=768&fit=crop",
+    "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=1024&h=768&fit=crop",
+    "https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?w=1024&h=768&fit=crop",
+    "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=1024&h=768&fit=crop",
+    "https://images.unsplash.com/photo-1517466787929-bc90951d0974?w=1024&h=768&fit=crop",
+    "https://images.unsplash.com/photo-1575361204480-aadea25e6e68?w=1024&h=768&fit=crop",
+    "https://images.unsplash.com/photo-1606925797300-0b35e9d1794e?w=1024&h=768&fit=crop",
+    "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?w=1024&h=768&fit=crop",
+]
+
+
 def build_slider_html(items, images):
     html = ""
     for item in items:
@@ -502,21 +530,26 @@ async def run():
     # Generate 10 stories with importance scores (1-5)
     all_stories = await generate_slider_content(api_key, rss_headlines)
     
+    # If API failed/quota exceeded, use fallback content
+    if not all_stories:
+        print("  ⚠ API quota exceeded, using fallback content")
+        all_stories = FALLBACK_CONTENT.copy()
+    
     # Ensure each story has an importance score
     for story in all_stories:
         if "importance" not in story:
-            story["importance"] = 3  # Default medium importance
+            story["importance"] = 3
     
     # Sort by importance (highest first)
     all_stories.sort(key=lambda x: x.get("importance", 3), reverse=True)
     
     # Assign to sections based on importance
-    slider_items = all_stories[:4]  # Top 4 most important
-    featured_items = all_stories[4:7]  # Next 3
-    stories_items = all_stories[7:]  # Rest
+    slider_items = all_stories[:4]
+    featured_items = all_stories[4:7]
+    stories_items = all_stories[7:]
     
-    # Add section-specific tags based on importance
-    for i, item in enumerate(slider_items):
+    # Add section-specific tags
+    for item in slider_items:
         item["category_tag"] = "BREAKING" if item.get("importance", 3) >= 5 else "LIVE"
     for item in featured_items:
         item["category_tag"] = "FEATURED"
@@ -597,9 +630,8 @@ async def run():
     print(f"\n🎨 Generating {len(all_items)} images (all 4:3 ratio)...")
     image_map = {}
 
-    for item in all_items:
+    for i, item in enumerate(all_items):
         key = item["_key"]
-        # ALL IMAGES AT 4:3 RATIO - CSS will crop/resize as needed
         size = "1024x768"  # 4:3 aspect ratio
         filename = f"{key}.png"
         filepath = IMAGES_DIR / filename
@@ -607,8 +639,9 @@ async def run():
         if rel:
             image_map[key] = rel
         else:
-            # Fallback to Unsplash placeholders
-            image_map[key] = f"https://images.unsplash.com/photo-1511882150382-421056c89033?w=1024&h=768&fit=crop"
+            # Use fallback images - cycle through them
+            fallback_img = FALLBACK_IMAGES[i % len(FALLBACK_IMAGES)]
+            image_map[key] = fallback_img
 
     # 4. Update HTML
     print("\n🌐 Updating website...")
