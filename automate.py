@@ -1,322 +1,384 @@
 #!/usr/bin/env python3
 """
-Dispatch AI Automation System
-Football news automation with AI content rewriting and image generation
+KICKOFF AI Automation System
+Generates detailed football news content with AI + live RSS headlines + DALL-E images
 """
 
-import os
-import json
-import time
-import random
-import asyncio
-from datetime import datetime
+import os, json, re, asyncio, aiohttp, xml.etree.ElementTree as ET
+from datetime import datetime, timedelta
 from pathlib import Path
 
-class DispatchAutomator:
-    def __init__(self):
-        self.project_dir = Path(__file__).parent
-        self.content_file = self.project_dir / "content_data.json"
-        self.config_file = self.project_dir / "config.json"
-        self.load_config()
-        
-    def load_config(self):
-        if self.config_file.exists():
-            with open(self.config_file, 'r') as f:
-                self.config = json.load(f)
-        else:
-            self.config = {
-                "api_keys": {
-                    "openai": os.environ.get("OPENAI_API_KEY", ""),
-                    "football_api": os.environ.get("FOOTBALL_API_KEY", "")
-                },
-                "settings": {
-                    "auto_update_interval": 1800,
-                    "generate_images": True,
-                    "push_to_github": True,
-                    "image_style": "dark, cinematic football, dramatic stadium lighting"
-                }
-            }
-            with open(self.config_file, 'w') as f:
-                json.dump(self.config, f, indent=2)
-            print(f"✅ Created config file: {self.config_file}")
-                
-    def fetch_football_data(self):
-        """Fetch football data from APIs or generate sample data"""
-        print("⚽ Fetching football data...")
-        
-        matches = [
-            {"home": "Arsenal", "away": "Liverpool", "score": "2-1", "time": "FT", "league": "Premier League"},
-            {"home": "Real Madrid", "away": "Barcelona", "score": "3-3", "time": "FT", "league": "La Liga"},
-            {"home": "Bayern Munich", "away": "Dortmund", "score": "2-2", "time": "FT", "league": "Bundesliga"},
-            {"home": "PSG", "away": "Marseille", "score": "1-0", "time": "FT", "league": "Ligue 1"},
-            {"home": "Man City", "away": "Arsenal", "score": "1-0", "time": "FT", "league": "Premier League"},
-            {"home": "Juventus", "away": "AC Milan", "score": "0-0", "time": "FT", "league": "Serie A"}
-        ]
-        
-        transfers = [
-            {"player": "Kylian Mbappé", "from": "PSG", "to": "Real Madrid", "fee": "Free", "verified": True},
-            {"player": "Jude Bellingham", "from": "Dortmund", "to": "Real Madrid", "fee": "€103M", "verified": True},
-            {"player": "Victor Osimhen", "from": "Napoli", "to": "Chelsea", "fee": "€95M", "verified": False},
-            {"player": "Kevin De Bruyne", "from": "Man City", "to": "Al Ittihad", "fee": "€60M", "verified": False}
-        ]
-        
-        news = [
-            {"title": "Champions League Final Set", "summary": "Real Madrid and Manchester City to face off in what promises to be an epic encounter.", "category": "UEFA"},
-            {"title": "Injury Crisis at Old Trafford", "summary": "Manchester United dealt blow as several key players ruled out for crucial fixtures.", "category": "Premier League"},
-            {"title": "New Stadium Plans Announced", "summary": "Tottenham reveals ambitious plans for expanded capacity at Tottenham Hotspur Stadium.", "category": "Stadium"},
-            {"title": "VAR Controversy Erupts", "summary": "Major decision in weekend's biggest match sparks heated debate across football world.", "category": "Rules"},
-            {"title": "Record Breaking Transfer Window", "summary": "This summer's transfer window set to break all previous spending records.", "category": "Transfer"}
-        ]
-        
-        return {
-            "matches": matches,
-            "transfers": transfers,
-            "news": news,
-            "timestamp": datetime.now().isoformat()
-        }
-    
-    def fetch_social_gossip(self):
-        """Fetch gossip from social media sources"""
-        print("📱 Fetching social gossip...")
-        
-        gossip = [
-            {"source": "Twitter", "content": "🚨 EXCLUSIVE: Big club ready to trigger release clause for in-demand striker. Medical in 48 hours!", "engagement": "15.2K", "reliability": "high"},
-            {"source": "Twitter", "content": "Reliable source: Contract talks broken down. Player seeking new challenge. Premier League clubs monitoring 👀", "engagement": "12.8K", "reliability": "medium"},
-            {"source": "Reddit", "content": "[Tier 1] Manchester City in advanced negotiations for next generation talent. Fee agreed.", "engagement": "8.5K", "reliability": "high"},
-            {"source": "ESPN", "content": "Sources: Barcelona preparing surprise move for Premier League star. Clubs in talks.", "engagement": "11.3K", "reliability": "medium"},
-            {"source": "Twitter", "content": "Medical completed! 🎉 Big announcement coming tomorrow morning!", "engagement": "18.7K", "reliability": "high"},
-            {"source": "Reddit", "content": "[Reliable] Chelsea and Liverpool in battle for same target. Decision within days.", "engagement": "6.2K", "reliability": "medium"}
-        ]
-        return gossip
-    
-    def rewrite_with_ai(self, content, content_type):
-        """Rewrite content in distinctive AI style"""
-        print(f"✍️ AI rewriting: {content_type}")
-        
-        if content_type == "match":
-            teams = f"{content['home']} vs {content['away']}"
-            return {
-                "headline": f"🔥 {teams} - {content['score']} Absolute Thriller!",
-                "body": f"What. A. Match! {content['home']} and {content['away']} delivered an absolute spectacle ending {content['score']}. The {content['league']} has never been more exciting!",
-                "tags": ["LIVE", content['league'], "MATCH REPORT"]
-            }
-        elif content_type == "transfer":
-            return {
-                "headline": f"💰 TRANSFER: {content['player']} to {content['to']}?",
-                "body": f"Breaking: Sources reveal {content['player']} could be set for a move from {content['from']} to {content['to']}. Fee: {content['fee']}. {'✅ Verified' if content.get('verified') else '⏳ Unverified'}",
-                "tags": ["TRANSFER", content['to'], "RUMOR"]
-            }
-        elif content_type == "gossip":
-            reliability = "🟢 HIGH" if content.get("reliability") == "high" else "🟡 MEDIUM"
-            return {
-                "headline": f"💬 {content['source']}: {content['content'][:60]}...",
-                "body": f"{content['content']}\n\n{reliability} Reliability • {content.get('engagement', '0')} engagement",
-                "tags": ["GOSSIP", content['source'], content.get('reliability', '').upper()]
-            }
-        else:
-            return {
-                "headline": content['title'],
-                "body": content['summary'],
-                "tags": ["NEWS", content['category']]
-            }
-    
-    async def generate_ai_image(self, prompt):
-        """Generate AI image using DALL-E"""
-        api_key = self.config.get("api_keys", {}).get("openai")
-        
-        if not api_key:
-            print("⚠️ No OpenAI key - using placeholder")
-            safe_prompt = prompt.replace(" ", "+")[:20]
-            return f"https://via.placeholder.com/800x400/0a0a0a/3b82f6?text={safe_prompt}"
-        
-        try:
-            import aiohttp
-            headers = {"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"}
-            payload = {
-                "model": "dall-e-3",
-                "prompt": f"{prompt}. Dark dramatic football journalism style, cinematic lighting, photorealistic",
-                "size": "1792x1024",
-                "quality": "standard"
-            }
-            async with aiohttp.ClientSession() as session:
-                async with session.post("https://api.openai.com/v1/images/generations", headers=headers, json=payload, timeout=aiohttp.ClientTimeout(total=60)) as resp:
-                    if resp.status == 200:
-                        data = await resp.json()
-                        return data["data"][0]["url"]
-        except Exception as e:
-            print(f"⚠️ Image gen error: {e}")
-        
-        safe_prompt = prompt.replace(" ", "+")[:20]
-        return f"https://via.placeholder.com/800x400/0a0a0a/3b82f6?text={safe_prompt}"
-    
-    async def generate_content_json(self):
-        """Generate complete content JSON"""
-        print("=" * 50)
-        print("⚡ DISPATCH AI AUTOMATION")
-        print("=" * 50)
-        
-        football_data = self.fetch_football_data()
-        gossip_data = self.fetch_social_gossip()
-        
-        content = {
-            "generated_at": datetime.now().isoformat(),
-            "version": "2.0",
-            "website_title": "DISPATCH | Football Edition",
-            "last_updated": datetime.now().strftime("%H:%M:%S"),
-            "sections": {
-                "featured": [],
-                "matches": [],
-                "transfers": [],
-                "news": [],
-                "gossip": [],
-                "stats": {
-                    "new_subscribers": "120k",
-                    "articles": "6.3k",
-                    "growth": "+44%"
-                }
-            }
-        }
-        
-        if football_data["matches"]:
-            featured = random.choice(football_data["matches"])
-            rewritten = self.rewrite_with_ai(featured, "match")
-            content["sections"]["featured"].append({
-                **rewritten,
-                "image": await self.generate_ai_image(f"dramatic football match {featured['home']} vs {featured['away']}"),
-                "league": featured["league"]
-            })
-            
-            for m in football_data["matches"]:
-                rewritten = self.rewrite_with_ai(m, "match")
-                content["sections"]["matches"].append({
-                    **rewritten,
-                    "home": m["home"],
-                    "away": m["away"],
-                    "score": m["score"],
-                    "time": m["time"],
-                    "league": m["league"]
-                })
-        
-        for t in football_data["transfers"]:
-            rewritten = self.rewrite_with_ai(t, "transfer")
-            content["sections"]["transfers"].append({
-                **rewritten,
-                "player": t["player"],
-                "from": t["from"],
-                "to": t["to"],
-                "fee": t["fee"]
-            })
-        
-        for n in football_data["news"]:
-            rewritten = self.rewrite_with_ai(n, "news")
-            content["sections"]["news"].append({
-                **rewritten,
-                "category": n["category"],
-                "image": await self.generate_ai_image(n["title"])
-            })
-        
-        for g in gossip_data:
-            rewritten = self.rewrite_with_ai(g, "gossip")
-            content["sections"]["gossip"].append({
-                **rewritten,
-                "source": g["source"],
-                "engagement": g["engagement"]
-            })
-        
-        with open(self.content_file, 'w') as f:
-            json.dump(content, f, indent=2)
-        
-        print(f"✅ Content generated: {self.content_file}")
-        return content
-    
-    def update_html(self, content):
-        """Update index.html with new content"""
-        print("🌐 Updating website...")
-        
-        html_file = self.project_dir / "index.html"
-        
-        with open(html_file, 'r') as f:
-            html = f.read()
-        
-        html = html.replace('id="last-updated">Updating now…', f'id="last-updated">Updated: {content["last_updated"]}')
-        
-        matches_html = ""
-        for match in content["sections"]["matches"][:6]:
-            matches_html += f'''
-            <div class="match-card">
-                <span class="league-badge">{match["league"]}</span>
-                <div class="teams">{match["home"]} vs {match["away"]}</div>
-                <div class="score">{match["score"]}</div>
-                <span class="match-time">{match["time"]}</span>
-            </div>'''
-        
-        transfers_html = ""
-        for t in content["sections"]["transfers"]:
-            transfers_html += f'''
-            <div class="transfer-card">
-                <span class="player-name">{t["player"]}</span>
-                <span class="transfer-route">{t["from"]} → {t["to"]}</span>
-                <span class="fee">{t["fee"]}</span>
-            </div>'''
-        
-        gossip_html = ""
-        for g in content["sections"]["gossip"][:4]:
-            gossip_html += f'''
-            <div class="gossip-card">
-                <span class="gossip-source">{g["source"]}</span>
-                <p class="gossip-content">{g["body"][:150]}...</p>
-                <span class="engagement">{g.get("engagement", "")}</span>
-            </div>'''
-        
-        print("✅ Website updated!")
-        return True
-    
-    def deploy_to_github(self):
-        """Auto commit and push to GitHub"""
-        if not self.config["settings"]["push_to_github"]:
-            print("⏭️ GitHub push disabled")
-            return
-            
-        print("🚀 Deploying to GitHub...")
-        
-        os.system(f'cd "{self.project_dir}" && git add -A')
-        os.system(f'cd "{self.project_dir}" && git commit -m "Auto-update: {datetime.now().isoformat()}"')
-        os.system(f'cd "{self.project_dir}" && git push origin main')
-        
-        print("✅ Deployed to GitHub!")
-    
-    async def run(self):
-        """Run complete automation"""
-        await self.generate_content_json()
-        content = json.load(open(self.content_file))
-        self.update_html(content)
-        self.deploy_to_github()
-        
-        print("=" * 50)
-        print("✅ Automation complete!")
-        print("=" * 50)
-    
-    def run_continuous(self, interval=None):
-        """Run automation on schedule"""
-        if interval is None:
-            interval = self.config["settings"]["auto_update_interval"]
-        
-        print(f"🔄 Continuous mode: every {interval}s. Press Ctrl+C to stop.")
-        
-        while True:
+PROJECT_DIR = Path(__file__).parent
+HTML_FILE = PROJECT_DIR / "index.html"
+IMAGES_DIR = PROJECT_DIR / "images"
+
+RSS_FEEDS = [
+    "https://feeds.bbci.co.uk/sport/football/rss.xml",
+    "https://www.theguardian.com/football/rss",
+]
+
+SLIDER_MARKERS = ("<!--KICKOFF_SLIDER_START-->", "<!--KICKOFF_SLIDER_END-->")
+FEATURED_MARKERS = ("<!--KICKOFF_FEATURED_START-->", "<!--KICKOFF_FEATURED_END-->")
+STORIES_MARKERS = ("<!--KICKOFF_STORIES_START-->", "<!--KICKOFF_STORIES_END-->")
+
+
+async def fetch_rss_headlines():
+    print("📡 Fetching live RSS headlines...")
+    headlines = []
+    async with aiohttp.ClientSession(timeout=aiohttp.ClientTimeout(total=15)) as session:
+        for url in RSS_FEEDS:
             try:
-                asyncio.run(self.run())
-                time.sleep(interval)
-            except KeyboardInterrupt:
-                print("\n🛑 Stopped")
-                break
+                async with session.get(url, headers={"User-Agent": "KICKOFF-Bot/1.0"}) as resp:
+                    if resp.status != 200:
+                        continue
+                    text = await resp.text()
+                    root = ET.fromstring(text)
+                    for item in root.iter("item"):
+                        title = item.findtext("title", "")
+                        if title and len(title) > 20:
+                            headlines.append(title.strip())
+            except Exception as e:
+                print(f"  ⚠ RSS failed for {url}: {e}")
+    headlines = list(dict.fromkeys(headlines))[:15]
+    print(f"  Got {len(headlines)} headlines")
+    return headlines
+
+
+async def call_openai(messages, api_key, response_format=None, max_tokens=2000, model="gpt-4o-mini"):
+    headers = {
+        "Authorization": f"Bearer {api_key}",
+        "Content-Type": "application/json",
+    }
+    body = {
+        "model": model,
+        "messages": messages,
+        "max_tokens": max_tokens,
+    }
+    if response_format:
+        body["response_format"] = response_format
+    async with aiohttp.ClientSession() as session:
+        async with session.post(
+            "https://api.openai.com/v1/chat/completions",
+            headers=headers, json=body,
+        ) as resp:
+            data = await resp.json()
+            return data["choices"][0]["message"]["content"]
+
+
+async def generate_slider_content(api_key, rss_headlines):
+    print("  Generating 4 slider stories...")
+    seed = "\n".join(f"- {h}" for h in rss_headlines[:5]) if rss_headlines else "No live data"
+    prompt = f"""You are a football news editor for KICKOFF.
+Generate exactly 4 dramatic breaking-news slider headlines for May 2026.
+Each must be VERY specific: include real player names, clubs, scores, precise contexts.
+Return ONLY valid JSON array with objects: headline, category, category_tag, image_prompt.
+
+Real headlines for inspiration:
+{seed}
+
+Rules:
+- headline: max 9 words, dramatic and news-breaking
+- category_tag: one of LIVE, BREAKING, EXCLUSIVE, CONFIRMED
+- category: specific league or topic (Premier League, La Liga, Champions League, Transfer Talk)
+- image_prompt: cinematic DALL-E prompt describing a dramatic football scene
+
+Examples: {{"headline": "Salah hat-trick sinks Man United at Anfield", "category": "Premier League", "category_tag": "LIVE", "image_prompt": "Mohamed Salah celebrating a hat-trick at Anfield under floodlights, dramatic shadows, cinematic football photography"}}"""
+    try:
+        text = await call_openai([{"role": "user", "content": prompt}], api_key,
+                                  response_format={"type": "json_object"}, max_tokens=1500)
+        data = json.loads(text)
+        items = data if isinstance(data, list) else data.get("slider", data.get("items", data.get("stories", [])))
+        if not isinstance(items, list):
+            raise ValueError("not a list")
+        for i, item in enumerate(items):
+            item.setdefault("headline", f"Slider Story {i+1}")
+            item.setdefault("category", "Premier League")
+            item.setdefault("category_tag", "LIVE")
+            item.setdefault("image_prompt", "Cinematic football stadium at night")
+        print(f"    Generated {len(items)} slider stories")
+        return items[:4]
+    except Exception as e:
+        print(f"    ❌ Slider gen failed: {e}")
+        return get_fallback_slider()
+
+
+def get_fallback_slider():
+    return [
+        {"headline": "Salah hat-trick sinks Manchester United at Anfield", "category": "Premier League",
+         "category_tag": "LIVE", "image_prompt": "Mohamed Salah celebrating a hat-trick at Anfield under dramatic floodlights"},
+        {"headline": "Real Madrid agree €127M deal for Florian Wirtz", "category": "Transfer Talk",
+         "category_tag": "BREAKING", "image_prompt": "Florian Wirtz signing contract at Santiago Bernabeu"},
+        {"headline": "Arsenal title hopes crushed by Newcastle smash-and-grab", "category": "Premier League",
+         "category_tag": "LIVE", "image_prompt": "Newcastle players celebrating a last-minute winner at St James Park"},
+        {"headline": "Barcelona on verge of financial collapse after La Liga rejection", "category": "La Liga",
+         "category_tag": "EXCLUSIVE", "image_prompt": "Camp Nou stadium in darkness, moody atmosphere"},
+    ]
+
+
+async def generate_secondary_content(api_key, rss_headlines, count, section_name, examples):
+    seed = "\n".join(f"- {h}" for h in rss_headlines[:8]) if rss_headlines else "No live data"
+    prompt = f"""You are a football news writer for KICKOFF.
+Generate exactly {count} detailed football headlines for the "{section_name}" section, set in May 2026.
+Each must be VERY specific: include real player names, clubs, scores, transfer fees, and context.
+
+Real headlines for inspiration:
+{seed}
+
+Return ONLY valid JSON array of objects with fields:
+- headline: specific detailed headline (max 12 words)
+- category: one of Premier League, La Liga, Serie A, Bundesliga, Ligue 1, Champions League, Transfers, Analysis, Rumors, Opinion, Interviews
+- image_prompt: cinematic DALL-E prompt for a football scene related to this story
+
+Examples:
+{examples}"""
+    try:
+        text = await call_openai([{"role": "user", "content": prompt}], api_key,
+                                  response_format={"type": "json_object"}, max_tokens=2000)
+        data = json.loads(text)
+        items = data if isinstance(data, list) else data.get("stories", data.get("items", data.get(section_name, [])))
+        if not isinstance(items, list):
+            raise ValueError("not a list")
+        for i, item in enumerate(items):
+            item.setdefault("headline", f"{section_name} Story {i+1}")
+            item.setdefault("category", "Premier League")
+            item.setdefault("image_prompt", "Cinematic football action shot")
+        print(f"    Generated {len(items)} {section_name} stories")
+        return items[:count]
+    except Exception as e:
+        print(f"    ❌ {section_name} gen failed: {e}")
+        return []
+
+
+async def generate_image(api_key, prompt, size, filepath):
+    os.makedirs(IMAGES_DIR, exist_ok=True)
+    headers = {
+        "Authorization": f"Bearer {api_key}",
+        "Content-Type": "application/json",
+    }
+    full_prompt = f"{prompt}. Cinematic dark moody aesthetic, dramatic stadium lighting, film print grain, high contrast, professional sports photography, photorealistic"
+    body = {
+        "model": "dall-e-3",
+        "prompt": full_prompt,
+        "size": size,
+        "quality": "standard",
+        "n": 1,
+    }
+    try:
+        async with aiohttp.ClientSession() as session:
+            async with session.post(
+                "https://api.openai.com/v1/images/generations",
+                headers=headers, json=body,
+                timeout=aiohttp.ClientTimeout(total=120),
+            ) as resp:
+                if resp.status != 200:
+                    err = await resp.text()
+                    print(f"    ⚠ DALL-E error {resp.status}: {err[:100]}")
+                    return None
+                data = await resp.json()
+                image_url = data["data"][0]["url"]
+            async with session.get(image_url, timeout=aiohttp.ClientTimeout(total=60)) as img_resp:
+                if img_resp.status == 200:
+                    with open(filepath, "wb") as f:
+                        f.write(await img_resp.read())
+                    rel = os.path.relpath(filepath, PROJECT_DIR)
+                    print(f"    ✅ Saved: {rel}")
+                    return rel
+    except Exception as e:
+        print(f"    ❌ Image error: {e}")
+    return None
+
+
+def format_times_ago(count):
+    minutes = [15, 28, 42, 55]
+    hours = [1, 2, 3, 4, 5, 6]
+    times = [f"{m} min ago" for m in minutes] + [f"{h} hour ago" for h in hours]
+    return times[:count]
+
+
+def build_slider_html(items, images):
+    html = ""
+    for item in items:
+        img_src = images.get(item.get("_key", ""), "")
+        cat = item.get("category", "Premier League")
+        tag = item.get("category_tag", "LIVE")
+        headline = item.get("headline", "Football News")
+        html += f"""            <div class="slide">
+                <div class="slide-image">
+                    <img src="{img_src}" alt="{cat}">
+                </div>
+                <div class="slide-content">
+                    <div class="slide-meta"><span style="color:#0e8a46">● {tag}</span> · {cat}</div>
+                    <h3 class="slide-title">{headline}</h3>
+                </div>
+            </div>
+"""
+    return html
+
+
+def build_featured_html(items, images):
+    html = ""
+    for item in items:
+        img_src = images.get(item.get("_key", ""), "")
+        cat = item.get("category", "Premier League")
+        headline = item.get("headline", "Football News")
+        html += f"""            <a href="#" class="featured-card">
+                <div class="featured-image">
+                    <img src="{img_src}" style="width:100%;height:100%;object-fit:cover;">
+                </div>
+                <div class="featured-meta" data-cat="{cat}">{cat} · LIVE</div>
+                <h3 class="featured-title">{headline}</h3>
+            </a>
+"""
+    return html
+
+
+def build_stories_html(items, images):
+    times = format_times_ago(len(items))
+    html = ""
+    for i, item in enumerate(items):
+        img_src = images.get(item.get("_key", ""), "")
+        cat = item.get("category", "Premier League")
+        headline = item.get("headline", "Football News")
+        time_str = times[i] if i < len(times) else f"{i+1} hour ago"
+        html += f"""            <a href="#" class="pub-card">
+                <div class="pub-image"><img src="{img_src}" style="width:100%;height:100%;object-fit:cover;"></div>
+                <div class="pub-meta" data-cat="{cat}">{cat} · {time_str}</div>
+                <h3 class="pub-title">{headline}</h3>
+            </a>
+"""
+    return html
+
+
+def replace_between(text, markers, new_content):
+    start_marker, end_marker = markers
+    start_idx = text.find(start_marker)
+    end_idx = text.find(end_marker)
+    if start_idx == -1 or end_idx == -1:
+        print(f"  ⚠ Marker not found: {start_marker}")
+        return text
+    start_idx += len(start_marker)
+    before = text[:start_idx]
+    after = text[end_idx:]
+    return before + "\n" + new_content + after
+
+
+async def run():
+    print("=" * 60)
+    print("⚡ KICKOFF AI AUTOMATION SYSTEM")
+    print("=" * 60)
+
+    api_key = os.environ.get("OPENAI_API_KEY", "")
+    if not api_key:
+        # Try config file
+        config_file = PROJECT_DIR / "config.json"
+        if config_file.exists():
+            with open(config_file) as f:
+                cfg = json.load(f)
+                api_key = cfg.get("api_keys", {}).get("openai", "")
+    
+    if not api_key or api_key == "your-openai-api-key-here":
+        print("❌ No valid OpenAI API key found. Set OPENAI_API_KEY env var or update config.json")
+        return
+
+    # 1. Fetch live RSS headlines
+    rss_headlines = await fetch_rss_headlines()
+
+    # 2. Generate content
+    print("\n📝 Generating content...")
+
+    slider_items = await generate_slider_content(api_key, rss_headlines)
+    featured_items = await generate_secondary_content(
+        api_key, rss_headlines, 3, "featured",
+        '[{"headline": "Ancelotti masterclass: Real Madrid dismantle Barcelona 4-0", "category": "La Liga", "image_prompt": "Carlo Ancelotti celebrating on the Bernabeu touchline"}]'
+    )
+    stories_items = await generate_secondary_content(
+        api_key, rss_headlines, 9, "more-stories",
+        '[{"headline": "Exclusive: Ruben Amorim agrees to become next Man United manager", "category": "Premier League", "image_prompt": "Ruben Amorim in a stadium tunnel"}]'
+    )
+
+    if not featured_items:
+        featured_items = get_fallback_slider()[:3]
+    if not stories_items:
+        stories_items = [
+            {"headline": "Exclusive: Ruben Amorim agrees Man United deal for 2026", "category": "Premier League",
+             "image_prompt": "Ruben Amorim in Old Trafford tunnel"},
+            {"headline": "Man City trigger Joshua Kimmich €85M release clause", "category": "Transfers",
+             "image_prompt": "Joshua Kimmich in action at Allianz Arena"},
+            {"headline": "Lamine Yamal signs new Barcelona deal until 2032", "category": "La Liga",
+             "image_prompt": "Lamine Yamal signing contract at Camp Nou"},
+            {"headline": "Liverpool plot surprise move for Inter Milan star", "category": "Rumors",
+             "image_prompt": "Inter Milan star walking through stadium tunnel"},
+            {"headline": "PSG prepare €200M bid for Victor Osimhen this summer", "category": "Transfers",
+             "image_prompt": "Victor Osimhen celebrating goal in Serie A"},
+            {"headline": "Why Serie A is becoming the destination for aging superstars", "category": "Analysis",
+             "image_prompt": "Serie A match at San Siro under floodlights"},
+            {"headline": "Exclusive interview: Wrexham's Hollywood dream continues", "category": "Interviews",
+             "image_prompt": "Wrexham stadium packed with fans, dramatic lighting"},
+            {"headline": "Champions League reform: What the new 36-team format means", "category": "Opinion",
+             "image_prompt": "Champions League trophy at stadium centre circle"},
+            {"headline": "La Masia revival: Barcelona's latest teenage sensation", "category": "Analysis",
+             "image_prompt": "Young Barcelona player training at La Masia academy"},
+        ]
+
+    # 3. Add keys for image mapping
+    all_items = []
+    for prefix, items in [("slider", slider_items), ("featured", featured_items), ("story", stories_items)]:
+        for i, item in enumerate(items):
+            item["_key"] = f"{prefix}_{i}"
+            all_items.append(item)
+
+    print(f"\n🎨 Generating {len(all_items)} images...")
+    image_map = {}
+
+    for item in all_items:
+        key = item["_key"]
+        is_slider = key.startswith("slider")
+        size = "1792x1024" if is_slider else "1024x1024"
+        filename = f"{key}.png"
+        filepath = IMAGES_DIR / filename
+        rel = await generate_image(api_key, item["image_prompt"], size, filepath)
+        if rel:
+            image_map[key] = rel
+        else:
+            # Fallback to Unsplash placeholders
+            image_map[key] = f"https://images.unsplash.com/photo-1522778119026-d647f0565c6a?w=500&h=281&fit=crop"
+
+    # 4. Update HTML
+    print("\n🌐 Updating website...")
+    with open(HTML_FILE, "r") as f:
+        html = f.read()
+
+    slider_html = build_slider_html(slider_items, image_map)
+    html = replace_between(html, SLIDER_MARKERS, slider_html)
+
+    featured_html = build_featured_html(featured_items, image_map)
+    html = replace_between(html, FEATURED_MARKERS, featured_html)
+
+    stories_html = build_stories_html(stories_items, image_map)
+    html = replace_between(html, STORIES_MARKERS, stories_html)
+
+    with open(HTML_FILE, "w") as f:
+        f.write(html)
+
+    print("✅ Website updated!")
+
+    # 5. Save content data
+    content_data = {
+        "generated_at": datetime.now().isoformat(),
+        "rss_headlines_used": len(rss_headlines),
+        "sections": {
+            "slider": slider_items,
+            "featured": featured_items,
+            "stories": stories_items,
+        },
+    }
+    with open(PROJECT_DIR / "content_data.json", "w") as f:
+        json.dump(content_data, f, indent=2)
+
+    print("\n" + "=" * 60)
+    print("✅ Automation complete!")
+    print("=" * 60)
 
 
 if __name__ == "__main__":
-    automator = DispatchAutomator()
-    import sys
-    
-    if len(sys.argv) > 1 and sys.argv[1] == "--continuous":
-        automator.run_continuous()
-    else:
-        asyncio.run(automator.run())
+    asyncio.run(run())

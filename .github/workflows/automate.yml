@@ -1,9 +1,9 @@
-name: AI Content & Image Automation
+name: KICKOFF AI Content Automation
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Every 6 hours
-  workflow_dispatch:  # Manual trigger
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
@@ -24,24 +24,17 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: |
-          pip install -r requirements.txt
-          pip install aiohttp
+        run: pip install -r requirements.txt
 
-      - name: Generate AI images
+      - name: Generate content & images
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: python generate_images.py
-
-      - name: Run content automation
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          FOOTBALL_API_KEY: ${{ secrets.FOOTBALL_API_KEY }}
         run: python automate.py
 
       - name: Commit and push changes
         if: success()
         run: |
+          mkdir -p images
           git config --global user.name "KICKOFF Bot"
           git config --global user.email "kickoff-bot@github.com"
           git fetch origin main
