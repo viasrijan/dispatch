@@ -149,14 +149,72 @@ Examples:
         return []
 
 
-async def generate_image(api_key, prompt, size, filepath, recraft_key=None):
+async def generate_image(api_key, prompt, size, filepath, recraft_key=None, gemini_key=None):
     os.makedirs(IMAGES_DIR, exist_ok=True)
     
-    # Use Recraft if API key provided, otherwise fallback to DALL-E
+    # Priority: Recraft > Gemini > DALL-E
     if recraft_key:
         return await generate_recraft_image(recraft_key, prompt, size, filepath)
+    elif gemini_key:
+        return await generate_gemini_image(gemini_key, prompt, size, filepath)
     else:
         return await generate_dalle_image(api_key, prompt, size, filepath)
+
+
+async def generate_gemini_image(gemini_key, prompt, size, filepath):
+    """Generate image using Google Gemini API (500 free/day)"""
+    import base64
+    
+    headers = {
+        "Authorization": f"Bearer {gemini_key}",
+        "Content-Type": "application/json",
+    }
+    
+    # Size mapping for Gemini
+    size_map = {
+        "1792x1024": "1792x1024",
+        "1024x1024": "1024x1024",
+    }
+    gemini_size = size_map.get(size, "1024x1024")
+    
+    full_prompt = f"{prompt}. Cinematic dark moody aesthetic, dramatic stadium lighting, film print grain, high contrast, professional sports photography, photorealistic, football"
+    
+    body = {
+        "model": "gemini-2.0-flash-exp-image-generation",
+        "prompt": full_prompt,
+        "output_format": "base64",
+    }
+    
+    try:
+        async with aiohttp.ClientSession() as session:
+            async with session.post(
+                "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp-image-generation:generateContent",
+                headers=headers, json=body,
+                timeout=aiohttp.ClientTimeout(total=120),
+            ) as resp:
+                if resp.status != 200:
+                    err = await resp.text()
+                    print(f"    ⚠ Gemini error {resp.status}: {err[:150]}")
+                    return None
+                data = await resp.json()
+                # Extract base64 image
+                if "candidates" in data and len(data["candidates"]) > 0:
+                    content = data["candidates"][0].get("content", {})
+                    parts = content.get("parts", [])
+                    for part in parts:
+                        if "inlineData" in part:
+                            img_data = part["inlineData"]["data"]
+                            img_bytes = base64.b64decode(img_data)
+                            with open(filepath, "wb") as f:
+                                f.write(img_bytes)
+                            rel = os.path.relpath(filepath, PROJECT_DIR)
+                            print(f"    ✅ Saved: {rel}")
+                            return rel
+                print(f"    ⚠ Gemini response missing image")
+                return None
+    except Exception as e:
+        print(f"    ❌ Gemini error: {e}")
+    return None
 
 
 async def generate_recraft_image(recraft_key, prompt, size, filepath):
@@ -389,17 +447,23 @@ async def run():
              "image_prompt": "Young Barcelona player training at La Masia academy"},
         ]
 
-    # Check for Recraft API key first
+    # Check for Recraft or Gemini API keys first
     recraft_key = os.environ.get("RECRAFT_API_KEY", "")
+    gemini_key = os.environ.get("GEMINI_API_KEY", "")
+    
     if not recraft_key:
         config_file = PROJECT_DIR / "config.json"
         if config_file.exists():
             with open(config_file) as f:
                 cfg = json.load(f)
                 recraft_key = cfg.get("api_keys", {}).get("recraft", "")
+                if not gemini_key:
+                    gemini_key = cfg.get("api_keys", {}).get("gemini", "")
     
     if recraft_key:
         print("  Using Recraft API for image generation")
+    elif gemini_key:
+        print("  Using Google Gemini API for image generation (500 free/day)")
     elif api_key:
         print("  Using DALL-E for image generation (fallback)")
     
@@ -419,7 +483,7 @@ async def run():
         size = "1792x1024" if is_slider else "1024x1024"
         filename = f"{key}.png"
         filepath = IMAGES_DIR / filename
-        rel = await generate_image(api_key, item["image_prompt"], size, filepath, recraft_key)
+        rel = await generate_image(api_key, item["image_prompt"], size, filepath, recraft_key, gemini_key)
         if rel:
             image_map[key] = rel
         else:
