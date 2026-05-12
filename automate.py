@@ -529,42 +529,6 @@ async def run():
     print(f"       🟢 Stories ({len(stories_items)}): {[s.get('importance', 3) for s in stories_items]}")
     
     # Generate images for each story
-    """Generate image using Google Gemini API (500 free/day) - 4:3 ratio"""
-    import base64
-    import random
-    
-    headers = {
-        "Authorization": f"Bearer {gemini_key}",
-        "Content-Type": "application/json",
-    }
-    
-    # ALL IMAGES AT 4:3 RATIO - will be cropped/resized by CSS
-    gemini_size = "1024x768"  # 4:3 ratio
-    
-    # Add unique variation to each prompt so images are different
-    unique_variations = [
-        "at golden hour with warm sunset lighting",
-        "at night with dramatic floodlights and shadows", 
-        "during a match with crowd in background",
-        "in a dramatic stadium tunnel entrance",
-        "with dark moody atmosphere and rain effect",
-        "under bright midday sun with sharp shadows",
-        "at dusk with purple and orange sky",
-        "in a filled stadium with dramatic angle",
-        "training ground session with players",
-        "press conference room with manager",
-        "medical room with player recovering",
-        "training ground gym with equipment",
-    ]
-    variation = random.choice(unique_variations)
-    
-    full_prompt = f"{prompt}. Cinematic, photorealistic, {variation}, high contrast, film grain, professional sports photography"
-    
-    body = {
-        "model": "gemini-2.0-flash-exp-image-generation",
-        "prompt": full_prompt,
-        "output_format": "base64",
-    }
     
     try:
         async with aiohttp.ClientSession() as session:
