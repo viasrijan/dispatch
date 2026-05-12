@@ -146,15 +146,39 @@ html {
         .slider-container {
             margin-bottom: 60px;
             display: flex;
-            justify-content: flex-start;
+            align-items: stretch;
+            gap: 0;
+            max-width: 1200px;
+        }
+
+        .slider-nav-arrow {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background: var(--surface);
+            border: 1px solid var(--border);
+            color: var(--text-primary);
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 18px;
+            transition: all 0.3s ease;
+            align-self: center;
+            flex-shrink: 0;
+        }
+
+        .slider-nav-arrow:hover {
+            background: var(--accent);
+            border-color: var(--accent);
         }
 
         .slider-main {
-            position: relative;
+            display: flex;
+            width: 900px;
+            height: 300px;
+            border-radius: 12px;
             overflow: hidden;
-            border-radius: 8px;
-            width: 500px;
-            height: 281px;
             flex-shrink: 0;
         }
 
@@ -162,15 +186,43 @@ html {
             display: flex;
             transition: transform 0.5s ease;
             width: 100%;
+            height: 100%;
         }
 
         .slide {
-            min-width: 500px;
-            width: 500px;
-            height: 281px;
+            display: flex;
+            width: 900px;
+            height: 300px;
+            flex-shrink: 0;
+            background: var(--surface);
         }
 
-        .slider-main:hover .slider-arrow {
+        .slide-image {
+            width: 500px;
+            height: 300px;
+            background: var(--surface);
+            flex-shrink: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .slide-image img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .slide-content {
+            flex: 1;
+            padding: 40px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            background: var(--surface);
+        }
+
+        .slider-nav-arrow:hover {
             opacity: 1;
         }
 
@@ -236,7 +288,7 @@ html {
             font-size: 1.4rem;
             font-weight: 600;
             line-height: 1.3;
-            color: white;
+            color: var(--text-primary);
             margin: 0;
         }
 
@@ -828,15 +880,55 @@ html {
         </div>
     </header>
 
-    <section class="featured">
+<section class="featured">
         <div class="slider-container">
-            <!-- Slider with 4 posts -->
+            <!-- Left arrow -->
+            <button class="slider-nav-arrow" onclick="prevSlide()">&#10094;</button>
+            
             <div class="slider-main">
                 <div class="slider-track" id="sliderTrack">
                     <div class="slide">
                         <div class="slide-image">
-                            <img src="https://images.unsplash.com/photo-1522778119026-d647f0565c6a?w=800&h=800&fit=crop?w=800&h=800&fit=crop?w=800&h=800&fit=crop?w=800&h=800&fit=crop?w=800&h=800&fit=crop?w=800&h=800&fit=crop?w=150&h=150&fit=crop" alt="Football match" style="width:100%;height:100%;object-fit:cover;">
+                            <img src="https://images.unsplash.com/photo-1522778119026-d647f0565c6a?w=500&h=300&fit=crop" alt="Football match">
                         </div>
+                        <div class="slide-content">
+                            <div class="slide-meta"><span style="color:#0e8a46">● LIVE</span> · Premier League</div>
+                            <h3 class="slide-title">Premier League title race heats up as top teams drop points</h3>
+                        </div>
+                    </div>
+                    <div class="slide">
+                        <div class="slide-image">
+                            <img src="https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=500&h=300&fit=crop" alt="Transfer news">
+                        </div>
+                        <div class="slide-content">
+                            <div class="slide-meta"><span style="color:#0e8a46">● LIVE</span> · Transfer News</div>
+                            <h3 class="slide-title">Transfer window: Top clubs in final negotiations before deadline</h3>
+                        </div>
+                    </div>
+                    <div class="slide">
+                        <div class="slide-image">
+                            <img src="https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=500&h=300&fit=crop" alt="Trophy">
+                        </div>
+                        <div class="slide-content">
+                            <div class="slide-meta"><span style="color:#0e8a46">● LIVE</span> · Champions League</div>
+                            <h3 class="slide-title">Champions League quarter-finals: Key matches and storylines</h3>
+                        </div>
+                    </div>
+                    <div class="slide">
+                        <div class="slide-image">
+                            <img src="https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?w=500&h=300&fit=crop" alt="Breaking news">
+                        </div>
+                        <div class="slide-content">
+                            <div class="slide-meta"><span style="color:#0e8a46">● LIVE</span> · Breaking News</div>
+                            <h3 class="slide-title">Breaking: Star player announces shock departure from club</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Right arrow -->
+            <button class="slider-nav-arrow" onclick="nextSlide()">&#10095;</button>
+        </div>
                         <div class="slide-content">
                             <div class="slide-meta"><span style="color:#0e8a46">● LIVE</span> · Premier League</div>
                             <h3 class="slide-title">Premier League title race heats up as top teams drop points</h3>
@@ -884,10 +976,16 @@ html {
             currentSlide = index;
             const track = document.getElementById('sliderTrack');
             track.style.transform = 'translateX(-' + (index * 100) + '%)';
-            
-            document.querySelectorAll('.slider-dot').forEach(function(dot, i) {
-                dot.classList.toggle('active', i === index);
-            });
+        }
+
+        function nextSlide() {
+            currentSlide = (currentSlide + 1) % totalSlides;
+            goToSlide(currentSlide);
+        }
+
+        function prevSlide() {
+            currentSlide = (currentSlide - 1 + totalSlides) % totalSlides;
+            goToSlide(currentSlide);
         }
 
         setInterval(function() {
@@ -898,11 +996,9 @@ html {
         // Keyboard navigation
         document.addEventListener('keydown', function(e) {
             if (e.key === 'ArrowLeft') {
-                currentSlide = (currentSlide - 1 + totalSlides) % totalSlides;
-                goToSlide(currentSlide);
+                prevSlide();
             } else if (e.key === 'ArrowRight') {
-                currentSlide = (currentSlide + 1) % totalSlides;
-                goToSlide(currentSlide);
+                nextSlide();
             }
         });
     </script>
