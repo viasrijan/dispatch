@@ -66,27 +66,23 @@ async def call_openai(messages, api_key, response_format=None, max_tokens=2000, 
 
 
 async def generate_slider_content(api_key, rss_headlines):
-    print("  Generating 4 slider stories...")
+    print("  Generating 8-10 stories with importance scores...")
     seed = "\n".join(f"- {h}" for h in rss_headlines[:5]) if rss_headlines else "No live data"
     prompt = f"""You are a football news editor for KICKOFF.
-Generate exactly 4 dramatic breaking-news slider headlines for THE CURRENT TIME: May 12, 2026.
-These should be news happening RIGHT NOW in May 2026 - today's matches, transfers happening now, breaking news this week.
+Generate 10 detailed football stories for THE CURRENT TIME: May 12, 2026.
+Each story must be VERY specific with real player names, clubs, exact scores, transfer fees from May 2026.
 
-Each must be VERY specific with: real player names, clubs, actual scores, precise contexts from May 2026.
-Return ONLY valid JSON array with objects: headline, category, category_tag, image_prompt.
+Return ONLY valid JSON array. Each object MUST have:
+- headline: specific headline (max 12 words)
+- category: league or topic (Premier League, La Liga, Transfers, etc.)
+- category_tag: LIVE, BREAKING, EXCLUSIVE, or CONFIRMED
+- importance: INTEGER 1-5 (5=most important/breaking, 1=least important)
+- image_prompt: UNIQUE scene description - different stadium, different player, different moment
 
-Today's real headlines for inspiration:
+Today's headlines for inspiration:
 {seed}
 
-Rules for May 2026 content:
-- Use specific dates like "today", "this week", "tonight"  
-- Include real 2026 context (current season, upcoming tournaments in June 2026)
-- headline: max 9 words, dramatic and news-breaking
-- category_tag: one of LIVE, BREAKING, EXCLUSIVE, CONFIRMED  
-- category: specific league or topic (Premier League, La Liga, Champions League, Transfers)
-- image_prompt: MUST be UNIQUE for each story - describe the specific scene (different stadium, different player action, different moment)
-
-Example: {{"headline": "Arsenal vs Liverpool - Odegaard scores in 89th minute at Emirates", "category": "Premier League", "category_tag": "LIVE", "image_prompt": "Martin Odegaard celebrating a last-minute winner at Emirates Stadium with Arsenal fans going wild"}}"""
+Format: [{{"headline": "...", "category": "...", "category_tag": "...", "importance": 5, "image_prompt": "..."}}, ...]"""
     try:
         text = await call_openai([{"role": "user", "content": prompt}], api_key,
                                   response_format={"type": "json_object"}, max_tokens=1500)
@@ -431,44 +427,108 @@ async def run():
     # 1. Fetch live RSS headlines
     rss_headlines = await fetch_rss_headlines()
 
-    # 2. Generate content
-    print("\n📝 Generating content...")
+    # 2. Generate content with importance scoring
+    print("\n📝 Generating content with importance scoring...")
+    
+    # Generate 10 stories with importance scores (1-5)
+    all_stories = await generate_slider_content(api_key, rss_headlines)
+    
+    # Ensure each story has an importance score
+    for story in all_stories:
+        if "importance" not in story:
+            story["importance"] = 3  # Default medium importance
+    
+    # Sort by importance (highest first)
+    all_stories.sort(key=lambda x: x.get("importance", 3), reverse=True)
+    
+    # Assign to sections based on importance
+    slider_items = all_stories[:4]  # Top 4 most important
+    featured_items = all_stories[4:7]  # Next 3
+    stories_items = all_stories[7:]  # Rest
+    
+    # Add section-specific tags based on importance
+    for i, item in enumerate(slider_items):
+        item["category_tag"] = "BREAKING" if item.get("importance", 3) >= 5 else "LIVE"
+    for item in featured_items:
+        item["category_tag"] = "FEATURED"
+    for item in stories_items:
+        item["category_tag"] = "NEWS"
+    
+    print(f"    📊 Priority assignment:")
+    print(f"       🔴 Slider (top 4): {[s.get('importance', 3) for s in slider_items]}")
+    print(f"       🟠 Featured (3): {[s.get('importance', 3) for s in featured_items]}")
+    print(f"       🟢 Stories ({len(stories_items)}): {[s.get('importance', 3) for s in stories_items]}")
+    
+    # Generate images for each story
+    """Generate image using Google Gemini API (500 free/day) - 4:3 ratio"""
+    import base64
+    import random
+    
+    headers = {
+        "Authorization": f"Bearer {gemini_key}",
+        "Content-Type": "application/json",
+    }
+    
+    # ALL IMAGES AT 4:3 RATIO - will be cropped/resized by CSS
+    gemini_size = "1024x768"  # 4:3 ratio
+    
+    # Add unique variation to each prompt so images are different
+    unique_variations = [
+        "at golden hour with warm sunset lighting",
+        "at night with dramatic floodlights and shadows", 
+        "during a match with crowd in background",
+        "in a dramatic stadium tunnel entrance",
+        "with dark moody atmosphere and rain effect",
+        "under bright midday sun with sharp shadows",
+        "at dusk with purple and orange sky",
+        "in a filled stadium with dramatic angle",
+        "training ground session with players",
+        "press conference room with manager",
+        "medical room with player recovering",
+        "training ground gym with equipment",
+    ]
+    variation = random.choice(unique_variations)
+    
+    full_prompt = f"{prompt}. Cinematic, photorealistic, {variation}, high contrast, film grain, professional sports photography"
+    
+    body = {
+        "model": "gemini-2.0-flash-exp-image-generation",
+        "prompt": full_prompt,
+        "output_format": "base64",
+    }
+    
+    try:
+        async with aiohttp.ClientSession() as session:
+            async with session.post(
+                "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp-image-generation:generateContent",
+                headers=headers, json=body,
+                timeout=aiohttp.ClientTimeout(total=120),
+            ) as resp:
+                if resp.status != 200:
+                    err = await resp.text()
+                    print(f"    ⚠ Gemini error {resp.status}: {err[:150]}")
+                    return None
+                data = await resp.json()
+                if "candidates" in data and len(data["candidates"]) > 0:
+                    content = data["candidates"][0].get("content", {})
+                    parts = content.get("parts", [])
+                    for part in parts:
+                        if "inlineData" in part:
+                            img_data = part["inlineData"]["data"]
+                            img_bytes = base64.b64decode(img_data)
+                            with open(filepath, "wb") as f:
+                                f.write(img_bytes)
+                            rel = os.path.relpath(filepath, PROJECT_DIR)
+                            print(f"    ✅ Saved: {rel}")
+                            return rel
+                print(f"    ⚠ Gemini response missing image")
+                return None
+    except Exception as e:
+        print(f"    ❌ Gemini error: {e}")
+    return None
 
-    slider_items = await generate_slider_content(api_key, rss_headlines)
-    featured_items = await generate_secondary_content(
-        api_key, rss_headlines, 3, "featured",
-        '[{"headline": "Ancelotti masterclass: Real Madrid dismantle Barcelona 4-0", "category": "La Liga", "image_prompt": "Carlo Ancelotti celebrating on the Bernabeu touchline"}]'
-    )
-    stories_items = await generate_secondary_content(
-        api_key, rss_headlines, 9, "more-stories",
-        '[{"headline": "Exclusive: Ruben Amorim agrees to become next Man United manager", "category": "Premier League", "image_prompt": "Ruben Amorim in a stadium tunnel"}]'
-    )
 
-    if not featured_items:
-        featured_items = get_fallback_slider()[:3]
-    if not stories_items:
-        stories_items = [
-            {"headline": "Exclusive: Ruben Amorim agrees Man United deal for 2026", "category": "Premier League",
-             "image_prompt": "Ruben Amorim in Old Trafford tunnel"},
-            {"headline": "Man City trigger Joshua Kimmich €85M release clause", "category": "Transfers",
-             "image_prompt": "Joshua Kimmich in action at Allianz Arena"},
-            {"headline": "Lamine Yamal signs new Barcelona deal until 2032", "category": "La Liga",
-             "image_prompt": "Lamine Yamal signing contract at Camp Nou"},
-            {"headline": "Liverpool plot surprise move for Inter Milan star", "category": "Rumors",
-             "image_prompt": "Inter Milan star walking through stadium tunnel"},
-            {"headline": "PSG prepare €200M bid for Victor Osimhen this summer", "category": "Transfers",
-             "image_prompt": "Victor Osimhen celebrating goal in Serie A"},
-            {"headline": "Why Serie A is becoming the destination for aging superstars", "category": "Analysis",
-             "image_prompt": "Serie A match at San Siro under floodlights"},
-            {"headline": "Exclusive interview: Wrexham's Hollywood dream continues", "category": "Interviews",
-             "image_prompt": "Wrexham stadium packed with fans, dramatic lighting"},
-            {"headline": "Champions League reform: What the new 36-team format means", "category": "Opinion",
-             "image_prompt": "Champions League trophy at stadium centre circle"},
-            {"headline": "La Masia revival: Barcelona's latest teenage sensation", "category": "Analysis",
-             "image_prompt": "Young Barcelona player training at La Masia academy"},
-        ]
-
-    # Check for Recraft or Gemini API keys first
+# Check for Recraft or Gemini API keys first
     recraft_key = os.environ.get("RECRAFT_API_KEY", "")
     gemini_key = os.environ.get("GEMINI_API_KEY", "")
     
@@ -501,13 +561,13 @@ async def run():
             item["_key"] = f"{prefix}_{i}"
             all_items.append(item)
 
-    print(f"\n🎨 Generating {len(all_items)} images...")
+    print(f"\n🎨 Generating {len(all_items)} images (all 4:3 ratio)...")
     image_map = {}
 
     for item in all_items:
         key = item["_key"]
-        is_slider = key.startswith("slider")
-        size = "1792x1024" if is_slider else "1024x1024"
+        # ALL IMAGES AT 4:3 RATIO - CSS will crop/resize as needed
+        size = "1024x768"  # 4:3 aspect ratio
         filename = f"{key}.png"
         filepath = IMAGES_DIR / filename
         rel = await generate_image(api_key, item["image_prompt"], size, filepath, recraft_key, gemini_key)
@@ -515,7 +575,7 @@ async def run():
             image_map[key] = rel
         else:
             # Fallback to Unsplash placeholders
-            image_map[key] = f"https://images.unsplash.com/photo-1511882150382-421056c89033?w=500&h=281&fit=crop"
+            image_map[key] = f"https://images.unsplash.com/photo-1511882150382-421056c89033?w=1024&h=768&fit=crop"
 
     # 4. Update HTML
     print("\n🌐 Updating website...")
