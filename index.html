@@ -146,124 +146,11 @@ html {
             position: relative;
         }
 
-.slider-main {
-            display: flex;
-            width: 100%;
-            height: 281px;
+        .slider-main {
+            overflow: hidden;
             border-radius: 12px;
-            overflow: hidden;
+            width: 100%;
             position: relative;
-        }
-
-        .slider-nav-arrow {
-            position: absolute;
-            top: 50%;
-            transform: translateY(-50%);
-            width: 40px;
-            height: 40px;
-            border-radius: 50%;
-            background: #0e8a46;
-            border: 1px solid #0e8a46;
-            color: #ffffff;
-            cursor: pointer;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 18px;
-            transition: all 0.3s ease;
-            z-index: 10;
-        }
-
-        .slider-nav-arrow:hover {
-            background: #ffffff;
-            border-color: #ffffff;
-            color: #0e8a46;
-        }
-
-.slider-prev { left: 20px; }
-        .slider-next { right: 20px; }
-
- .slide {
-            display: flex;
-            width: 100%;
-            height: 281px;
-            flex-shrink: 0;
-            background: var(--surface);
-        }
-
-        .slide-image {
-            width: 500px;
-            height: 281px;
-            background: var(--surface);
-            flex-shrink: 0;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-        }
-
-        .slide-image img {
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
-        }
-
-        .slide-content {
-            flex: 1;
-            padding: 20px;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            background: var(--surface);
-        }
-
-        .slide-meta {
-            font-size: 0.75rem;
-            color: var(--text-secondary);
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
-            margin-bottom: 8px;
-        }
-
-        .slide-title {
-            font-size: 1rem;
-            font-weight: 600;
-            line-height: 1.2;
-            color: var(--text-primary);
-            margin: 0;
-            display: -webkit-box;
-            -webkit-line-clamp: 2;
-            -webkit-box-orient: vertical;
-            overflow: hidden;
-            word-wrap: break-word;
-        }
-
-        .slide-image {
-            width: 500px;
-            height: 300px;
-            background: var(--surface);
-            flex-shrink: 0;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-        }
-
-        .slide-image img {
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
-        }
-
-        .slide-content {
-            flex: 1;
-            padding: 40px;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            background: var(--surface);
-        }
-
-        .slider-nav-arrow:hover {
-            opacity: 1;
         }
 
         .slider-track {
@@ -272,18 +159,23 @@ html {
         }
 
         .slide {
+            display: flex;
+            width: 100%;
             min-width: 100%;
-            position: relative;
-            aspect-ratio: 16/9;
+            height: 281px;
+            flex-shrink: 0;
+            background: var(--surface);
         }
 
-.slide-image {
+        .slide-image {
             width: 500px;
             height: 281px;
-            background: var(--surface);
+            flex-shrink: 0;
+            overflow: hidden;
             display: flex;
             align-items: center;
             justify-content: center;
+            background: var(--surface);
         }
 
         .slide-image img {
@@ -292,28 +184,14 @@ html {
             object-fit: cover;
         }
 
-        .slide-placeholder {
-            width: 100%;
-            height: 100%;
-            background: linear-gradient(135deg, var(--bg-tertiary) 0%, var(--surface) 100%);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-        }
-
-        .slide-placeholder i {
-            font-size: 4rem;
-            color: var(--text-muted);
-        }
-
         .slide-content {
-            position: absolute;
-            bottom: 0;
-            left: 0;
-            right: 0;
-            padding: 24px;
-            background: rgba(0, 0, 0, 0.6);
-            backdrop-filter: blur(8px);
+            flex: 1;
+            padding: 24px 28px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            background: var(--surface);
+            min-height: 281px;
         }
 
         .slide-meta {
@@ -321,54 +199,79 @@ html {
             color: var(--text-secondary);
             text-transform: uppercase;
             letter-spacing: 0.5px;
-            margin-bottom: 6px;
+            margin-bottom: 10px;
         }
 
         .slide-title {
-            font-size: 1.4rem;
-            font-weight: 600;
-            line-height: 1.3;
+            font-size: clamp(30px, 3.2vw, 48px);
+            font-weight: 700;
+            line-height: 1.05;
             color: var(--text-primary);
             margin: 0;
+            max-height: 281px;
+            word-break: break-word;
+            overflow-wrap: break-word;
         }
 
         .slider-arrow {
             position: absolute;
             top: 50%;
             transform: translateY(-50%);
-            width: 50px;
-            height: 50px;
-            background: rgba(255, 255, 255, 0.2);
-            border: none;
-            color: white;
-            font-size: 24px;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background: rgba(14, 138, 70, 0.95);
+            border: 1px solid rgba(14, 138, 70, 0.95);
+            color: #ffffff;
             cursor: pointer;
-            transition: all 0.3s ease;
-            opacity: 0;
             display: flex;
             align-items: center;
             justify-content: center;
+            font-size: 18px;
+            transition: all 0.25s ease;
+            opacity: 0;
             z-index: 10;
         }
 
+        .slider-main:hover .slider-arrow {
+            opacity: 1;
+        }
+
         .slider-arrow:hover {
-            background: rgba(255, 255, 255, 0.4);
+            background: #ffffff;
+            color: #0e8a46;
+            border-color: #ffffff;
         }
 
-        .slider-arrow.prev {
-            left: 12px;
+        .slider-prev {
+            left: 18px;
         }
 
-        .slider-arrow.next {
-            right: 12px;
+        .slider-next {
+            right: 18px;
         }
 
         .slider-nav {
-            display: none;
+            position: absolute;
+            bottom: 16px;
+            left: 50%;
+            transform: translateX(-50%);
+            display: flex;
+            gap: 10px;
+            z-index: 10;
         }
 
         .slider-dot {
-            display: none;
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            background: rgba(255,255,255,0.35);
+            cursor: pointer;
+            transition: background 0.3s ease;
+        }
+
+        .slider-dot.active {
+            background: #0e8a46;
         }
 
         /* Bulletin Card */
@@ -893,6 +796,27 @@ html {
                 font-size: 18px;
             }
         }
+
+        @media (max-width: 760px) {
+            .slide {
+                flex-direction: column;
+                height: auto;
+            }
+            .slide-image {
+                width: 100%;
+                height: 220px;
+            }
+            .slide-content {
+                min-height: auto;
+                padding: 18px;
+            }
+            .slide-title {
+                font-size: clamp(22px, 6vw, 32px);
+            }
+            .slider-main:hover .slider-arrow {
+                opacity: 0.9;
+            }
+        }
     </style>
 </head>
 <body>
@@ -919,7 +843,7 @@ html {
 
 <section class="featured">
         <div class="slider-container">
-            <button class="slider-nav-arrow slider-prev" onclick="prevSlide()">&#10094;</button>
+            <button class="slider-arrow prev" onclick="prevSlide()">&#10094;</button>
             
             <div class="slider-main">
                 <div class="slider-track" id="sliderTrack">
@@ -962,46 +886,9 @@ html {
                 </div>
             </div>
             
-            <button class="slider-nav-arrow slider-next" onclick="nextSlide()">&#10095;</button>
+            <button class="slider-arrow next" onclick="nextSlide()">&#10095;</button>
         </div>
 
-    <script>
-                            <div class="slide-meta"><span style="color:#0e8a46">● LIVE</span> · Premier League</div>
-                            <h3 class="slide-title">Premier League title race heats up as top teams drop points</h3>
-                        </div>
-                    </div>
-                    <div class="slide">
-                        <div class="slide-image">
-                            <img src="https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=800&h=800&fit=crop?w=800&h=800&fit=crop?w=800&h=800&fit=crop?w=800&h=800&fit=crop?w=800&h=800&fit=crop?w=800&h=800&fit=crop?w=800&h=800&fit=crop?w=800&h=800&fit=crop?w=800&h=800&fit=crop?w=800&h=800&fit=crop?w=800&h=800&fit=crop?w=800&h=800&fit=crop?w=800&h=800&fit=crop?w=150&h=150&fit=crop" alt="Transfer news" style="width:100%;height:100%;object-fit:cover;">
-                        </div>
-                        <div class="slide-content">
-                            <div class="slide-meta"><span style="color:#0e8a46">● LIVE</span> · Transfer News</div>
-                            <h3 class="slide-title">Transfer window: Top clubs in final negotiations before deadline</h3>
-                        </div>
-                    </div>
-                    <div class="slide">
-                        <div class="slide-image">
-                            <img src="https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=800&h=800&fit=crop?w=800&h=800&fit=crop?w=800&h=800&fit=crop?w=800&h=800&fit=crop?w=800&h=800&fit=crop?w=800&h=800&fit=crop?w=800&h=800&fit=crop?w=800&h=800&fit=crop?w=800&h=800&fit=crop?w=800&h=800&fit=crop?w=800&h=800&fit=crop?w=800&h=800&fit=crop?w=150&h=150&fit=crop" alt="Trophy" style="width:100%;height:100%;object-fit:cover;">
-                        </div>
-                        <div class="slide-content">
-                            <div class="slide-meta"><span style="color:#0e8a46">● LIVE</span> · Champions League</div>
-                            <h3 class="slide-title">Champions League quarter-finals: Key matches and storylines</h3>
-                        </div>
-                    </div>
-                    <div class="slide">
-                        <div class="slide-image">
-                            <img src="https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?w=800&h=800&fit=crop?w=800&h=800&fit=crop?w=800&h=800&fit=crop?w=800&h=800&fit=crop?w=800&h=800&fit=crop?w=800&h=800&fit=crop?w=150&h=150&fit=crop" alt="Breaking news" style="width:100%;height:100%;object-fit:cover;">
-                        </div>
-                        <div class="slide-content">
-                            <div class="slide-meta"><span style="color:#0e8a46">● LIVE</span> · Breaking News</div>
-                            <h3 class="slide-title">Breaking: Star player announces shock departure from club</h3>
-                        </div>
-                    </div>
-                </div>
-                <button class="slider-arrow prev" onclick="previousSlide()">&#10094;</button>
-                <button class="slider-arrow next" onclick="nextSlide()">&#10095;</button>
-            </div>
-</div>
     </section>
 
     <script>
@@ -1023,6 +910,39 @@ html {
             currentSlide = (currentSlide - 1 + totalSlides) % totalSlides;
             goToSlide(currentSlide);
         }
+
+        function splitTitleLines() {
+            document.querySelectorAll('.slide-title').forEach(title => {
+                const words = title.textContent.trim().split(/\s+/);
+                if (words.length < 3) return;
+                const splitIndex = Math.ceil(words.length / 2);
+                const firstLine = words.slice(0, splitIndex).join(' ');
+                const secondLine = words.slice(splitIndex).join(' ');
+                title.innerHTML = `${firstLine}<br>${secondLine}`;
+            });
+        }
+
+        function adjustTitleSizing() {
+            document.querySelectorAll('.slide-title').forEach(title => {
+                const container = title.parentElement;
+                let fontSize = 42;
+                title.style.fontSize = fontSize + 'px';
+                while (title.offsetHeight < container.offsetHeight - 10 && fontSize < 64) {
+                    fontSize += 1;
+                    title.style.fontSize = fontSize + 'px';
+                }
+                while (title.offsetHeight > container.offsetHeight && fontSize > 20) {
+                    fontSize -= 1;
+                    title.style.fontSize = fontSize + 'px';
+                }
+            });
+        }
+
+        window.addEventListener('load', () => {
+            splitTitleLines();
+            adjustTitleSizing();
+            window.addEventListener('resize', adjustTitleSizing);
+        });
 
         setInterval(function() {
             currentSlide = (currentSlide + 1) % totalSlides;
