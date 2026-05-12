@@ -69,20 +69,24 @@ async def generate_slider_content(api_key, rss_headlines):
     print("  Generating 4 slider stories...")
     seed = "\n".join(f"- {h}" for h in rss_headlines[:5]) if rss_headlines else "No live data"
     prompt = f"""You are a football news editor for KICKOFF.
-Generate exactly 4 dramatic breaking-news slider headlines for May 2026.
-Each must be VERY specific: include real player names, clubs, scores, precise contexts.
+Generate exactly 4 dramatic breaking-news slider headlines for THE CURRENT TIME: May 12, 2026.
+These should be news happening RIGHT NOW in May 2026 - today's matches, transfers happening now, breaking news this week.
+
+Each must be VERY specific with: real player names, clubs, actual scores, precise contexts from May 2026.
 Return ONLY valid JSON array with objects: headline, category, category_tag, image_prompt.
 
-Real headlines for inspiration:
+Today's real headlines for inspiration:
 {seed}
 
-Rules:
+Rules for May 2026 content:
+- Use specific dates like "today", "this week", "tonight"  
+- Include real 2026 context (current season, upcoming tournaments in June 2026)
 - headline: max 9 words, dramatic and news-breaking
-- category_tag: one of LIVE, BREAKING, EXCLUSIVE, CONFIRMED
-- category: specific league or topic (Premier League, La Liga, Champions League, Transfer Talk)
-- image_prompt: cinematic DALL-E prompt describing a dramatic football scene
+- category_tag: one of LIVE, BREAKING, EXCLUSIVE, CONFIRMED  
+- category: specific league or topic (Premier League, La Liga, Champions League, Transfers)
+- image_prompt: MUST be UNIQUE for each story - describe the specific scene (different stadium, different player action, different moment)
 
-Examples: {{"headline": "Salah hat-trick sinks Man United at Anfield", "category": "Premier League", "category_tag": "LIVE", "image_prompt": "Mohamed Salah celebrating a hat-trick at Anfield under floodlights, dramatic shadows, cinematic football photography"}}"""
+Example: {{"headline": "Arsenal vs Liverpool - Odegaard scores in 89th minute at Emirates", "category": "Premier League", "category_tag": "LIVE", "image_prompt": "Martin Odegaard celebrating a last-minute winner at Emirates Stadium with Arsenal fans going wild"}}"""
     try:
         text = await call_openai([{"role": "user", "content": prompt}], api_key,
                                   response_format={"type": "json_object"}, max_tokens=1500)
@@ -118,16 +122,19 @@ def get_fallback_slider():
 async def generate_secondary_content(api_key, rss_headlines, count, section_name, examples):
     seed = "\n".join(f"- {h}" for h in rss_headlines[:8]) if rss_headlines else "No live data"
     prompt = f"""You are a football news writer for KICKOFF.
-Generate exactly {count} detailed football headlines for the "{section_name}" section, set in May 2026.
-Each must be VERY specific: include real player names, clubs, scores, transfer fees, and context.
+Generate exactly {count} detailed football headlines for the "{section_name}" section.
+IMPORTANT: Set all content in THE CURRENT TIME - May 12, 2026.
+These should be news happening RIGHT NOW - today's transfers, this week's matches, current rumors.
+
+Each must be VERY specific with: real player names, clubs, exact transfer fees from May 2026, precise match scores.
 
 Real headlines for inspiration:
 {seed}
 
 Return ONLY valid JSON array of objects with fields:
-- headline: specific detailed headline (max 12 words)
+- headline: specific detailed headline (max 12 words) about May 2026 events
 - category: one of Premier League, La Liga, Serie A, Bundesliga, Ligue 1, Champions League, Transfers, Analysis, Rumors, Opinion, Interviews
-- image_prompt: cinematic DALL-E prompt for a football scene related to this story
+- image_prompt: MUST be UNIQUE for each story - describe a DIFFERENT specific scene (different stadiums, different players, different moments)
 
 Examples:
 {examples}"""
@@ -164,6 +171,7 @@ async def generate_image(api_key, prompt, size, filepath, recraft_key=None, gemi
 async def generate_gemini_image(gemini_key, prompt, size, filepath):
     """Generate image using Google Gemini API (500 free/day)"""
     import base64
+    import random
     
     headers = {
         "Authorization": f"Bearer {gemini_key}",
@@ -177,7 +185,20 @@ async def generate_gemini_image(gemini_key, prompt, size, filepath):
     }
     gemini_size = size_map.get(size, "1024x1024")
     
-    full_prompt = f"{prompt}. Cinematic dark moody aesthetic, dramatic stadium lighting, film print grain, high contrast, professional sports photography, photorealistic, football"
+    # Add unique variation to each prompt so images are different
+    unique_variations = [
+        "at golden hour with warm sunset lighting",
+        "at night with dramatic floodlights and shadows",
+        "during a match with crowd in background",
+        "in a dramatic stadium tunnel entrance",
+        "with dark moody atmosphere and rain effect",
+        "under bright midday sun with sharp shadows",
+        "at dusk with purple and orange sky",
+        "in a filled stadium with dramatic angle",
+    ]
+    variation = random.choice(unique_variations)
+    
+    full_prompt = f"{prompt}. Cinematic, photorealistic, {variation}, high contrast, film grain, professional sports photography"
     
     body = {
         "model": "gemini-2.0-flash-exp-image-generation",
@@ -460,12 +481,18 @@ async def run():
                 if not gemini_key:
                     gemini_key = cfg.get("api_keys", {}).get("gemini", "")
     
+    # Debug: show what's available
+    print(f"\n🔑 API Keys status:")
+    print(f"   OpenAI (DALL-E): {'✓' if api_key and api_key != 'your-openai-api-key-here' else '✗'}")
+    print(f"   Recraft: {'✓' if recraft_key else '✗'}")
+    print(f"   Gemini: {'✓' if gemini_key else '✗'}")
+    
     if recraft_key:
-        print("  Using Recraft API for image generation")
+        print("  → Using Recraft API for image generation")
     elif gemini_key:
-        print("  Using Google Gemini API for image generation (500 free/day)")
+        print("  → Using Google Gemini API (500 free/day)")
     elif api_key:
-        print("  Using DALL-E for image generation (fallback)")
+        print("  → Using DALL-E for image generation (fallback)")
     
     # 3. Add keys for image mapping
     all_items = []
