@@ -145,13 +145,29 @@ html {
         /* Slider */
         .slider-container {
             margin-bottom: 60px;
+            display: flex;
+            justify-content: flex-start;
         }
 
         .slider-main {
             position: relative;
             overflow: hidden;
             border-radius: 8px;
-            max-width: 100%;
+            width: 500px;
+            height: 281px;
+            flex-shrink: 0;
+        }
+
+        .slider-track {
+            display: flex;
+            transition: transform 0.5s ease;
+            width: 100%;
+        }
+
+        .slide {
+            min-width: 500px;
+            width: 500px;
+            height: 281px;
         }
 
         .slider-main:hover .slider-arrow {
@@ -857,8 +873,39 @@ html {
                 <button class="slider-arrow prev" onclick="previousSlide()">&#10094;</button>
                 <button class="slider-arrow next" onclick="nextSlide()">&#10095;</button>
             </div>
-        </div>
-</section>
+</div>
+    </section>
+
+    <script>
+        let currentSlide = 0;
+        const totalSlides = 4;
+
+        function goToSlide(index) {
+            currentSlide = index;
+            const track = document.getElementById('sliderTrack');
+            track.style.transform = 'translateX(-' + (index * 100) + '%)';
+            
+            document.querySelectorAll('.slider-dot').forEach(function(dot, i) {
+                dot.classList.toggle('active', i === index);
+            });
+        }
+
+        setInterval(function() {
+            currentSlide = (currentSlide + 1) % totalSlides;
+            goToSlide(currentSlide);
+        }, 5000);
+
+        // Keyboard navigation
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'ArrowLeft') {
+                currentSlide = (currentSlide - 1 + totalSlides) % totalSlides;
+                goToSlide(currentSlide);
+            } else if (e.key === 'ArrowRight') {
+                currentSlide = (currentSlide + 1) % totalSlides;
+                goToSlide(currentSlide);
+            }
+        });
+    </script>
 
     <section class="categories-section">
         <div class="category-tabs">
