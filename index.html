@@ -146,12 +146,13 @@ html {
             position: relative;
         }
 
-        .slider-main {
+.slider-main {
             display: flex;
             width: 100%;
-            height: 300px;
+            height: 281px;
             border-radius: 12px;
             overflow: hidden;
+            position: relative;
         }
 
         .slider-nav-arrow {
@@ -161,9 +162,9 @@ html {
             width: 40px;
             height: 40px;
             border-radius: 50%;
-            background: #ffffff;
-            border: 1px solid #ffffff;
-            color: #0e8a46;
+            background: #0e8a46;
+            border: 1px solid #0e8a46;
+            color: #ffffff;
             cursor: pointer;
             display: flex;
             align-items: center;
@@ -174,9 +175,9 @@ html {
         }
 
         .slider-nav-arrow:hover {
-            background: #0e8a46;
-            border-color: #0e8a46;
-            color: #ffffff;
+            background: #ffffff;
+            border-color: #ffffff;
+            color: #0e8a46;
         }
 
         .slider-prev { left: 20px; }
@@ -198,12 +199,58 @@ html {
             height: 100%;
         }
 
-        .slide {
+.slide {
             display: flex;
-            width: 900px;
-            height: 300px;
+            width: 100%;
+            height: 281px;
             flex-shrink: 0;
             background: var(--surface);
+        }
+
+        .slide-image {
+            width: 500px;
+            height: 281px;
+            background: var(--surface);
+            flex-shrink: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .slide-image img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .slide-content {
+            flex: 1;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            background: var(--surface);
+        }
+
+        .slide-meta {
+            font-size: 0.75rem;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 8px;
+        }
+
+        .slide-title {
+            font-size: 1rem;
+            font-weight: 600;
+            line-height: 1.2;
+            color: var(--text-primary);
+            margin: 0;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+            word-wrap: break-word;
         }
 
         .slide-image {
@@ -894,7 +941,7 @@ html {
                 <div class="slider-track" id="sliderTrack">
                     <div class="slide">
                         <div class="slide-image">
-                            <img src="https://images.unsplash.com/photo-1522778119026-d647f0565c6a?w=500&h=300&fit=crop" alt="Football match">
+                            <img src="https://images.unsplash.com/photo-1522778119026-d647f0565c6a?w=500&h=281&fit=crop" alt="Football match">
                         </div>
                         <div class="slide-content">
                             <div class="slide-meta"><span style="color:#0e8a46">● LIVE</span> · Premier League</div>
@@ -903,7 +950,7 @@ html {
                     </div>
                     <div class="slide">
                         <div class="slide-image">
-                            <img src="https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=500&h=300&fit=crop" alt="Transfer news">
+                            <img src="https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=500&h=281&fit=crop" alt="Transfer news">
                         </div>
                         <div class="slide-content">
                             <div class="slide-meta"><span style="color:#0e8a46">● LIVE</span> · Transfer News</div>
@@ -912,7 +959,7 @@ html {
                     </div>
                     <div class="slide">
                         <div class="slide-image">
-                            <img src="https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=500&h=300&fit=crop" alt="Trophy">
+                            <img src="https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=500&h=281&fit=crop" alt="Trophy">
                         </div>
                         <div class="slide-content">
                             <div class="slide-meta"><span style="color:#0e8a46">● LIVE</span> · Champions League</div>
@@ -921,7 +968,7 @@ html {
                     </div>
                     <div class="slide">
                         <div class="slide-image">
-                            <img src="https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?w=500&h=300&fit=crop" alt="Breaking news">
+                            <img src="https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?w=500&h=281&fit=crop" alt="Breaking news">
                         </div>
                         <div class="slide-content">
                             <div class="slide-meta"><span style="color:#0e8a46">● LIVE</span> · Breaking News</div>
