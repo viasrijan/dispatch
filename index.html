@@ -141,13 +141,8 @@ html {
 
 /* Slider */
         .slider-container {
-            margin: 0 auto 60px;
+            margin: 0 auto;
             max-width: 1200px;
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            gap: 18px;
-            position: relative;
             width: 100%;
             padding: 0;
             box-sizing: border-box;
@@ -221,8 +216,15 @@ html {
             overflow-wrap: break-word;
         }
 
+        .slider-arrow-wrap {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
         .slider-arrow {
-            position: relative;
             width: 40px;
             height: 40px;
             flex-shrink: 0;
@@ -234,9 +236,8 @@ html {
             display: flex;
             align-items: center;
             justify-content: center;
-            font-size: 18px;
+            font-size: 16px;
             transition: all 0.25s ease;
-            opacity: 1;
             z-index: 10;
         }
 
@@ -245,17 +246,6 @@ html {
             color: #0e8a46;
             border-color: #ffffff;
         }
-
-        .slider-arrow.prev,
-        .slider-arrow.next {
-            position: absolute;
-            top: 50%;
-            transform: translateY(-50%);
-            margin: 0;
-        }
-        
-        .slider-arrow.prev { left: 0px; }
-        .slider-arrow.next { right: 0px; }
 
         .slider-nav {
             position: absolute;
@@ -852,20 +842,20 @@ html {
     </header>
 
 <section class="featured">
-        <div class="slider-container">
+        <div class="slider-arrow-wrap">
             <button class="slider-arrow prev" onclick="prevSlide()">&#10094;</button>
-            
-            <div class="slider-main">
-                <div class="slider-track" id="sliderTrack">
-                    <div class="slide">
-                        <div class="slide-image">
-                            <img src="https://images.unsplash.com/photo-1522778119026-d647f0565c6a?w=500&h=281&fit=crop" alt="Football match">
+            <div class="slider-container">
+                <div class="slider-main">
+                    <div class="slider-track" id="sliderTrack">
+                        <div class="slide">
+                            <div class="slide-image">
+                                <img src="https://images.unsplash.com/photo-1522778119026-d647f0565c6a?w=500&h=281&fit=crop" alt="Football match">
+                            </div>
+                            <div class="slide-content">
+                                <div class="slide-meta"><span style="color:#0e8a46">● LIVE</span> · Premier League</div>
+                                <h3 class="slide-title">Premier League title race heats up as top teams drop points</h3>
+                            </div>
                         </div>
-                        <div class="slide-content">
-                            <div class="slide-meta"><span style="color:#0e8a46">● LIVE</span> · Premier League</div>
-                            <h3 class="slide-title">Premier League title race heats up as top teams drop points</h3>
-                        </div>
-                    </div>
                     <div class="slide">
                         <div class="slide-image">
                             <img src="https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=500&h=281&fit=crop" alt="Transfer news">
@@ -894,6 +884,7 @@ html {
                         </div>
                     </div>
                 </div>
+            </div>
             </div>
             
             <button class="slider-arrow next" onclick="nextSlide()">&#10095;</button>
