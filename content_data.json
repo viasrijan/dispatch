@@ -1,77 +1,77 @@
 {
-  "generated_at": "2026-05-13T10:47:29.425338",
+  "generated_at": "2026-05-13T10:55:35.463595",
   "rss_headlines_used": 15,
   "sections": {
     "slider": [
       {
-        "original_headline": "Mourinho in final negotiations to become Real manager",
-        "headline": "CONFIRMED: Mourinho to return to Real Madrid as head coach!",
-        "category": "La Liga",
+        "original_headline": "Immortality beckons - but Hearts must overcome Celtic & weight of history",
+        "headline": "**Hearts On Brink Of History!** Hearts Win Title After 66 Years",
+        "category": "Champions League (Scotland)",
         "category_tag": "BREAKING",
         "importance": 5,
-        "image_prompt": "Image of Jose Mourinho with a confident expression and the Real Madrid logo in the background",
+        "image_prompt": "Scottish football stadium with Hearts fans celebrating",
         "source": "BBC",
         "_key": "slider_0"
       },
       {
-        "original_headline": "Tuchel submits 55-man provisional World Cup squad",
-        "headline": "CONFIRMED: Tuchel Names England Squad for World Cup!",
-        "category": "Champions League",
+        "original_headline": "'I'm not going anywhere' - furious Real president Perez calls for elections",
+        "headline": "**Perez Stages Meltdown!** Furious Real President Demands Elections Now",
+        "category": "La Liga",
         "category_tag": "BREAKING",
         "importance": 5,
-        "image_prompt": "Image of Thomas Tuchel with a serious expression and the England national team logo in the background",
+        "image_prompt": "Florentino Perez looking angry in a press conference",
         "source": "BBC",
         "_key": "slider_1"
       },
       {
-        "original_headline": "'I'm not going anywhere' - furious Real president Perez calls for elections",
-        "headline": "Perez Demands Elections Amid Real Madrid Crisis!",
+        "original_headline": "Mourinho in final negotiations to become Real manager",
+        "headline": "**Mourinho Back At Real?** Legendary Coach Makes Shocking Return Bid",
         "category": "La Liga",
         "category_tag": "BREAKING",
         "importance": 5,
-        "image_prompt": "Image of Florentino Perez with a tense expression and the Real Madrid logo in the background",
+        "image_prompt": "Jose Mourinho looking confident in a press conference",
         "source": "BBC",
         "_key": "slider_2"
       },
       {
-        "original_headline": "Refs' chief Webb confirms grappling consultation after disallowed West Ham goal",
-        "headline": "Webb backs refs, calls for grappling consultation on contentious West Ham goal!",
-        "category": "Premier League",
+        "original_headline": "Man Utd consider Valverde move - Wednesday's gossip",
+        "headline": "**Valverde On His Way?** Man United Eye Transfer Move",
+        "category": "Transfers",
         "category_tag": "LIVE",
         "importance": 4,
-        "image_prompt": "Close-up of Howard Webb's face with a stern expression and a referee's flag in the background",
+        "image_prompt": "Manchester United players looking at a transfer board",
         "source": "BBC",
         "_key": "slider_3"
       }
     ],
     "featured": [
       {
-        "original_headline": "How Gerrard went from 'best night' to 'head like a box of frogs'",
-        "headline": "Gerrard's Turbulent Past: From Champions League Hero to Exit!",
+        "original_headline": "Refs' chief Webb confirms grappling consultation after disallowed West Ham goal",
+        "headline": "**Webb Backs Ref Decision!** Disallowed West Ham Equaliser Was Right Call",
         "category": "Premier League",
         "category_tag": "FEATURED",
-        "importance": 4,
-        "image_prompt": "Image of Steven Gerrard with a nostalgic expression and Liverpool logo in the background",
+        "importance": 3,
+        "image_prompt": "Referee Webb looking at a replay on his tablet",
         "source": "BBC",
         "_key": "featured_0"
       },
       {
-        "original_headline": "White out for season and set to miss World Cup",
-        "headline": "Injury Woes: White Set to Miss Rest of Season and World Cup!",
-        "category": "Premier League",
+        "original_headline": "Tuchel submits 55-man provisional World Cup squad",
+        "headline": "**Tuchel Names Squad!** England Coach Announces Provisional Roster",
+        "category": "Champions League (England)",
         "category_tag": "FEATURED",
-        "importance": 4,
-        "image_prompt": "Image of Ben White with a bandaged knee and football field in the background",
+        "importance": 3,
+        "image_prompt": "Thomas Tuchel looking at a World Cup flag",
         "source": "BBC",
         "_key": "featured_1"
       },
       {
-        "original_headline": "VAR is a flip of a coin, says Guardiola",
-        "headline": "Guardiola: VAR is a gamble, players must deliver!",
+        "original_headline": "How Gerrard went from 'best night' to 'head like a box of frogs'",
+        "headline": "**Gerrard's Fall From Glory!** Liverpool Legend's Shocking Downfall Exposed",
         "category": "Premier League",
         "category_tag": "FEATURED",
         "importance": 3,
-        "image_prompt": "Image of Pep Guardiola with a serious expression and football stats in the background",
+        "image_prompt": "Steven Gerrard looking shocked in a sports magazine cover",
         "source": "BBC",
         "_key": "featured_2"
       }
@@ -79,31 +79,31 @@
     "stories": [
       {
         "original_headline": "Maddison says referees are petrified of decisions",
-        "headline": "Referees 'Petrified' - Maddison Speaks Out on Controversial Calls!",
+        "headline": "**Referee Fears!** Maddison Reveals Shocking Truth About Ref Decisions",
         "category": "Premier League",
         "category_tag": "NEWS",
         "importance": 3,
-        "image_prompt": "Image of James Maddison with a frustrated expression and referee's uniform in the background",
+        "image_prompt": "James Maddison looking concerned in a soccer stadium",
         "source": "BBC",
         "_key": "story_0"
       },
       {
-        "original_headline": "McInnes and O'Neill keeping cool as Premiership title race catches fire",
-        "headline": "Title Race Heats Up! McInnes and O'Neill Remain Calm Amid Scottish Premiership Chaos!",
-        "category": "Scottish Premiership",
+        "original_headline": "Ted Lasso actor Fernandez signs for US club",
+        "headline": "**Fernandez Joins El Paso Locomotive!** Actor's Soccer Debut Confirmed",
+        "category": "Transfers",
         "category_tag": "NEWS",
         "importance": 2,
-        "image_prompt": "Image of Steven McInnes and Craig O'Neil with a calm expression and football field in the background",
+        "image_prompt": "Ted Lasso actor Cristo Fernandez in a soccer jersey",
         "source": "BBC",
         "_key": "story_1"
       },
       {
-        "original_headline": "Ted Lasso actor Fernandez signs for US club",
-        "headline": "EXCLUSIVE: Ted Lasso Star Signs for US Club Amid Football Dreams!",
-        "category": "Transfers",
+        "original_headline": "VAR is a flip of a coin, says Guardiola",
+        "headline": "**Guardiola Speaks Out!** City Boss Says VAR Decisions Feel Like Flips Of A Coin",
+        "category": "Champions League (England)",
         "category_tag": "NEWS",
         "importance": 2,
-        "image_prompt": "Image of Cristo Fernandez with a smile and football field in the background",
+        "image_prompt": "Pep Guardiola looking frustrated in a soccer stadium",
         "source": "BBC",
         "_key": "story_2"
       }
