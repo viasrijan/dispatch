@@ -46,6 +46,7 @@ async def search_pexels_images(query, per_page=5):
     import urllib.request
     import urllib.parse
     import json
+    import ssl
     
     url = "https://api.pexels.com/v1/search"
     headers = {"Authorization": PEXELS_API_KEY}
@@ -53,13 +54,15 @@ async def search_pexels_images(query, per_page=5):
     params = {"query": query, "per_page": per_page, "orientation": "landscape"}
     
     try:
+        ctx = ssl.create_default_context()
+        ctx.check_hostname = False
+        ctx.verify_mode = ssl.CERT_NONE
         data = urllib.parse.urlencode(params).encode()
         req = urllib.request.Request(url, data=data, headers=headers)
-        with urllib.request.urlopen(req, timeout=30) as response:
+        with urllib.request.urlopen(req, timeout=30, context=ctx) as response:
             result = json.loads(response.read())
             photos = result.get("photos", [])
             if photos:
-                # Return the first photo's srcset large URL
                 return photos[0].get("src", {}).get("large2x", photos[0].get("src", {}).get("large", ""))
     except Exception as e:
         print(f"    ⚠ Pexels error: {e}")
@@ -71,14 +74,18 @@ async def search_pixabay_images(query, per_page=5):
     import urllib.request
     import urllib.parse
     import json
+    import ssl
     
     url = "https://pixabay.com/api/"
     params = {"key": PIXABAY_API_KEY, "q": query, "per_page": per_page, "orientation": "horizontal"}
     
     try:
+        ctx = ssl.create_default_context()
+        ctx.check_hostname = False
+        ctx.verify_mode = ssl.CERT_NONE
         data = urllib.parse.urlencode(params).encode()
         req = urllib.request.Request(url, data=data)
-        with urllib.request.urlopen(req, timeout=30) as response:
+        with urllib.request.urlopen(req, timeout=30, context=ctx) as response:
             result = json.loads(response.read())
             hits = result.get("hits", [])
             if hits:
