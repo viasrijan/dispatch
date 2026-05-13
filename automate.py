@@ -21,7 +21,7 @@ ssl_context.check_hostname = False
 ssl_context.verify_mode = ssl.CERT_NONE
 
 # Settings
-GENERATE_POST_PAGES = True  # Enable post page generation
+GENERATE_POST_PAGES = True  # One-time fix to regenerate matching posts
 
 # Image API Keys
 PEXELS_API_KEY = "uojC04iqYEDXYiuAzMNEOW4KFKzZz514yGjfa6cGPpc98d9jkFfOCrM9"
@@ -736,11 +736,23 @@ def get_post_id(item, index):
 
 
 def format_headline_title(headline):
-    """Format headline to Title Case, remove semicolons"""
-    # Remove semicolons and replace with dash or just remove
+    """Format headline to Title Case, fix apostrophe-s, remove semicolons"""
+    import re
     headline = headline.replace(";", " - ")
-    # Convert to Title Case
+    
+    # Use regex to properly title case without capitalizing after apostrophes
+    # First apply title case, then fix the 's pattern
     headline = headline.title()
+    
+    # Fix Gerrard's -> Gerrard's (lowercase s after apostrophe)
+    headline = re.sub(r"'S\b", "'s", headline)
+    headline = re.sub(r"'T\b", "'t", headline)
+    headline = re.sub(r"'M\b", "'m", headline)
+    headline = re.sub(r"'D\b", "'d", headline)
+    headline = re.sub(r"'L\b", "'l", headline)
+    headline = re.sub(r"'V\b", "'v", headline)
+    headline = re.sub(r"'R\b", "'r", headline)
+    
     # Clean up multiple spaces
     headline = ' '.join(headline.split())
     return headline

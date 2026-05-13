@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-05-13T12:17:28.435779",
+  "generated_at": "2026-05-13T12:26:34.771784",
   "rss_headlines_used": 15,
   "sections": {
     "slider": [
       {
         "original_headline": "Will Boro-Saints play-off have deciding third act?",
-        "headline": "**Boro v Saints: Spy Scandal to Decide Play-Off Fate**",
+        "headline": "Boro v Saints: Play-off outcome hangs in balance after spying allegations",
         "category": "Transfers",
         "category_tag": "BREAKING",
         "importance": 5,
-        "image_prompt": "A referee holding a ball with two players in the background, one wearing Middlesbrough and the other Southampton jerseys",
+        "image_prompt": "A stadium with tension and uncertainty, players on the pitch",
         "source": "BBC",
         "_key": "slider_0"
       },
       {
         "original_headline": "Immortality beckons - but Hearts must overcome Celtic & weight of history",
-        "headline": "**Hearts on Brink of History: Can They Beat Celtic?**",
-        "category": "Serie A",
+        "headline": "Hearts on the brink of historic title win, but Celtic loom large",
+        "category": "Scottish Premiership",
         "category_tag": "BREAKING",
         "importance": 5,
-        "image_prompt": "A packed football stadium with Hearts and Celtic fans in the background, with a trophy in the foreground",
+        "image_prompt": "A packed stadium with Hearts and Celtic players in action",
         "source": "BBC",
         "_key": "slider_1"
       },
       {
         "original_headline": "Tuchel submits 55-man provisional World Cup squad",
-        "headline": "**Tuchel's England Squad: Who Makes the Cut?**",
+        "headline": "Thomas Tuchel names 55 England players for World Cup, including Luke Shaw",
         "category": "Champions League",
         "category_tag": "BREAKING",
         "importance": 5,
-        "image_prompt": "A football stadium with England players and coaches in the background, with Thomas Tuchel submitting his squad list",
+        "image_prompt": "A coach with a World Cup team roster in front of him",
         "source": "BBC",
         "_key": "slider_2"
       },
       {
         "original_headline": "Liverpool owners face dilemma - stick or twist with Slot?",
-        "headline": "**FSG at Crisis Point: Arne Slot Future in Jeopardy**",
+        "headline": "FSG in crisis: Liverpool owners under pressure to act on Arne Slot",
         "category": "Premier League",
         "category_tag": "LIVE",
         "importance": 4,
-        "image_prompt": "A worried-looking FSG owner sitting in a conference room with Arne Slot and fans in the background",
+        "image_prompt": "A tense boardroom meeting with FSG officials and Arne Slot in the background",
         "source": "BBC",
         "_key": "slider_3"
       }
     ],
     "featured": [
       {
-        "original_headline": "Ted Lasso actor Fernandez signs for US club",
-        "headline": "**Fernandez Joins El Paso Locomotive: Hollywood Connection**",
-        "category": "La Liga",
+        "original_headline": "Man Utd consider Valverde move - Wednesday's gossip",
+        "headline": "Manchester United eye Federico Valverde, Ederson and Mateus Fernandes",
+        "category": "Transfers",
         "category_tag": "FEATURED",
         "importance": 4,
-        "image_prompt": "A football stadium with fans and players in the background, with Cristo Fernandez signing a contract in the foreground",
+        "image_prompt": "A Manchester United player in action, with transfer rumors swirling",
         "source": "BBC",
         "_key": "featured_0"
       },
       {
-        "original_headline": "All you need to know about Premiership title race",
-        "headline": "**Hearts vs Celtic: Title R Race Heats Up**",
-        "category": "Serie A",
+        "original_headline": "How Gerrard went from 'best night' to 'head like a box of frogs'",
+        "headline": "Gerrard's shocking fall from Liverpool heights after Champions League win",
+        "category": "Premier League",
         "category_tag": "FEATURED",
         "importance": 4,
-        "image_prompt": "A packed football stadium with Hearts and Celtic fans in the background, with a trophy in the foreground",
+        "image_prompt": "A photo of Steven Gerrard with a mix of emotions, footballs in the background",
         "source": "BBC",
         "_key": "featured_1"
       },
       {
-        "original_headline": "Refs' chief Webb confirms grappling consultation after disallowed West Ham goal",
-        "headline": "**West Ham Goal Dismissed: Refs Chief Confronts Controversy**",
-        "category": "Champions League",
+        "original_headline": "All you need to know about Premiership title race",
+        "headline": "Hearts and Celtic: How the Scottish Premiership title hunt is heating up",
+        "category": "Scottish Premiership",
         "category_tag": "FEATURED",
-        "importance": 3,
-        "image_prompt": "A referee and Howard Webb in a meeting with a West Ham player looking disappointed in the background",
+        "importance": 4,
+        "image_prompt": "A packed stadium with Hearts and Celtic players in action, a trophy on the line",
         "source": "BBC",
         "_key": "featured_2"
       }
     ],
     "stories": [
       {
-        "original_headline": "Man Utd consider Valverde move - Wednesday's gossip",
-        "headline": "**Valverde to Man Utd: United Scramble for Midfield Ace**",
-        "category": "Transfers",
+        "original_headline": "Refs' chief Webb confirms grappling consultation after disallowed West Ham goal",
+        "headline": "Webb admits refereeing mistake as Arsenal edge past West Ham",
+        "category": "Premier League",
         "category_tag": "NEWS",
         "importance": 3,
-        "image_prompt": "A football stadium with Manchester United players and coaches in the background, with Federico Valverde looking at a transfer offer",
+        "image_prompt": "A referee in the spotlight, a football pitch with controversy",
         "source": "BBC",
         "_key": "story_0"
       },
       {
-        "original_headline": "Beyond the Hollywood story - what are Wrexham really building?",
-        "headline": "**Wrexham: More Than Just a Hollywood Team?**",
-        "category": "Serie A",
+        "original_headline": "Ted Lasso actor Fernandez signs for US club",
+        "headline": "Ted Lasso star Cristo Fernandez joins El Paso Locomotive FC",
+        "category": "Transfers",
         "category_tag": "NEWS",
-        "importance": 2,
-        "image_prompt": "A football stadium with fans and players in the background, with Wrexham's co-owners Ryan Reynolds and Rob Mac in the foreground",
+        "importance": 3,
+        "image_prompt": "A football pitch with Ted Lasso actor Cristo Fernandez in action",
         "source": "BBC",
         "_key": "story_1"
       },
       {
-        "original_headline": "How Gerrard went from 'best night' to 'head like a box of frogs'",
-        "headline": "**Gerrard's Fall: From Hero to Outcast?**",
-        "category": "Premier League",
+        "original_headline": "Beyond the Hollywood story - what are Wrexham really building?",
+        "headline": "Wrexham co-owners build more than just a football team, say experts",
+        "category": "Transfers",
         "category_tag": "NEWS",
         "importance": 2,
-        "image_prompt": "A split-screen image of Steven Gerrard as a Liverpool player and as the manager, with a shocked expression in the background",
+        "image_prompt": "A behind-the-scenes look at Wrexham's stadium and facilities",
         "source": "BBC",
         "_key": "story_2"
       }
