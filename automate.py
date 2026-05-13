@@ -860,5 +860,26 @@ async def run():
     print("=" * 60)
 
 
+def ensure_ollama_running():
+    """Start Ollama if not already running"""
+    import subprocess
+    import socket
+    
+    # Check if Ollama is already running
+    sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    result = sock.connect_ex(('127.0.0.1', 11434))
+    sock.close()
+    
+    if result != 0:
+        print("🔄 Starting Ollama...")
+        subprocess.Popen(["ollama", "serve"], 
+                        stdout=subprocess.DEVNULL, 
+                        stderr=subprocess.DEVNULL)
+        import time
+        time.sleep(3)
+        print("   ✅ Ollama started")
+
+
 if __name__ == "__main__":
+    ensure_ollama_running()
     asyncio.run(run())

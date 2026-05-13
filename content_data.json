@@ -1,109 +1,109 @@
 {
-  "generated_at": "2026-05-13T10:25:30.249375",
+  "generated_at": "2026-05-13T10:28:23.273143",
   "rss_headlines_used": 15,
   "sections": {
     "slider": [
       {
         "original_headline": "Mourinho in final negotiations to become Real manager",
-        "headline": "**Jose Returns** Mourinho in Final Talks for Real Madrid Job ",
-        "category": "Champions League",
+        "headline": "Mourinho set for Real Madrid return as talks reach climax",
+        "category": "La Liga",
         "category_tag": "BREAKING",
         "importance": 5,
-        "image_prompt": "Jose Mourinho posing with Real Madrid crest",
+        "image_prompt": "Jose Mourinho with a confident expression, standing in front of the Real Madrid crest.",
         "source": "BBC",
         "_key": "slider_0"
       },
       {
         "original_headline": "'I'm not going anywhere' - furious Real president Perez calls for elections",
-        "headline": "**Perez in Fury** Real Madrid President Calls for Elections ",
-        "category": "Champions League",
+        "headline": "Perez sparks row as he demands elections at Real Madrid",
+        "category": "La Liga",
         "category_tag": "BREAKING",
         "importance": 5,
-        "image_prompt": "Florentino Perez looking angry in a press conference",
+        "image_prompt": "Florentino Perez with a confrontational expression, standing in front of the Real Madrid crest.",
         "source": "BBC",
         "_key": "slider_1"
       },
       {
         "original_headline": "Refs' chief Webb confirms grappling consultation after disallowed West Ham goal",
-        "headline": "**Webb Backs Refs** Disallowed West Ham Goal 'Right Decision' ",
+        "headline": "Webb backs refs' decision on disallowed West Ham equaliser",
         "category": "Premier League",
         "category_tag": "LIVE",
         "importance": 4,
-        "image_prompt": "Referee Howard Webb looking serious in a stadium",
+        "image_prompt": "A referee with a stern expression, surrounded by footballs and players in the background.",
         "source": "BBC",
         "_key": "slider_2"
       },
       {
         "original_headline": "Tuchel submits 55-man provisional World Cup squad",
-        "headline": "**Tuchel Unveils** England Squad for World Cup ",
-        "category": "Champions League",
+        "headline": "Tuchel names 55 England players for World Cup, but no Harry Kane",
+        "category": "Transfers",
         "category_tag": "LIVE",
         "importance": 4,
-        "image_prompt": "Thomas Tuchel looking at an England squad list",
+        "image_prompt": "Thomas Tuchel with a serious expression, standing in front of the England national team flag.",
         "source": "BBC",
         "_key": "slider_3"
       }
     ],
     "featured": [
       {
-        "original_headline": "White out for season and set to miss World Cup",
-        "headline": "**White Out** Arsenal Star to Miss World Cup Season ",
+        "original_headline": "Maddison says referees are petrified of decisions",
+        "headline": "Tottenham's Maddison accuses refs of being 'petrified' to make decisions",
         "category": "Premier League",
         "category_tag": "FEATURED",
         "importance": 4,
-        "image_prompt": "Ben White looking sad in a hospital bed",
+        "image_prompt": "James Maddison with a frustrated expression, surrounded by footballs and referees.",
         "source": "BBC",
         "_key": "featured_0"
       },
       {
         "original_headline": "VAR is a flip of a coin, says Guardiola",
-        "headline": "**Guardiola Warns** VAR Decisions 'Flip of a Coin' ",
+        "headline": "Guardiola rages at VAR's unpredictability in City games",
         "category": "Champions League",
         "category_tag": "FEATURED",
         "importance": 3,
-        "image_prompt": "Pep Guardiola looking frustrated on the sidelines",
+        "image_prompt": "Pep Guardiola with a frustrated expression, surrounded by footballs and VAR officials.",
         "source": "BBC",
         "_key": "featured_1"
       },
       {
         "original_headline": "How Gerrard went from 'best night' to 'head like a box of frogs'",
-        "headline": "**Gerrard's Fall** From Liverpool Glory to Humility ",
+        "headline": "Gerrard's Liverpool career from Champions League hero to frustration",
         "category": "Champions League",
         "category_tag": "FEATURED",
         "importance": 3,
-        "image_prompt": "A photo collage of Steven Gerrard's highs and lows",
+        "image_prompt": "Steven Gerrard with a contemplative expression, standing in front of the Liverpool crest.",
         "source": "BBC",
         "_key": "featured_2"
       }
     ],
     "stories": [
       {
-        "original_headline": "Ted Lasso actor Fernandez signs for US club",
-        "headline": "**Fernandez Joins** US Club After Trial Success ",
-        "category": "Transfers",
+        "original_headline": "White out for season and set to miss World Cup",
+        "headline": "Arsenal and England defender White ruled out of rest of season",
+        "category": "Premier League",
         "category_tag": "NEWS",
         "importance": 3,
-        "image_prompt": "Cristo Fernandez holding up a El Paso Locomotive jersey",
+        "image_prompt": "Ben White with a disappointed expression, standing in front of the Arsenal crest.",
         "source": "BBC",
         "_key": "story_0"
       },
       {
         "original_headline": "McInnes and O'Neill keeping cool as Premiership title race catches fire",
-        "headline": "**Heat is On** McInnes and O'Neill Keep Cool in Title Race ",
-        "category": "Premier League",
+        "headline": "Scottish Premiership rivals McInnes and O'Neill keep calm ahead of finale",
+        "category": "Serie A",
         "category_tag": "NEWS",
         "importance": 2,
-        "image_prompt": "Scottish Premiership trophy on a table with burning flames",
+        "image_prompt": "A tense expression from McInnes, with O'Neill in the background, standing in front of a Scottish Premiership trophy.",
         "source": "BBC",
         "_key": "story_1"
       },
       {
-        "original_headline": "Maddison says referees are petrified of decisions",
-        "headline": "**Ref Fear** Maddison Blames Refs for Decision-Making ",
-        "category": "Premier League",
+        "original_headline": "Ted Lasso actor Fernandez signs for US club",
+        "headline": "Ted Lasso star Fernandez joins El Paso Locomotive on two-year deal",
+        "category": "Transfers",
         "category_tag": "NEWS",
         "importance": 2,
-        "image_prompt": "James Maddison looking concerned on the pitch",
+        "image_prompt": "Cristo Fernandez with a happy expression, standing in front of the El Paso Locomotive crest.",
         "source": "BBC",
         "_key": "story_2"
       }
