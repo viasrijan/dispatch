@@ -417,7 +417,7 @@ YOUR JOB:
 REAL ARTICLES FROM TRUSTED SOURCES:
 {articles_text}
 
-Return ONLY valid JSON array with keys:
+Return ONLY valid JSON array with 15 items with keys:
 - original_headline: the original RSS headline
 - headline: KICKOFF-style transformed headline (max 12 words)
 - category: Premier League, La Liga, Transfers, Champions League, etc.
