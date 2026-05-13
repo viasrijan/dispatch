@@ -4,17 +4,38 @@ KICKOFF AI Automation System
 Generates detailed football news content with AI + live RSS headlines + DALL-E images
 """
 
-import os, json, re, asyncio, aiohttp, xml.etree.ElementTree as ET
+import os
+import json
+import re
+import asyncio
+import aiohttp
+import xml.etree.ElementTree as ET
+import ssl
 from datetime import datetime, timedelta
 from pathlib import Path
+
+# Fix SSL certificate issue on macOS
+ssl_context = ssl.create_default_context()
+ssl_context.check_hostname = False
+ssl_context.verify_mode = ssl.CERT_NONE
 
 PROJECT_DIR = Path(__file__).parent
 HTML_FILE = PROJECT_DIR / "index.html"
 IMAGES_DIR = PROJECT_DIR / "images"
 
 RSS_FEEDS = [
+    # Tier 1 - Major Established Media
     "https://feeds.bbci.co.uk/sport/football/rss.xml",
     "https://www.theguardian.com/football/rss",
+    "https://www.skysports.com/rss/12040",
+    "https://www.espn.com/espn/rss/news",
+    # Tier 2 - Established Football Media
+    "https://www.goal.com/en-us/rss/news",
+    "https://www.tribalfootball.com/rss",
+    "https://www.football365.com/rss",
+    # Tier 3 - Popular Sports Blogs
+    "https://www.planetfootball.com/feed",
+    "https://www.footballinsider247.com/feed",
 ]
 
 SLIDER_MARKERS = ("<!--KICKOFF_SLIDER_START-->", "<!--KICKOFF_SLIDER_END-->")
@@ -23,10 +44,13 @@ STORIES_MARKERS = ("<!--KICKOFF_STORIES_START-->", "<!--KICKOFF_STORIES_END-->")
 
 
 async def fetch_rss_headlines():
-    print("📡 Fetching live RSS headlines...")
-    headlines = []
-    async with aiohttp.ClientSession(timeout=aiohttp.ClientTimeout(total=15)) as session:
+    print("📡 Fetching live RSS headlines from trusted sources...")
+    articles = []
+    # Create SSL context that doesn't verify certificates (for macOS)
+    connector = aiohttp.TCPConnector(ssl=False)
+    async with aiohttp.ClientSession(connector=connector, timeout=aiohttp.ClientTimeout(total=20)) as session:
         for url in RSS_FEEDS:
+            source = url.split("//")[1].split("/")[0] if "//" in url else "unknown"
             try:
                 async with session.get(url, headers={"User-Agent": "KICKOFF-Bot/1.0"}) as resp:
                     if resp.status != 200:
@@ -34,18 +58,107 @@ async def fetch_rss_headlines():
                     text = await resp.text()
                     root = ET.fromstring(text)
                     for item in root.iter("item"):
-                        title = item.findtext("title", "")
-                        if title and len(title) > 20:
-                            headlines.append(title.strip())
+                        title = item.findtext("title", "").strip()
+                        desc = item.findtext("description", "").strip()
+                        link = item.findtext("link", "").strip()
+                        if title and len(title) > 15:
+                            clean_desc = re.sub(r'<[^>]+>', '', desc)[:200] if desc else ""
+                            articles.append({
+                                "title": title,
+                                "description": clean_desc,
+                                "source": source,
+                                "link": link
+                            })
             except Exception as e:
-                print(f"  ⚠ RSS failed for {url}: {e}")
-    headlines = list(dict.fromkeys(headlines))[:15]
-    print(f"  Got {len(headlines)} headlines")
-    return headlines
+                print(f"  ⚠ {source} failed: {e}")
+    
+    # Deduplicate by title similarity
+    seen = set()
+    unique_articles = []
+    for art in articles:
+        title_lower = art["title"].lower()
+        if title_lower not in seen:
+            seen.add(title_lower)
+            unique_articles.append(art)
+    
+    unique_articles = unique_articles[:15]
+    print(f"  ✅ Got {len(unique_articles)} unique articles from {len(set(a['source'] for a in unique_articles))} sources")
+    return unique_articles
+
+
+def extract_json_from_text(text):
+    """Extract JSON array or object from text that may contain markdown or explanations"""
+    import re
+    # Try to find JSON array
+    match = re.search(r'\[[\s\S]*\]', text)
+    if match:
+        return match.group(0)
+    # Try to find JSON object
+    match = re.search(r'\{[\s\S]*\}', text)
+    if match:
+        return match.group(0)
+    return text
+
+
+async def call_ollama(messages, model="llama3.2", max_tokens=2000):
+    """Use Ollama for local AI generation (free, private)"""
+    import aiohttp
+    
+    print(f"    🤖 Calling Ollama ({model})...")
+    
+    # Convert messages to Ollama format
+    system = ""
+    user_content = ""
+    for msg in messages:
+        if msg["role"] == "system":
+            system = msg["content"]
+        elif msg["role"] == "user":
+            user_content = msg["content"]
+    
+    prompt = f"{system}\n\n{user_content}" if system else user_content
+    
+    payload = {
+        "model": model,
+        "prompt": prompt,
+        "stream": False,
+        "options": {
+            "num_predict": max_tokens,
+            "temperature": 0.7,
+        }
+    }
+    
+    try:
+        connector = aiohttp.TCPConnector(ssl=False)
+        async with aiohttp.ClientSession(connector=connector) as session:
+            async with session.post(
+                "http://localhost:11434/api/generate",
+                json=payload,
+                timeout=aiohttp.ClientTimeout(total=180),
+            ) as resp:
+                if resp.status != 200:
+                    err = await resp.text()
+                    print(f"  ⚠ Ollama error {resp.status}: {err[:200]}")
+                    return "[]"
+                data = await resp.json()
+                response = data.get("response", "")
+                print(f"    ✅ Ollama response: {response[:100]}...")
+                return response
+    except Exception as e:
+        print(f"  ⚠ Ollama error: {e}")
+        return "[]"
 
 
 async def call_openai(messages, api_key, response_format=None, max_tokens=2000, model="gpt-4o-mini"):
-    # If we have a Gemini key instead, use it for text generation
+    # First try Ollama (local, free)
+    try:
+        result = await call_ollama(messages, model="llama3.2", max_tokens=max_tokens)
+        if result and result != "[]":
+            # Extract JSON from the response (Ollama may add explanation text)
+            return extract_json_from_text(result)
+    except Exception as e:
+        print(f"    ⚠ Ollama failed: {e}")
+    
+    # If Ollama fails, try cloud APIs
     gemini_key = os.environ.get("GEMINI_API_KEY", "")
     if not gemini_key:
         config_file = PROJECT_DIR / "config.json"
@@ -69,7 +182,7 @@ async def call_openai(messages, api_key, response_format=None, max_tokens=2000, 
     }
     if response_format:
         body["response_format"] = response_format
-    async with aiohttp.ClientSession() as session:
+    async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(ssl=False)) as session:
         async with session.post(
             "https://api.openai.com/v1/chat/completions",
             headers=headers, json=body,
@@ -98,7 +211,7 @@ async def call_gemini(messages, gemini_key, response_format=None, max_tokens=200
     }
     
     try:
-        async with aiohttp.ClientSession() as session:
+        async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(ssl=False)) as session:
             async with session.post(
                 f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={gemini_key}",
                 headers=headers, json=body,
@@ -127,40 +240,70 @@ async def call_gemini(messages, gemini_key, response_format=None, max_tokens=200
         return "[]"
 
 
-async def generate_slider_content(api_key, rss_headlines):
-    print("  Generating 8-10 stories with importance scores...")
-    seed = "\n".join(f"- {h}" for h in rss_headlines[:5]) if rss_headlines else "No live data"
-    prompt = f"""You are a football news editor for KICKOFF.
-Generate 10 detailed football stories for THE CURRENT TIME: May 12, 2026.
-Each story must be VERY specific with real player names, clubs, exact scores, transfer fees from May 2026.
+async def generate_slider_content(api_key, rss_articles):
+    """Transform real RSS articles into KICKOFF's style"""
+    print("  🎨 Transforming real articles into KICKOFF style...")
+    
+    if not rss_articles or len(rss_articles) < 4:
+        print("    ⚠ Not enough RSS articles, using fallback")
+        return get_fallback_slider()
+    
+    # Format articles for AI transformation
+    articles_text = "\n\n".join([
+        f"Source: {a.get('source', 'Unknown')}\nHeadline: {a.get('title', '')}\nSummary: {a.get('description', '')}"
+        for a in rss_articles[:10]
+    ])
+    
+    prompt = f"""You are KICKOFF's football news editor. Transform the real headlines below into KICKOFF's signature style.
 
-Return ONLY valid JSON array. Each object MUST have:
-- headline: specific headline (max 12 words)
-- category: league or topic (Premier League, La Liga, Transfers, etc.)
+KICKOFF STYLE:
+- Short, punchy headlines (max 12 words) - dramatic, urgent, like breaking news
+- Bold, attention-grabbing but accurate
+- Categories: Premier League, La Liga, Transfers, Champions League, Serie A, Bundesliga
+- Tags: LIVE, BREAKING, EXCLUSIVE, CONFIRMED
+- Add importance score (1-5, 5=most breaking)
+
+YOUR JOB:
+- Transform the real headlines below into KICKOFF style
+- Keep the core facts accurate (same players, teams, events)
+- Add drama/urgency while staying truthful
+- Generate a unique image_prompt for each story
+
+REAL ARTICLES FROM TRUSTED SOURCES:
+{articles_text}
+
+Return ONLY valid JSON array with keys:
+- original_headline: the original RSS headline
+- headline: KICKOFF-style transformed headline (max 12 words)
+- category: Premier League, La Liga, Transfers, Champions League, etc.
 - category_tag: LIVE, BREAKING, EXCLUSIVE, or CONFIRMED
-- importance: INTEGER 1-5 (5=most important/breaking, 1=least important)
-- image_prompt: UNIQUE scene description - different stadium, different player, different moment
+- importance: INTEGER 1-5 (5=most breaking/important)
+- image_prompt: Unique visual description for AI image generation
+- source: the original source (BBC, Sky, Guardian, etc.)
 
-Today's headlines for inspiration:
-{seed}
-
-Format: [{{"headline": "...", "category": "...", "category_tag": "...", "importance": 5, "image_prompt": "..."}}, ...]"""
+Format: [{{"original_headline": "...", "headline": "...", "category": "...", "category_tag": "...", "importance": 5, "image_prompt": "...", "source": "..."}}, ...]"""
+    
     try:
         text = await call_openai([{"role": "user", "content": prompt}], api_key,
-                                  response_format={"type": "json_object"}, max_tokens=1500)
+                                  response_format={"type": "json_object"}, max_tokens=2000)
         data = json.loads(text)
-        items = data if isinstance(data, list) else data.get("slider", data.get("items", data.get("stories", [])))
+        items = data if isinstance(data, list) else data.get("slider", data.get("items", []))
         if not isinstance(items, list):
             raise ValueError("not a list")
+        
+        # Ensure all required fields
         for i, item in enumerate(items):
-            item.setdefault("headline", f"Slider Story {i+1}")
+            item.setdefault("headline", item.get("original_headline", f"Story {i+1}")[:60])
             item.setdefault("category", "Premier League")
             item.setdefault("category_tag", "LIVE")
-            item.setdefault("image_prompt", "Cinematic football stadium at night")
-        print(f"    Generated {len(items)} slider stories")
-        return items[:4]
+            item.setdefault("importance", 3)
+            item.setdefault("image_prompt", "Cinematic football stadium at night with dramatic lighting")
+            item.setdefault("source", "RSS")
+        
+        print(f"    ✅ Transformed {len(items)} real articles into KICKOFF style")
+        return items[:10]
     except Exception as e:
-        print(f"    ❌ Slider gen failed: {e}")
+        print(f"    ❌ Transformation failed: {e}")
         return get_fallback_slider()
 
 
@@ -214,16 +357,73 @@ Examples:
         return []
 
 
+async def generate_subnp_image(prompt, size, filepath):
+    """Generate image using SubNP free API"""
+    import urllib.request
+    import urllib.parse
+    import json
+    import ssl
+    
+    # Create unverified SSL context for macOS
+    ssl_context = ssl.create_default_context()
+    ssl_context.check_hostname = False
+    ssl_context.verify_mode = ssl.CERT_NONE
+    
+    urls = [
+        "https://subnp.com/api/free/generate",
+        "https://api.subnp.com/v1/generate",
+    ]
+    
+    full_prompt = f"{prompt}. Cinematic, photorealistic, high quality, football, dramatic lighting"
+    
+    for url in urls:
+        try:
+            payload = json.dumps({"prompt": full_prompt, "model": "turbo"}).encode()
+            req = urllib.request.Request(url, data=payload, method="POST")
+            req.add_header("Content-Type", "application/json")
+            
+            with urllib.request.urlopen(req, context=ssl_context, timeout=120) as response:
+                result = response.read()
+                result_json = json.loads(result.decode())
+                
+                if result_json.get("success") and result_json.get("image_url"):
+                    image_url = result_json["image_url"]
+                    with urllib.request.urlopen(image_url, context=ssl_context, timeout=60) as img_response:
+                        with open(filepath, "wb") as f:
+                            f.write(img_response.read())
+                    rel = os.path.relpath(filepath, PROJECT_DIR)
+                    print(f"    ✅ Saved: {rel}")
+                    return rel
+        except Exception as e:
+            print(f"    ⚠ SubNP ({url}): {str(e)[:60]}")
+            continue
+    
+    return None
+
+
 async def generate_image(api_key, prompt, size, filepath, recraft_key=None, gemini_key=None):
     os.makedirs(IMAGES_DIR, exist_ok=True)
     
-    # Priority: Recraft > Gemini > DALL-E
-    if recraft_key:
-        return await generate_recraft_image(recraft_key, prompt, size, filepath)
-    elif gemini_key:
-        return await generate_gemini_image(gemini_key, prompt, size, filepath)
-    else:
+    # Try SubNP first (free, no key needed)
+    print(f"    🎨 Generating image with SubNP...")
+    result = await generate_subnp_image(prompt, size, filepath)
+    if result:
+        return result
+    
+    # Try Gemini (500 free/day)
+    if gemini_key:
+        result = await generate_gemini_image(gemini_key, prompt, size, filepath)
+        if result:
+            return result
+    
+    # Try DALL-E as fallback
+    if api_key:
         return await generate_dalle_image(api_key, prompt, size, filepath)
+    
+    return None
+
+
+
 
 
 async def generate_gemini_image(gemini_key, prompt, size, filepath):
@@ -265,7 +465,7 @@ async def generate_gemini_image(gemini_key, prompt, size, filepath):
     }
     
     try:
-        async with aiohttp.ClientSession() as session:
+        async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(ssl=False)) as session:
             async with session.post(
                 "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp-image-generation:generateContent",
                 headers=headers, json=body,
@@ -320,7 +520,7 @@ async def generate_recraft_image(recraft_key, prompt, size, filepath):
     }
     
     try:
-        async with aiohttp.ClientSession() as session:
+        async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(ssl=False)) as session:
             async with session.post(
                 "https://external.api.recraft.ai/v1/images/generations",
                 headers=headers, json=body,
@@ -370,7 +570,7 @@ async def generate_dalle_image(api_key, prompt, size, filepath):
         "n": 1,
     }
     try:
-        async with aiohttp.ClientSession() as session:
+        async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(ssl=False)) as session:
             async with session.post(
                 "https://api.openai.com/v1/images/generations",
                 headers=headers, json=body,
@@ -563,38 +763,7 @@ async def run():
     
     # Generate images for each story
     
-    try:
-        async with aiohttp.ClientSession() as session:
-            async with session.post(
-                "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp-image-generation:generateContent",
-                headers=headers, json=body,
-                timeout=aiohttp.ClientTimeout(total=120),
-            ) as resp:
-                if resp.status != 200:
-                    err = await resp.text()
-                    print(f"    ⚠ Gemini error {resp.status}: {err[:150]}")
-                    return None
-                data = await resp.json()
-                if "candidates" in data and len(data["candidates"]) > 0:
-                    content = data["candidates"][0].get("content", {})
-                    parts = content.get("parts", [])
-                    for part in parts:
-                        if "inlineData" in part:
-                            img_data = part["inlineData"]["data"]
-                            img_bytes = base64.b64decode(img_data)
-                            with open(filepath, "wb") as f:
-                                f.write(img_bytes)
-                            rel = os.path.relpath(filepath, PROJECT_DIR)
-                            print(f"    ✅ Saved: {rel}")
-                            return rel
-                print(f"    ⚠ Gemini response missing image")
-                return None
-    except Exception as e:
-        print(f"    ❌ Gemini error: {e}")
-    return None
-
-
-# Check for Recraft or Gemini API keys first
+    # Check for Recraft or Gemini API keys first
     recraft_key = os.environ.get("RECRAFT_API_KEY", "")
     gemini_key = os.environ.get("GEMINI_API_KEY", "")
     
@@ -613,12 +782,13 @@ async def run():
     print(f"   Recraft: {'✓' if recraft_key else '✗'}")
     print(f"   Gemini: {'✓' if gemini_key else '✗'}")
     
+    # Note: Puter is tried first (free), then Gemini, then DALL-E
     if recraft_key:
-        print("  → Using Recraft API for image generation")
-    elif gemini_key:
-        print("  → Using Google Gemini API (500 free/day)")
-    elif api_key:
-        print("  → Using DALL-E for image generation (fallback)")
+        print("  → Recraft available as backup")
+    if gemini_key:
+        print("  → Gemini available as backup")
+    if api_key:
+        print("  → DALL-E available as backup")
     
     # 3. Add keys for image mapping
     all_items = []
