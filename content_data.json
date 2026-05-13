@@ -1,42 +1,112 @@
 {
-  "generated_at": "2026-05-13T12:29:14.786542",
+  "generated_at": "2026-05-13T12:32:04.108288",
   "rss_headlines_used": 15,
   "sections": {
     "slider": [
       {
-        "headline": "Salah hat-trick sinks Manchester United at Anfield",
+        "original_headline": "Immortality beckons - but Hearts must overcome Celtic & weight of history",
+        "headline": "HEARTS ON THE BRINK: Can they dethrone Celtic and claim title?",
         "category": "Premier League",
         "category_tag": "LIVE",
-        "image_prompt": "Mohamed Salah celebrating a hat-trick at Anfield under dramatic floodlights",
-        "importance": 3,
+        "importance": 4,
+        "image_prompt": "A dramatic image of a football match between Hearts and Celtic, with the words 'Championship on the Line' above it",
+        "source": "BBC",
         "_key": "slider_0"
       },
       {
-        "headline": "Real Madrid agree \u20ac127M deal for Florian Wirtz",
-        "category": "Transfer Talk",
+        "original_headline": "All you need to know about Premiership title race",
+        "headline": "TITLE RACE INTENSIFIES: Hearts and Celtic go head-to-head for champions",
+        "category": "Premier League",
         "category_tag": "LIVE",
-        "image_prompt": "Florian Wirtz signing contract at Santiago Bernabeu",
-        "importance": 3,
+        "importance": 4,
+        "image_prompt": "A dramatic image of a football stadium, with the words 'Championship on the Line' above it",
+        "source": "BBC",
         "_key": "slider_1"
       },
       {
-        "headline": "Arsenal title hopes crushed by Newcastle smash-and-grab",
+        "original_headline": "Liverpool owners face dilemma - stick or twist with Slot?",
+        "headline": "FSG FACES SLOT SHOWDOWN: Owners must act on fan dissent",
         "category": "Premier League",
         "category_tag": "LIVE",
-        "image_prompt": "Newcastle players celebrating a last-minute winner at St James Park",
         "importance": 3,
+        "image_prompt": "A split screen of Liverpool's Arne Slot and FSG owners, with a football in the middle",
+        "source": "BBC",
         "_key": "slider_2"
       },
       {
-        "headline": "Barcelona on verge of financial collapse after La Liga rejection",
-        "category": "La Liga",
+        "original_headline": "Man Utd consider Valverde move - Wednesday's gossip",
+        "headline": "VALVERDE VENTURE: Man Utd eye Federico Valverde transfer",
+        "category": "Transfers",
         "category_tag": "LIVE",
-        "image_prompt": "Camp Nou stadium in darkness, moody atmosphere",
         "importance": 3,
+        "image_prompt": "A dramatic image of a football stadium, with the words 'Valverde on the Move' above it",
+        "source": "BBC",
         "_key": "slider_3"
       }
     ],
-    "featured": [],
-    "stories": []
+    "featured": [
+      {
+        "original_headline": "How Gerrard went from 'best night' to 'head like a box of frogs'",
+        "headline": "GERRARD'S FALL FROM FAVOUR: What happened after Liverpool's Champions League win?",
+        "category": "Premier League",
+        "category_tag": "FEATURED",
+        "importance": 3,
+        "image_prompt": "A photo of Steven Gerrard, looking sad and introspective",
+        "source": "BBC",
+        "_key": "featured_0"
+      },
+      {
+        "original_headline": "Will Boro-Saints play-off have deciding third act?",
+        "headline": "Play-Off SHOCKER: Middlesbrough vs Southampton still up for grabs",
+        "category": "Premier League",
+        "category_tag": "FEATURED",
+        "importance": 2,
+        "image_prompt": "A dramatic image of a football match, with the words 'Decision Still to be Made' above it",
+        "source": "BBC",
+        "_key": "featured_1"
+      },
+      {
+        "original_headline": "Refs' chief Webb confirms grappling consultation after disallowed West Ham goal",
+        "headline": "WEBB CALLS OUT WEST HAM: Referee chief defends Arsenal's win",
+        "category": "Premier League",
+        "category_tag": "FEATURED",
+        "importance": 2,
+        "image_prompt": "A photo of Howard Webb with a referee's badge, looking stern and serious",
+        "source": "BBC",
+        "_key": "featured_2"
+      }
+    ],
+    "stories": [
+      {
+        "original_headline": "Beyond the Hollywood story - what are Wrexham really building?",
+        "headline": "WREXHAM'S REAL PLAN: Co-owners reveal more than just a football team",
+        "category": "Transfers",
+        "category_tag": "NEWS",
+        "importance": 2,
+        "image_prompt": "A picture of Ryan Reynolds and Rob Mac, Wrexham co-owners, with a cityscape in the background",
+        "source": "BBC",
+        "_key": "story_0"
+      },
+      {
+        "original_headline": "Tuchel submits 55-man provisional World Cup squad",
+        "headline": "TOUCHEL'S WORLD CUP TEAM: Luke Shaw and Danny Welbeck on the cutlist",
+        "category": "Champions League",
+        "category_tag": "NEWS",
+        "importance": 2,
+        "image_prompt": "A dramatic image of Thomas Tuchel with a World Cup ball, looking serious and focused",
+        "source": "BBC",
+        "_key": "story_1"
+      },
+      {
+        "original_headline": "Ted Lasso actor Fernandez signs for US club",
+        "headline": "TED LASSO STAR MAKES MOVE: Fernandez signs with El Paso Locomotive",
+        "category": "Transfers",
+        "category_tag": "NEWS",
+        "importance": 1,
+        "image_prompt": "A photo of Cristo Fernandez, the actor who plays Rodrigo, smiling and holding a football",
+        "source": "BBC",
+        "_key": "story_2"
+      }
+    ]
   }
 }

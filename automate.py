@@ -946,12 +946,15 @@ async def run():
     if api_key:
         print("  → DALL-E available as backup")
     
-    # 3. Add keys for image mapping
-    all_items = []
-    for prefix, items in [("slider", slider_items), ("featured", featured_items), ("story", stories_items)]:
-        for i, item in enumerate(items):
-            item["_key"] = f"{prefix}_{i}"
-            all_items.append(item)
+    # Add _key to each section for post IDs
+    for i, item in enumerate(slider_items):
+        item["_key"] = f"slider_{i}"
+    for i, item in enumerate(featured_items):
+        item["_key"] = f"featured_{i}"
+    for i, item in enumerate(stories_items):
+        item["_key"] = f"story_{i}"
+    
+    all_items = slider_items + featured_items + stories_items
 
     print(f"\n🎨 Generating {len(all_items)} images (all 4:3 ratio)...")
     image_map = {}
