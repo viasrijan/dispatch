@@ -1,110 +1,110 @@
 {
-  "generated_at": "2026-05-13T11:21:52.122935",
+  "generated_at": "2026-05-13T11:30:13.435148",
   "rss_headlines_used": 15,
   "sections": {
     "slider": [
       {
         "original_headline": "Refs' chief Webb confirms grappling consultation after disallowed West Ham goal",
-        "headline": "**VAR Under Fire: Refs' Chief Calls for Groping Consultation**",
+        "headline": "Webb: Disallowing West Ham Goal Was Right Decision",
         "category": "Premier League",
         "category_tag": "BREAKING",
         "importance": 5,
-        "image_prompt": "A referee in a heated discussion with VAR officials",
-        "source": "RSS",
+        "image_prompt": "Referee Howard Webb in press conference",
+        "source": "BBC",
         "_key": "slider_0"
       },
       {
         "original_headline": "Tuchel submits 55-man provisional World Cup squad",
-        "headline": "**Tuchel Names 55-Man England Squad: The Full List Inside**",
+        "headline": "Tuchel Names 55-Man England Provisional World Cup Squad",
         "category": "Champions League",
         "category_tag": "BREAKING",
         "importance": 5,
-        "image_prompt": "Thomas Tuchel's England coaching staff with the provisional World Cup squad",
-        "source": "RSS",
+        "image_prompt": "Thomas Tuchel in press conference",
+        "source": "BBC",
         "_key": "slider_1"
       },
       {
         "original_headline": "Liverpool owners face dilemma - stick or twist with Slot?",
-        "headline": "**FSG in Crisis: Will They Stay or Twist with Arne Slot?**",
+        "headline": "FSG Sticks or Twists? Liverpool Owners Face Crisis Over Arne Slot",
         "category": "Premier League",
         "category_tag": "LIVE",
         "importance": 4,
-        "image_prompt": "A split Liverpool FC boardroom with FSG owners and fans at odds",
-        "source": "RSS",
+        "image_prompt": "Liverpool owners in crisis meeting",
+        "source": "BBC",
         "_key": "slider_2"
       },
       {
         "original_headline": "Man Utd consider Valverde move - Wednesday's gossip",
-        "headline": "**United Pursue Valverde: The Latest In Manchester United Gossip**",
+        "headline": "Valverde in Man Utd Scouting, Ederson & Fernandes Also on Radar",
         "category": "Transfers",
         "category_tag": "LIVE",
         "importance": 4,
-        "image_prompt": "A silhouette of Federico Valverde in Manchester United's iconic red shirt",
-        "source": "RSS",
+        "image_prompt": "Manchester United scouting Valverde",
+        "source": "BBC",
         "_key": "slider_3"
       }
     ],
     "featured": [
       {
         "original_headline": "'I'm not going anywhere' - furious Real president Perez calls for elections",
-        "headline": "**Perez Stages Crisis: Furious Real President Calls for Elections**",
+        "headline": "Perez Demands Elections at Real Madrid Amid Trophyless Season",
         "category": "La Liga",
         "category_tag": "FEATURED",
         "importance": 4,
-        "image_prompt": "A photo of Florentino Perez with a red face and clenched fists",
-        "source": "RSS",
+        "image_prompt": "Florentino Perez in press conference",
+        "source": "BBC",
         "_key": "featured_0"
       },
       {
-        "original_headline": "How Gerrard went from 'best night' to 'head like a box of frogs'",
-        "headline": "**Gerrard's Turbulent Journey: From Glory to Heartache**",
-        "category": "Premier League",
+        "original_headline": "Immortality beckons - but Hearts must overcome Celtic & weight of history",
+        "headline": "Hearts on Brink: Can They Win the Title Against All Odds?",
+        "category": "Scottish Football",
         "category_tag": "FEATURED",
-        "importance": 4,
-        "image_prompt": "A split image of Steven Gerrard holding the Champions League trophy and then crying",
-        "source": "RSS",
+        "importance": 3,
+        "image_prompt": "Heart of Midlothian players in action",
+        "source": "BBC",
         "_key": "featured_1"
       },
       {
-        "original_headline": "Immortality beckons - but Hearts must overcome Celtic & weight of history",
-        "headline": "**Hearts on the Verge: Can They Win Historic Championship?**",
-        "category": "Scottish Premiership",
+        "original_headline": "VAR is a flip of a coin, says Guardiola",
+        "headline": "Guardiola: VAR Decisions Are Like Flipping a Coin",
+        "category": "Champions League",
         "category_tag": "FEATURED",
         "importance": 3,
-        "image_prompt": "A packed Hearts stadium with ecstatic fans holding up a giant flag",
-        "source": "RSS",
+        "image_prompt": "Pep Guardiola in press conference",
+        "source": "BBC",
         "_key": "featured_2"
       }
     ],
     "stories": [
       {
-        "original_headline": "VAR is a flip of a coin, says Guardiola",
-        "headline": "**Guardiola: VAR is Like Flipping a Coin**",
-        "category": "Premier League",
+        "original_headline": "How Gerrard went from 'best night' to 'head like a box of frogs'",
+        "headline": "Gerrard's Rollercoaster Ride: From Champions League Hero to Exit",
+        "category": "Liverpool FC",
         "category_tag": "NEWS",
         "importance": 3,
-        "image_prompt": "A split-screen image of Pep Guardiola and a coin with the words 'VAR' in between",
-        "source": "RSS",
+        "image_prompt": "Steven Gerrard in action",
+        "source": "BBC",
         "_key": "story_0"
       },
       {
-        "original_headline": "Quiz: Name every club Mourinho has managed",
-        "headline": "**Can You Name Every Club Mourinho Has Managed? Take Our Quiz**",
-        "category": "Transfers",
-        "category_tag": "NEWS",
-        "importance": 3,
-        "image_prompt": "A collage of Jose Mourinho's various managerial jobs",
-        "source": "RSS",
-        "_key": "story_1"
-      },
-      {
         "original_headline": "Ted Lasso actor Fernandez signs for US club",
-        "headline": "**Fernandez Joins El Paso Locomotive: The Next Big US Move?**",
+        "headline": "Fernandez Joins El Paso Locomotive on Ted Lasso Connection",
         "category": "Transfers",
         "category_tag": "NEWS",
         "importance": 2,
-        "image_prompt": "A shot of Cristo Fernandez signing a contract with El Paso Locomotive",
-        "source": "RSS",
+        "image_prompt": "Cristo Fernandez in El Paso Locomotive kit",
+        "source": "BBC",
+        "_key": "story_1"
+      },
+      {
+        "original_headline": "Quiz: Name every club Mourinho has managed",
+        "headline": "Can You Name Every Club Jose Mourinho Has Managed?",
+        "category": "Transfers",
+        "category_tag": "NEWS",
+        "importance": 2,
+        "image_prompt": "Jose Mourinho in press conference",
+        "source": "BBC",
         "_key": "story_2"
       }
     ]
