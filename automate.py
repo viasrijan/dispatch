@@ -781,11 +781,11 @@ FALLBACK_IMAGES = [
 
 
 def get_post_id(item, index):
-    """Generate unique post ID in DDMMYYYY-HHMMSS format"""
+    """Generate unique post ID in DDMMYYYY-HHMMSS format with index for uniqueness"""
     now = datetime.now()
     date_str = now.strftime("%d%m%Y")
     time_str = now.strftime("%H%M%S")
-    return f"{date_str}-{time_str}"
+    return f"{date_str}-{time_str}-{index}"
 
 
 def format_headline_title(headline):

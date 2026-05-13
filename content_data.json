@@ -1,89 +1,90 @@
 {
-  "generated_at": "2026-05-13T14:27:53.631526",
+  "generated_at": "2026-05-13T14:29:31.484633",
   "rss_headlines_used": 15,
   "sections": {
     "slider": [
       {
         "original_headline": "Immortality beckons - but Hearts must overcome Celtic & weight of history",
-        "headline": "Hearts on the brink of Scottish title glory after 66-year wait",
+        "headline": "Hearts on the brink of Scottish Premiership title win after 66 years of waiting",
         "category": "Scottish Premiership",
-        "content_type": "Rumors",
+        "content_type": "Analysis",
         "category_tag": "BREAKING",
         "importance": 5,
-        "image_prompt": "A Celtic and Hearts stadium with a championship trophy in the foreground",
+        "image_prompt": "Hearts players celebrating a possible historic league title win over Celtic",
         "source": "BBC",
         "tags": [
-          "Rumors"
+          "Analysis"
         ],
         "_key": "slider_0"
       },
       {
         "original_headline": "Liverpool owners face dilemma - stick or twist with Slot?",
-        "headline": "FSG in crisis: Will they back Arne Slot or make a change?",
+        "headline": "FSG in Arne Slot crisis: Will they react to fan dissent?",
         "category": "Premier League",
         "content_type": "Analysis",
         "category_tag": "LIVE",
         "importance": 4,
-        "image_prompt": "A split Liverpool boardroom with 'stick' and 'twist' notes on the table",
+        "image_prompt": "Tense Liverpool boardroom meeting with fans protesting Arne Slot's future",
         "source": "BBC",
         "tags": [
-          "Premier League",
           "Europe",
+          "Premier League",
           "Analysis"
         ],
         "_key": "slider_1"
       },
       {
-        "original_headline": "Ted Lasso actor Fernandez signs for US club",
-        "headline": "Ted Lasso star Cristo Fernandez joins El Paso Locomotive",
+        "original_headline": "Man Utd consider Valverde move - Wednesday's gossip",
+        "headline": "Manchester United eyeing Federico Valverde as summer transfer target",
         "category": "Transfers",
-        "content_type": "BREAKING",
+        "content_type": "Rumors",
         "category_tag": "LIVE",
         "importance": 4,
-        "image_prompt": "Cristo Fernandez in a football stadium with the El Paso Locomotive crest on his jersey",
+        "image_prompt": "Federico Valverde in training with Manchester United ahead of a potential summer move",
         "source": "BBC",
-        "tags": [],
+        "tags": [
+          "Rumors"
+        ],
         "_key": "slider_2"
       },
       {
         "original_headline": "Tuchel submits 55-man provisional World Cup squad",
-        "headline": "Tuchel names England provisional World Cup squad",
-        "category": "Champions League",
-        "content_type": "BREAKING",
+        "headline": "Thomas Tuchel names provisional England World Cup squad, but some surprises abound",
+        "category": "Championship",
+        "content_type": "Rumors",
         "category_tag": "LIVE",
         "importance": 4,
-        "image_prompt": "Thomas Tuchel with the England national team in a press conference setting",
+        "image_prompt": "Luke Shaw in action for the England national team ahead of the World Cup",
         "source": "BBC",
         "tags": [
-          "Champions League",
-          "Europe"
+          "Rumors"
         ],
         "_key": "slider_3"
       }
     ],
     "featured": [
       {
-        "original_headline": "Will Boro-Saints play-off have deciding third act?",
-        "headline": "Boro v Saints: Play-off drama still far from over",
-        "category": "Championship",
-        "content_type": "Rumors",
+        "original_headline": "All you need to know about Premiership title race",
+        "headline": "Hearts and Celtic: The Scottish Premiership title race explained in 60 seconds",
+        "category": "Scottish Premiership",
+        "content_type": "Analysis",
         "category_tag": "FEATURED",
-        "importance": 3,
-        "image_prompt": "A tense Middlesbrough and Southampton stadium with a referee in the middle",
+        "importance": 4,
+        "image_prompt": "Heart of Midlothian vs Celtic players competing for the historic league title",
         "source": "BBC",
         "tags": [
-          "Rumors"
+          "Analysis"
         ],
         "_key": "featured_0"
       },
       {
-        "original_headline": "Man Utd consider Valverde move - Wednesday's gossip",
-        "headline": "Valverde and Ederson: United's transfer targets",
-        "category": "Transfers",
+        "original_headline": "Will Boro-Saints play-off have deciding third act?",
+        "headline": "Boro vs Saints: Play-off fate hangs in the balance after spying allegations",
+        "category": "Championship",
         "content_type": "Rumors",
         "category_tag": "FEATURED",
         "importance": 3,
-        "image_prompt": "A Manchester United training session with Federico Valverde in the background",
+        "image_prompt": "Suspicious meeting between Middlesbrough and Southampton players under investigation",
         "source": "BBC",
         "tags": [
           "Rumors"
@@ -91,16 +92,16 @@
         "_key": "featured_1"
       },
       {
-        "original_headline": "All you need to know about Premiership title race",
-        "headline": "Hearts and Celtic: The battle for Scottish Premiership glory",
-        "category": "Scottish Premiership",
-        "content_type": "Analysis",
+        "original_headline": "Ted Lasso actor Fernandez signs for US club",
+        "headline": "Ted Lasso star Cristo Fernandez joins El Paso Locomotive on trial",
+        "category": "Transfers",
+        "content_type": "Rumors",
         "category_tag": "FEATURED",
         "importance": 3,
-        "image_prompt": "A Hearts and Celtic stadium with a championship trophy in the foreground",
+        "image_prompt": "Cristo Fernandez in action for his new US club, El Paso Locomotive",
         "source": "BBC",
         "tags": [
-          "Analysis"
+          "Rumors"
         ],
         "_key": "featured_2"
       }
@@ -108,47 +109,43 @@
     "stories": [
       {
         "original_headline": "Refs' chief Webb confirms grappling consultation after disallowed West Ham goal",
-        "headline": "West Ham's last-gasp equaliser was right call, says Webb",
-        "category": "Premier League",
+        "headline": "Referee Howard Webb defends disallowing West Ham's late equaliser against Arsenal",
+        "category": "Championship",
         "content_type": "Interviews",
         "category_tag": "NEWS",
         "importance": 2,
-        "image_prompt": "Referee Howard Webb in a press conference with a West Ham player in the background",
+        "image_prompt": "Howard Webb speaking to the press about the disputed goal in the Arsenal-West Ham match",
         "source": "BBC",
         "tags": [
-          "Premier League",
-          "Interviews",
-          "Europe"
+          "Interviews"
         ],
         "_key": "story_0"
       },
       {
-        "original_headline": "Beyond the Hollywood story - what are Wrexham really building?",
-        "headline": "Wrexham's real business: Building for success, not just fame",
-        "category": "Transfers",
-        "content_type": "Opinion",
+        "original_headline": "Carrick presence inspiring for Man Utd kids, says Fletcher",
+        "headline": "Michael Carrick's influence inspires Manchester United youngsters to win FA Youth Cup",
+        "category": "Youth Football",
+        "content_type": "Interviews",
         "category_tag": "NEWS",
         "importance": 2,
-        "image_prompt": "A Wrexham football stadium with a Hollywood-style backdrop",
+        "image_prompt": "Darren Fletcher watching Michael Carrick work with the Man Utd youth team",
         "source": "BBC",
         "tags": [
-          "Opinion"
+          "Interviews"
         ],
         "_key": "story_1"
       },
       {
-        "original_headline": "Carrick presence inspiring for Man Utd kids, says Fletcher",
-        "headline": "Carrick's influence inspires Man Utd youth team",
-        "category": "Premier League",
-        "content_type": "Interviews",
+        "original_headline": "Beyond the Hollywood story - what are Wrexham really building?",
+        "headline": "Wrexham's true ambition: Building a footballing dynasty beyond Hollywood glamour",
+        "category": "Championship",
+        "content_type": "Opinion",
         "category_tag": "NEWS",
-        "importance": 2,
-        "image_prompt": "Michael Carrick watching Manchester United kids train with Darren Fletcher in the background",
+        "importance": 1,
+        "image_prompt": "Ryan Reynolds and Rob Mac, Wrexham co-owners with ambitious plans for the club's future",
         "source": "BBC",
         "tags": [
-          "Premier League",
-          "Interviews",
-          "Europe"
+          "Opinion"
         ],
         "_key": "story_2"
       }
