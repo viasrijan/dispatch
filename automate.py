@@ -616,7 +616,7 @@ FALLBACK_CONTENT = [
 ]
 
 FALLBACK_IMAGES = [
-    "https://images.unsplash.com/photo-1522778119026-d647f0565c6a?w=1024&h=768&fit=crop",
+    "https://images.unsplash.com/photo-1511882150382-421056c89033?w=1024&h=768&fit=crop",
     "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=1024&h=768&fit=crop",
     "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=1024&h=768&fit=crop",
     "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=1024&h=768&fit=crop",
