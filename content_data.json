@@ -1,112 +1,42 @@
 {
-  "generated_at": "2026-05-13T10:37:54.271377",
+  "generated_at": "2026-05-13T10:46:08.135073",
   "rss_headlines_used": 15,
   "sections": {
     "slider": [
       {
-        "original_headline": "Mourinho in final negotiations to become Real manager",
-        "headline": "MOUROHINO BACK TO MADRID: Jose in Final Talks for Return",
-        "category": "Champions League",
-        "category_tag": "BREAKING",
-        "importance": 5,
-        "image_prompt": "Jose Mourinho posing with Real Madrid crest",
-        "source": "BBC",
+        "headline": "Salah hat-trick sinks Manchester United at Anfield",
+        "category": "Premier League",
+        "category_tag": "LIVE",
+        "image_prompt": "Mohamed Salah celebrating a hat-trick at Anfield under dramatic floodlights",
+        "importance": 3,
         "_key": "slider_0"
       },
       {
-        "original_headline": "Tuchel submits 55-man provisional World Cup squad",
-        "headline": "TUCHEL'S WORLD CUP SQUAD: England Boss Names 55-Man Provisional Squad",
-        "category": "Champions League",
+        "headline": "Real Madrid agree \u20ac127M deal for Florian Wirtz",
+        "category": "Transfer Talk",
         "category_tag": "LIVE",
-        "importance": 4,
-        "image_prompt": "Thomas Tuchel studying a World Cup trophy",
-        "source": "BBC",
+        "image_prompt": "Florian Wirtz signing contract at Santiago Bernabeu",
+        "importance": 3,
         "_key": "slider_1"
       },
       {
-        "original_headline": "'I'm not going anywhere' - furious Real president Perez calls for elections",
-        "headline": "PEREZ BUNCHED UP: Furious Real President Calls for Elections Amid Trophyless Season",
-        "category": "Champions League",
+        "headline": "Arsenal title hopes crushed by Newcastle smash-and-grab",
+        "category": "Premier League",
         "category_tag": "LIVE",
-        "importance": 4,
-        "image_prompt": "Florentino Perez red-faced in press conference",
-        "source": "BBC",
+        "image_prompt": "Newcastle players celebrating a last-minute winner at St James Park",
+        "importance": 3,
         "_key": "slider_2"
       },
       {
-        "original_headline": "White out for season and set to miss World Cup",
-        "headline": "WHITE OUT FOR SEASON: England Star Set to Miss World Cup with Injury",
-        "category": "World Cup",
+        "headline": "Barcelona on verge of financial collapse after La Liga rejection",
+        "category": "La Liga",
         "category_tag": "LIVE",
-        "importance": 4,
-        "image_prompt": "Ben White looking disappointed in a photo from the past",
-        "source": "BBC",
+        "image_prompt": "Camp Nou stadium in darkness, moody atmosphere",
+        "importance": 3,
         "_key": "slider_3"
       }
     ],
-    "featured": [
-      {
-        "original_headline": "Refs' chief Webb confirms grappling consultation after disallowed West Ham goal",
-        "headline": "WEBB SAYS NO: Refs' Chief Backs Disallowed West Ham Equaliser",
-        "category": "Premier League",
-        "category_tag": "FEATURED",
-        "importance": 3,
-        "image_prompt": "West Ham players protesting a disallowed goal",
-        "source": "BBC",
-        "_key": "featured_0"
-      },
-      {
-        "original_headline": "How Gerrard went from 'best night' to 'head like a box of frogs'",
-        "headline": "GERRARD'S JOURNEY: From Champions League Hero to Humble Reality",
-        "category": "Champions League",
-        "category_tag": "FEATURED",
-        "importance": 3,
-        "image_prompt": "Steven Gerrard looking sad in a photo from the past",
-        "source": "BBC",
-        "_key": "featured_1"
-      },
-      {
-        "original_headline": "Maddison says referees are petrified of decisions",
-        "headline": "REFFERS PETRIFIED: Maddison Says Refs Don't Want to Make Decisions",
-        "category": "Premier League",
-        "category_tag": "FEATURED",
-        "importance": 3,
-        "image_prompt": "James Maddison looking frustrated on the pitch",
-        "source": "BBC",
-        "_key": "featured_2"
-      }
-    ],
-    "stories": [
-      {
-        "original_headline": "Ted Lasso actor Fernandez signs for US club",
-        "headline": "FERNANDEZ MAKES MOVE: Ted Lasso Star Signs with US Club After Trial",
-        "category": "Transfers",
-        "category_tag": "NEWS",
-        "importance": 3,
-        "image_prompt": "Cristo Fernandez posing with El Paso Locomotive scarf",
-        "source": "BBC",
-        "_key": "story_0"
-      },
-      {
-        "original_headline": "VAR is a flip of a coin, says Guardiola",
-        "headline": "GUARDIOLA CALLS OUT VAR: 'It's Like Flipping a Coin' Says City Boss",
-        "category": "Premier League",
-        "category_tag": "NEWS",
-        "importance": 2,
-        "image_prompt": "Pep Guardiola looking frustrated on the sidelines",
-        "source": "BBC",
-        "_key": "story_1"
-      },
-      {
-        "original_headline": "McInnes and O'Neill keeping cool as Premiership title race catches fire",
-        "headline": "TITLE RACE HEAT UP: McInnes and O'Neill Stay Calm Amid Scottish Chaos",
-        "category": "Scottish Premiership",
-        "category_tag": "NEWS",
-        "importance": 2,
-        "image_prompt": "McInnes and O'Neill on the touchline",
-        "source": "BBC",
-        "_key": "story_2"
-      }
-    ]
+    "featured": [],
+    "stories": []
   }
 }

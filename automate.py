@@ -622,7 +622,7 @@ FALLBACK_IMAGES = [
     "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=1024&h=768&fit=crop",
     "https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?w=1024&h=768&fit=crop",
     "https://images.unsplash.com/photo-1626249021446-6986b5d71bc5?w=1024&h=768&fit=crop",
-    "https://images.unsplash.com/photo-1517466787929-bc90951d0974?w=1024&h=768&fit=crop",
+    "https://images.unsplash.com/photo-1522778119026-d647f0565c6a?w=1024&h=768&fit=crop",
     "https://images.unsplash.com/photo-1575361204480-aadea25e6e68?w=1024&h=768&fit=crop",
     "https://images.unsplash.com/photo-1606925797300-0b35e9d1794e?w=1024&h=768&fit=crop",
     "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?w=1024&h=768&fit=crop",
