@@ -408,20 +408,20 @@ html {
             display: inline-flex;
             align-items: center;
             gap: 8px;
-            padding: 12px 32px;
-            background: transparent;
-            border: 1px solid var(--accent);
-            color: var(--accent);
+            padding: 14px 24px;
+            background: #0e8a46;
+            border: none;
+            color: #ffffff;
             font-size: 0.9rem;
             font-weight: 600;
-            border-radius: 4px;
+            border-radius: 6px;
             cursor: pointer;
-            transition: all 0.3s ease;
+            transition: background 0.3s, color 0.3s, transform 0.2s;
         }
 
         .more-button:hover {
-            background: var(--accent);
-            color: #ffffff;
+            background: #ffffff;
+            color: #000000;
         }
 
         .featured-grid {
@@ -632,7 +632,7 @@ html {
 
         .publications-grid {
             display: grid;
-            grid-template-columns: repeat(3, 1fr);
+            grid-template-columns: repeat(4, 1fr);
             gap: 16px;
         }
 
@@ -887,40 +887,40 @@ html {
                     <div class="slider-main">
                         <div class="slider-track" id="sliderTrack">
 <!--KICKOFF_SLIDER_START-->
-            <a href="posts/13052026-142931-0.html" class="slide">
+            <a href="posts/13052026-152939-0.html" class="slide">
                 <div class="slide-image">
-                    <img src="https://images.unsplash.com/photo-1511882150382-421056c89033?w=1024&h=768&fit=crop" alt="Scottish Premiership">
+                    <img src="https://images.unsplash.com/photo-1511882150382-421056c89033?w=1024&h=768&fit=crop" alt="Premier League">
                 </div>
                 <div class="slide-content">
-                    <div class="slide-meta"><span style="color:#0e8a46">● BREAKING</span> · Scottish Premiership</div>
-                    <h3 class="slide-title">Hearts On The Brink Of Scottish Premiership Title Win After 66 Years Of Waiting</h3>
+                    <div class="slide-meta"><span style="color:#0e8a46">● LIVE</span> · Premier League</div>
+                    <h3 class="slide-title">Fsg In Crisis: Will They Stick With Arne Slot?</h3>
                 </div>
             </a>
-            <a href="posts/13052026-142931-1.html" class="slide">
+            <a href="posts/13052026-152939-1.html" class="slide">
                 <div class="slide-image">
                     <img src="https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=1024&h=768&fit=crop" alt="Premier League">
                 </div>
                 <div class="slide-content">
                     <div class="slide-meta"><span style="color:#0e8a46">● LIVE</span> · Premier League</div>
-                    <h3 class="slide-title">Fsg In Arne Slot Crisis: Will They React To Fan Dissent?</h3>
+                    <h3 class="slide-title">Webb: Disallowing West Ham's Last-Gasp Equaliser Was Right Decision!</h3>
                 </div>
             </a>
-            <a href="posts/13052026-142931-2.html" class="slide">
+            <a href="posts/13052026-152939-2.html" class="slide">
                 <div class="slide-image">
-                    <img src="https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=1024&h=768&fit=crop" alt="Transfers">
+                    <img src="https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=1024&h=768&fit=crop" alt="Premier League">
+                </div>
+                <div class="slide-content">
+                    <div class="slide-meta"><span style="color:#0e8a46">● LIVE</span> · Premier League</div>
+                    <h3 class="slide-title">Hearts On Brink Of Scottish Premiership Title Glory!</h3>
+                </div>
+            </a>
+            <a href="posts/13052026-152939-3.html" class="slide">
+                <div class="slide-image">
+                    <img src="https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=1024&h=768&fit=crop" alt="Transfers">
                 </div>
                 <div class="slide-content">
                     <div class="slide-meta"><span style="color:#0e8a46">● LIVE</span> · Transfers</div>
-                    <h3 class="slide-title">Manchester United Eyeing Federico Valverde As Summer Transfer Target</h3>
-                </div>
-            </a>
-            <a href="posts/13052026-142931-3.html" class="slide">
-                <div class="slide-image">
-                    <img src="https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=1024&h=768&fit=crop" alt="Championship">
-                </div>
-                <div class="slide-content">
-                    <div class="slide-meta"><span style="color:#0e8a46">● LIVE</span> · Championship</div>
-                    <h3 class="slide-title">Thomas Tuchel Names Provisional England World Cup Squad, But Some Surprises Abound</h3>
+                    <h3 class="slide-title">Valverde: Manchester United Eye Transfer Coup!</h3>
                 </div>
             </a>
 <!--KICKOFF_SLIDER_END-->
@@ -954,11 +954,34 @@ html {
 
         function splitTitleLines() {
             document.querySelectorAll('.slide-title').forEach(title => {
-                const words = title.textContent.trim().split(/\s+/);
-                if (words.length < 3) return;
-                const splitIndex = Math.ceil(words.length / 2);
-                const firstLine = words.slice(0, splitIndex).join(' ');
-                const secondLine = words.slice(splitIndex).join(' ');
+                let text = title.textContent.trim();
+                
+                // Truncate very long titles (max 12 words)
+                const words = text.split(/\s+/);
+                if (words.length > 12) {
+                    text = words.slice(0, 12).join(' ') + '...';
+                }
+                
+                const wordList = text.split(/\s+/);
+                if (wordList.length < 3) {
+                    title.textContent = text;
+                    return;
+                }
+                
+                // Find the best split point - avoid single word lines
+                let splitIndex = Math.ceil(wordList.length / 2);
+                
+                // If first part would be single word, adjust
+                if (splitIndex === 1) splitIndex = 2;
+                // If second part would be single word, adjust
+                if (wordList.length - splitIndex === 1) splitIndex = wordList.length - 2;
+                
+                // Ensure we don't go below 2 words on either line
+                if (splitIndex < 2) splitIndex = 2;
+                if (splitIndex > wordList.length - 2) splitIndex = wordList.length - 2;
+                
+                const firstLine = wordList.slice(0, splitIndex).join(' ');
+                const secondLine = wordList.slice(splitIndex).join(' ');
                 title.innerHTML = `${firstLine}<br>${secondLine}`;
             });
         }
@@ -1033,26 +1056,26 @@ html {
         </div>
         <div class="featured-grid">
 <!--KICKOFF_FEATURED_START-->
-            <a href="posts/13052026-142931-4.html" class="featured-card">
+            <a href="posts/13052026-152939-4.html" class="featured-card">
                 <div class="featured-image">
                     <img src="https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?w=1024&h=768&fit=crop" style="width:100%;height:100%;object-fit:cover;">
                 </div>
-                <div class="featured-meta" data-cat="Scottish Premiership">Scottish Premiership · LIVE</div>
-                <h3 class="featured-title">Hearts And Celtic: The Scottish Premiership Title Race Explained In 60 Seconds</h3>
+                <div class="featured-meta" data-cat="Champions League">Champions League · LIVE</div>
+                <h3 class="featured-title">Tuchel Names 55-Man England World Cup Squad!</h3>
             </a>
-            <a href="posts/13052026-142931-5.html" class="featured-card">
+            <a href="posts/13052026-152939-5.html" class="featured-card">
                 <div class="featured-image">
                     <img src="https://images.unsplash.com/photo-1560272564-c8304700f87c?w=1024&h=768&fit=crop" style="width:100%;height:100%;object-fit:cover;">
                 </div>
-                <div class="featured-meta" data-cat="Championship">Championship · LIVE</div>
-                <h3 class="featured-title">Boro Vs Saints: Play-Off Fate Hangs In The Balance After Spying Allegations</h3>
+                <div class="featured-meta" data-cat="Premier League">Premier League · LIVE</div>
+                <h3 class="featured-title">Premier League Title Showdown: Who Can Win It All?</h3>
             </a>
-            <a href="posts/13052026-142931-6.html" class="featured-card">
+            <a href="posts/13052026-152939-6.html" class="featured-card">
                 <div class="featured-image">
                     <img src="https://images.unsplash.com/photo-1507501336603-6e31db2be093?w=1024&h=768&fit=crop" style="width:100%;height:100%;object-fit:cover;">
                 </div>
-                <div class="featured-meta" data-cat="Transfers">Transfers · LIVE</div>
-                <h3 class="featured-title">Ted Lasso Star Cristo Fernandez Joins El Paso Locomotive On Trial</h3>
+                <div class="featured-meta" data-cat="Premier League">Premier League · LIVE</div>
+                <h3 class="featured-title">Boro V Saints: Play-Off On Brink Of Collapse!</h3>
             </a>
 <!--KICKOFF_FEATURED_END-->
         </div>
@@ -1064,20 +1087,20 @@ html {
         </div>
         <div class="publications-grid">
 <!--KICKOFF_STORIES_START-->
-            <a href="posts/13052026-142931-7.html" class="pub-card">
+            <a href="posts/13052026-152939-7.html" class="pub-card">
                 <div class="pub-image"><img src="https://images.unsplash.com/photo-1575361204480-aadea25e6e68?w=1024&h=768&fit=crop" style="width:100%;height:100%;object-fit:cover;"></div>
-                <div class="pub-meta" data-cat="Championship">Championship · 15 min ago</div>
-                <h3 class="pub-title">Referee Howard Webb Defends Disallowing West Ham's Late Equaliser Against Arsenal</h3>
+                <div class="pub-meta" data-cat="Transfers">Transfers · 15 min ago</div>
+                <h3 class="pub-title">Wrexham: Co-Owners Ryan Reynolds And Rob Mac's Business Plan!</h3>
             </a>
-            <a href="posts/13052026-142931-8.html" class="pub-card">
+            <a href="posts/13052026-152939-8.html" class="pub-card">
                 <div class="pub-image"><img src="https://images.unsplash.com/photo-1606925797300-0b35e9d1794e?w=1024&h=768&fit=crop" style="width:100%;height:100%;object-fit:cover;"></div>
-                <div class="pub-meta" data-cat="Youth Football">Youth Football · 28 min ago</div>
-                <h3 class="pub-title">Michael Carrick's Influence Inspires Manchester United Youngsters To Win Fa Youth Cup</h3>
+                <div class="pub-meta" data-cat="Transfers">Transfers · 28 min ago</div>
+                <h3 class="pub-title">Fernandez: From Hollywood To El Paso!</h3>
             </a>
-            <a href="posts/13052026-142931-9.html" class="pub-card">
+            <a href="posts/13052026-152939-9.html" class="pub-card">
                 <div class="pub-image"><img src="https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?w=1024&h=768&fit=crop" style="width:100%;height:100%;object-fit:cover;"></div>
-                <div class="pub-meta" data-cat="Championship">Championship · 42 min ago</div>
-                <h3 class="pub-title">Wrexham's True Ambition: Building A Footballing Dynasty Beyond Hollywood Glamour</h3>
+                <div class="pub-meta" data-cat="Premier League">Premier League · 42 min ago</div>
+                <h3 class="pub-title">Carrick's Influence: Man Utd Youngsters Inspired By Coach!</h3>
             </a>
 <!--KICKOFF_STORIES_END-->
         </div>

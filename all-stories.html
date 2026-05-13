@@ -33,8 +33,6 @@
 
         a { text-decoration: none; color: inherit; cursor: pointer; }
 
-        .container { max-width: 1200px; margin: 0 auto; padding: 0 24px; }
-
         .top-bar {
             display: flex;
             justify-content: space-between;
@@ -80,20 +78,29 @@
 
         .page-header {
             padding: 40px 24px;
+            max-width: 1200px;
+            margin: 0 auto;
             border-bottom: 1px solid var(--border);
         }
 
-        .back-button {
+        .back-btn {
             display: inline-flex;
             align-items: center;
             gap: 8px;
+            padding: 14px 24px;
+            background: #0e8a46;
             color: #ffffff;
             font-size: 0.9rem;
-            font-weight: 500;
-            margin-bottom: 16px;
+            font-weight: 600;
+            border-radius: 6px;
+            transition: background 0.3s, color 0.3s, transform 0.2s;
+            margin-bottom: 24px;
         }
 
-        .back-button:hover { color: #0e8a46; }
+        .back-btn:hover {
+            background: #ffffff;
+            color: #000000;
+        }
 
         .page-title {
             font-size: 2rem;
@@ -101,13 +108,16 @@
             letter-spacing: -1px;
         }
 
-        .stories-grid {
-            display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 24px;
-            padding: 40px 24px;
+        .stories-container {
             max-width: 1200px;
             margin: 0 auto;
+            padding: 40px 24px;
+        }
+
+        .stories-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 20px;
         }
 
         .story-card {
@@ -169,6 +179,16 @@
             margin-top: 60px;
         }
 
+        .site-footer-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            text-align: center;
+        }
+
+        @media (max-width: 1024px) {
+            .stories-grid { grid-template-columns: repeat(3, 1fr); }
+        }
+
         @media (max-width: 768px) {
             .stories-grid { grid-template-columns: repeat(2, 1fr); }
             .nav-menu { display: none; }
@@ -196,21 +216,21 @@
     </header>
 
     <div class="page-header">
-        <div class="container">
-            <a href="index.html" class="back-button">
-                <i class="fas fa-arrow-left"></i> Back to Home
-            </a>
-            <h1 class="page-title">All Stories</h1>
+        <a href="index.html" class="back-btn">
+            <i class="fas fa-arrow-left"></i> Back to Home
+        </a>
+        <h1 class="page-title">All Stories</h1>
+    </div>
+
+    <div class="stories-container">
+        <div class="stories-grid" id="storiesGrid">
+            <!-- Stories will be populated here -->
         </div>
     </div>
 
-    <div class="stories-grid" id="storiesGrid">
-        <!-- Stories will be populated here -->
-    </div>
-
     <footer class="site-footer">
-        <div class="container">
-            <p style="text-align:center;color:var(--text-muted)">© 2026 KICKOFF. All rights reserved.</p>
+        <div class="site-footer-content">
+            <p style="color:var(--text-muted)">© 2026 KICKOFF. All rights reserved.</p>
         </div>
     </footer>
 
@@ -222,7 +242,9 @@
             { title: "Champions League Final Preview", category: "Champions League", time: "42 min ago", image: "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=1024&h=768&fit=crop", tags: ["Europe", "Champions League"] },
             { title: "Barcelona Youth Star Breaks Through", category: "La Liga", time: "1 hour ago", image: "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=1024&h=768&fit=crop", tags: ["Europe", "La Liga"] },
             { title: "Bayern Munich Secure Domestic Double", category: "Bundesliga", time: "2 hours ago", image: "https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?w=1024&h=768&fit=crop", tags: ["Europe", "Bundesliga"] },
-            { title: "Messi Scores stunner for Inter Miami", category: "MLS", time: "3 hours ago", image: "https://images.unsplash.com/photo-1560272564-c8304700f87c?w=1024&h=768&fit=crop", tags: ["North America", "MLS"] },
+            { title: "Messi Scores Stunner for Inter Miami", category: "MLS", time: "3 hours ago", image: "https://images.unsplash.com/photo-1560272564-c8304700f87c?w=1024&h=768&fit=crop", tags: ["North America", "MLS"] },
+            { title: "Arsenal Title Bid Hangs in the Balance", category: "Premier League", time: "4 hours ago", image: "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=1024&h=768&fit=crop", tags: ["Europe", "Premier League"] },
+            { title: "Mbappe Double Secures Vital Victory", category: "La Liga", time: "5 hours ago", image: "https://images.unsplash.com/photo-1511882150382-421056c89033?w=1024&h=768&fit=crop", tags: ["Europe", "La Liga"] },
         ];
 
         const grid = document.getElementById('storiesGrid');

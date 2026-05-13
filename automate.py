@@ -21,7 +21,7 @@ ssl_context.check_hostname = False
 ssl_context.verify_mode = ssl.CERT_NONE
 
 # Settings
-GENERATE_POST_PAGES = True  # Enable post page generation
+GENERATE_POST_PAGES = False  # Disabled per user request
 
 # Image API Keys
 PEXELS_API_KEY = "uojC04iqYEDXYiuAzMNEOW4KFKzZz514yGjfa6cGPpc98d9jkFfOCrM9"

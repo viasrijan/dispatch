@@ -1,60 +1,64 @@
 {
-  "generated_at": "2026-05-13T14:29:31.484633",
+  "generated_at": "2026-05-13T15:29:39.847431",
   "rss_headlines_used": 15,
   "sections": {
     "slider": [
       {
-        "original_headline": "Immortality beckons - but Hearts must overcome Celtic & weight of history",
-        "headline": "Hearts on the brink of Scottish Premiership title win after 66 years of waiting",
-        "category": "Scottish Premiership",
+        "original_headline": "Liverpool owners face dilemma - stick or twist with Slot?",
+        "headline": "FSG in crisis: Will they stick with Arne Slot?",
+        "category": "Premier League",
         "content_type": "Analysis",
-        "category_tag": "BREAKING",
-        "importance": 5,
-        "image_prompt": "Hearts players celebrating a possible historic league title win over Celtic",
+        "category_tag": "LIVE",
+        "importance": 4,
+        "image_prompt": "Liverpool FC owners at a crossroads",
         "source": "BBC",
         "tags": [
+          "Premier League",
+          "Europe",
           "Analysis"
         ],
         "_key": "slider_0"
       },
       {
-        "original_headline": "Liverpool owners face dilemma - stick or twist with Slot?",
-        "headline": "FSG in Arne Slot crisis: Will they react to fan dissent?",
+        "original_headline": "Refs' chief Webb confirms grappling consultation after disallowed West Ham goal",
+        "headline": "Webb: Disallowing West Ham's last-gasp equaliser was right decision!",
         "category": "Premier League",
-        "content_type": "Analysis",
+        "content_type": "Interviews",
         "category_tag": "LIVE",
         "importance": 4,
-        "image_prompt": "Tense Liverpool boardroom meeting with fans protesting Arne Slot's future",
+        "image_prompt": "Howard Webb explains disallowed West Ham goal",
         "source": "BBC",
         "tags": [
-          "Europe",
           "Premier League",
-          "Analysis"
+          "Europe",
+          "Interviews"
         ],
         "_key": "slider_1"
       },
       {
-        "original_headline": "Man Utd consider Valverde move - Wednesday's gossip",
-        "headline": "Manchester United eyeing Federico Valverde as summer transfer target",
-        "category": "Transfers",
+        "original_headline": "Immortality beckons - but Hearts must overcome Celtic & weight of history",
+        "headline": "Hearts on brink of Scottish Premiership title glory!",
+        "category": "Premier League",
         "content_type": "Rumors",
         "category_tag": "LIVE",
         "importance": 4,
-        "image_prompt": "Federico Valverde in training with Manchester United ahead of a potential summer move",
+        "image_prompt": "Jambos fans go wild as Hearts near championship win",
         "source": "BBC",
         "tags": [
-          "Rumors"
+          "Rumors",
+          "Europe",
+          "Premier League"
         ],
         "_key": "slider_2"
       },
       {
-        "original_headline": "Tuchel submits 55-man provisional World Cup squad",
-        "headline": "Thomas Tuchel names provisional England World Cup squad, but some surprises abound",
-        "category": "Championship",
+        "original_headline": "Man Utd consider Valverde move - Wednesday's gossip",
+        "headline": "Valverde: Manchester United eye transfer coup!",
+        "category": "Transfers",
         "content_type": "Rumors",
         "category_tag": "LIVE",
         "importance": 4,
-        "image_prompt": "Luke Shaw in action for the England national team ahead of the World Cup",
+        "image_prompt": "Federico Valverde training with Manchester United squad",
         "source": "BBC",
         "tags": [
           "Rumors"
@@ -64,88 +68,96 @@
     ],
     "featured": [
       {
-        "original_headline": "All you need to know about Premiership title race",
-        "headline": "Hearts and Celtic: The Scottish Premiership title race explained in 60 seconds",
-        "category": "Scottish Premiership",
-        "content_type": "Analysis",
+        "original_headline": "Tuchel submits 55-man provisional World Cup squad",
+        "headline": "Tuchel names 55-man England World Cup squad!",
+        "category": "Champions League",
+        "content_type": "Rumors",
         "category_tag": "FEATURED",
         "importance": 4,
-        "image_prompt": "Heart of Midlothian vs Celtic players competing for the historic league title",
+        "image_prompt": "Thomas Tuchel watches Luke Shaw train with England squad",
         "source": "BBC",
         "tags": [
-          "Analysis"
+          "Rumors",
+          "Europe",
+          "Champions League"
         ],
         "_key": "featured_0"
       },
       {
-        "original_headline": "Will Boro-Saints play-off have deciding third act?",
-        "headline": "Boro vs Saints: Play-off fate hangs in the balance after spying allegations",
-        "category": "Championship",
-        "content_type": "Rumors",
+        "original_headline": "All you need to know about Premiership title race",
+        "headline": "Premier League title showdown: Who can win it all?",
+        "category": "Premier League",
+        "content_type": "Analysis",
         "category_tag": "FEATURED",
-        "importance": 3,
-        "image_prompt": "Suspicious meeting between Middlesbrough and Southampton players under investigation",
+        "importance": 4,
+        "image_prompt": "Scottish Premiership title contenders face off",
         "source": "BBC",
         "tags": [
-          "Rumors"
+          "Premier League",
+          "Europe",
+          "Analysis"
         ],
         "_key": "featured_1"
       },
       {
-        "original_headline": "Ted Lasso actor Fernandez signs for US club",
-        "headline": "Ted Lasso star Cristo Fernandez joins El Paso Locomotive on trial",
-        "category": "Transfers",
+        "original_headline": "Will Boro-Saints play-off have deciding third act?",
+        "headline": "Boro v Saints: Play-off on brink of collapse!",
+        "category": "Premier League",
         "content_type": "Rumors",
         "category_tag": "FEATURED",
         "importance": 3,
-        "image_prompt": "Cristo Fernandez in action for his new US club, El Paso Locomotive",
+        "image_prompt": "Stadium empty as Boro and Saints await play-off outcome",
         "source": "BBC",
         "tags": [
-          "Rumors"
+          "Rumors",
+          "Europe",
+          "Premier League"
         ],
         "_key": "featured_2"
       }
     ],
     "stories": [
       {
-        "original_headline": "Refs' chief Webb confirms grappling consultation after disallowed West Ham goal",
-        "headline": "Referee Howard Webb defends disallowing West Ham's late equaliser against Arsenal",
-        "category": "Championship",
-        "content_type": "Interviews",
+        "original_headline": "Beyond the Hollywood story - what are Wrexham really building?",
+        "headline": "Wrexham: Co-owners Ryan Reynolds and Rob Mac's business plan!",
+        "category": "Transfers",
+        "content_type": "Analysis",
         "category_tag": "NEWS",
-        "importance": 2,
-        "image_prompt": "Howard Webb speaking to the press about the disputed goal in the Arsenal-West Ham match",
+        "importance": 3,
+        "image_prompt": "Wrexham co-owners reveal their vision for the club",
         "source": "BBC",
         "tags": [
-          "Interviews"
+          "Analysis"
         ],
         "_key": "story_0"
       },
       {
-        "original_headline": "Carrick presence inspiring for Man Utd kids, says Fletcher",
-        "headline": "Michael Carrick's influence inspires Manchester United youngsters to win FA Youth Cup",
-        "category": "Youth Football",
-        "content_type": "Interviews",
+        "original_headline": "Ted Lasso actor Fernandez signs for US club",
+        "headline": "Fernandez: From Hollywood to El Paso!",
+        "category": "Transfers",
+        "content_type": "Rumors",
         "category_tag": "NEWS",
-        "importance": 2,
-        "image_prompt": "Darren Fletcher watching Michael Carrick work with the Man Utd youth team",
+        "importance": 3,
+        "image_prompt": "Cristo Fernandez poses with El Paso Locomotive scarf",
         "source": "BBC",
         "tags": [
-          "Interviews"
+          "Rumors"
         ],
         "_key": "story_1"
       },
       {
-        "original_headline": "Beyond the Hollywood story - what are Wrexham really building?",
-        "headline": "Wrexham's true ambition: Building a footballing dynasty beyond Hollywood glamour",
-        "category": "Championship",
-        "content_type": "Opinion",
+        "original_headline": "Carrick presence inspiring for Man Utd kids, says Fletcher",
+        "headline": "Carrick's influence: Man Utd youngsters inspired by coach!",
+        "category": "Premier League",
+        "content_type": "Interviews",
         "category_tag": "NEWS",
-        "importance": 1,
-        "image_prompt": "Ryan Reynolds and Rob Mac, Wrexham co-owners with ambitious plans for the club's future",
+        "importance": 3,
+        "image_prompt": "Michael Carrick coaching Manchester United youth team",
         "source": "BBC",
         "tags": [
-          "Opinion"
+          "Premier League",
+          "Europe",
+          "Interviews"
         ],
         "_key": "story_2"
       }
