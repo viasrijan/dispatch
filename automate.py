@@ -21,7 +21,7 @@ ssl_context.check_hostname = False
 ssl_context.verify_mode = ssl.CERT_NONE
 
 # Settings
-GENERATE_POST_PAGES = False  # Disabled per user request
+GENERATE_POST_PAGES = True  # Enable for URL format fix
 
 # Image API Keys
 PEXELS_API_KEY = "uojC04iqYEDXYiuAzMNEOW4KFKzZz514yGjfa6cGPpc98d9jkFfOCrM9"
@@ -792,11 +792,10 @@ FALLBACK_IMAGES = [
 
 
 def get_post_id(item, index):
-    """Generate unique post ID in DDMMYYYY-HHMMSS format with index for uniqueness"""
+    """Generate unique post ID in DDMMYY-0001 format"""
     now = datetime.now()
-    date_str = now.strftime("%d%m%Y")
-    time_str = now.strftime("%H%M%S")
-    return f"{date_str}-{time_str}-{index}"
+    date_str = now.strftime("%d%m%y")
+    return f"{date_str}-{index:04d}"
 
 
 def format_headline_title(headline):

@@ -1,19 +1,18 @@
 {
-  "generated_at": "2026-05-13T19:32:20.244712",
+  "generated_at": "2026-05-13T19:54:18.682022",
   "rss_headlines_used": 15,
   "sections": {
     "slider": [
       {
-        "original_headline": "Liverpool owners face dilemma - stick or twist with Slot?",
-        "headline": "**Slot's Future at Liverpool Hanging by Thread** FSG Weigh Options",
+        "original_headline": "Man Utd chiefs to recommend Carrick for permanent job",
+        "headline": "**Carrick to Take Reins at Man Utd** Senior executives back Michael Carrick for top spot",
         "category": "Premier League",
-        "content_type": "Rumors",
+        "content_type": "Transfer",
         "category_tag": "LIVE",
         "importance": 4,
-        "image_prompt": "A split-screen image of Arne Slot and Liverpool's owners, with a question mark hovering above.",
+        "image_prompt": "Manchester United manager's office with Michael Carrick sitting at desk",
         "source": "BBC",
         "tags": [
-          "Rumors",
           "Premier League",
           "Europe"
         ],
@@ -21,12 +20,12 @@
       },
       {
         "original_headline": "Could Southampton be kicked out of play-offs over Spygate?",
-        "headline": "**Spygate Saga Heats Up** Southampton Face Play-Off Ban",
+        "headline": "**Spygate Saga Looms Over Southampton Play-Off Fate** Middlesbrough could steal spot",
         "category": "Championship",
         "content_type": "Rumors",
         "category_tag": "LIVE",
         "importance": 4,
-        "image_prompt": "A photo of a football stadium with a red flag waving in the background, representing Spygate.",
+        "image_prompt": "Southampton players looking worried during a match",
         "source": "BBC",
         "tags": [
           "Rumors"
@@ -35,12 +34,12 @@
       },
       {
         "original_headline": "Immortality beckons - but Hearts must overcome Celtic & weight of history",
-        "headline": "**Hearts on Cusp of Scottish Glory** Can They Overcome Celtic?",
+        "headline": "**Hearts on Brink of Immortality** Can they conquer Celtic and history?",
         "category": "Scottish Premiership",
         "content_type": "Analysis",
         "category_tag": "LIVE",
         "importance": 4,
-        "image_prompt": "A photo of Hearts players in action, with the Scottish flag waving behind them.",
+        "image_prompt": "Heart of Midlothian players looking determined during a match",
         "source": "BBC",
         "tags": [
           "Analysis"
@@ -48,103 +47,103 @@
         "_key": "slider_2"
       },
       {
-        "original_headline": "Man Utd chiefs to recommend Carrick for permanent job",
-        "headline": "**Carrick in Line for Manchester United Job** Senior Execs Back 55-Year-Old",
-        "category": "Premier League",
-        "content_type": "Transfers",
+        "original_headline": "'I sold my late dad's diamond ring to get to Villa's Europa League final'",
+        "headline": "**Barnes' Emotional Europa League Final Bid** Sold his late dad's engagement ring for ticket",
+        "category": "",
+        "content_type": "Interviews",
         "category_tag": "LIVE",
-        "importance": 3,
-        "image_prompt": "A photo of Michael Carrick with a football in hand, standing in front of Manchester United's Old Trafford stadium.",
+        "importance": 4,
+        "image_prompt": "Scott Barnes looking at an old diamond ring with tears in his eyes",
         "source": "BBC",
         "tags": [
-          "Europe",
-          "Premier League",
-          "Transfers"
+          "Interviews"
         ],
         "_key": "slider_3"
       }
     ],
     "featured": [
       {
-        "original_headline": "World Cup transport prices cut after fan backlash",
-        "headline": "**Fan Fury Sparks Price Cuts** World Cup Transport Costs Reduced",
-        "category": "International Football",
-        "content_type": "News",
+        "original_headline": "Liverpool owners face dilemma - stick or twist with Slot?",
+        "headline": "**FSG Dilemma: To Stick or Twist on Arne Slot?** Owners weigh fan dissent",
+        "category": "Premier League",
+        "content_type": "Rumors",
         "category_tag": "FEATURED",
         "importance": 3,
-        "image_prompt": "A photo of a bus or train with a price tag cut down, symbolizing the fan backlash.",
+        "image_prompt": "Liverpool manager Arne Slot with Liverpool players looking concerned",
         "source": "BBC",
-        "tags": [],
+        "tags": [
+          "Premier League",
+          "Rumors",
+          "Europe"
+        ],
         "_key": "featured_0"
       },
       {
-        "original_headline": "Refs' chief Webb confirms grappling consultation after disallowed West Ham goal",
-        "headline": "**Disallowed Goal Sparks Debate** Refs' Chief Calls for Grievance Procedure Review",
-        "category": "International Football",
-        "content_type": "Analysis",
+        "original_headline": "World Cup transport prices cut after fan backlash",
+        "headline": "**Fans Protest Transport Prices at World Cup** MetLife Stadium prices slashed",
+        "category": "",
+        "content_type": "Transfers",
         "category_tag": "FEATURED",
         "importance": 3,
-        "image_prompt": "A photo of Howard Webb, the referees' chief, with a football in hand.",
+        "image_prompt": "MetLife Stadium with fans protesting outside",
         "source": "BBC",
         "tags": [
-          "Analysis"
+          "Transfers"
         ],
         "_key": "featured_1"
       },
       {
         "original_headline": "Beyond the Hollywood story - what are Wrexham really building?",
-        "headline": "**Wrexham's Real Mission** More Than Just Football Success",
-        "category": "Transfers",
-        "content_type": "Analysis",
+        "headline": "**Wrexham: More Than Just a Hollywood Story** Co-owners' true intentions",
+        "category": "",
+        "content_type": "Opinion",
         "category_tag": "FEATURED",
         "importance": 3,
-        "image_prompt": "A photo of Ryan Reynolds and Rob Mac, Wrexham co-owners, with a football stadium in the background.",
+        "image_prompt": "Ryan Reynolds and Rob Mac, Wrexham co-owners looking at team's progress",
         "source": "BBC",
         "tags": [
-          "Analysis"
+          "Opinion"
         ],
         "_key": "featured_2"
       }
     ],
     "stories": [
       {
-        "original_headline": "Carrick presence inspiring for Man Utd kids, says Fletcher",
-        "headline": "**Carrick's Influence on Young United** Darren Fletcher Speaks Out",
-        "category": "Premier League",
-        "content_type": "Interviews",
+        "original_headline": "BBC to stream FA Youth Cup final between Man City & Man Utd",
+        "headline": "**Youth Cup Showdown: BBC Streams Manchester Derby** Exclusive coverage",
+        "category": "",
+        "content_type": "Match Reports",
         "category_tag": "NEWS",
         "importance": 3,
-        "image_prompt": "A photo of Darren Fletcher and Michael Carrick together, with Manchester United players in the background.",
+        "image_prompt": "Manchester City and Manchester United players warming up before the FA Youth Cup final",
         "source": "BBC",
         "tags": [
-          "Interviews",
-          "Premier League",
-          "Europe"
+          "Match Reports"
         ],
         "_key": "story_0"
       },
       {
-        "original_headline": "Scotland await Conway news before Tuesday squad announcement",
-        "headline": "**Conway Injury Update** Scotland Wait for Tommy Conway News Before Squad Announcement",
-        "category": "International Football",
-        "content_type": "Rumors",
+        "original_headline": "Ted Lasso actor Fernandez signs for US club",
+        "headline": "**Fernandez Lands US Club Deal** El Paso Locomotive secures Ted Lasso star",
+        "category": "",
+        "content_type": "Transfers",
         "category_tag": "NEWS",
         "importance": 3,
-        "image_prompt": "A photo of Tommy Conway with a football in hand, wearing a Scotland jersey.",
+        "image_prompt": "Cristo Fernandez with his new team's players and coaches",
         "source": "BBC",
         "tags": [
-          "Rumors"
+          "Transfers"
         ],
         "_key": "story_1"
       },
       {
-        "original_headline": "Ted Lasso actor Fernandez signs for US club",
-        "headline": "**Ted Lasso Star Signs** Cristo Fernandez Joins El Paso Locomotive",
-        "category": "Transfers",
+        "original_headline": "Refs' chief Webb confirms grappling consultation after disallowed West Ham goal",
+        "headline": "**Webb Backs Referee Decision** No tackling after Arsenal-West Ham disallowed goal",
+        "category": "",
         "content_type": "Rumors",
         "category_tag": "NEWS",
-        "importance": 2,
-        "image_prompt": "A photo of Cristo Fernandez with a football in hand, wearing the El Paso Locomotive jersey.",
+        "importance": 3,
+        "image_prompt": "Howard Webb, referee chief looking at the screen with a red flag",
         "source": "BBC",
         "tags": [
           "Rumors"

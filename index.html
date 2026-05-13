@@ -401,7 +401,7 @@ html {
         .more-button-container {
             display: flex;
             justify-content: center;
-            margin-top: 32px;
+            margin-top: 40px;
         }
 
         .more-button {
@@ -426,7 +426,7 @@ html {
 
         .featured-grid {
             display: grid;
-            grid-template-columns: repeat(3, 1fr);
+            grid-template-columns: repeat(4, 1fr);
             gap: 16px;
         }
 
@@ -887,40 +887,40 @@ html {
                     <div class="slider-main">
                         <div class="slider-track" id="sliderTrack">
 <!--KICKOFF_SLIDER_START-->
-            <a href="posts/13052026-193220-0.html" class="slide">
+            <a href="posts/130526-0000.html" class="slide">
                 <div class="slide-image">
                     <img src="https://images.unsplash.com/photo-1511882150382-421056c89033?w=1024&h=768&fit=crop" alt="Premier League">
                 </div>
                 <div class="slide-content">
                     <div class="slide-meta"><span style="color:#0e8a46">● LIVE</span> · Premier League</div>
-                    <h3 class="slide-title">Slot's Future At Liverpool Hanging By Thread Fsg Weigh Options</h3>
+                    <h3 class="slide-title">Carrick To Take Reins At Man Utd Senior Executives Back Michael Carrick For Top Spot</h3>
                 </div>
             </a>
-            <a href="posts/13052026-193220-1.html" class="slide">
+            <a href="posts/130526-0001.html" class="slide">
                 <div class="slide-image">
                     <img src="https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=1024&h=768&fit=crop" alt="Championship">
                 </div>
                 <div class="slide-content">
                     <div class="slide-meta"><span style="color:#0e8a46">● LIVE</span> · Championship</div>
-                    <h3 class="slide-title">Spygate Saga Heats Up Southampton Face Play-Off Ban</h3>
+                    <h3 class="slide-title">Spygate Saga Looms Over Southampton Play-Off Fate Middlesbrough Could Steal Spot</h3>
                 </div>
             </a>
-            <a href="posts/13052026-193220-2.html" class="slide">
+            <a href="posts/130526-0002.html" class="slide">
                 <div class="slide-image">
                     <img src="https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=1024&h=768&fit=crop" alt="Scottish Premiership">
                 </div>
                 <div class="slide-content">
                     <div class="slide-meta"><span style="color:#0e8a46">● LIVE</span> · Scottish Premiership</div>
-                    <h3 class="slide-title">Hearts On Cusp Of Scottish Glory Can They Overcome Celtic?</h3>
+                    <h3 class="slide-title">Hearts On Brink Of Immortality Can They Conquer Celtic And History?</h3>
                 </div>
             </a>
-            <a href="posts/13052026-193220-3.html" class="slide">
+            <a href="posts/130526-0003.html" class="slide">
                 <div class="slide-image">
-                    <img src="https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=1024&h=768&fit=crop" alt="Premier League">
+                    <img src="https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=1024&h=768&fit=crop" alt="">
                 </div>
                 <div class="slide-content">
-                    <div class="slide-meta"><span style="color:#0e8a46">● LIVE</span> · Premier League</div>
-                    <h3 class="slide-title">Carrick In Line For Manchester United Job Senior Execs Back 55-Year-Old</h3>
+                    <div class="slide-meta"><span style="color:#0e8a46">● LIVE</span> · </div>
+                    <h3 class="slide-title">Barnes' Emotional Europa League Final Bid Sold His Late Dad's Engagement Ring For Ticket</h3>
                 </div>
             </a>
 <!--KICKOFF_SLIDER_END-->
@@ -1020,62 +1020,60 @@ html {
             'A-League': 'oceania'
         };
 
-        document.querySelectorAll('.category-tab').forEach(tab => {
-            tab.addEventListener('click', function(e) {
-                e.preventDefault();
-                const continent = this.getAttribute('data-continent');
-                
-                // Update active tab
-                document.querySelectorAll('.category-tab').forEach(t => t.classList.remove('active'));
-                this.classList.add('active');
+        // Test function
+        window.testTabClick = function(continent, element) {
+            // Update active tab
+            document.querySelectorAll('.category-tab').forEach(t => t.classList.remove('active'));
+            element.classList.add('active');
 
-                // Filter featured cards
-                document.querySelectorAll('.featured-card').forEach(card => {
-                    const category = card.querySelector('.featured-meta').getAttribute('data-cat');
-                    const cardContinent = continentMap[category] || 'europe';
-                    
-                    if (continent === 'all' || cardContinent === continent) {
-                        card.style.display = 'block';
-                    } else {
-                        card.style.display = 'none';
-                    }
-                });
+            // Filter featured cards
+            document.querySelectorAll('.featured-card').forEach(card => {
+                const categoryEl = card.querySelector('.featured-meta');
+                if (!categoryEl) return;
+                const category = categoryEl.getAttribute('data-cat');
+                const cardContinent = continentMap[category] || 'europe';
+                
+                if (continent === 'all' || cardContinent === continent) {
+                    card.style.display = 'block';
+                } else {
+                    card.style.display = 'none';
+                }
             });
-        });
+        };
     </script>
 
     <section class="categories-section">
         <div class="category-tabs">
-            <a href="javascript:void(0)" class="category-tab active" data-continent="all">All</a>
-            <a href="javascript:void(0)" class="category-tab" data-continent="europe">Europe</a>
-            <a href="javascript:void(0)" class="category-tab" data-continent="south-america">South America</a>
-            <a href="javascript:void(0)" class="category-tab" data-continent="north-america">North America</a>
-            <a href="javascript:void(0)" class="category-tab" data-continent="asia">Asia</a>
-            <a href="javascript:void(0)" class="category-tab" data-continent="africa">Africa</a>
-            <a href="javascript:void(0)" class="category-tab" data-continent="oceania">Oceania</a>
+            <a href="javascript:void(0)" class="category-tab active" data-continent="all" onclick="testTabClick('all', this)">All</a>
+            <a href="javascript:void(0)" class="category-tab" data-continent="europe" onclick="testTabClick('europe', this)">Europe</a>
+            <a href="javascript:void(0)" class="category-tab" data-continent="south-america" onclick="testTabClick('south-america', this)">South America</a>
+            <a href="javascript:void(0)" class="category-tab" data-continent="north-america" onclick="testTabClick('north-america', this)">North America</a>
+            <a href="javascript:void(0)" class="category-tab" data-continent="asia" onclick="testTabClick('asia', this)">Asia</a>
+            <a href="javascript:void(0)" class="category-tab" data-continent="africa" onclick="testTabClick('africa', this)">Africa</a>
+            <a href="javascript:void(0)" class="category-tab" data-continent="oceania" onclick="testTabClick('oceania', this)">Oceania</a>
         </div>
         <div class="featured-grid">
 <!--KICKOFF_FEATURED_START-->
-            <a href="posts/13052026-193220-4.html" class="featured-card">
+            <a href="posts/130526-0004.html" class="featured-card">
                 <div class="featured-image">
                     <img src="https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?w=1024&h=768&fit=crop" style="width:100%;height:100%;object-fit:cover;">
                 </div>
-                <div class="featured-meta" data-cat="International Football">International Football · LIVE</div>
-                <h3 class="featured-title">Fan Fury Sparks Price Cuts World Cup Transport Costs Reduced</h3>
+                <div class="featured-meta" data-cat="Premier League">Premier League · LIVE</div>
+                <h3 class="featured-title">Fsg Dilemma: To Stick Or Twist On Arne Slot? Owners Weigh Fan Dissent</h3>
             </a>
-            <a href="posts/13052026-193220-5.html" class="featured-card">
+            <a href="posts/130526-0005.html" class="featured-card">
                 <div class="featured-image">
                     <img src="https://images.unsplash.com/photo-1560272564-c8304700f87c?w=1024&h=768&fit=crop" style="width:100%;height:100%;object-fit:cover;">
                 </div>
-                <div class="featured-meta" data-cat="International Football">International Football · LIVE</div>
-                <h3 class="featured-title">Disallowed Goal Sparks Debate Refs' Chief Calls For Grievance Procedure Review</h3>
+                <div class="featured-meta" data-cat=""> · LIVE</div>
+                <h3 class="featured-title">Fans Protest Transport Prices At World Cup Metlife Stadium Prices Slashed</h3>
             </a>
-            <a href="posts/13052026-193220-6.html" class="featured-card">
+            <a href="posts/130526-0006.html" class="featured-card">
                 <div class="featured-image">
                     <img src="https://images.unsplash.com/photo-1507501336603-6e31db2be093?w=1024&h=768&fit=crop" style="width:100%;height:100%;object-fit:cover;">
                 </div>
-                <div class="featured-meta" data-cat="Transfers">Transfers · LIVE</div>
-                <h3 class="featured-title">Wrexham's Real Mission More Than Just Football Success</h3>
+                <div class="featured-meta" data-cat=""> · LIVE</div>
+                <h3 class="featured-title">Wrexham: More Than Just A Hollywood Story Co-Owners' True Intentions</h3>
             </a>
 <!--KICKOFF_FEATURED_END-->
         </div>
@@ -1087,20 +1085,20 @@ html {
         </div>
         <div class="publications-grid">
 <!--KICKOFF_STORIES_START-->
-            <a href="posts/13052026-193220-7.html" class="pub-card">
+            <a href="posts/130526-0007.html" class="pub-card">
                 <div class="pub-image"><img src="https://images.unsplash.com/photo-1575361204480-aadea25e6e68?w=1024&h=768&fit=crop" style="width:100%;height:100%;object-fit:cover;"></div>
-                <div class="pub-meta" data-cat="Premier League">Premier League · 15 min ago</div>
-                <h3 class="pub-title">Carrick's Influence On Young United Darren Fletcher Speaks Out</h3>
+                <div class="pub-meta" data-cat=""> · 15 min ago</div>
+                <h3 class="pub-title">Youth Cup Showdown: Bbc Streams Manchester Derby Exclusive Coverage</h3>
             </a>
-            <a href="posts/13052026-193220-8.html" class="pub-card">
+            <a href="posts/130526-0008.html" class="pub-card">
                 <div class="pub-image"><img src="https://images.unsplash.com/photo-1606925797300-0b35e9d1794e?w=1024&h=768&fit=crop" style="width:100%;height:100%;object-fit:cover;"></div>
-                <div class="pub-meta" data-cat="International Football">International Football · 28 min ago</div>
-                <h3 class="pub-title">Conway Injury Update Scotland Wait For Tommy Conway News Before Squad Announcement</h3>
+                <div class="pub-meta" data-cat=""> · 28 min ago</div>
+                <h3 class="pub-title">Fernandez Lands Us Club Deal El Paso Locomotive Secures Ted Lasso Star</h3>
             </a>
-            <a href="posts/13052026-193220-9.html" class="pub-card">
+            <a href="posts/130526-0009.html" class="pub-card">
                 <div class="pub-image"><img src="https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?w=1024&h=768&fit=crop" style="width:100%;height:100%;object-fit:cover;"></div>
-                <div class="pub-meta" data-cat="Transfers">Transfers · 42 min ago</div>
-                <h3 class="pub-title">Ted Lasso Star Signs Cristo Fernandez Joins El Paso Locomotive</h3>
+                <div class="pub-meta" data-cat=""> · 42 min ago</div>
+                <h3 class="pub-title">Webb Backs Referee Decision No Tackling After Arsenal-West Ham Disallowed Goal</h3>
             </a>
 <!--KICKOFF_STORIES_END-->
         </div>
