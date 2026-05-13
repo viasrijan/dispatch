@@ -621,7 +621,7 @@ FALLBACK_IMAGES = [
     "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=1024&h=768&fit=crop",
     "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=1024&h=768&fit=crop",
     "https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?w=1024&h=768&fit=crop",
-    "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=1024&h=768&fit=crop",
+    "https://images.unsplash.com/photo-1626249021446-6986b5d71bc5?w=1024&h=768&fit=crop",
     "https://images.unsplash.com/photo-1517466787929-bc90951d0974?w=1024&h=768&fit=crop",
     "https://images.unsplash.com/photo-1575361204480-aadea25e6e68?w=1024&h=768&fit=crop",
     "https://images.unsplash.com/photo-1606925797300-0b35e9d1794e?w=1024&h=768&fit=crop",
@@ -631,12 +631,13 @@ FALLBACK_IMAGES = [
 
 def build_slider_html(items, images):
     html = ""
-    for item in items:
+    for i, item in enumerate(items):
         img_src = images.get(item.get("_key", ""), "")
         cat = item.get("category", "Premier League")
         tag = item.get("category_tag", "LIVE")
         headline = item.get("headline", "Football News").replace("**", "")
-        html += f"""            <div class="slide">
+        post_id = f"post_{i}"
+        html += f"""            <a href="post.html?id={post_id}" class="slide">
                 <div class="slide-image">
                     <img src="{img_src}" alt="{cat}">
                 </div>
@@ -644,18 +645,19 @@ def build_slider_html(items, images):
                     <div class="slide-meta"><span style="color:#0e8a46">● {tag}</span> · {cat}</div>
                     <h3 class="slide-title">{headline}</h3>
                 </div>
-            </div>
+            </a>
 """
     return html
 
 
 def build_featured_html(items, images):
     html = ""
-    for item in items:
+    for i, item in enumerate(items):
         img_src = images.get(item.get("_key", ""), "")
         cat = item.get("category", "Premier League")
         headline = item.get("headline", "Football News").replace("**", "")
-        html += f"""            <a href="#" class="featured-card">
+        post_id = f"post_{i + 4}"  # Offset to continue from slider
+        html += f"""            <a href="post.html?id={post_id}" class="featured-card">
                 <div class="featured-image">
                     <img src="{img_src}" style="width:100%;height:100%;object-fit:cover;">
                 </div>
@@ -674,12 +676,38 @@ def build_stories_html(items, images):
         cat = item.get("category", "Premier League")
         headline = item.get("headline", "Football News").replace("**", "")
         time_str = times[i] if i < len(times) else f"{i+1} hour ago"
-        html += f"""            <a href="#" class="pub-card">
+        post_id = f"post_{i + 7}"  # Offset for stories
+        html += f"""            <a href="post.html?id={post_id}" class="pub-card">
                 <div class="pub-image"><img src="{img_src}" style="width:100%;height:100%;object-fit:cover;"></div>
                 <div class="pub-meta" data-cat="{cat}">{cat} · {time_str}</div>
                 <h3 class="pub-title">{headline}</h3>
             </a>
 """
+    return html
+
+
+def generate_post_html(item, image_url, content):
+    """Generate individual post page"""
+    post_template = PROJECT_DIR / "post.html"
+    if not post_template.exists():
+        return None
+    
+    with open(post_template, "r") as f:
+        html = f.read()
+    
+    # Replace placeholders
+    headline = item.get("headline", "Football News").replace("**", "")
+    category = item.get("category", "Premier League")
+    tag = item.get("category_tag", "LIVE")
+    time_str = "Just now"
+    
+    html = html.replace("POST_HEADLINE", headline)
+    html = html.replace("POST_CATEGORY", category)
+    html = html.replace("POST_TAG", tag)
+    html = html.replace("POST_TIME", time_str)
+    html = html.replace("POST_CONTENT", content)
+    html = html.replace("POST_HERO_IMAGE", image_url if image_url else FALLBACK_IMAGES[0])
+    
     return html
 
 
@@ -831,6 +859,32 @@ async def run():
         f.write(html)
 
     print("✅ Website updated!")
+
+    # 4b. Generate individual post pages
+    print("📝 Generating post pages...")
+    all_items = slider_items + featured_items + stories_items
+    for i, item in enumerate(all_items):
+        post_id = f"post_{i}"
+        image_key = item.get("_key", "")
+        image_url = image_map.get(image_key, FALLBACK_IMAGES[0])
+        
+        # Generate simple content for the post
+        headline = item.get("headline", "Football News").replace("**", "")
+        category = item.get("category", "Premier League")
+        content = f"""
+        <p>{headline}</p>
+        <p>This is a developing story. {category} continues to make headlines as the season progresses.</p>
+        <p>Stay tuned to KICKOFF for the latest updates on this story and more football news.</p>
+        """
+        
+        post_html = generate_post_html(item, image_url, content)
+        if post_html:
+            post_file = PROJECT_DIR / "posts" / f"{post_id}.html"
+            os.makedirs(PROJECT_DIR / "posts", exist_ok=True)
+            with open(post_file, "w") as f:
+                f.write(post_html)
+    
+    print(f"   ✅ Generated {len(all_items)} post pages")
 
     # 5. Save content data
     content_data = {
