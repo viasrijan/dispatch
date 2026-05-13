@@ -1,112 +1,42 @@
 {
-  "generated_at": "2026-05-13T10:55:35.463595",
+  "generated_at": "2026-05-13T11:09:02.974299",
   "rss_headlines_used": 15,
   "sections": {
     "slider": [
       {
-        "original_headline": "Immortality beckons - but Hearts must overcome Celtic & weight of history",
-        "headline": "**Hearts On Brink Of History!** Hearts Win Title After 66 Years",
-        "category": "Champions League (Scotland)",
-        "category_tag": "BREAKING",
-        "importance": 5,
-        "image_prompt": "Scottish football stadium with Hearts fans celebrating",
-        "source": "BBC",
+        "headline": "Salah hat-trick sinks Manchester United at Anfield",
+        "category": "Premier League",
+        "category_tag": "LIVE",
+        "image_prompt": "Mohamed Salah celebrating a hat-trick at Anfield under dramatic floodlights",
+        "importance": 3,
         "_key": "slider_0"
       },
       {
-        "original_headline": "'I'm not going anywhere' - furious Real president Perez calls for elections",
-        "headline": "**Perez Stages Meltdown!** Furious Real President Demands Elections Now",
-        "category": "La Liga",
-        "category_tag": "BREAKING",
-        "importance": 5,
-        "image_prompt": "Florentino Perez looking angry in a press conference",
-        "source": "BBC",
+        "headline": "Real Madrid agree \u20ac127M deal for Florian Wirtz",
+        "category": "Transfer Talk",
+        "category_tag": "LIVE",
+        "image_prompt": "Florian Wirtz signing contract at Santiago Bernabeu",
+        "importance": 3,
         "_key": "slider_1"
       },
       {
-        "original_headline": "Mourinho in final negotiations to become Real manager",
-        "headline": "**Mourinho Back At Real?** Legendary Coach Makes Shocking Return Bid",
-        "category": "La Liga",
-        "category_tag": "BREAKING",
-        "importance": 5,
-        "image_prompt": "Jose Mourinho looking confident in a press conference",
-        "source": "BBC",
+        "headline": "Arsenal title hopes crushed by Newcastle smash-and-grab",
+        "category": "Premier League",
+        "category_tag": "LIVE",
+        "image_prompt": "Newcastle players celebrating a last-minute winner at St James Park",
+        "importance": 3,
         "_key": "slider_2"
       },
       {
-        "original_headline": "Man Utd consider Valverde move - Wednesday's gossip",
-        "headline": "**Valverde On His Way?** Man United Eye Transfer Move",
-        "category": "Transfers",
+        "headline": "Barcelona on verge of financial collapse after La Liga rejection",
+        "category": "La Liga",
         "category_tag": "LIVE",
-        "importance": 4,
-        "image_prompt": "Manchester United players looking at a transfer board",
-        "source": "BBC",
+        "image_prompt": "Camp Nou stadium in darkness, moody atmosphere",
+        "importance": 3,
         "_key": "slider_3"
       }
     ],
-    "featured": [
-      {
-        "original_headline": "Refs' chief Webb confirms grappling consultation after disallowed West Ham goal",
-        "headline": "**Webb Backs Ref Decision!** Disallowed West Ham Equaliser Was Right Call",
-        "category": "Premier League",
-        "category_tag": "FEATURED",
-        "importance": 3,
-        "image_prompt": "Referee Webb looking at a replay on his tablet",
-        "source": "BBC",
-        "_key": "featured_0"
-      },
-      {
-        "original_headline": "Tuchel submits 55-man provisional World Cup squad",
-        "headline": "**Tuchel Names Squad!** England Coach Announces Provisional Roster",
-        "category": "Champions League (England)",
-        "category_tag": "FEATURED",
-        "importance": 3,
-        "image_prompt": "Thomas Tuchel looking at a World Cup flag",
-        "source": "BBC",
-        "_key": "featured_1"
-      },
-      {
-        "original_headline": "How Gerrard went from 'best night' to 'head like a box of frogs'",
-        "headline": "**Gerrard's Fall From Glory!** Liverpool Legend's Shocking Downfall Exposed",
-        "category": "Premier League",
-        "category_tag": "FEATURED",
-        "importance": 3,
-        "image_prompt": "Steven Gerrard looking shocked in a sports magazine cover",
-        "source": "BBC",
-        "_key": "featured_2"
-      }
-    ],
-    "stories": [
-      {
-        "original_headline": "Maddison says referees are petrified of decisions",
-        "headline": "**Referee Fears!** Maddison Reveals Shocking Truth About Ref Decisions",
-        "category": "Premier League",
-        "category_tag": "NEWS",
-        "importance": 3,
-        "image_prompt": "James Maddison looking concerned in a soccer stadium",
-        "source": "BBC",
-        "_key": "story_0"
-      },
-      {
-        "original_headline": "Ted Lasso actor Fernandez signs for US club",
-        "headline": "**Fernandez Joins El Paso Locomotive!** Actor's Soccer Debut Confirmed",
-        "category": "Transfers",
-        "category_tag": "NEWS",
-        "importance": 2,
-        "image_prompt": "Ted Lasso actor Cristo Fernandez in a soccer jersey",
-        "source": "BBC",
-        "_key": "story_1"
-      },
-      {
-        "original_headline": "VAR is a flip of a coin, says Guardiola",
-        "headline": "**Guardiola Speaks Out!** City Boss Says VAR Decisions Feel Like Flips Of A Coin",
-        "category": "Champions League (England)",
-        "category_tag": "NEWS",
-        "importance": 2,
-        "image_prompt": "Pep Guardiola looking frustrated in a soccer stadium",
-        "source": "BBC",
-        "_key": "story_2"
-      }
-    ]
+    "featured": [],
+    "stories": []
   }
 }
