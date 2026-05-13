@@ -1,42 +1,112 @@
 {
-  "generated_at": "2026-05-13T11:09:02.974299",
+  "generated_at": "2026-05-13T11:12:31.174111",
   "rss_headlines_used": 15,
   "sections": {
     "slider": [
       {
-        "headline": "Salah hat-trick sinks Manchester United at Anfield",
-        "category": "Premier League",
-        "category_tag": "LIVE",
-        "image_prompt": "Mohamed Salah celebrating a hat-trick at Anfield under dramatic floodlights",
-        "importance": 3,
+        "original_headline": "Immortality beckons - but Hearts must overcome Celtic & weight of history",
+        "headline": "Hearts on brink of title glory against 'giant' Celtic",
+        "category": "Scottish Premiership",
+        "category_tag": "BREAKING",
+        "importance": 5,
+        "image_prompt": "A dramatic football match with a huge crowd",
+        "source": "BBC",
         "_key": "slider_0"
       },
       {
-        "headline": "Real Madrid agree \u20ac127M deal for Florian Wirtz",
-        "category": "Transfer Talk",
-        "category_tag": "LIVE",
-        "image_prompt": "Florian Wirtz signing contract at Santiago Bernabeu",
-        "importance": 3,
+        "original_headline": "Tuchel submits 55-man provisional World Cup squad",
+        "headline": "Tuchel names England provisional World Cup squad",
+        "category": "Champions League",
+        "category_tag": "BREAKING",
+        "importance": 5,
+        "image_prompt": "An England footballer holding a national team jersey",
+        "source": "BBC",
         "_key": "slider_1"
       },
       {
-        "headline": "Arsenal title hopes crushed by Newcastle smash-and-grab",
-        "category": "Premier League",
-        "category_tag": "LIVE",
-        "image_prompt": "Newcastle players celebrating a last-minute winner at St James Park",
-        "importance": 3,
+        "original_headline": "'I'm not going anywhere' - furious Real president Perez calls for elections",
+        "headline": "Perez: I won't leave Real Madrid, despite criticism",
+        "category": "La Liga",
+        "category_tag": "BREAKING",
+        "importance": 5,
+        "image_prompt": "A tense press conference with a football club president",
+        "source": "BBC",
         "_key": "slider_2"
       },
       {
-        "headline": "Barcelona on verge of financial collapse after La Liga rejection",
+        "original_headline": "Mourinho in final negotiations to become Real manager",
+        "headline": "Mourinho nears return to Real Madrid as Real's future hangs by thread",
         "category": "La Liga",
-        "category_tag": "LIVE",
-        "image_prompt": "Camp Nou stadium in darkness, moody atmosphere",
-        "importance": 3,
+        "category_tag": "BREAKING",
+        "importance": 5,
+        "image_prompt": "A football manager sitting in a meeting room with a football club president",
+        "source": "BBC",
         "_key": "slider_3"
       }
     ],
-    "featured": [],
-    "stories": []
+    "featured": [
+      {
+        "original_headline": "Liverpool owners face dilemma - stick or twist with Slot?",
+        "headline": "FSG's Liverpool future hangs by thread as fans protest",
+        "category": "Premier League",
+        "category_tag": "FEATURED",
+        "importance": 4,
+        "image_prompt": "A tense meeting in the Liverpool boardroom",
+        "source": "BBC",
+        "_key": "featured_0"
+      },
+      {
+        "original_headline": "VAR is a flip of a coin, says Guardiola",
+        "headline": "Guardiola: VAR decision feels like 'flip of a coin'",
+        "category": "Premier League",
+        "category_tag": "FEATURED",
+        "importance": 4,
+        "image_prompt": "A football manager looking frustrated on the sidelines",
+        "source": "BBC",
+        "_key": "featured_1"
+      },
+      {
+        "original_headline": "Refs' chief Webb confirms grappling consultation after disallowed West Ham goal",
+        "headline": "Referee Webb backs decision on disallowed West Ham goal",
+        "category": "Premier League",
+        "category_tag": "FEATURED",
+        "importance": 3,
+        "image_prompt": "A referee looking at footage on a screen",
+        "source": "BBC",
+        "_key": "featured_2"
+      }
+    ],
+    "stories": [
+      {
+        "original_headline": "Man Utd consider Valverde move - Wednesday's gossip",
+        "headline": "Man Utd eyeing Valverde as United plot summer shake-up",
+        "category": "Transfers",
+        "category_tag": "NEWS",
+        "importance": 3,
+        "image_prompt": "A Manchester United player training with a new teammate",
+        "source": "BBC",
+        "_key": "story_0"
+      },
+      {
+        "original_headline": "How Gerrard went from 'best night' to 'head like a box of frogs'",
+        "headline": "Gerrard's Liverpool highs and lows in 2005",
+        "category": "Premier League",
+        "category_tag": "NEWS",
+        "importance": 3,
+        "image_prompt": "A footballer looking unhappy with his teammates",
+        "source": "BBC",
+        "_key": "story_1"
+      },
+      {
+        "original_headline": "Ted Lasso actor Fernandez signs for US club",
+        "headline": "Ted Lasso star signs for American second-tier side",
+        "category": "Transfers",
+        "category_tag": "NEWS",
+        "importance": 2,
+        "image_prompt": "A footballer holding a ball with a TV screen in the background",
+        "source": "BBC",
+        "_key": "story_2"
+      }
+    ]
   }
 }
