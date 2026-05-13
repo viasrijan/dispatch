@@ -452,7 +452,7 @@ Format: [{{"original_headline": "...", "headline": "...", "category": "...", "co
             item["tags"] = get_tags_for_category(category, content_type)
         
         print(f"    ✅ Transformed {len(items)} real articles into KICKOFF style")
-        return items[:10]
+        return items[:15]
     except Exception as e:
         print(f"    ❌ Transformation failed: {e}")
         return get_fallback_slider()
