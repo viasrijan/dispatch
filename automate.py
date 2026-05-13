@@ -395,7 +395,7 @@ async def generate_slider_content(api_key, rss_articles):
     # Format articles for AI transformation
     articles_text = "\n\n".join([
         f"Source: {a.get('source', 'Unknown')}\nHeadline: {a.get('title', '')}\nSummary: {a.get('description', '')}"
-        for a in rss_articles[:10]
+        for a in rss_articles[:15]
     ])
     
     prompt = f"""You are KICKOFF's football news editor. Transform the real headlines below into KICKOFF's signature style.
