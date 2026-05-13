@@ -12,6 +12,7 @@ import aiohttp
 import xml.etree.ElementTree as ET
 import ssl
 from datetime import datetime, timedelta
+import hashlib
 from pathlib import Path
 
 # Fix SSL certificate issue on macOS
@@ -629,6 +630,15 @@ FALLBACK_IMAGES = [
 ]
 
 
+def get_post_id(item, index):
+    """Generate unique post ID based on headline and timestamp"""
+    headline = item.get("headline", "post")
+    headline_short = headline.replace(" ", "")[:10].lower()
+    now = datetime.now()
+    date_str = now.strftime("%Y%m%d")
+    return f"{date_str}-{headline_short}-{index}"
+
+
 def build_slider_html(items, images):
     html = ""
     for i, item in enumerate(items):
@@ -636,7 +646,8 @@ def build_slider_html(items, images):
         cat = item.get("category", "Premier League")
         tag = item.get("category_tag", "LIVE")
         headline = item.get("headline", "Football News").replace("**", "")
-        html += f"""            <a href="posts/post_{i}.html" class="slide">
+        post_id = get_post_id(item, i)
+        html += f"""            <a href="posts/{post_id}.html" class="slide">
                 <div class="slide-image">
                     <img src="{img_src}" alt="{cat}">
                 </div>
@@ -655,7 +666,8 @@ def build_featured_html(items, images):
         img_src = images.get(item.get("_key", ""), "")
         cat = item.get("category", "Premier League")
         headline = item.get("headline", "Football News").replace("**", "")
-        html += f"""            <a href="posts/post_{i + 4}.html" class="featured-card">
+        post_id = get_post_id(item, i + 4)
+        html += f"""            <a href="posts/{post_id}.html" class="featured-card">
                 <div class="featured-image">
                     <img src="{img_src}" style="width:100%;height:100%;object-fit:cover;">
                 </div>
@@ -674,7 +686,8 @@ def build_stories_html(items, images):
         cat = item.get("category", "Premier League")
         headline = item.get("headline", "Football News").replace("**", "")
         time_str = times[i] if i < len(times) else f"{i+1} hour ago"
-        html += f"""            <a href="posts/post_{i + 7}.html" class="pub-card">
+        post_id = get_post_id(item, i + 7)
+        html += f"""            <a href="posts/{post_id}.html" class="pub-card">
                 <div class="pub-image"><img src="{img_src}" style="width:100%;height:100%;object-fit:cover;"></div>
                 <div class="pub-meta" data-cat="{cat}">{cat} · {time_str}</div>
                 <h3 class="pub-title">{headline}</h3>
@@ -861,7 +874,7 @@ async def run():
     print("📝 Generating post pages...")
     all_items = slider_items + featured_items + stories_items
     for i, item in enumerate(all_items):
-        post_id = f"post_{i}"
+        post_id = get_post_id(item, i)
         image_key = item.get("_key", "")
         image_url = image_map.get(image_key, FALLBACK_IMAGES[0])
         
