@@ -154,21 +154,32 @@
             display: inline-flex;
             align-items: center;
             gap: 10px;
-            padding: 12px 24px;
+            padding: 8px 16px;
             background: #0e8a46;
             color: #ffffff;
-            border-radius: 8px;
-            font-size: 1rem;
+            border-radius: 6px;
+            font-size: 0.85rem;
             font-weight: 600;
             transition: background 0.3s, color 0.3s, transform 0.2s;
-            margin-bottom: 24px;
-            margin-left: -24px;
         }
 
         .back-btn:hover {
             background: #ffffff;
             color: #0e8a46;
             transform: scale(1.02);
+        }
+
+        .header-row {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            margin-bottom: 12px;
+        }
+
+        .meta-row {
+            display: flex;
+            align-items: center;
+            gap: 12px;
         }
 
         .post-content {
@@ -364,15 +375,16 @@
 
     <div class="article-container">
         <div class="post-layout">
-        <a href="https://viasrijan.github.io/dispatch/" class="back-btn">
-            <i class="fas fa-arrow-left"></i> Back
-        </a>
-
         <div class="post-content">
             <div class="article-header">
-                <div class="article-meta">
-                    <span class="article-tag">POST_TAG</span>
-                    <span class="article-category">POST_CATEGORY</span>
+                <div class="header-row">
+                    <a href="https://viasrijan.github.io/dispatch/" class="back-btn">
+                        <i class="fas fa-arrow-left"></i> Back
+                    </a>
+                    <div class="meta-row">
+                        <span class="article-tag">POST_TAG</span>
+                        <span class="article-category">POST_CATEGORY</span>
+                    </div>
                 </div>
                 <h1 class="article-title">POST_HEADLINE</h1>
                 <div class="article-time">POST_TIME</div>

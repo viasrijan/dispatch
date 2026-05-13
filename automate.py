@@ -20,6 +20,9 @@ ssl_context = ssl.create_default_context()
 ssl_context.check_hostname = False
 ssl_context.verify_mode = ssl.CERT_NONE
 
+# Settings
+GENERATE_POST_PAGES = False  # Set to False to stop creating post pages
+
 PROJECT_DIR = Path(__file__).parent
 HTML_FILE = PROJECT_DIR / "index.html"
 IMAGES_DIR = PROJECT_DIR / "images"
@@ -622,8 +625,8 @@ FALLBACK_IMAGES = [
     "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=1024&h=768&fit=crop",
     "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=1024&h=768&fit=crop",
     "https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?w=1024&h=768&fit=crop",
-    "https://images.unsplash.com/photo-1626249021446-6986b5d71bc5?w=1024&h=768&fit=crop",
-    "https://images.unsplash.com/photo-1522778119026-d647f0565c6a?w=1024&h=768&fit=crop",
+    "https://images.unsplash.com/photo-1560272564-c8304700f87c?w=1024&h=768&fit=crop",
+    "https://images.unsplash.com/photo-1507501336603-6e31db2be093?w=1024&h=768&fit=crop",
     "https://images.unsplash.com/photo-1575361204480-aadea25e6e68?w=1024&h=768&fit=crop",
     "https://images.unsplash.com/photo-1606925797300-0b35e9d1794e?w=1024&h=768&fit=crop",
     "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?w=1024&h=768&fit=crop",
@@ -870,29 +873,34 @@ async def run():
 
     print("✅ Website updated!")
 
-    # 4b. Generate individual post pages
-    print("📝 Generating post pages...")
-    all_items = slider_items + featured_items + stories_items
-    for i, item in enumerate(all_items):
-        post_id = get_post_id(item, i)
-        image_key = item.get("_key", "")
-        image_url = image_map.get(image_key, FALLBACK_IMAGES[0])
+    # 4b. Generate individual post pages (if enabled)
+    if GENERATE_POST_PAGES:
+        print("📝 Generating post pages...")
+        all_items = slider_items + featured_items + stories_items
+        for i, item in enumerate(all_items):
+            post_id = get_post_id(item, i)
+            image_key = item.get("_key", "")
+            image_url = image_map.get(image_key, FALLBACK_IMAGES[0])
+            
+            # Generate simple content for the post
+            headline = item.get("headline", "Football News").replace("**", "")
+            category = item.get("category", "Premier League")
+            content = f"""
+            <p>{headline}</p>
+            <p>This is a developing story. {category} continues to make headlines as the season progresses.</p>
+            <p>Stay tuned to KICKOFF for the latest updates on this story and more football news.</p>
+            """
+            
+            post_html = generate_post_html(item, image_url, content)
+            if post_html:
+                post_file = PROJECT_DIR / "posts" / f"{post_id}.html"
+                os.makedirs(PROJECT_DIR / "posts", exist_ok=True)
+                with open(post_file, "w") as f:
+                    f.write(post_html)
         
-        # Generate simple content for the post
-        headline = item.get("headline", "Football News").replace("**", "")
-        category = item.get("category", "Premier League")
-        content = f"""
-        <p>{headline}</p>
-        <p>This is a developing story. {category} continues to make headlines as the season progresses.</p>
-        <p>Stay tuned to KICKOFF for the latest updates on this story and more football news.</p>
-        """
-        
-        post_html = generate_post_html(item, image_url, content)
-        if post_html:
-            post_file = PROJECT_DIR / "posts" / f"{post_id}.html"
-            os.makedirs(PROJECT_DIR / "posts", exist_ok=True)
-            with open(post_file, "w") as f:
-                f.write(post_html)
+        print(f"   ✅ Generated {len(all_items)} post pages")
+    else:
+        print("   ⏭️ Skipping post page generation")
     
     print(f"   ✅ Generated {len(all_items)} post pages")
 
