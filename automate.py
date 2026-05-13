@@ -21,7 +21,94 @@ ssl_context.check_hostname = False
 ssl_context.verify_mode = ssl.CERT_NONE
 
 # Settings
-GENERATE_POST_PAGES = False  # Set to False to stop creating post pages
+GENERATE_POST_PAGES = True  # Enable post page generation
+
+# Image API Keys
+PEXELS_API_KEY = "uojC04iqYEDXYiuAzMNEOW4KFKzZz514yGjfa6cGPpc98d9jkFfOCrM9"
+PIXABAY_API_KEY = "55840135-74cfba926282eebc8e1950565"
+MAGNIFIC_API_KEY = "FPSX2443565dd2c548989f13fb2be2758124"
+
+# Football image search queries
+FOOTBALL_QUERIES = [
+    "football stadium",
+    "soccer match",
+    "premier league",
+    "football player",
+    "football game",
+    "soccer stadium",
+    "football crowd",
+    "football goal",
+]
+
+
+async def search_pexels_images(query, per_page=5):
+    """Search Pexels for football images"""
+    import urllib.request
+    import urllib.parse
+    import json
+    
+    url = "https://api.pexels.com/v1/search"
+    headers = {"Authorization": PEXELS_API_KEY}
+    
+    params = {"query": query, "per_page": per_page, "orientation": "landscape"}
+    
+    try:
+        data = urllib.parse.urlencode(params).encode()
+        req = urllib.request.Request(url, data=data, headers=headers)
+        with urllib.request.urlopen(req, timeout=30) as response:
+            result = json.loads(response.read())
+            photos = result.get("photos", [])
+            if photos:
+                # Return the first photo's srcset large URL
+                return photos[0].get("src", {}).get("large2x", photos[0].get("src", {}).get("large", ""))
+    except Exception as e:
+        print(f"    ⚠ Pexels error: {e}")
+    return None
+
+
+async def search_pixabay_images(query, per_page=5):
+    """Search Pixabay for football images"""
+    import urllib.request
+    import urllib.parse
+    import json
+    
+    url = "https://pixabay.com/api/"
+    params = {"key": PIXABAY_API_KEY, "q": query, "per_page": per_page, "orientation": "horizontal"}
+    
+    try:
+        data = urllib.parse.urlencode(params).encode()
+        req = urllib.request.Request(url, data=data)
+        with urllib.request.urlopen(req, timeout=30) as response:
+            result = json.loads(response.read())
+            hits = result.get("hits", [])
+            if hits:
+                return hits[0].get("largeImageURL")
+    except Exception as e:
+        print(f"    ⚠ Pixabay error: {e}")
+    return None
+
+
+async def get_football_image():
+    """Try multiple APIs to get a football image"""
+    import random
+    
+    # Try each query with each API
+    for _ in range(3):  # Try up to 3 times
+        query = random.choice(FOOTBALL_QUERIES)
+        
+        # Try Pexels first
+        url = await search_pexels_images(query)
+        if url:
+            print(f"    ✅ Got image from Pexels: {query}")
+            return url
+        
+        # Try Pixabay
+        url = await search_pixabay_images(query)
+        if url:
+            print(f"    ✅ Got image from Pixabay: {query}")
+            return url
+    
+    return None
 
 PROJECT_DIR = Path(__file__).parent
 HTML_FILE = PROJECT_DIR / "index.html"
@@ -634,12 +721,22 @@ FALLBACK_IMAGES = [
 
 
 def get_post_id(item, index):
-    """Generate unique post ID based on headline and timestamp"""
-    headline = item.get("headline", "post")
-    headline_short = headline.replace(" ", "")[:10].lower()
-    now = datetime.now()
-    date_str = now.strftime("%Y%m%d")
-    return f"{date_str}-{headline_short}-{index}"
+    """Generate unique post ID with random 6-character code"""
+    import random
+    date_str = datetime.now().strftime("%Y%m%d")
+    random_code = ''.join(random.choices('abcdef0123456789', k=6))
+    return f"{date_str}-{random_code}"
+
+
+def format_headline_title(headline):
+    """Format headline to Title Case, remove semicolons"""
+    # Remove semicolons and replace with dash or just remove
+    headline = headline.replace(";", " - ")
+    # Convert to Title Case
+    headline = headline.title()
+    # Clean up multiple spaces
+    headline = ' '.join(headline.split())
+    return headline
 
 
 def build_slider_html(items, images):
@@ -648,7 +745,7 @@ def build_slider_html(items, images):
         img_src = images.get(item.get("_key", ""), "")
         cat = item.get("category", "Premier League")
         tag = item.get("category_tag", "LIVE")
-        headline = item.get("headline", "Football News").replace("**", "")
+        headline = format_headline_title(item.get("headline", "Football News").replace("**", ""))
         post_id = get_post_id(item, i)
         html += f"""            <a href="posts/{post_id}.html" class="slide">
                 <div class="slide-image">
@@ -668,7 +765,7 @@ def build_featured_html(items, images):
     for i, item in enumerate(items):
         img_src = images.get(item.get("_key", ""), "")
         cat = item.get("category", "Premier League")
-        headline = item.get("headline", "Football News").replace("**", "")
+        headline = format_headline_title(item.get("headline", "Football News").replace("**", ""))
         post_id = get_post_id(item, i + 4)
         html += f"""            <a href="posts/{post_id}.html" class="featured-card">
                 <div class="featured-image">
@@ -687,7 +784,7 @@ def build_stories_html(items, images):
     for i, item in enumerate(items):
         img_src = images.get(item.get("_key", ""), "")
         cat = item.get("category", "Premier League")
-        headline = item.get("headline", "Football News").replace("**", "")
+        headline = format_headline_title(item.get("headline", "Football News").replace("**", ""))
         time_str = times[i] if i < len(times) else f"{i+1} hour ago"
         post_id = get_post_id(item, i + 7)
         html += f"""            <a href="posts/{post_id}.html" class="pub-card">
@@ -709,7 +806,7 @@ def generate_post_html(item, image_url, content):
         html = f.read()
     
     # Replace placeholders
-    headline = item.get("headline", "Football News").replace("**", "")
+    headline = format_headline_title(item.get("headline", "Football News").replace("**", ""))
     category = item.get("category", "Premier League")
     tag = item.get("category_tag", "LIVE")
     time_str = "Just now"
@@ -850,9 +947,14 @@ async def run():
         if rel:
             image_map[key] = rel
         else:
-            # Use fallback images - cycle through them
-            fallback_img = FALLBACK_IMAGES[i % len(FALLBACK_IMAGES)]
-            image_map[key] = fallback_img
+            # Try Pexels/Pixabay API as fallback
+            print(f"    🔄 Trying image APIs for {key}...")
+            football_img = await get_football_image()
+            if football_img:
+                image_map[key] = football_img
+            else:
+                fallback_img = FALLBACK_IMAGES[i % len(FALLBACK_IMAGES)]
+                image_map[key] = fallback_img
 
     # 4. Update HTML
     print("\n🌐 Updating website...")
@@ -883,7 +985,7 @@ async def run():
             image_url = image_map.get(image_key, FALLBACK_IMAGES[0])
             
             # Generate simple content for the post
-            headline = item.get("headline", "Football News").replace("**", "")
+            headline = format_headline_title(item.get("headline", "Football News").replace("**", ""))
             category = item.get("category", "Premier League")
             content = f"""
             <p>{headline}</p>
