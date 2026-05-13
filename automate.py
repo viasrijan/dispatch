@@ -21,7 +21,7 @@ ssl_context.check_hostname = False
 ssl_context.verify_mode = ssl.CERT_NONE
 
 # Settings
-GENERATE_POST_PAGES = True  # Enable temporarily to fix broken links
+GENERATE_POST_PAGES = False  # Disabled - posts maintained but not auto-generated
 
 # Image API Keys
 PEXELS_API_KEY = "uojC04iqYEDXYiuAzMNEOW4KFKzZz514yGjfa6cGPpc98d9jkFfOCrM9"
@@ -39,6 +39,52 @@ FOOTBALL_QUERIES = [
     "football crowd",
     "football goal",
 ]
+
+# Tag System (24 tags across 4 tiers)
+TAG_CONTINENTS = ["Europe", "South America", "North America", "Asia", "Africa", "Oceania"]
+TAG_LEAGUES = ["Premier League", "La Liga", "Serie A", "Bundesliga", "Ligue 1"]
+TAG_COMPETITIONS = ["Champions League", "Europa League", "FA Cup", "World Cup", "European Championship", "Copa America"]
+TAG_CONTENT_TYPES = ["Transfers", "Rumors", "Interviews", "Analysis", "Opinion", "Match Reports", "Stats"]
+
+TAG_MAP = {
+    # League -> Continent mapping
+    "Premier League": ["Europe"],
+    "La Liga": ["Europe"],
+    "Serie A": ["Europe"],
+    "Bundesliga": ["Europe"],
+    "Ligue 1": ["Europe"],
+    # Competition -> Continent mapping
+    "Champions League": ["Europe"],
+    "Europa League": ["Europe"],
+    "FA Cup": ["Europe"],
+    "World Cup": ["Europe", "South America", "North America", "Asia", "Africa", "Oceania"],
+    "European Championship": ["Europe"],
+    "Copa America": ["South America"],
+}
+
+def get_tags_for_category(category, content_type="Match Reports"):
+    """Get all applicable tags for a post based on category"""
+    tags = []
+    
+    # Add content type tag
+    if content_type in TAG_CONTENT_TYPES:
+        tags.append(content_type)
+    
+    # Add league tags and their parent continents
+    if category in TAG_LEAGUES:
+        tags.append(category)
+        if category in TAG_MAP:
+            tags.extend(TAG_MAP[category])
+    # Add competition tags and their parent continents
+    elif category in TAG_COMPETITIONS:
+        tags.append(category)
+        if category in TAG_MAP:
+            tags.extend(TAG_MAP[category])
+    # Add direct continent tags
+    elif category in TAG_CONTINENTS:
+        tags.append(category)
+    
+    return list(set(tags))  # Remove duplicates
 
 
 async def search_pexels_images(query, per_page=5):
@@ -357,7 +403,7 @@ async def generate_slider_content(api_key, rss_articles):
 KICKOFF STYLE:
 - Short, punchy headlines (max 12 words) - dramatic, urgent, like breaking news
 - Bold, attention-grabbing but accurate
-- Categories: Premier League, La Liga, Transfers, Champions League, Serie A, Bundesliga
+- Categories: Premier League, La Liga, Serie A, Bundesliga, Ligue 1, Champions League, Europa League, Transfers
 - Tags: LIVE, BREAKING, EXCLUSIVE, CONFIRMED
 - Add importance score (1-5, 5=most breaking)
 
@@ -366,6 +412,7 @@ YOUR JOB:
 - Keep the core facts accurate (same players, teams, events)
 - Add drama/urgency while staying truthful
 - Generate a unique image_prompt for each story
+- Detect content_type: Transfers, Rumors, Match Reports, Interviews, Analysis, Opinion
 
 REAL ARTICLES FROM TRUSTED SOURCES:
 {articles_text}
@@ -374,12 +421,13 @@ Return ONLY valid JSON array with keys:
 - original_headline: the original RSS headline
 - headline: KICKOFF-style transformed headline (max 12 words)
 - category: Premier League, La Liga, Transfers, Champions League, etc.
+- content_type: Transfers, Rumors, Match Reports, Interviews, Analysis, or Opinion
 - category_tag: LIVE, BREAKING, EXCLUSIVE, or CONFIRMED
 - importance: INTEGER 1-5 (5=most breaking/important)
 - image_prompt: Unique visual description for AI image generation
 - source: the original source (BBC, Sky, Guardian, etc.)
 
-Format: [{{"original_headline": "...", "headline": "...", "category": "...", "category_tag": "...", "importance": 5, "image_prompt": "...", "source": "..."}}, ...]"""
+Format: [{{"original_headline": "...", "headline": "...", "category": "...", "content_type": "...", "category_tag": "...", "importance": 5, "image_prompt": "...", "source": "..."}}, ...]"""
     
     try:
         text = await call_openai([{"role": "user", "content": prompt}], api_key,
@@ -393,10 +441,15 @@ Format: [{{"original_headline": "...", "headline": "...", "category": "...", "ca
         for i, item in enumerate(items):
             item.setdefault("headline", item.get("original_headline", f"Story {i+1}")[:60])
             item.setdefault("category", "Premier League")
+            item.setdefault("content_type", "Match Reports")
             item.setdefault("category_tag", "LIVE")
             item.setdefault("importance", 3)
             item.setdefault("image_prompt", "Cinematic football stadium at night with dramatic lighting")
             item.setdefault("source", "RSS")
+            # Add tags based on category and content_type
+            category = item.get("category", "Premier League")
+            content_type = item.get("content_type", "Match Reports")
+            item["tags"] = get_tags_for_category(category, content_type)
         
         print(f"    ✅ Transformed {len(items)} real articles into KICKOFF style")
         return items[:10]
@@ -728,10 +781,11 @@ FALLBACK_IMAGES = [
 
 
 def get_post_id(item, index):
-    """Generate unique post ID based on item key"""
-    date_str = datetime.now().strftime("%Y%m%d")
-    key = item.get("_key", f"post_{index}")
-    return f"{date_str}-{key}"
+    """Generate unique post ID in DDMMYYYY-HHMMSS format"""
+    now = datetime.now()
+    date_str = now.strftime("%d%m%Y")
+    time_str = now.strftime("%H%M%S")
+    return f"{date_str}-{time_str}"
 
 
 def format_headline_title(headline):

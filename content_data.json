@@ -1,110 +1,160 @@
 {
-  "generated_at": "2026-05-13T12:32:04.108288",
+  "generated_at": "2026-05-13T14:24:55.560112",
   "rss_headlines_used": 15,
   "sections": {
     "slider": [
       {
         "original_headline": "Immortality beckons - but Hearts must overcome Celtic & weight of history",
-        "headline": "HEARTS ON THE BRINK: Can they dethrone Celtic and claim title?",
-        "category": "Premier League",
-        "category_tag": "LIVE",
-        "importance": 4,
-        "image_prompt": "A dramatic image of a football match between Hearts and Celtic, with the words 'Championship on the Line' above it",
+        "headline": "Hearts' Historic Chance: Can They Overcome Celtic and Claim Title?",
+        "category": "Serie A (Scottish Premiership)",
+        "content_type": "Analysis",
+        "category_tag": "BREAKING",
+        "importance": 5,
+        "image_prompt": "Photo of Hearts players celebrating on the pitch, with Celtic fans looking on in dismay",
         "source": "BBC",
+        "tags": [
+          "Analysis"
+        ],
         "_key": "slider_0"
       },
       {
         "original_headline": "All you need to know about Premiership title race",
-        "headline": "TITLE RACE INTENSIFIES: Hearts and Celtic go head-to-head for champions",
-        "category": "Premier League",
-        "category_tag": "LIVE",
-        "importance": 4,
-        "image_prompt": "A dramatic image of a football stadium, with the words 'Championship on the Line' above it",
+        "headline": "Scottish Premiership Title Race: Hearts and Celtic Head into Final Act",
+        "category": "Serie A (Scottish Premiership)",
+        "content_type": "Analysis",
+        "category_tag": "BREAKING",
+        "importance": 5,
+        "image_prompt": "Photo of Hearts and Celtic players facing off on the pitch, with Scottish flags waving in the background",
         "source": "BBC",
+        "tags": [
+          "Analysis"
+        ],
         "_key": "slider_1"
       },
       {
         "original_headline": "Liverpool owners face dilemma - stick or twist with Slot?",
-        "headline": "FSG FACES SLOT SHOWDOWN: Owners must act on fan dissent",
+        "headline": "FSG Teeter on Brink: Arne Slot Future Hangs in Balance",
         "category": "Premier League",
+        "content_type": "Analysis",
         "category_tag": "LIVE",
-        "importance": 3,
-        "image_prompt": "A split screen of Liverpool's Arne Slot and FSG owners, with a football in the middle",
+        "importance": 4,
+        "image_prompt": "Photo of Liverpool owners at Anfield stadium, with uncertain faces",
         "source": "BBC",
+        "tags": [
+          "Premier League",
+          "Europe",
+          "Analysis"
+        ],
         "_key": "slider_2"
       },
       {
-        "original_headline": "Man Utd consider Valverde move - Wednesday's gossip",
-        "headline": "VALVERDE VENTURE: Man Utd eye Federico Valverde transfer",
+        "original_headline": "Will Boro-Saints play-off have deciding third act?",
+        "headline": "Play-Off Showdown Enters Final Act: Middlesbrough vs Southampton",
         "category": "Transfers",
+        "content_type": "Rumors",
         "category_tag": "LIVE",
         "importance": 3,
-        "image_prompt": "A dramatic image of a football stadium, with the words 'Valverde on the Move' above it",
+        "image_prompt": "Photo of Middlesbrough and Southampton players facing off on the pitch",
         "source": "BBC",
+        "tags": [
+          "Rumors"
+        ],
         "_key": "slider_3"
       }
     ],
     "featured": [
       {
-        "original_headline": "How Gerrard went from 'best night' to 'head like a box of frogs'",
-        "headline": "GERRARD'S FALL FROM FAVOUR: What happened after Liverpool's Champions League win?",
+        "original_headline": "Refs' chief Webb confirms grappling consultation after disallowed West Ham goal",
+        "headline": "West Ham Goal Dismissal Sparks Referee Review",
         "category": "Premier League",
+        "content_type": "Analysis",
         "category_tag": "FEATURED",
         "importance": 3,
-        "image_prompt": "A photo of Steven Gerrard, looking sad and introspective",
+        "image_prompt": "Photo of Howard Webb speaking at a press conference, with serious expression",
         "source": "BBC",
+        "tags": [
+          "Premier League",
+          "Europe",
+          "Analysis"
+        ],
         "_key": "featured_0"
       },
       {
-        "original_headline": "Will Boro-Saints play-off have deciding third act?",
-        "headline": "Play-Off SHOCKER: Middlesbrough vs Southampton still up for grabs",
-        "category": "Premier League",
+        "original_headline": "Ted Lasso actor Fernandez signs for US club",
+        "headline": "Ted Lasso Star Cristo Fernandez Lands US Club Deal",
+        "category": "Transfers",
+        "content_type": "Rumors",
         "category_tag": "FEATURED",
-        "importance": 2,
-        "image_prompt": "A dramatic image of a football match, with the words 'Decision Still to be Made' above it",
+        "importance": 3,
+        "image_prompt": "Photo of Cristo Fernandez signing with El Paso Locomotive, with Ted Lasso actor in the background",
         "source": "BBC",
+        "tags": [
+          "Rumors"
+        ],
         "_key": "featured_1"
       },
       {
-        "original_headline": "Refs' chief Webb confirms grappling consultation after disallowed West Ham goal",
-        "headline": "WEBB CALLS OUT WEST HAM: Referee chief defends Arsenal's win",
+        "original_headline": "Man Utd consider Valverde move - Wednesday's gossip",
+        "headline": "Valverde on Manchester United Radar: Another Big Transfer Bid?",
         "category": "Premier League",
+        "content_type": "Rumors",
         "category_tag": "FEATURED",
-        "importance": 2,
-        "image_prompt": "A photo of Howard Webb with a referee's badge, looking stern and serious",
+        "importance": 3,
+        "image_prompt": "Photo of Federico Valverde playing for Real Madrid, with Manchester United logo in the background",
         "source": "BBC",
+        "tags": [
+          "Premier League",
+          "Rumors",
+          "Europe"
+        ],
         "_key": "featured_2"
       }
     ],
     "stories": [
       {
-        "original_headline": "Beyond the Hollywood story - what are Wrexham really building?",
-        "headline": "WREXHAM'S REAL PLAN: Co-owners reveal more than just a football team",
+        "original_headline": "Tuchel submits 55-man provisional World Cup squad",
+        "headline": "Tuchel Reveals England Provisional Squad for the World Cup",
         "category": "Transfers",
+        "content_type": "Rumors",
         "category_tag": "NEWS",
-        "importance": 2,
-        "image_prompt": "A picture of Ryan Reynolds and Rob Mac, Wrexham co-owners, with a cityscape in the background",
+        "importance": 3,
+        "image_prompt": "Photo of Thomas Tuchel speaking at a press conference, with England players in the background",
         "source": "BBC",
+        "tags": [
+          "Rumors"
+        ],
         "_key": "story_0"
       },
       {
-        "original_headline": "Tuchel submits 55-man provisional World Cup squad",
-        "headline": "TOUCHEL'S WORLD CUP TEAM: Luke Shaw and Danny Welbeck on the cutlist",
-        "category": "Champions League",
+        "original_headline": "Beyond the Hollywood story - what are Wrexham really building?",
+        "headline": "Wrexham's Real Goal: Building More Than Just a Men's Team",
+        "category": "Premier League",
+        "content_type": "Opinion",
         "category_tag": "NEWS",
         "importance": 2,
-        "image_prompt": "A dramatic image of Thomas Tuchel with a World Cup ball, looking serious and focused",
+        "image_prompt": "Photo of Wrexham players and staff, with American co-owners Ryan Reynolds and Rob Mac",
         "source": "BBC",
+        "tags": [
+          "Opinion",
+          "Premier League",
+          "Europe"
+        ],
         "_key": "story_1"
       },
       {
-        "original_headline": "Ted Lasso actor Fernandez signs for US club",
-        "headline": "TED LASSO STAR MAKES MOVE: Fernandez signs with El Paso Locomotive",
-        "category": "Transfers",
+        "original_headline": "Carrick presence inspiring for Man Utd kids, says Fletcher",
+        "headline": "Carrick's Influence Sparks FA Youth Cup Hope at Man Utd",
+        "category": "Premier League",
+        "content_type": "Interviews",
         "category_tag": "NEWS",
-        "importance": 1,
-        "image_prompt": "A photo of Cristo Fernandez, the actor who plays Rodrigo, smiling and holding a football",
+        "importance": 2,
+        "image_prompt": "Photo of Michael Carrick speaking to Manchester United youth players, with serious expression",
         "source": "BBC",
+        "tags": [
+          "Interviews",
+          "Europe",
+          "Premier League"
+        ],
         "_key": "story_2"
       }
     ]

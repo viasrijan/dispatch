@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KICKOFF | Tag Page</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-primary: #000000;
+            --bg-secondary: #000000;
+            --bg-tertiary: #000000;
+            --surface: #000000;
+            --border: #1a1a1a;
+            --border-light: #2a2a2a;
+            --accent: #0e8a46;
+            --accent-hover: #0b6b36;
+            --text-primary: #ffffff;
+            --text-secondary: #cccccc;
+            --text-muted: #666666;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background-color: #000000;
+            color: var(--text-primary);
+            line-height: 1.6;
+        }
+
+        a { text-decoration: none; color: inherit; cursor: pointer; }
+
+        .container { max-width: 1200px; margin: 0 auto; padding: 0 24px; }
+
+        /* Navigation */
+        .top-bar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 16px 24px;
+            border-bottom: 1px solid var(--border);
+            background: #000000;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .top-bar-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            font-size: 1.8rem;
+            font-weight: 800;
+            letter-spacing: -1px;
+            color: #0e8a46;
+        }
+
+        .nav-menu {
+            display: flex;
+            gap: 40px;
+            list-style: none;
+        }
+
+        .nav-menu a {
+            color: #ffffff;
+            font-size: 0.9rem;
+            font-weight: 500;
+            transition: color 0.3s ease;
+        }
+
+        .nav-menu a:hover { color: #0e8a46; }
+
+        /* Page Header */
+        .page-header {
+            padding: 40px 24px;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .back-button {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            color: #ffffff;
+            font-size: 0.9rem;
+            font-weight: 500;
+            margin-bottom: 16px;
+        }
+
+        .back-button:hover { color: #0e8a46; }
+
+        .page-title {
+            font-size: 2rem;
+            font-weight: 800;
+            letter-spacing: -1px;
+        }
+
+        /* Main Content */
+        .tag-page-content {
+            display: grid;
+            grid-template-columns: 65% 35%;
+            gap: 32px;
+            padding: 40px 24px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        /* Posts Grid */
+        .posts-section h2 {
+            font-size: 1.5rem;
+            font-weight: 700;
+            margin-bottom: 24px;
+        }
+
+        .posts-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 20px;
+        }
+
+        .post-card {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            overflow: hidden;
+            transition: border-color 0.3s ease;
+        }
+
+        .post-card:hover { border-color: var(--accent); }
+
+        .post-card-image {
+            width: 100%;
+            height: 160px;
+            object-fit: cover;
+        }
+
+        .post-card-content { padding: 16px; }
+
+        .post-card-meta {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            margin-bottom: 8px;
+        }
+
+        .post-card-meta span { color: var(--accent); }
+
+        .post-card-title {
+            font-size: 1rem;
+            font-weight: 600;
+            line-height: 1.4;
+        }
+
+        .post-card-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-top: 12px;
+        }
+
+        .tag {
+            font-size: 0.7rem;
+            padding: 4px 8px;
+            background: var(--bg-tertiary);
+            border: 1px solid var(--border);
+            border-radius: 4px;
+            color: var(--text-secondary);
+        }
+
+        .tag:hover {
+            border-color: var(--accent);
+            color: var(--accent);
+        }
+
+        /* League Table */
+        .league-section {
+            position: sticky;
+            top: 100px;
+        }
+
+        .league-selector {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 16px;
+            margin-bottom: 20px;
+        }
+
+        .league-arrow {
+            color: var(--accent);
+            font-size: 1.2rem;
+            cursor: pointer;
+            transition: color 0.3s ease;
+        }
+
+        .league-arrow:hover { color: var(--accent-hover); }
+
+        .league-name {
+            font-size: 1.2rem;
+            font-weight: 700;
+            min-width: 100px;
+            text-align: center;
+        }
+
+        .league-table {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        .league-table-header {
+            display: grid;
+            grid-template-columns: 40px 1fr 50px 40px;
+            padding: 12px 16px;
+            background: var(--bg-tertiary);
+            font-size: 0.7rem;
+            font-weight: 600;
+            color: var(--text-muted);
+            text-transform: uppercase;
+        }
+
+        .league-table-row {
+            display: grid;
+            grid-template-columns: 40px 1fr 50px 40px;
+            padding: 12px 16px;
+            border-bottom: 1px solid var(--border);
+            font-size: 0.85rem;
+            align-items: center;
+        }
+
+        .league-table-row:last-child { border-bottom: none; }
+
+        .league-table-row:hover { background: var(--bg-tertiary); }
+
+        .league-position { color: var(--text-muted); font-weight: 600; }
+        .league-position.top-4 { color: var(--accent); }
+
+        .league-team { font-weight: 500; }
+
+        .league-points { font-weight: 700; color: var(--accent); }
+
+        .league-gd { color: var(--text-secondary); }
+
+        /* Footer */
+        .site-footer {
+            border-top: 1px solid var(--border);
+            padding: 60px 24px;
+            margin-top: 60px;
+        }
+
+        .site-footer-content {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .footer-grid {
+            display: grid;
+            grid-template-columns: 2fr 1fr 1fr 1fr;
+            gap: 40px;
+        }
+
+        .footer-brand .logo {
+            font-size: 1.5rem;
+            margin-bottom: 16px;
+        }
+
+        .footer-brand p {
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+        }
+
+        .footer-column h4 {
+            font-size: 0.9rem;
+            font-weight: 600;
+            margin-bottom: 16px;
+        }
+
+        .footer-column ul { list-style: none; }
+
+        .footer-column li { margin-bottom: 8px; }
+
+        .footer-column a {
+            color: var(--text-secondary);
+            font-size: 0.85rem;
+        }
+
+        .footer-column a:hover { color: var(--accent); }
+
+        @media (max-width: 768px) {
+            .tag-page-content {
+                grid-template-columns: 1fr;
+            }
+            .posts-grid { grid-template-columns: 1fr; }
+            .league-section { position: static; }
+            .nav-menu { display: none; }
+            .footer-grid { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+    <header class="top-bar">
+        <div class="top-bar-content">
+            <a href="index.html" class="logo">KICKOFF</a>
+            <nav>
+                <ul class="nav-menu">
+                    <li><a href="matches.html">Matches</a></li>
+                    <li><a href="transfers.html">Transfers</a></li>
+                    <li><a href="leagues.html">Leagues</a></li>
+                    <li><a href="rumors.html">Rumors</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <div class="page-header">
+        <div class="container">
+            <a href="index.html" class="back-button">
+                <i class="fas fa-arrow-left"></i> Back to Home
+            </a>
+            <h1 class="page-title" id="pageTitle">Tag Name</h1>
+        </div>
+    </div>
+
+    <main class="tag-page-content">
+        <section class="posts-section">
+            <h2>Latest Posts</h2>
+            <div class="posts-grid" id="postsGrid">
+                <!-- Posts will be dynamically populated -->
+            </div>
+        </section>
+
+        <aside class="league-section">
+            <div class="league-selector">
+                <span class="league-arrow" onclick="changeLeague(-1)">
+                    <i class="fas fa-chevron-left"></i>
+                </span>
+                <span class="league-name" id="leagueName">EPL</span>
+                <span class="league-arrow" onclick="changeLeague(1)">
+                    <i class="fas fa-chevron-right"></i>
+                </span>
+            </div>
+            <div class="league-table">
+                <div class="league-table-header">
+                    <span>#</span>
+                    <span>Team</span>
+                    <span>GD</span>
+                    <span>Pts</span>
+                </div>
+                <div id="leagueTableBody">
+                    <!-- League data will be populated by JavaScript -->
+                </div>
+            </div>
+        </aside>
+    </main>
+
+    <footer class="site-footer">
+        <div class="site-footer-content">
+            <div class="footer-grid">
+                <div class="footer-brand">
+                    <div class="logo">KICKOFF</div>
+                    <p>Your daily dose of football news, transfers, and match updates.</p>
+                </div>
+                <div class="footer-column">
+                    <h4>Sections</h4>
+                    <ul>
+                        <li><a href="matches.html">Matches</a></li>
+                        <li><a href="transfers.html">Transfers</a></li>
+                        <li><a href="leagues.html">Leagues</a></li>
+                        <li><a href="rumors.html">Rumors</a></li>
+                    </ul>
+                </div>
+                <div class="footer-column">
+                    <h4>Leagues</h4>
+                    <ul>
+                        <li><a href="premier-league.html">Premier League</a></li>
+                        <li><a href="la-liga.html">La Liga</a></li>
+                        <li><a href="serie-a.html">Serie A</a></li>
+                        <li><a href="bundesliga.html">Bundesliga</a></li>
+                    </ul>
+                </div>
+                <div class="footer-column">
+                    <h4>Follow Us</h4>
+                    <ul>
+                        <li><a href="#">Instagram</a></li>
+                        <li><a href="#">YouTube</a></li>
+                        <li><a href="#">Twitter</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // League data
+        const leagues = [
+            { id: 'PL', name: 'EPL', apiId: 39 },
+            { id: 'PD', name: 'La Liga', apiId: 140 },
+            { id: 'SA', name: 'Serie A', apiId: 135 },
+            { id: 'BL1', name: 'Bundesliga', apiId: 78 },
+            { id: 'FL', name: 'Ligue 1', apiId: 61 }
+        ];
+
+        let currentLeagueIndex = 0;
+        const API_KEY = 'aHTLQzXCujiYS7_3lklegad9atK2HsIiNZxX9Ugj581dn7VWk0y5OFoeUfT5qqXd9KQjbpmGwBT3BlbkFJYBVtfsu74rBsWqaep4utAQ5hQD6mOlgjVV9lbqkvLECHcQFZsvzhvHr1q5J8cxMPKgkTZRmGIA';
+
+        function changeLeague(direction) {
+            currentLeagueIndex = (currentLeagueIndex + direction + leagues.length) % leagues.length;
+            document.getElementById('leagueName').textContent = leagues[currentLeagueIndex].name;
+            fetchLeagueTable();
+        }
+
+        async function fetchLeagueTable() {
+            const league = leagues[currentLeagueIndex];
+            const url = `https://api.football-data.org/v4/competitions/${league.apiId}/standings`;
+
+            try {
+                const response = await fetch(url, {
+                    headers: { 'X-Auth-Token': API_KEY }
+                });
+
+                if (!response.ok) throw new Error('Failed to fetch');
+
+                const data = await response.json();
+                const standings = data.standings[0].table.slice(0, 10);
+
+                const tableBody = document.getElementById('leagueTableBody');
+                tableBody.innerHTML = standings.map(team => `
+                    <div class="league-table-row">
+                        <span class="league-position ${team.position <= 4 ? 'top-4' : ''}">${team.position}</span>
+                        <span class="league-team">${team.team.shortName}</span>
+                        <span class="league-gd">${team.goalDifference > 0 ? '+' : ''}${team.goalDifference}</span>
+                        <span class="league-points">${team.points}</span>
+                    </div>
+                `).join('');
+            } catch (error) {
+                console.error('Error fetching league table:', error);
+                document.getElementById('leagueTableBody').innerHTML = '<div class="league-table-row"><span colspan="4" style="text-align:center;color:var(--text-muted)">Unable to load standings</span></div>';
+            }
+        }
+
+        // Initialize
+        document.getElementById('leagueName').textContent = leagues[currentLeagueIndex].name;
+        fetchLeagueTable();
+    </script>
+</body>
+</html>
