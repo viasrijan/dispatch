@@ -767,16 +767,27 @@ FALLBACK_CONTENT = [
 ]
 
 FALLBACK_IMAGES = [
+    # Premier League / Stadium images
     "https://images.unsplash.com/photo-1511882150382-421056c89033?w=1024&h=768&fit=crop",
     "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=1024&h=768&fit=crop",
+    # Football action
     "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=1024&h=768&fit=crop",
     "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=1024&h=768&fit=crop",
+    # Players / Goals
     "https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?w=1024&h=768&fit=crop",
     "https://images.unsplash.com/photo-1560272564-c8304700f87c?w=1024&h=768&fit=crop",
+    # Stadium / Crowd
     "https://images.unsplash.com/photo-1507501336603-6e31db2be093?w=1024&h=768&fit=crop",
     "https://images.unsplash.com/photo-1575361204480-aadea25e6e68?w=1024&h=768&fit=crop",
+    # Celebration
     "https://images.unsplash.com/photo-1606925797300-0b35e9d1794e?w=1024&h=768&fit=crop",
     "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?w=1024&h=768&fit=crop",
+    # Additional diverse images
+    "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=1024&h=768&fit=crop",
+    "https://images.unsplash.com/photo-1522778119026-d647f0565c6a?w=1024&h=768&fit=crop",
+    "https://images.unsplash.com/photo-1459865264687-595d652de67e?w=1024&h=768&fit=crop",
+    "https://images.unsplash.com/photo-1530046339160-ce3e530c7d2f?w=1024&h=768&fit=crop",
+    "https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=1024&h=768&fit=crop",
 ]
 
 
