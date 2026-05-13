@@ -636,8 +636,7 @@ def build_slider_html(items, images):
         cat = item.get("category", "Premier League")
         tag = item.get("category_tag", "LIVE")
         headline = item.get("headline", "Football News").replace("**", "")
-        post_id = f"post_{i}"
-        html += f"""            <a href="post.html?id={post_id}" class="slide">
+        html += f"""            <a href="posts/post_{i}.html" class="slide">
                 <div class="slide-image">
                     <img src="{img_src}" alt="{cat}">
                 </div>
@@ -656,8 +655,7 @@ def build_featured_html(items, images):
         img_src = images.get(item.get("_key", ""), "")
         cat = item.get("category", "Premier League")
         headline = item.get("headline", "Football News").replace("**", "")
-        post_id = f"post_{i + 4}"  # Offset to continue from slider
-        html += f"""            <a href="post.html?id={post_id}" class="featured-card">
+        html += f"""            <a href="posts/post_{i + 4}.html" class="featured-card">
                 <div class="featured-image">
                     <img src="{img_src}" style="width:100%;height:100%;object-fit:cover;">
                 </div>
@@ -676,8 +674,7 @@ def build_stories_html(items, images):
         cat = item.get("category", "Premier League")
         headline = item.get("headline", "Football News").replace("**", "")
         time_str = times[i] if i < len(times) else f"{i+1} hour ago"
-        post_id = f"post_{i + 7}"  # Offset for stories
-        html += f"""            <a href="post.html?id={post_id}" class="pub-card">
+        html += f"""            <a href="posts/post_{i + 7}.html" class="pub-card">
                 <div class="pub-image"><img src="{img_src}" style="width:100%;height:100%;object-fit:cover;"></div>
                 <div class="pub-meta" data-cat="{cat}">{cat} · {time_str}</div>
                 <h3 class="pub-title">{headline}</h3>
