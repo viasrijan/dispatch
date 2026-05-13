@@ -901,8 +901,6 @@ async def run():
         print(f"   ✅ Generated {len(all_items)} post pages")
     else:
         print("   ⏭️ Skipping post page generation")
-    
-    print(f"   ✅ Generated {len(all_items)} post pages")
 
     # 5. Save content data
     content_data = {
