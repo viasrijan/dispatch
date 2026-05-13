@@ -845,6 +845,16 @@ async def run():
     with open(PROJECT_DIR / "content_data.json", "w") as f:
         json.dump(content_data, f, indent=2)
 
+    print("\n📤 Pushing to GitHub...")
+    import subprocess
+    try:
+        subprocess.run(["git", "add", "-A"], cwd=PROJECT_DIR, check=True)
+        subprocess.run(["git", "commit", "-m", f"Auto-update: {datetime.now().strftime('%Y-%m-%d %H:%M')}"], cwd=PROJECT_DIR, check=True)
+        subprocess.run(["git", "push"], cwd=PROJECT_DIR, check=True)
+        print("   ✅ Pushed to GitHub")
+    except Exception as e:
+        print(f"   ⚠ Git push failed: {e}")
+
     print("\n" + "=" * 60)
     print("✅ Automation complete!")
     print("=" * 60)
