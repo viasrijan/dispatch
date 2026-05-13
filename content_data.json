@@ -1,18 +1,19 @@
 {
-  "generated_at": "2026-05-13T19:54:18.682022",
+  "generated_at": "2026-05-13T22:24:41.178180",
   "rss_headlines_used": 15,
   "sections": {
     "slider": [
       {
         "original_headline": "Man Utd chiefs to recommend Carrick for permanent job",
-        "headline": "**Carrick to Take Reins at Man Utd** Senior executives back Michael Carrick for top spot",
+        "headline": "Carrick in Permanent Job as Man Utd Chiefs Make Recommendation",
         "category": "Premier League",
-        "content_type": "Transfer",
+        "content_type": "Transfers",
         "category_tag": "LIVE",
         "importance": 4,
-        "image_prompt": "Manchester United manager's office with Michael Carrick sitting at desk",
+        "image_prompt": "Manchester United stadium with Michael Carrick in suit and tie standing in front of a red background",
         "source": "BBC",
         "tags": [
+          "Transfers",
           "Premier League",
           "Europe"
         ],
@@ -20,102 +21,126 @@
       },
       {
         "original_headline": "Could Southampton be kicked out of play-offs over Spygate?",
-        "headline": "**Spygate Saga Looms Over Southampton Play-Off Fate** Middlesbrough could steal spot",
-        "category": "Championship",
+        "headline": "Spygate Scandal Threatens Southampton Play-Off Spot",
+        "category": "Premier League",
         "content_type": "Rumors",
         "category_tag": "LIVE",
         "importance": 4,
-        "image_prompt": "Southampton players looking worried during a match",
+        "image_prompt": "Southampton players looking worried in a locker room with a red background and spy equipment on the wall",
         "source": "BBC",
         "tags": [
-          "Rumors"
+          "Rumors",
+          "Europe",
+          "Premier League"
         ],
         "_key": "slider_1"
       },
       {
-        "original_headline": "Immortality beckons - but Hearts must overcome Celtic & weight of history",
-        "headline": "**Hearts on Brink of Immortality** Can they conquer Celtic and history?",
-        "category": "Scottish Premiership",
-        "content_type": "Analysis",
+        "original_headline": "Liverpool owners face dilemma - stick or twist with Slot?",
+        "headline": "FSG Faces Dilemma Over Arne Slot's Future Amid Fan Backlash",
+        "category": "Premier League",
+        "content_type": "Rumors",
         "category_tag": "LIVE",
         "importance": 4,
-        "image_prompt": "Heart of Midlothian players looking determined during a match",
+        "image_prompt": "Liverpool fans holding signs with protest messages and a red background",
         "source": "BBC",
         "tags": [
-          "Analysis"
+          "Rumors",
+          "Europe",
+          "Premier League"
         ],
         "_key": "slider_2"
       },
       {
-        "original_headline": "'I sold my late dad's diamond ring to get to Villa's Europa League final'",
-        "headline": "**Barnes' Emotional Europa League Final Bid** Sold his late dad's engagement ring for ticket",
-        "category": "",
-        "content_type": "Interviews",
+        "original_headline": "World Cup transport prices cut after fan backlash",
+        "headline": "Fans Push for Price Cuts at World Cup Transport Hub After Backlash",
+        "category": "Transfers",
+        "content_type": "Rumors",
         "category_tag": "LIVE",
         "importance": 4,
-        "image_prompt": "Scott Barnes looking at an old diamond ring with tears in his eyes",
+        "image_prompt": "MetLife Stadium with buses and trains in the foreground and a worried fan in the background",
         "source": "BBC",
         "tags": [
-          "Interviews"
+          "Rumors"
         ],
         "_key": "slider_3"
       }
     ],
     "featured": [
       {
-        "original_headline": "Liverpool owners face dilemma - stick or twist with Slot?",
-        "headline": "**FSG Dilemma: To Stick or Twist on Arne Slot?** Owners weigh fan dissent",
-        "category": "Premier League",
-        "content_type": "Rumors",
+        "original_headline": "'I sold my late dad's diamond ring to get to Villa's Europa League final'",
+        "headline": "Fan's Emotional Sacrifice: 'Diamond Ring Sold for Europa Final Ticket'",
+        "category": "Serie A",
+        "content_type": "Interviews",
         "category_tag": "FEATURED",
-        "importance": 3,
-        "image_prompt": "Liverpool manager Arne Slot with Liverpool players looking concerned",
+        "importance": 4,
+        "image_prompt": "Scott Barnes holding a diamond ring and a Villa jersey with a red background",
         "source": "BBC",
         "tags": [
-          "Premier League",
-          "Rumors",
-          "Europe"
+          "Serie A",
+          "Europe",
+          "Interviews"
         ],
         "_key": "featured_0"
       },
       {
-        "original_headline": "World Cup transport prices cut after fan backlash",
-        "headline": "**Fans Protest Transport Prices at World Cup** MetLife Stadium prices slashed",
-        "category": "",
-        "content_type": "Transfers",
+        "original_headline": "Ex-Spurs chief Levy never imagined relegation fight",
+        "headline": "Tottenham's Relegation Fight Shocks Levy in Shocking Admission",
+        "category": "Premier League",
+        "content_type": "Analysis",
         "category_tag": "FEATURED",
         "importance": 3,
-        "image_prompt": "MetLife Stadium with fans protesting outside",
+        "image_prompt": "Daniel Levy sitting at a desk with a shocked expression and Tottenham stadium in the background",
         "source": "BBC",
         "tags": [
-          "Transfers"
+          "Europe",
+          "Premier League",
+          "Analysis"
         ],
         "_key": "featured_1"
       },
       {
-        "original_headline": "Beyond the Hollywood story - what are Wrexham really building?",
-        "headline": "**Wrexham: More Than Just a Hollywood Story** Co-owners' true intentions",
-        "category": "",
-        "content_type": "Opinion",
+        "original_headline": "Immortality beckons - but Hearts must overcome Celtic & weight of history",
+        "headline": "Hearts on Brink of Historic Glory as They Face Off Against Celtic",
+        "category": "Serie A",
+        "content_type": "Match Reports",
         "category_tag": "FEATURED",
         "importance": 3,
-        "image_prompt": "Ryan Reynolds and Rob Mac, Wrexham co-owners looking at team's progress",
+        "image_prompt": "Celtic and Hearts players facing off in a intense match with a Scottish background",
         "source": "BBC",
         "tags": [
-          "Opinion"
+          "Serie A",
+          "Europe",
+          "Match Reports"
         ],
         "_key": "featured_2"
+      },
+      {
+        "original_headline": "Beyond the Hollywood story - what are Wrexham really building?",
+        "headline": "Behind the Hollywood Glamour, Wrexham's True Legacy Takes Shape",
+        "category": "Serie A",
+        "content_type": "Analysis",
+        "category_tag": "FEATURED",
+        "importance": 3,
+        "image_prompt": "Wrexham players and staff in a training session with a Hollywood backdrop",
+        "source": "BBC",
+        "tags": [
+          "Serie A",
+          "Europe",
+          "Analysis"
+        ],
+        "_key": "featured_3"
       }
     ],
     "stories": [
       {
         "original_headline": "BBC to stream FA Youth Cup final between Man City & Man Utd",
-        "headline": "**Youth Cup Showdown: BBC Streams Manchester Derby** Exclusive coverage",
-        "category": "",
+        "headline": "Youthful Dreamers Face Off as BBC Streams FA Youth Cup Final",
+        "category": "Transfers",
         "content_type": "Match Reports",
         "category_tag": "NEWS",
         "importance": 3,
-        "image_prompt": "Manchester City and Manchester United players warming up before the FA Youth Cup final",
+        "image_prompt": "Manchester City and Manchester United players facing off in a youth match with a red background",
         "source": "BBC",
         "tags": [
           "Match Reports"
@@ -123,32 +148,20 @@
         "_key": "story_0"
       },
       {
-        "original_headline": "Ted Lasso actor Fernandez signs for US club",
-        "headline": "**Fernandez Lands US Club Deal** El Paso Locomotive secures Ted Lasso star",
-        "category": "",
-        "content_type": "Transfers",
+        "original_headline": "O'Neill stays but Blackburn stint will have 'turned heads'",
+        "headline": "Michael O'Neill's Northern Ireland Stint Raises Questions About Future",
+        "category": "Serie A",
+        "content_type": "Analysis",
         "category_tag": "NEWS",
         "importance": 3,
-        "image_prompt": "Cristo Fernandez with his new team's players and coaches",
+        "image_prompt": "Stephen Craigan speaking in front of a black background with a Northern Ireland flag",
         "source": "BBC",
         "tags": [
-          "Transfers"
+          "Serie A",
+          "Europe",
+          "Analysis"
         ],
         "_key": "story_1"
-      },
-      {
-        "original_headline": "Refs' chief Webb confirms grappling consultation after disallowed West Ham goal",
-        "headline": "**Webb Backs Referee Decision** No tackling after Arsenal-West Ham disallowed goal",
-        "category": "",
-        "content_type": "Rumors",
-        "category_tag": "NEWS",
-        "importance": 3,
-        "image_prompt": "Howard Webb, referee chief looking at the screen with a red flag",
-        "source": "BBC",
-        "tags": [
-          "Rumors"
-        ],
-        "_key": "story_2"
       }
     ]
   }

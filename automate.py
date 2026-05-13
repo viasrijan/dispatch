@@ -21,7 +21,7 @@ ssl_context.check_hostname = False
 ssl_context.verify_mode = ssl.CERT_NONE
 
 # Settings
-GENERATE_POST_PAGES = True  # Enable for URL format fix
+GENERATE_POST_PAGES = False  # Disabled per user request
 
 # Image API Keys
 PEXELS_API_KEY = "uojC04iqYEDXYiuAzMNEOW4KFKzZz514yGjfa6cGPpc98d9jkFfOCrM9"
@@ -965,8 +965,8 @@ async def run():
     
     # Assign to sections based on importance
     slider_items = all_stories[:4]
-    featured_items = all_stories[4:7]
-    stories_items = all_stories[7:]
+    featured_items = all_stories[4:8]
+    stories_items = all_stories[8:]
     
     # Add section-specific tags
     for item in slider_items:
