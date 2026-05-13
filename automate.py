@@ -635,7 +635,7 @@ def build_slider_html(items, images):
         img_src = images.get(item.get("_key", ""), "")
         cat = item.get("category", "Premier League")
         tag = item.get("category_tag", "LIVE")
-        headline = item.get("headline", "Football News")
+        headline = item.get("headline", "Football News").replace("**", "")
         html += f"""            <div class="slide">
                 <div class="slide-image">
                     <img src="{img_src}" alt="{cat}">
@@ -654,7 +654,7 @@ def build_featured_html(items, images):
     for item in items:
         img_src = images.get(item.get("_key", ""), "")
         cat = item.get("category", "Premier League")
-        headline = item.get("headline", "Football News")
+        headline = item.get("headline", "Football News").replace("**", "")
         html += f"""            <a href="#" class="featured-card">
                 <div class="featured-image">
                     <img src="{img_src}" style="width:100%;height:100%;object-fit:cover;">
@@ -672,7 +672,7 @@ def build_stories_html(items, images):
     for i, item in enumerate(items):
         img_src = images.get(item.get("_key", ""), "")
         cat = item.get("category", "Premier League")
-        headline = item.get("headline", "Football News")
+        headline = item.get("headline", "Football News").replace("**", "")
         time_str = times[i] if i < len(times) else f"{i+1} hour ago"
         html += f"""            <a href="#" class="pub-card">
                 <div class="pub-image"><img src="{img_src}" style="width:100%;height:100%;object-fit:cover;"></div>
