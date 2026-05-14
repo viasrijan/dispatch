@@ -276,39 +276,37 @@
 
         /* Footer */
         .site-footer {
-            border-top: 1px solid var(--border);
-            padding: 60px 24px 40px;
+            padding: 40px 24px 20px;
             background: #000000;
+            border-top: 1px solid var(--border);
             width: 100%;
         }
 
         .site-footer-content {
             max-width: 1200px;
             margin: 0 auto;
-            padding: 0;
         }
 
         .footer-grid {
             display: grid;
             grid-template-columns: 2fr 1fr 1fr 1fr;
-            gap: 48px;
-            margin-bottom: 40px;
-        }
-
-        .footer-brand .logo {
-            margin-bottom: 16px;
+            gap: 60px;
+            margin-bottom: 60px;
         }
 
         .footer-brand p {
-            color: var(--text-muted);
-            font-size: 0.9rem;
+            color: var(--text-secondary);
+            margin-top: 16px;
+            font-size: 0.95rem;
+            max-width: 300px;
         }
 
         .footer-column h4 {
-            color: var(--text-primary);
-            margin-bottom: 16px;
             font-size: 0.9rem;
-            text-transform: uppercase;
+            font-weight: 700;
+            margin-bottom: 20px;
+            text-transform: capitalize;
+            letter-spacing: 0.5px;
         }
 
         .footer-column ul {
@@ -316,18 +314,43 @@
         }
 
         .footer-column li {
-            margin-bottom: 8px;
+            margin-bottom: 12px;
         }
 
         .footer-column a {
-            color: var(--text-muted);
+            color: var(--text-secondary);
             font-size: 0.9rem;
-            transition: color 0.3s;
+            transition: color 0.3s ease;
         }
 
         .footer-column a:hover {
-            color: var(--accent);
+            color: var(--text-primary);
         }
+
+        .footer-bottom {
+            padding-top: 30px;
+            border-top: 1px solid var(--border);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            color: var(--text-muted);
+            font-size: 0.85rem;
+        }
+
+        .footer-social {
+            display: flex;
+            gap: 20px;
+        }
+
+        .footer-social a {
+            color: var(--text-muted);
+            font-size: 1.2rem;
+            transition: color 0.3s ease;
+        }
+
+        .footer-social a:hover.fa-instagram { color: #E4405F; }
+        .footer-social a:hover.fa-youtube { color: #FF0000; }
+        .footer-social a:hover.fa-x-twitter { color: #000000; }
 
         /* Responsive */
         @media (max-width: 768px) {
@@ -343,6 +366,11 @@
             }
             .nav-menu {
                 display: none;
+            }
+        }
+        @media (max-width: 1000px) {
+            .footer-grid {
+                grid-template-columns: repeat(2, 1fr);
             }
         }
     </style>
@@ -409,53 +437,46 @@
 
     <footer class="site-footer">
         <div class="site-footer-content">
-            <div class="footer-grid">
-                <div class="footer-brand">
-                    <div class="logo">KICKOFF</div>
-                    <p>Your daily dose of football news, transfers, and match updates.</p>
-                </div>
-                <div class="footer-column">
-                    <h4>Sections</h4>
-                    <ul>
-                        <li><a href="#">Matches</a></li>
-                        <li><a href="#">Transfers</a></li>
-                        <li><a href="#">Leagues</a></li>
-                        <li><a href="#">Rumors</a></li>
-                    </ul>
-                </div>
-                <div class="footer-column">
-                    <h4>Leagues</h4>
-                    <ul>
-                        <li><a href="#">Premier League</a></li>
-                        <li><a href="#">La Liga</a></li>
-                        <li><a href="#">Serie A</a></li>
-                        <li><a href="#">Champions League</a></li>
-                    </ul>
-                </div>
-                <div class="footer-column">
-                    <h4>Connect</h4>
-                    <ul>
-                        <li><a href="#">Contact Us</a></li>
-                        <li><a href="#">Advertise</a></li>
-                        <li><a href="#">Privacy Policy</a></li>
-                        <li><a href="#">Terms of Use</a></li>
-                    </ul>
-                </div>
+        <div class="footer-grid">
+            <div class="footer-brand">
+                <div class="logo">KICKOFF</div>
+                <p>Your daily dose of football news, transfers, and match updates.</p>
+            </div>
+            <div class="footer-column">
+                <h4>Sections</h4>
+                <ul>
+                    <li><a href="#">Matches</a></li>
+                    <li><a href="#">Transfers</a></li>
+                    <li><a href="#">Rumors</a></li>
+                </ul>
+            </div>
+            <div class="footer-column">
+                <h4>Company</h4>
+                <ul>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Contact</a></li>
+                    <li><a href="#">Careers</a></li>
+                </ul>
+            </div>
+            <div class="footer-column">
+                <h4>Legal</h4>
+                <ul>
+                    <li><a href="#">Privacy</a></li>
+                    <li><a href="#">Terms</a></li>
+                    <li><a href="#">Cookies</a></li>
+                </ul>
             </div>
         </div>
+        <div class="footer-bottom">
+            <p>© 2026 KICKOFF Football News. All rights reserved.</p>
+            <div class="footer-social">
+                <a href="#"><i class="fab fa-instagram"></i></a>
+                <a href="#"><i class="fab fa-youtube"></i></a>
+                <a href="#"><i class="fab fa-x-twitter"></i></a>
+            </div>
+        </div>
+        </div>
     </footer>
-
-    <script>
-        // Simple share functionality
-        document.querySelectorAll('.share-btn').forEach(btn => {
-            btn.addEventListener('click', function(e) {
-                e.preventDefault();
-                alert('Share functionality would go here');
-            });
-        });
-    </script>
-</body>
-</html>
 
     <script>
         // Simple share functionality
