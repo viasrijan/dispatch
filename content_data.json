@@ -1,48 +1,46 @@
 {
-  "generated_at": "2026-05-14T08:43:50.394464",
+  "generated_at": "2026-05-14T09:13:54.609611",
   "rss_headlines_used": 15,
   "sections": {
     "slider": [
       {
         "original_headline": "Hearts' McInnes rages at 'disgusting' Celtic penalty as title race goes to final day",
-        "headline": "Celtic's late penalty sparks outrage: Hearts coach McInnes",
+        "headline": "**Celtic's Title Win in Chaos! McInnes Rages Over Disgusting Penalty**",
         "category": "Premier League",
         "content_type": "Match Reports",
         "category_tag": "BREAKING",
         "importance": 5,
-        "image_prompt": "Angry Hearts coach Derek McInnes stands on the sidelines, fist shaking with rage",
+        "image_prompt": "A photo of Hearts coach Derek McInnes, with a red face and clenched fists, in the midst of chaos.",
         "source": "bbci.co.uk",
         "tags": [
-          "Europe",
           "Match Reports",
+          "Europe",
           "Premier League"
         ],
         "_key": "slider_0"
       },
       {
-        "original_headline": "An iron fist joining a broken team: Inside Mourinho's Real return",
-        "headline": "Mourinho returns to Real Madrid as 'iron fist' for broken side",
-        "category": "La Liga",
-        "content_type": "Rumors",
-        "category_tag": "BREAKING",
-        "importance": 5,
-        "image_prompt": "Jose Mourinho stands in front of a Real Madrid logo, with a stern expression",
-        "source": "bbci.co.uk",
-        "tags": [
-          "Rumors",
-          "La Liga",
-          "Europe"
-        ],
-        "_key": "slider_1"
-      },
-      {
         "original_headline": "Controversial 99th-minute penalty keeps Scottish title race alive",
-        "headline": "Celtic win penalty to keep Scottish Premiership title hopes alive",
+        "headline": "**Disgusting Penalty Decision! Celtic's Title Hopes Live On**",
         "category": "Scottish Premiership",
         "content_type": "Match Reports",
         "category_tag": "BREAKING",
         "importance": 5,
-        "image_prompt": "Celtic players celebrate a late penalty, with the stadium in the background",
+        "image_prompt": "A photo of a Celtic player celebrating, with a red card in the foreground.",
+        "source": "bbci.co.uk",
+        "tags": [
+          "Match Reports"
+        ],
+        "_key": "slider_1"
+      },
+      {
+        "original_headline": "Celtic score controversial late penalty to set up epic final day",
+        "headline": "**Disgusting Penalty Decision! Celtic Win Title Race**",
+        "category": "Scottish Premiership",
+        "content_type": "Match Reports",
+        "category_tag": "BREAKING",
+        "importance": 5,
+        "image_prompt": "A photo of a Celtic player celebrating, with a red card in the foreground.",
         "source": "bbci.co.uk",
         "tags": [
           "Match Reports"
@@ -50,48 +48,50 @@
         "_key": "slider_2"
       },
       {
-        "original_headline": "Celtic score controversial late penalty to set up epic final day",
-        "headline": "Celtic win penalty to set up title showdown with Hearts",
-        "category": "Scottish Premiership",
+        "original_headline": "Assist of the season? Mesmerising Foden keeps title hopes alive",
+        "headline": "**Foden's Magic Saves City! Manchester City's Title Hopes Live On**",
+        "category": "Premier League",
         "content_type": "Match Reports",
-        "category_tag": "BREAKING",
-        "importance": 5,
-        "image_prompt": "Celtic players celebrate a late penalty, with the stadium in the background",
+        "category_tag": "LIVE",
+        "importance": 4,
+        "image_prompt": "A photo of Phil Foden, Manchester City midfielder, with a ball at his feet.",
         "source": "bbci.co.uk",
         "tags": [
-          "Match Reports"
+          "Match Reports",
+          "Europe",
+          "Premier League"
         ],
         "_key": "slider_3"
       }
     ],
     "featured": [
       {
-        "original_headline": "Assist of the season? Mesmerising Foden keeps title hopes alive",
-        "headline": "Foden's magical assist keeps City in title race",
-        "category": "Premier League",
-        "content_type": "Match Reports",
+        "original_headline": "An iron fist joining a broken team: Inside Mourinho's Real return",
+        "headline": "**Mourinho Returns to Real Madrid! The Iron Fist Takes the Reins**",
+        "category": "Serie A",
+        "content_type": "Transfers",
         "category_tag": "FEATURED",
         "importance": 4,
-        "image_prompt": "Manchester City midfielder Phil Foden celebrates his assist with teammates",
+        "image_prompt": "A photo of Jose Mourinho, with a serious expression.",
         "source": "bbci.co.uk",
         "tags": [
-          "Europe",
-          "Match Reports",
-          "Premier League"
+          "Serie A",
+          "Transfers",
+          "Europe"
         ],
         "_key": "featured_0"
       },
       {
         "original_headline": "Man Utd chiefs to recommend Carrick for permanent job",
-        "headline": "Carrick to be recommended as Man Utd boss by senior executives",
+        "headline": "**Carrick for United! Man Utd Chiefs Back Michael Carrick as Permanent Boss**",
         "category": "Premier League",
-        "content_type": "Rumors",
+        "content_type": "Transfers",
         "category_tag": "FEATURED",
         "importance": 4,
-        "image_prompt": "Manchester United midfielder Michael Carrick looks focused during a match",
+        "image_prompt": "A photo of Michael Carrick, with a determined expression.",
         "source": "bbci.co.uk",
         "tags": [
-          "Rumors",
+          "Transfers",
           "Europe",
           "Premier League"
         ],
@@ -99,28 +99,28 @@
       },
       {
         "original_headline": "Man City pile pressure on Arsenal with Palace win",
-        "headline": "City close gap on Arsenal with Palace win",
+        "headline": "**City Pile Pressure on Arsenal! Manchester City Close Gap to Leaders**",
         "category": "Premier League",
         "content_type": "Match Reports",
         "category_tag": "FEATURED",
         "importance": 4,
-        "image_prompt": "Manchester City players celebrate a goal against Crystal Palace, with the Etihad Stadium in the background",
+        "image_prompt": "A photo of a Manchester City player celebrating, with an Arsenal player in the background.",
         "source": "bbci.co.uk",
         "tags": [
-          "Europe",
           "Match Reports",
+          "Europe",
           "Premier League"
         ],
         "_key": "featured_2"
       },
       {
         "original_headline": "Hearts put three past Falkirk to move within point of title",
-        "headline": "Hearts thrash Falkirk to set up final-day showdown with Celtic",
+        "headline": "**Hearts Move Within Point of Title! Hearts Beat Falkirk 3-0**",
         "category": "Scottish Premiership",
         "content_type": "Match Reports",
         "category_tag": "FEATURED",
         "importance": 4,
-        "image_prompt": "Hearts players celebrate a goal against Falkirk, with the stadium in the background",
+        "image_prompt": "A photo of a Hearts player celebrating, with a Falkirk player in the background.",
         "source": "bbci.co.uk",
         "tags": [
           "Match Reports"
@@ -130,106 +130,108 @@
     ],
     "stories": [
       {
-        "original_headline": "Gordon agrees to Bayern move - Thursday's gossip",
-        "headline": "Anthony Gordon joins Bayern Munich, Ander Barrenetxea attracts Premier League interest",
-        "category": "Transfers",
-        "content_type": "Rumors",
+        "original_headline": "Why Arsenal have fallen short in WSL and Champions League this season",
+        "headline": "**Arsenal's WSL and Champions League Struggles: What Went Wrong?**",
+        "category": "Champions League",
+        "content_type": "Analysis",
         "category_tag": "NEWS",
-        "importance": 4,
-        "image_prompt": "Anthony Gordon stands in front of a Bayern Munich logo, with a football in the background",
+        "importance": 3,
+        "image_prompt": "A photo of an Arsenal player in action, with a disappointed expression.",
         "source": "bbci.co.uk",
         "tags": [
-          "Rumors"
+          "Europe",
+          "Analysis",
+          "Champions League"
         ],
         "_key": "story_0"
       },
       {
-        "original_headline": "Liverpool owners face dilemma - stick or twist with Slot?",
-        "headline": "Liverpool owners weigh up fate of under-fire Arne Slot",
-        "category": "Premier League",
-        "content_type": "Rumors",
-        "category_tag": "NEWS",
-        "importance": 4,
-        "image_prompt": "Arne Slot stands in front of a Liverpool logo, with a worried expression",
-        "source": "bbci.co.uk",
-        "tags": [
-          "Rumors",
-          "Europe",
-          "Premier League"
-        ],
-        "_key": "story_1"
-      },
-      {
-        "original_headline": "Why Arsenal have fallen short in WSL and Champions League this season",
-        "headline": "Arsenal's WSL and Champions League struggles explained",
-        "category": "Women's Football",
-        "content_type": "Analysis",
-        "category_tag": "NEWS",
-        "importance": 3,
-        "image_prompt": "Arsenal Women players look dejected during a match, with a stadium in the background",
-        "source": "bbci.co.uk",
-        "tags": [
-          "Analysis"
-        ],
-        "_key": "story_2"
-      },
-      {
         "original_headline": "Could Southampton be kicked out of play-offs over Spygate?",
-        "headline": "Southampton face Spygate threat to Championship play-off hopes",
+        "headline": "**Spygate Scandal: Could Southampton Be Kicked Out of Play-Offs?**",
         "category": "Championship",
         "content_type": "Rumors",
         "category_tag": "NEWS",
         "importance": 3,
-        "image_prompt": "Southampton players look worried during a match, with a stadium in the background",
+        "image_prompt": "A photo of a football stadium, with a red flag in the foreground.",
         "source": "bbci.co.uk",
         "tags": [
           "Rumors"
+        ],
+        "_key": "story_1"
+      },
+      {
+        "original_headline": "Ex-Spurs chief Levy never imagined relegation fight",
+        "headline": "**Levy's Shock Relegation Warning! Spurs Chief Daniel Levy Admits He Didn't See It Coming**",
+        "category": "Premier League",
+        "content_type": "Interviews",
+        "category_tag": "NEWS",
+        "importance": 3,
+        "image_prompt": "A photo of Daniel Levy, with a surprised expression.",
+        "source": "bbci.co.uk",
+        "tags": [
+          "Premier League",
+          "Europe",
+          "Interviews"
+        ],
+        "_key": "story_2"
+      },
+      {
+        "original_headline": "'Beyond happy' - Guardiola praises Foden performance",
+        "headline": "**Foden's Masterclass! Guardiola Praises Manchester City Midfielder**",
+        "category": "Premier League",
+        "content_type": "Interviews",
+        "category_tag": "NEWS",
+        "importance": 3,
+        "image_prompt": "A photo of Pep Guardiola, with a smile on his face.",
+        "source": "bbci.co.uk",
+        "tags": [
+          "Premier League",
+          "Europe",
+          "Interviews"
         ],
         "_key": "story_3"
       },
       {
-        "original_headline": "Ex-Spurs chief Levy never imagined relegation fight",
-        "headline": "Tottenham's Levy: 'Not in a million years' did we think we'd be fighting for survival",
-        "category": "Premier League",
-        "content_type": "Interviews",
+        "original_headline": "Gordon agrees to Bayern move - Thursday's gossip",
+        "headline": "**Gordon to Bayern! Anthony Gordon Agrees to German Move**",
+        "category": "Transfers",
+        "content_type": "Rumors",
         "category_tag": "NEWS",
         "importance": 3,
-        "image_prompt": "Daniel Levy stands in front of Tottenham's logo, with a surprised expression",
+        "image_prompt": "A photo of Anthony Gordon, with a suitcase in the background.",
         "source": "bbci.co.uk",
         "tags": [
-          "Europe",
-          "Interviews",
-          "Premier League"
+          "Rumors"
         ],
         "_key": "story_4"
       },
       {
-        "original_headline": "'Beyond happy' - Guardiola praises Foden performance",
-        "headline": "Guardiola: 'Beyond happy' with Phil Foden's City debut",
-        "category": "Premier League",
-        "content_type": "Interviews",
+        "original_headline": "BBC to stream FA Youth Cup final between Man City & Man Utd",
+        "headline": "**Youth Cup Showdown! BBC to Stream Manchester City vs Manchester United**",
+        "category": "Transfers",
+        "content_type": "Transfers",
         "category_tag": "NEWS",
         "importance": 3,
-        "image_prompt": "Manchester City manager Pep Guardiola smiles with midfielder Phil Foden",
+        "image_prompt": "A photo of a football stadium, with two teams facing off.",
         "source": "bbci.co.uk",
         "tags": [
-          "Europe",
-          "Interviews",
-          "Premier League"
+          "Transfers"
         ],
         "_key": "story_5"
       },
       {
-        "original_headline": "BBC to stream FA Youth Cup final between Man City & Man Utd",
-        "headline": "FA Youth Cup final to be streamed on BBC Sport",
-        "category": "Youth Football",
-        "content_type": "Rumors",
+        "original_headline": "Liverpool owners face dilemma - stick or twist with Slot?",
+        "headline": "**Slot's Future in Jeopardy! Liverpool Owners Face Dilemma**",
+        "category": "Champions League",
+        "content_type": "Analysis",
         "category_tag": "NEWS",
         "importance": 3,
-        "image_prompt": "A young Manchester City and Manchester United player stand together, with a football in the background",
+        "image_prompt": "A photo of Arne Slot, with a worried expression.",
         "source": "bbci.co.uk",
         "tags": [
-          "Rumors"
+          "Europe",
+          "Analysis",
+          "Champions League"
         ],
         "_key": "story_6"
       }
