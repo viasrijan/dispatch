@@ -1,221 +1,235 @@
 {
-  "generated_at": "2026-05-13T22:31:15.017794",
+  "generated_at": "2026-05-14T08:43:50.394464",
   "rss_headlines_used": 15,
   "sections": {
     "slider": [
       {
-        "original_headline": "Could Southampton be kicked out of play-offs over Spygate?",
-        "headline": "**Spygate Scandal** Southampton on Brink as Middlesbrough Loom Large",
-        "category": "Championship",
-        "content_type": "Rumors",
+        "original_headline": "Hearts' McInnes rages at 'disgusting' Celtic penalty as title race goes to final day",
+        "headline": "Celtic's late penalty sparks outrage: Hearts coach McInnes",
+        "category": "Premier League",
+        "content_type": "Match Reports",
         "category_tag": "BREAKING",
         "importance": 5,
-        "image_prompt": "Southampton players in crisis talks",
-        "source": "BBC",
+        "image_prompt": "Angry Hearts coach Derek McInnes stands on the sidelines, fist shaking with rage",
+        "source": "bbci.co.uk",
         "tags": [
-          "Rumors"
+          "Europe",
+          "Match Reports",
+          "Premier League"
         ],
         "_key": "slider_0"
       },
       {
-        "original_headline": "Man Utd chiefs to recommend Carrick for permanent job",
-        "headline": "**Carrick on the Hot Seat** Man Utd chiefs back Michael Carrick for top job",
-        "category": "Premier League",
+        "original_headline": "An iron fist joining a broken team: Inside Mourinho's Real return",
+        "headline": "Mourinho returns to Real Madrid as 'iron fist' for broken side",
+        "category": "La Liga",
         "content_type": "Rumors",
-        "category_tag": "LIVE",
-        "importance": 4,
-        "image_prompt": "Manchester United managerial candidates",
-        "source": "BBC",
+        "category_tag": "BREAKING",
+        "importance": 5,
+        "image_prompt": "Jose Mourinho stands in front of a Real Madrid logo, with a stern expression",
+        "source": "bbci.co.uk",
         "tags": [
-          "Europe",
-          "Premier League",
-          "Rumors"
+          "Rumors",
+          "La Liga",
+          "Europe"
         ],
         "_key": "slider_1"
       },
       {
-        "original_headline": "Liverpool owners face dilemma - stick or twist with Slot?",
-        "headline": "**Slot in Doubt** Liverpool Owners Torn Over Arne Slot's Future",
-        "category": "Premier League",
-        "content_type": "Rumors",
-        "category_tag": "LIVE",
-        "importance": 4,
-        "image_prompt": "Liverpool manager Arne Slot coaching staff",
-        "source": "BBC",
+        "original_headline": "Controversial 99th-minute penalty keeps Scottish title race alive",
+        "headline": "Celtic win penalty to keep Scottish Premiership title hopes alive",
+        "category": "Scottish Premiership",
+        "content_type": "Match Reports",
+        "category_tag": "BREAKING",
+        "importance": 5,
+        "image_prompt": "Celtic players celebrate a late penalty, with the stadium in the background",
+        "source": "bbci.co.uk",
         "tags": [
-          "Europe",
-          "Premier League",
-          "Rumors"
+          "Match Reports"
         ],
         "_key": "slider_2"
       },
       {
-        "original_headline": "'I sold my late dad's diamond ring to get to Villa's Europa League final'",
-        "headline": "**Barnes' Emotional Bid** Scott Barnes Bags Europa League Final Ticket",
-        "category": "Champions League",
-        "content_type": "Rumors",
-        "category_tag": "LIVE",
-        "importance": 4,
-        "image_prompt": "Scott Barnes holding diamond ring with football ticket in background",
-        "source": "BBC",
+        "original_headline": "Celtic score controversial late penalty to set up epic final day",
+        "headline": "Celtic win penalty to set up title showdown with Hearts",
+        "category": "Scottish Premiership",
+        "content_type": "Match Reports",
+        "category_tag": "BREAKING",
+        "importance": 5,
+        "image_prompt": "Celtic players celebrate a late penalty, with the stadium in the background",
+        "source": "bbci.co.uk",
         "tags": [
-          "Champions League",
-          "Europe",
-          "Rumors"
+          "Match Reports"
         ],
         "_key": "slider_3"
       }
     ],
     "featured": [
       {
-        "original_headline": "Slavia Prague punished for pitch invasion",
-        "headline": "**Pitch Invasion** Slavia Prague Fined After Mass Disturbance",
-        "category": "",
-        "content_type": "News",
-        "category_tag": "FEATURED",
-        "importance": 4,
-        "image_prompt": "Slavia Prague players being escorted off the pitch by security guards",
-        "source": "BBC",
-        "tags": [],
-        "_key": "featured_0"
-      },
-      {
-        "original_headline": "Calvert-Lewin penalty earns Leeds draw at Tottenham",
-        "headline": "**Calvert-Lewin Equaliser** Leeds Hold Spurs to Draw Amid Relegation Battle",
-        "category": "",
+        "original_headline": "Assist of the season? Mesmerising Foden keeps title hopes alive",
+        "headline": "Foden's magical assist keeps City in title race",
+        "category": "Premier League",
         "content_type": "Match Reports",
         "category_tag": "FEATURED",
         "importance": 4,
-        "image_prompt": "Leeds United players celebrating at Tottenham Hotspur Stadium",
-        "source": "BBC",
+        "image_prompt": "Manchester City midfielder Phil Foden celebrates his assist with teammates",
+        "source": "bbci.co.uk",
         "tags": [
-          "Match Reports"
+          "Europe",
+          "Match Reports",
+          "Premier League"
+        ],
+        "_key": "featured_0"
+      },
+      {
+        "original_headline": "Man Utd chiefs to recommend Carrick for permanent job",
+        "headline": "Carrick to be recommended as Man Utd boss by senior executives",
+        "category": "Premier League",
+        "content_type": "Rumors",
+        "category_tag": "FEATURED",
+        "importance": 4,
+        "image_prompt": "Manchester United midfielder Michael Carrick looks focused during a match",
+        "source": "bbci.co.uk",
+        "tags": [
+          "Rumors",
+          "Europe",
+          "Premier League"
         ],
         "_key": "featured_1"
       },
       {
-        "original_headline": "Ex-Spurs chief Levy never imagined relegation fight",
-        "headline": "**Tottenham in Crisis** Levy Admits Relegation Was Never Plan",
+        "original_headline": "Man City pile pressure on Arsenal with Palace win",
+        "headline": "City close gap on Arsenal with Palace win",
         "category": "Premier League",
-        "content_type": "Interviews",
+        "content_type": "Match Reports",
         "category_tag": "FEATURED",
-        "importance": 3,
-        "image_prompt": "Daniel Levy speaking at Tottenham Hotspur press conference",
-        "source": "BBC",
+        "importance": 4,
+        "image_prompt": "Manchester City players celebrate a goal against Crystal Palace, with the Etihad Stadium in the background",
+        "source": "bbci.co.uk",
         "tags": [
           "Europe",
-          "Premier League",
-          "Interviews"
+          "Match Reports",
+          "Premier League"
         ],
         "_key": "featured_2"
       },
       {
-        "original_headline": "World Cup transport prices cut after fan backlash",
-        "headline": "**Fan Power** World Cup Transport Prices Halted Amid Backlash",
-        "category": "",
-        "content_type": "News",
+        "original_headline": "Hearts put three past Falkirk to move within point of title",
+        "headline": "Hearts thrash Falkirk to set up final-day showdown with Celtic",
+        "category": "Scottish Premiership",
+        "content_type": "Match Reports",
         "category_tag": "FEATURED",
-        "importance": 3,
-        "image_prompt": "New Jersey MetLife Stadium crowd protesting bus prices",
-        "source": "BBC",
-        "tags": [],
+        "importance": 4,
+        "image_prompt": "Hearts players celebrate a goal against Falkirk, with the stadium in the background",
+        "source": "bbci.co.uk",
+        "tags": [
+          "Match Reports"
+        ],
         "_key": "featured_3"
       }
     ],
     "stories": [
       {
-        "original_headline": "BBC to stream FA Youth Cup final between Man City & Man Utd",
-        "headline": "**Youth Cup Showdown** BBC to Stream Manchester City vs United",
-        "category": "",
-        "content_type": "LIVE",
+        "original_headline": "Gordon agrees to Bayern move - Thursday's gossip",
+        "headline": "Anthony Gordon joins Bayern Munich, Ander Barrenetxea attracts Premier League interest",
+        "category": "Transfers",
+        "content_type": "Rumors",
         "category_tag": "NEWS",
-        "importance": 3,
-        "image_prompt": "BBC Sport logo with FA Youth Cup final match background",
-        "source": "BBC",
-        "tags": [],
+        "importance": 4,
+        "image_prompt": "Anthony Gordon stands in front of a Bayern Munich logo, with a football in the background",
+        "source": "bbci.co.uk",
+        "tags": [
+          "Rumors"
+        ],
         "_key": "story_0"
       },
       {
-        "original_headline": "O'Neill stays but Blackburn stint will have 'turned heads'",
-        "headline": "**O'Neill's Decision** Northern Ireland Boss Stays Amid Club Rumours",
-        "category": "",
-        "content_type": "Interviews",
+        "original_headline": "Liverpool owners face dilemma - stick or twist with Slot?",
+        "headline": "Liverpool owners weigh up fate of under-fire Arne Slot",
+        "category": "Premier League",
+        "content_type": "Rumors",
         "category_tag": "NEWS",
-        "importance": 3,
-        "image_prompt": "Michael O'Neill speaking at press conference",
-        "source": "BBC Sport NI",
+        "importance": 4,
+        "image_prompt": "Arne Slot stands in front of a Liverpool logo, with a worried expression",
+        "source": "bbci.co.uk",
         "tags": [
-          "Interviews"
+          "Rumors",
+          "Europe",
+          "Premier League"
         ],
         "_key": "story_1"
       },
       {
-        "original_headline": "Scotland await Conway news before Tuesday squad announcement",
-        "headline": "**Conway Update** Scotland Hold Breath as Tommy Conway's Fitness Looms Large",
-        "category": "",
-        "content_type": "News",
+        "original_headline": "Why Arsenal have fallen short in WSL and Champions League this season",
+        "headline": "Arsenal's WSL and Champions League struggles explained",
+        "category": "Women's Football",
+        "content_type": "Analysis",
         "category_tag": "NEWS",
         "importance": 3,
-        "image_prompt": "Tommy Conway training with Scottish national team",
-        "source": "BBC",
-        "tags": [],
+        "image_prompt": "Arsenal Women players look dejected during a match, with a stadium in the background",
+        "source": "bbci.co.uk",
+        "tags": [
+          "Analysis"
+        ],
         "_key": "story_2"
       },
       {
-        "original_headline": "Levy optimistic Tottenham will avoid relegation",
-        "headline": "**Tottenham Avoid Relegation** Levy Sees Light at End of Tunnel for Spurs",
-        "category": "Premier League",
-        "content_type": "Interviews",
+        "original_headline": "Could Southampton be kicked out of play-offs over Spygate?",
+        "headline": "Southampton face Spygate threat to Championship play-off hopes",
+        "category": "Championship",
+        "content_type": "Rumors",
         "category_tag": "NEWS",
         "importance": 3,
-        "image_prompt": "Daniel Levy speaking at Tottenham Hotspur press conference",
-        "source": "BBC",
+        "image_prompt": "Southampton players look worried during a match, with a stadium in the background",
+        "source": "bbci.co.uk",
         "tags": [
-          "Europe",
-          "Premier League",
-          "Interviews"
+          "Rumors"
         ],
         "_key": "story_3"
       },
       {
-        "original_headline": "Immortality beckons - but Hearts must overcome Celtic & weight of history",
-        "headline": "**Heart of Midlothian** Dreams Alive as Hearts Eye World Title",
-        "category": "Scottish Premiership",
-        "content_type": "Opinion",
+        "original_headline": "Ex-Spurs chief Levy never imagined relegation fight",
+        "headline": "Tottenham's Levy: 'Not in a million years' did we think we'd be fighting for survival",
+        "category": "Premier League",
+        "content_type": "Interviews",
         "category_tag": "NEWS",
-        "importance": 2,
-        "image_prompt": "Hearts players celebrating at Tynecastle Park",
-        "source": "BBC",
+        "importance": 3,
+        "image_prompt": "Daniel Levy stands in front of Tottenham's logo, with a surprised expression",
+        "source": "bbci.co.uk",
         "tags": [
-          "Opinion"
+          "Europe",
+          "Interviews",
+          "Premier League"
         ],
         "_key": "story_4"
       },
       {
-        "original_headline": "Beyond the Hollywood story - what are Wrexham really building?",
-        "headline": "**Wrexham Takeover** Reality Beyond Hollywood Glamour",
-        "category": "Championship",
-        "content_type": "Analysis",
+        "original_headline": "'Beyond happy' - Guardiola praises Foden performance",
+        "headline": "Guardiola: 'Beyond happy' with Phil Foden's City debut",
+        "category": "Premier League",
+        "content_type": "Interviews",
         "category_tag": "NEWS",
-        "importance": 2,
-        "image_prompt": "Ryan Reynolds and Rob McElhenney Wrexham co-owners in press conference",
-        "source": "BBC",
+        "importance": 3,
+        "image_prompt": "Manchester City manager Pep Guardiola smiles with midfielder Phil Foden",
+        "source": "bbci.co.uk",
         "tags": [
-          "Analysis"
+          "Europe",
+          "Interviews",
+          "Premier League"
         ],
         "_key": "story_5"
       },
       {
-        "original_headline": "Watch goals as Dunfermline & Thistle draw play-off semi first leg",
-        "headline": "**Dunfermline vs Thistle** Watch Goals from Scottish Premiership Play-Off",
-        "category": "",
-        "content_type": "Match Reports",
+        "original_headline": "BBC to stream FA Youth Cup final between Man City & Man Utd",
+        "headline": "FA Youth Cup final to be streamed on BBC Sport",
+        "category": "Youth Football",
+        "content_type": "Rumors",
         "category_tag": "NEWS",
-        "importance": 2,
-        "image_prompt": "Dunfermline Athletic players celebrating in the stadium",
-        "source": "BBC",
+        "importance": 3,
+        "image_prompt": "A young Manchester City and Manchester United player stand together, with a football in the background",
+        "source": "bbci.co.uk",
         "tags": [
-          "Match Reports"
+          "Rumors"
         ],
         "_key": "story_6"
       }

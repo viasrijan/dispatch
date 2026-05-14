@@ -754,16 +754,48 @@ def format_times_ago(count):
 
 # Fallback content when API quota is exceeded
 FALLBACK_CONTENT = [
-    {"headline": "Premier League title race reaches thrilling climax with 3 teams in contention", "category": "Premier League", "importance": 5, "image_prompt": "Premier League trophy at stadium", "category_tag": "BREAKING"},
-    {"headline": "Real Madrid complete €120M signing of generational talent", "category": "Transfers", "importance": 5, "image_prompt": "Player signing contract at Bernabeu", "category_tag": "BREAKING"},
-    {"headline": "Champions League final: Tactical preview and key battles to watch", "category": "Champions League", "importance": 4, "image_prompt": "Champions League trophy in stadium", "category_tag": "FEATURED"},
-    {"headline": "Barcelona's youth academy produces next generational superstar", "category": "La Liga", "importance": 4, "image_prompt": "Young player training at La Masia", "category_tag": "FEATURED"},
-    {"headline": "Bayern Munich secure domestic double with dominant display", "category": "Bundesliga", "importance": 4, "image_prompt": "Bayern Munich celebration", "category_tag": "FEATURED"},
-    {"headline": "Inter Milan announce ambitious expansion plans for stadium", "category": "Serie A", "importance": 3, "image_prompt": "San Siro stadium", "category_tag": "NEWS"},
-    {"headline": "PSG's new project aims to build around homegrown talent", "category": "Ligue 1", "importance": 3, "image_prompt": "PSG stadium", "category_tag": "NEWS"},
-    {"headline": "Rising star reveals childhood dream of playing for hometown club", "category": "Interviews", "importance": 2, "image_prompt": "Player interview", "category_tag": "NEWS"},
-    {"headline": "VAR controversy sparks debate among managers and fans", "category": "Analysis", "importance": 2, "image_prompt": "VAR monitor", "category_tag": "NEWS"},
-    {"headline": "Football legends gather for annual charity match event", "category": "Opinion", "importance": 1, "image_prompt": "Charity football match", "category_tag": "NEWS"},
+    # Slider (Top 4 - highest importance)
+    {"headline": "Premier League title race reaches thrilling climax with 3 teams in contention", "category": "Premier League", "content_type": "Match Reports", "importance": 5, "image_prompt": "Premier League trophy at stadium", "category_tag": "BREAKING"},
+    {"headline": "Real Madrid complete €120M signing of generational talent", "category": "Transfers", "content_type": "Transfers", "importance": 5, "image_prompt": "Player signing contract at Bernabeu", "category_tag": "BREAKING"},
+    {"headline": "Champions League final: Tactical preview and key battles to watch", "category": "Champions League", "content_type": "Match Reports", "importance": 5, "image_prompt": "Champions League trophy in stadium", "category_tag": "BREAKING"},
+    {"headline": "Liverpool confirm new manager after Jurgen Klopp departure", "category": "Premier League", "content_type": "Transfers", "importance": 5, "image_prompt": "Anfield stadium at night", "category_tag": "BREAKING"},
+    # Featured (4 posts)
+    {"headline": "Barcelona's youth academy produces next generational superstar", "category": "La Liga", "content_type": "Interviews", "importance": 4, "image_prompt": "Young player training at La Masia", "category_tag": "FEATURED"},
+    {"headline": "Bayern Munich secure domestic double with dominant display", "category": "Bundesliga", "content_type": "Match Reports", "importance": 4, "image_prompt": "Bayern Munich celebration", "category_tag": "FEATURED"},
+    {"headline": "PSG announce major squad overhaul for next season", "category": "Ligue 1", "content_type": "Transfers", "importance": 4, "image_prompt": "PSG stadium packed with fans", "category_tag": "FEATURED"},
+    {"headline": "Inter Milan announce ambitious expansion plans for stadium", "category": "Serie A", "content_type": "Analysis", "importance": 4, "image_prompt": "San Siro stadium", "category_tag": "FEATURED"},
+    # Other Stories (30+ posts)
+    {"headline": "Rising star reveals childhood dream of playing for hometown club", "category": "Premier League", "content_type": "Interviews", "importance": 3, "image_prompt": "Player interview", "category_tag": "NEWS"},
+    {"headline": "VAR controversy sparks debate among managers and fans", "category": "Premier League", "content_type": "Analysis", "importance": 3, "image_prompt": "VAR monitor", "category_tag": "NEWS"},
+    {"headline": "Football legends gather for annual charity match event", "category": "Champions League", "content_type": "Opinion", "importance": 3, "image_prompt": "Charity football match", "category_tag": "NEWS"},
+    {"headline": "Arsenal prepare for crucial north London derby", "category": "Premier League", "content_type": "Match Reports", "importance": 3, "image_prompt": "Arsenal stadium", "category_tag": "NEWS"},
+    {"headline": "Chelsea youngster earns first senior international call-up", "category": "Premier League", "content_type": "News", "importance": 3, "image_prompt": "Chelsea celebration", "category_tag": "NEWS"},
+    {"headline": "Manchester United confident of landing top transfer target", "category": "Transfers", "content_type": "Transfers", "importance": 3, "image_prompt": "Old Trafford", "category_tag": "NEWS"},
+    {"headline": "Real Madrid and Barcelona set for El Clasico showdown", "category": "La Liga", "content_type": "Match Reports", "importance": 3, "image_prompt": "Camp Nou packed", "category_tag": "NEWS"},
+    {"headline": "Juventus announce new signing from Serie A rivals", "category": "Serie A", "content_type": "Transfers", "importance": 3, "image_prompt": "Juventus stadium", "category_tag": "NEWS"},
+    {"headline": "AC Milan target Champions League qualification", "category": "Serie A", "content_type": "Match Reports", "importance": 3, "image_prompt": "San Siro at night", "category_tag": "NEWS"},
+    {"headline": "Leipzig challenge Bayern for Bundesliga title", "category": "Bundesliga", "content_type": "Match Reports", "importance": 3, "image_prompt": "Red Bull Arena", "category_tag": "NEWS"},
+    {"headline": "Dortmund youth prospect set for breakthrough season", "category": "Bundesliga", "content_type": "Interviews", "importance": 3, "image_prompt": "BVB fans", "category_tag": "NEWS"},
+    {"headline": "Monaco youngster attracts Premier League attention", "category": "Ligue 1", "content_type": "Rumors", "importance": 3, "image_prompt": "Monaco match", "category_tag": "NEWS"},
+    {"headline": "Lyon announce major investment in women's team", "category": "Ligue 1", "content_type": "News", "importance": 3, "image_prompt": "Lyon stadium", "category_tag": "NEWS"},
+    {"headline": "South American stars set for Copa America battle", "category": "Copa America", "content_type": "Match Reports", "importance": 3, "image_prompt": "Maracanã stadium", "category_tag": "NEWS"},
+    {"headline": "Asian Champions League reaches knockout stages", "category": "Asia", "content_type": "Match Reports", "importance": 3, "image_prompt": "Asian football stadium", "category_tag": "NEWS"},
+    {"headline": "MLS expansion team announces stadium plans", "category": "North America", "content_type": "News", "importance": 3, "image_prompt": "MLS stadium", "category_tag": "NEWS"},
+    {"headline": "Tottenham Hotspur face crucial run of fixtures", "category": "Premier League", "content_type": "Match Reports", "importance": 2, "image_prompt": "Tottenham stadium", "category_tag": "NEWS"},
+    {"headline": "Newcastle United target top four finish", "category": "Premier League", "content_type": "Analysis", "importance": 2, "image_prompt": "St James Park", "category_tag": "NEWS"},
+    {"headline": "Atletico Madrid prepare for derby against Real Madrid", "category": "La Liga", "content_type": "Match Reports", "importance": 2, "image_prompt": "Wanda Metropolitano", "category_tag": "NEWS"},
+    {"headline": "Sevilla continue impressive European campaign", "category": "La Liga", "content_type": "Match Reports", "importance": 2, "image_prompt": "Sevilla celebration", "category_tag": "NEWS"},
+    {"headline": "Napoli boss discusses title chances this season", "category": "Serie A", "content_type": "Interviews", "importance": 2, "image_prompt": "Napoli stadium", "category_tag": "NEWS"},
+    {"headline": "Lazio eye European qualification spots", "category": "Serie A", "content_type": "Match Reports", "importance": 2, "image_prompt": "Stadio Olimpico", "category_tag": "NEWS"},
+    {"headline": "Bundesliga title race heats up with Bayern leading", "category": "Bundesliga", "content_type": "Match Reports", "importance": 2, "image_prompt": "Allianz Arena", "category_tag": "NEWS"},
+    {"headline": "Leverkusen challenge traditional Bundesliga powerhouses", "category": "Bundesliga", "content_type": "Analysis", "importance": 2, "image_prompt": "BayArena", "category_tag": "NEWS"},
+    {"headline": "Marseille aim for strong finish to season", "category": "Ligue 1", "content_type": "Match Reports", "importance": 2, "image_prompt": "Velodrome stadium", "category_tag": "NEWS"},
+    {"headline": "Nice announce ambitious five-year plan", "category": "Ligue 1", "content_type": "Analysis", "importance": 2, "image_prompt": "Allianz Riviera", "category_tag": "NEWS"},
+    {"headline": "Europa League draw throws up intriguing ties", "category": "Europa League", "content_type": "News", "importance": 2, "image_prompt": "UEFA trophy", "category_tag": "NEWS"},
+    {"headline": "FA Cup quarter-finals set to deliver drama", "category": "FA Cup", "content_type": "Match Reports", "importance": 2, "image_prompt": "Wembley stadium", "category_tag": "NEWS"},
+    {"headline": "World Cup qualifiers resume across continents", "category": "World Cup", "content_type": "Match Reports", "importance": 2, "image_prompt": "World Cup stadium", "category_tag": "NEWS"},
+    {"headline": "European Championship qualifier results round-up", "category": "European Championship", "content_type": "Match Reports", "importance": 2, "image_prompt": "Euro trophy", "category_tag": "NEWS"},
+    {"headline": "Transfer rumors intensify as window approaches", "category": "Transfers", "content_type": "Rumors", "importance": 2, "image_prompt": "Transfer news", "category_tag": "NEWS"},
 ]
 
 FALLBACK_IMAGES = [
@@ -947,18 +979,16 @@ async def run():
     # 2. Generate content with importance scoring
     print("\n📝 Generating content with importance scoring...")
     
-    # Generate 10 stories with importance scores (1-5)
+    # Generate stories with importance scores (1-5)
     all_stories = await generate_slider_content(api_key, rss_headlines)
     
-    # If API failed/quota exceeded, use fallback content
-    if not all_stories:
-        print("  ⚠ API quota exceeded, using fallback content")
-        all_stories = FALLBACK_CONTENT.copy()
-    
-    # Ensure each story has an importance score
-    for story in all_stories:
-        if "importance" not in story:
-            story["importance"] = 3
+    # If RSS returns fewer than 15 items, pad with fallback content
+    if len(all_stories) < 15:
+        print(f"  ⚠ Only {len(all_stories)} stories from RSS, padding with fallback content")
+        # Filter fallback to get unique categories not already in all_stories
+        existing_categories = {s.get("category") for s in all_stories}
+        fallback_items = [f for f in FALLBACK_CONTENT if f.get("category") not in existing_categories]
+        all_stories.extend(fallback_items[:40 - len(all_stories)])
     
     # Sort by importance (highest first)
     all_stories.sort(key=lambda x: x.get("importance", 3), reverse=True)
