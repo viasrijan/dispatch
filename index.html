@@ -369,7 +369,7 @@ html {
         /* Mini Post Grid */
         .mini-grid {
             display: grid;
-            grid-template-columns: repeat(3, 1fr);
+            grid-template-columns: repeat(4, 1fr);
             gap: 16px;
         }
 
@@ -379,8 +379,7 @@ html {
 
         .mini-image {
             width: 100%;
-            min-width: 1200px;
-            aspect-ratio: 16/10;
+            aspect-ratio: 1/1;
             background: var(--surface);
             border-radius: 8px;
             margin-bottom: 8px;
@@ -389,7 +388,6 @@ html {
 
         .mini-image img {
             width: 100%;
-            min-width: 1200px;
             height: 100%;
             object-fit: cover;
             display: block;
@@ -463,8 +461,7 @@ html {
 
         .featured-image {
             width: 100%;
-            min-width: 1200px;
-            aspect-ratio: 16/10;
+            aspect-ratio: 1/1;
             background: var(--surface);
             border-radius: 12px;
             margin-bottom: 12px;
@@ -474,7 +471,6 @@ html {
 
         .featured-image img {
             width: 100%;
-            min-width: 1200px;
             height: 100%;
             object-fit: cover;
             display: block;
@@ -482,7 +478,6 @@ html {
 
         .featured-placeholder {
             width: 100%;
-            min-width: 1200px;
             height: 100%;
             display: flex;
             align-items: center;
@@ -674,8 +669,7 @@ html {
 
         .pub-image {
             width: 100%;
-            min-width: 1200px;
-            aspect-ratio: 16/10;
+            aspect-ratio: 1/1;
             background: var(--surface);
             border-radius: 8px;
             margin-bottom: 10px;
@@ -684,7 +678,6 @@ html {
 
         .pub-image img {
             width: 100%;
-            min-width: 1200px;
             height: 100%;
             object-fit: cover;
             display: block;
@@ -792,9 +785,8 @@ html {
         /* Responsive */
         @media (max-width: 1000px) {
             .featured-grid,
-            .publications-grid,
-            .stats-grid,
-            .mini-grid {
+            .mini-grid,
+            .publications-grid {
                 grid-template-columns: repeat(2, 1fr);
             }
             .footer-grid {
@@ -830,7 +822,6 @@ html {
             }
             .slide-image {
                 width: 100%;
-            min-width: 1200px;
                 height: 200px;
             }
             .slide-content {
