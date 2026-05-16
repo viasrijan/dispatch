@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     <style>
         :root {
             --bg: #161616;
@@ -49,7 +49,7 @@
         html { background: var(--bg); scroll-behavior: smooth; }
 
         body {
-            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
             background: var(--bg);
             color: var(--text);
             line-height: 1.6;
@@ -115,24 +115,12 @@
             color: var(--text-secondary);
             text-transform: uppercase;
             letter-spacing: 0.8px;
-            transition: color var(--transition);
-            position: relative;
+            opacity: 0.6;
+            transition: opacity 0.4s ease, color 0.4s ease;
             padding: 4px 0;
         }
 
-        .nav a::after {
-            content: '';
-            position: absolute;
-            bottom: -2px;
-            left: 0;
-            width: 0;
-            height: 2px;
-            background: var(--accent);
-            transition: width var(--transition);
-        }
-
-        .nav a:hover { color: var(--text); }
-        .nav a:hover::after { width: 100%; }
+        .nav a:hover { opacity: 1; color: var(--accent); }
 
         .header-right {
             display: flex;
@@ -154,22 +142,55 @@
 
         .header-social a:hover { color: var(--accent); }
 
+        /* === FLOATING THEME TOGGLE === */
         .theme-toggle {
-            width: 36px;
-            height: 36px;
-            border-radius: 10px;
+            position: fixed;
+            bottom: 28px;
+            right: 28px;
+            z-index: 9999;
+            width: 48px;
+            height: 48px;
+            border-radius: 50%;
             border: 1px solid var(--border);
-            background: var(--bg-card);
+            background: var(--bg-elevated);
             color: var(--text-secondary);
             cursor: pointer;
             display: flex;
             align-items: center;
             justify-content: center;
-            font-size: 1rem;
+            font-size: 1.2rem;
             transition: all var(--transition);
+            box-shadow: 0 4px 16px var(--shadow);
             position: relative;
             overflow: hidden;
         }
+
+        .theme-toggle:hover {
+            border-color: var(--accent);
+            color: var(--accent);
+            background: var(--bg-card);
+        }
+
+        .theme-toggle .icon-wrap {
+            position: relative;
+            width: 20px;
+            height: 20px;
+        }
+
+        .theme-toggle .icon-wrap i {
+            position: absolute;
+            inset: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: opacity 0.4s ease;
+        }
+
+        .theme-toggle .icon-wrap .fa-moon { opacity: 1; }
+        .theme-toggle .icon-wrap .fa-sun { opacity: 0; }
+
+        [data-theme="light"] .theme-toggle .icon-wrap .fa-moon { opacity: 0; }
+        [data-theme="light"] .theme-toggle .icon-wrap .fa-sun { opacity: 1; }
 
         .theme-toggle:hover {
             border-color: var(--accent);
@@ -199,18 +220,137 @@
             transform: translateY(-34px);
         }
 
-        /* === HERO / SLIDER === */
-        .hero {
+        /* === HERO SLIDER (BBC In History style) === */
+        .hero-slider {
             padding: 100px 0 0;
             position: relative;
         }
+
+        .hero-slider-inner {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            min-height: 440px;
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            overflow: hidden;
+        }
+
+        .hero-slider-content {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            padding: 48px;
+        }
+
+        .hero-slider-content .hero-tag {
+            display: inline-block;
+            font-size: 0.65rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1.2px;
+            color: #fff;
+            background: var(--accent);
+            padding: 3px 14px;
+            margin-bottom: 16px;
+            align-self: flex-start;
+        }
+
+        .hero-slider-content .hero-title {
+            font-size: 2rem;
+            font-weight: 800;
+            line-height: 1.15;
+            color: var(--text);
+            margin-bottom: 12px;
+            max-width: 30ch;
+        }
+
+        .hero-slider-content .hero-excerpt {
+            font-size: 0.95rem;
+            color: var(--text-secondary);
+            line-height: 1.6;
+            margin-bottom: 24px;
+        }
+
+        .hero-slider-content .hero-readmore {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            color: var(--accent);
+            text-transform: uppercase;
+            letter-spacing: 0.8px;
+            transition: color var(--transition);
+        }
+
+        .hero-slider-content .hero-readmore:hover { color: var(--text); }
+
+        .hero-slider-image {
+            position: relative;
+            overflow: hidden;
+            background: var(--bg-elevated);
+        }
+
+        .hero-slider-image img {
+            position: absolute;
+            inset: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.6s ease;
+        }
+
+        .hero-slider:hover .hero-slider-image img { transform: scale(1.03); }
+
+        .hero-slider-nav {
+            position: absolute;
+            bottom: 24px;
+            left: 50%;
+            transform: translateX(-50%);
+            display: flex;
+            gap: 10px;
+            z-index: 5;
+        }
+
+        .hero-slider-nav .dot {
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            background: rgba(255,255,255,0.3);
+            border: 1px solid rgba(255,255,255,0.5);
+            cursor: pointer;
+            transition: all var(--transition);
+        }
+
+        .hero-slider-nav .dot.active { background: var(--accent); border-color: var(--accent); }
+
+        .hero-slider-arrow {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            z-index: 5;
+            width: 40px;
+            height: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: rgba(0,0,0,0.5);
+            color: #fff;
+            cursor: pointer;
+            font-size: 1.1rem;
+            transition: background var(--transition);
+            border: none;
+        }
+
+        .hero-slider-arrow:hover { background: var(--accent); }
+        .hero-slider-arrow.prev { left: 12px; }
+        .hero-slider-arrow.next { right: 12px; }
 
         .hero-grid {
             display: grid;
             grid-template-columns: 1fr 1fr;
             gap: 2px;
             background: var(--border);
-            border-radius: 16px;
             overflow: hidden;
         }
 
@@ -261,7 +401,7 @@
             color: #fff;
             background: var(--accent);
             padding: 3px 14px;
-            border-radius: 20px;
+            border-radius: 0;
             border: 1px solid rgba(255,255,255,0.15);
             margin-bottom: 12px;
         }
@@ -272,6 +412,7 @@
             line-height: 1.2;
             color: #fff;
             margin-bottom: 8px;
+            max-width: 30ch;
         }
 
         .hero-main .hero-meta {
@@ -328,7 +469,7 @@
             color: #fff;
             background: var(--accent);
             padding: 2px 10px;
-            border-radius: 20px;
+            border-radius: 0;
             border: 1px solid rgba(255,255,255,0.12);
             margin-bottom: 6px;
         }
@@ -338,6 +479,7 @@
             font-weight: 700;
             line-height: 1.25;
             color: #fff;
+            max-width: 30ch;
         }
 
         .hero-side-card .hero-meta {
@@ -359,13 +501,13 @@
         }
 
         .section-title {
-            font-size: 1.3rem;
-            font-weight: 700;
+            font-size: 1.4rem;
+            font-weight: 800;
             text-transform: uppercase;
             letter-spacing: 1px;
             color: var(--text);
             position: relative;
-            padding-left: 16px;
+            padding-left: 14px;
         }
 
         .section-title::before {
@@ -376,7 +518,7 @@
             bottom: 2px;
             width: 3px;
             background: var(--accent);
-            border-radius: 2px;
+            border-radius: 0;
         }
 
         .section-link {
@@ -397,7 +539,7 @@
             grid-auto-rows: 220px;
             gap: 2px;
             background: var(--border);
-            border-radius: 12px;
+            border-radius: 0;
             overflow: hidden;
         }
 
@@ -444,16 +586,17 @@
             color: #fff;
             background: var(--accent);
             padding: 2px 10px;
-            border-radius: 20px;
+            border-radius: 0;
             border: 1px solid rgba(255,255,255,0.12);
             margin-bottom: 6px;
         }
 
         .mag-card .mag-title {
-            font-size: 0.95rem;
+            font-size: 1.1rem;
             font-weight: 700;
             line-height: 1.3;
             color: #fff;
+            max-width: 30ch;
         }
 
         .mag-card .mag-meta {
@@ -467,7 +610,7 @@
         }
 
         .mag-card:nth-child(1) .mag-title {
-            font-size: 1.3rem;
+            font-size: 1.5rem;
         }
 
         .mag-card:nth-child(4) {
@@ -483,7 +626,7 @@
 
         .card {
             background: var(--bg-card);
-            border-radius: 12px;
+            border-radius: 0;
             overflow: hidden;
             cursor: pointer;
             transition: transform 0.3s ease, box-shadow 0.3s ease, background var(--transition);
@@ -524,7 +667,7 @@
             color: #fff;
             background: var(--accent);
             padding: 2px 10px;
-            border-radius: 20px;
+            border-radius: 0;
             border: 1px solid rgba(255,255,255,0.12);
             margin-bottom: 8px;
         }
@@ -535,6 +678,7 @@
             line-height: 1.35;
             color: var(--text);
             transition: color var(--transition);
+            max-width: 30ch;
         }
 
         .card:hover .card-title { color: var(--accent); }
@@ -550,6 +694,19 @@
             height: 1px;
             background: var(--border);
             margin: 0;
+        }
+
+        /* === TRENDING INDENTED WRAP === */
+        .trending-wrap {
+            background: #111;
+            box-shadow: inset 0 4px 12px rgba(0,0,0,0.25), inset 0 -4px 12px rgba(0,0,0,0.25);
+            margin: 0;
+            padding: 0;
+        }
+
+        [data-theme="light"] .trending-wrap {
+            background: #ecece7;
+            box-shadow: inset 0 4px 12px rgba(0,0,0,0.06), inset 0 -4px 12px rgba(0,0,0,0.06);
         }
 
         /* === CATEGORY TABS === */
@@ -603,7 +760,7 @@
             align-items: flex-start;
             padding: 16px;
             background: var(--bg-card);
-            border-radius: 12px;
+            border-radius: 0;
             border: 1px solid var(--border);
             transition: all var(--transition);
             cursor: pointer;
@@ -634,7 +791,7 @@
             color: #fff;
             background: var(--accent);
             padding: 2px 8px;
-            border-radius: 20px;
+            border-radius: 0;
             border: 1px solid rgba(255,255,255,0.12);
             margin-bottom: 6px;
         }
@@ -645,6 +802,7 @@
             line-height: 1.35;
             color: var(--text);
             transition: color var(--transition);
+            max-width: 30ch;
         }
 
         .mini-card:hover .mini-title { color: var(--accent); }
@@ -661,7 +819,7 @@
             grid-template-columns: 1fr 1fr;
             gap: 2px;
             background: var(--border);
-            border-radius: 12px;
+            border-radius: 0;
             overflow: hidden;
         }
 
@@ -709,7 +867,7 @@
         }
 
         .bbc-title {
-            font-size: 0.9rem;
+            font-size: 1rem;
             font-weight: 600;
             line-height: 1.35;
             color: var(--text);
@@ -718,6 +876,7 @@
             -webkit-line-clamp: 2;
             -webkit-box-orient: vertical;
             overflow: hidden;
+            max-width: 30ch;
         }
 
         .bbc-card:hover .bbc-title { color: var(--accent); }
@@ -785,10 +944,10 @@
 
         /* === RESPONSIVE === */
         @media (max-width: 1000px) {
-            .hero-grid { grid-template-columns: 1fr; }
-            .hero-main { min-height: 360px; }
-            .hero-side { display: grid; grid-template-columns: 1fr 1fr; gap: 2px; }
-            .hero-side-card { min-height: 200px; }
+            .hero-slider-inner { grid-template-columns: 1fr; }
+            .hero-slider-content { padding: 32px; }
+            .hero-slider-content .hero-title { font-size: 1.5rem; }
+            .hero-slider-image { min-height: 280px; }
             .magazine-grid { grid-template-columns: 1fr 1fr; }
             .mag-card:nth-child(1) { grid-row: span 1; }
             .mag-card:nth-child(4) { grid-column: span 1; }
@@ -800,18 +959,20 @@
         @media (max-width: 768px) {
             .nav { display: none; }
             .header-social { display: none; }
-            .hero-side { grid-template-columns: 1fr; }
+            .hero-slider-inner { grid-template-columns: 1fr; }
+            .hero-slider-content { padding: 24px; }
+            .hero-slider-content .hero-title { font-size: 1.3rem; }
+            .hero-slider-image { min-height: 220px; }
             .magazine-grid { grid-template-columns: 1fr; grid-auto-rows: 200px; }
             .grid-4 { grid-template-columns: repeat(2, 1fr); gap: 12px; }
             .grid-3 { grid-template-columns: 1fr; }
             .grid-2-bbc { grid-template-columns: 1fr; }
-            .hero-main .hero-title { font-size: 1.5rem; }
             .footer-grid { grid-template-columns: 1fr; gap: 24px; }
         }
 
         @media (max-width: 480px) {
             .grid-4 { grid-template-columns: 1fr; }
-            .hero-main { min-height: 280px; }
+            .hero-slider-image { min-height: 180px; }
         }
     </style>
 </head>
@@ -838,87 +999,67 @@
                     <a href="#"><i class="fab fa-youtube"></i></a>
                     <a href="#"><i class="fab fa-x-twitter"></i></a>
                 </div>
-                <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">
-                    <span class="icon-wrap">
-                        <i class="fas fa-moon"></i>
-                        <i class="fas fa-sun"></i>
-                    </span>
-                </button>
+
             </div>
         </div>
     </header>
 
-    <!-- HERO SECTION -->
-    <section class="hero">
+    <!-- HERO SLIDER (BBC In History style) -->
+    <section class="hero-slider">
         <div class="container">
-            <div class="hero-grid">
-                <a href="posts/140526-0000.html" class="hero-main">
-                    <img src="https://images.unsplash.com/photo-1511882150382-421056c89033?w=800&h=600&fit=crop" alt="">
-                    <div class="overlay"></div>
-                    <div class="hero-text">
-                        <span class="hero-tag">Breaking</span>
-                        <h1 class="hero-title">Celtic's Title Win in Chaos! McInnes Rages Over Disgusting Penalty</h1>
-                        <span class="hero-meta">Premier League · 5 min ago</span>
-                    </div>
-                </a>
-                <div class="hero-side">
-                    <a href="posts/140526-0001.html" class="hero-side-card">
-                        <img src="https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=400&h=300&fit=crop" alt="">
-                        <div class="overlay"></div>
-                        <div class="hero-text">
-                            <span class="hero-tag">Scottish Premiership</span>
-                            <h2 class="hero-title">Disgusting Penalty Decision! Celtic's Title Hopes Live On</h2>
-                            <span class="hero-meta">5 min ago</span>
-                        </div>
-                    </a>
-                    <a href="posts/140526-0002.html" class="hero-side-card">
-                        <img src="https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=400&h=300&fit=crop" alt="">
-                        <div class="overlay"></div>
-                        <div class="hero-text">
-                            <span class="hero-tag">Scottish Premiership</span>
-                            <h2 class="hero-title">Disgusting Penalty Decision! Celtic Win Title Race</h2>
-                            <span class="hero-meta">12 min ago</span>
-                        </div>
-                    </a>
+            <div class="hero-slider-inner">
+                <div class="hero-slider-content" id="heroContent">
+                    <span class="hero-tag" id="heroTag"></span>
+                    <h1 class="hero-title" id="heroTitle"></h1>
+                    <p class="hero-excerpt" id="heroExcerpt"></p>
+                    <a href="#" class="hero-readmore" id="heroLink">Read more <i class="fas fa-arrow-right"></i></a>
+                </div>
+                <div class="hero-slider-image">
+                    <img id="heroImage" src="" alt="">
+                    <button class="hero-slider-arrow prev" onclick="slideHero(-1)"><i class="fas fa-chevron-left"></i></button>
+                    <button class="hero-slider-arrow next" onclick="slideHero(1)"><i class="fas fa-chevron-right"></i></button>
+                    <div class="hero-slider-nav" id="heroDots"></div>
                 </div>
             </div>
         </div>
     </section>
 
     <!-- TRENDING / RANKED -->
-    <section class="section">
-        <div class="container">
-            <div class="section-header">
-                <h2 class="section-title">Trending Now</h2>
+    <div class="trending-wrap">
+        <section class="section">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title">Trending Now</h2>
+                </div>
+                <div class="grid-3" id="trendingGrid">
+                    <a href="posts/140526-0004.html" class="mini-card">
+                        <span class="num">01</span>
+                        <div class="mini-body">
+                            <div class="mini-tag">Serie A</div>
+                            <h3 class="mini-title">Mourinho Returns to Real Madrid! The Iron Fist Takes the Reins</h3>
+                            <div class="mini-meta">30 min ago</div>
+                        </div>
+                    </a>
+                    <a href="posts/140526-0005.html" class="mini-card">
+                        <span class="num">02</span>
+                        <div class="mini-body">
+                            <div class="mini-tag">Premier League</div>
+                            <h3 class="mini-title">Carrick for United! Man Utd Chiefs Back Michael Carrick as Permanent Boss</h3>
+                            <div class="mini-meta">40 min ago</div>
+                        </div>
+                    </a>
+                    <a href="posts/140526-0006.html" class="mini-card">
+                        <span class="num">03</span>
+                        <div class="mini-body">
+                            <div class="mini-tag">Premier League</div>
+                            <h3 class="mini-title">City Pile Pressure on Arsenal! Manchester City Close Gap to Leaders</h3>
+                            <div class="mini-meta">50 min ago</div>
+                        </div>
+                    </a>
+                </div>
             </div>
-            <div class="grid-3" id="trendingGrid">
-                <a href="posts/140526-0004.html" class="mini-card">
-                    <span class="num">01</span>
-                    <div class="mini-body">
-                        <div class="mini-tag">Serie A</div>
-                        <h3 class="mini-title">Mourinho Returns to Real Madrid! The Iron Fist Takes the Reins</h3>
-                        <div class="mini-meta">30 min ago</div>
-                    </div>
-                </a>
-                <a href="posts/140526-0005.html" class="mini-card">
-                    <span class="num">02</span>
-                    <div class="mini-body">
-                        <div class="mini-tag">Premier League</div>
-                        <h3 class="mini-title">Carrick for United! Man Utd Chiefs Back Michael Carrick as Permanent Boss</h3>
-                        <div class="mini-meta">40 min ago</div>
-                    </div>
-                </a>
-                <a href="posts/140526-0006.html" class="mini-card">
-                    <span class="num">03</span>
-                    <div class="mini-body">
-                        <div class="mini-tag">Premier League</div>
-                        <h3 class="mini-title">City Pile Pressure on Arsenal! Manchester City Close Gap to Leaders</h3>
-                        <div class="mini-meta">50 min ago</div>
-                    </div>
-                </a>
-            </div>
-        </div>
-    </section>
+        </section>
+    </div>
 
     <div class="divider"></div>
 
@@ -977,7 +1118,7 @@
         <div class="container">
             <div class="section-header">
                 <h2 class="section-title">Latest Stories</h2>
-                <a href="all-stories.html" class="section-link">See all →</a>
+                <a href="all-stories.html" class="section-link">View all →</a>
             </div>
             <div class="grid-2-bbc" id="bbcGrid">
                 <a href="posts/140526-0007.html" class="bbc-card">
@@ -1072,15 +1213,7 @@
                     <a href="index.html" class="logo">KICK<span>OFF</span></a>
                     <p>Your daily dose of football news, transfers, and match updates. Covering every league, every story, every moment.</p>
                 </div>
-                <div class="footer-col">
-                    <h4>Sections</h4>
-                    <ul>
-                        <li><a href="matches.html">Matches</a></li>
-                        <li><a href="transfers.html">Transfers</a></li>
-                        <li><a href="leagues.html">Leagues</a></li>
-                        <li><a href="rumors.html">Rumors</a></li>
-                    </ul>
-                </div>
+
                 <div class="footer-col">
                     <h4>Company</h4>
                     <ul>
@@ -1104,7 +1237,84 @@
         </div>
     </footer>
 
+    <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">
+        <span class="icon-wrap">
+            <i class="fas fa-moon"></i>
+            <i class="fas fa-sun"></i>
+        </span>
+    </button>
+
     <script>
+        // Hero slider data
+        const heroSlides = [
+            { tag: "Breaking", title: "Celtic's Title Win in Chaos! McInnes Rages Over Disgusting Penalty", excerpt: "A controversial 99th-minute penalty keeps the Scottish title race alive as Hearts' manager fumes at the decision that could decide the championship.", image: "https://images.unsplash.com/photo-1511882150382-421056c89033?w=700&h=500&fit=crop", link: "posts/140526-0000.html" },
+            { tag: "Scottish Premiership", title: "Disgusting Penalty Decision! Celtic's Title Hopes Live On", excerpt: "Celtic score a controversial late penalty to keep their title hopes alive, setting up an epic final day showdown in the Scottish Premiership.", image: "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=700&h=500&fit=crop", link: "posts/140526-0001.html" },
+            { tag: "Scottish Premiership", title: "Disgusting Penalty Decision! Celtic Win Title Race", excerpt: "The controversy continues as Celtic capitalize on the contentious decision to move within touching distance of the Scottish title.", image: "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=700&h=500&fit=crop", link: "posts/140526-0002.html" },
+            { tag: "Premier League", title: "Foden's Magic Saves City! Manchester City's Title Hopes Live On", excerpt: "Phil Foden produces a moment of brilliance to keep Manchester City's Premier League title ambitions firmly alive.", image: "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=700&h=500&fit=crop", link: "posts/140526-0003.html" },
+            { tag: "Serie A", title: "Mourinho Returns to Real Madrid! The Iron Fist Takes the Reins", excerpt: "Jose Mourinho makes a sensational return to Real Madrid, signing a three-year deal to lead the Spanish giants into a new era.", image: "https://images.unsplash.com/photo-1511882150382-421056c89033?w=700&h=500&fit=crop", link: "posts/140526-0004.html" },
+        ];
+
+        let currentHero = 0;
+        let heroTimer = null;
+        const HERO_INTERVAL = 5000;
+
+        const heroTag = document.getElementById('heroTag');
+        const heroTitle = document.getElementById('heroTitle');
+        const heroExcerpt = document.getElementById('heroExcerpt');
+        const heroLink = document.getElementById('heroLink');
+        const heroImage = document.getElementById('heroImage');
+        const heroDots = document.getElementById('heroDots');
+        const heroSlider = document.querySelector('.hero-slider');
+
+        function renderHero(index) {
+            const slide = heroSlides[index];
+            heroTag.textContent = slide.tag;
+            heroTitle.textContent = slide.title;
+            heroExcerpt.textContent = slide.excerpt;
+            heroLink.href = slide.link;
+            heroImage.src = slide.image;
+            heroImage.alt = slide.tag;
+
+            document.querySelectorAll('.hero-slider-nav .dot').forEach((dot, i) => {
+                dot.classList.toggle('active', i === index);
+            });
+        }
+
+        function slideHero(dir) {
+            currentHero = (currentHero + dir + heroSlides.length) % heroSlides.length;
+            renderHero(currentHero);
+            resetHeroTimer();
+        }
+
+        function goToHero(index) {
+            currentHero = index;
+            renderHero(currentHero);
+            resetHeroTimer();
+        }
+
+        function resetHeroTimer() {
+            if (heroTimer) clearInterval(heroTimer);
+            heroTimer = setInterval(() => slideHero(1), HERO_INTERVAL);
+        }
+
+        // Build dots
+        heroSlides.forEach((_, i) => {
+            const dot = document.createElement('div');
+            dot.className = 'dot' + (i === 0 ? ' active' : '');
+            dot.addEventListener('click', () => goToHero(i));
+            heroDots.appendChild(dot);
+        });
+
+        renderHero(0);
+        resetHeroTimer();
+
+        heroSlider.addEventListener('mouseenter', () => {
+            if (heroTimer) clearInterval(heroTimer);
+            heroTimer = null;
+        });
+
+        heroSlider.addEventListener('mouseleave', resetHeroTimer);
+
         // Theme toggle
         const html = document.documentElement;
         const toggle = document.getElementById('themeToggle');

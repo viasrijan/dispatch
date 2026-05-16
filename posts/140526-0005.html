@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     <style>
         :root {
             --bg: #161616;
@@ -28,26 +28,26 @@
         }
 
         [data-theme="light"] {
-            --bg: #f5f5f0;
-            --bg-elevated: #eee;
-            --bg-card: #fff;
-            --border: #ddd;
-            --border-light: #e5e5e5;
+            --bg: #e0e0db;
+            --bg-elevated: #d5d5d0;
+            --bg-card: #ecece7;
+            --border: #c5c5c0;
+            --border-light: #d5d5d0;
             --accent: #0e8a46;
             --accent-soft: #1a9e52;
-            --accent-dim: #0a6e38;
-            --accent-glow: rgba(14, 138, 70, 0.08);
+            --accent-dim: #0c7a3e;
+            --accent-glow: rgba(14, 138, 70, 0.1);
             --text: #1a1a1a;
-            --text-secondary: #666;
-            --text-muted: #999;
-            --shadow: rgba(0,0,0,0.08);
-            --header-bg: rgba(245, 245, 240, 0.92);
+            --text-secondary: #555;
+            --text-muted: #888;
+            --shadow: rgba(0,0,0,0.06);
+            --header-bg: rgba(224, 224, 219, 0.92);
         }
 
         *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
         html { background: var(--bg); }
         body {
-            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
             background: var(--bg);
             color: var(--text);
             line-height: 1.6;
@@ -75,22 +75,60 @@
         .logo { font-size: 1.6rem; font-weight: 900; letter-spacing: -1.5px; color: var(--accent); transition: color var(--transition); }
         .logo span { color: var(--text); }
         .nav { display: flex; gap: 28px; list-style: none; }
-        .nav a { font-size: 0.85rem; font-weight: 500; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 0.8px; transition: color var(--transition); padding: 4px 0; position: relative; }
-        .nav a::after { content: ''; position: absolute; bottom: -2px; left: 0; width: 0; height: 2px; background: var(--accent); transition: width var(--transition); }
-        .nav a:hover { color: var(--text); }
-        .nav a:hover::after { width: 100%; }
+        .nav a { font-size: 0.85rem; font-weight: 500; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 0.8px; opacity: 0.6; transition: opacity 0.4s ease, color 0.4s ease; padding: 4px 0; }
+        .nav a:hover { opacity: 1; color: var(--accent); }
         .header-right { display: flex; align-items: center; gap: 16px; }
         .header-social { display: flex; gap: 16px; align-items: center; }
         .header-social a { color: var(--text-muted); font-size: 1rem; transition: color var(--transition); }
         .header-social a:hover { color: var(--accent); }
         .theme-toggle {
-            width: 36px; height: 36px; border-radius: 10px;
-            border: 1px solid var(--border); background: var(--bg-card);
-            color: var(--text-secondary); cursor: pointer;
-            display: flex; align-items: center; justify-content: center;
-            font-size: 1rem; transition: all var(--transition);
+            position: fixed;
+            bottom: 28px;
+            right: 28px;
+            z-index: 9999;
+            width: 48px;
+            height: 48px;
+            border-radius: 50%;
+            border: 1px solid var(--border);
+            background: var(--bg-elevated);
+            color: var(--text-secondary);
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.2rem;
+            transition: all var(--transition);
+            box-shadow: 0 4px 16px var(--shadow);
+            position: relative;
+            overflow: hidden;
         }
-        .theme-toggle:hover { border-color: var(--accent); color: var(--accent); background: var(--accent-glow); }
+
+        .theme-toggle:hover {
+            border-color: var(--accent);
+            color: var(--accent);
+            background: var(--bg-card);
+        }
+
+        .theme-toggle .icon-wrap {
+            position: relative;
+            width: 20px;
+            height: 20px;
+        }
+
+        .theme-toggle .icon-wrap i {
+            position: absolute;
+            inset: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: opacity 0.4s ease;
+        }
+
+        .theme-toggle .icon-wrap .fa-moon { opacity: 1; }
+        .theme-toggle .icon-wrap .fa-sun { opacity: 0; }
+
+        [data-theme="light"] .theme-toggle .icon-wrap .fa-moon { opacity: 0; }
+        [data-theme="light"] .theme-toggle .icon-wrap .fa-sun { opacity: 1; }
 
         /* Post Layout */
         .post-wrapper {
@@ -107,7 +145,7 @@
 
         .post-image-wrap {
             flex: 0 0 360px;
-            border-radius: 12px;
+            border-radius: 0;
             overflow: hidden;
             background: var(--bg-card);
             border: 1px solid var(--border);
@@ -140,14 +178,15 @@
 
         .post-tag {
             display: inline-block;
-            font-size: 0.7rem;
+            font-size: 0.65rem;
             font-weight: 600;
             text-transform: uppercase;
-            letter-spacing: 1.5px;
-            color: var(--accent);
-            background: var(--accent-glow);
-            padding: 4px 12px;
-            border-radius: 4px;
+            letter-spacing: 1.2px;
+            color: #fff;
+            background: var(--accent);
+            padding: 3px 14px;
+            border-radius: 0;
+            border: 1px solid rgba(255,255,255,0.15);
             margin-bottom: 12px;
         }
 
@@ -164,6 +203,7 @@
             margin-bottom: 12px;
             color: var(--text);
             transition: color var(--transition);
+            max-width: 30ch;
         }
 
         .post-time {
@@ -238,9 +278,6 @@
                     <a href="#"><i class="fab fa-youtube"></i></a>
                     <a href="#"><i class="fab fa-x-twitter"></i></a>
                 </div>
-                <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">
-                    <i class="fas fa-moon"></i>
-                </button>
             </div>
         </div>
     </header>
@@ -248,7 +285,7 @@
     <article class="post-wrapper">
         <div class="post-layout">
             <div class="post-image-wrap">
-                <img src="A photo of Michael Carrick, with a determined expression." alt="Premier League">
+                <img src="https://images.unsplash.com/photo-1511882150382-421056c89033?w=700&h=440&fit=crop" alt="Premier League">
             </div>
             <div class="post-content">
                 <a href="index.html" class="back-btn"><i class="fas fa-arrow-left"></i> Back to Home</a>
@@ -260,7 +297,7 @@
                 <div class="post-time">May 14, 2026</div>
                 <div class="post-divider"></div>
                 <div class="post-body">
-                    Man Utd chiefs to recommend Carrick for permanent job
+                    POST_CONTENT
                 </div>
             </div>
         </div>
@@ -271,15 +308,6 @@
             <div class="footer-brand">
                 <a href="index.html" class="logo">KICK<span>OFF</span></a>
                 <p>Your daily dose of football news, transfers, and match updates. Covering every league, every story, every moment.</p>
-            </div>
-            <div class="footer-col">
-                <h4>Sections</h4>
-                <ul>
-                    <li><a href="matches.html">Matches</a></li>
-                    <li><a href="transfers.html">Transfers</a></li>
-                    <li><a href="leagues.html">Leagues</a></li>
-                    <li><a href="rumors.html">Rumors</a></li>
-                </ul>
             </div>
             <div class="footer-col">
                 <h4>Company</h4>
@@ -306,17 +334,21 @@
     <script>
         const html = document.documentElement;
         const toggle = document.getElementById('themeToggle');
-        const icon = toggle.querySelector('i');
         const savedTheme = localStorage.getItem('theme') || 'dark';
         html.setAttribute('data-theme', savedTheme);
-        icon.className = savedTheme === 'dark' ? 'fas fa-moon' : 'fas fa-sun';
         toggle.addEventListener('click', () => {
             const current = html.getAttribute('data-theme');
             const next = current === 'dark' ? 'light' : 'dark';
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
-            icon.className = next === 'dark' ? 'fas fa-moon' : 'fas fa-sun';
         });
     </script>
+
+    <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">
+        <span class="icon-wrap">
+            <i class="fas fa-moon"></i>
+            <i class="fas fa-sun"></i>
+        </span>
+    </button>
 </body>
 </html>

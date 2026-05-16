@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     <style>
         :root {
             --bg: #161616;
@@ -47,7 +47,7 @@
         *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
         html { background: var(--bg); }
         body {
-            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
             background: var(--bg);
             color: var(--text);
             line-height: 1.6;
@@ -75,31 +75,60 @@
         .logo { font-size: 1.6rem; font-weight: 900; letter-spacing: -1.5px; color: var(--accent); transition: color var(--transition); }
         .logo span { color: var(--text); }
         .nav { display: flex; gap: 28px; list-style: none; }
-        .nav a { font-size: 0.85rem; font-weight: 500; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 0.8px; transition: color var(--transition); padding: 4px 0; position: relative; }
-        .nav a::after { content: ''; position: absolute; bottom: -2px; left: 0; width: 0; height: 2px; background: var(--accent); transition: width var(--transition); }
-        .nav a:hover { color: var(--text); }
-        .nav a:hover::after { width: 100%; }
+        .nav a { font-size: 0.85rem; font-weight: 500; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 0.8px; opacity: 0.6; transition: opacity 0.4s ease, color 0.4s ease; padding: 4px 0; }
+        .nav a:hover { opacity: 1; color: var(--accent); }
         .header-right { display: flex; align-items: center; gap: 16px; }
         .header-social { display: flex; gap: 16px; align-items: center; }
         .header-social a { color: var(--text-muted); font-size: 1rem; transition: color var(--transition); }
         .header-social a:hover { color: var(--accent); }
         .theme-toggle {
-            width: 36px; height: 36px; border-radius: 10px;
-            border: 1px solid var(--border); background: var(--bg-card);
-            color: var(--text-secondary); cursor: pointer;
-            display: flex; align-items: center; justify-content: center;
-            font-size: 1rem; transition: all var(--transition);
-            position: relative; overflow: hidden;
+            position: fixed;
+            bottom: 28px;
+            right: 28px;
+            z-index: 9999;
+            width: 48px;
+            height: 48px;
+            border-radius: 50%;
+            border: 1px solid var(--border);
+            background: var(--bg-elevated);
+            color: var(--text-secondary);
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.2rem;
+            transition: all var(--transition);
+            box-shadow: 0 4px 16px var(--shadow);
+            position: relative;
+            overflow: hidden;
         }
-        .theme-toggle:hover { border-color: var(--accent); color: var(--accent); background: var(--accent-glow); }
+
+        .theme-toggle:hover {
+            border-color: var(--accent);
+            color: var(--accent);
+            background: var(--bg-card);
+        }
+
         .theme-toggle .icon-wrap {
-            display: flex; flex-direction: column; align-items: center;
-            transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1);
-            line-height: 1;
+            position: relative;
+            width: 20px;
+            height: 20px;
         }
-        .theme-toggle .icon-wrap i { display: block; line-height: 1; height: 16px; }
-        [data-theme="dark"] .theme-toggle .icon-wrap { transform: translateY(0); }
-        [data-theme="light"] .theme-toggle .icon-wrap { transform: translateY(-34px); }
+
+        .theme-toggle .icon-wrap i {
+            position: absolute;
+            inset: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: opacity 0.4s ease;
+        }
+
+        .theme-toggle .icon-wrap .fa-moon { opacity: 1; }
+        .theme-toggle .icon-wrap .fa-sun { opacity: 0; }
+
+        [data-theme="light"] .theme-toggle .icon-wrap .fa-moon { opacity: 0; }
+        [data-theme="light"] .theme-toggle .icon-wrap .fa-sun { opacity: 1; }
 
         /* Post Layout */
         .post-wrapper {
@@ -116,7 +145,7 @@
 
         .post-image-wrap {
             flex: 0 0 360px;
-            border-radius: 12px;
+            border-radius: 0;
             overflow: hidden;
             background: var(--bg-card);
             border: 1px solid var(--border);
@@ -156,7 +185,7 @@
             color: #fff;
             background: var(--accent);
             padding: 3px 14px;
-            border-radius: 20px;
+            border-radius: 0;
             border: 1px solid rgba(255,255,255,0.15);
             margin-bottom: 12px;
         }
@@ -174,6 +203,7 @@
             margin-bottom: 12px;
             color: var(--text);
             transition: color var(--transition);
+            max-width: 30ch;
         }
 
         .post-time {
@@ -248,12 +278,6 @@
                     <a href="#"><i class="fab fa-youtube"></i></a>
                     <a href="#"><i class="fab fa-x-twitter"></i></a>
                 </div>
-                <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">
-                    <span class="icon-wrap">
-                        <i class="fas fa-moon"></i>
-                        <i class="fas fa-sun"></i>
-                    </span>
-                </button>
             </div>
         </div>
     </header>
@@ -284,15 +308,6 @@
             <div class="footer-brand">
                 <a href="index.html" class="logo">KICK<span>OFF</span></a>
                 <p>Your daily dose of football news, transfers, and match updates. Covering every league, every story, every moment.</p>
-            </div>
-            <div class="footer-col">
-                <h4>Sections</h4>
-                <ul>
-                    <li><a href="matches.html">Matches</a></li>
-                    <li><a href="transfers.html">Transfers</a></li>
-                    <li><a href="leagues.html">Leagues</a></li>
-                    <li><a href="rumors.html">Rumors</a></li>
-                </ul>
             </div>
             <div class="footer-col">
                 <h4>Company</h4>
@@ -328,5 +343,12 @@
             localStorage.setItem('theme', next);
         });
     </script>
+
+    <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">
+        <span class="icon-wrap">
+            <i class="fas fa-moon"></i>
+            <i class="fas fa-sun"></i>
+        </span>
+    </button>
 </body>
 </html>
