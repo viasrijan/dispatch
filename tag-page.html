@@ -65,7 +65,8 @@
             backdrop-filter: blur(16px);
             -webkit-backdrop-filter: blur(16px);
             border-bottom: 1px solid var(--border);
-            transition: background var(--transition), border-color var(--transition);
+            box-shadow: 0 4px 16px var(--shadow);
+            transition: background var(--transition), border-color var(--transition), box-shadow var(--transition);
         }
         .header-inner {
             max-width: 1200px; margin: 0 auto; padding: 0 24px;
@@ -78,10 +79,16 @@
         .nav { display: flex; gap: 28px; list-style: none; }
         .nav a { font-size: 0.85rem; font-weight: 700; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 0.8px; opacity: 0.6; transition: opacity 0.4s ease, color 0.4s ease; padding: 4px 0; }
         .nav a:hover { opacity: 1; color: var(--accent); }
+
+        [data-theme="light"] .nav a { color: var(--text); opacity: 0.85; }
+        [data-theme="light"] .nav a:hover { opacity: 1; }
         .header-right { display: flex; align-items: center; gap: 16px; }
         .header-social { display: flex; gap: 16px; align-items: center; }
         .header-social a { color: var(--text-muted); font-size: 1rem; transition: color var(--transition); }
         .header-social a:hover { color: var(--accent); }
+
+        [data-theme="light"] .header-social a { color: var(--accent); opacity: 0.7; }
+        [data-theme="light"] .header-social a:hover { opacity: 1; }
         .theme-toggle {
             position: fixed;
             bottom: 28px;
@@ -106,6 +113,10 @@
 
         .theme-toggle:hover {
             background: var(--bg-card);
+        }
+
+        [data-theme="light"] .theme-toggle {
+            background: #efefea;
         }
 
         .theme-toggle .icon-wrap {
