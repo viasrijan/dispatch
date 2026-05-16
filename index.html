@@ -136,7 +136,7 @@ html {
 
         /* Featured */
         .featured {
-            padding: 60px 24px;
+            padding: 60px 0 60px 0;
         }
 
 /* Slider */
@@ -170,7 +170,7 @@ html {
         }
 
         .slide-image {
-            width: 500px;
+            width: 420px;
             height: 281px;
             flex-shrink: 0;
             overflow: hidden;
@@ -190,7 +190,7 @@ html {
             flex: 1;
             min-width: 0;
             min-height: 281px;
-            padding: 24px 28px;
+            padding: 28px 36px;
             display: flex;
             flex-direction: column;
             justify-content: center;
@@ -202,22 +202,23 @@ html {
             color: var(--text-secondary);
             text-transform: capitalize;
             letter-spacing: 0.5px;
-            margin-bottom: 10px;
+            margin-bottom: 12px;
         }
 
         .slide-title {
-            font-size: clamp(18px, 2.5vw, 30px);
+            font-size: clamp(18px, 2.2vw, 28px);
             font-weight: 700;
-            line-height: 1.15;
+            line-height: 1.25;
             color: var(--text-primary);
             margin: 0;
             word-break: break-word;
             overflow-wrap: break-word;
+            hyphens: auto;
         }
 
         .slider-arrow-wrap {
             width: 100%;
-            padding: 0 24px;
+            padding: 0;
         }
 
         .slider-arrow-inner {
@@ -225,7 +226,8 @@ html {
             margin: 0 auto;
             display: flex;
             align-items: center;
-            gap: 80px;
+            gap: 0;
+            position: relative;
         }
 
         .slider-arrow {
@@ -243,6 +245,17 @@ html {
             font-size: 16px;
             transition: all 0.25s ease;
             z-index: 10;
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+        }
+
+        .slider-arrow.prev {
+            left: -20px;
+        }
+
+        .slider-arrow.next {
+            right: -20px;
         }
 
         .slider-arrow:hover {
@@ -766,17 +779,44 @@ html {
             .footer-grid {
                 grid-template-columns: repeat(2, 1fr);
             }
-            .slider-container {
-                grid-template-columns: 1fr;
+            .slide-image {
+                width: 340px;
+            }
+            .slide-content {
+                padding: 20px 24px;
             }
             .slide-title {
-                font-size: clamp(14px, 2.5vw, 24px);
+                font-size: clamp(16px, 2.2vw, 24px);
             }
             .featured-title {
                 font-size: 0.9rem;
             }
             .mini-title, .pub-title {
                 font-size: 0.8rem;
+            }
+        }
+
+        @media (max-width: 760px) {
+            .featured {
+                padding: 40px 16px;
+            }
+            .slider-arrow {
+                display: none;
+            }
+            .slide {
+                flex-direction: column;
+                height: auto;
+            }
+            .slide-image {
+                width: 100%;
+                height: 200px;
+            }
+            .slide-content {
+                min-height: auto;
+                padding: 18px;
+            }
+            .slide-title {
+                font-size: clamp(16px, 4vw, 22px);
             }
         }
 
@@ -807,55 +847,14 @@ html {
                 overflow-x: auto;
                 gap: 16px;
             }
-            .slide-title {
-                font-size: clamp(14px, 4vw, 22px);
-            }
-            .slide-content {
-                padding: 16px;
+            .slide-image {
+                height: 180px;
             }
             .featured-title {
                 font-size: 0.9rem;
             }
             .mini-title, .pub-title {
                 font-size: 0.8rem;
-            }
-            .slider-arrow {
-                width: 40px;
-                height: 40px;
-                font-size: 18px;
-            }
-        }
-
-        @media (max-width: 760px) {
-            .slider-arrow-inner {
-                flex-direction: column;
-                align-items: stretch;
-                gap: 12px;
-            }
-            .slider-arrow-wrap {
-                padding: 0 16px;
-            }
-            .slider-container {
-                flex-direction: column;
-                align-items: stretch;
-            }
-            .slider-main {
-                width: 100%;
-            }
-            .slide {
-                flex-direction: column;
-                height: auto;
-            }
-            .slide-image {
-                width: 100%;
-                height: 220px;
-            }
-            .slide-content {
-                min-height: auto;
-                padding: 18px;
-            }
-            .slide-title {
-                font-size: clamp(18px, 5vw, 26px);
             }
         }
     </style>
@@ -959,29 +958,38 @@ html {
             document.querySelectorAll('.slide-title').forEach(title => {
                 let text = title.textContent.trim();
                 
-                // Truncate very long titles (max 12 words)
                 const words = text.split(/\s+/);
+                if (words.length < 4) {
+                    title.textContent = text;
+                    return;
+                }
+                
+                // Truncate very long titles (max 12 words)
                 if (words.length > 12) {
                     text = words.slice(0, 12).join(' ') + '...';
                 }
                 
                 const wordList = text.split(/\s+/);
-                if (wordList.length < 3) {
-                    title.textContent = text;
-                    return;
-                }
+                const total = wordList.length;
                 
-                // Find the best split point - avoid single word lines
-                let splitIndex = Math.ceil(wordList.length / 2);
+                // Split into 2 balanced lines, each with at least 2 words
+                // Try to split near the middle but ensure both lines have >= 2 words
+                let splitIndex = Math.floor(total / 2);
                 
-                // If first part would be single word, adjust
-                if (splitIndex === 1) splitIndex = 2;
-                // If second part would be single word, adjust
-                if (wordList.length - splitIndex === 1) splitIndex = wordList.length - 2;
-                
-                // Ensure we don't go below 2 words on either line
+                // Ensure minimum 2 words per line
                 if (splitIndex < 2) splitIndex = 2;
-                if (splitIndex > wordList.length - 2) splitIndex = wordList.length - 2;
+                if (total - splitIndex < 2) splitIndex = total - 2;
+                
+                // Try to split at a natural break (after punctuation or conjunction)
+                const breakWords = ['And', 'Or', 'But', 'Over', 'As', 'In', 'On', 'For', 'To', 'With', 'After', 'Before', 'While', 'The', 'A', 'An'];
+                for (let i = splitIndex - 2; i <= splitIndex + 2; i++) {
+                    if (i >= 2 && i <= total - 2) {
+                        if (breakWords.includes(wordList[i])) {
+                            splitIndex = i;
+                            break;
+                        }
+                    }
+                }
                 
                 const firstLine = wordList.slice(0, splitIndex).join(' ');
                 const secondLine = wordList.slice(splitIndex).join(' ');
