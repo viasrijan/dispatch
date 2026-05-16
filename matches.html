@@ -80,6 +80,66 @@
         </div>
     </header>
 
+    <section class="featured">
+        <div class="slider-arrow-wrap">
+            <div class="slider-arrow-inner">
+                <button class="slider-arrow prev" onclick="prevSlide()">&#10094;</button>
+                <div class="slider-container">
+                    <div class="slider-main">
+                        <div class="slider-track" id="sliderTrack">
+            <a href="posts/140526-0000.html" class="slide">
+                <div class="slide-image">
+                    <img src="A photo of Hearts coach Derek McInnes, with a red face and clenched fists, in the midst of chaos." alt="Premier League">
+                </div>
+                <div class="slide-content">
+                    <div class="slide-meta"><span style="color:#0e8a46">● 5</span> · Premier League</div>
+                    <h3 class="slide-title">Celtic's Title Win in Chaos! McInnes Rages Over Disgusting Penalty</h3>
+                </div>
+            </a>
+            <a href="posts/140526-0001.html" class="slide">
+                <div class="slide-image">
+                    <img src="A photo of a Celtic player celebrating, with a red card in the foreground." alt="Scottish Premiership">
+                </div>
+                <div class="slide-content">
+                    <div class="slide-meta"><span style="color:#0e8a46">● 5</span> · Scottish Premiership</div>
+                    <h3 class="slide-title">Disgusting Penalty Decision! Celtic's Title Hopes Live On</h3>
+                </div>
+            </a>
+            <a href="posts/140526-0002.html" class="slide">
+                <div class="slide-image">
+                    <img src="A photo of a Celtic player celebrating, with a red card in the foreground." alt="Scottish Premiership">
+                </div>
+                <div class="slide-content">
+                    <div class="slide-meta"><span style="color:#0e8a46">● 5</span> · Scottish Premiership</div>
+                    <h3 class="slide-title">Disgusting Penalty Decision! Celtic Win Title Race</h3>
+                </div>
+            </a>
+            <a href="posts/140526-0003.html" class="slide">
+                <div class="slide-image">
+                    <img src="A photo of Phil Foden, Manchester City midfielder, with a ball at his feet." alt="Premier League">
+                </div>
+                <div class="slide-content">
+                    <div class="slide-meta"><span style="color:#0e8a46">● 4</span> · Premier League</div>
+                    <h3 class="slide-title">Foden's Magic Saves City! Manchester City's Title Hopes Live On</h3>
+                </div>
+            </a>
+            <a href="posts/140526-0004.html" class="slide">
+                <div class="slide-image">
+                    <img src="A photo of Jose Mourinho, with a serious expression." alt="Serie A">
+                </div>
+                <div class="slide-content">
+                    <div class="slide-meta"><span style="color:#0e8a46">● 4</span> · Serie A</div>
+                    <h3 class="slide-title">Mourinho Returns to Real Madrid! The Iron Fist Takes the Reins</h3>
+                </div>
+            </a>
+                        </div>
+                    </div>
+                </div>
+                <button class="slider-arrow next" onclick="nextSlide()">&#10095;</button>
+            </div>
+        </div>
+    </section>
+
     <div class="page-header">
         <div class="page-header-inner">
             <a href="index.html" class="back-button"><i class="fas fa-arrow-left"></i> Back to Home</a>
@@ -149,6 +209,61 @@
                 <div class="match-info">${p.time}</div>
             </a>
         `).join('');
+    </script>
+    <script>
+        let currentSlide = 0;
+        const totalSlides = 5;
+
+        function goToSlide(index) {
+            currentSlide = index;
+            const track = document.getElementById('sliderTrack');
+            track.style.transform = 'translateX(-' + (index * 100) + '%)';
+        }
+
+        function nextSlide() {
+            currentSlide = (currentSlide + 1) % totalSlides;
+            goToSlide(currentSlide);
+        }
+
+        function prevSlide() {
+            currentSlide = (currentSlide - 1 + totalSlides) % totalSlides;
+            goToSlide(currentSlide);
+        }
+
+        function splitTitleLines() {
+            document.querySelectorAll('.slide-title').forEach(title => {
+                let text = title.textContent.trim();
+                const words = text.split(/\s+/);
+                if (words.length < 4) {
+                    title.textContent = text;
+                    return;
+                }
+                if (words.length > 12) {
+                    text = words.slice(0, 12).join(' ') + '...';
+                }
+                const wordList = text.split(/\s+/);
+                const total = wordList.length;
+                let splitIndex = Math.floor(total / 2);
+                if (splitIndex < 2) splitIndex = 2;
+                if (total - splitIndex < 2) splitIndex = total - 2;
+                const breakWords = ['And', 'Or', 'But', 'Over', 'As', 'In', 'On', 'For', 'To', 'With', 'After', 'Before', 'While', 'The', 'A', 'An'];
+                for (let i = splitIndex - 2; i <= splitIndex + 2; i++) {
+                    if (i >= 2 && i <= total - 2) {
+                        if (breakWords.includes(wordList[i])) {
+                            splitIndex = i;
+                            break;
+                        }
+                    }
+                }
+                const firstLine = wordList.slice(0, splitIndex).join(' ');
+                const secondLine = wordList.slice(splitIndex).join(' ');
+                title.innerHTML = `${firstLine}<br>${secondLine}`;
+            });
+        }
+
+        document.addEventListener('DOMContentLoaded', function() {
+            splitTitleLines();
+        });
     </script>
 </body>
 </html>
