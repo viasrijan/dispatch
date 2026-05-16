@@ -67,15 +67,12 @@
             top: 0;
             z-index: 100;
             width: 100%;
-            min-width: 1200px;
         }
 
         .top-bar-content {
             max-width: 1200px;
             width: 100%;
             margin: 0 auto;
-            width: 100%;
-            min-width: 1200px;
             display: flex;
             justify-content: space-between;
             align-items: center;
@@ -86,6 +83,7 @@
             font-weight: 800;
             letter-spacing: -1px;
             color: #0e8a46;
+            flex-shrink: 0;
         }
 
         .nav-menu {
@@ -109,6 +107,7 @@
             display: flex;
             gap: 24px;
             align-items: center;
+            flex-shrink: 0;
         }
 
         .nav-right a {
@@ -119,42 +118,162 @@
 
         .nav-right a:hover.fa-instagram { color: #E4405F; }
         .nav-right a:hover.fa-youtube { color: #FF0000; }
-        .nav-right a:hover.fa-x-twitter { color: #000000; }
+        .nav-right a:hover.fa-x-twitter { color: #ffffff; }
 
-        /* Hero Image */
-        .hero-section {
-            max-width: 1200px;
-            width: 100%;
-            margin: 0 auto;
+        /* Slider */
+        .featured {
+            padding: 60px 0 60px 0;
+        }
+
+        .slider-container {
+            flex: 1;
+            min-width: 0;
             padding: 0;
+            box-sizing: border-box;
         }
 
-        .hero-image {
-            width: 100%;
-            min-width: 1200px;
-            height: 450px;
+        .slider-main {
             overflow: hidden;
-            position: relative;
+            border-radius: 12px;
+            width: 100%;
+            min-width: 0;
+            flex: 1 1 auto;
         }
 
-        .hero-image img {
+        .slider-track {
+            display: flex;
+            transition: transform 0.5s ease;
+        }
+
+        .slide {
+            display: flex;
             width: 100%;
-            min-width: 1200px;
+            min-width: 100%;
+            height: 281px;
+            flex-shrink: 0;
+            background: var(--surface);
+        }
+
+        .slide-image {
+            width: 420px;
+            height: 281px;
+            flex-shrink: 0;
+            overflow: hidden;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: var(--surface);
+        }
+
+        .slide-image img {
+            width: 100%;
             height: 100%;
             object-fit: cover;
         }
 
+        .slide-content {
+            flex: 1;
+            min-width: 0;
+            min-height: 281px;
+            padding: 28px 36px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            background: var(--surface);
+        }
+
+        .slide-meta {
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            text-transform: capitalize;
+            letter-spacing: 0.5px;
+            margin-bottom: 12px;
+        }
+
+        .slide-title {
+            font-size: clamp(18px, 2.2vw, 28px);
+            font-weight: 700;
+            line-height: 1.25;
+            color: var(--text-primary);
+            margin: 0;
+            word-break: break-word;
+            overflow-wrap: break-word;
+            hyphens: auto;
+        }
+
+        .slider-arrow-wrap {
+            width: 100%;
+            padding: 0;
+        }
+
+        .slider-arrow-inner {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            gap: 0;
+            position: relative;
+        }
+
+        .slider-arrow {
+            width: 40px;
+            height: 40px;
+            flex-shrink: 0;
+            border-radius: 50%;
+            background: rgba(14, 138, 70, 0.95);
+            border: 1px solid rgba(14, 138, 70, 0.95);
+            color: #ffffff;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 16px;
+            transition: all 0.25s ease;
+            z-index: 10;
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+        }
+
+        .slider-arrow.prev {
+            left: -20px;
+        }
+
+        .slider-arrow.next {
+            right: -20px;
+        }
+
         /* Article Container */
         .article-container {
-            max-width: 800px;
+            max-width: 1200px;
             margin: 0 auto;
-            padding: 32px 24px;
+            padding: 0 24px 60px;
         }
 
         .post-layout {
             display: flex;
-            flex-direction: column;
+            gap: 40px;
             align-items: flex-start;
+        }
+
+        .post-image-wrap {
+            flex: 0 0 340px;
+            border-radius: 12px;
+            overflow: hidden;
+            background: var(--surface);
+        }
+
+        .post-image-wrap img {
+            width: 100%;
+            height: auto;
+            display: block;
+            aspect-ratio: 16/10;
+            object-fit: cover;
+        }
+
+        .post-content {
+            flex: 1;
+            min-width: 0;
         }
 
         .back-btn {
@@ -168,6 +287,7 @@
             font-size: 0.85rem;
             font-weight: 600;
             transition: background 0.3s, color 0.3s, transform 0.2s;
+            margin-bottom: 20px;
         }
 
         .back-btn:hover {
@@ -189,14 +309,9 @@
             gap: 12px;
         }
 
-        .post-content {
-            width: 100%;
-            min-width: 1200px;
-        }
-
         /* Article Header */
         .article-header {
-            padding: 0 0 32px 0;
+            padding: 0 0 24px 0;
             border-bottom: 1px solid var(--border);
         }
 
@@ -224,7 +339,7 @@
         }
 
         .article-title {
-            font-size: 2.5rem;
+            font-size: 2.2rem;
             font-weight: 700;
             line-height: 1.2;
             margin-bottom: 16px;
@@ -238,7 +353,7 @@
 
         /* Article Content */
         .article-content {
-            padding: 32px 0;
+            padding: 24px 0;
             font-size: 1.1rem;
             line-height: 1.8;
             color: var(--text-primary);
@@ -288,7 +403,6 @@
             background: #000000;
             border-top: 1px solid var(--border);
             width: 100%;
-            min-width: 1200px;
         }
 
         .site-footer-content {
@@ -300,23 +414,23 @@
         .footer-grid {
             display: grid;
             grid-template-columns: 2fr 1fr 1fr 1fr;
-            gap: 48px;
-        }
-
-        .footer-brand .logo {
-            margin-bottom: 16px;
+            gap: 60px;
+            margin-bottom: 60px;
         }
 
         .footer-brand p {
-            color: var(--text-muted);
-            font-size: 0.9rem;
+            color: var(--text-secondary);
+            margin-top: 16px;
+            font-size: 0.95rem;
+            max-width: 300px;
         }
 
         .footer-column h4 {
-            color: var(--text-primary);
-            margin-bottom: 16px;
             font-size: 0.9rem;
-            text-transform: uppercase;
+            font-weight: 700;
+            margin-bottom: 20px;
+            text-transform: capitalize;
+            letter-spacing: 0.5px;
         }
 
         .footer-column ul {
@@ -324,17 +438,17 @@
         }
 
         .footer-column li {
-            margin-bottom: 8px;
+            margin-bottom: 12px;
         }
 
         .footer-column a {
-            color: var(--text-muted);
+            color: var(--text-secondary);
             font-size: 0.9rem;
-            transition: color 0.3s;
+            transition: color 0.3s ease;
         }
 
         .footer-column a:hover {
-            color: var(--accent);
+            color: var(--text-primary);
         }
 
         .footer-bottom {
@@ -360,15 +474,56 @@
 
         .footer-social a:hover.fa-instagram { color: #E4405F; }
         .footer-social a:hover.fa-youtube { color: #FF0000; }
-        .footer-social a:hover.fa-x-twitter { color: #000000; }
+        .footer-social a:hover.fa-x-twitter { color: #ffffff; }
 
         /* Responsive */
+        @media (max-width: 1000px) {
+            .post-layout {
+                flex-direction: column;
+            }
+            .post-image-wrap {
+                flex: none;
+                width: 100%;
+                max-width: 400px;
+            }
+            .footer-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+            .slide-image {
+                width: 340px;
+            }
+            .slide-content {
+                padding: 20px 24px;
+            }
+            .slide-title {
+                font-size: clamp(16px, 2.2vw, 24px);
+            }
+        }
+
         @media (max-width: 768px) {
-            .hero-image {
-                height: 250px;
+            .featured {
+                padding: 40px 16px;
+            }
+            .slider-arrow {
+                display: none;
+            }
+            .slide {
+                flex-direction: column;
+                height: auto;
+            }
+            .slide-image {
+                width: 100%;
+                height: 200px;
+            }
+            .slide-content {
+                min-height: auto;
+                padding: 18px;
+            }
+            .slide-title {
+                font-size: clamp(16px, 4vw, 22px);
             }
             .article-title {
-                font-size: 1.8rem;
+                font-size: 1.6rem;
             }
             .footer-grid {
                 grid-template-columns: 1fr;
@@ -386,11 +541,11 @@
             <a href="https://viasrijan.github.io/dispatch/" class="logo">KICKOFF</a>
             <nav>
                 <ul class="nav-menu">
-                    <li><a href="index.html">Matches</a></li>
-                    <li><a href="index.html">Transfers</a></li>
-                    <li><a href="index.html">Leagues</a></li>
-                    <li><a href="index.html">Rumors</a></li>
-                    <li><a href="index.html">Contact</a></li>
+                    <li><a href="matches.html">Matches</a></li>
+                    <li><a href="transfers.html">Transfers</a></li>
+                    <li><a href="leagues.html">Leagues</a></li>
+                    <li><a href="rumors.html">Rumors</a></li>
+                    <li><a href="contact.html">Contact</a></li>
                 </ul>
             </nav>
             <div class="nav-right">
@@ -401,44 +556,87 @@
         </div>
     </header>
 
-    <div class="hero-section">
-        <div class="hero-image">
-            <img src="https://images.unsplash.com/photo-1560272564-c8304700f87c?w=1024&h=768&fit=crop" alt="Premier League">
+    <section class="featured">
+        <div class="slider-arrow-wrap">
+            <div class="slider-arrow-inner">
+                <button class="slider-arrow prev" onclick="prevSlide()">&#10094;</button>
+                <div class="slider-container">
+                    <div class="slider-main">
+                        <div class="slider-track" id="sliderTrack">
+                            <div class="slide">
+                                <div class="slide-image">
+                                    <img src="A photo of a football stadium, with a red flag in the foreground." alt="Championship">
+                                </div>
+                                <div class="slide-content">
+                                    <div class="slide-meta">NEWS • Championship</div>
+                                    <h2 class="slide-title">**Spygate Scandal: Could Southampton Be Kicked Out of Play-Offs?**</h2>
+                                </div>
+                            </div>
+                            <div class="slide">
+                                <div class="slide-image">
+                                    <img src="A photo of a football stadium, with a red flag in the foreground." alt="Championship">
+                                </div>
+                                <div class="slide-content">
+                                    <div class="slide-meta">NEWS • Championship</div>
+                                    <h2 class="slide-title">**Spygate Scandal: Could Southampton Be Kicked Out of Play-Offs?**</h2>
+                                </div>
+                            </div>
+                            <div class="slide">
+                                <div class="slide-image">
+                                    <img src="A photo of a football stadium, with a red flag in the foreground." alt="Championship">
+                                </div>
+                                <div class="slide-content">
+                                    <div class="slide-meta">NEWS • Championship</div>
+                                    <h2 class="slide-title">**Spygate Scandal: Could Southampton Be Kicked Out of Play-Offs?**</h2>
+                                </div>
+                            </div>
+                            <div class="slide">
+                                <div class="slide-image">
+                                    <img src="A photo of a football stadium, with a red flag in the foreground." alt="Championship">
+                                </div>
+                                <div class="slide-content">
+                                    <div class="slide-meta">NEWS • Championship</div>
+                                    <h2 class="slide-title">**Spygate Scandal: Could Southampton Be Kicked Out of Play-Offs?**</h2>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <button class="slider-arrow next" onclick="nextSlide()">&#10095;</button>
+            </div>
         </div>
-    </div>
+    </section>
 
     <div class="article-container">
         <div class="post-layout">
-        <div class="post-content">
-            <div class="article-header">
-                <div class="header-row">
-                    <a href="https://viasrijan.github.io/dispatch/" class="back-btn">
-                        <i class="fas fa-arrow-left"></i> Back
-                    </a>
+            <div class="post-image-wrap">
+                <img src="A photo of a football stadium, with a red flag in the foreground." alt="Championship">
+            </div>
+            <div class="post-content">
+                <a href="https://viasrijan.github.io/dispatch/" class="back-btn">
+                    <i class="fas fa-arrow-left"></i> Back
+                </a>
+                <div class="article-header">
                     <div class="meta-row">
-                        <span class="article-tag">FEATURED</span>
-                        <span class="article-category">Premier League</span>
+                        <span class="article-tag">NEWS</span>
+                        <span class="article-category">Championship</span>
                     </div>
+                    <h1 class="article-title">**Spygate Scandal: Could Southampton Be Kicked Out of Play-Offs?**</h1>
+                    <div class="article-time">May 14, 2026</div>
                 </div>
-                <h1 class="article-title">Carrick For United! Man Utd Chiefs Back Michael Carrick As Permanent Boss</h1>
-                <div class="article-time">Just now</div>
-            </div>
 
-            <div class="article-content">
-                
-            <p>Carrick For United! Man Utd Chiefs Back Michael Carrick As Permanent Boss</p>
-            <p>This is a developing story. Premier League continues to make headlines as the season progresses.</p>
-            <p>Stay tuned to KICKOFF for the latest updates on this story and more football news.</p>
-            
-            </div>
+                <div class="article-content">
+                    Could Southampton be kicked out of play-offs over Spygate?
+                </div>
 
-            <div class="share-section">
-                <span class="share-label">Share this article:</span>
-                <div class="share-buttons">
-                    <a href="#" class="share-btn"><i class="fab fa-x-twitter"></i></a>
-                    <a href="#" class="share-btn"><i class="fab fa-facebook-f"></i></a>
-                    <a href="#" class="share-btn"><i class="fab fa-whatsapp"></i></a>
-                    <a href="#" class="share-btn"><i class="fas fa-link"></i></a>
+                <div class="share-section">
+                    <span class="share-label">Share this article:</span>
+                    <div class="share-buttons">
+                        <a href="#" class="share-btn"><i class="fab fa-x-twitter"></i></a>
+                        <a href="#" class="share-btn"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#" class="share-btn"><i class="fab fa-whatsapp"></i></a>
+                        <a href="#" class="share-btn"><i class="fas fa-link"></i></a>
+                    </div>
                 </div>
             </div>
         </div>
@@ -477,7 +675,7 @@
             </div>
         </div>
         <div class="footer-bottom">
-            <p>&copy; 2026 KICKOFF Football News. All rights reserved.</p>
+            <p>© 2026 KICKOFF Football News. All rights reserved.</p>
             <div class="footer-social">
                 <a href="#"><i class="fab fa-instagram"></i></a>
                 <a href="#"><i class="fab fa-youtube"></i></a>
@@ -488,19 +686,25 @@
     </footer>
 
     <script>
-        // Simple share functionality
-        document.querySelectorAll('.share-btn').forEach(btn => {
-            btn.addEventListener('click', function(e) {
-                e.preventDefault();
-                alert('Share functionality would go here');
-            });
-        });
-    </script>
-</body>
-</html>
+        let currentSlide = 0;
+        const totalSlides = 4;
 
-    <script>
-        // Simple share functionality
+        function goToSlide(index) {
+            currentSlide = index;
+            const track = document.getElementById('sliderTrack');
+            track.style.transform = 'translateX(-' + (index * 100) + '%)';
+        }
+
+        function nextSlide() {
+            currentSlide = (currentSlide + 1) % totalSlides;
+            goToSlide(currentSlide);
+        }
+
+        function prevSlide() {
+            currentSlide = (currentSlide - 1 + totalSlides) % totalSlides;
+            goToSlide(currentSlide);
+        }
+
         document.querySelectorAll('.share-btn').forEach(btn => {
             btn.addEventListener('click', function(e) {
                 e.preventDefault();
