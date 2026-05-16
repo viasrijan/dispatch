@@ -59,7 +59,6 @@
 
         a { text-decoration: none; color: inherit; }
         img { max-width: 100%; display: block; }
-        .hero-title, .hero-side-card .hero-title, .mag-title, .card-title, .mini-title, .bbc-title, .post-title, .story-title, .post-card-title { text-align: justify; text-wrap: pretty; }
 
         .container {
             max-width: 1200px;
@@ -193,7 +192,7 @@
         [data-theme="light"] .theme-toggle .icon-wrap .fa-sun { opacity: 1; }
 
 
-        /* === HERO SLIDER (BBC In History style) === */
+        /* === HERO SLIDER (Modern editorial) === */
         .hero-slider {
             padding: 100px 0 0;
             position: relative;
@@ -209,25 +208,25 @@
             align-items: stretch;
         }
 
+        /* Thick green accent bar at top of content */
         .hero-slider-content {
             display: flex;
             flex-direction: column;
             justify-content: center;
-            padding: 48px;
+            padding: 48px 48px 40px;
             height: 100%;
+            position: relative;
+            border-top: 4px solid var(--accent);
         }
 
-        .hero-slider-content .hero-tag {
-            display: inline-block;
-            font-size: 0.65rem;
+        /* Date badge above everything */
+        .hero-slider-content .hero-date {
+            font-size: 0.75rem;
             font-weight: 600;
             text-transform: uppercase;
-            letter-spacing: 1.2px;
-            color: #fff;
-            background: var(--accent);
-            padding: 3px 14px;
-            margin-bottom: 16px;
-            align-self: flex-start;
+            letter-spacing: 1px;
+            color: var(--text-muted);
+            margin-bottom: 8px;
         }
 
         .hero-slider-content .hero-title {
@@ -260,11 +259,21 @@
 
         .hero-slider-content .hero-readmore:hover { color: var(--text); }
 
+        /* Image column */
         .hero-slider-image {
             position: relative;
             overflow: hidden;
             background: var(--bg-elevated);
             min-height: 440px;
+        }
+
+        /* Diagonal gradient overlay for drama */
+        .hero-image-overlay {
+            position: absolute;
+            inset: 0;
+            z-index: 2;
+            background: linear-gradient(135deg, rgba(0,0,0,0.55) 0%, transparent 50%);
+            pointer-events: none;
         }
 
         .hero-slider-image img {
@@ -278,19 +287,41 @@
 
         .hero-slider:hover .hero-slider-image img { transform: scale(1.03); }
 
-        .hero-slider-nav {
+        /* Tag pill overlaid on image top-left */
+        .hero-slider-image .hero-tag {
             position: absolute;
-            bottom: 24px;
-            left: 50%;
-            transform: translateX(-50%);
-            display: flex;
-            gap: 10px;
+            top: 20px;
+            left: 20px;
             z-index: 5;
+            display: inline-block;
+            font-size: 0.65rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1.2px;
+            color: #fff;
+            background: var(--accent);
+            padding: 4px 14px;
+        }
+
+        /* Navigation wrap: dots + counter */
+        .hero-slider-nav-wrap {
+            position: absolute;
+            bottom: 20px;
+            left: 20px;
+            z-index: 5;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .hero-slider-nav {
+            display: flex;
+            gap: 8px;
         }
 
         .hero-slider-nav .dot {
-            width: 10px;
-            height: 10px;
+            width: 8px;
+            height: 8px;
             border-radius: 50%;
             background: rgba(255,255,255,0.5);
             border: none;
@@ -299,6 +330,13 @@
         }
 
         .hero-slider-nav .dot.active { background: var(--accent); }
+
+        .hero-counter {
+            font-size: 0.75rem;
+            font-weight: 600;
+            color: rgba(255,255,255,0.7);
+            letter-spacing: 0.5px;
+        }
 
         .hero-slider-arrow {
             position: absolute;
@@ -984,16 +1022,21 @@
         <div class="container">
             <div class="hero-slider-inner">
                 <div class="hero-slider-content" id="heroContent">
-                    <span class="hero-tag" id="heroTag"></span>
+                    <span class="hero-date" id="heroDate"></span>
                     <h1 class="hero-title" id="heroTitle"></h1>
                     <p class="hero-excerpt" id="heroExcerpt"></p>
                     <a href="#" class="hero-readmore" id="heroLink">Read more <i class="fas fa-arrow-right"></i></a>
                 </div>
                 <div class="hero-slider-image">
+                    <span class="hero-tag" id="heroTag"></span>
+                    <div class="hero-image-overlay"></div>
                     <img id="heroImage" src="" alt="">
                     <button class="hero-slider-arrow prev" onclick="slideHero(-1)"><i class="fas fa-chevron-left"></i></button>
                     <button class="hero-slider-arrow next" onclick="slideHero(1)"><i class="fas fa-chevron-right"></i></button>
-                    <div class="hero-slider-nav" id="heroDots"></div>
+                    <div class="hero-slider-nav-wrap">
+                        <div class="hero-slider-nav" id="heroDots"></div>
+                        <span class="hero-counter" id="heroCounter"></span>
+                    </div>
                 </div>
             </div>
         </div>
@@ -1239,7 +1282,14 @@
         const heroLink = document.getElementById('heroLink');
         const heroImage = document.getElementById('heroImage');
         const heroDots = document.getElementById('heroDots');
+        const heroCounter = document.getElementById('heroCounter');
+        const heroDate = document.getElementById('heroDate');
         const heroSlider = document.querySelector('.hero-slider');
+
+        // Set the "On this day" date
+        const now = new Date();
+        const months = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+        heroDate.textContent = `On this day — ${months[now.getMonth()]} ${now.getDate()}`;
 
         function renderHero(index) {
             const slide = heroSlides[index];
@@ -1249,6 +1299,7 @@
             heroLink.href = slide.link;
             heroImage.src = slide.image;
             heroImage.alt = slide.tag;
+            heroCounter.textContent = `${index + 1} / ${heroSlides.length}`;
 
             document.querySelectorAll('.hero-slider-nav .dot').forEach((dot, i) => {
                 dot.classList.toggle('active', i === index);
