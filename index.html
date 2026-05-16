@@ -204,11 +204,11 @@
             min-height: 440px;
             background: var(--bg-card);
             border: 1px solid var(--border);
+            border-top: 4px solid var(--accent);
             overflow: hidden;
             align-items: stretch;
         }
 
-        /* Thick green accent bar at top of content */
         .hero-slider-content {
             display: flex;
             flex-direction: column;
@@ -216,7 +216,6 @@
             padding: 48px 48px 40px;
             height: 100%;
             position: relative;
-            border-top: 4px solid var(--accent);
         }
 
         /* Date badge above everything */
@@ -287,11 +286,11 @@
 
         .hero-slider:hover .hero-slider-image img { transform: scale(1.03); }
 
-        /* Tag pill overlaid on image top-left */
+        /* Tag pill overlaid on image top-right */
         .hero-slider-image .hero-tag {
             position: absolute;
             top: 20px;
-            left: 20px;
+            right: 20px;
             z-index: 5;
             display: inline-block;
             font-size: 0.65rem;
@@ -811,7 +810,7 @@
 
         .mini-card .mini-title {
             font-size: 0.9rem;
-            font-weight: 600;
+            font-weight: 400;
             line-height: 1.35;
             color: var(--text);
             transition: color var(--transition);
@@ -826,78 +825,38 @@
             margin-top: 4px;
         }
 
-        /* === BBC-STYLE LATEST GRID === */
-        .grid-2-bbc {
+        /* === LATEST STORIES 3×3 TITLE GRID === */
+        .story-grid-3x3 {
             display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 2px;
-            background: var(--border);
-            border-radius: 0;
-            overflow: hidden;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 12px;
         }
 
-        .bbc-card {
-            display: flex;
-            gap: 16px;
-            align-items: center;
-            padding: 16px 20px;
+        .story-tile {
+            display: block;
+            padding: 18px 20px;
             background: var(--bg-card);
+            border: 1px solid var(--border);
             cursor: pointer;
-            transition: background var(--transition);
+            transition: all var(--transition);
         }
 
-        .bbc-card:hover {
-            background: var(--bg-elevated);
+        .story-tile:hover {
+            border-color: var(--accent);
         }
 
-        .bbc-thumb {
-            width: 80px;
-            height: 80px;
-            border-radius: 8px;
-            overflow: hidden;
-            flex-shrink: 0;
-            background: var(--bg-elevated);
-        }
-
-        .bbc-thumb img {
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
-            transition: transform 0.4s ease;
-        }
-
-        .bbc-card:hover .bbc-thumb img { transform: scale(1.08); }
-
-        .bbc-body { flex: 1; min-width: 0; }
-
-        .bbc-tag {
-            font-size: 0.6rem;
-            font-weight: 600;
-            text-transform: uppercase;
-            letter-spacing: 0.8px;
-            color: var(--accent);
-            margin-bottom: 4px;
-        }
-
-        .bbc-title {
-            font-size: 1rem;
-            font-weight: 600;
-            line-height: 1.35;
-            color: var(--text);
+        .story-tile .story-tile-title {
+            font-size: 0.9rem;
+            font-weight: 300;
+            line-height: 1.5;
+            color: var(--text-secondary);
             transition: color var(--transition);
-            display: -webkit-box;
-            -webkit-line-clamp: 2;
-            -webkit-box-orient: vertical;
-            overflow: hidden;
-            max-width: 30ch;
+            max-width: 24ch;
         }
 
-        .bbc-card:hover .bbc-title { color: var(--accent); }
-
-        .bbc-meta {
-            font-size: 0.72rem;
-            color: var(--text-muted);
-            margin-top: 4px;
+        .story-tile:hover .story-tile-title {
+            color: var(--accent);
+        }
         }
 
         /* === FOOTER === */
@@ -965,7 +924,7 @@
             .mag-card:nth-child(1) { grid-row: span 1; }
             .mag-card:nth-child(4) { grid-column: span 1; }
             .grid-4 { grid-template-columns: repeat(2, 1fr); }
-            .grid-2-bbc { grid-template-columns: 1fr; }
+            .story-grid-3x3 { grid-template-columns: repeat(2, 1fr); }
             .footer-grid { grid-template-columns: repeat(2, 1fr); gap: 40px; }
         }
 
@@ -979,7 +938,7 @@
             .magazine-grid { grid-template-columns: 1fr; grid-auto-rows: 200px; }
             .grid-4 { grid-template-columns: repeat(2, 1fr); gap: 12px; }
             .grid-3 { grid-template-columns: 1fr; }
-            .grid-2-bbc { grid-template-columns: 1fr; }
+            .story-grid-3x3 { grid-template-columns: 1fr; }
             .footer-grid { grid-template-columns: 1fr; gap: 24px; }
         }
 
@@ -1138,86 +1097,33 @@
                 <h2 class="section-title">Latest Stories</h2>
                 <a href="all-stories.html" class="section-link">View all →</a>
             </div>
-            <div class="grid-2-bbc" id="bbcGrid">
-                <a href="posts/140526-0007.html" class="bbc-card">
-                    <div class="bbc-thumb">
-                        <img src="https://images.unsplash.com/photo-1511882150382-421056c89033?w=160&h=160&fit=crop" alt="">
-                    </div>
-                    <div class="bbc-body">
-                        <div class="bbc-tag">Scottish Premiership</div>
-                        <h3 class="bbc-title">Hearts Move Within Point of Title! Hearts Beat Falkirk 3-0</h3>
-                        <div class="bbc-meta">1 hour ago</div>
-                    </div>
+            <div class="story-grid-3x3">
+                <a href="posts/140526-0007.html" class="story-tile">
+                    <h3 class="story-tile-title">Hearts Move Within Point of Title! Hearts Beat Falkirk 3-0</h3>
                 </a>
-                <a href="posts/140526-0008.html" class="bbc-card">
-                    <div class="bbc-thumb">
-                        <img src="https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=160&h=160&fit=crop" alt="">
-                    </div>
-                    <div class="bbc-body">
-                        <div class="bbc-tag">Champions League</div>
-                        <h3 class="bbc-title">Arsenal's WSL and Champions League Struggles: What Went Wrong</h3>
-                        <div class="bbc-meta">2 hours ago</div>
-                    </div>
+                <a href="posts/140526-0008.html" class="story-tile">
+                    <h3 class="story-tile-title">Arsenal's WSL and Champions League Struggles: What Went Wrong</h3>
                 </a>
-                <a href="posts/140526-0009.html" class="bbc-card">
-                    <div class="bbc-thumb">
-                        <img src="https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=160&h=160&fit=crop" alt="">
-                    </div>
-                    <div class="bbc-body">
-                        <div class="bbc-tag">Championship</div>
-                        <h3 class="bbc-title">Spygate Scandal: Could Southampton Be Kicked Out of Play-Offs?</h3>
-                        <div class="bbc-meta">3 hours ago</div>
-                    </div>
+                <a href="posts/140526-0009.html" class="story-tile">
+                    <h3 class="story-tile-title">Spygate Scandal: Could Southampton Be Kicked Out of Play-Offs?</h3>
                 </a>
-                <a href="posts/140526-0010.html" class="bbc-card">
-                    <div class="bbc-thumb">
-                        <img src="https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=160&h=160&fit=crop" alt="">
-                    </div>
-                    <div class="bbc-body">
-                        <div class="bbc-tag">Premier League</div>
-                        <h3 class="bbc-title">Levy's Shock Relegation Warning! Spurs Chief Daniel Levy Admits Fear</h3>
-                        <div class="bbc-meta">4 hours ago</div>
-                    </div>
+                <a href="posts/140526-0010.html" class="story-tile">
+                    <h3 class="story-tile-title">Levy's Shock Relegation Warning! Spurs Chief Daniel Levy Admits Fear</h3>
                 </a>
-                <a href="posts/140526-0011.html" class="bbc-card">
-                    <div class="bbc-thumb">
-                        <img src="https://images.unsplash.com/photo-1511882150382-421056c89033?w=160&h=160&fit=crop" alt="">
-                    </div>
-                    <div class="bbc-body">
-                        <div class="bbc-tag">Premier League</div>
-                        <h3 class="bbc-title">Arsenal's WSL and Champions League Struggles Continue</h3>
-                        <div class="bbc-meta">5 hours ago</div>
-                    </div>
+                <a href="posts/140526-0011.html" class="story-tile">
+                    <h3 class="story-tile-title">Arsenal's WSL and Champions League Struggles Continue</h3>
                 </a>
-                <a href="posts/140526-0012.html" class="bbc-card">
-                    <div class="bbc-thumb">
-                        <img src="https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=160&h=160&fit=crop" alt="">
-                    </div>
-                    <div class="bbc-body">
-                        <div class="bbc-tag">La Liga</div>
-                        <h3 class="bbc-title">Barcelona Target Haaland as Summer Priority Signing</h3>
-                        <div class="bbc-meta">6 hours ago</div>
-                    </div>
+                <a href="posts/140526-0012.html" class="story-tile">
+                    <h3 class="story-tile-title">Barcelona Target Haaland as Summer Priority Signing</h3>
                 </a>
-                <a href="posts/140526-0013.html" class="bbc-card">
-                    <div class="bbc-thumb">
-                        <img src="https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=160&h=160&fit=crop" alt="">
-                    </div>
-                    <div class="bbc-body">
-                        <div class="bbc-tag">Serie A</div>
-                        <h3 class="bbc-title">Juventus Eye Shock Move for Manchester United Outcast</h3>
-                        <div class="bbc-meta">7 hours ago</div>
-                    </div>
+                <a href="posts/140526-0013.html" class="story-tile">
+                    <h3 class="story-tile-title">Juventus Eye Shock Move for Manchester United Outcast</h3>
                 </a>
-                <a href="posts/140526-0014.html" class="bbc-card">
-                    <div class="bbc-thumb">
-                        <img src="https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=160&h=160&fit=crop" alt="">
-                    </div>
-                    <div class="bbc-body">
-                        <div class="bbc-tag">Champions League</div>
-                        <h3 class="bbc-title">Real Madrid to Swoop for Liverpool Star in Cut-Price Deal</h3>
-                        <div class="bbc-meta">8 hours ago</div>
-                    </div>
+                <a href="posts/140526-0014.html" class="story-tile">
+                    <h3 class="story-tile-title">Real Madrid to Swoop for Liverpool Star in Cut-Price Deal</h3>
+                </a>
+                <a href="posts/140526-0000.html" class="story-tile">
+                    <h3 class="story-tile-title">Celtic's Title Win in Chaos! McInnes Rages Over Disgusting Penalty</h3>
                 </a>
             </div>
         </div>
@@ -1265,11 +1171,11 @@
     <script>
         // Hero slider data
         const heroSlides = [
-            { tag: "Breaking", title: "Celtic's Title Win in Chaos! McInnes Rages Over Disgusting Penalty", excerpt: "A controversial 99th-minute penalty keeps the Scottish title race alive as Hearts' manager fumes at the decision that could decide the championship.", image: "https://images.unsplash.com/photo-1511882150382-421056c89033?w=700&h=500&fit=crop", link: "posts/140526-0000.html" },
-            { tag: "Scottish Premiership", title: "Disgusting Penalty Decision! Celtic's Title Hopes Live On", excerpt: "Celtic score a controversial late penalty to keep their title hopes alive, setting up an epic final day showdown in the Scottish Premiership.", image: "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=700&h=500&fit=crop", link: "posts/140526-0001.html" },
-            { tag: "Scottish Premiership", title: "Disgusting Penalty Decision! Celtic Win Title Race", excerpt: "The controversy continues as Celtic capitalize on the contentious decision to move within touching distance of the Scottish title.", image: "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=700&h=500&fit=crop", link: "posts/140526-0002.html" },
-            { tag: "Premier League", title: "Foden's Magic Saves City! Manchester City's Title Hopes Live On", excerpt: "Phil Foden produces a moment of brilliance to keep Manchester City's Premier League title ambitions firmly alive.", image: "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=700&h=500&fit=crop", link: "posts/140526-0003.html" },
-            { tag: "Serie A", title: "Mourinho Returns to Real Madrid! The Iron Fist Takes the Reins", excerpt: "Jose Mourinho makes a sensational return to Real Madrid, signing a three-year deal to lead the Spanish giants into a new era.", image: "https://images.unsplash.com/photo-1511882150382-421056c89033?w=700&h=500&fit=crop", link: "posts/140526-0004.html" },
+            { tag: "Breaking", title: "Celtic's Title Win in Chaos! McInnes Rages Over Disgusting Penalty", excerpt: "A controversial 99th-minute penalty keeps the Scottish title race alive as Hearts' manager fumes at the decision that could decide the championship.", image: "https://images.unsplash.com/photo-1511882150382-421056c89033?w=700&h=500&fit=crop", link: "posts/140526-0000.html", date: "2026-05-16" },
+            { tag: "Scottish Premiership", title: "Disgusting Penalty Decision! Celtic's Title Hopes Live On", excerpt: "Celtic score a controversial late penalty to keep their title hopes alive, setting up an epic final day showdown in the Scottish Premiership.", image: "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=700&h=500&fit=crop", link: "posts/140526-0001.html", date: "2026-05-16" },
+            { tag: "Scottish Premiership", title: "Disgusting Penalty Decision! Celtic Win Title Race", excerpt: "The controversy continues as Celtic capitalize on the contentious decision to move within touching distance of the Scottish title.", image: "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=700&h=500&fit=crop", link: "posts/140526-0002.html", date: "2026-05-16" },
+            { tag: "Premier League", title: "Foden's Magic Saves City! Manchester City's Title Hopes Live On", excerpt: "Phil Foden produces a moment of brilliance to keep Manchester City's Premier League title ambitions firmly alive.", image: "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=700&h=500&fit=crop", link: "posts/140526-0003.html", date: "2026-05-16" },
+            { tag: "Serie A", title: "Mourinho Returns to Real Madrid! The Iron Fist Takes the Reins", excerpt: "Jose Mourinho makes a sensational return to Real Madrid, signing a three-year deal to lead the Spanish giants into a new era.", image: "https://images.unsplash.com/photo-1511882150382-421056c89033?w=700&h=500&fit=crop", link: "posts/140526-0004.html", date: "2026-05-16" },
         ];
 
         let currentHero = 0;
@@ -1286,10 +1192,11 @@
         const heroDate = document.getElementById('heroDate');
         const heroSlider = document.querySelector('.hero-slider');
 
-        // Set the "On this day" date
-        const now = new Date();
-        const months = ['January','February','March','April','May','June','July','August','September','October','November','December'];
-        heroDate.textContent = `On this day — ${months[now.getMonth()]} ${now.getDate()}`;
+        function formatDate(dateStr) {
+            const d = new Date(dateStr);
+            const months = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+            return `${months[d.getMonth()]} ${d.getDate()}, ${d.getFullYear()}`;
+        }
 
         function renderHero(index) {
             const slide = heroSlides[index];
@@ -1299,6 +1206,7 @@
             heroLink.href = slide.link;
             heroImage.src = slide.image;
             heroImage.alt = slide.tag;
+            heroDate.textContent = formatDate(slide.date);
             heroCounter.textContent = `${index + 1} / ${heroSlides.length}`;
 
             document.querySelectorAll('.hero-slider-nav .dot').forEach((dot, i) => {
