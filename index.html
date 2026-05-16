@@ -59,6 +59,7 @@
 
         a { text-decoration: none; color: inherit; }
         img { max-width: 100%; display: block; }
+        .hero-title, .hero-side-card .hero-title, .mag-title, .card-title, .mini-title, .bbc-title, .post-title, .story-title, .post-card-title { text-align: justify; text-wrap: pretty; }
 
         .container {
             max-width: 1200px;
@@ -161,7 +162,6 @@
             font-size: 1.2rem;
             transition: all var(--transition);
             box-shadow: 0 4px 16px var(--shadow);
-            position: relative;
             overflow: hidden;
         }
 
@@ -192,33 +192,6 @@
         [data-theme="light"] .theme-toggle .icon-wrap .fa-moon { opacity: 0; }
         [data-theme="light"] .theme-toggle .icon-wrap .fa-sun { opacity: 1; }
 
-        .theme-toggle:hover {
-            border-color: var(--accent);
-            color: var(--accent);
-            background: var(--accent-glow);
-        }
-
-        .theme-toggle .icon-wrap {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1);
-            line-height: 1;
-        }
-
-        .theme-toggle .icon-wrap i {
-            display: block;
-            line-height: 1;
-            height: 16px;
-        }
-
-        [data-theme="dark"] .theme-toggle .icon-wrap {
-            transform: translateY(0);
-        }
-
-        [data-theme="light"] .theme-toggle .icon-wrap {
-            transform: translateY(-34px);
-        }
 
         /* === HERO SLIDER (BBC In History style) === */
         .hero-slider {
@@ -233,6 +206,7 @@
             background: var(--bg-card);
             border: 1px solid var(--border);
             overflow: hidden;
+            align-items: stretch;
         }
 
         .hero-slider-content {
@@ -240,6 +214,7 @@
             flex-direction: column;
             justify-content: center;
             padding: 48px;
+            height: 100%;
         }
 
         .hero-slider-content .hero-tag {
@@ -262,6 +237,8 @@
             color: var(--text);
             margin-bottom: 12px;
             max-width: 30ch;
+            text-align: justify;
+            text-align-last: left;
         }
 
         .hero-slider-content .hero-excerpt {
@@ -289,6 +266,7 @@
             position: relative;
             overflow: hidden;
             background: var(--bg-elevated);
+            min-height: 440px;
         }
 
         .hero-slider-image img {
@@ -597,6 +575,8 @@
             line-height: 1.3;
             color: #fff;
             max-width: 30ch;
+            text-align: justify;
+            text-align-last: left;
         }
 
         .mag-card .mag-meta {
@@ -679,6 +659,8 @@
             color: var(--text);
             transition: color var(--transition);
             max-width: 30ch;
+            text-align: justify;
+            text-align-last: left;
         }
 
         .card:hover .card-title { color: var(--accent); }
@@ -698,15 +680,20 @@
 
         /* === TRENDING INDENTED WRAP === */
         .trending-wrap {
-            background: #111;
-            box-shadow: inset 0 4px 12px rgba(0,0,0,0.25), inset 0 -4px 12px rgba(0,0,0,0.25);
+            background: #1e1e1e;
+            box-shadow: inset 0 4px 12px rgba(0,0,0,0.15), inset 0 -4px 12px rgba(0,0,0,0.15);
             margin: 0;
             padding: 0;
         }
 
         [data-theme="light"] .trending-wrap {
-            background: #ecece7;
-            box-shadow: inset 0 4px 12px rgba(0,0,0,0.06), inset 0 -4px 12px rgba(0,0,0,0.06);
+            background: #d0d0cb;
+            box-shadow: inset 0 4px 12px rgba(0,0,0,0.08), inset 0 -4px 12px rgba(0,0,0,0.08);
+        }
+
+        [data-theme="light"] .trending-wrap {
+            background: #cdcdc8;
+            box-shadow: inset 0 4px 12px rgba(0,0,0,0.08), inset 0 -4px 12px rgba(0,0,0,0.08);
         }
 
         /* === CATEGORY TABS === */
@@ -803,6 +790,8 @@
             color: var(--text);
             transition: color var(--transition);
             max-width: 30ch;
+            text-align: justify;
+            text-align-last: left;
         }
 
         .mini-card:hover .mini-title { color: var(--accent); }
@@ -877,6 +866,8 @@
             -webkit-box-orient: vertical;
             overflow: hidden;
             max-width: 30ch;
+            text-align: justify;
+            text-align-last: left;
         }
 
         .bbc-card:hover .bbc-title { color: var(--accent); }
