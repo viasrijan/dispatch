@@ -26,6 +26,15 @@
             --shadow: rgba(0,0,0,0.4);
             --header-bg: rgba(22, 22, 22, 0.92);
             --transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            --tag-breaking: #f77f00;
+            --tag-premier: #3a0ca3;
+            --tag-laliga: #c60b1e;
+            --tag-seriea: #009246;
+            --tag-bundesliga: #dd0000;
+            --tag-ligue1: #002395;
+            --tag-scottish: #005eb8;
+            --tag-championship: #e03a3e;
+            --tag-champions: #0e1b4e;
         }
 
         [data-theme="light"] {
@@ -78,9 +87,8 @@
             background: var(--header-bg);
             backdrop-filter: blur(16px);
             -webkit-backdrop-filter: blur(16px);
-            border-bottom: 1px solid var(--border);
             box-shadow: 0 4px 16px var(--shadow);
-            transition: background var(--transition), border-color var(--transition), box-shadow var(--transition);
+            transition: background var(--transition), box-shadow var(--transition);
         }
 
         .header-inner {
@@ -646,26 +654,16 @@
             margin-top: 4px;
         }
 
-        /* === LEAGUE TABLE === */
-        .leagues-container { padding: 100px 24px 60px; max-width: 1200px; margin: 0 auto; }
-        .league-section { background: var(--bg-card); border: 1px solid var(--border); }
-        .league-table-wrap { padding: 24px; }
-        .league-tabs { display: flex; gap: 0; border-bottom: 1px solid var(--border); margin-bottom: 24px; flex-wrap: wrap; }
-        .league-tab { display: flex; align-items: center; gap: 8px; padding: 12px 24px; font-size: 0.8rem; font-weight: 600; color: var(--text-muted); cursor: pointer; border: none; background: none; text-transform: uppercase; letter-spacing: 0.5px; transition: all var(--transition); font-family: inherit; }
-        .league-tab:hover { color: var(--text-secondary); }
-        .league-tab.active { color: var(--accent); border-bottom: 2px solid var(--accent); }
-        .league-tab .tab-flag { width: 20px; height: 14px; object-fit: cover; flex-shrink: 0; }
-        .league-table-header { display: grid; grid-template-columns: 36px 1fr 50px 40px; padding: 10px 0; font-size: 0.65rem; font-weight: 600; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.5px; border-bottom: 1px solid var(--border); }
-        .league-table-row { display: grid; grid-template-columns: 36px 1fr 50px 40px; padding: 10px 0; font-size: 0.85rem; align-items: center; border-bottom: 1px solid var(--border-light); transition: background var(--transition); gap: 8px; }
-        .league-table-row:last-child { border-bottom: none; }
-        .league-table-row:hover { background: var(--bg-elevated); }
-        .league-position { color: var(--text-muted); font-weight: 600; text-align: center; }
-        .league-position.top-4 { color: var(--accent); }
-        .league-team-wrap { display: flex; align-items: center; gap: 10px; }
-        .league-team-wrap .team-badge { width: 20px; height: 20px; object-fit: contain; flex-shrink: 0; }
-        .league-team { font-weight: 500; color: var(--text); }
-        .league-points { font-weight: 700; color: var(--accent); text-align: right; }
-        .league-gd { color: var(--text-secondary); text-align: right; font-size: 0.75rem; }
+        /* === LEAGUE TAG COLORS === */
+        [data-league="breaking"] { background: var(--tag-breaking); }
+        [data-league="premier"] { background: var(--tag-premier); }
+        [data-league="laliga"] { background: var(--tag-laliga); }
+        [data-league="seriea"] { background: var(--tag-seriea); }
+        [data-league="bundesliga"] { background: var(--tag-bundesliga); }
+        [data-league="ligue1"] { background: var(--tag-ligue1); }
+        [data-league="scottish"] { background: var(--tag-scottish); }
+        [data-league="championship"] { background: var(--tag-championship); }
+        [data-league="champions"] { background: var(--tag-champions); }
 
         /* === FOOTER === */
         .footer {

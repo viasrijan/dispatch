@@ -25,6 +25,15 @@
             --shadow: rgba(0,0,0,0.4);
             --header-bg: rgba(22, 22, 22, 0.92);
             --transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            --tag-breaking: #f77f00;
+            --tag-premier: #3a0ca3;
+            --tag-laliga: #c60b1e;
+            --tag-seriea: #009246;
+            --tag-bundesliga: #dd0000;
+            --tag-ligue1: #002395;
+            --tag-scottish: #005eb8;
+            --tag-championship: #e03a3e;
+            --tag-champions: #0e1b4e;
         }
 
         [data-theme="light"] {
@@ -77,9 +86,8 @@
             background: var(--header-bg);
             backdrop-filter: blur(16px);
             -webkit-backdrop-filter: blur(16px);
-            border-bottom: 1px solid var(--border);
             box-shadow: 0 4px 16px var(--shadow);
-            transition: background var(--transition), border-color var(--transition), box-shadow var(--transition);
+            transition: background var(--transition), box-shadow var(--transition);
         }
 
         .header-inner {
@@ -225,6 +233,7 @@
             overflow: visible;
             align-items: stretch;
             position: relative;
+            cursor: pointer;
         }
 
         .hero-slider-content {
@@ -366,8 +375,7 @@
             display: flex;
             align-items: center;
             justify-content: center;
-            background: rgba(0,0,0,0.75);
-            box-shadow: inset 0 2px 8px rgba(0,0,0,0.5);
+            background: #000;
             color: #fff;
             cursor: pointer;
             font-size: 1.1rem;
@@ -573,8 +581,8 @@
             display: grid;
             grid-template-columns: 1.4fr 0.6fr 1fr;
             grid-auto-rows: 220px;
-            gap: 2px;
-            background: var(--border);
+            gap: 0;
+            background: transparent;
             border-radius: 0;
             overflow: hidden;
         }
@@ -587,6 +595,7 @@
             display: flex;
             flex-direction: column;
             justify-content: flex-end;
+            border: 1px solid var(--border);
             transition: background var(--transition);
         }
 
@@ -633,6 +642,7 @@
             line-height: 1.3;
             color: #fff;
             max-width: 30ch;
+            text-shadow: 0 2px 8px rgba(0,0,0,0.6);
         }
 
         .mag-card .mag-meta {
@@ -647,6 +657,7 @@
 
         .mag-card:nth-child(1) .mag-title {
             font-size: 1.5rem;
+            text-shadow: 0 2px 12px rgba(0,0,0,0.7);
         }
 
         .mag-card:nth-child(4) {
@@ -815,18 +826,24 @@
         .mini-card .mini-body { flex: 1; min-width: 0; }
 
         .mini-card .mini-tag {
-            display: inline-block;
-            font-size: 0.55rem;
+            font-size: 0.6rem;
             font-weight: 600;
             text-transform: uppercase;
-            letter-spacing: 0.7px;
-            color: #fff;
-            background: var(--accent);
-            padding: 2px 8px;
-            border-radius: 0;
-            border: 1px solid rgba(255,255,255,0.12);
-            margin-bottom: 6px;
+            letter-spacing: 0.8px;
+            color: var(--accent);
+            margin-bottom: 4px;
         }
+
+        /* === LEAGUE TAG COLORS === */
+        [data-league="breaking"] { background: var(--tag-breaking); }
+        [data-league="premier"] { background: var(--tag-premier); }
+        [data-league="laliga"] { background: var(--tag-laliga); }
+        [data-league="seriea"] { background: var(--tag-seriea); }
+        [data-league="bundesliga"] { background: var(--tag-bundesliga); }
+        [data-league="ligue1"] { background: var(--tag-ligue1); }
+        [data-league="scottish"] { background: var(--tag-scottish); }
+        [data-league="championship"] { background: var(--tag-championship); }
+        [data-league="champions"] { background: var(--tag-champions); }
 
         .mini-card .mini-title {
             font-size: 0.9rem;
@@ -848,13 +865,13 @@
         /* === LATEST STORIES 3×3 TITLE GRID === */
         .story-grid-3x3 {
             display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 12px;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 8px;
         }
 
         .story-tile {
             display: block;
-            padding: 18px 20px;
+            padding: 14px 16px;
             background: var(--bg-card);
             border: 1px solid var(--border);
             cursor: pointer;
@@ -866,12 +883,11 @@
         }
 
         .story-tile .story-tile-title {
-            font-size: 0.9rem;
+            font-size: 0.8rem;
             font-weight: 500;
-            line-height: 1.5;
-            color: var(--text-secondary);
+            line-height: 1.4;
+            color: var(--text);
             transition: color var(--transition);
-            max-width: 24ch;
         }
 
         .story-tile:hover .story-tile-title {
@@ -1000,12 +1016,6 @@
     <section class="hero-slider">
         <div class="container">
             <div class="hero-slider-inner">
-                <div class="hero-slider-content" id="heroContent">
-                    <span class="hero-date" id="heroDate"></span>
-                    <h1 class="hero-title" id="heroTitle"></h1>
-                    <p class="hero-excerpt" id="heroExcerpt"></p>
-                    <a href="#" class="hero-readmore" id="heroLink">Read more <i class="fas fa-arrow-right"></i></a>
-                </div>
                 <div class="hero-slider-image">
                     <span class="hero-tag" id="heroTag"></span>
                     <div class="hero-image-overlay"></div>
@@ -1014,6 +1024,12 @@
                         <div class="hero-slider-nav" id="heroDots"></div>
                         <span class="hero-counter" id="heroCounter"></span>
                     </div>
+                </div>
+                <div class="hero-slider-content" id="heroContent">
+                    <span class="hero-date" id="heroDate"></span>
+                    <h1 class="hero-title" id="heroTitle"></h1>
+                    <p class="hero-excerpt" id="heroExcerpt"></p>
+                    <a href="#" class="hero-readmore" id="heroLink">Read more <i class="fas fa-arrow-right"></i></a>
                 </div>
                 <button class="hero-slider-arrow prev" onclick="slideHero(-1)"><i class="fas fa-chevron-left"></i></button>
                 <button class="hero-slider-arrow next" onclick="slideHero(1)"><i class="fas fa-chevron-right"></i></button>
@@ -1032,7 +1048,7 @@
                     <a href="posts/140526-0004.html" class="mini-card">
                         <span class="num">01</span>
                         <div class="mini-body">
-                            <div class="mini-tag">Serie A</div>
+                            <div class="mini-tag" data-league="seriea">Serie A</div>
                             <h3 class="mini-title">Mourinho Returns to Real Madrid! The Iron Fist Takes the Reins</h3>
                             <div class="mini-meta">30 min ago</div>
                         </div>
@@ -1040,7 +1056,7 @@
                     <a href="posts/140526-0005.html" class="mini-card">
                         <span class="num">02</span>
                         <div class="mini-body">
-                            <div class="mini-tag">Premier League</div>
+                            <div class="mini-tag" data-league="premier">Premier League</div>
                             <h3 class="mini-title">Carrick for United! Man Utd Chiefs Back Michael Carrick as Permanent Boss</h3>
                             <div class="mini-meta">40 min ago</div>
                         </div>
@@ -1048,7 +1064,7 @@
                     <a href="posts/140526-0006.html" class="mini-card">
                         <span class="num">03</span>
                         <div class="mini-body">
-                            <div class="mini-tag">Premier League</div>
+                            <div class="mini-tag" data-league="premier">Premier League</div>
                             <h3 class="mini-title">City Pile Pressure on Arsenal! Manchester City Close Gap to Leaders</h3>
                             <div class="mini-meta">50 min ago</div>
                         </div>
@@ -1072,7 +1088,7 @@
                     <img src="https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=500&fit=crop" alt="">
                     <div class="overlay"></div>
                     <div class="mag-text">
-                        <span class="mag-tag">Premier League</span>
+                        <span class="mag-tag" data-league="premier">Premier League</span>
                         <h3 class="mag-title">Foden's Magic Saves City! Manchester City's Title Hopes Live On</h3>
                         <span class="mag-meta">20 min ago</span>
                     </div>
@@ -1081,7 +1097,7 @@
                     <img src="https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=300&h=300&fit=crop" alt="">
                     <div class="overlay"></div>
                     <div class="mag-text">
-                        <span class="mag-tag">Serie A</span>
+                        <span class="mag-tag" data-league="seriea">Serie A</span>
                         <h3 class="mag-title">Mourinho Returns to Real Madrid!</h3>
                         <span class="mag-meta">30 min ago</span>
                     </div>
@@ -1090,7 +1106,7 @@
                     <img src="https://images.unsplash.com/photo-1511882150382-421056c89033?w=300&h=300&fit=crop" alt="">
                     <div class="overlay"></div>
                     <div class="mag-text">
-                        <span class="mag-tag">Premier League</span>
+                        <span class="mag-tag" data-league="premier">Premier League</span>
                         <h3 class="mag-title">Carrick for United! Backed as Permanent Boss</h3>
                         <span class="mag-meta">40 min ago</span>
                     </div>
@@ -1099,7 +1115,7 @@
                     <img src="https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&h=250&fit=crop" alt="">
                     <div class="overlay"></div>
                     <div class="mag-text">
-                        <span class="mag-tag">Premier League</span>
+                        <span class="mag-tag" data-league="premier">Premier League</span>
                         <h3 class="mag-title">City Pile Pressure on Arsenal! Manchester City Close Gap to Leaders</h3>
                         <span class="mag-meta">50 min ago</span>
                     </div>
@@ -1144,6 +1160,18 @@
                 </a>
                 <a href="posts/140526-0000.html" class="story-tile">
                     <h3 class="story-tile-title">Celtic's Title Win in Chaos! McInnes Rages Over Disgusting Penalty</h3>
+                </a>
+                <a href="posts/140526-0001.html" class="story-tile">
+                    <h3 class="story-tile-title">Disgusting Penalty Decision! Celtic's Title Hopes Live On</h3>
+                </a>
+                <a href="posts/140526-0002.html" class="story-tile">
+                    <h3 class="story-tile-title">Disgusting Penalty Decision! Celtic Win Title Race</h3>
+                </a>
+                <a href="posts/140526-0003.html" class="story-tile">
+                    <h3 class="story-tile-title">Foden's Magic Saves City! Manchester City's Title Hopes Live On</h3>
+                </a>
+                <a href="posts/140526-0004.html" class="story-tile">
+                    <h3 class="story-tile-title">Mourinho Returns to Real Madrid! The Iron Fist Takes the Reins</h3>
                 </a>
             </div>
         </div>
@@ -1202,6 +1230,18 @@
         let heroTimer = null;
         const HERO_INTERVAL = 5000;
 
+        const leagueKey = {
+            'Breaking': 'breaking',
+            'Premier League': 'premier',
+            'La Liga': 'laliga',
+            'Serie A': 'seriea',
+            'Bundesliga': 'bundesliga',
+            'Ligue 1': 'ligue1',
+            'Scottish Premiership': 'scottish',
+            'Championship': 'championship',
+            'Champions League': 'champions'
+        };
+
         const heroTag = document.getElementById('heroTag');
         const heroTitle = document.getElementById('heroTitle');
         const heroExcerpt = document.getElementById('heroExcerpt');
@@ -1228,6 +1268,7 @@
             heroImage.alt = slide.tag;
             heroDate.textContent = formatDate(slide.date);
             heroCounter.textContent = `${index + 1} / ${heroSlides.length}`;
+            heroTag.setAttribute('data-league', leagueKey[slide.tag] || 'breaking');
 
             document.querySelectorAll('.hero-slider-nav .dot').forEach((dot, i) => {
                 dot.classList.toggle('active', i === index);
@@ -1268,6 +1309,12 @@
         });
 
         heroSlider.addEventListener('mouseleave', resetHeroTimer);
+
+        // Click slider to open post
+        document.querySelector('.hero-slider-inner').addEventListener('click', (e) => {
+            if (e.target.closest('.hero-slider-arrow') || e.target.closest('.hero-slider-nav') || e.target.closest('.hero-readmore')) return;
+            window.location.href = heroLink.href;
+        });
 
         // Theme toggle
         const html = document.documentElement;
