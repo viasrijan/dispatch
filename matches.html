@@ -5,24 +5,71 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Matches | KICKOFF</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     <style>
-        :root { --bg-primary: #000000; --bg-secondary: #000000; --bg-tertiary: #000000; --border: #1a1a1a; --accent: #0e8a46; --text-primary: #ffffff; --text-secondary: #cccccc; --text-muted: #666666; }
+        :root {
+            --bg-primary: #000000;
+            --bg-secondary: #000000;
+            --bg-tertiary: #000000;
+            --surface: #000000;
+            --border: #1a1a1a;
+            --accent: #0e8a46;
+            --text-primary: #ffffff;
+            --text-secondary: #cccccc;
+            --text-muted: #666666;
+        }
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body { font-family: 'Inter', sans-serif; background: #000; color: #fff; }
         a { text-decoration: none; color: inherit; }
+
         .top-bar { display: flex; justify-content: space-between; align-items: center; padding: 16px 24px; border-bottom: 1px solid var(--border); background: #000; position: sticky; top: 0; z-index: 100; }
         .top-bar-content { max-width: 1200px; margin: 0 auto; width: 100%; display: flex; justify-content: space-between; align-items: center; }
         .logo { font-size: 1.8rem; font-weight: 800; color: #0e8a46; }
         .nav-menu { display: flex; gap: 40px; list-style: none; }
         .nav-menu a { color: #fff; font-size: 0.9rem; font-weight: 500; }
         .nav-menu a:hover { color: #0e8a46; }
+        .nav-right { display: flex; gap: 24px; align-items: center; }
+        .nav-right a { color: #fff; font-size: 1.1rem; transition: color 0.3s; }
+        .nav-right a:hover.fa-instagram { color: #E4405F; }
+        .nav-right a:hover.fa-youtube { color: #FF0000; }
+        .nav-right a:hover.fa-x-twitter { color: #fff; }
+
         .page-header { padding: 40px 24px; border-bottom: 1px solid var(--border); }
+        .page-header-inner { max-width: 1200px; margin: 0 auto; }
         .back-button { display: inline-flex; align-items: center; gap: 8px; color: #fff; font-size: 0.9rem; margin-bottom: 16px; }
         .back-button:hover { color: #0e8a46; }
         .page-title { font-size: 2rem; font-weight: 800; }
+
         .content-area { max-width: 1200px; margin: 0 auto; padding: 40px 24px; }
-        @media (max-width: 768px) { .nav-menu { display: none; } }
+        .matches-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; }
+        .match-card { background: var(--bg-secondary); border: 1px solid var(--border); border-radius: 12px; padding: 24px; }
+        .match-card:hover { border-color: var(--accent); }
+        .match-league { font-size: 0.75rem; color: var(--accent); font-weight: 600; text-transform: uppercase; margin-bottom: 16px; }
+        .match-teams { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; }
+        .match-team { font-size: 1.1rem; font-weight: 700; }
+        .match-vs { color: var(--text-muted); font-size: 0.85rem; }
+        .match-info { font-size: 0.85rem; color: var(--text-muted); }
+
+        .site-footer { padding: 40px 24px 20px; background: #000; border-top: 1px solid var(--border); width: 100%; }
+        .site-footer-content { max-width: 1200px; margin: 0 auto; }
+        .footer-grid { display: grid; grid-template-columns: 2fr 1fr 1fr 1fr; gap: 60px; margin-bottom: 60px; }
+        .footer-brand p { color: var(--text-secondary); margin-top: 16px; font-size: 0.95rem; max-width: 300px; }
+        .footer-column h4 { font-size: 0.9rem; font-weight: 700; margin-bottom: 20px; text-transform: capitalize; }
+        .footer-column ul { list-style: none; }
+        .footer-column li { margin-bottom: 12px; }
+        .footer-column a { color: var(--text-secondary); font-size: 0.9rem; transition: color 0.3s; }
+        .footer-column a:hover { color: var(--text-primary); }
+        .footer-bottom { padding-top: 30px; border-top: 1px solid var(--border); display: flex; justify-content: space-between; align-items: center; color: var(--text-muted); font-size: 0.85rem; }
+        .footer-social { display: flex; gap: 20px; }
+        .footer-social a { color: var(--text-muted); font-size: 1.2rem; transition: color 0.3s; }
+        .footer-social a:hover.fa-instagram { color: #E4405F; }
+        .footer-social a:hover.fa-youtube { color: #FF0000; }
+        .footer-social a:hover.fa-x-twitter { color: #fff; }
+
+        @media (max-width: 1000px) { .footer-grid { grid-template-columns: repeat(2, 1fr); } }
+        @media (max-width: 768px) { .matches-grid { grid-template-columns: 1fr; } .nav-menu { display: none; } .footer-grid { grid-template-columns: 1fr; } }
     </style>
 </head>
 <body>
@@ -30,16 +77,88 @@
         <div class="top-bar-content">
             <a href="index.html" class="logo">KICKOFF</a>
             <nav><ul class="nav-menu"><li><a href="matches.html">Matches</a></li><li><a href="transfers.html">Transfers</a></li><li><a href="leagues.html">Leagues</a></li><li><a href="rumors.html">Rumors</a></li><li><a href="contact.html">Contact</a></li></ul></nav>
+            <div class="nav-right">
+                <a href="#"><i class="fab fa-instagram"></i></a>
+                <a href="#"><i class="fab fa-youtube"></i></a>
+                <a href="#"><i class="fab fa-x-twitter"></i></a>
+            </div>
         </div>
     </header>
+
     <div class="page-header">
-        <div style="max-width:1200px;margin:0 auto;padding:0 24px;">
+        <div class="page-header-inner">
             <a href="index.html" class="back-button"><i class="fas fa-arrow-left"></i> Back to Home</a>
             <h1 class="page-title">Matches</h1>
         </div>
     </div>
+
     <div class="content-area">
-        <p style="color:var(--text-muted)">Live scores and fixtures coming soon...</p>
+        <div class="matches-grid" id="matchesGrid"></div>
     </div>
+
+    <footer class="site-footer">
+        <div class="site-footer-content">
+        <div class="footer-grid">
+            <div class="footer-brand">
+                <div class="logo">KICKOFF</div>
+                <p>Your daily dose of football news, transfers, and match updates.</p>
+            </div>
+            <div class="footer-column">
+                <h4>Sections</h4>
+                <ul>
+                    <li><a href="matches.html">Matches</a></li>
+                    <li><a href="transfers.html">Transfers</a></li>
+                    <li><a href="rumors.html">Rumors</a></li>
+                </ul>
+            </div>
+            <div class="footer-column">
+                <h4>Company</h4>
+                <ul>
+                    <li><a href="#">About</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                    <li><a href="#">Careers</a></li>
+                </ul>
+            </div>
+            <div class="footer-column">
+                <h4>Legal</h4>
+                <ul>
+                    <li><a href="#">Privacy</a></li>
+                    <li><a href="#">Terms</a></li>
+                    <li><a href="#">Cookies</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2026 KICKOFF Football News. All rights reserved.</p>
+            <div class="footer-social">
+                <a href="#"><i class="fab fa-instagram"></i></a>
+                <a href="#"><i class="fab fa-youtube"></i></a>
+                <a href="#"><i class="fab fa-x-twitter"></i></a>
+            </div>
+        </div>
+        </div>
+    </footer>
+
+    <script>
+        const posts = [
+            { title: "Celtic's Title Win In Chaos! Mcinnes Rages Over Disgusting Penalty", category: "Premier League", time: "Just now", url: "posts/140526-0000.html" },
+            { title: "Disgusting Penalty Decision! Celtic's Title Hopes Live On", category: "Scottish Premiership", time: "5 min ago", url: "posts/140526-0001.html" },
+            { title: "Disgusting Penalty Decision! Celtic Win Title Race", category: "Scottish Premiership", time: "12 min ago", url: "posts/140526-0002.html" },
+            { title: "Foden's Magic Saves City! Manchester City's Title Hopes Live On", category: "Premier League", time: "20 min ago", url: "posts/140526-0003.html" },
+            { title: "Mourinho Returns To Real Madrid! The Iron Fist Takes The Reins", category: "Serie A", time: "30 min ago", url: "posts/140526-0004.html" },
+            { title: "Carrick For United! Man Utd Chiefs Back Michael Carrick As Permanent Boss", category: "Premier League", time: "40 min ago", url: "posts/140526-0005.html" },
+            { title: "City Pile Pressure On Arsenal! Manchester City Close Gap To Leaders", category: "Premier League", time: "50 min ago", url: "posts/140526-0006.html" },
+            { title: "Hearts Move Within Point Of Title! Hearts Beat Falkirk 3-0", category: "Scottish Premiership", time: "1 hour ago", url: "posts/140526-0007.html" },
+        ];
+        document.getElementById('matchesGrid').innerHTML = posts.map(p => `
+            <a href="${p.url}" class="match-card">
+                <div class="match-league">${p.category}</div>
+                <div class="match-teams">
+                    <span class="match-team">${p.title.split('!')[0]}</span>
+                </div>
+                <div class="match-info">${p.time}</div>
+            </a>
+        `).join('');
+    </script>
 </body>
 </html>
