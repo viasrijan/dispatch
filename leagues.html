@@ -49,19 +49,27 @@
         .league-card-title { font-size: 1.2rem; font-weight: 700; margin-bottom: 8px; }
         .league-card-subtitle { font-size: 0.85rem; color: var(--text-muted); }
 
-        .league-section { position: sticky; top: 100px; }
-        .league-selector { display: flex; align-items: center; justify-content: center; gap: 16px; margin-bottom: 20px; }
-        .league-arrow { color: var(--accent); font-size: 1.2rem; cursor: pointer; }
-        .league-name { font-size: 1.2rem; font-weight: 700; min-width: 100px; text-align: center; }
+        .league-section { margin-bottom: 60px; }
+        .league-table-wrap { max-width: 700px; margin: 0 auto; }
+        .league-tabs { display: flex; gap: 32px; border-bottom: 1px solid var(--border); margin-bottom: 32px; justify-content: center; }
+        .league-tab { padding-bottom: 16px; color: var(--text-secondary); font-size: 1rem; font-weight: 600; cursor: pointer; position: relative; transition: color 0.3s ease; border: none; background: none; }
+        .league-tab::after { content: ''; position: absolute; bottom: -1px; left: 0; width: 0; height: 2px; background: #0e8a46; transition: width 0.3s ease; }
+        .league-tab:hover { color: var(--text-primary); }
+        .league-tab.active { color: var(--accent); }
+        .league-tab.active::after { width: 100%; }
         .league-table { background: var(--bg-secondary); border: 1px solid var(--border); border-radius: 8px; }
-        .league-table-header, .league-table-row { display: grid; grid-template-columns: 40px 1fr 50px 40px; padding: 12px 16px; }
+        .league-table-header, .league-table-row { display: grid; grid-template-columns: 40px 1fr 50px 40px; padding: 10px 16px; }
         .league-table-header { background: var(--bg-tertiary); font-size: 0.7rem; font-weight: 600; color: var(--text-muted); text-transform: uppercase; }
         .league-table-row { border-bottom: 1px solid var(--border); font-size: 0.85rem; }
+        .league-table-row:last-child { border-bottom: none; }
         .league-position { color: var(--text-muted); font-weight: 600; }
         .league-position.top-4 { color: var(--accent); }
+        .league-position.relegation { color: #ff4444; }
         .league-team { font-weight: 500; }
         .league-points { font-weight: 700; color: var(--accent); }
         .league-gd { color: var(--text-secondary); }
+
+        @media (max-width: 700px) { .league-tabs { gap: 16px; overflow-x: auto; } .league-tab { font-size: 0.9rem; } .league-table-header, .league-table-row { grid-template-columns: 30px 1fr 40px 35px; padding: 8px 12px; font-size: 0.8rem; } }
 
         .site-footer { padding: 40px 24px 20px; background: #000; border-top: 1px solid var(--border); width: 100%; min-width: 1200px; }
         .site-footer-content { max-width: 1200px; width: 100%; margin: 0 auto; }
@@ -79,8 +87,7 @@
         .footer-social a:hover.fa-youtube { color: #FF0000; }
         .footer-social a:hover.fa-x-twitter { color: #fff; }
 
-        @media (max-width: 1000px) { .league-cards { grid-template-columns: repeat(3, 1fr); } .footer-grid { grid-template-columns: repeat(2, 1fr); } }
-        @media (max-width: 768px) { .league-cards { grid-template-columns: repeat(2, 1fr); } .nav-menu { display: none; } .footer-grid { grid-template-columns: 1fr; } }
+        @media (max-width: 700px) { .league-tabs { gap: 16px; overflow-x: auto; } .league-tab { font-size: 0.9rem; } .league-table-header, .league-table-row { grid-template-columns: 30px 1fr 40px 35px; padding: 8px 12px; font-size: 0.8rem; } .footer-grid { grid-template-columns: 1fr; } .nav-menu { display: none; } }
     </style>
 </head>
 <body>
@@ -104,37 +111,19 @@
     </div>
 
     <div class="leagues-container">
-        <div class="league-cards">
-            <div class="league-card" onclick="selectLeague(0)">
-                <div class="league-card-title">Premier League</div>
-                <div class="league-card-subtitle">England</div>
-            </div>
-            <div class="league-card" onclick="selectLeague(1)">
-                <div class="league-card-title">La Liga</div>
-                <div class="league-card-subtitle">Spain</div>
-            </div>
-            <div class="league-card" onclick="selectLeague(2)">
-                <div class="league-card-title">Serie A</div>
-                <div class="league-card-subtitle">Italy</div>
-            </div>
-            <div class="league-card" onclick="selectLeague(3)">
-                <div class="league-card-title">Bundesliga</div>
-                <div class="league-card-subtitle">Germany</div>
-            </div>
-            <div class="league-card" onclick="selectLeague(4)">
-                <div class="league-card-title">Ligue 1</div>
-                <div class="league-card-subtitle">France</div>
-            </div>
-        </div>
         <div class="league-section">
-            <div class="league-selector">
-                <span class="league-arrow" onclick="changeLeague(-1)"><i class="fas fa-chevron-left"></i></span>
-                <span class="league-name" id="leagueName">EPL</span>
-                <span class="league-arrow" onclick="changeLeague(1)"><i class="fas fa-chevron-right"></i></span>
-            </div>
-            <div class="league-table">
-                <div class="league-table-header"><span>#</span><span>Team</span><span>GD</span><span>Pts</span></div>
-                <div id="leagueTableBody"></div>
+            <div class="league-table-wrap">
+                <div class="league-tabs">
+                    <button class="league-tab active" data-index="0">Premier League</button>
+                    <button class="league-tab" data-index="1">La Liga</button>
+                    <button class="league-tab" data-index="2">Serie A</button>
+                    <button class="league-tab" data-index="3">Bundesliga</button>
+                    <button class="league-tab" data-index="4">Ligue 1</button>
+                </div>
+                <div class="league-table">
+                    <div class="league-table-header"><span>#</span><span>Team</span><span>GD</span><span>Pts</span></div>
+                    <div id="leagueTableBody"></div>
+                </div>
             </div>
         </div>
     </div>
@@ -185,148 +174,183 @@
     <script src="api-config.js"></script>
     <script>
         const leagues = [
-            { id: 'PL', name: 'EPL', apiId: 39 },
+            { id: 'PL', name: 'Premier League', apiId: 39 },
             { id: 'PD', name: 'La Liga', apiId: 140 },
             { id: 'SA', name: 'Serie A', apiId: 135 },
             { id: 'BL1', name: 'Bundesliga', apiId: 78 },
             { id: 'FL', name: 'Ligue 1', apiId: 61 }
         ];
         let currentLeagueIndex = 0;
-        
-        // Get API key from config or use placeholder - sign up at football-data.org
+
         const API_KEY = typeof FOOTBALL_API_KEY !== 'undefined' ? FOOTBALL_API_KEY : 'YOUR_FOOTBALL_DATA_API_KEY';
         const API_BASE_URL = 'https://api.football-data.org/v4';
 
-        function selectLeague(index) {
-            currentLeagueIndex = index;
-            document.getElementById('leagueName').textContent = leagues[index].name;
-            fetchLeagueTable();
-        }
-
-        function changeLeague(direction) {
-            currentLeagueIndex = (currentLeagueIndex + direction + leagues.length) % leagues.length;
-            document.getElementById('leagueName').textContent = leagues[currentLeagueIndex].name;
-            fetchLeagueTable();
-        }
+        document.querySelectorAll('.league-tab').forEach(tab => {
+            tab.addEventListener('click', function() {
+                document.querySelectorAll('.league-tab').forEach(t => t.classList.remove('active'));
+                this.classList.add('active');
+                currentLeagueIndex = parseInt(this.dataset.index);
+                fetchLeagueTable();
+            });
+        });
 
         async function fetchLeagueTable() {
             const league = leagues[currentLeagueIndex];
             const tableBody = document.getElementById('leagueTableBody');
-            tableBody.innerHTML = '<div class="league-table-row" style="grid-template-columns: 1fr; text-align: center;">Loading standings...</div>';
-            
+            tableBody.innerHTML = '<div style="padding: 24px; text-align: center; color: var(--text-secondary);">Loading standings...</div>';
+
             try {
-                // Try to fetch from football-data.org API
                 const response = await fetch(`${API_BASE_URL}/competitions/${league.apiId}/standings`, {
-                    headers: {
-                        'X-Auth-Token': API_KEY
-                    }
+                    headers: { 'X-Auth-Token': API_KEY }
                 });
-                
-                if (!response.ok) {
-                    throw new Error(`API returned ${response.status}`);
-                }
-                
+
+                if (!response.ok) throw new Error(`API returned ${response.status}`);
+
                 const data = await response.json();
-                
-                // Find the TOTAL standing (overall league table)
                 const totalStanding = data.standings.find(s => s.type === 'TOTAL');
-                if (!totalStanding || !totalStanding.table) {
-                    throw new Error('No standings data found');
-                }
-                
-                // Map API response to display format
-                const teams = totalStanding.table.slice(0, 10).map(entry => ({
+                if (!totalStanding || !totalStanding.table) throw new Error('No standings data found');
+
+                const teams = totalStanding.table.map(entry => ({
                     position: entry.position,
                     name: entry.team.name,
                     goalDifference: entry.goalDifference,
                     points: entry.points
                 }));
-                
+
                 renderStandings(teams);
-                
+
             } catch (error) {
                 console.warn('API fetch failed, using fallback data:', error.message);
-                // Use fallback data when API fails
                 const fallback = {
                     'PL': [
-                        { position: 1, name: 'Arsenal', goalDifference: 42, points: 79 },
-                        { position: 2, name: 'Man City', goalDifference: 43, points: 77 },
-                        { position: 3, name: 'Man United', goalDifference: 15, points: 65 },
-                        { position: 4, name: 'Aston Villa', goalDifference: 6, points: 62 },
-                        { position: 5, name: 'Liverpool', goalDifference: 10, points: 59 },
-                        { position: 6, name: 'Bournemouth', goalDifference: 4, points: 55 },
-                        { position: 7, name: 'Brighton', goalDifference: 10, points: 53 },
-                        { position: 8, name: 'Brentford', goalDifference: 3, points: 51 },
-                        { position: 9, name: 'Chelsea', goalDifference: 6, points: 49 },
-                        { position: 10, name: 'Everton', goalDifference: 0, points: 49 },
+                        {position:1,name:'Arsenal',goalDifference:42,points:79},
+                        {position:2,name:'Man City',goalDifference:43,points:77},
+                        {position:3,name:'Man United',goalDifference:15,points:65},
+                        {position:4,name:'Aston Villa',goalDifference:6,points:62},
+                        {position:5,name:'Liverpool',goalDifference:10,points:59},
+                        {position:6,name:'Bournemouth',goalDifference:4,points:55},
+                        {position:7,name:'Brighton',goalDifference:10,points:53},
+                        {position:8,name:'Brentford',goalDifference:3,points:51},
+                        {position:9,name:'Chelsea',goalDifference:6,points:49},
+                        {position:10,name:'Everton',goalDifference:0,points:49},
+                        {position:11,name:'Crystal Palace',goalDifference:-2,points:44},
+                        {position:12,name:'Newcastle',goalDifference:-1,points:40},
+                        {position:13,name:'West Ham',goalDifference:-14,points:39},
+                        {position:14,name:'Tottenham',goalDifference:-8,points:37},
+                        {position:15,name:'Leicester',goalDifference:-16,points:35},
+                        {position:16,name:'Ipswich',goalDifference:-24,points:33},
+                        {position:17,name:'Wolves',goalDifference:-19,points:31},
+                        {position:18,name:'Southampton',goalDifference:-30,points:29},
+                        {position:19,name:'Nottm Forest',goalDifference:-18,points:28},
+                        {position:20,name:'Fulham',goalDifference:-10,points:24},
                     ],
                     'PD': [
-                        { position: 1, name: 'Barcelona', goalDifference: 59, points: 91 },
-                        { position: 2, name: 'Real Madrid', goalDifference: 39, points: 80 },
-                        { position: 3, name: 'Villarreal', goalDifference: 24, points: 69 },
-                        { position: 4, name: 'Atlético Madrid', goalDifference: 21, points: 66 },
-                        { position: 5, name: 'Real Betis', goalDifference: 12, points: 57 },
-                        { position: 6, name: 'Celta Vigo', goalDifference: 4, points: 50 },
-                        { position: 7, name: 'Getafe', goalDifference: -6, points: 48 },
-                        { position: 8, name: 'Real Sociedad', goalDifference: -1, points: 45 },
-                        { position: 9, name: 'Athletic Club', goalDifference: -13, points: 44 },
-                        { position: 10, name: 'Rayo Vallecano', goalDifference: -6, points: 44 },
+                        {position:1,name:'Barcelona',goalDifference:59,points:91},
+                        {position:2,name:'Real Madrid',goalDifference:39,points:80},
+                        {position:3,name:'Villarreal',goalDifference:24,points:69},
+                        {position:4,name:'Atlético Madrid',goalDifference:21,points:66},
+                        {position:5,name:'Real Betis',goalDifference:12,points:57},
+                        {position:6,name:'Celta Vigo',goalDifference:4,points:50},
+                        {position:7,name:'Getafe',goalDifference:-6,points:48},
+                        {position:8,name:'Real Sociedad',goalDifference:-1,points:45},
+                        {position:9,name:'Athletic Club',goalDifference:-13,points:44},
+                        {position:10,name:'Rayo Vallecano',goalDifference:-6,points:44},
+                        {position:11,name:'Espanyol',goalDifference:-12,points:42},
+                        {position:12,name:'Valencia',goalDifference:-8,points:40},
+                        {position:13,name:'Las Palmas',goalDifference:-10,points:38},
+                        {position:14,name:'Osasuna',goalDifference:-14,points:37},
+                        {position:15,name:'Sevilla',goalDifference:-6,points:35},
+                        {position:16,name:'Mallorca',goalDifference:-16,points:34},
+                        {position:17,name:'Alavés',goalDifference:-18,points:32},
+                        {position:18,name:'Girona',goalDifference:-10,points:30},
+                        {position:19,name:'Leganés',goalDifference:-22,points:28},
+                        {position:20,name:'Valladolid',goalDifference:-28,points:25},
                     ],
                     'SA': [
-                        { position: 1, name: 'Inter', goalDifference: 54, points: 85 },
-                        { position: 2, name: 'Napoli', goalDifference: 18, points: 70 },
-                        { position: 3, name: 'Juventus', goalDifference: 29, points: 68 },
-                        { position: 4, name: 'Milan', goalDifference: 18, points: 67 },
-                        { position: 5, name: 'Roma', goalDifference: 24, points: 67 },
-                        { position: 6, name: 'Como', goalDifference: 32, points: 65 },
-                        { position: 7, name: 'Atalanta', goalDifference: 16, points: 58 },
-                        { position: 8, name: 'Bologna', goalDifference: 2, points: 52 },
-                        { position: 9, name: 'Lazio', goalDifference: 2, points: 51 },
-                        { position: 10, name: 'Udinese', goalDifference: -1, points: 50 },
+                        {position:1,name:'Inter',goalDifference:54,points:85},
+                        {position:2,name:'Napoli',goalDifference:18,points:70},
+                        {position:3,name:'Juventus',goalDifference:29,points:68},
+                        {position:4,name:'Milan',goalDifference:18,points:67},
+                        {position:5,name:'Roma',goalDifference:24,points:67},
+                        {position:6,name:'Como',goalDifference:32,points:65},
+                        {position:7,name:'Atalanta',goalDifference:16,points:58},
+                        {position:8,name:'Bologna',goalDifference:2,points:52},
+                        {position:9,name:'Lazio',goalDifference:2,points:51},
+                        {position:10,name:'Udinese',goalDifference:-1,points:50},
+                        {position:11,name:'Torino',goalDifference:-3,points:48},
+                        {position:12,name:'Fiorentina',goalDifference:4,points:46},
+                        {position:13,name:'Cagliari',goalDifference:-6,points:44},
+                        {position:14,name:'Parma',goalDifference:-8,points:42},
+                        {position:15,name:'Genoa',goalDifference:-10,points:40},
+                        {position:16,name:'Empoli',goalDifference:-12,points:38},
+                        {position:17,name:'Lecce',goalDifference:-14,points:36},
+                        {position:18,name:'Verona',goalDifference:-18,points:34},
+                        {position:19,name:'Monza',goalDifference:-20,points:32},
+                        {position:20,name:'Venezia',goalDifference:-26,points:28},
                     ],
                     'BL1': [
-                        { position: 1, name: 'Bayern', goalDifference: 82, points: 86 },
-                        { position: 2, name: 'Dortmund', goalDifference: 34, points: 70 },
-                        { position: 3, name: 'Leipzig', goalDifference: 22, points: 65 },
-                        { position: 4, name: 'Stuttgart', goalDifference: 22, points: 61 },
-                        { position: 5, name: 'Hoffenheim', goalDifference: 17, points: 61 },
-                        { position: 6, name: 'Leverkusen', goalDifference: 21, points: 58 },
-                        { position: 7, name: 'Freiburg', goalDifference: -9, points: 44 },
-                        { position: 8, name: 'Frankfurt', goalDifference: -4, points: 43 },
-                        { position: 9, name: 'Augsburg', goalDifference: -12, points: 43 },
-                        { position: 10, name: 'Mainz', goalDifference: -11, points: 37 },
+                        {position:1,name:'Bayern',goalDifference:82,points:86},
+                        {position:2,name:'Dortmund',goalDifference:34,points:70},
+                        {position:3,name:'Leipzig',goalDifference:22,points:65},
+                        {position:4,name:'Stuttgart',goalDifference:22,points:61},
+                        {position:5,name:'Hoffenheim',goalDifference:17,points:61},
+                        {position:6,name:'Leverkusen',goalDifference:21,points:58},
+                        {position:7,name:'Freiburg',goalDifference:-9,points:44},
+                        {position:8,name:'Frankfurt',goalDifference:-4,points:43},
+                        {position:9,name:'Augsburg',goalDifference:-12,points:43},
+                        {position:10,name:'Mainz',goalDifference:-11,points:37},
+                        {position:11,name:'Wolfsburg',goalDifference:-6,points:36},
+                        {position:12,name:'Mönchengladbach',goalDifference:-8,points:35},
+                        {position:13,name:'Heidenheim',goalDifference:-10,points:34},
+                        {position:14,name:'Union Berlin',goalDifference:-14,points:33},
+                        {position:15,name:'St Pauli',goalDifference:-16,points:32},
+                        {position:16,name:'Kiel',goalDifference:-20,points:30},
+                        {position:17,name:'Bochum',goalDifference:-24,points:28},
+                        {position:18,name:'Holstein Kiel',goalDifference:-28,points:26},
                     ],
                     'FL': [
-                        { position: 1, name: 'PSG', goalDifference: 46, points: 76 },
-                        { position: 2, name: 'Lens', goalDifference: 27, points: 67 },
-                        { position: 3, name: 'Lille', goalDifference: 17, points: 61 },
-                        { position: 4, name: 'Lyon', goalDifference: 17, points: 60 },
-                        { position: 5, name: 'Rennes', goalDifference: 11, points: 59 },
-                        { position: 6, name: 'Marseille', goalDifference: 16, points: 56 },
-                        { position: 7, name: 'Monaco', goalDifference: 7, points: 54 },
-                        { position: 8, name: 'Strasbourg', goalDifference: 10, points: 50 },
-                        { position: 9, name: 'Lorient', goalDifference: -1, points: 45 },
-                        { position: 10, name: 'Toulouse', goalDifference: 1, points: 44 },
+                        {position:1,name:'PSG',goalDifference:46,points:76},
+                        {position:2,name:'Lens',goalDifference:27,points:67},
+                        {position:3,name:'Lille',goalDifference:17,points:61},
+                        {position:4,name:'Lyon',goalDifference:17,points:60},
+                        {position:5,name:'Rennes',goalDifference:11,points:59},
+                        {position:6,name:'Marseille',goalDifference:16,points:56},
+                        {position:7,name:'Monaco',goalDifference:7,points:54},
+                        {position:8,name:'Strasbourg',goalDifference:10,points:50},
+                        {position:9,name:'Lorient',goalDifference:-1,points:45},
+                        {position:10,name:'Toulouse',goalDifference:1,points:44},
+                        {position:11,name:'Nice',goalDifference:-4,points:42},
+                        {position:12,name:'Brest',goalDifference:-6,points:40},
+                        {position:13,name:'Angers',goalDifference:-10,points:38},
+                        {position:14,name:'Le Havre',goalDifference:-12,points:36},
+                        {position:15,name:'Reims',goalDifference:-8,points:35},
+                        {position:16,name:'Nantes',goalDifference:-14,points:34},
+                        {position:17,name:'Montpellier',goalDifference:-16,points:32},
+                        {position:18,name:'Saint-Étienne',goalDifference:-20,points:30},
+                        {position:19,name:'Rouen',goalDifference:-24,points:28},
+                        {position:20,name:'Auxerre',goalDifference:-28,points:25},
                     ],
                 };
-                
+
                 const fallbackData = fallback[league.id] || fallback['PL'];
                 renderStandings(fallbackData);
             }
         }
 
         function renderStandings(teams) {
-            document.getElementById('leagueTableBody').innerHTML = teams.map(team =>
-                `<div class="league-table-row">
-                    <span class="league-position ${team.position <= 4 ? 'top-4' : ''}">${team.position}</span>
+            document.getElementById('leagueTableBody').innerHTML = teams.map(team => {
+                let posClass = 'league-position';
+                if (team.position <= 4) posClass += ' top-4';
+                if (team.position >= 18) posClass += ' relegation';
+                return `<div class="league-table-row">
+                    <span class="${posClass}">${team.position}</span>
                     <span class="league-team">${team.name}</span>
                     <span class="league-gd">${team.goalDifference > 0 ? '+' : ''}${team.goalDifference}</span>
                     <span class="league-points">${team.points}</span>
-                </div>`
-            ).join('');
+                </div>`;
+            }).join('');
         }
 
-        document.getElementById('leagueName').textContent = leagues[currentLeagueIndex].name;
         fetchLeagueTable();
     </script>
 </body>
