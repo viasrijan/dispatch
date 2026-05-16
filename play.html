@@ -3,13 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Matches | KICKOFF</title>
+    <title>Play | KICKOFF</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     <style>
-
         :root {
             --bg: #161616;
             --bg-elevated: #1e1e1e;
@@ -170,6 +169,7 @@
         [data-theme="light"] .header-social a { color: var(--accent); opacity: 0.7; }
         [data-theme="light"] .header-social a:hover { opacity: 1; }
 
+        /* === FLOATING THEME TOGGLE === */
         .theme-toggle {
             position: fixed;
             bottom: 28px;
@@ -188,7 +188,6 @@
             font-size: 1.2rem;
             transition: all var(--transition);
             box-shadow: 0 4px 16px var(--shadow);
-            position: relative;
             overflow: hidden;
         }
 
@@ -206,7 +205,8 @@
             height: 20px;
         }
 
-        .theme-toggle .icon-wrap i, .theme-toggle .icon-wrap .sun-circle {
+        .theme-toggle .icon-wrap i,
+        .theme-toggle .icon-wrap .sun-circle {
             position: absolute;
             inset: 0;
             display: flex;
@@ -217,29 +217,193 @@
 
         .theme-toggle .icon-wrap .fa-moon { opacity: 1; }
         .theme-toggle .icon-wrap .sun-circle {
-    opacity: 0;
-    width: 18px;
-    height: 18px;
-    border-radius: 50%;
-    background: #f5c542;
-    margin: auto;
-}
+            opacity: 0;
+            width: 18px;
+            height: 18px;
+            border-radius: 50%;
+            background: #f5c542;
+            margin: auto;
+        }
 
         [data-theme="light"] .theme-toggle .icon-wrap .fa-moon { opacity: 0; }
         [data-theme="light"] .theme-toggle .icon-wrap .sun-circle { opacity: 1; }
 
-        /* === HERO / SLIDER === */
-        .hero {
+
+        /* === HERO SLIDER (Modern editorial) === */
+        .hero-slider {
             padding: 100px 0 0;
             position: relative;
         }
+
+        .hero-slider-inner {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            min-height: 440px;
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-top: 4px solid var(--accent);
+            overflow: visible;
+            align-items: stretch;
+            position: relative;
+            cursor: pointer;
+        }
+
+        .hero-slider-content {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            padding: 48px 48px 40px;
+            height: 100%;
+            position: relative;
+        }
+
+        /* Date badge above everything */
+        .hero-slider-content .hero-date {
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--text-muted);
+            margin-bottom: 8px;
+        }
+
+        .hero-slider-content .hero-title {
+            font-size: 2rem;
+            font-weight: 800;
+            line-height: 1.15;
+            color: var(--text);
+            margin-bottom: 12px;
+            max-width: 30ch;
+        }
+
+        .hero-slider-content .hero-excerpt {
+            font-size: 0.95rem;
+            color: var(--text-secondary);
+            line-height: 1.6;
+            margin-bottom: 24px;
+        }
+
+        .hero-slider-content .hero-readmore {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            color: var(--accent);
+            text-transform: uppercase;
+            letter-spacing: 0.8px;
+            transition: color var(--transition);
+        }
+
+        .hero-slider-content .hero-readmore:hover { color: var(--text); }
+
+        /* Image column */
+        .hero-slider-image {
+            position: relative;
+            overflow: hidden;
+            background: var(--bg-elevated);
+            min-height: 440px;
+        }
+
+        /* Diagonal gradient overlay for drama */
+        .hero-image-overlay {
+            position: absolute;
+            inset: 0;
+            z-index: 2;
+            background: linear-gradient(135deg, rgba(0,0,0,0.55) 0%, transparent 50%);
+            pointer-events: none;
+        }
+
+        .hero-slider-image img {
+            position: absolute;
+            inset: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.6s ease;
+        }
+
+        .hero-slider:hover .hero-slider-image img { transform: scale(1.03); }
+
+        /* Tag pill overlaid on image top-right */
+        .hero-slider-image .hero-tag {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            z-index: 5;
+            display: inline-block;
+            font-size: 0.65rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1.2px;
+            color: #fff;
+            background: var(--accent);
+            padding: 4px 14px;
+        }
+
+        /* Navigation wrap: dots + counter */
+        .hero-slider-nav-wrap {
+            position: absolute;
+            bottom: 20px;
+            left: 20px;
+            z-index: 5;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .hero-slider-nav {
+            display: flex;
+            gap: 8px;
+        }
+
+        .hero-slider-nav .dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: rgba(255,255,255,0.5);
+            border: none;
+            cursor: pointer;
+            transition: all var(--transition);
+        }
+
+        .hero-slider-nav .dot.active { background: var(--accent); }
+
+        .hero-counter {
+            font-size: 0.75rem;
+            font-weight: 600;
+            color: rgba(255,255,255,0.7);
+            letter-spacing: 0.5px;
+        }
+
+        .hero-slider-arrow {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            z-index: 10;
+            width: 48px;
+            height: 48px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: #000;
+            color: #fff;
+            cursor: pointer;
+            font-size: 1.1rem;
+            transition: background var(--transition);
+            border: none;
+        }
+
+        .hero-slider-arrow:hover { background: var(--accent); }
+        .hero-slider-arrow.prev { left: -24px; }
+        .hero-slider-arrow.next { right: -24px; }
 
         .hero-grid {
             display: grid;
             grid-template-columns: 1fr 1fr;
             gap: 2px;
             background: var(--border);
-            border-radius: 0;
             overflow: hidden;
         }
 
@@ -283,14 +447,15 @@
 
         .hero-main .hero-tag {
             display: inline-block;
-            font-size: 0.7rem;
+            font-size: 0.65rem;
             font-weight: 600;
             text-transform: uppercase;
-            letter-spacing: 1.5px;
-            color: var(--accent);
-            background: var(--accent-glow);
-            padding: 4px 12px;
+            letter-spacing: 1.2px;
+            color: #fff;
+            background: var(--accent);
+            padding: 3px 14px;
             border-radius: 0;
+            border: 1px solid rgba(255,255,255,0.15);
             margin-bottom: 12px;
         }
 
@@ -300,6 +465,7 @@
             line-height: 1.2;
             color: #fff;
             margin-bottom: 8px;
+            max-width: 30ch;
         }
 
         .hero-main .hero-meta {
@@ -348,11 +514,16 @@
         }
 
         .hero-side-card .hero-tag {
-            font-size: 0.65rem;
+            display: inline-block;
+            font-size: 0.58rem;
             font-weight: 600;
             text-transform: uppercase;
-            letter-spacing: 1px;
-            color: var(--accent-soft);
+            letter-spacing: 0.8px;
+            color: #fff;
+            background: var(--accent);
+            padding: 2px 10px;
+            border-radius: 0;
+            border: 1px solid rgba(255,255,255,0.12);
             margin-bottom: 6px;
         }
 
@@ -361,6 +532,7 @@
             font-weight: 700;
             line-height: 1.25;
             color: #fff;
+            max-width: 30ch;
         }
 
         .hero-side-card .hero-meta {
@@ -383,12 +555,12 @@
 
         .section-title {
             font-size: 1.4rem;
-            font-weight: 700;
+            font-weight: 800;
             text-transform: uppercase;
             letter-spacing: 1px;
             color: var(--text);
             position: relative;
-            padding-left: 16px;
+            padding-left: 14px;
         }
 
         .section-title::before {
@@ -421,8 +593,8 @@
             display: grid;
             grid-template-columns: 1.4fr 0.6fr 1fr;
             grid-auto-rows: 220px;
-            gap: 2px;
-            background: var(--border);
+            gap: 0;
+            background: transparent;
             border-radius: 0;
             overflow: hidden;
         }
@@ -435,6 +607,7 @@
             display: flex;
             flex-direction: column;
             justify-content: flex-end;
+            border: 1px solid var(--border);
             transition: background var(--transition);
         }
 
@@ -462,19 +635,26 @@
         }
 
         .mag-card .mag-tag {
-            font-size: 0.6rem;
+            display: inline-block;
+            font-size: 0.55rem;
             font-weight: 600;
             text-transform: uppercase;
-            letter-spacing: 1px;
-            color: var(--accent-soft);
-            margin-bottom: 4px;
+            letter-spacing: 0.8px;
+            color: #fff;
+            background: var(--accent);
+            padding: 2px 10px;
+            border-radius: 0;
+            border: 1px solid rgba(255,255,255,0.12);
+            margin-bottom: 6px;
         }
 
         .mag-card .mag-title {
-            font-size: 0.95rem;
+            font-size: 1.1rem;
             font-weight: 700;
             line-height: 1.3;
             color: #fff;
+            max-width: 30ch;
+            text-shadow: 0 2px 8px rgba(0,0,0,0.6);
         }
 
         .mag-card .mag-meta {
@@ -488,7 +668,8 @@
         }
 
         .mag-card:nth-child(1) .mag-title {
-            font-size: 1.3rem;
+            font-size: 1.5rem;
+            text-shadow: 0 2px 12px rgba(0,0,0,0.7);
         }
 
         .mag-card:nth-child(4) {
@@ -537,12 +718,17 @@
         }
 
         .card-tag {
-            font-size: 0.65rem;
+            display: inline-block;
+            font-size: 0.6rem;
             font-weight: 600;
             text-transform: uppercase;
-            letter-spacing: 1px;
-            color: var(--accent);
-            margin-bottom: 6px;
+            letter-spacing: 0.8px;
+            color: #fff;
+            background: var(--accent);
+            padding: 2px 10px;
+            border-radius: 0;
+            border: 1px solid rgba(255,255,255,0.12);
+            margin-bottom: 8px;
         }
 
         .card-title {
@@ -551,6 +737,7 @@
             line-height: 1.35;
             color: var(--text);
             transition: color var(--transition);
+            max-width: 30ch;
         }
 
         .card:hover .card-title { color: var(--accent); }
@@ -567,6 +754,14 @@
             background: transparent;
             box-shadow: none;
             margin: 0;
+        }
+
+        /* === TRENDING WRAP === */
+        .trending-wrap {
+            background: transparent;
+            box-shadow: none;
+            margin: 0;
+            padding: 0;
         }
 
         /* === CATEGORY TABS === */
@@ -651,22 +846,6 @@
             margin-bottom: 4px;
         }
 
-        .mini-card .mini-title {
-            font-size: 0.9rem;
-            font-weight: 600;
-            line-height: 1.35;
-            color: var(--text);
-            transition: color var(--transition);
-        }
-
-        .mini-card:hover .mini-title { color: var(--accent); }
-
-        .mini-card .mini-meta {
-            font-size: 0.72rem;
-            color: var(--text-muted);
-            margin-top: 4px;
-        }
-
         /* === LEAGUE TAG COLORS === */
         [data-league="breaking"] { background: var(--tag-breaking); }
         [data-league="premier"] { background: var(--tag-premier); }
@@ -677,6 +856,56 @@
         [data-league="scottish"] { background: var(--tag-scottish); }
         [data-league="championship"] { background: var(--tag-championship); }
         [data-league="champions"] { background: var(--tag-champions); }
+
+        .mini-card .mini-title {
+            font-size: 0.9rem;
+            font-weight: 600;
+            line-height: 1.35;
+            color: var(--text);
+            transition: color var(--transition);
+            max-width: 30ch;
+        }
+
+        .mini-card:hover .mini-title { color: var(--accent); }
+
+        .mini-card .mini-meta {
+            font-size: 0.72rem;
+            color: var(--text-muted);
+            margin-top: 4px;
+        }
+
+        /* === LATEST STORIES 3×3 TITLE GRID === */
+        .story-grid-3x3 {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 8px;
+        }
+
+        .story-tile {
+            display: block;
+            padding: 14px 16px;
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            cursor: pointer;
+            transition: all var(--transition);
+        }
+
+        .story-tile:hover {
+            border-color: var(--accent);
+        }
+
+        .story-tile .story-tile-title {
+            font-size: 0.8rem;
+            font-weight: 500;
+            line-height: 1.4;
+            color: var(--text);
+            transition: color var(--transition);
+        }
+
+        .story-tile:hover .story-tile-title {
+            color: var(--accent);
+        }
+        }
 
         /* === FOOTER === */
         .footer {
@@ -735,37 +964,137 @@
 
         /* === RESPONSIVE === */
         @media (max-width: 1000px) {
-            .hero-grid { grid-template-columns: 1fr; }
-            .hero-main { min-height: 360px; }
-            .hero-side { display: grid; grid-template-columns: 1fr 1fr; gap: 2px; }
-            .hero-side-card { min-height: 200px; }
+            .hero-slider-inner { grid-template-columns: 1fr; }
+            .hero-slider-content { padding: 32px; }
+            .hero-slider-content .hero-title { font-size: 1.5rem; }
+            .hero-slider-image { min-height: 280px; }
             .magazine-grid { grid-template-columns: 1fr 1fr; }
             .mag-card:nth-child(1) { grid-row: span 1; }
             .mag-card:nth-child(4) { grid-column: span 1; }
             .grid-4 { grid-template-columns: repeat(2, 1fr); }
+            .story-grid-3x3 { grid-template-columns: repeat(2, 1fr); }
             .footer-grid { grid-template-columns: repeat(2, 1fr); gap: 40px; }
         }
 
         @media (max-width: 768px) {
             .nav { display: none; }
             .header-social { display: none; }
-            .hero-side { grid-template-columns: 1fr; }
+            .hero-slider-inner { grid-template-columns: 1fr; }
+            .hero-slider-content { padding: 24px; }
+            .hero-slider-content .hero-title { font-size: 1.3rem; }
+            .hero-slider-image { min-height: 220px; }
             .magazine-grid { grid-template-columns: 1fr; grid-auto-rows: 200px; }
             .grid-4 { grid-template-columns: repeat(2, 1fr); gap: 12px; }
             .grid-3 { grid-template-columns: 1fr; }
-            .hero-main .hero-title { font-size: 1.5rem; }
+            .story-grid-3x3 { grid-template-columns: 1fr; }
             .footer-grid { grid-template-columns: 1fr; gap: 24px; }
         }
 
         @media (max-width: 480px) {
             .grid-4 { grid-template-columns: 1fr; }
-            .hero-main { min-height: 280px; }
+            .hero-slider-image { min-height: 180px; }
         }
-    
+
+        /* Play page specific styles */
+        .play-section {
+            padding: 120px 0 60px;
+        }
+
+        .play-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 32px;
+        }
+
+        .play-header h1 {
+            font-size: 2rem;
+            font-weight: 800;
+            letter-spacing: -1px;
+            color: var(--text);
+        }
+
+        .play-header .score-display {
+            display: flex;
+            align-items: center;
+            gap: 24px;
+            font-size: 1.2rem;
+            font-weight: 700;
+            color: var(--text);
+        }
+
+        .play-header .score-display .score {
+            font-size: 1.5rem;
+            font-weight: 800;
+            color: var(--accent);
+        }
+
+        .game-container {
+            position: relative;
+            width: 100%;
+            max-width: 800px;
+            margin: 0 auto;
+            border: 2px solid var(--border);
+            background: #1a3d1a;
+            overflow: hidden;
+        }
+
+        .game-container canvas {
+            display: block;
+            width: 100%;
+            height: auto;
+            aspect-ratio: 800/500;
+        }
+
+        .game-controls {
+            display: flex;
+            justify-content: center;
+            gap: 16px;
+            margin-top: 24px;
+            flex-wrap: wrap;
+        }
+
+        .game-btn {
+            padding: 10px 28px;
+            background: var(--accent);
+            color: #fff;
+            border: none;
+            font-family: inherit;
+            font-size: 0.85rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.8px;
+            cursor: pointer;
+            transition: background var(--transition);
+        }
+
+        .game-btn:hover { background: var(--accent-soft); }
+
+        .game-btn.secondary {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            color: var(--text-secondary);
+        }
+
+        .game-btn.secondary:hover { border-color: var(--accent); color: var(--accent); }
+
+        .game-instructions {
+            text-align: center;
+            margin-top: 16px;
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            line-height: 1.6;
+        }
+
+        @media (max-width: 768px) {
+            .play-header { flex-direction: column; gap: 16px; align-items: flex-start; }
+        }
     </style>
 </head>
 <body>
-<header class="header">
+
+    <!-- HEADER -->
+    <header class="header">
         <div class="header-inner">
             <div class="header-left">
                 <a href="index.html" class="logo">KICK<span>OFF</span></a>
@@ -790,30 +1119,35 @@
         </div>
     </header>
 
-
-    <section class="hero">
+    <!-- PLAY SECTION -->
+    <section class="section play-section">
         <div class="container">
-            <div class="section-header" style="margin-bottom:0;padding-top:100px;">
-                <h2 class="section-title">Matches</h2>
+            <div class="play-header">
+                <h1>⚽ Kickoff</h1>
+                <div class="score-display">
+                    <span>You <span class="score" id="playerScore">0</span></span>
+                    <span style="color:var(--text-muted)">|</span>
+                    <span><span class="score" id="aiScore">0</span> AI</span>
+                </div>
+            </div>
+            
+            <div class="game-container">
+                <canvas id="gameCanvas" width="800" height="500"></canvas>
+            </div>
+            
+            <div class="game-controls">
+                <button class="game-btn" id="startBtn">Start Game</button>
+                <button class="game-btn secondary" id="resetBtn">Reset</button>
+            </div>
+            
+            <div class="game-instructions">
+                Move your paddle with <strong>mouse</strong> or touch. First to 5 goals wins!
             </div>
         </div>
     </section>
-    <section class="section">
-        <div class="container">
-            <div class="page-header">
-        <div class="page-header-inner">
-            <a href="index.html" class="back-button"><i class="fas fa-arrow-left"></i> Back to Home</a>
-            <h1 class="page-title">Matches</h1>
-        </div>
-    </div>
 
-    <div class="content-area">
-        <div class="matches-grid" id="matchesGrid"></div>
-    </div>
-        </div>
-    </section>
-
-<footer class="footer">
+    <!-- FOOTER -->
+    <footer class="footer">
         <div class="container">
             <div class="footer-grid">
                 <div class="footer-brand">
@@ -842,27 +1176,6 @@
             </div>
         </div>
     </footer>
-<script>
-        document.querySelectorAll('.nav a').forEach(a => {
-            const page = a.getAttribute('href');
-            if (location.pathname.endsWith(page)) {
-                a.classList.add('active');
-            }
-        });
-        // Theme toggle
-        const html = document.documentElement;
-        const toggle = document.getElementById('themeToggle');
-
-        const savedTheme = localStorage.getItem('theme') || 'dark';
-        html.setAttribute('data-theme', savedTheme);
-
-        toggle.addEventListener('click', () => {
-            const current = html.getAttribute('data-theme');
-            const next = current === 'dark' ? 'light' : 'dark';
-            html.setAttribute('data-theme', next);
-            localStorage.setItem('theme', next);
-        });
-    </script>
 
     <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">
         <span class="icon-wrap">
@@ -870,5 +1183,239 @@
             <span class="sun-circle"></span>
         </span>
     </button>
+
+    <script>
+        // Theme toggle
+        const html = document.documentElement;
+        const toggle = document.getElementById('themeToggle');
+        const savedTheme = localStorage.getItem('theme') || 'dark';
+        html.setAttribute('data-theme', savedTheme);
+        toggle.addEventListener('click', () => {
+            const current = html.getAttribute('data-theme');
+            const next = current === 'dark' ? 'light' : 'dark';
+            html.setAttribute('data-theme', next);
+            localStorage.setItem('theme', next);
+        });
+
+        // Active nav
+        document.querySelectorAll('.nav a').forEach(a => {
+            const page = a.getAttribute('href');
+            if (location.pathname.endsWith(page)) {
+                a.classList.add('active');
+            }
+        });
+
+        // === FOOTBALL GAME (Pong-style) ===
+        const canvas = document.getElementById('gameCanvas');
+        const ctx = canvas.getContext('2d');
+        const playerScoreEl = document.getElementById('playerScore');
+        const aiScoreEl = document.getElementById('aiScore');
+
+        const W = 800, H = 500;
+        const PADDLE_W = 12, PADDLE_H = 70;
+        const BALL_SIZE = 12;
+        const SPEED_INIT = 4.5;
+        const WIN_SCORE = 5;
+
+        let playerY = H / 2 - PADDLE_H / 2;
+        let aiY = H / 2 - PADDLE_H / 2;
+        let ballX = W / 2, ballY = H / 2;
+        let ballDX = SPEED_INIT, ballDY = SPEED_INIT * 0.6;
+        let playerScore = 0, aiScore = 0;
+        let running = false;
+        let animId = null;
+        let mouseY = H / 2;
+
+        // Field markings
+        function drawField() {
+            ctx.fillStyle = '#1a6e2e';
+            ctx.fillRect(0, 0, W, H);
+            
+            ctx.fillStyle = '#1a6730';
+            for (let i = 0; i < 10; i++) {
+                if (i % 2 === 0) continue;
+                ctx.fillRect(i * 80, 0, 40, H);
+            }
+            
+            ctx.strokeStyle = 'rgba(255,255,255,0.3)';
+            ctx.lineWidth = 2;
+            
+            ctx.strokeRect(2, 2, W - 4, H - 4);
+            
+            ctx.beginPath();
+            ctx.moveTo(W / 2, 0);
+            ctx.lineTo(W / 2, H);
+            ctx.stroke();
+            
+            ctx.beginPath();
+            ctx.arc(W / 2, H / 2, 60, 0, Math.PI * 2);
+            ctx.stroke();
+            
+            ctx.fillStyle = 'rgba(255,255,255,0.3)';
+            ctx.beginPath();
+            ctx.arc(W / 2, H / 2, 4, 0, Math.PI * 2);
+            ctx.fill();
+            
+            ctx.strokeRect(0, H / 2 - 100, 40, 200);
+            ctx.strokeRect(W - 40, H / 2 - 100, 40, 200);
+            
+            ctx.strokeStyle = 'rgba(255,255,255,0.4)';
+            ctx.strokeRect(0, H / 2 - 70, 16, 140);
+            ctx.strokeRect(W - 16, H / 2 - 70, 16, 140);
+        }
+
+        function drawPaddles() {
+            ctx.fillStyle = '#0e8a46';
+            ctx.shadowColor = 'rgba(14,138,70,0.4)';
+            ctx.shadowBlur = 10;
+            ctx.fillRect(20, playerY, PADDLE_W, PADDLE_H);
+            
+            ctx.fillStyle = '#e74c3c';
+            ctx.shadowColor = 'rgba(231,76,60,0.4)';
+            ctx.shadowBlur = 10;
+            ctx.fillRect(W - 20 - PADDLE_W, aiY, PADDLE_W, PADDLE_H);
+            
+            ctx.shadowBlur = 0;
+        }
+
+        function drawBall() {
+            ctx.fillStyle = '#fff';
+            ctx.shadowColor = 'rgba(255,255,255,0.3)';
+            ctx.shadowBlur = 8;
+            ctx.beginPath();
+            ctx.arc(ballX, ballY, BALL_SIZE / 2, 0, Math.PI * 2);
+            ctx.fill();
+            ctx.shadowBlur = 0;
+            
+            ctx.strokeStyle = '#333';
+            ctx.lineWidth = 1;
+            ctx.beginPath();
+            ctx.arc(ballX, ballY, BALL_SIZE / 2, 0, Math.PI * 2);
+            ctx.stroke();
+        }
+
+        function resetBall() {
+            ballX = W / 2;
+            ballY = H / 2;
+            const angle = (Math.random() * Math.PI / 3) - Math.PI / 6;
+            const dir = Math.random() > 0.5 ? 1 : -1;
+            ballDX = dir * SPEED_INIT * Math.cos(angle);
+            ballDY = SPEED_INIT * Math.sin(angle);
+        }
+
+        function resetGame() {
+            playerScore = 0;
+            aiScore = 0;
+            playerScoreEl.textContent = '0';
+            aiScoreEl.textContent = '0';
+            playerY = H / 2 - PADDLE_H / 2;
+            aiY = H / 2 - PADDLE_H / 2;
+            running = false;
+            resetBall();
+            if (animId) { cancelAnimationFrame(animId); animId = null; }
+            draw();
+            document.getElementById('startBtn').textContent = 'Start Game';
+        }
+
+        function update() {
+            if (!running) return;
+            
+            ballX += ballDX;
+            ballY += ballDY;
+            
+            if (ballY - BALL_SIZE / 2 <= 0 || ballY + BALL_SIZE / 2 >= H) {
+                ballDY = -ballDY;
+            }
+            
+            if (ballX - BALL_SIZE / 2 <= 20 + PADDLE_W &&
+                ballX - BALL_SIZE / 2 >= 20 &&
+                ballY >= playerY && ballY <= playerY + PADDLE_H) {
+                ballDX = -ballDX;
+                const hitPos = (ballY - (playerY + PADDLE_H / 2)) / (PADDLE_H / 2);
+                ballDY += hitPos * 0.5;
+            }
+            
+            if (ballX + BALL_SIZE / 2 >= W - 20 - PADDLE_W &&
+                ballX + BALL_SIZE / 2 <= W - 20 &&
+                ballY >= aiY && ballY <= aiY + PADDLE_H) {
+                ballDX = -ballDX;
+                const hitPos = (ballY - (aiY + PADDLE_H / 2)) / (PADDLE_H / 2);
+                ballDY += hitPos * 0.5;
+            }
+            
+            const aiCenter = aiY + PADDLE_H / 2;
+            const diff = ballY - aiCenter;
+            const aiSpeed = 2.8;
+            if (Math.abs(diff) > 15) {
+                aiY += Math.sign(diff) * aiSpeed;
+            }
+            aiY = Math.max(0, Math.min(H - PADDLE_H, aiY));
+            
+            const targetY = mouseY - PADDLE_H / 2;
+            playerY += (targetY - playerY) * 0.2;
+            playerY = Math.max(0, Math.min(H - PADDLE_H, playerY));
+            
+            if (ballX < 0) {
+                aiScore++;
+                aiScoreEl.textContent = aiScore;
+                if (aiScore >= WIN_SCORE) {
+                    running = false;
+                    document.getElementById('startBtn').textContent = 'AI Wins! Play Again';
+                }
+                resetBall();
+            }
+            if (ballX > W) {
+                playerScore++;
+                playerScoreEl.textContent = playerScore;
+                if (playerScore >= WIN_SCORE) {
+                    running = false;
+                    document.getElementById('startBtn').textContent = 'You Win! Play Again';
+                }
+                resetBall();
+            }
+            
+            draw();
+            animId = requestAnimationFrame(update);
+        }
+
+        function draw() {
+            drawField();
+            drawPaddles();
+            drawBall();
+            
+            ctx.fillStyle = 'rgba(14,138,70,0.15)';
+            ctx.fillRect(0, H / 2 - 70, 16, 140);
+            ctx.fillStyle = 'rgba(231,76,60,0.15)';
+            ctx.fillRect(W - 16, H / 2 - 70, 16, 140);
+        }
+
+        canvas.addEventListener('mousemove', (e) => {
+            const rect = canvas.getBoundingClientRect();
+            const scaleY = H / rect.height;
+            mouseY = (e.clientY - rect.top) * scaleY;
+        });
+
+        canvas.addEventListener('touchmove', (e) => {
+            e.preventDefault();
+            const rect = canvas.getBoundingClientRect();
+            const scaleY = H / rect.height;
+            mouseY = (e.touches[0].clientY - rect.top) * scaleY;
+        }, { passive: false });
+
+        document.getElementById('startBtn').addEventListener('click', () => {
+            if (running) return;
+            if (playerScore >= WIN_SCORE || aiScore >= WIN_SCORE) {
+                resetGame();
+            }
+            running = true;
+            document.getElementById('startBtn').textContent = 'Playing...';
+            resetBall();
+            update();
+        });
+
+        document.getElementById('resetBtn').addEventListener('click', resetGame);
+
+        draw();
+    </script>
 </body>
 </html>

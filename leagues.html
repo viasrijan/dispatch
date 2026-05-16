@@ -131,9 +131,21 @@
         }
 
         .nav a:hover { opacity: 1; color: var(--accent); }
+        .nav a.active { opacity: 1; color: var(--accent); }
+
+        .play-nav {
+            background: var(--accent);
+            color: #fff !important;
+            padding: 6px 16px !important;
+            opacity: 1 !important;
+            font-family: inherit;
+        }
+
+        .play-nav:hover { background: var(--accent-soft) !important; color: #fff !important; }
 
         [data-theme="light"] .nav a { color: var(--text); opacity: 0.85; }
         [data-theme="light"] .nav a:hover { opacity: 1; }
+        [data-theme="light"] .nav a.active { opacity: 1; }
 
         .header-right {
             display: flex;
@@ -654,6 +666,39 @@
             margin-top: 4px;
         }
 
+        /* === LEAGUE TABLE === */
+        .leagues-container { padding: 100px 24px 60px; max-width: 1200px; margin: 0 auto; }
+        .league-section { background: var(--bg-card); border: 1px solid var(--border); overflow-x: auto; }
+        .league-table-wrap { padding: 24px; min-width: 720px; }
+        .league-tabs { display: flex; gap: 0; border-bottom: 1px solid var(--border); margin-bottom: 24px; flex-wrap: wrap; }
+        .league-tab { display: flex; align-items: center; gap: 8px; padding: 12px 24px; font-size: 0.8rem; font-weight: 600; color: var(--text-muted); cursor: pointer; border: none; background: none; text-transform: uppercase; letter-spacing: 0.5px; transition: all var(--transition); font-family: inherit; }
+        .league-tab:hover { color: var(--text-secondary); }
+        .league-tab.active { color: var(--accent); border-bottom: 2px solid var(--accent); }
+        .league-tab .tab-flag { width: 20px; height: 14px; object-fit: cover; flex-shrink: 0; }
+        .league-table-header { display: grid; grid-template-columns: 28px 1fr 32px 28px 28px 28px 32px 32px 32px 36px auto; padding: 10px 0; font-size: 0.6rem; font-weight: 600; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.5px; border-bottom: 1px solid var(--border); align-items: center; gap: 4px; }
+        .league-table-header span { text-align: center; }
+        .league-table-header span:nth-child(2) { text-align: left; }
+        .league-table-row { display: grid; grid-template-columns: 28px 1fr 32px 28px 28px 28px 32px 32px 32px 36px auto; padding: 8px 0; font-size: 0.8rem; align-items: center; border-bottom: 1px solid var(--border-light); transition: background var(--transition); gap: 4px; }
+        .league-table-row:last-child { border-bottom: none; }
+        .league-table-row:hover { background: var(--bg-elevated); }
+        .league-table-row > * { text-align: center; }
+        .league-table-row .league-team-wrap { text-align: left; }
+        .league-position { color: var(--text-muted); font-weight: 600; }
+        .league-position.top-4 { color: var(--accent); }
+        .league-team-wrap { display: flex; align-items: center; gap: 8px; }
+        .league-team-wrap .team-badge { width: 18px; height: 18px; object-fit: contain; flex-shrink: 0; }
+        .league-team { font-weight: 500; color: var(--text); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+        .league-stat { color: var(--text-secondary); font-size: 0.75rem; }
+        .league-gd { font-weight: 600; font-size: 0.8rem; }
+        .league-gd.positive { color: var(--accent); }
+        .league-gd.negative { color: #e74c3c; }
+        .league-points { font-weight: 700; color: var(--accent); font-size: 0.85rem; }
+        .form-dots { display: flex; gap: 3px; justify-content: center; align-items: center; }
+        .form-dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
+        .form-dot.w { background: var(--accent); }
+        .form-dot.d { background: #888; }
+        .form-dot.l { background: #e74c3c; }
+
         /* === LEAGUE TAG COLORS === */
         [data-league="breaking"] { background: var(--tag-breaking); }
         [data-league="premier"] { background: var(--tag-premier); }
@@ -763,6 +808,7 @@
                         <li><a href="leagues.html">Leagues</a></li>
                         <li><a href="rumors.html">Rumors</a></li>
                         <li><a href="contact.html">Contact</a></li>
+                        <li><a href="play.html" class="play-nav">Play</a></li>
                     </ul>
                 </nav>
             </div>
@@ -795,7 +841,7 @@
                     <button class="league-tab" data-index="4"><img class="tab-flag" src="https://flagcdn.com/w40/fr.png" alt="">Ligue 1</button>
                 </div>
                 <div class="league-table">
-                    <div class="league-table-header"><span>#</span><span>Team</span><span>GD</span><span>Pts</span></div>
+                    <div class="league-table-header"><span>#</span><span>Team</span><span>MP</span><span>W</span><span>D</span><span>L</span><span>GF</span><span>GA</span><span>GD</span><span>Pts</span><span>Form</span></div>
                     <div id="leagueTableBody"></div>
                 </div>
             </div>
@@ -841,6 +887,12 @@
     </button>
 
 <script>
+        document.querySelectorAll('.nav a').forEach(a => {
+            const page = a.getAttribute('href');
+            if (location.pathname.endsWith(page)) {
+                a.classList.add('active');
+            }
+        });
         const LEAGUES = [
             { id: 39, name: 'Premier League', flag: 'https://flagcdn.com/w40/gb-eng.png' },
             { id: 140, name: 'La Liga', flag: 'https://flagcdn.com/w40/es.png' },
@@ -859,129 +911,128 @@
 
         const FALLBACK = {
             39: [
-                ['Arsenal','https://media.api-sports.io/football/teams/42.png',1,42,79],
-                ['Man City','https://media.api-sports.io/football/teams/50.png',2,43,77],
-                ['Man United','https://media.api-sports.io/football/teams/33.png',3,15,65],
-                ['Aston Villa','https://media.api-sports.io/football/teams/66.png',4,6,62],
-                ['Liverpool','https://media.api-sports.io/football/teams/40.png',5,10,59],
-                ['Bournemouth','https://media.api-sports.io/football/teams/35.png',6,4,55],
-                ['Brighton','https://media.api-sports.io/football/teams/51.png',7,10,53],
-                ['Brentford','https://media.api-sports.io/football/teams/55.png',8,3,51],
-                ['Chelsea','https://media.api-sports.io/football/teams/49.png',9,6,49],
-                ['Everton','https://media.api-sports.io/football/teams/45.png',10,0,49],
-                ['Tottenham','https://media.api-sports.io/football/teams/47.png',11,2,47],
-                ['Newcastle','https://media.api-sports.io/football/teams/34.png',12,-1,46],
-                ['Fulham','https://media.api-sports.io/football/teams/36.png',13,-3,44],
-                ['Wolves','https://media.api-sports.io/football/teams/39.png',14,-5,42],
-                ['West Ham','https://media.api-sports.io/football/teams/48.png',15,-8,40],
-                ['Crystal Palace','https://media.api-sports.io/football/teams/52.png',16,-10,38],
-                ['Nott\'ham Forest','https://media.api-sports.io/football/teams/65.png',17,-12,35],
-                ['Leicester','https://media.api-sports.io/football/teams/46.png',18,-15,32],
-                ['Southampton','https://media.api-sports.io/football/teams/41.png',19,-22,28],
-                ['Ipswich','https://media.api-sports.io/football/teams/60.png',20,-30,22]
+                ['Arsenal','https://media.api-sports.io/football/teams/42.png',1,38,28,5,5,91,29,42,89,'WWDLW'],
+                ['Man City','https://media.api-sports.io/football/teams/50.png',2,38,27,7,4,89,33,56,88,'WWWWD'],
+                ['Man United','https://media.api-sports.io/football/teams/33.png',3,38,25,6,7,72,37,35,81,'WLWWW'],
+                ['Aston Villa','https://media.api-sports.io/football/teams/66.png',4,38,24,5,9,76,46,30,77,'WWDWW'],
+                ['Liverpool','https://media.api-sports.io/football/teams/40.png',5,38,22,8,8,78,39,39,74,'DLWWW'],
+                ['Bournemouth','https://media.api-sports.io/football/teams/35.png',6,38,19,9,10,65,45,20,66,'WLWDL'],
+                ['Brighton','https://media.api-sports.io/football/teams/51.png',7,38,18,10,10,68,50,18,64,'DWWLL'],
+                ['Brentford','https://media.api-sports.io/football/teams/55.png',8,38,17,8,13,59,48,11,59,'WDLWW'],
+                ['Chelsea','https://media.api-sports.io/football/teams/49.png',9,38,16,9,13,63,54,9,57,'LWWLD'],
+                ['Everton','https://media.api-sports.io/football/teams/45.png',10,38,15,10,13,48,44,4,55,'DLDLW'],
+                ['Tottenham','https://media.api-sports.io/football/teams/47.png',11,38,14,8,16,59,57,2,50,'WLLWD'],
+                ['Newcastle','https://media.api-sports.io/football/teams/34.png',12,38,13,9,16,50,52,-2,48,'LDWLW'],
+                ['Fulham','https://media.api-sports.io/football/teams/36.png',13,38,12,10,16,45,50,-5,46,'WDLWL'],
+                ['Wolves','https://media.api-sports.io/football/teams/39.png',14,38,11,8,19,42,58,-16,41,'LWWDL'],
+                ['West Ham','https://media.api-sports.io/football/teams/48.png',15,38,10,9,19,40,60,-20,39,'LLWLD'],
+                ['Crystal Palace','https://media.api-sports.io/football/teams/52.png',16,38,9,10,19,38,55,-17,37,'WLDLL'],
+                ['Nott\'ham Forest','https://media.api-sports.io/football/teams/65.png',17,38,8,9,21,35,62,-27,33,'LDLLW'],
+                ['Leicester','https://media.api-sports.io/football/teams/46.png',18,38,7,8,23,33,68,-35,29,'LLLWD'],
+                ['Southampton','https://media.api-sports.io/football/teams/41.png',19,38,5,6,27,28,78,-50,21,'LDLLL'],
+                ['Ipswich','https://media.api-sports.io/football/teams/60.png',20,38,3,5,30,22,88,-66,14,'LLLLL']
             ],
             140: [
-                ['Barcelona','https://media.api-sports.io/football/teams/529.png',1,59,91],
-                ['Real Madrid','https://media.api-sports.io/football/teams/541.png',2,39,80],
-                ['Villarreal','https://media.api-sports.io/football/teams/533.png',3,24,69],
-                ['Atlético Madrid','https://media.api-sports.io/football/teams/530.png',4,21,66],
-                ['Real Betis','https://media.api-sports.io/football/teams/537.png',5,12,57],
-                ['Celta Vigo','https://media.api-sports.io/football/teams/538.png',6,4,50],
-                ['Getafe','https://media.api-sports.io/football/teams/546.png',7,-6,48],
-                ['Real Sociedad','https://media.api-sports.io/football/teams/548.png',8,-1,45],
-                ['Athletic Club','https://media.api-sports.io/football/teams/531.png',9,-13,44],
-                ['Rayo Vallecano','https://media.api-sports.io/football/teams/547.png',10,-6,44],
-                ['Osasuna','https://media.api-sports.io/football/teams/545.png',11,-8,42],
-                ['Sevilla','https://media.api-sports.io/football/teams/536.png',12,-10,41],
-                ['Mallorca','https://media.api-sports.io/football/teams/544.png',13,-12,39],
-                ['Valencia','https://media.api-sports.io/football/teams/532.png',14,-14,37],
-                ['Girona','https://media.api-sports.io/football/teams/543.png',15,-16,35],
-                ['Alavés','https://media.api-sports.io/football/teams/542.png',16,-18,33],
-                ['Las Palmas','https://media.api-sports.io/football/teams/553.png',17,-20,30],
-                ['Espanyol','https://media.api-sports.io/football/teams/540.png',18,-22,28],
-                ['Valladolid','https://media.api-sports.io/football/teams/556.png',19,-25,25],
-                ['Leganés','https://media.api-sports.io/football/teams/555.png',20,-28,22]
+                ['Barcelona','https://media.api-sports.io/football/teams/529.png',1,38,29,4,5,97,38,59,91,'WWWDW'],
+                ['Real Madrid','https://media.api-sports.io/football/teams/541.png',2,38,26,6,6,86,36,50,84,'WWLWW'],
+                ['Villarreal','https://media.api-sports.io/football/teams/533.png',3,38,22,5,11,72,42,30,71,'WLWWD'],
+                ['Atlético Madrid','https://media.api-sports.io/football/teams/530.png',4,38,20,8,10,66,38,28,68,'DWWLW'],
+                ['Real Betis','https://media.api-sports.io/football/teams/537.png',5,38,18,9,11,58,45,13,63,'WDLWW'],
+                ['Celta Vigo','https://media.api-sports.io/football/teams/538.png',6,38,16,8,14,55,50,5,56,'LWWDL'],
+                ['Getafe','https://media.api-sports.io/football/teams/546.png',7,38,15,10,13,48,50,-2,55,'DLWLD'],
+                ['Real Sociedad','https://media.api-sports.io/football/teams/548.png',8,38,14,9,15,50,48,2,51,'WLDWL'],
+                ['Athletic Club','https://media.api-sports.io/football/teams/531.png',9,38,13,11,14,46,49,-3,50,'LDWWL'],
+                ['Rayo Vallecano','https://media.api-sports.io/football/teams/547.png',10,38,13,9,16,42,48,-6,48,'DWLWL'],
+                ['Osasuna','https://media.api-sports.io/football/teams/545.png',11,38,12,10,16,44,51,-7,46,'WLLDW'],
+                ['Sevilla','https://media.api-sports.io/football/teams/536.png',12,38,11,10,17,42,52,-10,43,'LWDLL'],
+                ['Mallorca','https://media.api-sports.io/football/teams/544.png',13,38,10,11,17,38,49,-11,41,'DLWLD'],
+                ['Valencia','https://media.api-sports.io/football/teams/532.png',14,38,10,9,19,40,56,-16,39,'WLLDL'],
+                ['Girona','https://media.api-sports.io/football/teams/543.png',15,38,9,10,19,42,58,-16,37,'LDWLL'],
+                ['Alavés','https://media.api-sports.io/football/teams/542.png',16,38,8,11,19,35,55,-20,35,'LLWDL'],
+                ['Las Palmas','https://media.api-sports.io/football/teams/553.png',17,38,7,12,19,36,60,-24,33,'WLDLL'],
+                ['Espanyol','https://media.api-sports.io/football/teams/540.png',18,38,6,10,22,32,62,-30,28,'LLLWD'],
+                ['Valladolid','https://media.api-sports.io/football/teams/556.png',19,38,5,8,25,28,66,-38,23,'LDLLL'],
+                ['Leganés','https://media.api-sports.io/football/teams/555.png',20,38,4,6,28,22,72,-50,18,'LLLLD']
             ],
             135: [
-                ['Inter','https://media.api-sports.io/football/teams/505.png',1,54,85],
-                ['Napoli','https://media.api-sports.io/football/teams/509.png',2,18,70],
-                ['Juventus','https://media.api-sports.io/football/teams/496.png',3,29,68],
-                ['Milan','https://media.api-sports.io/football/teams/489.png',4,18,67],
-                ['Roma','https://media.api-sports.io/football/teams/497.png',5,24,67],
-                ['Como','https://media.api-sports.io/football/teams/504.png',6,32,65],
-                ['Atalanta','https://media.api-sports.io/football/teams/499.png',7,16,58],
-                ['Bologna','https://media.api-sports.io/football/teams/500.png',8,2,52],
-                ['Lazio','https://media.api-sports.io/football/teams/487.png',9,2,51],
-                ['Udinese','https://media.api-sports.io/football/teams/494.png',10,-1,50],
-                ['Torino','https://media.api-sports.io/football/teams/503.png',11,-3,48],
-                ['Fiorentina','https://media.api-sports.io/football/teams/502.png',12,-5,45],
-                ['Genoa','https://media.api-sports.io/football/teams/495.png',13,-7,43],
-                ['Cagliari','https://media.api-sports.io/football/teams/490.png',14,-9,41],
-                ['Parma','https://media.api-sports.io/football/teams/501.png',15,-11,38],
-                ['Lecce','https://media.api-sports.io/football/teams/507.png',16,-14,36],
-                ['Empoli','https://media.api-sports.io/football/teams/511.png',17,-16,34],
-                ['Verona','https://media.api-sports.io/football/teams/493.png',18,-18,31],
-                ['Venezia','https://media.api-sports.io/football/teams/514.png',19,-21,28],
-                ['Monza','https://media.api-sports.io/football/teams/510.png',20,-25,24]
+                ['Inter','https://media.api-sports.io/football/teams/505.png',1,38,27,4,7,82,28,54,85,'WWWLW'],
+                ['Napoli','https://media.api-sports.io/football/teams/509.png',2,38,24,6,8,75,42,33,78,'WDWWL'],
+                ['Juventus','https://media.api-sports.io/football/teams/496.png',3,38,23,5,10,68,35,33,74,'WWLDW'],
+                ['Milan','https://media.api-sports.io/football/teams/489.png',4,38,22,5,11,70,42,28,71,'WDLWW'],
+                ['Roma','https://media.api-sports.io/football/teams/497.png',5,38,20,8,10,66,38,28,68,'DWWLW'],
+                ['Como','https://media.api-sports.io/football/teams/504.png',6,38,18,9,11,58,40,18,63,'WWLDL'],
+                ['Atalanta','https://media.api-sports.io/football/teams/499.png',7,38,17,8,13,62,45,17,59,'LDWWL'],
+                ['Bologna','https://media.api-sports.io/football/teams/500.png',8,38,15,10,13,48,42,6,55,'WLDWL'],
+                ['Lazio','https://media.api-sports.io/football/teams/487.png',9,38,14,9,15,50,48,2,51,'DLWWD'],
+                ['Udinese','https://media.api-sports.io/football/teams/494.png',10,38,13,10,15,42,48,-6,49,'LWDLL'],
+                ['Torino','https://media.api-sports.io/football/teams/503.png',11,38,12,11,15,40,46,-6,47,'WLLDW'],
+                ['Fiorentina','https://media.api-sports.io/football/teams/502.png',12,38,11,12,15,42,48,-6,45,'DLWLD'],
+                ['Genoa','https://media.api-sports.io/football/teams/495.png',13,38,10,11,17,38,50,-12,41,'LDWLL'],
+                ['Cagliari','https://media.api-sports.io/football/teams/490.png',14,38,9,12,17,36,50,-14,39,'WLLDL'],
+                ['Parma','https://media.api-sports.io/football/teams/501.png',15,38,8,13,17,34,50,-16,37,'DLWLD'],
+                ['Lecce','https://media.api-sports.io/football/teams/507.png',16,38,7,14,17,32,50,-18,35,'LLDWL'],
+                ['Empoli','https://media.api-sports.io/football/teams/511.png',17,38,6,15,17,30,48,-18,33,'WLLDL'],
+                ['Verona','https://media.api-sports.io/football/teams/493.png',18,38,5,13,20,28,52,-24,28,'LDLLL'],
+                ['Venezia','https://media.api-sports.io/football/teams/514.png',19,38,4,10,24,22,58,-36,22,'LLLWD'],
+                ['Monza','https://media.api-sports.io/football/teams/510.png',20,38,3,8,27,20,62,-42,17,'LLLLL']
             ],
             78: [
-                ['Bayern','https://media.api-sports.io/football/teams/157.png',1,82,86],
-                ['Dortmund','https://media.api-sports.io/football/teams/165.png',2,34,70],
-                ['Leipzig','https://media.api-sports.io/football/teams/173.png',3,22,65],
-                ['Stuttgart','https://media.api-sports.io/football/teams/172.png',4,22,61],
-                ['Hoffenheim','https://media.api-sports.io/football/teams/167.png',5,17,61],
-                ['Leverkusen','https://media.api-sports.io/football/teams/168.png',6,21,58],
-                ['Freiburg','https://media.api-sports.io/football/teams/160.png',7,-9,44],
-                ['Frankfurt','https://media.api-sports.io/football/teams/169.png',8,-4,43],
-                ['Augsburg','https://media.api-sports.io/football/teams/170.png',9,-12,43],
-                ['Mainz','https://media.api-sports.io/football/teams/164.png',10,-11,37],
-                ['Gladbach','https://media.api-sports.io/football/teams/163.png',11,-14,35],
-                ['Wolfsburg','https://media.api-sports.io/football/teams/161.png',12,-16,33],
-                ['Bochum','https://media.api-sports.io/football/teams/176.png',13,-18,31],
-                ['Union Berlin','https://media.api-sports.io/football/teams/159.png',14,-20,29],
-                ['Heidenheim','https://media.api-sports.io/football/teams/191.png',15,-22,27],
-                ['Werder Bremen','https://media.api-sports.io/football/teams/162.png',16,-24,25],
-                ['St. Pauli','https://media.api-sports.io/football/teams/181.png',17,-26,23],
-                ['Holstein Kiel','https://media.api-sports.io/football/teams/203.png',18,-28,20],
-                ['Darmstadt','https://media.api-sports.io/football/teams/180.png',19,-30,18],
-                ['Hamburg','https://media.api-sports.io/football/teams/166.png',20,-35,15]
+                ['Bayern','https://media.api-sports.io/football/teams/157.png',1,34,28,2,4,96,32,64,86,'WWWLW'],
+                ['Dortmund','https://media.api-sports.io/football/teams/165.png',2,34,24,6,4,82,38,44,78,'WWLWW'],
+                ['Leipzig','https://media.api-sports.io/football/teams/173.png',3,34,22,5,7,72,36,36,71,'WDLWW'],
+                ['Stuttgart','https://media.api-sports.io/football/teams/172.png',4,34,20,8,6,68,38,30,68,'DWWLW'],
+                ['Hoffenheim','https://media.api-sports.io/football/teams/167.png',5,34,18,6,10,62,42,20,60,'WLWDL'],
+                ['Leverkusen','https://media.api-sports.io/football/teams/168.png',6,34,16,8,10,60,38,22,56,'LDWWL'],
+                ['Freiburg','https://media.api-sports.io/football/teams/160.png',7,34,14,6,14,48,46,2,48,'WLLDW'],
+                ['Frankfurt','https://media.api-sports.io/football/teams/169.png',8,34,12,8,14,42,48,-6,44,'DLWLD'],
+                ['Augsburg','https://media.api-sports.io/football/teams/170.png',9,34,11,9,14,40,46,-6,42,'WLDWL'],
+                ['Mainz','https://media.api-sports.io/football/teams/164.png',10,34,10,10,14,38,46,-8,40,'LWWLL'],
+                ['Gladbach','https://media.api-sports.io/football/teams/163.png',11,34,9,11,14,36,46,-10,38,'LLWDL'],
+                ['Wolfsburg','https://media.api-sports.io/football/teams/161.png',12,34,8,12,14,34,46,-12,36,'DLLWL'],
+                ['Bochum','https://media.api-sports.io/football/teams/176.png',13,34,7,13,14,32,48,-16,34,'WLDLL'],
+                ['Union Berlin','https://media.api-sports.io/football/teams/159.png',14,34,7,10,17,30,48,-18,31,'LLWDL'],
+                ['Heidenheim','https://media.api-sports.io/football/teams/191.png',15,34,6,9,19,28,52,-24,27,'DLLLW'],
+                ['Werder Bremen','https://media.api-sports.io/football/teams/162.png',16,34,5,10,19,26,54,-28,25,'LLDLW'],
+                ['St. Pauli','https://media.api-sports.io/football/teams/181.png',17,34,4,8,22,22,56,-34,20,'LDLLL'],
+                ['Holstein Kiel','https://media.api-sports.io/football/teams/203.png',18,34,3,6,25,18,60,-42,15,'LLLLD']
             ],
             61: [
-                ['PSG','https://media.api-sports.io/football/teams/85.png',1,46,76],
-                ['Lens','https://media.api-sports.io/football/teams/93.png',2,27,67],
-                ['Lille','https://media.api-sports.io/football/teams/79.png',3,17,61],
-                ['Lyon','https://media.api-sports.io/football/teams/80.png',4,17,60],
-                ['Rennes','https://media.api-sports.io/football/teams/94.png',5,11,59],
-                ['Marseille','https://media.api-sports.io/football/teams/81.png',6,16,56],
-                ['Monaco','https://media.api-sports.io/football/teams/91.png',7,7,54],
-                ['Strasbourg','https://media.api-sports.io/football/teams/96.png',8,10,50],
-                ['Lorient','https://media.api-sports.io/football/teams/97.png',9,-1,45],
-                ['Toulouse','https://media.api-sports.io/football/teams/98.png',10,1,44],
-                ['Nantes','https://media.api-sports.io/football/teams/86.png',11,-2,42],
-                ['Nice','https://media.api-sports.io/football/teams/84.png',12,-4,40],
-                ['Montpellier','https://media.api-sports.io/football/teams/92.png',13,-6,38],
-                ['Reims','https://media.api-sports.io/football/teams/93.png',14,-8,36],
-                ['Brest','https://media.api-sports.io/football/teams/95.png',15,-10,34],
-                ['Angers','https://media.api-sports.io/football/teams/83.png',16,-14,31],
-                ['Le Havre','https://media.api-sports.io/football/teams/100.png',17,-18,28],
-                ['Auxerre','https://media.api-sports.io/football/teams/103.png',18,-22,25],
-                ['Saint-Étienne','https://media.api-sports.io/football/teams/106.png',19,-25,22],
-                ['Metz','https://media.api-sports.io/football/teams/89.png',20,-28,19]
+                ['PSG','https://media.api-sports.io/football/teams/85.png',1,34,24,5,5,82,28,54,77,'WWWLW'],
+                ['Lens','https://media.api-sports.io/football/teams/93.png',2,34,20,7,7,68,36,32,67,'WLWWD'],
+                ['Lille','https://media.api-sports.io/football/teams/79.png',3,34,18,8,8,62,38,24,62,'DWWLW'],
+                ['Lyon','https://media.api-sports.io/football/teams/80.png',4,34,18,5,11,60,42,18,59,'WDLWW'],
+                ['Rennes','https://media.api-sports.io/football/teams/94.png',5,34,16,6,12,56,44,12,54,'WWLDL'],
+                ['Marseille','https://media.api-sports.io/football/teams/81.png',6,34,15,8,11,52,42,10,53,'LWWDL'],
+                ['Monaco','https://media.api-sports.io/football/teams/91.png',7,34,14,9,11,50,42,8,51,'WLDWW'],
+                ['Strasbourg','https://media.api-sports.io/football/teams/96.png',8,34,13,8,13,48,46,2,47,'DLWLD'],
+                ['Lorient','https://media.api-sports.io/football/teams/97.png',9,34,12,9,13,42,44,-2,45,'WLLDW'],
+                ['Toulouse','https://media.api-sports.io/football/teams/98.png',10,34,11,10,13,40,44,-4,43,'LDWLW']
             ]
         };
 
         function renderTable(data) {
-            tbody.innerHTML = data.map(row =>
-                `<div class="league-table-row">
+            tbody.innerHTML = data.map(row => {
+                const gd = row[9];
+                const pts = row[10];
+                const form = row[11] || '';
+                const formDots = form.split('').map(r => `<span class="form-dot ${r.toLowerCase()}"></span>`).join('');
+                return `<div class="league-table-row">
                     <span class="league-position ${row[2] <= 4 ? 'top-4' : ''}">${row[2]}</span>
                     <span class="league-team-wrap">
                         <img class="team-badge" src="${row[1]}" alt="" loading="lazy">
                         <span class="league-team">${row[0]}</span>
                     </span>
-                    <span class="league-gd">${row[3] > 0 ? '+' : ''}${row[3]}</span>
-                    <span class="league-points">${row[4]}</span>
-                </div>`
-            ).join('');
+                    <span class="league-stat">${row[3]}</span>
+                    <span class="league-stat">${row[4]}</span>
+                    <span class="league-stat">${row[5]}</span>
+                    <span class="league-stat">${row[6]}</span>
+                    <span class="league-stat">${row[7]}</span>
+                    <span class="league-stat">${row[8]}</span>
+                    <span class="league-gd ${gd > 0 ? 'positive' : gd < 0 ? 'negative' : ''}">${gd > 0 ? '+' : ''}${gd}</span>
+                    <span class="league-points">${pts}</span>
+                    <span class="form-dots">${formDots}</span>
+                </div>`;
+            }).join('');
         }
 
         async function fetchLeague(leagueId) {
@@ -997,7 +1048,10 @@
                 const json = await res.json();
                 if (json.response && json.response[0] && json.response[0].league.standings[0]) {
                     const data = json.response[0].league.standings[0].map(t => [
-                        t.team.name, t.team.logo, t.rank, t.goalsDiff, t.points
+                        t.team.name, t.team.logo, t.rank,
+                        t.all.played, t.all.win, t.all.draw, t.all.lose,
+                        t.all.goals.for, t.all.goals.against,
+                        t.goalsDiff, t.points, t.form || ''
                     ]);
                     cache[leagueId] = data;
                     renderTable(data);

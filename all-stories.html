@@ -87,9 +87,21 @@
         .nav { display: flex; gap: 28px; list-style: none; }
         .nav a { font-size: 0.85rem; font-weight: 700; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 0.8px; opacity: 0.6; transition: opacity 0.4s ease, color 0.4s ease; padding: 4px 0; }
         .nav a:hover { opacity: 1; color: var(--accent); }
+        .nav a.active { opacity: 1; color: var(--accent); }
+
+        .play-nav {
+            background: var(--accent);
+            color: #fff !important;
+            padding: 6px 16px !important;
+            opacity: 1 !important;
+            font-family: inherit;
+        }
+
+        .play-nav:hover { background: var(--accent-soft) !important; color: #fff !important; }
 
         [data-theme="light"] .nav a { color: var(--text); opacity: 0.85; }
         [data-theme="light"] .nav a:hover { opacity: 1; }
+        [data-theme="light"] .nav a.active { opacity: 1; }
         .header-right { display: flex; align-items: center; gap: 16px; }
         .header-social { display: flex; gap: 16px; align-items: center; }
         .header-social a { color: var(--text-muted); font-size: 1rem; transition: color var(--transition); }
@@ -323,6 +335,7 @@
                         <li><a href="leagues.html">Leagues</a></li>
                         <li><a href="rumors.html">Rumors</a></li>
                         <li><a href="contact.html">Contact</a></li>
+                        <li><a href="play.html" class="play-nav">Play</a></li>
                     </ul>
                 </nav>
             </div>
@@ -472,6 +485,13 @@
 
         renderStories(currentPage);
         renderPagination();
+
+        document.querySelectorAll('.nav a').forEach(a => {
+            const page = a.getAttribute('href');
+            if (location.pathname.endsWith(page)) {
+                a.classList.add('active');
+            }
+        });
 
         // Theme toggle
         const html = document.documentElement;
