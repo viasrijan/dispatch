@@ -151,7 +151,7 @@
             width: 48px;
             height: 48px;
             border-radius: 50%;
-            border: 1px solid var(--border);
+            border: none;
             background: var(--bg-elevated);
             color: var(--text-secondary);
             cursor: pointer;
@@ -165,8 +165,6 @@
         }
 
         .theme-toggle:hover {
-            border-color: var(--accent);
-            color: var(--accent);
             background: var(--bg-card);
         }
 
@@ -176,7 +174,8 @@
             height: 20px;
         }
 
-        .theme-toggle .icon-wrap i {
+        .theme-toggle .icon-wrap i,
+        .theme-toggle .icon-wrap .sun-circle {
             position: absolute;
             inset: 0;
             display: flex;
@@ -186,10 +185,17 @@
         }
 
         .theme-toggle .icon-wrap .fa-moon { opacity: 1; }
-        .theme-toggle .icon-wrap .fa-sun { opacity: 0; }
+        .theme-toggle .icon-wrap .sun-circle {
+            opacity: 0;
+            width: 18px;
+            height: 18px;
+            border-radius: 50%;
+            background: #f5c542;
+            margin: auto;
+        }
 
         [data-theme="light"] .theme-toggle .icon-wrap .fa-moon { opacity: 0; }
-        [data-theme="light"] .theme-toggle .icon-wrap .fa-sun { opacity: 1; }
+        [data-theme="light"] .theme-toggle .icon-wrap .sun-circle { opacity: 1; }
 
 
         /* === HERO SLIDER (Modern editorial) === */
@@ -847,7 +853,7 @@
 
         .story-tile .story-tile-title {
             font-size: 0.9rem;
-            font-weight: 300;
+            font-weight: 400;
             line-height: 1.5;
             color: var(--text-secondary);
             transition: color var(--transition);
@@ -1164,7 +1170,7 @@
     <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">
         <span class="icon-wrap">
             <i class="fas fa-moon"></i>
-            <i class="fas fa-sun"></i>
+            <span class="sun-circle"></span>
         </span>
     </button>
 
