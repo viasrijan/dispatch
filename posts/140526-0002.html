@@ -3,270 +3,119 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>KICKOFF | Football News</title>
+    <title>Disgusting Penalty Decision! Celtic Win Title Race | KICKOFF</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
     <style>
         :root {
-            --bg-primary: #000000;
-            --bg-secondary: #000000;
-            --bg-tertiary: #000000;
-            --surface: #000000;
-            --border: #1a1a1a;
-            --border-light: #2a2a2a;
+            --bg: #161616;
+            --bg-elevated: #1e1e1e;
+            --bg-card: #242424;
+            --border: #2a2a2a;
+            --border-light: #333;
             --accent: #0e8a46;
-            --accent-hover: #0b6b36;
-            --accent-yellow: #f5c518;
-            --text-primary: #ffffff;
-            --text-secondary: #cccccc;
-            --text-muted: #666666;
+            --accent-soft: #1a9e52;
+            --accent-dim: #0a6e38;
+            --accent-glow: rgba(14, 138, 70, 0.15);
+            --text: #e8e8e8;
+            --text-secondary: #999;
+            --text-muted: #666;
+            --shadow: rgba(0,0,0,0.4);
+            --header-bg: rgba(22, 22, 22, 0.92);
+            --transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
         }
 
-        html {
-            background-color: #000000;
+        [data-theme="light"] {
+            --bg: #f5f5f0;
+            --bg-elevated: #eee;
+            --bg-card: #fff;
+            --border: #ddd;
+            --border-light: #e5e5e5;
+            --accent: #0e8a46;
+            --accent-soft: #1a9e52;
+            --accent-dim: #0a6e38;
+            --accent-glow: rgba(14, 138, 70, 0.08);
+            --text: #1a1a1a;
+            --text-secondary: #666;
+            --text-muted: #999;
+            --shadow: rgba(0,0,0,0.08);
+            --header-bg: rgba(245, 245, 240, 0.92);
         }
 
+        *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+        html { background: var(--bg); }
         body {
             font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-            background-color: var(--bg-primary);
-            color: var(--text-primary);
+            background: var(--bg);
+            color: var(--text);
             line-height: 1.6;
             -webkit-font-smoothing: antialiased;
+            transition: background var(--transition), color var(--transition);
         }
+        a { text-decoration: none; color: inherit; }
+        img { max-width: 100%; display: block; }
 
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-
-        a {
-            text-decoration: none;
-            color: inherit;
-            cursor: pointer;
-        }
-
-        .container {
-            max-width: 1200px;
-            width: 100%;
-            margin: 0 auto;
-            padding: 0 24px;
-        }
-
-        /* Navigation */
-        .top-bar {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            padding: 16px 24px;
+        /* Header */
+        .header {
+            position: fixed; top: 0; left: 0; right: 0; z-index: 1000;
+            background: var(--header-bg);
+            backdrop-filter: blur(16px);
+            -webkit-backdrop-filter: blur(16px);
             border-bottom: 1px solid var(--border);
-            background: #000000;
-            position: sticky;
-            top: 0;
-            z-index: 100;
-            width: 100%;
+            transition: background var(--transition), border-color var(--transition);
         }
-
-        .top-bar-content {
-            max-width: 1200px;
-            width: 100%;
-            margin: 0 auto;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
+        .header-inner {
+            max-width: 1200px; margin: 0 auto; padding: 0 24px;
+            display: flex; align-items: center; justify-content: space-between;
+            height: 64px;
         }
-
-        .logo {
-            font-size: 1.8rem;
-            font-weight: 800;
-            letter-spacing: -1px;
-            color: #0e8a46;
-            flex-shrink: 0;
+        .header-left { display: flex; align-items: center; gap: 40px; }
+        .logo { font-size: 1.6rem; font-weight: 900; letter-spacing: -1.5px; color: var(--accent); transition: color var(--transition); }
+        .logo span { color: var(--text); }
+        .nav { display: flex; gap: 28px; list-style: none; }
+        .nav a { font-size: 0.85rem; font-weight: 500; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 0.8px; transition: color var(--transition); padding: 4px 0; position: relative; }
+        .nav a::after { content: ''; position: absolute; bottom: -2px; left: 0; width: 0; height: 2px; background: var(--accent); transition: width var(--transition); }
+        .nav a:hover { color: var(--text); }
+        .nav a:hover::after { width: 100%; }
+        .header-right { display: flex; align-items: center; gap: 16px; }
+        .header-social { display: flex; gap: 16px; align-items: center; }
+        .header-social a { color: var(--text-muted); font-size: 1rem; transition: color var(--transition); }
+        .header-social a:hover { color: var(--accent); }
+        .theme-toggle {
+            width: 36px; height: 36px; border-radius: 10px;
+            border: 1px solid var(--border); background: var(--bg-card);
+            color: var(--text-secondary); cursor: pointer;
+            display: flex; align-items: center; justify-content: center;
+            font-size: 1rem; transition: all var(--transition);
         }
+        .theme-toggle:hover { border-color: var(--accent); color: var(--accent); background: var(--accent-glow); }
 
-        .nav-menu {
-            display: flex;
-            gap: 40px;
-            list-style: none;
-        }
-
-        .nav-menu a {
-            color: #ffffff;
-            font-size: 0.9rem;
-            font-weight: 500;
-            text-transform: capitalize;
-        }
-
-        .nav-menu a:hover {
-            color: #0e8a46;
-        }
-
-        .nav-right {
-            display: flex;
-            gap: 24px;
-            align-items: center;
-            flex-shrink: 0;
-        }
-
-        .nav-right a {
-            color: #ffffff;
-            font-size: 1.1rem;
-            transition: color 0.3s ease;
-        }
-
-        .nav-right a:hover.fa-instagram { color: #E4405F; }
-        .nav-right a:hover.fa-youtube { color: #FF0000; }
-        .nav-right a:hover.fa-x-twitter { color: #ffffff; }
-
-        /* Slider */
-        .featured {
-            padding: 60px 0 60px 0;
-        }
-
-        .slider-container {
-            flex: 1;
-            min-width: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-
-        .slider-main {
-            overflow: hidden;
-            border-radius: 12px;
-            width: 100%;
-            min-width: 0;
-            flex: 1 1 auto;
-        }
-
-        .slider-track {
-            display: flex;
-            transition: transform 0.5s ease;
-        }
-
-        .slide {
-            display: flex;
-            width: 100%;
-            min-width: 100%;
-            height: 281px;
-            flex-shrink: 0;
-            background: var(--surface);
-        }
-
-        .slide-image {
-            width: 420px;
-            height: 281px;
-            flex-shrink: 0;
-            overflow: hidden;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            background: var(--surface);
-        }
-
-        .slide-image img {
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
-        }
-
-        .slide-content {
-            flex: 1;
-            min-width: 0;
-            min-height: 281px;
-            padding: 28px 36px;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            background: var(--surface);
-        }
-
-        .slide-meta {
-            font-size: 0.85rem;
-            color: var(--text-secondary);
-            text-transform: capitalize;
-            letter-spacing: 0.5px;
-            margin-bottom: 12px;
-        }
-
-        .slide-title {
-            font-size: clamp(18px, 2.2vw, 28px);
-            font-weight: 700;
-            line-height: 1.25;
-            color: var(--text-primary);
-            margin: 0;
-            word-break: break-word;
-            overflow-wrap: break-word;
-            hyphens: auto;
-        }
-
-        .slider-arrow-wrap {
-            width: 100%;
-            padding: 0;
-        }
-
-        .slider-arrow-inner {
+        /* Post Layout */
+        .post-wrapper {
             max-width: 1200px;
             margin: 0 auto;
-            display: flex;
-            align-items: center;
-            gap: 0;
-            position: relative;
-        }
-
-        .slider-arrow {
-            width: 40px;
-            height: 40px;
-            flex-shrink: 0;
-            border-radius: 50%;
-            background: rgba(14, 138, 70, 0.95);
-            border: 1px solid rgba(14, 138, 70, 0.95);
-            color: #ffffff;
-            cursor: pointer;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 16px;
-            transition: all 0.25s ease;
-            z-index: 10;
-            position: absolute;
-            top: 50%;
-            transform: translateY(-50%);
-        }
-
-        .slider-arrow.prev {
-            left: -20px;
-        }
-
-        .slider-arrow.next {
-            right: -20px;
-        }
-
-        /* Article Container */
-        .article-container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 0 24px 60px;
+            padding: 100px 24px 60px;
         }
 
         .post-layout {
             display: flex;
-            gap: 40px;
+            gap: 48px;
             align-items: flex-start;
         }
 
         .post-image-wrap {
-            flex: 0 0 340px;
+            flex: 0 0 360px;
             border-radius: 12px;
             overflow: hidden;
-            background: var(--surface);
+            background: var(--bg-card);
+            border: 1px solid var(--border);
         }
 
         .post-image-wrap img {
             width: 100%;
             height: auto;
-            display: block;
             aspect-ratio: 16/10;
             object-fit: cover;
         }
@@ -279,746 +128,168 @@
         .back-btn {
             display: inline-flex;
             align-items: center;
-            gap: 10px;
-            padding: 8px 16px;
-            background: #0e8a46;
-            color: #ffffff;
-            border-radius: 6px;
+            gap: 8px;
             font-size: 0.85rem;
-            font-weight: 600;
-            transition: background 0.3s, color 0.3s, transform 0.2s;
+            font-weight: 500;
+            color: var(--text-muted);
             margin-bottom: 20px;
+            transition: color var(--transition);
         }
 
-        .back-btn:hover {
-            background: #ffffff;
-            color: #0e8a46;
-            transform: scale(1.02);
-        }
+        .back-btn:hover { color: var(--accent); }
 
-        .header-row {
-            display: flex;
-            align-items: center;
-            gap: 16px;
+        .post-tag {
+            display: inline-block;
+            font-size: 0.7rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            color: var(--accent);
+            background: var(--accent-glow);
+            padding: 4px 12px;
+            border-radius: 4px;
             margin-bottom: 12px;
         }
 
-        .meta-row {
-            display: flex;
-            align-items: center;
-            gap: 12px;
-        }
-
-        /* Article Header */
-        .article-header {
-            padding: 0 0 24px 0;
-            border-bottom: 1px solid var(--border);
-        }
-
-        .article-meta {
-            display: flex;
-            align-items: center;
-            gap: 12px;
-            margin-bottom: 16px;
-        }
-
-        .article-tag {
-            color: #0e8a46;
-            font-weight: 600;
-            text-transform: uppercase;
-            font-size: 0.8rem;
-        }
-
-        .article-tag::before {
-            content: "● ";
-        }
-
-        .article-category {
+        .post-category {
+            font-size: 0.85rem;
             color: var(--text-secondary);
-            font-size: 0.9rem;
+            margin-left: 12px;
         }
 
-        .article-title {
-            font-size: 2.2rem;
-            font-weight: 700;
-            line-height: 1.2;
-            margin-bottom: 16px;
-            color: #0e8a46;
+        .post-title {
+            font-size: 2.4rem;
+            font-weight: 800;
+            line-height: 1.15;
+            margin-bottom: 12px;
+            color: var(--text);
+            transition: color var(--transition);
         }
 
-        .article-time {
+        .post-time {
+            font-size: 0.85rem;
             color: var(--text-muted);
-            font-size: 0.9rem;
+            margin-bottom: 24px;
         }
 
-        /* Article Content */
-        .article-content {
-            padding: 24px 0;
-            font-size: 1.1rem;
-            line-height: 1.8;
-            color: var(--text-primary);
-        }
-
-        .article-content p {
-            margin-bottom: 20px;
-        }
-
-        /* Share Section */
-        .share-section {
-            padding: 24px 0;
-            border-top: 1px solid var(--border);
-            border-bottom: 1px solid var(--border);
-            display: flex;
-            align-items: center;
-            gap: 16px;
-        }
-
-        .share-label {
-            font-weight: 600;
-        }
-
-        .share-buttons {
-            display: flex;
-            gap: 12px;
-        }
-
-        .share-btn {
-            width: 40px;
-            height: 40px;
-            border-radius: 50%;
+        .post-divider {
+            height: 1px;
             background: var(--border);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            transition: background 0.3s;
+            margin-bottom: 24px;
         }
 
-        .share-btn:hover {
-            background: var(--accent);
+        .post-body {
+            font-size: 1.05rem;
+            line-height: 1.8;
+            color: var(--text-secondary);
+        }
+
+        .post-body p {
+            margin-bottom: 20px;
         }
 
         /* Footer */
-        .site-footer {
-            padding: 40px 24px 20px;
-            background: #000000;
+        .footer {
+            background: var(--bg-elevated);
             border-top: 1px solid var(--border);
-            width: 100%;
+            padding: 48px 0 24px;
+            transition: background var(--transition), border-color var(--transition);
         }
+        .footer-grid { display: grid; grid-template-columns: 2fr 1fr 1fr 1fr; gap: 60px; margin-bottom: 40px; max-width: 1200px; margin-left: auto; margin-right: auto; padding: 0 24px; }
+        .footer-brand .logo { font-size: 1.4rem; }
+        .footer-brand p { color: var(--text-secondary); font-size: 0.9rem; margin-top: 12px; max-width: 300px; line-height: 1.7; }
+        .footer-col h4 { font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: var(--text-muted); margin-bottom: 20px; }
+        .footer-col ul { list-style: none; }
+        .footer-col li { margin-bottom: 12px; }
+        .footer-col a { color: var(--text-secondary); font-size: 0.85rem; transition: color var(--transition); }
+        .footer-col a:hover { color: var(--text); }
+        .footer-bottom { padding-top: 24px; border-top: 1px solid var(--border); text-align: center; color: var(--text-muted); font-size: 0.8rem; max-width: 1200px; margin-left: auto; margin-right: auto; padding-left: 24px; padding-right: 24px; }
 
-        .site-footer-content {
-            max-width: 1200px;
-            width: 100%;
-            margin: 0 auto;
+        @media (max-width: 900px) {
+            .post-layout { flex-direction: column; }
+            .post-image-wrap { flex: none; width: 100%; max-width: 400px; }
+            .post-title { font-size: 1.8rem; }
         }
-
-        .footer-grid {
-            display: grid;
-            grid-template-columns: 2fr 1fr 1fr 1fr;
-            gap: 60px;
-            margin-bottom: 60px;
-        }
-
-        .footer-brand p {
-            color: var(--text-secondary);
-            margin-top: 16px;
-            font-size: 0.95rem;
-            max-width: 300px;
-        }
-
-        .footer-column h4 {
-            font-size: 0.9rem;
-            font-weight: 700;
-            margin-bottom: 20px;
-            text-transform: capitalize;
-            letter-spacing: 0.5px;
-        }
-
-        .footer-column ul {
-            list-style: none;
-        }
-
-        .footer-column li {
-            margin-bottom: 12px;
-        }
-
-        .footer-column a {
-            color: var(--text-secondary);
-            font-size: 0.9rem;
-            transition: color 0.3s ease;
-        }
-
-        .footer-column a:hover {
-            color: var(--text-primary);
-        }
-
-        .footer-bottom {
-            padding-top: 30px;
-            border-top: 1px solid var(--border);
-            text-align: center;
-            color: var(--text-muted);
-            font-size: 0.85rem;
-        }
-
-        /* Responsive */
-        @media (max-width: 1000px) {
-            .post-layout {
-                flex-direction: column;
-            }
-            .post-image-wrap {
-                flex: none;
-                width: 100%;
-                max-width: 400px;
-            }
-            .footer-grid {
-                grid-template-columns: repeat(2, 1fr);
-            }
-            .slide-image {
-                width: 340px;
-            }
-            .slide-content {
-                padding: 20px 24px;
-            }
-            .slide-title {
-                font-size: clamp(16px, 2.2vw, 24px);
-            }
-        }
-
         @media (max-width: 768px) {
-            .featured {
-                padding: 40px 16px;
-            }
-            .slider-arrow {
-                display: none;
-            }
-            .slide {
-                flex-direction: column;
-                height: auto;
-            }
-            .slide-image {
-                width: 100%;
-                height: 200px;
-            }
-            .slide-content {
-                min-height: auto;
-                padding: 18px;
-            }
-            .slide-title {
-                font-size: clamp(16px, 4vw, 22px);
-            }
-            .article-title {
-                font-size: 1.6rem;
-            }
-            .footer-grid {
-                grid-template-columns: 1fr;
-                gap: 32px;
-            }
-            .nav-menu {
-                display: none;
-            }
+            .nav { display: none; }
+            .header-social { display: none; }
+            .footer-grid { grid-template-columns: 1fr; gap: 24px; }
         }
-    /* Featured */
-        .featured {
-            padding: 60px 0 60px 0;
-        }
-
-/* Slider */
-        .slider-container {
-            flex: 1;
-            min-width: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-
-        .slider-main {
-            overflow: hidden;
-            border-radius: 12px;
-            width: 100%;
-            min-width: 1200px;
-            min-width: 0;
-            flex: 1 1 auto;
-        }
-
-        .slider-track {
-            display: flex;
-            transition: transform 0.5s ease;
-        }
-
-        .slide {
-            display: flex;
-            width: 100%;
-            min-width: 1200px;
-            min-width: 100%;
-            min-width: 1200px;
-            height: 281px;
-            flex-shrink: 0;
-            background: var(--surface);
-        }
-
-        .slide-image {
-            width: 420px;
-            height: 281px;
-            flex-shrink: 0;
-            overflow: hidden;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            background: var(--surface);
-        }
-
-        .slide-image img {
-            width: 100%;
-            min-width: 1200px;
-            height: 100%;
-            object-fit: cover;
-        }
-
-        .slide-content {
-            flex: 1;
-            min-width: 0;
-            min-height: 281px;
-            padding: 28px 36px;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            background: var(--surface);
-        }
-
-        .slide-meta {
-            font-size: 0.85rem;
-            color: var(--text-secondary);
-            text-transform: capitalize;
-            letter-spacing: 0.5px;
-            margin-bottom: 12px;
-        }
-
-        .slide-title {
-            font-size: clamp(18px, 2.2vw, 28px);
-            font-weight: 700;
-            line-height: 1.25;
-            color: var(--text-primary);
-            margin: 0;
-            word-break: break-word;
-            overflow-wrap: break-word;
-            hyphens: auto;
-        }
-
-        .slider-arrow-wrap {
-            width: 100%;
-            min-width: 1200px;
-            padding: 0;
-        }
-
-        .slider-arrow-inner {
-            max-width: 1200px;
-            width: 100%;
-            margin: 0 auto;
-            display: flex;
-            align-items: center;
-            gap: 0;
-            position: relative;
-        }
-
-        .slider-arrow {
-            width: 40px;
-            height: 40px;
-            flex-shrink: 0;
-            border-radius: 50%;
-            background: rgba(14, 138, 70, 0.95);
-            border: 1px solid rgba(14, 138, 70, 0.95);
-            color: #ffffff;
-            cursor: pointer;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 16px;
-            transition: all 0.25s ease;
-            z-index: 10;
-            position: absolute;
-            top: 50%;
-            transform: translateY(-50%);
-        }
-
-        .slider-arrow.prev {
-            left: -20px;
-        }
-
-        .slider-arrow.next {
-            right: -20px;
-        }
-
-        .slider-arrow:hover {
-            background: #ffffff;
-            color: #0e8a46;
-            border-color: #ffffff;
-        }
-
-        .slider-nav {
-            position: absolute;
-            bottom: 16px;
-            left: 50%;
-            transform: translateX(-50%);
-            display: flex;
-            gap: 10px;
-            z-index: 10;
-        }
-
-        .slider-dot {
-            width: 10px;
-            height: 10px;
-            border-radius: 50%;
-            background: rgba(255,255,255,0.35);
-            cursor: pointer;
-            transition: background 0.3s ease;
-        }
-
-        .slider-dot.active {
-            background: #0e8a46;
-        }
-
-        /* Bulletin Card */
-        .bulletin-card {
-            background: var(--surface);
-            border: 1px solid var(--border);
-            border-radius: 16px;
-            padding: 32px;
-            display: flex;
-            flex-direction: column;
-        }
-
-        .bulletin-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 24px;
-            padding-bottom: 16px;
-            border-bottom: 1px solid var(--border);
-        }
-
-        .bulletin-title {
-            font-size: 1.2rem;
-            font-weight: 700;
-        }
-
-        .bulletin-badge {
-            background: #0e8a46;
-            color: white;
-            padding: 4px 12px;
-            border-radius: 20px;
-            font-size: 0.75rem;
-            font-weight: 600;
-        }
-
-        .bulletin-list {
-            list-style: none;
-            flex: 1;
-        }
-
-        .bulletin-item {
-            padding: 16px 0;
-            border-bottom: 1px solid var(--border);
-        }
-
-        .bulletin-item:last-child {
-            border-bottom: none;
-        }
-
-        .bulletin-item a {
-            display: block;
-            transition: color 0.3s ease;
-        }
-
-        .bulletin-item a:hover {
-            color: #0e8a46;
-        }
-
-        .bulletin-item-title {
-            font-size: 0.95rem;
-            font-weight: 600;
-            line-height: 1.4;
-            margin-bottom: 4px;
-        }
-
-        .bulletin-item-meta {
-            font-size: 0.75rem;
-            color: var(--text-muted);
-        }
-
-        /* Mini Post Grid */
-        .mini-grid {
-            display: grid;
-            grid-template-columns: repeat(4, 1fr);
-            gap: 16px;
-        }
-
-        .mini-card {
-            display: block;
-        }
-
-        .mini-image {
-            width: 100%;
-            aspect-ratio: 1/1;
-            background: var(--surface);
-            border-radius: 8px;
-            margin-bottom: 8px;
-            overflow: hidden;
-        }
-
-        .mini-image img {
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
-            display: block;
-        }
-
-        .mini-title {
-            font-size: 1rem;
-            font-weight: 600;
-            line-height: 1.4;
-            transition: color 0.3s ease;
-        }
-
-        .mini-card:hover .mini-title {
-            color: #0e8a46;
-        }
-
-        .section-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 40px;
-        }
-
-        .section-title {
-            font-size: 1.5rem;
-            font-weight: 700;
-            letter-spacing: -0.5px;
-        }
-
-        .view-all {
-            color: #0e8a46;
-            font-size: 0.9rem;
-            font-weight: 600;
-        }
-
-        .more-button-container {
-            display: flex;
-            justify-content: center;
-            margin-top: 40px;
-        }
-
-        .more-button {
-            display: inline-flex;
-            align-items: center;
-            gap: 8px;
-            padding: 14px 24px;
-            background: #0e8a46;
-            border: none;
-            color: #ffffff;
-            font-size: 0.9rem;
-            font-weight: 600;
-            border-radius: 6px;
-            cursor: pointer;
-            transition: background 0.3s, color 0.3s, transform 0.2s;
-        }
-
-        .more-button:hover {
-            background: #ffffff;
-            color: #000000;
-        }
-
-        .featured-grid {
-            display: grid;
-            grid-template-columns: repeat(4, 1fr);
-            gap: 16px;
-        }
-
-        .featured-card {
-            display: block;
-        }
-
-        .featured-image {
-            width: 100%;
-            aspect-ratio: 1/1;
-            background: var(--surface);
-            border-radius: 12px;
-            margin-bottom: 12px;
-            overflow: hidden;
-            position: relative;
-        }
-
-        .featured-image img {
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
-            display: block;
-        }
-
-        .featured-placeholder {
-            width: 100%;
-            height: 100%;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            background: linear-gradient(135deg, var(--bg-tertiary) 0%, var(--surface) 100%);
-        }
-
-        .featured-placeholder i {
-            font-size: 3rem;
-            color: var(--text-muted);
-        }
-
-        .featured-meta {
-            font-size: 0.8rem;
-            color: var(--text-muted);
-            margin-bottom: 8px;
-            text-transform: capitalize;
-            letter-spacing: 0.5px;
-        }
-
-        .featured-title {
-            font-size: 1.4rem;
-            font-weight: 700;
-            line-height: 1.3;
-            transition: color 0.3s ease;
-        }
-
-        .featured-card:hover .featured-title {
-            color: #0e8a46;
-        }
-
-            </style>
+    </style>
 </head>
 <body>
-    <header class="top-bar">
-        <div class="top-bar-content">
-            <a href="https://viasrijan.github.io/dispatch/" class="logo">KICKOFF</a>
-            <nav>
-                <ul class="nav-menu">
-                    <li><a href="matches.html">Matches</a></li>
-                    <li><a href="transfers.html">Transfers</a></li>
-                    <li><a href="leagues.html">Leagues</a></li>
-                    <li><a href="rumors.html">Rumors</a></li>
-                    <li><a href="contact.html">Contact</a></li>
-                </ul>
-            </nav>
-            <div class="nav-right">
-                <a href="#"><i class="fab fa-instagram"></i></a>
-                <a href="#"><i class="fab fa-youtube"></i></a>
-                <a href="#"><i class="fab fa-x-twitter"></i></a>
+    <header class="header">
+        <div class="header-inner">
+            <div class="header-left">
+                <a href="index.html" class="logo">KICK<span>OFF</span></a>
+                <nav>
+                    <ul class="nav">
+                        <li><a href="matches.html">Matches</a></li>
+                        <li><a href="transfers.html">Transfers</a></li>
+                        <li><a href="leagues.html">Leagues</a></li>
+                        <li><a href="rumors.html">Rumors</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                </nav>
+            </div>
+            <div class="header-right">
+                <div class="header-social">
+                    <a href="#"><i class="fab fa-instagram"></i></a>
+                    <a href="#"><i class="fab fa-youtube"></i></a>
+                    <a href="#"><i class="fab fa-x-twitter"></i></a>
+                </div>
+                <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">
+                    <i class="fas fa-moon"></i>
+                </button>
             </div>
         </div>
     </header>
 
-    <section class="featured">
-        <div class="slider-arrow-wrap">
-            <div class="slider-arrow-inner">
-                <button class="slider-arrow prev" onclick="prevSlide()">&#10094;</button>
-                <div class="slider-container">
-                    <div class="slider-main">
-                        <div class="slider-track" id="sliderTrack">
-                            <div class="slide">
-                                <div class="slide-image">
-                                    <img src="A photo of a Manchester City player celebrating, with an Arsenal player in the background." alt="Premier League">
-                                </div>
-                                <div class="slide-content">
-                                    <div class="slide-meta">FEATURED • Premier League</div>
-                                    <h2 class="slide-title">**City Pile Pressure on Arsenal! Manchester City Close Gap to Leaders**</h2>
-                                </div>
-                            </div>
-                            <div class="slide">
-                                <div class="slide-image">
-                                    <img src="A photo of a Manchester City player celebrating, with an Arsenal player in the background." alt="Premier League">
-                                </div>
-                                <div class="slide-content">
-                                    <div class="slide-meta">FEATURED • Premier League</div>
-                                    <h2 class="slide-title">**City Pile Pressure on Arsenal! Manchester City Close Gap to Leaders**</h2>
-                                </div>
-                            </div>
-                            <div class="slide">
-                                <div class="slide-image">
-                                    <img src="A photo of a Manchester City player celebrating, with an Arsenal player in the background." alt="Premier League">
-                                </div>
-                                <div class="slide-content">
-                                    <div class="slide-meta">FEATURED • Premier League</div>
-                                    <h2 class="slide-title">**City Pile Pressure on Arsenal! Manchester City Close Gap to Leaders**</h2>
-                                </div>
-                            </div>
-                            <div class="slide">
-                                <div class="slide-image">
-                                    <img src="A photo of a Manchester City player celebrating, with an Arsenal player in the background." alt="Premier League">
-                                </div>
-                                <div class="slide-content">
-                                    <div class="slide-meta">FEATURED • Premier League</div>
-                                    <h2 class="slide-title">**City Pile Pressure on Arsenal! Manchester City Close Gap to Leaders**</h2>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <button class="slider-arrow next" onclick="nextSlide()">&#10095;</button>
-            </div>
-        </div>
-    </section>
-
-    <div class="article-container">
+    <article class="post-wrapper">
         <div class="post-layout">
             <div class="post-image-wrap">
-                <img src="A photo of a Manchester City player celebrating, with an Arsenal player in the background." alt="Premier League">
+                <img src="A photo of a Celtic player celebrating, with a red card in the foreground." alt="Scottish Premiership">
             </div>
             <div class="post-content">
-                <a href="https://viasrijan.github.io/dispatch/" class="back-btn">
-                    <i class="fas fa-arrow-left"></i> Back
-                </a>
-                <div class="article-header">
-                    <div class="meta-row">
-                        <span class="article-tag">FEATURED</span>
-                        <span class="article-category">Premier League</span>
-                    </div>
-                    <h1 class="article-title">**City Pile Pressure on Arsenal! Manchester City Close Gap to Leaders**</h1>
-                    <div class="article-time">May 14, 2026</div>
+                <a href="index.html" class="back-btn"><i class="fas fa-arrow-left"></i> Back to Home</a>
+                <div>
+                    <span class="post-tag">BREAKING</span>
+                    <span class="post-category">Scottish Premiership</span>
                 </div>
-
-                <div class="article-content">
-                    Man City pile pressure on Arsenal with Palace win
-                </div>
-
-                <div class="share-section">
-                    <span class="share-label">Share this article:</span>
-                    <div class="share-buttons">
-                        <a href="#" class="share-btn"><i class="fab fa-x-twitter"></i></a>
-                        <a href="#" class="share-btn"><i class="fab fa-facebook-f"></i></a>
-                        <a href="#" class="share-btn"><i class="fab fa-whatsapp"></i></a>
-                        <a href="#" class="share-btn"><i class="fas fa-link"></i></a>
-                    </div>
+                <h1 class="post-title">Disgusting Penalty Decision! Celtic Win Title Race</h1>
+                <div class="post-time">May 14, 2026</div>
+                <div class="post-divider"></div>
+                <div class="post-body">
+                    Celtic score controversial late penalty to set up epic final day
                 </div>
             </div>
         </div>
-    </div>
+    </article>
 
-    <footer class="site-footer">
-        <div class="site-footer-content">
+    <footer class="footer">
         <div class="footer-grid">
             <div class="footer-brand">
-                <div class="logo">KICKOFF</div>
-                <p>Your daily dose of football news, transfers, and match updates.</p>
+                <a href="index.html" class="logo">KICK<span>OFF</span></a>
+                <p>Your daily dose of football news, transfers, and match updates. Covering every league, every story, every moment.</p>
             </div>
-            <div class="footer-column">
+            <div class="footer-col">
                 <h4>Sections</h4>
                 <ul>
-                    <li><a href="#">Matches</a></li>
-                    <li><a href="#">Transfers</a></li>
-                    <li><a href="#">Rumors</a></li>
+                    <li><a href="matches.html">Matches</a></li>
+                    <li><a href="transfers.html">Transfers</a></li>
+                    <li><a href="leagues.html">Leagues</a></li>
+                    <li><a href="rumors.html">Rumors</a></li>
                 </ul>
             </div>
-            <div class="footer-column">
+            <div class="footer-col">
                 <h4>Company</h4>
                 <ul>
                     <li><a href="#">About</a></li>
-                    <li><a href="#">Contact</a></li>
+                    <li><a href="contact.html">Contact</a></li>
                     <li><a href="#">Careers</a></li>
                 </ul>
             </div>
-            <div class="footer-column">
+            <div class="footer-col">
                 <h4>Legal</h4>
                 <ul>
                     <li><a href="#">Privacy</a></li>
@@ -1028,91 +299,23 @@
             </div>
         </div>
         <div class="footer-bottom">
-            <p>© 2026 KICKOFF Football News. All rights reserved.</p>
-        </div>
+            <p>&copy; 2026 KICKOFF Football News. All rights reserved.</p>
         </div>
     </footer>
 
     <script>
-        let currentSlide = 0;
-        const totalSlides = 5;
-
-        function goToSlide(index) {
-            currentSlide = index;
-            const track = document.getElementById('sliderTrack');
-            track.style.transform = 'translateX(-' + (index * 100) + '%)';
-        }
-
-        function nextSlide() {
-            currentSlide = (currentSlide + 1) % totalSlides;
-            goToSlide(currentSlide);
-        }
-
-        function prevSlide() {
-            currentSlide = (currentSlide - 1 + totalSlides) % totalSlides;
-            goToSlide(currentSlide);
-        }
-
-        document.querySelectorAll('.share-btn').forEach(btn => {
-            btn.addEventListener('click', function(e) {
-                e.preventDefault();
-                alert('Share functionality would go here');
-            });
-        });
-    </script>
-    <script>
-        let currentSlide = 0;
-        const totalSlides = 5;
-
-        function goToSlide(index) {
-            currentSlide = index;
-            const track = document.getElementById('sliderTrack');
-            track.style.transform = 'translateX(-' + (index * 100) + '%)';
-        }
-
-        function nextSlide() {
-            currentSlide = (currentSlide + 1) % totalSlides;
-            goToSlide(currentSlide);
-        }
-
-        function prevSlide() {
-            currentSlide = (currentSlide - 1 + totalSlides) % totalSlides;
-            goToSlide(currentSlide);
-        }
-
-        function splitTitleLines() {
-            document.querySelectorAll('.slide-title').forEach(title => {
-                let text = title.textContent.trim();
-                const words = text.split(/\s+/);
-                if (words.length < 4) {
-                    title.textContent = text;
-                    return;
-                }
-                if (words.length > 12) {
-                    text = words.slice(0, 12).join(' ') + '...';
-                }
-                const wordList = text.split(/\s+/);
-                const total = wordList.length;
-                let splitIndex = Math.floor(total / 2);
-                if (splitIndex < 2) splitIndex = 2;
-                if (total - splitIndex < 2) splitIndex = total - 2;
-                const breakWords = ['And', 'Or', 'But', 'Over', 'As', 'In', 'On', 'For', 'To', 'With', 'After', 'Before', 'While', 'The', 'A', 'An'];
-                for (let i = splitIndex - 2; i <= splitIndex + 2; i++) {
-                    if (i >= 2 && i <= total - 2) {
-                        if (breakWords.includes(wordList[i])) {
-                            splitIndex = i;
-                            break;
-                        }
-                    }
-                }
-                const firstLine = wordList.slice(0, splitIndex).join(' ');
-                const secondLine = wordList.slice(splitIndex).join(' ');
-                title.innerHTML = `${firstLine}<br>${secondLine}`;
-            });
-        }
-
-        document.addEventListener('DOMContentLoaded', function() {
-            splitTitleLines();
+        const html = document.documentElement;
+        const toggle = document.getElementById('themeToggle');
+        const icon = toggle.querySelector('i');
+        const savedTheme = localStorage.getItem('theme') || 'dark';
+        html.setAttribute('data-theme', savedTheme);
+        icon.className = savedTheme === 'dark' ? 'fas fa-moon' : 'fas fa-sun';
+        toggle.addEventListener('click', () => {
+            const current = html.getAttribute('data-theme');
+            const next = current === 'dark' ? 'light' : 'dark';
+            html.setAttribute('data-theme', next);
+            localStorage.setItem('theme', next);
+            icon.className = next === 'dark' ? 'fas fa-moon' : 'fas fa-sun';
         });
     </script>
 </body>
