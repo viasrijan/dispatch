@@ -26,7 +26,6 @@
 
         html {
             background-color: #000000;
-            overflow-x: hidden;
         }
 
         body {
@@ -35,7 +34,6 @@
             color: var(--text-primary);
             line-height: 1.6;
             -webkit-font-smoothing: antialiased;
-            overflow-x: hidden;
         }
 
         * {
@@ -69,7 +67,6 @@
             top: 0;
             z-index: 100;
             width: 100%;
-            overflow: hidden;
         }
 
         .top-bar-content {
@@ -79,7 +76,6 @@
             display: flex;
             justify-content: space-between;
             align-items: center;
-            overflow: hidden;
         }
 
         .logo {
@@ -94,7 +90,6 @@
             display: flex;
             gap: 40px;
             list-style: none;
-            flex-wrap: nowrap;
         }
 
         .nav-menu a {
@@ -102,7 +97,6 @@
             font-size: 0.9rem;
             font-weight: 500;
             text-transform: capitalize;
-            white-space: nowrap;
         }
 
         .nav-menu a:hover {
@@ -126,38 +120,160 @@
         .nav-right a:hover.fa-youtube { color: #FF0000; }
         .nav-right a:hover.fa-x-twitter { color: #ffffff; }
 
-        /* Hero Image */
-        .hero-section {
-            max-width: 1200px;
-            width: 100%;
-            margin: 0 auto;
-            overflow: hidden;
+        /* Slider */
+        .featured {
+            padding: 60px 0 60px 0;
         }
 
-        .hero-image {
-            width: 100%;
-            height: 450px;
-            overflow: hidden;
-            position: relative;
+        .slider-container {
+            flex: 1;
+            min-width: 0;
+            padding: 0;
+            box-sizing: border-box;
         }
 
-        .hero-image img {
+        .slider-main {
+            overflow: hidden;
+            border-radius: 12px;
+            width: 100%;
+            min-width: 0;
+            flex: 1 1 auto;
+        }
+
+        .slider-track {
+            display: flex;
+            transition: transform 0.5s ease;
+        }
+
+        .slide {
+            display: flex;
+            width: 100%;
+            min-width: 100%;
+            height: 281px;
+            flex-shrink: 0;
+            background: var(--surface);
+        }
+
+        .slide-image {
+            width: 420px;
+            height: 281px;
+            flex-shrink: 0;
+            overflow: hidden;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: var(--surface);
+        }
+
+        .slide-image img {
             width: 100%;
             height: 100%;
             object-fit: cover;
         }
 
+        .slide-content {
+            flex: 1;
+            min-width: 0;
+            min-height: 281px;
+            padding: 28px 36px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            background: var(--surface);
+        }
+
+        .slide-meta {
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            text-transform: capitalize;
+            letter-spacing: 0.5px;
+            margin-bottom: 12px;
+        }
+
+        .slide-title {
+            font-size: clamp(18px, 2.2vw, 28px);
+            font-weight: 700;
+            line-height: 1.25;
+            color: var(--text-primary);
+            margin: 0;
+            word-break: break-word;
+            overflow-wrap: break-word;
+            hyphens: auto;
+        }
+
+        .slider-arrow-wrap {
+            width: 100%;
+            padding: 0;
+        }
+
+        .slider-arrow-inner {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            gap: 0;
+            position: relative;
+        }
+
+        .slider-arrow {
+            width: 40px;
+            height: 40px;
+            flex-shrink: 0;
+            border-radius: 50%;
+            background: rgba(14, 138, 70, 0.95);
+            border: 1px solid rgba(14, 138, 70, 0.95);
+            color: #ffffff;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 16px;
+            transition: all 0.25s ease;
+            z-index: 10;
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+        }
+
+        .slider-arrow.prev {
+            left: -20px;
+        }
+
+        .slider-arrow.next {
+            right: -20px;
+        }
+
         /* Article Container */
         .article-container {
-            max-width: 800px;
+            max-width: 1200px;
             margin: 0 auto;
-            padding: 32px 24px;
+            padding: 0 24px 60px;
         }
 
         .post-layout {
             display: flex;
-            flex-direction: column;
+            gap: 40px;
             align-items: flex-start;
+        }
+
+        .post-image-wrap {
+            flex: 0 0 340px;
+            border-radius: 12px;
+            overflow: hidden;
+            background: var(--surface);
+        }
+
+        .post-image-wrap img {
+            width: 100%;
+            height: auto;
+            display: block;
+            aspect-ratio: 16/10;
+            object-fit: cover;
+        }
+
+        .post-content {
+            flex: 1;
+            min-width: 0;
         }
 
         .back-btn {
@@ -171,6 +287,7 @@
             font-size: 0.85rem;
             font-weight: 600;
             transition: background 0.3s, color 0.3s, transform 0.2s;
+            margin-bottom: 20px;
         }
 
         .back-btn:hover {
@@ -192,13 +309,9 @@
             gap: 12px;
         }
 
-        .post-content {
-            width: 100%;
-        }
-
         /* Article Header */
         .article-header {
-            padding: 0 0 32px 0;
+            padding: 0 0 24px 0;
             border-bottom: 1px solid var(--border);
         }
 
@@ -226,7 +339,7 @@
         }
 
         .article-title {
-            font-size: 2.5rem;
+            font-size: 2.2rem;
             font-weight: 700;
             line-height: 1.2;
             margin-bottom: 16px;
@@ -240,7 +353,7 @@
 
         /* Article Content */
         .article-content {
-            padding: 32px 0;
+            padding: 24px 0;
             font-size: 1.1rem;
             line-height: 1.8;
             color: var(--text-primary);
@@ -364,12 +477,53 @@
         .footer-social a:hover.fa-x-twitter { color: #ffffff; }
 
         /* Responsive */
+        @media (max-width: 1000px) {
+            .post-layout {
+                flex-direction: column;
+            }
+            .post-image-wrap {
+                flex: none;
+                width: 100%;
+                max-width: 400px;
+            }
+            .footer-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+            .slide-image {
+                width: 340px;
+            }
+            .slide-content {
+                padding: 20px 24px;
+            }
+            .slide-title {
+                font-size: clamp(16px, 2.2vw, 24px);
+            }
+        }
+
         @media (max-width: 768px) {
-            .hero-image {
-                height: 250px;
+            .featured {
+                padding: 40px 16px;
+            }
+            .slider-arrow {
+                display: none;
+            }
+            .slide {
+                flex-direction: column;
+                height: auto;
+            }
+            .slide-image {
+                width: 100%;
+                height: 200px;
+            }
+            .slide-content {
+                min-height: auto;
+                padding: 18px;
+            }
+            .slide-title {
+                font-size: clamp(16px, 4vw, 22px);
             }
             .article-title {
-                font-size: 1.8rem;
+                font-size: 1.6rem;
             }
             .footer-grid {
                 grid-template-columns: 1fr;
@@ -377,11 +531,6 @@
             }
             .nav-menu {
                 display: none;
-            }
-        }
-        @media (max-width: 1000px) {
-            .footer-grid {
-                grid-template-columns: repeat(2, 1fr);
             }
         }
     </style>
@@ -407,43 +556,91 @@
         </div>
     </header>
 
-    <div class="hero-section">
-        <div class="hero-image">
-            <img src="POST_HERO_IMAGE" alt="POST_CATEGORY">
+    <section class="featured">
+        <div class="slider-arrow-wrap">
+            <div class="slider-arrow-inner">
+                <button class="slider-arrow prev" onclick="prevSlide()">&#10094;</button>
+                <div class="slider-container">
+                    <div class="slider-main">
+                        <div class="slider-track" id="sliderTrack">
+                            <div class="slide">
+                                <div class="slide-image">
+                                    <img src="POST_HERO_IMAGE" alt="POST_CATEGORY">
+                                </div>
+                                <div class="slide-content">
+                                    <div class="slide-meta">POST_TAG • POST_CATEGORY</div>
+                                    <h2 class="slide-title">POST_HEADLINE</h2>
+                                </div>
+                            </div>
+                            <div class="slide">
+                                <div class="slide-image">
+                                    <img src="POST_HERO_IMAGE" alt="POST_CATEGORY">
+                                </div>
+                                <div class="slide-content">
+                                    <div class="slide-meta">POST_TAG • POST_CATEGORY</div>
+                                    <h2 class="slide-title">POST_HEADLINE</h2>
+                                </div>
+                            </div>
+                            <div class="slide">
+                                <div class="slide-image">
+                                    <img src="POST_HERO_IMAGE" alt="POST_CATEGORY">
+                                </div>
+                                <div class="slide-content">
+                                    <div class="slide-meta">POST_TAG • POST_CATEGORY</div>
+                                    <h2 class="slide-title">POST_HEADLINE</h2>
+                                </div>
+                            </div>
+                            <div class="slide">
+                                <div class="slide-image">
+                                    <img src="POST_HERO_IMAGE" alt="POST_CATEGORY">
+                                </div>
+                                <div class="slide-content">
+                                    <div class="slide-meta">POST_TAG • POST_CATEGORY</div>
+                                    <h2 class="slide-title">POST_HEADLINE</h2>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <button class="slider-arrow next" onclick="nextSlide()">&#10095;</button>
+            </div>
         </div>
-    </div>
+    </section>
 
     <div class="article-container">
-        <div class="post-content">
-            <div class="article-header">
-                <div class="header-row">
-                    <a href="https://viasrijan.github.io/dispatch/" class="back-btn">
-                        <i class="fas fa-arrow-left"></i> Back
-                    </a>
+        <div class="post-layout">
+            <div class="post-image-wrap">
+                <img src="POST_HERO_IMAGE" alt="POST_CATEGORY">
+            </div>
+            <div class="post-content">
+                <a href="https://viasrijan.github.io/dispatch/" class="back-btn">
+                    <i class="fas fa-arrow-left"></i> Back
+                </a>
+                <div class="article-header">
                     <div class="meta-row">
                         <span class="article-tag">POST_TAG</span>
                         <span class="article-category">POST_CATEGORY</span>
                     </div>
+                    <h1 class="article-title">POST_HEADLINE</h1>
+                    <div class="article-time">POST_TIME</div>
                 </div>
-                <h1 class="article-title">POST_HEADLINE</h1>
-                <div class="article-time">POST_TIME</div>
-            </div>
 
-            <div class="article-content">
-                POST_CONTENT
-            </div>
+                <div class="article-content">
+                    POST_CONTENT
+                </div>
 
-            <div class="share-section">
-                <span class="share-label">Share this article:</span>
-                <div class="share-buttons">
-                    <a href="#" class="share-btn"><i class="fab fa-x-twitter"></i></a>
-                    <a href="#" class="share-btn"><i class="fab fa-facebook-f"></i></a>
-                    <a href="#" class="share-btn"><i class="fab fa-whatsapp"></i></a>
-                    <a href="#" class="share-btn"><i class="fas fa-link"></i></a>
+                <div class="share-section">
+                    <span class="share-label">Share this article:</span>
+                    <div class="share-buttons">
+                        <a href="#" class="share-btn"><i class="fab fa-x-twitter"></i></a>
+                        <a href="#" class="share-btn"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#" class="share-btn"><i class="fab fa-whatsapp"></i></a>
+                        <a href="#" class="share-btn"><i class="fas fa-link"></i></a>
+                    </div>
                 </div>
             </div>
         </div>
-        </div>
+    </div>
 
     <footer class="site-footer">
         <div class="site-footer-content">
@@ -489,19 +686,24 @@
     </footer>
 
     <script>
-        function wrapTitleWords() {
-            const title = document.querySelector('.article-title');
-            if (!title) return;
-            const words = title.textContent.trim().split(/\s+/);
-            if (words.length <= 5) return;
-            let html = '';
-            for (let i = 0; i < words.length; i++) {
-                if (i > 0 && i % 5 === 0) html += '<br>';
-                html += words[i] + (i < words.length - 1 ? ' ' : '');
-            }
-            title.innerHTML = html;
+        let currentSlide = 0;
+        const totalSlides = 4;
+
+        function goToSlide(index) {
+            currentSlide = index;
+            const track = document.getElementById('sliderTrack');
+            track.style.transform = 'translateX(-' + (index * 100) + '%)';
         }
-        wrapTitleWords();
+
+        function nextSlide() {
+            currentSlide = (currentSlide + 1) % totalSlides;
+            goToSlide(currentSlide);
+        }
+
+        function prevSlide() {
+            currentSlide = (currentSlide - 1 + totalSlides) % totalSlides;
+            goToSlide(currentSlide);
+        }
 
         document.querySelectorAll('.share-btn').forEach(btn => {
             btn.addEventListener('click', function(e) {
