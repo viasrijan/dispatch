@@ -249,7 +249,7 @@
             transition: border-color var(--transition), border-width var(--transition);
         }
 
-        .hero-slider-inner:hover { border-color: var(--accent); border-width: 2px; }
+        .hero-slider-inner:hover { border-color: var(--accent); }
 
         .hero-slider-content {
             display: flex;
@@ -418,10 +418,10 @@
             display: flex;
             flex-direction: column;
             justify-content: flex-end;
-            transition: outline var(--transition);
+            transition: box-shadow var(--transition);
         }
 
-        .hero-main:hover { outline: 2px solid var(--accent); }
+        .hero-main:hover { box-shadow: inset 0 0 0 2px var(--accent); }
 
         .hero-main img {
             position: absolute;
@@ -492,10 +492,10 @@
             display: flex;
             align-items: center;
             min-height: 0;
-            transition: outline var(--transition);
+            transition: box-shadow var(--transition);
         }
 
-        .hero-side-card:hover { outline: 2px solid var(--accent); }
+        .hero-side-card:hover { box-shadow: inset 0 0 0 2px var(--accent); }
 
         .hero-side-card img {
             position: absolute;
@@ -604,7 +604,7 @@
             transition: background var(--transition), border-color var(--transition);
         }
 
-        .mag-card:hover { border-color: var(--accent); border-width: 2px; }
+        .mag-card:hover { border-color: var(--accent); }
 
         .mag-card img {
             position: absolute;
@@ -685,10 +685,8 @@
         }
 
         .card:hover {
-            transform: translateY(-4px);
             box-shadow: 0 12px 40px var(--shadow);
             border-color: var(--accent);
-            border-width: 2px;
         }
 
         .card-image {
@@ -811,7 +809,6 @@
 
         .mini-card:hover {
             border-color: var(--accent);
-            border-width: 2px;
         }
 
         .mini-card .num {
@@ -826,13 +823,27 @@
         .mini-card .mini-body { flex: 1; min-width: 0; }
 
         .mini-card .mini-tag {
+            display: inline-block;
             font-size: 0.55rem;
             font-weight: 600;
             text-transform: uppercase;
             letter-spacing: 1.2px;
-            color: var(--text-secondary);
+            color: #fff;
+            background: var(--accent);
+            padding: 4px 14px;
             margin-bottom: 4px;
         }
+
+        /* === MINI-TAG PILL OVERRIDES === */
+        .mini-tag[data-league="breaking"] { background: var(--tag-breaking) !important; color: #fff !important; }
+        .mini-tag[data-league="premier"] { background: var(--tag-premier) !important; color: #fff !important; }
+        .mini-tag[data-league="laliga"] { background: var(--tag-laliga) !important; color: #fff !important; }
+        .mini-tag[data-league="seriea"] { background: var(--tag-seriea) !important; color: #fff !important; }
+        .mini-tag[data-league="bundesliga"] { background: var(--tag-bundesliga) !important; color: #fff !important; }
+        .mini-tag[data-league="ligue1"] { background: var(--tag-ligue1) !important; color: #fff !important; }
+        .mini-tag[data-league="scottish"] { background: var(--tag-scottish) !important; color: #fff !important; }
+        .mini-tag[data-league="championship"] { background: var(--tag-championship) !important; color: #fff !important; }
+        .mini-tag[data-league="champions"] { background: var(--tag-champions) !important; color: #fff !important; }
 
         /* === LEAGUE TAG COLORS: Pill backgrounds (on images) === */
         .hero-tag[data-league="breaking"],
@@ -932,7 +943,7 @@
             position: relative;
         }
 
-        .story-tile:hover { border-color: var(--accent); border-width: 2px; }
+        .story-tile:hover { border-color: var(--accent); }
 
         .story-tile .story-tile-title {
             font-size: 0.8rem;

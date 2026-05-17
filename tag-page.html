@@ -219,10 +219,8 @@
             transition: transform 0.3s ease, box-shadow 0.3s ease, border-color var(--transition);
         }
         .post-card:hover {
-            transform: translateY(-4px);
             box-shadow: 0 12px 40px var(--shadow);
             border-color: var(--accent);
-            border-width: 2px;
         }
         .post-card-image {
             width: 100%;
@@ -330,6 +328,17 @@
         .league-team { font-weight: 500; color: var(--text); }
         .league-points { font-weight: 700; color: var(--accent); text-align: right; }
         .league-gd { color: var(--text-secondary); text-align: right; font-size: 0.75rem; }
+
+        /* === MINI-TAG PILL OVERRIDES === */
+        .mini-tag[data-league="breaking"] { background: var(--tag-breaking) !important; color: #fff !important; }
+        .mini-tag[data-league="premier"] { background: var(--tag-premier) !important; color: #fff !important; }
+        .mini-tag[data-league="laliga"] { background: var(--tag-laliga) !important; color: #fff !important; }
+        .mini-tag[data-league="seriea"] { background: var(--tag-seriea) !important; color: #fff !important; }
+        .mini-tag[data-league="bundesliga"] { background: var(--tag-bundesliga) !important; color: #fff !important; }
+        .mini-tag[data-league="ligue1"] { background: var(--tag-ligue1) !important; color: #fff !important; }
+        .mini-tag[data-league="scottish"] { background: var(--tag-scottish) !important; color: #fff !important; }
+        .mini-tag[data-league="championship"] { background: var(--tag-championship) !important; color: #fff !important; }
+        .mini-tag[data-league="champions"] { background: var(--tag-champions) !important; color: #fff !important; }
 
         /* === LEAGUE TAG COLORS: Pill backgrounds (on images) === */
         .hero-tag[data-league="breaking"],
