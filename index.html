@@ -246,7 +246,10 @@
             align-items: stretch;
             position: relative;
             cursor: pointer;
+            transition: border-color var(--transition);
         }
+
+        .hero-slider-inner:hover { border-color: var(--accent); }
 
         .hero-slider-content {
             display: flex;
@@ -416,7 +419,10 @@
             display: flex;
             flex-direction: column;
             justify-content: flex-end;
+            transition: outline var(--transition);
         }
+
+        .hero-main:hover { outline: 1px solid var(--accent); }
 
         .hero-main img {
             position: absolute;
@@ -486,7 +492,10 @@
             display: flex;
             align-items: center;
             min-height: 0;
+            transition: outline var(--transition);
         }
+
+        .hero-side-card:hover { outline: 1px solid var(--accent); }
 
         .hero-side-card img {
             position: absolute;
@@ -604,8 +613,10 @@
             flex-direction: column;
             justify-content: flex-end;
             border: 1px solid var(--border);
-            transition: background var(--transition);
+            transition: background var(--transition), border-color var(--transition);
         }
+
+        .mag-card:hover { border-color: var(--accent); }
 
         .mag-card img {
             position: absolute;
@@ -682,13 +693,14 @@
             border-radius: 0;
             overflow: hidden;
             cursor: pointer;
-            transition: transform 0.3s ease, box-shadow 0.3s ease, background var(--transition);
+            transition: transform 0.3s ease, box-shadow 0.3s ease, background var(--transition), border-color var(--transition);
             border: 1px solid var(--border);
         }
 
         .card:hover {
             transform: translateY(-4px);
             box-shadow: 0 12px 40px var(--shadow);
+            border-color: var(--accent);
         }
 
         .card-image {
@@ -884,16 +896,6 @@
             cursor: pointer;
             transition: all var(--transition);
             position: relative;
-        }
-
-        .story-tile::after {
-            content: '';
-            position: absolute;
-            right: 0;
-            top: 0;
-            bottom: 0;
-            width: 3px;
-            background: var(--accent);
         }
 
         .story-tile:hover { border-color: var(--accent); }

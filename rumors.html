@@ -252,7 +252,10 @@
             display: flex;
             flex-direction: column;
             justify-content: flex-end;
+            transition: outline var(--transition);
         }
+
+        .hero-main:hover { outline: 1px solid var(--accent); }
 
         .hero-main img {
             position: absolute;
@@ -322,7 +325,10 @@
             display: flex;
             align-items: center;
             min-height: 0;
+            transition: outline var(--transition);
         }
+
+        .hero-side-card:hover { outline: 1px solid var(--accent); }
 
         .hero-side-card img {
             position: absolute;
@@ -435,8 +441,10 @@
             display: flex;
             flex-direction: column;
             justify-content: flex-end;
-            transition: background var(--transition);
+            transition: background var(--transition), border-color var(--transition);
         }
+
+        .mag-card:hover { border-color: var(--accent); }
 
         .mag-card img {
             position: absolute;
@@ -510,13 +518,14 @@
             border-radius: 0;
             overflow: hidden;
             cursor: pointer;
-            transition: transform 0.3s ease, box-shadow 0.3s ease, background var(--transition);
+            transition: transform 0.3s ease, box-shadow 0.3s ease, background var(--transition), border-color var(--transition);
             border: 1px solid var(--border);
         }
 
         .card:hover {
             transform: translateY(-4px);
             box-shadow: 0 12px 40px var(--shadow);
+            border-color: var(--accent);
         }
 
         .card-image {
