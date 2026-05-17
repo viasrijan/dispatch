@@ -388,18 +388,18 @@
             letter-spacing: 1px;
             color: var(--text);
             position: relative;
-            padding-left: 16px;
+            display: inline-block;
+            padding-bottom: 8px;
         }
 
-        .section-title::before {
+        .section-title::after {
             content: '';
             position: absolute;
             left: 0;
-            top: 2px;
-            bottom: 2px;
-            width: 3px;
+            bottom: 0;
+            width: 100%;
+            height: 3px;
             background: var(--accent);
-            border-radius: 0;
         }
 
         .section-link {
@@ -462,12 +462,15 @@
         }
 
         .mag-card .mag-tag {
-            font-size: 0.6rem;
+            display: inline-block;
+            font-size: 0.65rem;
             font-weight: 600;
             text-transform: uppercase;
-            letter-spacing: 1px;
-            color: var(--accent-soft);
-            margin-bottom: 4px;
+            letter-spacing: 1.2px;
+            color: #fff;
+            background: var(--accent);
+            padding: 4px 14px;
+            margin-bottom: 6px;
         }
 
         .mag-card .mag-title {
@@ -537,12 +540,15 @@
         }
 
         .card-tag {
+            display: inline-block;
             font-size: 0.65rem;
             font-weight: 600;
             text-transform: uppercase;
-            letter-spacing: 1px;
-            color: var(--accent);
-            margin-bottom: 6px;
+            letter-spacing: 1.2px;
+            color: #fff;
+            background: var(--accent);
+            padding: 4px 14px;
+            margin-bottom: 8px;
         }
 
         .card-title {

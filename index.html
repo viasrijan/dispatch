@@ -233,6 +233,7 @@
         .hero-slider {
             padding: 100px 0 0;
             position: relative;
+            border-top: 4px solid var(--accent);
         }
 
         .hero-slider-inner {
@@ -241,7 +242,7 @@
             min-height: 440px;
             background: var(--bg-card);
             border: 1px solid var(--border);
-            border-top: 4px solid var(--accent);
+            border-top: none;
             overflow: visible;
             align-items: stretch;
             position: relative;
@@ -453,9 +454,7 @@
             letter-spacing: 1.2px;
             color: #fff;
             background: var(--accent);
-            padding: 3px 14px;
-            border-radius: 0;
-            border: 1px solid rgba(255,255,255,0.15);
+            padding: 4px 14px;
             margin-bottom: 12px;
         }
 
@@ -515,15 +514,13 @@
 
         .hero-side-card .hero-tag {
             display: inline-block;
-            font-size: 0.58rem;
+            font-size: 0.65rem;
             font-weight: 600;
             text-transform: uppercase;
-            letter-spacing: 0.8px;
+            letter-spacing: 1.2px;
             color: #fff;
             background: var(--accent);
-            padding: 2px 10px;
-            border-radius: 0;
-            border: 1px solid rgba(255,255,255,0.12);
+            padding: 4px 14px;
             margin-bottom: 6px;
         }
 
@@ -560,18 +557,18 @@
             letter-spacing: 1px;
             color: var(--text);
             position: relative;
-            padding-left: 14px;
+            display: inline-block;
+            padding-bottom: 8px;
         }
 
-        .section-title::before {
+        .section-title::after {
             content: '';
             position: absolute;
             left: 0;
-            top: 2px;
-            bottom: 2px;
-            width: 3px;
+            bottom: 0;
+            width: 100%;
+            height: 3px;
             background: var(--accent);
-            border-radius: 0;
         }
 
         .section-link {
@@ -636,15 +633,13 @@
 
         .mag-card .mag-tag {
             display: inline-block;
-            font-size: 0.55rem;
+            font-size: 0.65rem;
             font-weight: 600;
             text-transform: uppercase;
-            letter-spacing: 0.8px;
+            letter-spacing: 1.2px;
             color: #fff;
             background: var(--accent);
-            padding: 2px 10px;
-            border-radius: 0;
-            border: 1px solid rgba(255,255,255,0.12);
+            padding: 4px 14px;
             margin-bottom: 6px;
         }
 
@@ -719,15 +714,13 @@
 
         .card-tag {
             display: inline-block;
-            font-size: 0.6rem;
+            font-size: 0.65rem;
             font-weight: 600;
             text-transform: uppercase;
-            letter-spacing: 0.8px;
+            letter-spacing: 1.2px;
             color: #fff;
             background: var(--accent);
-            padding: 2px 10px;
-            border-radius: 0;
-            border: 1px solid rgba(255,255,255,0.12);
+            padding: 4px 14px;
             margin-bottom: 8px;
         }
 
@@ -888,23 +881,28 @@
             border: 1px solid var(--border);
             cursor: pointer;
             transition: all var(--transition);
+            position: relative;
         }
 
-        .story-tile:hover {
-            border-color: var(--accent);
+        .story-tile::after {
+            content: '';
+            position: absolute;
+            right: 0;
+            top: 4px;
+            bottom: 4px;
+            width: 3px;
+            background: var(--accent);
+            opacity: 0;
+            transition: opacity var(--transition);
         }
+
+        .story-tile:hover::after { opacity: 1; }
 
         .story-tile .story-tile-title {
             font-size: 0.8rem;
             font-weight: 500;
             line-height: 1.4;
             color: var(--text);
-            transition: color var(--transition);
-        }
-
-        .story-tile:hover .story-tile-title {
-            color: var(--accent);
-        }
         }
 
         /* === FOOTER === */
