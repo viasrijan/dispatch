@@ -246,10 +246,10 @@
             align-items: stretch;
             position: relative;
             cursor: pointer;
-            transition: border-color var(--transition);
+            transition: border-color var(--transition), border-width var(--transition);
         }
 
-        .hero-slider-inner:hover { border-color: var(--accent); }
+        .hero-slider-inner:hover { border-color: var(--accent); border-width: 2px; }
 
         .hero-slider-content {
             display: flex;
@@ -422,7 +422,7 @@
             transition: outline var(--transition);
         }
 
-        .hero-main:hover { outline: 1px solid var(--accent); }
+        .hero-main:hover { outline: 2px solid var(--accent); }
 
         .hero-main img {
             position: absolute;
@@ -495,7 +495,7 @@
             transition: outline var(--transition);
         }
 
-        .hero-side-card:hover { outline: 1px solid var(--accent); }
+        .hero-side-card:hover { outline: 2px solid var(--accent); }
 
         .hero-side-card img {
             position: absolute;
@@ -616,7 +616,7 @@
             transition: background var(--transition), border-color var(--transition);
         }
 
-        .mag-card:hover { border-color: var(--accent); }
+        .mag-card:hover { border-color: var(--accent); border-width: 2px; }
 
         .mag-card img {
             position: absolute;
@@ -701,6 +701,7 @@
             transform: translateY(-4px);
             box-shadow: 0 12px 40px var(--shadow);
             border-color: var(--accent);
+            border-width: 2px;
         }
 
         .card-image {
@@ -854,26 +855,23 @@
         }
 
         /* === LEAGUE TAG COLORS === */
-        [data-league="breaking"] { background: var(--tag-breaking); }
-        [data-league="premier"] { background: var(--tag-premier); }
-        [data-league="laliga"] { background: var(--tag-laliga); }
-        [data-league="seriea"] { background: var(--tag-seriea); }
-        [data-league="bundesliga"] { background: var(--tag-bundesliga); }
-        [data-league="ligue1"] { background: var(--tag-ligue1); }
-        [data-league="scottish"] { background: var(--tag-scottish); }
-        [data-league="championship"] { background: var(--tag-championship); }
-        [data-league="champions"] { background: var(--tag-champions); }
+        [data-league="breaking"] { background: var(--tag-breaking) !important; }
+        [data-league="premier"] { background: var(--tag-premier) !important; }
+        [data-league="laliga"] { background: var(--tag-laliga) !important; }
+        [data-league="seriea"] { background: var(--tag-seriea) !important; }
+        [data-league="bundesliga"] { background: var(--tag-bundesliga) !important; }
+        [data-league="ligue1"] { background: var(--tag-ligue1) !important; }
+        [data-league="scottish"] { background: var(--tag-scottish) !important; }
+        [data-league="championship"] { background: var(--tag-championship) !important; }
+        [data-league="champions"] { background: var(--tag-champions) !important; }
 
         .mini-card .mini-title {
             font-size: 0.9rem;
             font-weight: 600;
             line-height: 1.35;
             color: var(--text);
-            transition: color var(--transition);
             max-width: 30ch;
         }
-
-        .mini-card:hover .mini-title { color: var(--accent); }
 
         .mini-card .mini-meta {
             font-size: 0.72rem;
@@ -898,7 +896,7 @@
             position: relative;
         }
 
-        .story-tile:hover { border-color: var(--accent); }
+        .story-tile:hover { border-color: var(--accent); border-width: 2px; }
 
         .story-tile .story-tile-title {
             font-size: 0.8rem;
