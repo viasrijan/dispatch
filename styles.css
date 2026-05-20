@@ -235,6 +235,10 @@ img {
     transition: color var(--transition-snappy);
 }
 
+[data-theme="light"] .header-social a {
+    color: #000;
+}
+
 .header-social a:hover .fa-youtube {
     color: #FF0000;
 }
@@ -444,7 +448,7 @@ img {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: var(--accent);
+    background: #099808;
     color: #000;
     cursor: pointer;
     font-size: 1.2rem;
@@ -453,7 +457,7 @@ img {
 }
 
 [data-theme="light"] .hero-slider-arrow {
-    background: var(--accent);
+    background: #099808;
     color: #fff;
 }
 
@@ -701,13 +705,13 @@ img {
 }
 
 .mag-card:hover {
-    border-color: #00e575;
-    transform: translateY(-4px);
-    box-shadow: 0 12px 30px var(--shadow);
+    border-color: var(--accent);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px var(--shadow);
 }
 
 [data-theme="light"] .mag-card:hover {
-    border-color: #00e575;
+    border-color: var(--accent);
 }
 
 .mag-card img {
@@ -718,13 +722,6 @@ img {
     object-fit: cover;
     transition: transform 1s cubic-bezier(0.16, 1, 0.3, 1);
 }
-
-.mag-card:hover {
-    border-color: var(--accent);
-    transform: translateY(-4px);
-    box-shadow: 0 12px 30px var(--shadow);
-}
-
 
 .mag-card .overlay {
     position: absolute;
@@ -934,7 +931,7 @@ img {
 }
 
 .mini-card:hover {
-    border-color: #00e575;
+    border-color: #099808;
     transform: translateY(-2px);
     box-shadow: 0 8px 24px rgba(0,0,0,0.3);
 }
@@ -953,7 +950,7 @@ img {
 }
 
 .mini-card:hover .num {
-    color: #00e575;
+    color: #099808;
 }
 
 [data-theme="light"] .mini-card .num {
@@ -961,7 +958,7 @@ img {
 }
 
 [data-theme="light"] .mini-card:hover .num {
-    color: #00e575;
+    color: #099808;
 }
 
 .mini-card .mini-body {
@@ -1089,13 +1086,13 @@ img {
 }
 
 .story-tile:hover {
-    border-color: #00e575;
+    border-color: var(--accent);
     transform: translateY(-2px);
     box-shadow: 0 6px 16px var(--shadow);
 }
 
 [data-theme="light"] .story-tile:hover {
-    border-color: #00e575;
+    border-color: var(--accent);
 }
 
 .story-tile .story-tile-title {
