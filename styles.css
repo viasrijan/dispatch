@@ -256,72 +256,47 @@ img {
 }
 
 /* === FLOATING THEME TOGGLE === */
+.theme-nav-item {
+    display: flex;
+    align-items: center;
+    margin-left: 8px;
+}
+
 .theme-toggle {
-    position: fixed;
-    bottom: 32px;
-    right: 32px;
-    z-index: 9999;
-    width: 52px;
-    height: 52px;
-    border-radius: 50%;
-    border: 3px solid rgba(255, 255, 255, 0.7);
-    background: #000;
-    color: #fff;
-    cursor: pointer;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 1.15rem;
-    transition: all var(--transition);
-    box-shadow: 0 8px 30px var(--shadow);
-}
-
-[data-theme="light"] .theme-toggle {
-    background: #fff;
-    color: #000;
-    border-color: rgba(0, 0, 0, 0.7);
-}
-
-.theme-toggle:hover {
-    opacity: 0.85;
-}
-
-.theme-toggle .icon-wrap {
-    position: relative;
-    width: 20px;
+    width: 36px;
     height: 20px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    border-radius: 50px;
+    border: none;
+    background: #333;
+    cursor: pointer;
+    position: relative;
+    transition: background 0.3s;
+    padding: 0;
 }
 
-.theme-toggle .icon-wrap i,
-.theme-toggle .icon-wrap .sun-circle {
+.theme-toggle::after {
+    content: '';
     position: absolute;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    transition: all var(--transition);
-}
-
-.theme-toggle .icon-wrap .fa-moon {
-    opacity: 1;
-}
-
-.theme-toggle .icon-wrap .sun-circle {
-    opacity: 0;
+    top: 2px;
+    left: 2px;
     width: 16px;
     height: 16px;
     border-radius: 50%;
-    background: #f5c542;
+    background: #fff;
+    transition: transform 0.3s;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.3);
 }
 
-[data-theme="light"] .theme-toggle .icon-wrap .fa-moon {
-    opacity: 0;
+[data-theme="light"] .theme-toggle {
+    background: #ccc;
 }
 
-[data-theme="light"] .theme-toggle .icon-wrap .sun-circle {
-    opacity: 1;
+[data-theme="light"] .theme-toggle::after {
+    transform: translateX(16px);
+}
+
+.theme-toggle:hover {
+    opacity: 0.8;
 }
 
 /* === HERO SLIDER (Editorial Masterpiece) === */
