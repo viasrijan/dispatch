@@ -1049,23 +1049,31 @@ img {
     display: block;
     padding: 16px 20px;
     background: linear-gradient(135deg, rgba(0,0,0,0.12) 0%, transparent 100%), var(--bg-card);
-    border: 1px solid var(--border);
+    border: 1px solid rgba(255,255,255,0.3);
     border-radius: var(--radius);
     cursor: pointer;
     transition: all var(--transition);
 }
 
+[data-theme="light"] .story-tile {
+    border-color: rgba(0,0,0,0.3);
+}
+
 .story-tile:hover {
-    border-color: var(--accent);
+    border-color: #fff;
     transform: translateY(-2px);
     box-shadow: 0 6px 16px var(--shadow);
+}
+
+[data-theme="light"] .story-tile:hover {
+    border-color: #000;
 }
 
 .story-tile .story-tile-title {
     font-size: 0.85rem;
     font-weight: 600;
     line-height: 1.4;
-    color: var(--text);
+    color: var(--accent);
 }
 
 /* === INDIVIDUAL POST LAYOUT === */
