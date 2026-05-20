@@ -338,6 +338,7 @@ img {
 .hero-slider-inner {
     display: grid;
     grid-template-columns: 1fr 1.1fr;
+    min-height: 400px;
     background: var(--bg-card);
     border: 1px solid var(--border);
     border-radius: var(--radius-lg);
@@ -429,8 +430,7 @@ img {
     position: relative;
     overflow: hidden;
     background: var(--bg-elevated);
-    aspect-ratio: 16 / 9;
-    height: auto;
+    height: 100%;
 }
 
 .hero-image-overlay {
@@ -830,7 +830,7 @@ img {
     font-size: 1.1rem;
     font-weight: 700;
     line-height: 1.3;
-    color: var(--text);
+    color: #fff;
 }
 
 .mag-card:hover .mag-title {
@@ -839,7 +839,7 @@ img {
 
 .mag-card .mag-meta {
     font-size: 0.72rem;
-    color: var(--text-secondary);
+    color: rgba(255,255,255,0.6);
     margin-top: 6px;
 }
 
@@ -937,13 +937,7 @@ img {
 }
 
 .trending-wrap {
-    background: var(--bg-elevated);
-    padding: 40px 0;
     margin: 0;
-}
-
-.trending-wrap .section {
-    padding: 0;
 }
 
 /* === CATEGORY TABS === */
