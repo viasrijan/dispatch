@@ -232,11 +232,7 @@ img {
 .header-social a {
     color: var(--accent);
     font-size: 0.95rem;
-    transition: color var(--transition-snappy), transform var(--transition-snappy);
-}
-
-.header-social a:hover {
-    transform: translateY(-2px);
+    transition: color var(--transition-snappy);
 }
 
 .header-social a:hover .fa-youtube {
@@ -262,14 +258,14 @@ img {
 }
 
 .theme-toggle {
-    width: 30px;
-    height: 30px;
+    width: 15px;
+    height: 15px;
     border-radius: 50%;
     border: none;
     background: #fff;
     cursor: pointer;
     padding: 0;
-    box-shadow: 0 0 12px rgba(255,255,255,0.5);
+    box-shadow: 0 0 6px rgba(255,255,255,0.5);
     transition: background 0.3s, box-shadow 0.3s;
 }
 
@@ -279,7 +275,7 @@ img {
 
 [data-theme="light"] .theme-toggle {
     background: #FFE600;
-    box-shadow: 0 0 16px rgba(255, 230, 0, 0.6);
+    box-shadow: 0 0 8px rgba(255, 230, 0, 0.6);
 }
 
 /* === HERO SLIDER (Editorial Masterpiece) === */
@@ -865,7 +861,7 @@ img {
     gap: 20px;
     align-items: stretch;
     padding: 20px;
-    background: linear-gradient(135deg, var(--accent) 0%, #0a1f12 100%);
+    background: linear-gradient(135deg, rgba(0,0,0,0.2) 0%, transparent 100%), linear-gradient(135deg, #1a6b3c 0%, #0d3320 100%);
     border-radius: var(--radius);
     border: 1px solid rgba(255,255,255,0.1);
     transition: all var(--transition);
@@ -873,7 +869,7 @@ img {
 }
 
 [data-theme="light"] .mini-card {
-    background: linear-gradient(135deg, var(--accent) 0%, #0d3320 100%);
+    background: linear-gradient(135deg, rgba(0,0,0,0.2) 0%, transparent 100%), linear-gradient(135deg, #22c55e 0%, #166534 100%);
 }
 
 .mini-card:hover {
@@ -885,7 +881,7 @@ img {
 .mini-card .num {
     font-size: 3rem;
     font-weight: 800;
-    color: rgba(0,0,0,0.3);
+    color: rgba(255,255,255,0.3);
     line-height: 1;
     flex-shrink: 0;
     width: 32px;
@@ -1010,31 +1006,23 @@ img {
     display: block;
     padding: 16px 20px;
     background: linear-gradient(135deg, rgba(0,0,0,0.12) 0%, transparent 100%), var(--bg-card);
-    border: 1px solid rgba(255,255,255,0.3);
+    border: 1px solid var(--border);
     border-radius: var(--radius);
     cursor: pointer;
     transition: all var(--transition);
 }
 
-[data-theme="light"] .story-tile {
-    border-color: rgba(0,0,0,0.3);
-}
-
 .story-tile:hover {
-    border-color: #fff;
+    border-color: var(--accent);
     transform: translateY(-2px);
     box-shadow: 0 6px 16px var(--shadow);
-}
-
-[data-theme="light"] .story-tile:hover {
-    border-color: #000;
 }
 
 .story-tile .story-tile-title {
     font-size: 0.85rem;
     font-weight: 600;
     line-height: 1.4;
-    color: var(--accent);
+    color: var(--text);
 }
 
 /* === INDIVIDUAL POST LAYOUT === */
