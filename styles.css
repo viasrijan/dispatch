@@ -200,8 +200,6 @@ img {
     transition: width var(--transition-snappy);
 }
 
-.nav a:hover {
-}
 
 .nav a:hover::after {
     width: 100%;
@@ -336,7 +334,7 @@ img {
 .hero-slider-inner {
     display: grid;
     grid-template-columns: 1fr 1.1fr;
-    min-height: 400px;
+    height: 420px;
     background: var(--bg-card);
     border: 1px solid var(--border);
     border-radius: var(--radius-lg);
@@ -397,10 +395,6 @@ img {
     transition: color var(--transition-snappy);
 }
 
-.hero-slider-inner:hover .hero-title {
-    color: var(--accent);
-}
-
 .hero-slider-content .hero-excerpt {
     font-size: 0.95rem;
     color: var(--text-secondary);
@@ -411,21 +405,20 @@ img {
 .hero-slider-content .hero-readmore {
     display: inline-flex;
     align-items: center;
-    gap: 8px;
-    font-size: 0.8rem;
+    gap: 6px;
+    font-size: 0.7rem;
     font-weight: 700;
-    color: var(--bg);
-    background: var(--accent);
-    padding: 10px 24px;
+    color: var(--text);
+    background: var(--bg);
+    padding: 6px 16px;
     border-radius: 50px;
     text-transform: uppercase;
-    letter-spacing: 1.5px;
-    box-shadow: 0 4px 12px var(--accent-glow);
+    letter-spacing: 1px;
     transition: background var(--transition-snappy), transform var(--transition-snappy);
 }
 
 .hero-slider-inner:hover .hero-readmore {
-    background: var(--accent-soft);
+    background: var(--border-light);
     transform: translateY(-1px);
 }
 
@@ -448,7 +441,6 @@ img {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    aspect-ratio: 7 / 5;
     transition: transform 1.2s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
@@ -619,10 +611,6 @@ img {
     letter-spacing: -0.5px;
 }
 
-.hero-main:hover .hero-title {
-    color: var(--accent);
-}
-
 .hero-main .hero-meta {
     font-size: 0.8rem;
     color: var(--text-secondary);
@@ -690,10 +678,6 @@ img {
     font-weight: 700;
     line-height: 1.3;
     color: var(--text);
-}
-
-.hero-side-card:hover .hero-title {
-    color: var(--accent);
 }
 
 .hero-side-card .hero-meta {
@@ -825,8 +809,6 @@ img {
     color: #fff;
 }
 
-.mag-card:hover .mag-title {
-}
 
 .mag-card .mag-meta {
     font-size: 0.72rem;
@@ -905,8 +887,6 @@ img {
     transition: color var(--transition-snappy);
 }
 
-.card:hover .card-title {
-}
 
 .card-meta {
     font-size: 0.75rem;
@@ -1032,10 +1012,6 @@ img {
     transition: color var(--transition-snappy);
 }
 
-.mini-card:hover .mini-title {
-    color: var(--accent);
-}
-
 .mini-card .mini-meta {
     font-size: 0.72rem;
     color: var(--text-secondary);
@@ -1143,10 +1119,6 @@ img {
     font-weight: 600;
     line-height: 1.4;
     color: var(--text);
-}
-
-.story-tile:hover .story-tile-title {
-    color: var(--accent);
 }
 
 /* === INDIVIDUAL POST LAYOUT === */
@@ -1316,10 +1288,6 @@ img {
     color: var(--text-secondary);
     font-size: 0.85rem;
     transition: color var(--transition-snappy);
-}
-
-.footer-col a:hover {
-    color: var(--accent);
 }
 
 .footer-bottom {
