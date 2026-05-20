@@ -465,37 +465,7 @@ img {
     box-shadow: 0 4px 12px rgba(0,0,0,0.15);
 }
 
-/* Dots and counter navigation overlay — hidden */
-.hero-slider-nav-wrap {
-    display: none;
-}
-
-.hero-slider-nav {
-    display: flex;
-    gap: 6px;
-}
-
-.hero-slider-nav .dot {
-    width: 6px;
-    height: 6px;
-    border-radius: 50%;
-    background: rgba(255, 255, 255, 0.4);
-    border: none;
-    cursor: pointer;
-    transition: all var(--transition-snappy);
-}
-
-.hero-slider-nav .dot.active {
-    background: var(--accent);
-    transform: scale(1.3);
-}
-
-.hero-counter {
-    font-size: 0.72rem;
-    font-weight: 700;
-    color: rgba(255, 255, 255, 0.8);
-    letter-spacing: 1px;
-}
+/* Dots and counter navigation — removed */
 
 /* Slider Arrows (Minimal glass layout) */
 .hero-slider-arrow {
@@ -784,7 +754,10 @@ img {
 }
 
 .mag-card .mag-tag {
-    display: inline-block;
+    position: absolute;
+    top: 16px;
+    right: 16px;
+    z-index: 5;
     font-size: 0.55rem;
     font-weight: 700;
     text-transform: uppercase;
@@ -793,7 +766,6 @@ img {
     background: var(--accent);
     padding: 4px 12px;
     border-radius: 50px;
-    margin-bottom: 8px;
 }
 
 .mag-card .mag-title {
@@ -1139,6 +1111,7 @@ img {
     background: var(--bg-card);
     border: 1px solid var(--border);
     box-shadow: 0 10px 30px var(--shadow);
+    position: relative;
 }
 
 .post-image-wrap img {
@@ -1181,7 +1154,10 @@ img {
 }
 
 .post-tag {
-    display: inline-block;
+    position: absolute;
+    top: 24px;
+    right: 24px;
+    z-index: 5;
     font-size: 0.6rem;
     font-weight: 700;
     text-transform: uppercase;
@@ -1190,7 +1166,6 @@ img {
     background: var(--accent);
     padding: 6px 16px;
     border-radius: 50px;
-    margin-bottom: 16px;
     box-shadow: 0 4px 12px var(--accent-glow);
 }
 
