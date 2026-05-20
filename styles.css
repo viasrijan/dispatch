@@ -10,11 +10,11 @@
     --border: #1e1e1e;
     --border-light: #282828;
     
-    /* Cobalt Blue Accents */
-    --accent: #000cb6;
-    --accent-soft: #1a1acc;
-    --accent-dim: #000080;
-    --accent-glow: rgba(0, 12, 182, 0.15);
+    /* Blue Accents */
+    --accent: #0080FF;
+    --accent-soft: #3399ff;
+    --accent-dim: #0066cc;
+    --accent-glow: rgba(0, 128, 255, 0.15);
     
     /* Typography Colors */
     --text: #f3f4f6;
@@ -50,11 +50,11 @@
     --border: #e2e2df;
     --border-light: #ecece9;
     
-    /* Cobalt Blue Accents */
-    --accent: #000cb6;
-    --accent-soft: #1a1acc;
-    --accent-dim: #000080;
-    --accent-glow: rgba(0, 12, 182, 0.08);
+    /* Blue Accents */
+    --accent: #0080FF;
+    --accent-soft: #3399ff;
+    --accent-dim: #0066cc;
+    --accent-glow: rgba(0, 128, 255, 0.08);
     
     /* Typography Colors */
     --text: #18181b;
