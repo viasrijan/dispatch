@@ -251,31 +251,71 @@ img {
     color: #E4405F;
 }
 
-/* === FLOATING THEME TOGGLE === */
+/* === THEME TOGGLE PILL SWITCH === */
 .theme-nav-item {
     display: flex;
     align-items: center;
 }
 
 .theme-toggle {
-    width: 15px;
-    height: 15px;
-    border-radius: 50%;
+    position: relative;
+    width: 52px;
+    height: 26px;
+    background: #1a1a1a;
+    border-radius: 50px;
     border: none;
-    background: #fff;
     cursor: pointer;
     padding: 0;
-    box-shadow: 0 0 6px rgba(255,255,255,0.5);
-    transition: background 0.3s, box-shadow 0.3s;
+    transition: background 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+    overflow: hidden;
 }
 
-.theme-toggle:hover {
-    opacity: 0.85;
+.toggle-knob {
+    position: absolute;
+    top: 3px;
+    left: 3px;
+    width: 20px;
+    height: 20px;
+    background: #fff;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+    z-index: 2;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.3);
+    pointer-events: none;
+}
+
+.toggle-knob i {
+    font-size: 0.6rem;
+    position: absolute;
+    transition: opacity 0.3s;
+    color: #1a1a1a;
+}
+
+.toggle-knob .fa-sun {
+    opacity: 0;
+}
+
+.toggle-knob .fa-moon {
+    opacity: 1;
 }
 
 [data-theme="light"] .theme-toggle {
-    background: #000;
-    box-shadow: 0 0 6px rgba(0,0,0,0.3);
+    background: #f59e0b;
+}
+
+[data-theme="light"] .toggle-knob {
+    transform: translateX(26px);
+}
+
+[data-theme="light"] .toggle-knob .fa-sun {
+    opacity: 1;
+}
+
+[data-theme="light"] .toggle-knob .fa-moon {
+    opacity: 0;
 }
 
 /* === HERO SLIDER (Editorial Masterpiece) === */
@@ -915,7 +955,7 @@ img {
 }
 
 .mini-card .num {
-    font-size: 3rem;
+    font-size: 4.5rem;
     font-weight: 800;
     color: rgba(255,255,255,0.3);
     line-height: 1;
@@ -924,10 +964,19 @@ img {
     display: flex;
     align-items: center;
     justify-content: center;
+    transition: color var(--transition-snappy);
+}
+
+.mini-card:hover .num {
+    color: #00e575;
 }
 
 [data-theme="light"] .mini-card .num {
     color: rgba(0,0,0,0.3);
+}
+
+[data-theme="light"] .mini-card:hover .num {
+    color: #00e575;
 }
 
 .mini-card .mini-body {
@@ -1225,7 +1274,7 @@ img {
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 1.5px;
-    color: var(--text-muted);
+    color: var(--accent);
     margin-bottom: 24px;
 }
 
@@ -1258,7 +1307,6 @@ img {
 
 [data-theme="dark"] .footer-brand p,
 [data-theme="dark"] .footer-col a,
-[data-theme="dark"] .footer-col h4,
 [data-theme="dark"] .footer-bottom {
     color: #fff;
 }
