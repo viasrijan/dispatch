@@ -269,7 +269,7 @@ img {
     display: flex;
     align-items: center;
     justify-content: center;
-    box-shadow: 0 4px 24px rgba(0,0,0,0.4);
+    box-shadow: 0 4px 24px rgba(255,255,255,0.5);
     z-index: 9999;
     transition: background 0.3s, box-shadow 0.3s, transform 0.2s;
     outline: none;
@@ -299,7 +299,7 @@ img {
 
 [data-theme="light"] .theme-toggle-fab {
     background: #FF9D00;
-    box-shadow: 0 4px 24px rgba(0,0,0,0.3);
+    box-shadow: 0 4px 24px rgba(255,255,255,0.5);
 }
 
 [data-theme="light"] .theme-toggle-fab i {
