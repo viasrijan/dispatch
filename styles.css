@@ -290,6 +290,9 @@ img {
 .toggle-knob i {
     font-size: 0.6rem;
     position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     transition: opacity 0.3s;
     color: #1a1a1a;
 }
@@ -1321,6 +1324,11 @@ img {
     border-radius: var(--radius);
     border: 1px solid var(--border);
     overflow: hidden;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+}
+
+[data-theme="light"] .league-table-wrap {
+    box-shadow: 0 8px 24px rgba(0,0,0,0.08);
 }
 
 .league-tabs {
