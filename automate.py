@@ -866,7 +866,7 @@ def build_slider_html(items, images):
                     <img src="{img_src}" alt="{cat}">
                 </div>
                 <div class="slide-content">
-                    <div class="slide-meta"><span style="color:#0e8a46">● {tag}</span> · {cat}</div>
+                    <div class="slide-meta"><span style="color:var(--accent)">● {tag}</span> · {cat}</div>
                     <h3 class="slide-title">{headline}</h3>
                 </div>
             </a>
