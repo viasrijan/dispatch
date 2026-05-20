@@ -201,7 +201,6 @@ img {
 }
 
 .nav a:hover {
-    color: var(--accent);
 }
 
 .nav a:hover::after {
@@ -255,7 +254,6 @@ img {
 }
 
 .header-social a:hover {
-    color: var(--accent);
     transform: translateY(-2px);
 }
 
@@ -416,14 +414,19 @@ img {
     gap: 8px;
     font-size: 0.8rem;
     font-weight: 700;
-    color: var(--accent);
+    color: var(--bg);
+    background: var(--accent);
+    padding: 10px 24px;
+    border-radius: 50px;
     text-transform: uppercase;
     letter-spacing: 1.5px;
-    transition: transform var(--transition-snappy);
+    box-shadow: 0 4px 12px var(--accent-glow);
+    transition: background var(--transition-snappy), transform var(--transition-snappy);
 }
 
 .hero-slider-inner:hover .hero-readmore {
-    transform: translateX(4px);
+    background: var(--accent-soft);
+    transform: translateY(-1px);
 }
 
 .hero-slider-image {
@@ -445,12 +448,10 @@ img {
     width: 100%;
     height: 100%;
     object-fit: cover;
+    aspect-ratio: 7 / 5;
     transition: transform 1.2s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
-.hero-slider-inner:hover .hero-slider-image img {
-    transform: scale(1.05);
-}
 
 .hero-slider-image .hero-tag {
     position: absolute;
@@ -577,9 +578,6 @@ img {
     transition: transform 1s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
-.hero-main:hover img {
-    transform: scale(1.04);
-}
 
 .hero-main .overlay {
     position: absolute;
@@ -659,9 +657,6 @@ img {
     transition: transform 1s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
-.hero-side-card:hover img {
-    transform: scale(1.04);
-}
 
 .hero-side-card .overlay {
     position: absolute;
@@ -792,9 +787,6 @@ img {
     box-shadow: 0 12px 30px var(--shadow);
 }
 
-.mag-card:hover img {
-    transform: scale(1.04);
-}
 
 .mag-card .overlay {
     position: absolute;
@@ -834,7 +826,6 @@ img {
 }
 
 .mag-card:hover .mag-title {
-    color: var(--accent);
 }
 
 .mag-card .mag-meta {
@@ -891,9 +882,6 @@ img {
     transition: transform 1s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
-.card:hover .card-image img {
-    transform: scale(1.05);
-}
 
 .card-body {
     padding: 20px;
@@ -918,7 +906,6 @@ img {
 }
 
 .card:hover .card-title {
-    color: var(--accent);
 }
 
 .card-meta {
@@ -1192,9 +1179,6 @@ img {
     transition: transform 1s var(--transition);
 }
 
-.post-image-wrap:hover img {
-    transform: scale(1.03);
-}
 
 .post-content {
     flex: 1;
