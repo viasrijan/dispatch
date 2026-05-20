@@ -5,10 +5,10 @@
    :root {
     /* Colors - Dark Theme (Default) */
     --bg: #111111;
-    --bg-elevated: #001F3F;
+    --bg-elevated: #111111;
     --bg-card: #111111;
-    --border: #001F3F;
-    --border-light: #002952;
+    --border: #111111;
+    --border-light: #AAAAAA;
     
     /* Olive Accents */
     --accent: #3D9970;
@@ -58,7 +58,7 @@
     
     /* Typography Colors */
     --text: #111111;
-    --text-secondary: #001F3F;
+    --text-secondary: #111111;
     --text-muted: #AAAAAA;
     
     /* Utilities */
