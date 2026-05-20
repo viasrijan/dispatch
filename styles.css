@@ -660,22 +660,18 @@ img {
 }
 
 [data-theme="dark"] .section-link {
-    background: #85144b;
+    background: #3D9970;
     color: #fff;
     padding: 8px 20px;
     border-radius: 50px;
 }
 
 [data-theme="dark"] .section-link:hover {
-    background: #a01a5d;
+    background: #5DBB88;
 }
 
 [data-theme="light"] .section-link:hover {
     color: var(--text);
-}
-
-[data-theme="dark"] .section-title {
-    color: #85144b;
 }
 
 .page-title {
@@ -873,11 +869,19 @@ img {
 }
 
 .trending-wrap .section-title {
-    color: #85144b;
+    color: #3D9970;
 }
 
 [data-theme="light"] .trending-wrap .section-title {
-    color: #85144b;
+    color: #3D9970;
+}
+
+.section:has(.story-grid-3x3) .section-title {
+    color: #3D9970;
+}
+
+.section:has(.magazine-grid) .section-title {
+    color: #fff;
 }
 
 /* === CATEGORY TABS === */
