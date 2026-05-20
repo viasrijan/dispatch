@@ -658,8 +658,8 @@ img {
     align-items: center;
     gap: 8px;
     background: var(--bg-elevated);
-    padding: 6px 18px;
-    border-radius: 6px;
+    padding: 3px 9px;
+    border-radius: 0;
 }
 
 .trending-wrap .section-title {
