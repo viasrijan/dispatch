@@ -614,10 +614,15 @@ img {
     color: var(--accent);
     text-transform: uppercase;
     letter-spacing: 1px;
-    transition: color var(--transition-snappy), transform var(--transition-snappy);
-    display: inline-flex;
-    align-items: center;
-    gap: 6px;
+    transition: color var(--transition-snappy);
+}
+
+.page-title {
+    font-size: 2.5rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--text);
 }
 
 .section-link:hover {
