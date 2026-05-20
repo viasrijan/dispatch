@@ -4,11 +4,11 @@
 
    :root {
     /* Colors - Dark Theme (Default) */
-    --bg: #212121;
+    --bg: #090909;
     --bg-elevated: #111111;
-    --bg-card: #111111;
-    --border: #111111;
-    --border-light: #AAAAAA;
+    --bg-card: #171717;
+    --border: #1e1e1e;
+    --border-light: #282828;
     
     /* Olive Accents */
     --accent: #3D9970;
@@ -23,7 +23,7 @@
     
     /* Utilities */
     --shadow: rgba(0, 0, 0, 0.6);
-    --header-bg: rgba(17, 17, 17, 0.85);
+    --header-bg: rgba(9, 9, 9, 0.85);
     --transition: 0.4s cubic-bezier(0.16, 1, 0.3, 1);
     --transition-snappy: 0.2s cubic-bezier(0.16, 1, 0.3, 1);
     --radius: 12px;
@@ -44,11 +44,11 @@
 
 [data-theme="light"] {
     /* Colors - Light Theme */
-    --bg: #FFFFFF;
-    --bg-elevated: #DDDDDD;
-    --bg-card: #FFFFFF;
-    --border: #DDDDDD;
-    --border-light: #AAAAAA;
+    --bg: #f4f4f3;
+    --bg-elevated: #eaeaea;
+    --bg-card: #ffffff;
+    --border: #e2e2df;
+    --border-light: #ecece9;
     
     /* Olive Accents */
     --accent: #3D9970;
@@ -63,7 +63,7 @@
     
     /* Utilities */
     --shadow: rgba(0, 0, 0, 0.04);
-    --header-bg: rgba(255, 255, 255, 0.85);
+    --header-bg: rgba(244, 244, 243, 0.85);
 }
 
 /* === BASE & SCROLLBAR === */
