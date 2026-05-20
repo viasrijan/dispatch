@@ -659,6 +659,21 @@ img {
     transition: color var(--transition-snappy);
 }
 
+[data-theme="dark"] .section-link {
+    background: #85144b;
+    color: #fff;
+    padding: 8px 20px;
+    border-radius: 50px;
+}
+
+[data-theme="dark"] .section-link:hover {
+    background: #a01a5d;
+}
+
+[data-theme="light"] .section-link:hover {
+    color: var(--text);
+}
+
 [data-theme="dark"] .section-title {
     color: #85144b;
 }
@@ -858,11 +873,11 @@ img {
 }
 
 .trending-wrap .section-title {
-    color: #fff;
+    color: #85144b;
 }
 
 [data-theme="light"] .trending-wrap .section-title {
-    color: #000;
+    color: #85144b;
 }
 
 /* === CATEGORY TABS === */
@@ -937,7 +952,7 @@ img {
 .mini-card:hover {
     border-color: var(--accent);
     transform: translateY(-2px);
-    box-shadow: 0 8px 24px rgba(0,0,0,0.3);
+    box-shadow: 0 8px 12px rgba(0,0,0,0.3);
 }
 
 .mini-card .num {
