@@ -44,8 +44,8 @@
 
 [data-theme="light"] {
     /* Colors - Light Theme */
-    --bg: #AAAAAA;
-    --bg-elevated: #f0f0f0;
+    --bg: #f0f0f0;
+    --bg-elevated: #ffffff;
     --bg-card: #ffffff;
     --border: #e2e2df;
     --border-light: #ecece9;
@@ -63,7 +63,7 @@
     
     /* Utilities */
     --shadow: rgba(0, 0, 0, 0.04);
-    --header-bg: rgba(240, 240, 240, 0.85);
+    --header-bg: rgba(255, 255, 255, 0.85);
 }
 
 /* === BASE & SCROLLBAR === */
