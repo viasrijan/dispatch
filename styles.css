@@ -642,6 +642,14 @@ img {
     transform: translateX(2px);
 }
 
+.page-wrap {
+    padding: 120px 0 64px;
+}
+
+.page-hdr {
+    margin-bottom: 40px;
+}
+
 /* === MAGAZINE GRID (Editorial Category Pages) === */
 .magazine-grid {
     display: grid;
