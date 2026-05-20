@@ -345,7 +345,6 @@ img {
 }
 
 .hero-slider-inner:hover {
-    border-color: var(--accent);
     box-shadow: 0 12px 40px rgba(0, 0, 0, 0.15);
 }
 
@@ -466,19 +465,9 @@ img {
     box-shadow: 0 4px 12px rgba(0,0,0,0.15);
 }
 
-/* Dots and counter navigation overlay */
+/* Dots and counter navigation overlay — hidden */
 .hero-slider-nav-wrap {
-    position: absolute;
-    bottom: 24px;
-    left: 24px;
-    z-index: 5;
-    display: flex;
-    align-items: center;
-    gap: 16px;
-    background: rgba(0, 0, 0, 0.4);
-    padding: 8px 16px;
-    border-radius: 50px;
-    backdrop-filter: blur(8px);
+    display: none;
 }
 
 .hero-slider-nav {
@@ -966,9 +955,9 @@ img {
 
 .mini-card {
     display: flex;
-    gap: 14px;
-    align-items: center;
-    padding: 14px 18px;
+    gap: 20px;
+    align-items: flex-start;
+    padding: 20px;
     background: var(--bg-card);
     border-radius: var(--radius);
     border: 1px solid var(--border);
@@ -1014,10 +1003,6 @@ img {
     font-weight: 700;
     line-height: 1.35;
     color: var(--text);
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    transition: color 0.5s ease;
 }
 
 .mini-card .mini-meta {
@@ -1123,7 +1108,7 @@ img {
 }
 
 .story-tile .story-tile-title {
-    font-size: 0.85rem;
+    font-size: 1.05rem;
     font-weight: 600;
     line-height: 1.4;
     color: var(--text);
