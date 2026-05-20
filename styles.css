@@ -186,31 +186,15 @@ img {
     letter-spacing: 1px;
     transition: color var(--transition-snappy);
     padding: 6px 0;
-    position: relative;
 }
 
-.nav a::after {
-    content: '';
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 0;
-    height: 2px;
-    background: var(--accent);
-    transition: width var(--transition-snappy);
-}
-
-
-.nav a:hover::after {
-    width: 100%;
+.nav a:hover {
+    color: var(--accent);
+    text-shadow: 0 0 12px var(--accent-glow);
 }
 
 .nav a.active {
     color: var(--accent);
-}
-
-.nav a.active::after {
-    width: 100%;
 }
 
 /* Play Nav Button (Minimalist Pill) */
@@ -248,7 +232,7 @@ img {
 .header-social a {
     color: var(--accent);
     font-size: 0.95rem;
-    transition: color var(--transition-snappy), transform var(--transition-snappy), text-shadow var(--transition-snappy);
+    transition: color var(--transition-snappy), transform var(--transition-snappy);
 }
 
 .header-social a:hover {
@@ -257,22 +241,18 @@ img {
 
 .header-social a:hover .fa-youtube {
     color: #FF0000;
-    text-shadow: 0 0 20px rgba(255, 0, 0, 0.4);
 }
 
 .header-social a:hover .fa-x-twitter {
     color: #fff;
-    text-shadow: 0 0 20px rgba(255, 255, 255, 0.3);
 }
 
 [data-theme="light"] .header-social a:hover .fa-x-twitter {
     color: #000;
-    text-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
 }
 
 .header-social a:hover .fa-instagram {
     color: #E4405F;
-    text-shadow: 0 0 20px rgba(228, 64, 95, 0.4);
 }
 
 /* === FLOATING THEME TOGGLE === */
@@ -282,42 +262,24 @@ img {
 }
 
 .theme-toggle {
-    width: 28px;
-    height: 12px;
-    border-radius: 50px;
-    border: none;
-    background: #333;
-    cursor: pointer;
-    position: relative;
-    transition: background 0.3s;
-    padding: 0;
-    box-shadow: inset 0 1px 3px rgba(0,0,0,0.4);
-}
-
-.theme-toggle::after {
-    content: '';
-    position: absolute;
-    top: 2px;
-    left: 2px;
-    width: 8px;
-    height: 8px;
+    width: 30px;
+    height: 30px;
     border-radius: 50%;
+    border: none;
     background: #fff;
-    transition: transform 0.3s;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.3);
-}
-
-[data-theme="light"] .theme-toggle {
-    background: #ccc;
-}
-
-[data-theme="light"] .theme-toggle::after {
-    transform: translateX(16px);
-    background: #FFE600;
+    cursor: pointer;
+    padding: 0;
+    box-shadow: 0 0 12px rgba(255,255,255,0.5);
+    transition: background 0.3s, box-shadow 0.3s;
 }
 
 .theme-toggle:hover {
-    opacity: 0.8;
+    opacity: 0.85;
+}
+
+[data-theme="light"] .theme-toggle {
+    background: #FFE600;
+    box-shadow: 0 0 16px rgba(255, 230, 0, 0.6);
 }
 
 /* === HERO SLIDER (Editorial Masterpiece) === */
@@ -366,8 +328,12 @@ img {
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 1.5px;
-    color: var(--text-muted);
+    color: #fff;
     margin-bottom: 12px;
+}
+
+[data-theme="light"] .hero-slider-content .hero-date {
+    color: #000;
 }
 
 .hero-slider-content .hero-title {
@@ -637,18 +603,9 @@ img {
     text-transform: uppercase;
     letter-spacing: 1px;
     color: var(--text);
-    position: relative;
     display: inline-flex;
     align-items: center;
     gap: 8px;
-}
-
-.section-title::before {
-    content: '';
-    width: 4px;
-    height: 18px;
-    background: var(--accent);
-    border-radius: 4px;
 }
 
 .section-link {
@@ -846,6 +803,10 @@ img {
     margin: 0;
 }
 
+.trending-wrap .section-title {
+    color: var(--accent);
+}
+
 /* === CATEGORY TABS === */
 .tabs {
     display: flex;
@@ -904,7 +865,7 @@ img {
     gap: 20px;
     align-items: stretch;
     padding: 20px;
-    background: linear-gradient(135deg, rgba(0,0,0,0.2) 0%, transparent 100%), linear-gradient(135deg, #1a6b3c 0%, #0d3320 100%);
+    background: linear-gradient(135deg, var(--accent) 0%, #0a1f12 100%);
     border-radius: var(--radius);
     border: 1px solid rgba(255,255,255,0.1);
     transition: all var(--transition);
@@ -912,7 +873,7 @@ img {
 }
 
 [data-theme="light"] .mini-card {
-    background: linear-gradient(135deg, rgba(0,0,0,0.2) 0%, transparent 100%), linear-gradient(135deg, #22c55e 0%, #166534 100%);
+    background: linear-gradient(135deg, var(--accent) 0%, #0d3320 100%);
 }
 
 .mini-card:hover {
@@ -924,7 +885,7 @@ img {
 .mini-card .num {
     font-size: 3rem;
     font-weight: 800;
-    color: rgba(255,255,255,0.3);
+    color: rgba(0,0,0,0.3);
     line-height: 1;
     flex-shrink: 0;
     width: 32px;
