@@ -338,7 +338,6 @@ img {
 .hero-slider-inner {
     display: grid;
     grid-template-columns: 1fr 1.1fr;
-    min-height: 500px;
     background: var(--bg-card);
     border: 1px solid var(--border);
     border-radius: var(--radius-lg);
@@ -430,7 +429,8 @@ img {
     position: relative;
     overflow: hidden;
     background: var(--bg-elevated);
-    height: 100%;
+    aspect-ratio: 16 / 9;
+    height: auto;
 }
 
 .hero-image-overlay {
@@ -522,25 +522,28 @@ img {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: rgba(23, 23, 23, 0.8);
-    border: 1px solid var(--border);
-    backdrop-filter: blur(10px);
-    color: var(--text);
+    background: rgba(0, 0, 0, 0.55);
+    backdrop-filter: blur(8px);
+    color: #fff;
     cursor: pointer;
     font-size: 1rem;
     transition: all var(--transition-snappy);
-    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+    border: none;
+}
+
+[data-theme="light"] .hero-slider-arrow {
+    background: rgba(0, 0, 0, 0.45);
+    color: #fff;
 }
 
 .hero-slider-arrow:hover {
     background: var(--accent);
-    color: var(--bg);
-    border-color: var(--accent);
+    color: #fff;
     transform: translateY(-50%) scale(1.05);
 }
 
-.hero-slider-arrow.prev { left: -22px; }
-.hero-slider-arrow.next { right: -22px; }
+.hero-slider-arrow.prev { left: 16px; }
+.hero-slider-arrow.next { right: 16px; }
 
 /* === ALTERNATIVE HERO GRID === */
 .hero-grid {
@@ -801,7 +804,7 @@ img {
 }
 
 [data-theme="light"] .mag-card .overlay {
-    background: linear-gradient(0deg, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0.1) 70%, transparent 100%);
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.03) 70%, transparent 100%);
 }
 
 .mag-card .mag-text {
@@ -934,10 +937,13 @@ img {
 }
 
 .trending-wrap {
-    background: var(--bg-card);
-    border: 1px solid var(--border);
-    border-radius: var(--radius);
-    padding: 24px;
+    background: var(--bg-elevated);
+    padding: 40px 0;
+    margin: 0;
+}
+
+.trending-wrap .section {
+    padding: 0;
 }
 
 /* === CATEGORY TABS === */
@@ -1378,7 +1384,7 @@ img {
         order: 2;
     }
     .hero-slider-image {
-        height: 320px;
+        aspect-ratio: 16 / 9;
         order: 1;
     }
     .hero-slider-arrow {
