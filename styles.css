@@ -4,7 +4,7 @@
 
    :root {
     /* Colors - Dark Theme (Default) */
-    --bg: #111111;
+    --bg: #1a1a1a;
     --bg-elevated: #111111;
     --bg-card: #111111;
     --border: #111111;
@@ -659,6 +659,10 @@ img {
     transition: color var(--transition-snappy);
 }
 
+[data-theme="dark"] .section-title {
+    color: #85144b;
+}
+
 .page-title {
     font-size: 2.5rem;
     font-weight: 800;
@@ -1290,7 +1294,11 @@ img {
 [data-theme="dark"] .footer-brand p,
 [data-theme="dark"] .footer-col a,
 [data-theme="dark"] .footer-bottom {
-    color: #fff;
+    color: #f0f0f0;
+}
+
+[data-theme="light"] .footer-bottom {
+    color: #444;
 }
 
 /* === LEAGUE TABLES === */
