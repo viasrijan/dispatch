@@ -257,25 +257,54 @@ img {
     align-items: center;
 }
 
+.theme-nav-item {
+    display: flex;
+    align-items: center;
+}
+
 .theme-toggle {
-    width: 15px;
-    height: 15px;
-    border-radius: 50%;
-    border: none;
+    display: flex;
+    align-items: center;
+    gap: 6px;
     background: #fff;
+    border-radius: 50px;
+    border: none;
+    padding: 5px 8px;
     cursor: pointer;
-    padding: 0;
-    box-shadow: 0 0 6px rgba(255,255,255,0.5);
+    box-shadow: 0 0 8px rgba(255,255,255,0.4);
     transition: background 0.3s, box-shadow 0.3s;
 }
 
-.theme-toggle:hover {
-    opacity: 0.85;
+.theme-toggle i {
+    font-size: 0.7rem;
+    padding: 3px;
+    border-radius: 50%;
+    transition: all 0.3s;
+}
+
+.theme-toggle .fa-sun {
+    color: #fff;
+    background: #3b82f6;
+}
+
+.theme-toggle .fa-moon {
+    color: #999;
+    background: transparent;
 }
 
 [data-theme="light"] .theme-toggle {
-    background: #000;
-    box-shadow: 0 0 6px rgba(0,0,0,0.3);
+    background: #fff;
+    box-shadow: 0 0 8px rgba(0,0,0,0.2);
+}
+
+[data-theme="light"] .theme-toggle .fa-sun {
+    color: #999;
+    background: transparent;
+}
+
+[data-theme="light"] .theme-toggle .fa-moon {
+    color: #fff;
+    background: #3b82f6;
 }
 
 /* === HERO SLIDER (Editorial Masterpiece) === */
