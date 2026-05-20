@@ -264,7 +264,7 @@ img {
 
 .theme-toggle {
     width: 36px;
-    height: 20px;
+    height: 16px;
     border-radius: 50px;
     border: none;
     background: #333;
@@ -277,7 +277,7 @@ img {
 .theme-toggle::after {
     content: '';
     position: absolute;
-    top: 2px;
+    top: 0;
     left: 2px;
     width: 16px;
     height: 16px;
