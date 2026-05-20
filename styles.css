@@ -251,10 +251,42 @@ img {
     color: #E4405F;
 }
 
-/* === THEME TOGGLE PILL SWITCH === */
+/* === THEME TOGGLE FAB === */
 .theme-nav-item {
+    display: none;
+}
+
+.theme-toggle-fab {
+    position: fixed;
+    bottom: 32px;
+    right: 32px;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    background: #fff;
+    border: none;
+    cursor: pointer;
     display: flex;
     align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.35);
+    z-index: 999;
+    transition: background 0.3s, box-shadow 0.3s;
+}
+
+.theme-toggle-fab i {
+    font-size: 1.25rem;
+    color: #000;
+    transition: color 0.3s;
+}
+
+[data-theme="light"] .theme-toggle-fab {
+    background: #000;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.25);
+}
+
+[data-theme="light"] .theme-toggle-fab i {
+    color: #fff;
 }
 
 .theme-toggle {
