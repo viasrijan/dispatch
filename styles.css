@@ -713,7 +713,6 @@ img {
 
 .section-link:hover {
     color: var(--text);
-    transform: translateX(2px);
 }
 
 .page-wrap {
@@ -967,6 +966,7 @@ img {
 
 
 .mini-card {
+    position: relative;
     display: flex;
     gap: 20px;
     align-items: stretch;
@@ -976,6 +976,43 @@ img {
     border: 1px solid var(--border);
     transition: all var(--transition);
     cursor: pointer;
+}
+
+.mini-card::before,
+.mini-card::after {
+    content: '';
+    position: absolute;
+    left: 15%;
+    width: 70%;
+    height: 22px;
+    border: 3px solid rgba(255,255,255,0.12);
+    border-radius: 6px;
+    transform: rotate(-25deg);
+    transition: border-color var(--transition-snappy);
+    pointer-events: none;
+}
+
+.mini-card::before {
+    top: -11px;
+}
+
+.mini-card::after {
+    bottom: -11px;
+}
+
+.mini-card:hover::before,
+.mini-card:hover::after {
+    border-color: #00e575;
+}
+
+[data-theme="light"] .mini-card::before,
+[data-theme="light"] .mini-card::after {
+    border-color: rgba(0,0,0,0.12);
+}
+
+[data-theme="light"] .mini-card:hover::before,
+[data-theme="light"] .mini-card:hover::after {
+    border-color: #00e575;
 }
 
 [data-theme="light"] .mini-card {
