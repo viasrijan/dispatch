@@ -44,7 +44,6 @@
         <div class="container">
             <div class="hero-slider-inner">
                 <div class="hero-slider-image">
-                    <span class="hero-tag" id="heroTag"></span>
                     <div class="hero-image-overlay"></div>
                     <img id="heroImage" src="" alt="">
 
@@ -70,7 +69,7 @@
                 </div>
                 <div class="grid-3" id="trendingGrid">
                     <a href="posts/140526-0004.html" class="mini-card">
-                        <span class="num">01</span>
+                        <span class="num">1</span>
                         <div class="mini-body">
                             <div class="mini-tag" data-league="seriea">Serie A</div>
                             <h3 class="mini-title">Mourinho Returns to Real Madrid!</h3>
@@ -78,7 +77,7 @@
                         </div>
                     </a>
                     <a href="posts/140526-0005.html" class="mini-card">
-                        <span class="num">02</span>
+                        <span class="num">2</span>
                         <div class="mini-body">
                             <div class="mini-tag" data-league="premier">EPL</div>
                             <h3 class="mini-title">Carrick for United!</h3>
@@ -86,7 +85,7 @@
                         </div>
                     </a>
                     <a href="posts/140526-0006.html" class="mini-card">
-                        <span class="num">03</span>
+                        <span class="num">3</span>
                         <div class="mini-body">
                             <div class="mini-tag" data-league="premier">EPL</div>
                             <h3 class="mini-title">City Pile Pressure on Arsenal!</h3>
@@ -236,7 +235,7 @@
     <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">
         <span class="icon-wrap">
             <i class="fas fa-moon"></i>
-            <span class="sun-circle"></span>
+            <i class="fas fa-sun"></i>
         </span>
     </button>
 
@@ -254,19 +253,6 @@
         let heroTimer = null;
         const HERO_INTERVAL = 5000;
 
-        const leagueKey = {
-            'Breaking': 'breaking',
-            'EPL': 'premier',
-            'La Liga': 'laliga',
-            'Serie A': 'seriea',
-            'Bundesliga': 'bundesliga',
-            'Ligue 1': 'ligue1',
-            'Premiership': 'scottish',
-            'Championship': 'championship',
-            'Champions League': 'champions'
-        };
-
-        const heroTag = document.getElementById('heroTag');
         const heroTitle = document.getElementById('heroTitle');
         const heroExcerpt = document.getElementById('heroExcerpt');
         const heroLink = document.getElementById('heroLink');
@@ -283,14 +269,12 @@
 
         function renderHero(index) {
             const slide = heroSlides[index];
-            heroTag.textContent = slide.tag;
             heroTitle.textContent = slide.title;
             heroExcerpt.textContent = slide.excerpt;
             heroLink.href = slide.link;
             heroImage.src = slide.image;
             heroImage.alt = slide.tag;
             heroDate.textContent = formatDate(slide.date);
-            heroTag.setAttribute('data-league', leagueKey[slide.tag] || 'breaking');
         }
 
         function slideHero(dir) {
