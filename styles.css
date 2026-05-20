@@ -197,9 +197,13 @@ img {
     color: #fff;
 }
 
+[data-theme="light"] .nav a {
+    color: #000;
+}
+
 [data-theme="light"] .nav a:hover,
 [data-theme="light"] .nav a.active {
-    color: #000;
+    color: var(--accent);
 }
 
 /* Play Nav Button (Minimalist Pill) */
