@@ -44,8 +44,8 @@
 
 [data-theme="light"] {
     /* Colors - Light Theme */
-    --bg: #f4f4f3;
-    --bg-elevated: #eaeaea;
+    --bg: #AAAAAA;
+    --bg-elevated: #f0f0f0;
     --bg-card: #ffffff;
     --border: #e2e2df;
     --border-light: #ecece9;
@@ -63,7 +63,7 @@
     
     /* Utilities */
     --shadow: rgba(0, 0, 0, 0.04);
-    --header-bg: rgba(244, 244, 243, 0.85);
+    --header-bg: rgba(240, 240, 240, 0.85);
 }
 
 /* === BASE & SCROLLBAR === */
@@ -389,8 +389,8 @@ img {
     gap: 6px;
     font-size: 0.7rem;
     font-weight: 700;
-    color: #000;
-    background: #fff;
+    color: #fff;
+    background: #85144b;
     padding: 6px 14px;
     border-radius: 50px;
     text-transform: uppercase;
