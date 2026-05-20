@@ -262,8 +262,8 @@ img {
 }
 
 .theme-toggle {
-    width: 36px;
-    height: 16px;
+    width: 28px;
+    height: 12px;
     border-radius: 50px;
     border: none;
     background: #333;
@@ -278,9 +278,9 @@ img {
     content: '';
     position: absolute;
     top: 0;
-    left: 2px;
-    width: 16px;
-    height: 16px;
+    left: 0;
+    width: 12px;
+    height: 12px;
     border-radius: 50%;
     background: #fff;
     transition: transform 0.3s;
@@ -338,7 +338,7 @@ img {
     justify-content: center;
     padding: 60px 48px;
     height: 100%;
-    background: var(--bg-card);
+    background: linear-gradient(135deg, rgba(0,0,0,0.06) 0%, transparent 100%), var(--bg-card);
 }
 
 .hero-slider-content .hero-date {
@@ -538,7 +538,7 @@ img {
 .hero-side-card {
     flex: 1;
     position: relative;
-    background: linear-gradient(135deg, transparent 0%, rgba(0,0,0,0.08) 100%), var(--bg-card);
+    background: linear-gradient(135deg, rgba(0,0,0,0.08) 0%, transparent 100%), var(--bg-card);
     overflow: hidden;
     cursor: pointer;
     display: flex;
@@ -658,7 +658,7 @@ img {
 
 .mag-card {
     position: relative;
-    background: linear-gradient(135deg, transparent 0%, rgba(0,0,0,0.08) 100%), var(--bg-card);
+    background: linear-gradient(135deg, rgba(0,0,0,0.08) 0%, transparent 100%), var(--bg-card);
     overflow: hidden;
     cursor: pointer;
     display: flex;
@@ -880,7 +880,7 @@ img {
     gap: 20px;
     align-items: stretch;
     padding: 20px;
-    background: linear-gradient(135deg, transparent 0%, rgba(0,0,0,0.06) 100%), var(--bg-card);
+    background: linear-gradient(135deg, rgba(0,0,0,0.06) 0%, transparent 100%), var(--bg-card);
     border-radius: var(--radius);
     border: 1px solid var(--border);
     transition: all var(--transition);
@@ -1019,7 +1019,7 @@ img {
 .story-tile {
     display: block;
     padding: 16px 20px;
-    background: linear-gradient(135deg, transparent 0%, rgba(0,0,0,0.06) 100%), var(--bg-card);
+    background: linear-gradient(135deg, rgba(0,0,0,0.06) 0%, transparent 100%), var(--bg-card);
     border: 1px solid var(--border);
     border-radius: var(--radius);
     cursor: pointer;
@@ -1355,4 +1355,12 @@ img {
     .post-title {
         font-size: 1.6rem;
     }
+}
+
+[data-theme="dark"] .mini-card,
+[data-theme="dark"] .mag-card,
+[data-theme="dark"] .story-tile,
+[data-theme="dark"] .hero-side-card,
+[data-theme="dark"] .hero-slider-content {
+    background: linear-gradient(135deg, rgba(255,255,255,0.04) 0%, transparent 100%), var(--bg-card);
 }
