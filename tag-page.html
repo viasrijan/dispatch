@@ -100,7 +100,9 @@
         </div>
     </footer>
 
-    <script>
+    <button class="theme-toggle-fab" id="themeToggle" aria-label="Toggle theme"><i class="fa-solid fa-lightbulb"></i></button>
+
+<script>
         document.querySelectorAll('.nav a').forEach(a => {
             const page = a.getAttribute('href');
             if (location.pathname.endsWith(page)) {
@@ -186,6 +188,6 @@
     </script>
 
     
-<button class="theme-toggle-fab" id="themeToggle" aria-label="Toggle theme"><i class="fa-solid fa-bolt"></i></button>
+
 </body>
 </html>
