@@ -10,11 +10,11 @@
     --border: #1e1e1e;
     --border-light: #282828;
     
-    /* Sleek Neon Emerald Accents */
-    --accent: #00e575;
-    --accent-soft: #26ff95;
-    --accent-dim: #00b355;
-    --accent-glow: rgba(0, 229, 117, 0.12);
+    /* Cobalt Blue Accents */
+    --accent: #000cb6;
+    --accent-soft: #1a1acc;
+    --accent-dim: #000080;
+    --accent-glow: rgba(0, 12, 182, 0.15);
     
     /* Typography Colors */
     --text: #f3f4f6;
@@ -50,11 +50,11 @@
     --border: #e2e2df;
     --border-light: #ecece9;
     
-    /* Sophisticated Forest Green Accents */
-    --accent: #059669;
-    --accent-soft: #10b981;
-    --accent-dim: #047857;
-    --accent-glow: rgba(5, 150, 105, 0.08);
+    /* Cobalt Blue Accents */
+    --accent: #000cb6;
+    --accent-soft: #1a1acc;
+    --accent-dim: #000080;
+    --accent-glow: rgba(0, 12, 182, 0.08);
     
     /* Typography Colors */
     --text: #18181b;
@@ -199,12 +199,12 @@ img {
 
 /* Play Nav Button (Minimalist Pill) */
 .play-nav {
-    background: var(--accent);
-    color: var(--bg) !important;
+    background: #099808;
+    color: #fff !important;
     padding: 8px 20px !important;
     border-radius: 50px;
     font-weight: 700 !important;
-    box-shadow: 0 4px 12px var(--accent-glow);
+    box-shadow: 0 4px 12px rgba(9, 152, 8, 0.3);
 }
 
 .play-nav::after {
@@ -212,9 +212,9 @@ img {
 }
 
 .play-nav:hover {
-    background: var(--accent-soft) !important;
+    background: #0bb80a !important;
     transform: translateY(-1px);
-    box-shadow: 0 6px 16px var(--accent-glow);
+    box-shadow: 0 6px 16px rgba(9, 152, 8, 0.4);
 }
 
 .header-right {
@@ -269,9 +269,8 @@ img {
     display: flex;
     align-items: center;
     justify-content: center;
-    box-shadow: 0 4px 24px rgba(255,255,255,0.5);
     z-index: 9999;
-    transition: background 0.3s, box-shadow 0.3s, transform 0.2s;
+    transition: background 0.3s, transform 0.2s;
     outline: none;
 }
 
@@ -298,8 +297,7 @@ img {
 }
 
 [data-theme="light"] .theme-toggle-fab {
-    background: #FF9D00;
-    box-shadow: 0 4px 24px rgba(255,255,255,0.5);
+    background: #099808;
 }
 
 [data-theme="light"] .theme-toggle-fab i {
