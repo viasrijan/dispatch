@@ -598,7 +598,7 @@ img {
 }
 
 .section-title {
-    font-size: 1.25rem;
+    font-size: 2.5rem;
     font-weight: 800;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -804,7 +804,7 @@ img {
 }
 
 .trending-wrap .section-title {
-    color: var(--accent);
+    color: #fff;
 }
 
 /* === CATEGORY TABS === */
