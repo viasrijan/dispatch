@@ -259,7 +259,6 @@ img {
 .theme-nav-item {
     display: flex;
     align-items: center;
-    margin-left: 8px;
 }
 
 .theme-toggle {
@@ -293,6 +292,7 @@ img {
 
 [data-theme="light"] .theme-toggle::after {
     transform: translateX(16px);
+    background: #f5c542;
 }
 
 .theme-toggle:hover {
@@ -537,7 +537,7 @@ img {
 .hero-side-card {
     flex: 1;
     position: relative;
-    background: var(--bg-card);
+    background: linear-gradient(45deg, rgba(0,0,0,0.08) 0%, transparent 50%), var(--bg-card);
     overflow: hidden;
     cursor: pointer;
     display: flex;
@@ -657,7 +657,7 @@ img {
 
 .mag-card {
     position: relative;
-    background: var(--bg-card);
+    background: linear-gradient(45deg, rgba(0,0,0,0.08) 0%, transparent 50%), var(--bg-card);
     overflow: hidden;
     cursor: pointer;
     display: flex;
@@ -873,12 +873,13 @@ img {
     gap: 20px;
 }
 
+
 .mini-card {
     display: flex;
     gap: 20px;
     align-items: stretch;
     padding: 20px;
-    background: var(--bg-card);
+    background: linear-gradient(45deg, rgba(0,0,0,0.06) 0%, transparent 50%), var(--bg-card);
     border-radius: var(--radius);
     border: 1px solid var(--border);
     transition: all var(--transition);
@@ -1017,7 +1018,7 @@ img {
 .story-tile {
     display: block;
     padding: 16px 20px;
-    background: var(--bg-card);
+    background: linear-gradient(45deg, rgba(0,0,0,0.06) 0%, transparent 50%), var(--bg-card);
     border: 1px solid var(--border);
     border-radius: var(--radius);
     cursor: pointer;
