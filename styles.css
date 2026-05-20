@@ -408,17 +408,22 @@ img {
     gap: 6px;
     font-size: 0.7rem;
     font-weight: 700;
-    color: var(--text);
-    background: var(--bg);
-    padding: 6px 16px;
+    color: #000;
+    background: #fff;
+    padding: 6px 14px;
     border-radius: 50px;
     text-transform: uppercase;
     letter-spacing: 1px;
+    width: fit-content;
     transition: background var(--transition-snappy), transform var(--transition-snappy);
 }
 
+[data-theme="light"] .hero-slider-content .hero-readmore {
+    color: #fff;
+    background: #000;
+}
+
 .hero-slider-inner:hover .hero-readmore {
-    background: var(--border-light);
     transform: translateY(-1px);
 }
 
@@ -961,9 +966,9 @@ img {
 
 .mini-card {
     display: flex;
-    gap: 20px;
-    align-items: flex-start;
-    padding: 20px;
+    gap: 14px;
+    align-items: center;
+    padding: 14px 18px;
     background: var(--bg-card);
     border-radius: var(--radius);
     border: 1px solid var(--border);
@@ -1009,7 +1014,10 @@ img {
     font-weight: 700;
     line-height: 1.35;
     color: var(--text);
-    transition: color var(--transition-snappy);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    transition: color 0.5s ease;
 }
 
 .mini-card .mini-meta {
@@ -1119,6 +1127,11 @@ img {
     font-weight: 600;
     line-height: 1.4;
     color: var(--text);
+    transition: color 0.5s ease;
+}
+
+.story-tile:hover .story-tile-title {
+    color: var(--accent);
 }
 
 /* === INDIVIDUAL POST LAYOUT === */
