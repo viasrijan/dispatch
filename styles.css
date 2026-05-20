@@ -663,15 +663,18 @@ img {
 }
 
 .trending-wrap .section-title {
-    color: #F5B027;
+    background: #F5B027;
+    color: #fff;
 }
 
 .section:has(.magazine-grid) .section-title {
-    color: #85144b;
+    background: #85144b;
+    color: #fff;
 }
 
 .section:has(.story-grid-3x3) .section-title {
-    color: #3D9970;
+    background: #3D9970;
+    color: #fff;
 }
 
 .section-link {
