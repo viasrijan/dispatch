@@ -4,26 +4,26 @@
 
    :root {
     /* Colors - Dark Theme (Default) */
-    --bg: #090909;
-    --bg-elevated: #111111;
-    --bg-card: #171717;
-    --border: #1e1e1e;
-    --border-light: #282828;
+    --bg: #111111;
+    --bg-elevated: #001F3F;
+    --bg-card: #111111;
+    --border: #001F3F;
+    --border-light: #002952;
     
-    /* Sprout Accents */
-    --accent: #099808;
-    --accent-soft: #0bb80a;
-    --accent-dim: #077806;
-    --accent-glow: rgba(9, 152, 8, 0.15);
+    /* Olive Accents */
+    --accent: #3D9970;
+    --accent-soft: #5DBB88;
+    --accent-dim: #2D7A55;
+    --accent-glow: rgba(61, 153, 112, 0.15);
     
     /* Typography Colors */
-    --text: #f3f4f6;
-    --text-secondary: #a1a1aa;
-    --text-muted: #52525b;
+    --text: #FFFFFF;
+    --text-secondary: #DDDDDD;
+    --text-muted: #AAAAAA;
     
     /* Utilities */
     --shadow: rgba(0, 0, 0, 0.6);
-    --header-bg: rgba(9, 9, 9, 0.85);
+    --header-bg: rgba(17, 17, 17, 0.85);
     --transition: 0.4s cubic-bezier(0.16, 1, 0.3, 1);
     --transition-snappy: 0.2s cubic-bezier(0.16, 1, 0.3, 1);
     --radius: 12px;
@@ -34,7 +34,7 @@
     --tag-breaking: #ff5a1f;
     --tag-premier: #4f46e5;
     --tag-laliga: #e11d48;
-    --tag-seriea: #059669;
+    --tag-seriea: #3D9970;
     --tag-bundesliga: #dc2626;
     --tag-ligue1: #2563eb;
     --tag-scottish: #0284c7;
@@ -44,26 +44,26 @@
 
 [data-theme="light"] {
     /* Colors - Light Theme */
-    --bg: #f4f4f3;
-    --bg-elevated: #eaeaea;
-    --bg-card: #ffffff;
-    --border: #e2e2df;
-    --border-light: #ecece9;
+    --bg: #FFFFFF;
+    --bg-elevated: #DDDDDD;
+    --bg-card: #FFFFFF;
+    --border: #DDDDDD;
+    --border-light: #AAAAAA;
     
-    /* Sprout Accents */
-    --accent: #099808;
-    --accent-soft: #0bb80a;
-    --accent-dim: #077806;
-    --accent-glow: rgba(9, 152, 8, 0.08);
+    /* Olive Accents */
+    --accent: #3D9970;
+    --accent-soft: #5DBB88;
+    --accent-dim: #2D7A55;
+    --accent-glow: rgba(61, 153, 112, 0.08);
     
     /* Typography Colors */
-    --text: #18181b;
-    --text-secondary: #4b5563;
-    --text-muted: #9ca3af;
+    --text: #111111;
+    --text-secondary: #001F3F;
+    --text-muted: #AAAAAA;
     
     /* Utilities */
     --shadow: rgba(0, 0, 0, 0.04);
-    --header-bg: rgba(244, 244, 243, 0.85);
+    --header-bg: rgba(255, 255, 255, 0.85);
 }
 
 /* === BASE & SCROLLBAR === */
@@ -199,12 +199,12 @@ img {
 
 /* Play Nav Button (Minimalist Pill) */
 .play-nav {
-    background: #099808;
+    background: #85144b;
     color: #fff !important;
     padding: 8px 20px !important;
     border-radius: 50px;
     font-weight: 700 !important;
-    box-shadow: 0 4px 12px rgba(9, 152, 8, 0.3);
+    box-shadow: 0 4px 12px rgba(133, 20, 75, 0.3);
 }
 
 .play-nav::after {
@@ -212,9 +212,9 @@ img {
 }
 
 .play-nav:hover {
-    background: #0bb80a !important;
+    background: #a01a5d !important;
     transform: translateY(-1px);
-    box-shadow: 0 6px 16px rgba(9, 152, 8, 0.4);
+    box-shadow: 0 6px 16px rgba(133, 20, 75, 0.4);
 }
 
 .header-right {
@@ -301,7 +301,7 @@ img {
 }
 
 [data-theme="light"] .theme-toggle-fab {
-    background: #099808;
+    background: #85144b;
 }
 
 [data-theme="light"] .theme-toggle-fab i {
@@ -448,7 +448,7 @@ img {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #099808;
+    background: var(--accent);
     color: #000;
     cursor: pointer;
     font-size: 1.2rem;
@@ -457,7 +457,7 @@ img {
 }
 
 [data-theme="light"] .hero-slider-arrow {
-    background: #099808;
+    background: var(--accent);
     color: #fff;
 }
 
@@ -931,7 +931,7 @@ img {
 }
 
 .mini-card:hover {
-    border-color: #099808;
+    border-color: var(--accent);
     transform: translateY(-2px);
     box-shadow: 0 8px 24px rgba(0,0,0,0.3);
 }
@@ -950,7 +950,7 @@ img {
 }
 
 .mini-card:hover .num {
-    color: #099808;
+    color: var(--accent);
 }
 
 [data-theme="light"] .mini-card .num {
@@ -958,7 +958,7 @@ img {
 }
 
 [data-theme="light"] .mini-card:hover .num {
-    color: #099808;
+    color: var(--accent);
 }
 
 .mini-card .mini-body {
