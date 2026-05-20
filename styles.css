@@ -338,32 +338,23 @@ img {
     background: var(--bg-card);
     border: 1px solid var(--border);
     border-radius: var(--radius-lg);
-    overflow: hidden;
     position: relative;
     transition: border-color var(--transition), box-shadow var(--transition);
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
 }
 
+.hero-slider-inner .hero-slider-image {
+    border-radius: var(--radius-lg) 0 0 var(--radius-lg);
+    overflow: hidden;
+}
+
+.hero-slider-inner .hero-slider-content {
+    border-radius: 0 var(--radius-lg) var(--radius-lg) 0;
+    overflow: hidden;
+}
+
 .hero-slider-inner:hover {
     box-shadow: 0 12px 40px rgba(0, 0, 0, 0.15);
-}
-
-/* CSS-based Carousel slider functionality */
-.hero-slider-inner .slides-container {
-    display: flex;
-    width: 400%; /* Handles up to 4 slides */
-    transition: transform 0.6s cubic-bezier(0.16, 1, 0.3, 1);
-    height: 100%;
-}
-
-.hero-slider-inner .slide {
-    width: 25%;
-    display: grid;
-    grid-template-columns: 1fr 1.1fr;
-    flex-shrink: 0;
-    text-decoration: none;
-    color: inherit;
-    height: 100%;
 }
 
 .hero-slider-content {
@@ -473,8 +464,8 @@ img {
     top: 50%;
     transform: translateY(-50%);
     z-index: 10;
-    width: 44px;
-    height: 44px;
+    width: 52px;
+    height: 52px;
     border-radius: 50%;
     display: flex;
     align-items: center;
@@ -483,7 +474,7 @@ img {
     backdrop-filter: blur(8px);
     color: #fff;
     cursor: pointer;
-    font-size: 1rem;
+    font-size: 1.2rem;
     transition: all var(--transition-snappy);
     border: none;
 }
@@ -496,11 +487,11 @@ img {
 .hero-slider-arrow:hover {
     background: var(--accent);
     color: #fff;
-    transform: translateY(-50%) scale(1.05);
+    transform: translateY(-50%) scale(1.08);
 }
 
-.hero-slider-arrow.prev { left: 16px; }
-.hero-slider-arrow.next { right: 16px; }
+.hero-slider-arrow.prev { left: -26px; }
+.hero-slider-arrow.next { right: -26px; }
 
 /* === ALTERNATIVE HERO GRID === */
 .hero-grid {
