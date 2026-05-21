@@ -1257,6 +1257,14 @@ img {
     color: var(--text);
 }
 
+.section:has(.story-grid-3x3) .story-tile:hover .story-tile-title {
+    color: #3D9970;
+}
+
+[data-theme="light"] .section:has(.story-grid-3x3) .story-tile:hover .story-tile-title {
+    color: #3D9970;
+}
+
 /* === INDIVIDUAL POST LAYOUT === */
 .post-wrapper {
     max-width: 1200px;
