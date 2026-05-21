@@ -1062,7 +1062,7 @@ img {
 .trending-wrap .mini-card .mini-title,
 .trending-wrap .mini-card .mini-meta,
 .trending-wrap .mini-card .num {
-    color: #F5B027;
+    color: #000;
 }
 
 [data-theme="light"] .trending-wrap .mini-card .mini-title,
