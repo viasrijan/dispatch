@@ -1209,6 +1209,14 @@ img {
     border-color: #fff;
 }
 
+.section:has(.story-grid-3x3) .story-tile:hover {
+    border-color: #3D9970;
+}
+
+[data-theme="light"] .section:has(.story-grid-3x3) .story-tile:hover {
+    border-color: #3D9970;
+}
+
 .story-tile .story-tile-title {
     font-size: 0.85rem;
     font-weight: 600;
