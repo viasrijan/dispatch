@@ -643,9 +643,11 @@ img {
 
 .section-header {
     display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-bottom: 32px;
+    flex-direction: column;
+    align-items: flex-end;
+    border-bottom: 2px solid var(--border);
+    padding-bottom: 6px;
+    margin-bottom: 24px;
 }
 
 .section-title {
@@ -657,24 +659,30 @@ img {
     display: inline-flex;
     align-items: center;
     gap: 8px;
-    background: var(--bg-elevated);
-    padding: 3px 9px;
-    border-radius: 0;
+}
+
+.trending-wrap .section-header {
+    border-bottom-color: #F5B027;
 }
 
 .trending-wrap .section-title {
-    background: #F5B027;
-    color: #fff;
+    color: #F5B027;
+}
+
+.section:has(.magazine-grid) .section-header {
+    border-bottom-color: #85144b;
 }
 
 .section:has(.magazine-grid) .section-title {
-    background: #85144b;
-    color: #fff;
+    color: #85144b;
+}
+
+.section:has(.story-grid-3x3) .section-header {
+    border-bottom-color: #3D9970;
 }
 
 .section:has(.story-grid-3x3) .section-title {
-    background: #3D9970;
-    color: #fff;
+    color: #3D9970;
 }
 
 .section-link {
@@ -684,10 +692,6 @@ img {
     text-transform: uppercase;
     letter-spacing: 1px;
     transition: color var(--transition-snappy);
-}
-
-[data-theme="dark"] .section-title {
-    color: #fff;
 }
 
 [data-theme="dark"] .section-link {
