@@ -822,11 +822,16 @@ img {
     padding: 1px 4px;
     display: inline;
     box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+    font-size: 0.99rem;
+}
+
+.section:has(.magazine-grid) .mag-card:nth-child(1) .mag-title {
+    font-size: 1.35rem;
 }
 
 .section:has(.magazine-grid) .mag-card .mag-meta {
-    color: #fff;
-    background: #000;
+    color: #000;
+    background: #fff;
     padding: 1px 6px;
     display: inline-block;
     margin-top: 6px;
