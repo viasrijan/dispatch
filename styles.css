@@ -771,6 +771,14 @@ img {
     border-color: var(--accent);
 }
 
+.section:has(.magazine-grid) .mag-card:hover {
+    border-color: #85144b;
+}
+
+[data-theme="light"] .section:has(.magazine-grid) .mag-card:hover {
+    border-color: #85144b;
+}
+
 .mag-card img {
     position: absolute;
     inset: 0;
