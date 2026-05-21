@@ -990,6 +990,16 @@ img {
     box-shadow: 0 8px 12px rgba(0,0,0,0.15);
 }
 
+.trending-wrap .mini-card:hover {
+    border-color: #F5B027;
+}
+
+.trending-wrap .mini-card:hover .mini-title,
+.trending-wrap .mini-card:hover .mini-meta,
+.trending-wrap .mini-card:hover .num {
+    color: #F5B027;
+}
+
 .mini-card .num {
     font-size: 4.5rem;
     font-weight: 800;
