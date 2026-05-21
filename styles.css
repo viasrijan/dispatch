@@ -1051,24 +1051,32 @@ img {
     box-shadow: 0 8px 12px rgba(0,0,0,0.15);
 }
 
+.trending-wrap .mini-card {
+    border-color: #F5B027;
+}
+
+[data-theme="light"] .trending-wrap .mini-card {
+    border-color: #F5B027;
+}
+
 .trending-wrap .mini-card:hover {
     border-color: #F5B027;
 }
 
 [data-theme="light"] .trending-wrap .mini-card:hover {
-    border-color: #000;
+    border-color: #F5B027;
 }
 
 .trending-wrap .mini-card .mini-title,
 .trending-wrap .mini-card .mini-meta,
 .trending-wrap .mini-card .num {
-    color: #000;
+    color: #F5B027;
 }
 
 [data-theme="light"] .trending-wrap .mini-card .mini-title,
 [data-theme="light"] .trending-wrap .mini-card .mini-meta,
 [data-theme="light"] .trending-wrap .mini-card .num {
-    color: #000;
+    color: #F5B027;
 }
 
 .trending-wrap .mini-card:hover .mini-title,
