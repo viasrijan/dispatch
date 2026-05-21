@@ -816,6 +816,10 @@ img {
     color: #fff;
 }
 
+.section:has(.magazine-grid) .mag-card .mag-title {
+    color: #85144b;
+}
+
 
 .mag-card .mag-meta {
     font-size: 0.72rem;
