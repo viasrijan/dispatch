@@ -1056,7 +1056,7 @@ img {
 }
 
 [data-theme="light"] .trending-wrap .mini-card:hover {
-    border-color: #F5B027;
+    border-color: #000;
 }
 
 .trending-wrap .mini-card .mini-title,
@@ -1068,7 +1068,7 @@ img {
 [data-theme="light"] .trending-wrap .mini-card .mini-title,
 [data-theme="light"] .trending-wrap .mini-card .mini-meta,
 [data-theme="light"] .trending-wrap .mini-card .num {
-    color: #F5B027;
+    color: #000;
 }
 
 .trending-wrap .mini-card:hover .mini-title,
@@ -1233,7 +1233,7 @@ img {
 }
 
 [data-theme="light"] .story-tile:hover {
-    border-color: #fff;
+    border-color: #000;
 }
 
 .section:has(.story-grid-3x3) .story-tile:hover {
@@ -1241,7 +1241,7 @@ img {
 }
 
 [data-theme="light"] .section:has(.story-grid-3x3) .story-tile:hover {
-    border-color: #3D9970;
+    border-color: #000;
 }
 
 .story-tile .story-tile-title {
