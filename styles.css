@@ -1051,23 +1051,11 @@ img {
     box-shadow: 0 8px 12px rgba(0,0,0,0.15);
 }
 
-.trending-wrap .mini-card {
-    background: #F5B027;
-    border-color: #F5B027;
-}
-
-[data-theme="light"] .trending-wrap .mini-card {
-    background: #F5B027;
-    border-color: #F5B027;
-}
-
 .trending-wrap .mini-card:hover {
-    background: linear-gradient(135deg, rgba(0,0,0,0.3) 0%, transparent 100%), var(--bg-card);
     border-color: #F5B027;
 }
 
 [data-theme="light"] .trending-wrap .mini-card:hover {
-    background: linear-gradient(45deg, rgba(0,0,0,0.05) 0%, transparent 100%), var(--bg-card);
     border-color: #000;
 }
 
@@ -1086,7 +1074,7 @@ img {
 .trending-wrap .mini-card:hover .mini-title,
 .trending-wrap .mini-card:hover .mini-meta,
 .trending-wrap .mini-card:hover .num {
-    color: #000;
+    color: #F5B027;
 }
 
 .mini-card .num {
