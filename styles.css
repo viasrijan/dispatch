@@ -836,6 +836,11 @@ img {
     display: inline-block;
     margin-top: 6px;
     font-size: 0.72rem;
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    z-index: 3;
+    margin-top: 0;
 }
 
 .mag-card .mag-meta {
