@@ -817,7 +817,11 @@ img {
 }
 
 .section:has(.magazine-grid) .mag-card .mag-title {
-    color: #fff;
+    color: #85144b;
+    background: #fff;
+    padding: 2px 8px;
+    display: inline-block;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.2);
 }
 
 
