@@ -817,7 +817,7 @@ img {
 }
 
 .section:has(.magazine-grid) .mag-card .mag-title {
-    color: #85144b;
+    color: #fff;
 }
 
 
