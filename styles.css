@@ -208,7 +208,7 @@ img {
 
 /* Play Nav Button (Minimalist Pill) */
 .play-nav {
-    background: #c82f7a;
+    background: #bc005b;
     color: #fff !important;
     padding: 8px 20px !important;
     border-radius: 50px;
@@ -310,7 +310,7 @@ img {
 }
 
 [data-theme="light"] .theme-toggle-fab {
-    background: #c82f7a;
+    background: #bc005b;
 }
 
 [data-theme="light"] .theme-toggle-fab i {
@@ -399,7 +399,7 @@ img {
     font-size: 0.7rem;
     font-weight: 700;
     color: #fff;
-    background: #c82f7a;
+    background: #bc005b;
     padding: 6px 14px;
     border-radius: 50px;
     text-transform: uppercase;
@@ -688,7 +688,7 @@ img {
 }
 
 .section:has(.magazine-grid) .section-header::after {
-    background: linear-gradient(to left, #c82f7a, transparent);
+    background: linear-gradient(to left, #bc005b, transparent);
 }
 
 [data-theme="light"] .section:has(.magazine-grid) .section-header::after {
@@ -696,7 +696,7 @@ img {
 }
 
 .section:has(.magazine-grid) .section-title {
-    color: #c82f7a;
+    color: #bc005b;
 }
 
 [data-theme="light"] .section:has(.magazine-grid) .section-title {
@@ -799,11 +799,11 @@ img {
 }
 
 .section:has(.magazine-grid) .mag-card:hover {
-    border-color: #c82f7a;
+    border-color: #bc005b;
 }
 
 [data-theme="light"] .section:has(.magazine-grid) .mag-card:hover {
-    border-color: #c82f7a;
+    border-color: #bc005b;
 }
 
 .mag-card img {
@@ -845,7 +845,7 @@ img {
 
 .section:has(.magazine-grid) .mag-card .mag-title {
     color: #fff;
-    background: #c82f7a;
+    background: #bc005b;
     padding: 1px 4px;
     display: inline;
     box-shadow: 0 1px 3px rgba(0,0,0,0.2);
