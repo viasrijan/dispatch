@@ -207,14 +207,6 @@ img {
 }
 
 /* Play Nav Button (Minimalist Pill) */
-@keyframes glow {
-    0%, 100% {
-        box-shadow: 0 0 6px rgba(188, 0, 91, 0.3);
-    }
-    50% {
-        box-shadow: 0 0 18px rgba(188, 0, 91, 0.6), 0 0 30px rgba(188, 0, 91, 0.15);
-    }
-}
 
 .play-nav {
     background: #bc005b;
@@ -223,7 +215,6 @@ img {
     border-radius: 50px;
     font-weight: 700 !important;
     box-shadow: 0 4px 12px rgba(133, 20, 75, 0.3);
-    animation: glow 1.5s ease-in-out infinite;
 }
 
 .play-nav::after {
@@ -231,8 +222,6 @@ img {
 }
 
 .play-nav:hover {
-    animation-play-state: paused;
-    box-shadow: 0 0 18px rgba(188, 0, 91, 0.6), 0 0 30px rgba(188, 0, 91, 0.15);
 }
 
 .header-right {
@@ -414,13 +403,14 @@ img {
     text-transform: uppercase;
     letter-spacing: 1px;
     width: fit-content;
-    transition: background var(--transition-snappy), transform var(--transition-snappy);
-    animation: glow 3s ease-in-out infinite;
+    transition: background var(--transition-snappy);
+    box-shadow: 0 4px 12px rgba(133, 20, 75, 0.3);
 }
 
 [data-theme="light"] .hero-slider-content .hero-readmore {
     color: #fff;
     background: #000;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
 }
 
 .hero-slider-inner:hover .hero-readmore {
@@ -1097,15 +1087,14 @@ img {
 }
 
 .mini-card .num {
-    font-size: 4.5rem;
-    font-weight: 800;
-    color: #fff;
-    line-height: 1;
-    flex-shrink: 0;
-    width: 32px;
+    flex: 0 0 20%;
     display: flex;
     align-items: center;
     justify-content: center;
+    font-size: 4.5rem;
+    font-weight: 800;
+    line-height: 1;
+    padding: 0 15%;
     transition: color var(--transition-snappy);
 }
 
@@ -1122,8 +1111,9 @@ img {
 }
 
 .mini-card .mini-body {
-    flex: 1;
+    flex: 0 0 80%;
     min-width: 0;
+    padding: 0 15%;
 }
 
 .mini-card .mini-tag {
