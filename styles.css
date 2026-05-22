@@ -1042,14 +1042,15 @@ img {
     flex-shrink: 0;
     display: flex;
     align-items: center;
-    gap: 10px;
+    gap: 12px;
     background: var(--bg-card);
     border: 1px solid var(--border);
     border-radius: var(--radius);
-    padding: 10px 16px;
-    min-width: 200px;
+    padding: 14px 24px;
+    min-width: 240px;
     transition: border-color var(--transition-snappy);
     position: relative;
+    overflow: hidden;
 }
 
 .fixture-box::after {
@@ -1059,7 +1060,6 @@ img {
     left: 0;
     right: 0;
     height: 3px;
-    border-radius: 0 0 var(--radius) var(--radius);
 }
 
 .fixture-box[data-league="premier"]::after { background: #4f46e5; }
@@ -1733,9 +1733,9 @@ img {
 }
 
 .form-dot {
-    width: 14px;
-    height: 14px;
-    border-radius: 3px;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
     display: inline-block;
 }
 
