@@ -207,6 +207,15 @@ img {
 }
 
 /* Play Nav Button (Minimalist Pill) */
+@keyframes glow {
+    0%, 100% {
+        box-shadow: 0 0 6px rgba(188, 0, 91, 0.3);
+    }
+    50% {
+        box-shadow: 0 0 18px rgba(188, 0, 91, 0.6), 0 0 30px rgba(188, 0, 91, 0.15);
+    }
+}
+
 .play-nav {
     background: #bc005b;
     color: #fff !important;
@@ -214,6 +223,7 @@ img {
     border-radius: 50px;
     font-weight: 700 !important;
     box-shadow: 0 4px 12px rgba(133, 20, 75, 0.3);
+    animation: glow 3s ease-in-out infinite;
 }
 
 .play-nav::after {
@@ -367,12 +377,12 @@ img {
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 1.5px;
-    color: #fff;
+    color: #3D9970;
     margin-bottom: 12px;
 }
 
 [data-theme="light"] .hero-slider-content .hero-date {
-    color: #000;
+    color: #3D9970;
 }
 
 .hero-slider-content .hero-title {
@@ -406,6 +416,7 @@ img {
     letter-spacing: 1px;
     width: fit-content;
     transition: background var(--transition-snappy), transform var(--transition-snappy);
+    animation: glow 3s ease-in-out infinite;
 }
 
 [data-theme="light"] .hero-slider-content .hero-readmore {
@@ -1016,10 +1027,10 @@ img {
     width: 100%;
 }
 
-/* === 3-COL MINI CARDS === */
+/* === 4-COL GRID FOR TRENDING === */
 .grid-3 {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     gap: 20px;
 }
 
@@ -1063,6 +1074,10 @@ img {
 .trending-wrap .mini-card .mini-meta,
 .trending-wrap .mini-card .num {
     color: #fff;
+}
+
+.trending-wrap .mini-card .mini-title {
+    font-size: 0.725rem;
 }
 
 [data-theme="light"] .trending-wrap .mini-card .mini-title,
@@ -1255,6 +1270,10 @@ img {
     font-weight: 600;
     line-height: 1.4;
     color: var(--text);
+}
+
+[data-theme="light"] .story-tile .story-tile-title {
+    color: #bc005b;
 }
 
 .section:has(.story-grid-3x3) .story-tile:hover .story-tile-title {

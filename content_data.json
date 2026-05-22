@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T04:17:13.084489",
+  "generated_at": "2026-05-23T04:29:02.161775",
   "rss_headlines_used": 15,
   "sections": {
     "hero": [
@@ -32,13 +32,13 @@
         "source": "feeds.bbci.co.uk",
         "tags": [
           "Match Reports",
+          "Asia",
+          "Africa",
           "World Cup",
           "South America",
-          "North America",
-          "Oceania",
-          "Asia",
           "Europe",
-          "Africa"
+          "Oceania",
+          "North America"
         ],
         "excerpt": "Former England captain Wayne Rooney says Harry Maguire is \"very unlucky\" to miss out on a place in Thomas Tuchel's World Cup squad this summer.",
         "_key": "hero_1",
@@ -150,15 +150,13 @@
         ],
         "_key": "trending_2",
         "_post_id": "230526-0012"
-      }
-    ],
-    "picks": [
+      },
       {
         "headline": "Why Tuchel wanted Toney back in England picture",
         "description": "Ivan Toney has barely featured under England boss Thomas Tuchel - but this is why the German coach wants him in his World Cup squad.",
         "category": "Premier League",
         "content_type": "Match Reports",
-        "category_tag": "PICK",
+        "category_tag": "TRENDING",
         "importance": 3,
         "image_prompt": "Cinematic Premier League football match under dramatic stadium lights",
         "source": "feeds.bbci.co.uk",
@@ -167,15 +165,15 @@
           "Premier League",
           "Europe"
         ],
-        "_key": "picks_0",
-        "_post_id": "230526-0020"
+        "_key": "trending_3",
+        "_post_id": "230526-0013"
       },
       {
         "headline": "Why genius Guardiola is the greatest coach of all time",
         "description": "BBC pundit Micah Richards explains why English football is going to miss Pep Guardiola after his exit from Manchester City.",
         "category": "Premier League",
         "content_type": "Match Reports",
-        "category_tag": "PICK",
+        "category_tag": "TRENDING",
         "importance": 3,
         "image_prompt": "Football manager walking on pitch during match",
         "source": "feeds.bbci.co.uk",
@@ -184,32 +182,32 @@
           "Premier League",
           "Europe"
         ],
-        "_key": "picks_1",
-        "_post_id": "230526-0021"
+        "_key": "trending_4",
+        "_post_id": "230526-0014"
       },
       {
         "headline": "Kane on Barcelona shortlist - Saturday's gossip",
         "description": "England and Bayern Munich striker Harry Kane is on Barcelona's shortlist to replace Robert Lewandowski, Manchester United agree deal for Atalanta midfielder Ederson, while Liverpool close in on Colomb",
         "category": "La Liga",
         "content_type": "Match Reports",
-        "category_tag": "PICK",
+        "category_tag": "TRENDING",
         "importance": 3,
         "image_prompt": "Cinematic La Liga football match under dramatic stadium lights",
         "source": "feeds.bbci.co.uk",
         "tags": [
           "Match Reports",
-          "Europe",
-          "La Liga"
+          "La Liga",
+          "Europe"
         ],
-        "_key": "picks_2",
-        "_post_id": "230526-0022"
+        "_key": "trending_5",
+        "_post_id": "230526-0015"
       },
       {
         "headline": "'Tuchel's gambles and iron conviction position him as the an",
         "description": "Thomas Tuchel proves he is the \"anti-Southgate\" in making tough calls for England's World Cup 2026 squad.",
         "category": "Premier League",
         "content_type": "Match Reports",
-        "category_tag": "PICK",
+        "category_tag": "TRENDING",
         "importance": 3,
         "image_prompt": "Cinematic Premier League football match under dramatic stadium lights",
         "source": "feeds.bbci.co.uk",
@@ -218,17 +216,15 @@
           "Premier League",
           "Europe"
         ],
-        "_key": "picks_3",
-        "_post_id": "230526-0023"
-      }
-    ],
-    "latest": [
+        "_key": "trending_6",
+        "_post_id": "230526-0016"
+      },
       {
         "headline": "Eleven players who defined Guardiola's Man City era",
         "description": "BBC Sport takes a look at 11 players who had their careers shaped by Pep Guardiola during his 10 season as at Manchester City.",
         "category": "Premier League",
         "content_type": "Match Reports",
-        "category_tag": "NEWS",
+        "category_tag": "TRENDING",
         "importance": 3,
         "image_prompt": "Cinematic Premier League football match under dramatic stadium lights",
         "source": "feeds.bbci.co.uk",
@@ -237,15 +233,15 @@
           "Premier League",
           "Europe"
         ],
-        "_key": "latest_0",
-        "_post_id": "230526-0030"
+        "_key": "trending_7",
+        "_post_id": "230526-0017"
       },
       {
         "headline": "Carrick confirmed as Man Utd permanent boss",
         "description": "Manchester United confirm the appointment of Michael Carrick as their permanent head coach on a two-year contract.",
         "category": "Premier League",
         "content_type": "Match Reports",
-        "category_tag": "NEWS",
+        "category_tag": "TRENDING",
         "importance": 3,
         "image_prompt": "Cinematic Premier League football match under dramatic stadium lights",
         "source": "feeds.bbci.co.uk",
@@ -254,15 +250,15 @@
           "Premier League",
           "Europe"
         ],
-        "_key": "latest_1",
-        "_post_id": "230526-0031"
+        "_key": "trending_8",
+        "_post_id": "230526-0018"
       },
       {
         "headline": "Rooney disagrees with England squad omissions - but backs To",
         "description": "Wayne Rooney on how Tuchel got Maguire, Foden and Palmer decisions WRONG.",
         "category": "Premier League",
         "content_type": "Match Reports",
-        "category_tag": "NEWS",
+        "category_tag": "TRENDING",
         "importance": 3,
         "image_prompt": "Cinematic Premier League football match under dramatic stadium lights",
         "source": "feeds.bbci.co.uk",
@@ -271,8 +267,122 @@
           "Premier League",
           "Europe"
         ],
+        "_key": "trending_9",
+        "_post_id": "230526-0019"
+      },
+      {
+        "headline": "Real Madrid complete \u20ac120M signing of generational talent",
+        "category": "Transfers",
+        "content_type": "Transfers",
+        "importance": 5,
+        "image_prompt": "Player signing contract at Bernabeu",
+        "category_tag": "TRENDING",
+        "description": "Real Madrid have completed the signing of one of football's most exciting young talents in a deal worth \u20ac120 million. The player passed his medical and signed a five-year contract at the Bernabeu.",
+        "_key": "trending_10",
+        "_post_id": "230526-0020"
+      },
+      {
+        "headline": "Champions League final: Tactical preview and key battles to watch",
+        "category": "Champions League",
+        "content_type": "Match Reports",
+        "importance": 5,
+        "image_prompt": "Champions League trophy in stadium",
+        "category_tag": "TRENDING",
+        "description": "With the Champions League final just days away, we break down the tactical battle ahead. From key duels to set-piece strategies, here is everything you need to know before kickoff.",
+        "_key": "trending_11",
+        "_post_id": "230526-0021"
+      }
+    ],
+    "picks": [
+      {
+        "headline": "Bayern Munich secure domestic double with dominant display",
+        "category": "Bundesliga",
+        "content_type": "Match Reports",
+        "importance": 4,
+        "image_prompt": "Bayern Munich celebration",
+        "category_tag": "PICK",
+        "description": "Bayern Munich have secured the domestic double after a commanding performance in the DFB-Pokal final. The Bavarian giants continue their stranglehold on German football.",
+        "_key": "picks_0",
+        "_post_id": "230526-0022"
+      },
+      {
+        "headline": "PSG announce major squad overhaul for next season",
+        "category": "Ligue 1",
+        "content_type": "Transfers",
+        "importance": 4,
+        "image_prompt": "PSG stadium packed with fans",
+        "category_tag": "PICK",
+        "description": "Paris Saint-Germain have announced a comprehensive squad rebuild ahead of the new season, with several high-profile departures and arrivals expected at the Parc des Princes.",
+        "_key": "picks_1",
+        "_post_id": "230526-0023"
+      },
+      {
+        "headline": "Inter Milan announce ambitious expansion plans for stadium",
+        "category": "Serie A",
+        "content_type": "Analysis",
+        "importance": 4,
+        "image_prompt": "San Siro stadium",
+        "category_tag": "PICK",
+        "description": "Inter Milan have unveiled ambitious plans to modernize and expand the iconic San Siro stadium. The project aims to increase capacity and enhance the fan experience.",
+        "_key": "picks_2",
+        "_post_id": "230526-0024"
+      },
+      {
+        "headline": "Football legends gather for annual charity match event",
+        "category": "Champions League",
+        "content_type": "Opinion",
+        "importance": 3,
+        "image_prompt": "Charity football match",
+        "category_tag": "PICK",
+        "description": "Some of football's greatest ever players came together for the annual charity match, raising millions for good causes while delighting fans with moments of magic.",
+        "_key": "picks_3",
+        "_post_id": "230526-0025"
+      }
+    ],
+    "latest": [
+      {
+        "headline": "Manchester United confident of landing top transfer target",
+        "category": "Transfers",
+        "content_type": "Transfers",
+        "importance": 3,
+        "image_prompt": "Old Trafford",
+        "category_tag": "NEWS",
+        "description": "Manchester United officials are growing increasingly confident of securing their primary transfer target, with negotiations progressing positively behind the scenes.",
+        "_key": "latest_0",
+        "_post_id": "230526-0026"
+      },
+      {
+        "headline": "Juventus announce new signing from Serie A rivals",
+        "category": "Serie A",
+        "content_type": "Transfers",
+        "importance": 3,
+        "image_prompt": "Juventus stadium",
+        "category_tag": "NEWS",
+        "description": "Juventus have completed the signing of a highly-rated talent from a Serie A rival, strengthening their squad for the challenges ahead this season.",
+        "_key": "latest_1",
+        "_post_id": "230526-0027"
+      },
+      {
+        "headline": "AC Milan target Champions League qualification",
+        "category": "Serie A",
+        "content_type": "Match Reports",
+        "importance": 3,
+        "image_prompt": "San Siro at night",
+        "category_tag": "NEWS",
+        "description": "AC Milan are focused on securing Champions League qualification as the Serie A season enters its decisive phase. Every point is crucial in the race for Europe.",
         "_key": "latest_2",
-        "_post_id": "230526-0032"
+        "_post_id": "230526-0028"
+      },
+      {
+        "headline": "Leipzig challenge Bayern for Bundesliga title",
+        "category": "Bundesliga",
+        "content_type": "Match Reports",
+        "importance": 3,
+        "image_prompt": "Red Bull Arena",
+        "category_tag": "NEWS",
+        "description": "RB Leipzig are emerging as genuine title challengers, keeping pace with Bayern Munich in the Bundesliga standings and refusing to let the defending champions pull away.",
+        "_key": "latest_3",
+        "_post_id": "230526-0029"
       }
     ]
   }
