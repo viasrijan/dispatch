@@ -248,7 +248,8 @@ def extract_json_from_text(text):
 
 async def call_ollama(messages, model="llama3.2", max_tokens=2000):
     """Use Ollama for local AI generation (free, private)"""
-    import aiohttp
+    import asyncio
+    import json
     
     print(f"    🤖 Calling Ollama ({model})...")
     
@@ -273,26 +274,32 @@ async def call_ollama(messages, model="llama3.2", max_tokens=2000):
         }
     }
     
+    # Use subprocess instead of aiohttp to avoid async cancellation issues
     try:
-        connector = aiohttp.TCPConnector(ssl=False)
-        async with aiohttp.ClientSession(connector=connector) as session:
-            async with session.post(
-                "http://localhost:11434/api/generate",
-                json=payload,
-                timeout=aiohttp.ClientTimeout(total=180),
-            ) as resp:
-                if resp.status != 200:
-                    err = await resp.text()
-                    print(f"  ⚠ Ollama error {resp.status}: {err[:200]}")
-                    return "[]"
-                data = await resp.json()
-                response = data.get("response", "")
-                print(f"    ✅ Ollama response: {response[:100]}...")
-                return response
-    except Exception as e:
-        print(f"  ⚠ Ollama error type={type(e).__name__}: {e}")
-        import traceback
-        traceback.print_exc()
+        proc = await asyncio.create_subprocess_exec(
+            "curl", "-s", "-X", "POST",
+            "http://localhost:11434/api/generate",
+            "-d", json.dumps(payload),
+            stdout=asyncio.subprocess.PIPE,
+            stderr=asyncio.subprocess.PIPE,
+        )
+        try:
+            stdout, stderr = await asyncio.wait_for(proc.communicate(), timeout=180)
+        except asyncio.TimeoutError:
+            proc.kill()
+            print("  ⚠ Ollama timed out (180s)")
+            return "[]"
+        
+        if proc.returncode != 0:
+            print(f"  ⚠ Ollama curl failed (code {proc.returncode}): {stderr.decode()[:200]}")
+            return "[]"
+        
+        data = json.loads(stdout.decode())
+        response = data.get("response", "")
+        print(f"    ✅ Ollama response: {response[:100]}...")
+        return response
+    except (Exception, asyncio.CancelledError) as e:
+        print(f"  ⚠ Ollama error: {e}")
         return "[]"
 
 
