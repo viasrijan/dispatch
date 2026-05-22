@@ -21,7 +21,7 @@ ssl_context.check_hostname = False
 ssl_context.verify_mode = ssl.CERT_NONE
 
 # Settings
-GENERATE_POST_PAGES = False  # Disabled per user request
+GENERATE_POST_PAGES = True  # Generate individual post pages
 
 # Image API Keys
 PEXELS_API_KEY = "uojC04iqYEDXYiuAzMNEOW4KFKzZz514yGjfa6cGPpc98d9jkFfOCrM9"
@@ -182,9 +182,10 @@ RSS_FEEDS = [
     "https://www.footballinsider247.com/feed",
 ]
 
-SLIDER_MARKERS = ("<!--KICKOFF_SLIDER_START-->", "<!--KICKOFF_SLIDER_END-->")
-FEATURED_MARKERS = ("<!--KICKOFF_FEATURED_START-->", "<!--KICKOFF_FEATURED_END-->")
-STORIES_MARKERS = ("<!--KICKOFF_STORIES_START-->", "<!--KICKOFF_STORIES_END-->")
+SLIDER_MARKERS = ("<!--KICKOFF_HERO_START-->", "<!--KICKOFF_HERO_END-->")
+FEATURED_MARKERS = ("<!--KICKOFF_TRENDING_START-->", "<!--KICKOFF_TRENDING_END-->")
+STORIES_MARKERS = ("<!--KICKOFF_PICKS_START-->", "<!--KICKOFF_PICKS_END-->")
+LATEST_MARKERS = ("<!--KICKOFF_LATEST_START-->", "<!--KICKOFF_LATEST_END-->")
 
 
 async def fetch_rss_headlines():
@@ -581,11 +582,7 @@ async def generate_gemini_image(gemini_key, prompt, size, filepath):
     """Generate image using Google Gemini API (500 free/day)"""
     import base64
     import random
-    
-    headers = {
-        "Authorization": f"Bearer {gemini_key}",
-        "Content-Type": "application/json",
-    }
+    import ssl
     
     # Size mapping for Gemini
     size_map = {
@@ -618,8 +615,8 @@ async def generate_gemini_image(gemini_key, prompt, size, filepath):
     try:
         async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(ssl=False)) as session:
             async with session.post(
-                "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp-image-generation:generateContent",
-                headers=headers, json=body,
+                f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp-image-generation:generateContent?key={gemini_key}",
+                json=body,
                 timeout=aiohttp.ClientTimeout(total=120),
             ) as resp:
                 if resp.status != 200:
@@ -853,23 +850,81 @@ def format_headline_title(headline):
     return headline
 
 
-def build_slider_html(items, images):
+def build_hero_js(items, images):
+    """Generate heroSlides JS array"""
+    lines = []
+    for i, item in enumerate(items):
+        img = images.get(item.get("_key", ""), FALLBACK_IMAGES[i % len(FALLBACK_IMAGES)])
+        tag = item.get("category_tag", "Breaking")
+        title = format_headline_title(item.get("headline", "Football News").replace("**", ""))
+        excerpt = item.get("excerpt", title)
+        post_id = item.get("_post_id", get_post_id(item, i))
+        date = datetime.now().strftime("%Y-%m-%d")
+        lines.append(f'''            {{ tag: "{tag}", title: "{title}", excerpt: "{excerpt}", image: "{img}", link: "posts/{post_id}.html", date: "{date}" }},''')
+    return "\n".join(lines)
+
+
+def build_trending_html(items, images):
+    """Generate trending mini-cards"""
+    html = ""
+    times = ["15 min ago", "28 min ago", "42 min ago"]
+    leagues_map = {
+        "Premier League": "premier", "La Liga": "laliga", "Serie A": "seriea",
+        "Bundesliga": "bundesliga", "Ligue 1": "ligue1",
+    }
+    for i, item in enumerate(items):
+        cat = item.get("category", "Premier League")
+        league = leagues_map.get(cat, "premier")
+        headline = format_headline_title(item.get("headline", "Football News").replace("**", ""))
+        time_str = times[i] if i < len(times) else f"{i+1} hour ago"
+        post_id = item.get("_post_id", get_post_id(item, i + 10))
+        html += f"""                    <a href="posts/{post_id}.html" class="mini-card">
+                        <span class="num">{i + 1}</span>
+                        <div class="mini-body">
+                            <div class="mini-tag" data-league="{league}">{cat}</div>
+                            <h3 class="mini-title">{headline}</h3>
+                            <div class="mini-meta">{time_str}</div>
+                        </div>
+                    </a>
+"""
+    return html
+
+
+def build_picks_html(items, images):
+    """Generate editor's picks mag-cards"""
+    html = ""
+    sizes = ["w=600&h=500&fit=crop", "w=300&h=300&fit=crop", "w=300&h=300&fit=crop", "w=600&h=250&fit=crop"]
+    leagues_map = {
+        "Premier League": "premier", "La Liga": "laliga", "Serie A": "seriea",
+        "Bundesliga": "bundesliga", "Ligue 1": "ligue1",
+    }
+    for i, item in enumerate(items):
+        cat = item.get("category", "Premier League")
+        league = leagues_map.get(cat, "premier")
+        img = images.get(item.get("_key", ""), FALLBACK_IMAGES[(i + 5) % len(FALLBACK_IMAGES)] + "&" + sizes[i % len(sizes)])
+        headline = format_headline_title(item.get("headline", "Football News").replace("**", ""))
+        post_id = item.get("_post_id", get_post_id(item, i + 20))
+        html += f"""                <a href="posts/{post_id}.html" class="mag-card">
+                    <img src="{img}" alt="">
+                    <div class="overlay"></div>
+                    <div class="mag-text">
+                        <span class="mag-tag" data-league="{league}">{cat}</span>
+                        <h3 class="mag-title">{headline}</h3>
+                    </div>
+                </a>
+"""
+    return html
+
+
+def build_latest_html(items):
+    """Generate latest story-tiles"""
     html = ""
     for i, item in enumerate(items):
-        img_src = images.get(item.get("_key", ""), "")
-        cat = item.get("category", "Premier League")
-        tag = item.get("category_tag", "LIVE")
         headline = format_headline_title(item.get("headline", "Football News").replace("**", ""))
-        post_id = get_post_id(item, i)
-        html += f"""            <a href="posts/{post_id}.html" class="slide">
-                <div class="slide-image">
-                    <img src="{img_src}" alt="{cat}">
-                </div>
-                <div class="slide-content">
-                    <div class="slide-meta"><span style="color:var(--accent)">● {tag}</span> · {cat}</div>
-                    <h3 class="slide-title">{headline}</h3>
-                </div>
-            </a>
+        post_id = item.get("_post_id", get_post_id(item, i + 30))
+        html += f"""                <a href="posts/{post_id}.html" class="story-tile">
+                    <h3 class="story-tile-title">{headline}</h3>
+                </a>
 """
     return html
 
@@ -994,22 +1049,33 @@ async def run():
     all_stories.sort(key=lambda x: x.get("importance", 3), reverse=True)
     
     # Assign to sections based on importance
-    slider_items = all_stories[:4]
-    featured_items = all_stories[4:8]
-    stories_items = all_stories[8:]
+    # Site layout: 5 hero + 3 trending + 4 picks + 13+ latest = 25+ total
+    hero_items = all_stories[:5]
+    trending_items = all_stories[5:8]
+    picks_items = all_stories[8:12]
+    latest_items = all_stories[12:25]
+    
+    # Ensure minimum counts
+    trending_items = trending_items[:3]
+    picks_items = picks_items[:4]
+    latest_items = latest_items[:13]
     
     # Add section-specific tags
-    for item in slider_items:
-        item["category_tag"] = "BREAKING" if item.get("importance", 3) >= 5 else "LIVE"
-    for item in featured_items:
-        item["category_tag"] = "FEATURED"
-    for item in stories_items:
+    for item in hero_items:
+        item["category_tag"] = "Breaking" if item.get("importance", 3) >= 5 else "LIVE"
+        item["excerpt"] = item.get("description", item.get("headline", ""))[:150]
+    for item in trending_items:
+        item["category_tag"] = "TRENDING"
+    for item in picks_items:
+        item["category_tag"] = "PICK"
+    for item in latest_items:
         item["category_tag"] = "NEWS"
     
     print(f"    📊 Priority assignment:")
-    print(f"       🔴 Slider (top 4): {[s.get('importance', 3) for s in slider_items]}")
-    print(f"       🟠 Featured (3): {[s.get('importance', 3) for s in featured_items]}")
-    print(f"       🟢 Stories ({len(stories_items)}): {[s.get('importance', 3) for s in stories_items]}")
+    print(f"       🔴 Hero (5): {[s.get('importance', 3) for s in hero_items]}")
+    print(f"       🟠 Trending (3): {[s.get('importance', 3) for s in trending_items]}")
+    print(f"       🟡 Picks (4): {[s.get('importance', 3) for s in picks_items]}")
+    print(f"       🟢 Latest ({len(latest_items)}): {[s.get('importance', 3) for s in latest_items]}")
     
     # Generate images for each story
     
@@ -1040,50 +1106,62 @@ async def run():
     if api_key:
         print("  → DALL-E available as backup")
     
-    # Add _key to each section for post IDs
-    for i, item in enumerate(slider_items):
-        item["_key"] = f"slider_{i}"
-    for i, item in enumerate(featured_items):
-        item["_key"] = f"featured_{i}"
-    for i, item in enumerate(stories_items):
-        item["_key"] = f"story_{i}"
+    # Add _key and _post_id to each section for post IDs
+    all_items = []
+    for i, item in enumerate(hero_items):
+        item["_key"] = f"hero_{i}"
+        item["_post_id"] = get_post_id(item, i)
+        all_items.append(item)
+    for i, item in enumerate(trending_items):
+        item["_key"] = f"trending_{i}"
+        item["_post_id"] = get_post_id(item, i + 10)
+        all_items.append(item)
+    for i, item in enumerate(picks_items):
+        item["_key"] = f"picks_{i}"
+        item["_post_id"] = get_post_id(item, i + 20)
+        all_items.append(item)
+    for i, item in enumerate(latest_items):
+        item["_key"] = f"latest_{i}"
+        item["_post_id"] = get_post_id(item, i + 30)
+        all_items.append(item)
     
-    all_items = slider_items + featured_items + stories_items
+    all_items = hero_items + trending_items + picks_items + latest_items
 
-    print(f"\n🎨 Generating {len(all_items)} images (all 4:3 ratio)...")
+    print(f"\n🎨 Generating images for hero + picks ({5 + 4} images)...")
     image_map = {}
 
     for i, item in enumerate(all_items):
-        key = item["_key"]
-        size = "1024x768"  # 4:3 aspect ratio
-        filename = f"{key}.png"
-        filepath = IMAGES_DIR / filename
-        rel = await generate_image(api_key, item["image_prompt"], size, filepath, recraft_key, gemini_key)
-        if rel:
-            image_map[key] = rel
-        else:
-            # Try Pexels/Pixabay API as fallback
-            print(f"    🔄 Trying image APIs for {key}...")
-            football_img = await get_football_image()
-            if football_img:
-                image_map[key] = football_img
+        if item["_key"].startswith("hero_") or item["_key"].startswith("picks_"):
+            key = item["_key"]
+            size = "1792x1024" if key.startswith("hero_") else "1024x1024"
+            filename = f"{key}.png"
+            filepath = IMAGES_DIR / filename
+            rel = await generate_image(api_key, item["image_prompt"], size, filepath, recraft_key, gemini_key)
+            if rel:
+                image_map[key] = rel
             else:
-                fallback_img = FALLBACK_IMAGES[i % len(FALLBACK_IMAGES)]
-                image_map[key] = fallback_img
+                football_img = await get_football_image()
+                if football_img:
+                    image_map[key] = football_img
+                else:
+                    image_map[key] = FALLBACK_IMAGES[i % len(FALLBACK_IMAGES)]
 
     # 4. Update HTML
     print("\n🌐 Updating website...")
     with open(HTML_FILE, "r") as f:
         html = f.read()
 
-    slider_html = build_slider_html(slider_items, image_map)
-    html = replace_between(html, SLIDER_MARKERS, slider_html)
-
-    featured_html = build_featured_html(featured_items, image_map)
-    html = replace_between(html, FEATURED_MARKERS, featured_html)
-
-    stories_html = build_stories_html(stories_items, image_map)
-    html = replace_between(html, STORIES_MARKERS, stories_html)
+    hero_js = build_hero_js(hero_items, image_map)
+    html = replace_between(html, HERO_MARKERS, hero_js)
+    
+    trending_html = build_trending_html(trending_items, image_map)
+    html = replace_between(html, FEATURED_MARKERS, trending_html)
+    
+    picks_html = build_picks_html(picks_items, image_map)
+    html = replace_between(html, STORIES_MARKERS, picks_html)
+    
+    latest_html = build_latest_html(latest_items)
+    html = replace_between(html, LATEST_MARKERS, latest_html)
 
     with open(HTML_FILE, "w") as f:
         f.write(html)
@@ -1093,9 +1171,8 @@ async def run():
     # 4b. Generate individual post pages (if enabled)
     if GENERATE_POST_PAGES:
         print("📝 Generating post pages...")
-        all_items = slider_items + featured_items + stories_items
         for i, item in enumerate(all_items):
-            post_id = get_post_id(item, i)
+            post_id = item.get("_post_id", get_post_id(item, i))
             image_key = item.get("_key", "")
             image_url = image_map.get(image_key, FALLBACK_IMAGES[0])
             
@@ -1124,9 +1201,10 @@ async def run():
         "generated_at": datetime.now().isoformat(),
         "rss_headlines_used": len(rss_headlines),
         "sections": {
-            "slider": slider_items,
-            "featured": featured_items,
-            "stories": stories_items,
+            "hero": hero_items,
+            "trending": trending_items,
+            "picks": picks_items,
+            "latest": latest_items,
         },
     }
     with open(PROJECT_DIR / "content_data.json", "w") as f:
