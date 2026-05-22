@@ -1025,13 +1025,11 @@ img {
 .fixtures-track {
     display: flex;
     gap: 12px;
-    width: fit-content;
+    width: max-content;
     animation: fixture-scroll 45s linear infinite;
 }
 
-.fixtures-track:hover {
-    animation-play-state: paused;
-}
+
 
 @keyframes fixture-scroll {
     0% { transform: translateX(0); }
@@ -1132,7 +1130,7 @@ img {
     flex-direction: row;
     align-items: center;
     gap: 16px;
-    padding: 20px 10%;
+    padding: 20px 5%;
     background: linear-gradient(to right, transparent, rgba(0,0,0,0.4) 100%), var(--bg-card);
     border-radius: var(--radius);
     border: 1px solid var(--border);
@@ -1629,7 +1627,7 @@ img {
 
 .league-table-header {
     display: grid;
-    grid-template-columns: 32px 1.8fr repeat(6, 40px) 48px 48px auto;
+    grid-template-columns: 32px 1.8fr repeat(6, 40px) 48px 48px 80px;
     gap: 4px;
     padding: 12px 20px;
     font-size: 0.65rem;
@@ -1650,7 +1648,7 @@ img {
 
 .league-table-row {
     display: grid;
-    grid-template-columns: 32px 1.8fr repeat(6, 40px) 48px 48px auto;
+    grid-template-columns: 32px 1.8fr repeat(6, 40px) 48px 48px 80px;
     gap: 4px;
     padding: 10px 20px;
     align-items: center;
@@ -1854,7 +1852,7 @@ img {
 
     .league-table-header,
     .league-table-row {
-        grid-template-columns: 28px 1.4fr repeat(6, 34px) 40px 40px auto;
+        grid-template-columns: 28px 1.4fr repeat(6, 34px) 40px 40px 68px;
         padding: 10px 14px;
         font-size: 0.72rem;
         gap: 2px;
