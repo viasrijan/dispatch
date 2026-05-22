@@ -557,21 +557,12 @@ async def generate_subnp_image(prompt, size, filepath):
 async def generate_image(api_key, prompt, size, filepath, recraft_key=None, gemini_key=None):
     os.makedirs(IMAGES_DIR, exist_ok=True)
     
-    # Try SubNP first (free, no key needed)
-    print(f"    🎨 Generating image with SubNP...")
-    result = await generate_subnp_image(prompt, size, filepath)
-    if result:
-        return result
-    
-    # Try Gemini (500 free/day)
-    if gemini_key:
-        result = await generate_gemini_image(gemini_key, prompt, size, filepath)
+    # Try DALL-E if available (requires paid OpenAI key)
+    if api_key:
+        print(f"    🎨 Trying DALL-E...")
+        result = await generate_dalle_image(api_key, prompt, size, filepath)
         if result:
             return result
-    
-    # Try DALL-E as fallback
-    if api_key:
-        return await generate_dalle_image(api_key, prompt, size, filepath)
     
     return None
 
@@ -580,17 +571,13 @@ async def generate_image(api_key, prompt, size, filepath, recraft_key=None, gemi
 
 
 async def generate_gemini_image(gemini_key, prompt, size, filepath):
-    """Generate image using Google Gemini API (500 free/day)"""
+    """Generate image using Google Imagen via Gemini API"""
     import base64
     import random
     import ssl
     
-    # Size mapping for Gemini
-    size_map = {
-        "1792x1024": "1792x1024",
-        "1024x1024": "1024x1024",
-    }
-    gemini_size = size_map.get(size, "1024x1024")
+    # Use Imagen 4 (latest image model)
+    model = "imagen-4.0-generate-001"
     
     # Add unique variation to each prompt so images are different
     unique_variations = [
@@ -608,15 +595,18 @@ async def generate_gemini_image(gemini_key, prompt, size, filepath):
     full_prompt = f"{prompt}. Cinematic, photorealistic, {variation}, high contrast, film grain, professional sports photography"
     
     body = {
-        "model": "gemini-2.0-flash-exp-image-generation",
-        "prompt": full_prompt,
-        "output_format": "base64",
+        "instances": [{"prompt": full_prompt}],
+        "parameters": {
+            "sampleCount": 1,
+            "aspectRatio": size.replace("x", "/"),
+        }
     }
     
     try:
         async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(ssl=False)) as session:
             async with session.post(
-                f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp-image-generation:generateContent?key={gemini_key}",
+                f"https://us-central1-aiplatform.googleapis.com/v1/projects/PROJECT_ID/locations/us-central1/publishers/google/models/{model}:predict",
+                headers={"Authorization": f"Bearer {gemini_key}", "Content-Type": "application/json"},
                 json=body,
                 timeout=aiohttp.ClientTimeout(total=120),
             ) as resp:
@@ -625,23 +615,45 @@ async def generate_gemini_image(gemini_key, prompt, size, filepath):
                     print(f"    ⚠ Gemini error {resp.status}: {err[:150]}")
                     return None
                 data = await resp.json()
-                # Extract base64 image
-                if "candidates" in data and len(data["candidates"]) > 0:
-                    content = data["candidates"][0].get("content", {})
-                    parts = content.get("parts", [])
-                    for part in parts:
-                        if "inlineData" in part:
-                            img_data = part["inlineData"]["data"]
-                            img_bytes = base64.b64decode(img_data)
-                            with open(filepath, "wb") as f:
-                                f.write(img_bytes)
-                            rel = os.path.relpath(filepath, PROJECT_DIR)
-                            print(f"    ✅ Saved: {rel}")
-                            return rel
+                if "predictions" in data and len(data["predictions"]) > 0:
+                    img_b64 = data["predictions"][0].get("bytesBase64Encoded", "")
+                    if img_b64:
+                        img_bytes = base64.b64decode(img_b64)
+                        with open(filepath, "wb") as f:
+                            f.write(img_bytes)
+                        rel = os.path.relpath(filepath, PROJECT_DIR)
+                        print(f"    ✅ Saved: {rel}")
+                        return rel
                 print(f"    ⚠ Gemini response missing image")
                 return None
     except Exception as e:
         print(f"    ❌ Gemini error: {e}")
+    # Fallback: try Gemini 2.5 Flash for image output
+    try:
+        body = {
+            "contents": [{"parts": [{"text": f"Generate a photorealistic image: {full_prompt}"}]}],
+            "generationConfig": {"temperature": 1.0, "maxOutputTokens": 8192},
+        }
+        async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(ssl=False)) as session:
+            async with session.post(
+                f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview:generateContent?key={gemini_key}",
+                json=body,
+                timeout=aiohttp.ClientTimeout(total=120),
+            ) as resp:
+                if resp.status == 200:
+                    data = await resp.json()
+                    if "candidates" in data and len(data["candidates"]) > 0:
+                        parts = data["candidates"][0].get("content", {}).get("parts", [])
+                        for part in parts:
+                            if "inlineData" in part:
+                                img_bytes = base64.b64decode(part["inlineData"]["data"])
+                                with open(filepath, "wb") as f:
+                                    f.write(img_bytes)
+                                rel = os.path.relpath(filepath, PROJECT_DIR)
+                                print(f"    ✅ Saved: {rel}")
+                                return rel
+    except Exception as e2:
+        print(f"    ❌ Gemini fallback error: {e2}")
     return None
 
 
