@@ -22,6 +22,7 @@ ssl_context.verify_mode = ssl.CERT_NONE
 
 # Settings
 GENERATE_POST_PAGES = True  # Generate individual post pages
+AUTO_PUSH = False  # Push to GitHub automatically
 
 # Image API Keys
 PEXELS_API_KEY = "uojC04iqYEDXYiuAzMNEOW4KFKzZz514yGjfa6cGPpc98d9jkFfOCrM9"
@@ -856,8 +857,8 @@ def build_hero_js(items, images):
     for i, item in enumerate(items):
         img = images.get(item.get("_key", ""), FALLBACK_IMAGES[i % len(FALLBACK_IMAGES)])
         tag = item.get("category_tag", "Breaking")
-        title = format_headline_title(item.get("headline", "Football News").replace("**", ""))
-        excerpt = item.get("excerpt", title)
+        title = format_headline_title(item.get("headline", "Football News").replace("**", "")).replace('"', '\\"')
+        excerpt = item.get("excerpt", title).replace('"', '\\"')
         post_id = item.get("_post_id", get_post_id(item, i))
         date = datetime.now().strftime("%Y-%m-%d")
         lines.append(f'''            {{ tag: "{tag}", title: "{title}", excerpt: "{excerpt}", image: "{img}", link: "posts/{post_id}.html", date: "{date}" }},''')
@@ -925,42 +926,6 @@ def build_latest_html(items):
         html += f"""                <a href="posts/{post_id}.html" class="story-tile">
                     <h3 class="story-tile-title">{headline}</h3>
                 </a>
-"""
-    return html
-
-
-def build_featured_html(items, images):
-    html = ""
-    for i, item in enumerate(items):
-        img_src = images.get(item.get("_key", ""), "")
-        cat = item.get("category", "Premier League")
-        headline = format_headline_title(item.get("headline", "Football News").replace("**", ""))
-        post_id = get_post_id(item, i + 4)
-        html += f"""            <a href="posts/{post_id}.html" class="featured-card">
-                <div class="featured-image">
-                    <img src="{img_src}" style="width:100%;height:100%;object-fit:cover;">
-                </div>
-                <div class="featured-meta" data-cat="{cat}">{cat} · LIVE</div>
-                <h3 class="featured-title">{headline}</h3>
-            </a>
-"""
-    return html
-
-
-def build_stories_html(items, images):
-    times = format_times_ago(len(items))
-    html = ""
-    for i, item in enumerate(items):
-        img_src = images.get(item.get("_key", ""), "")
-        cat = item.get("category", "Premier League")
-        headline = format_headline_title(item.get("headline", "Football News").replace("**", ""))
-        time_str = times[i] if i < len(times) else f"{i+1} hour ago"
-        post_id = get_post_id(item, i + 7)
-        html += f"""            <a href="posts/{post_id}.html" class="pub-card">
-                <div class="pub-image"><img src="{img_src}" style="width:100%;height:100%;object-fit:cover;"></div>
-                <div class="pub-meta" data-cat="{cat}">{cat} · {time_str}</div>
-                <h3 class="pub-title">{headline}</h3>
-            </a>
 """
     return html
 
@@ -1124,8 +1089,6 @@ async def run():
         item["_key"] = f"latest_{i}"
         item["_post_id"] = get_post_id(item, i + 30)
         all_items.append(item)
-    
-    all_items = hero_items + trending_items + picks_items + latest_items
 
     print(f"\n🎨 Generating images for hero + picks ({5 + 4} images)...")
     image_map = {}
@@ -1176,10 +1139,29 @@ async def run():
             image_key = item.get("_key", "")
             image_url = image_map.get(image_key, FALLBACK_IMAGES[0])
             
-            # Generate simple content for the post
+            # Generate article content via Ollama
             headline = format_headline_title(item.get("headline", "Football News").replace("**", ""))
             category = item.get("category", "Premier League")
-            content = f"""
+            
+            try:
+                content_prompt = f"""Write a 3-paragraph football news article about: {headline}
+Category: {category}
+Style: Dramatic, urgent, like breaking sports news. Each paragraph should be wrapped in <p> tags.
+Keep it concise - 3 short paragraphs maximum.
+Return ONLY the HTML paragraphs, no other text."""
+                content = await call_ollama([{"role": "user", "content": content_prompt}], max_tokens=500)
+                # Extract just the paragraphs if Ollama returns extra text
+                import re
+                p_tags = re.findall(r'<p>.*?</p>', content, re.DOTALL)
+                if p_tags:
+                    content = "\n            ".join(p_tags)
+                else:
+                    # Try to extract any text content
+                    lines = [l.strip() for l in content.split('\n') if l.strip() and not l.strip().startswith('"')]
+                    content = "\n".join(f"            <p>{l}</p>" for l in lines[:3])
+            except Exception as e:
+                print(f"    ⚠ Content gen failed for {headline[:30]}: {e}")
+                content = f"""
             <p>{headline}</p>
             <p>This is a developing story. {category} continues to make headlines as the season progresses.</p>
             <p>Stay tuned to KICKOFF for the latest updates on this story and more football news.</p>
@@ -1215,10 +1197,16 @@ async def run():
     try:
         subprocess.run(["git", "add", "-A"], cwd=PROJECT_DIR, check=True)
         subprocess.run(["git", "commit", "-m", f"Auto-update: {datetime.now().strftime('%Y-%m-%d %H:%M')}"], cwd=PROJECT_DIR, check=True)
-        subprocess.run(["git", "push"], cwd=PROJECT_DIR, check=True)
-        print("   ✅ Pushed to GitHub")
+        if AUTO_PUSH:
+            subprocess.run(["git", "push"], cwd=PROJECT_DIR, check=True)
+            print("   ✅ Pushed to GitHub")
+        else:
+            print("   ⏭️ Skipping push (AUTO_PUSH=False)")
     except Exception as e:
-        print(f"   ⚠ Git push failed: {e}")
+        if "nothing to commit" in str(e):
+            print("   ℹ️ No changes to commit")
+        else:
+            print(f"   ⚠ Git push failed: {e}")
 
     print("\n" + "=" * 60)
     print("✅ Automation complete!")
