@@ -1094,7 +1094,7 @@ img {
     font-size: 4.5rem;
     font-weight: 800;
     line-height: 1;
-    padding: 0 15%;
+    padding: 0 10%;
     transition: color var(--transition-snappy);
 }
 
@@ -1113,7 +1113,7 @@ img {
 .mini-card .mini-body {
     flex: 0 0 80%;
     min-width: 0;
-    padding: 0 15%;
+    padding: 0 10%;
 }
 
 .mini-card .mini-tag {
