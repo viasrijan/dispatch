@@ -557,12 +557,97 @@ async def generate_subnp_image(prompt, size, filepath):
 async def generate_image(api_key, prompt, size, filepath, recraft_key=None, gemini_key=None):
     os.makedirs(IMAGES_DIR, exist_ok=True)
     
-    # Try DALL-E if available (requires paid OpenAI key)
+    # Try ImageRouter (has free models)
+    print(f"    🎨 Trying ImageRouter...")
+    result = await generate_imagerouter_image(prompt, size, filepath)
+    if result:
+        return result
+    
+    # Try DALL-E as fallback
     if api_key:
         print(f"    🎨 Trying DALL-E...")
         result = await generate_dalle_image(api_key, prompt, size, filepath)
         if result:
             return result
+    
+    return None
+
+
+# ImageRouter API key (loaded from env or config.json)
+IMAGEROUTER_API_KEY = os.environ.get("IMAGEROUTER_API_KEY", "")
+
+
+async def generate_imagerouter_image(prompt, size, filepath):
+    """Generate image using ImageRouter API (OpenAI-compatible)"""
+    import aiohttp
+    import json
+    
+    if not IMAGEROUTER_API_KEY:
+        return None
+    
+    size_map = {
+        "1792x1024": "1792x1024",
+        "1024x1024": "1024x1024",
+        "1024x768": "1024x768",
+    }
+    img_size = size_map.get(size, "1024x1024")
+    
+    full_prompt = f"{prompt}. Cinematic, photorealistic, professional sports photography, dramatic stadium lighting"
+    
+    headers = {
+        "Authorization": f"Bearer {IMAGEROUTER_API_KEY}",
+        "Content-Type": "application/json",
+    }
+    
+    # Try free models in order of quality
+    models = ["test/test", "flux/flux-schnell", "black-forest-labs/flux-schnell"]
+    
+    for model in models:
+        body = {
+            "prompt": full_prompt,
+            "model": model,
+            "size": img_size,
+            "n": 1,
+            "response_format": "b64_json",
+        }
+        
+        try:
+            connector = aiohttp.TCPConnector(ssl=False)
+            async with aiohttp.ClientSession(connector=connector) as session:
+                async with session.post(
+                    "https://api.imagerouter.io/v1/openai/images/generations",
+                    headers=headers, json=body,
+                    timeout=aiohttp.ClientTimeout(total=60),
+                ) as resp:
+                    if resp.status != 200:
+                        err = (await resp.text())[:100]
+                        print(f"    ⚠ ImageRouter ({model}): {resp.status} {err}")
+                        continue
+                    data = await resp.json()
+                    # OpenAI-compatible response format
+                    if "data" in data and len(data["data"]) > 0:
+                        img_data = data["data"][0]
+                        b64 = img_data.get("b64_json", "")
+                        if b64:
+                            import base64
+                            img_bytes = base64.b64decode(b64)
+                            with open(filepath, "wb") as f:
+                                f.write(img_bytes)
+                            rel = os.path.relpath(filepath, PROJECT_DIR)
+                            print(f"    ✅ Saved: {rel}")
+                            return rel
+                        url = img_data.get("url", "")
+                        if url:
+                            async with session.get(url, timeout=aiohttp.ClientTimeout(total=30)) as img_resp:
+                                if img_resp.status == 200:
+                                    with open(filepath, "wb") as f:
+                                        f.write(await img_resp.read())
+                                    rel = os.path.relpath(filepath, PROJECT_DIR)
+                                    print(f"    ✅ Saved: {rel}")
+                                    return rel
+        except Exception as e:
+            print(f"    ⚠ ImageRouter ({model}): {e}")
+            continue
     
     return None
 
@@ -1056,9 +1141,10 @@ async def run():
     
     # Generate images for each story
     
-    # Check for Recraft or Gemini API keys first
+    # Check for API keys
     recraft_key = os.environ.get("RECRAFT_API_KEY", "")
     gemini_key = os.environ.get("GEMINI_API_KEY", "")
+    global IMAGEROUTER_API_KEY
     
     if not recraft_key:
         config_file = PROJECT_DIR / "config.json"
@@ -1068,11 +1154,13 @@ async def run():
                 recraft_key = cfg.get("api_keys", {}).get("recraft", "")
                 if not gemini_key:
                     gemini_key = cfg.get("api_keys", {}).get("gemini", "")
+                if not IMAGEROUTER_API_KEY:
+                    IMAGEROUTER_API_KEY = cfg.get("api_keys", {}).get("imagerouter", "")
     
-    # Debug: show what's available
+    # Show key status
     print(f"\n🔑 API Keys status:")
     print(f"   OpenAI (DALL-E): {'✓' if api_key and api_key != 'your-openai-api-key-here' else '✗'}")
-    print(f"   Recraft: {'✓' if recraft_key else '✗'}")
+    print(f"   ImageRouter: {'✓' if IMAGEROUTER_API_KEY else '✗'}")
     print(f"   Gemini: {'✓' if gemini_key else '✗'}")
     
     # Note: Puter is tried first (free), then Gemini, then DALL-E
