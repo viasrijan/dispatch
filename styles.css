@@ -1015,6 +1015,102 @@ img {
     width: 100%;
 }
 
+/* === FIXTURES SCROLL BAR === */
+.fixtures-scroll {
+    overflow: hidden;
+    padding: 24px 0;
+    position: relative;
+}
+
+.fixtures-track {
+    display: flex;
+    gap: 16px;
+    width: fit-content;
+    animation: fixture-scroll 45s linear infinite;
+}
+
+.fixtures-track:hover {
+    animation-play-state: paused;
+}
+
+@keyframes fixture-scroll {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-50%); }
+}
+
+.fixture-box {
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 12px 20px;
+    min-width: 260px;
+    transition: border-color var(--transition-snappy);
+}
+
+.fixture-box:hover {
+    border-color: var(--accent);
+}
+
+.fixture-team {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 6px;
+    font-size: 0.65rem;
+    font-weight: 600;
+    color: var(--text);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.fixture-logo {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.6rem;
+    font-weight: 800;
+    color: #fff;
+    letter-spacing: 0;
+}
+
+.fixture-score {
+    font-size: 1.15rem;
+    font-weight: 800;
+    color: var(--text);
+    min-width: 44px;
+    text-align: center;
+    letter-spacing: 0.5px;
+}
+
+.fixture-vs {
+    font-size: 0.7rem;
+    font-weight: 700;
+    color: var(--text-muted);
+    min-width: 44px;
+    text-align: center;
+}
+
+.fixture-league {
+    font-size: 0.6rem;
+    font-weight: 600;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    text-align: center;
+    margin-top: 2px;
+}
+
+[data-theme="light"] .fixture-box {
+    background: var(--bg-card);
+}
+
 /* === 4-COL GRID FOR TRENDING === */
 .grid-3 {
     display: grid;
