@@ -290,7 +290,9 @@ async def call_ollama(messages, model="llama3.2", max_tokens=2000):
                 print(f"    ✅ Ollama response: {response[:100]}...")
                 return response
     except Exception as e:
-        print(f"  ⚠ Ollama error: {e}")
+        print(f"  ⚠ Ollama error type={type(e).__name__}: {e}")
+        import traceback
+        traceback.print_exc()
         return "[]"
 
 
