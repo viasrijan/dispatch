@@ -22,7 +22,7 @@ ssl_context.verify_mode = ssl.CERT_NONE
 
 # Settings
 GENERATE_POST_PAGES = True  # Generate individual post pages
-AUTO_PUSH = False  # Push to GitHub automatically
+AUTO_PUSH = True  # Push to GitHub automatically
 
 # Image API Keys
 PEXELS_API_KEY = "uojC04iqYEDXYiuAzMNEOW4KFKzZz514yGjfa6cGPpc98d9jkFfOCrM9"
@@ -183,9 +183,9 @@ RSS_FEEDS = [
     "https://www.footballinsider247.com/feed",
 ]
 
-SLIDER_MARKERS = ("<!--KICKOFF_HERO_START-->", "<!--KICKOFF_HERO_END-->")
-FEATURED_MARKERS = ("<!--KICKOFF_TRENDING_START-->", "<!--KICKOFF_TRENDING_END-->")
-STORIES_MARKERS = ("<!--KICKOFF_PICKS_START-->", "<!--KICKOFF_PICKS_END-->")
+HERO_MARKERS = ("<!--KICKOFF_HERO_START-->", "<!--KICKOFF_HERO_END-->")
+TRENDING_MARKERS = ("<!--KICKOFF_TRENDING_START-->", "<!--KICKOFF_TRENDING_END-->")
+PICKS_MARKERS = ("<!--KICKOFF_PICKS_START-->", "<!--KICKOFF_PICKS_END-->")
 LATEST_MARKERS = ("<!--KICKOFF_LATEST_START-->", "<!--KICKOFF_LATEST_END-->")
 
 
@@ -1199,6 +1199,13 @@ async def run():
             size = "1792x1024" if key.startswith("hero_") else "1024x1024"
             filename = f"{key}.png"
             filepath = IMAGES_DIR / filename
+            
+            # Skip if image already exists
+            if filepath.exists():
+                print(f"    ⏭️ Skipping {key} (already exists)")
+                image_map[key] = f"images/{filename}"
+                continue
+            
             rel = await generate_image(api_key, item["image_prompt"], size, filepath, recraft_key, gemini_key)
             if rel:
                 image_map[key] = rel
@@ -1218,10 +1225,10 @@ async def run():
     html = replace_between(html, HERO_MARKERS, hero_js)
     
     trending_html = build_trending_html(trending_items, image_map)
-    html = replace_between(html, FEATURED_MARKERS, trending_html)
+    html = replace_between(html, TRENDING_MARKERS, trending_html)
     
     picks_html = build_picks_html(picks_items, image_map)
-    html = replace_between(html, STORIES_MARKERS, picks_html)
+    html = replace_between(html, PICKS_MARKERS, picks_html)
     
     latest_html = build_latest_html(latest_items)
     html = replace_between(html, LATEST_MARKERS, latest_html)
@@ -1239,29 +1246,10 @@ async def run():
             image_key = item.get("_key", "")
             image_url = image_map.get(image_key, FALLBACK_IMAGES[0])
             
-            # Generate article content via Ollama
+            # Generate article content
             headline = format_headline_title(item.get("headline", "Football News").replace("**", ""))
             category = item.get("category", "Premier League")
-            
-            try:
-                content_prompt = f"""Write a 3-paragraph football news article about: {headline}
-Category: {category}
-Style: Dramatic, urgent, like breaking sports news. Each paragraph should be wrapped in <p> tags.
-Keep it concise - 3 short paragraphs maximum.
-Return ONLY the HTML paragraphs, no other text."""
-                content = await call_ollama([{"role": "user", "content": content_prompt}], max_tokens=500)
-                # Extract just the paragraphs if Ollama returns extra text
-                import re
-                p_tags = re.findall(r'<p>.*?</p>', content, re.DOTALL)
-                if p_tags:
-                    content = "\n            ".join(p_tags)
-                else:
-                    # Try to extract any text content
-                    lines = [l.strip() for l in content.split('\n') if l.strip() and not l.strip().startswith('"')]
-                    content = "\n".join(f"            <p>{l}</p>" for l in lines[:3])
-            except Exception as e:
-                print(f"    ⚠ Content gen failed for {headline[:30]}: {e}")
-                content = f"""
+            content = f"""
             <p>{headline}</p>
             <p>This is a developing story. {category} continues to make headlines as the season progresses.</p>
             <p>Stay tuned to KICKOFF for the latest updates on this story and more football news.</p>

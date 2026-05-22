@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leipzig Challenge Bayern For Bundesliga Title | KICKOFF</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+    <header class="header">
+        <div class="header-inner">
+            <div class="header-left">
+                <a href="../index.html" class="logo">KICK<span>OFF</span></a>
+                <nav>
+                    <ul class="nav">
+                        <li><a href="../matches.html">Matches</a></li>
+                        <li><a href="../transfers.html">Transfers</a></li>
+                        <li><a href="../leagues.html">Leagues</a></li>
+                        <li><a href="../rumors.html">Rumors</a></li>
+                        <li><a href="../contact.html">Contact</a></li>
+                        <li><a href="../play.html" class="play-nav">Play</a></li>
+                        
+                    </ul>
+                </nav>
+            </div>
+            <div class="header-right">
+                <div class="header-social">
+                    <a href="#"><i class="fab fa-instagram"></i></a>
+                    <a href="#"><i class="fab fa-youtube"></i></a>
+                    <a href="#"><i class="fab fa-x-twitter"></i></a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <article class="post-wrapper">
+        <div class="post-layout">
+            <div class="post-image-wrap">
+                <img src="https://images.unsplash.com/photo-1511882150382-421056c89033?w=1024&h=768&fit=crop" alt="Bundesliga">
+            </div>
+            <div class="post-content">
+                
+                <div>
+                    <span class="post-tag" data-league="breaking">NEWS</span>
+                    <span class="post-category">Bundesliga</span>
+                </div>
+                <h1 class="post-title">Leipzig Challenge Bayern For Bundesliga Title</h1>
+                <div class="post-time">Just now</div>
+                <div class="post-divider"></div>
+                <div class="post-body">
+                    
+            <p>Leipzig Challenge Bayern For Bundesliga Title</p>
+            <p>This is a developing story. Bundesliga continues to make headlines as the season progresses.</p>
+            <p>Stay tuned to KICKOFF for the latest updates on this story and more football news.</p>
+            
+                </div>
+            </div>
+        </div>
+    </article>
+
+    <footer class="footer">
+        <div class="footer-grid">
+            <div class="footer-brand">
+                <a href="../index.html" class="logo">KICK<span>OFF</span></a>
+                <p>Your daily dose of football news, transfers, and match updates. Covering every league, every story, every moment.</p>
+            </div>
+            <div class="footer-col">
+                <h4>Company</h4>
+                <ul>
+                    <li><a href="#">About</a></li>
+                    <li><a href="../contact.html">Contact</a></li>
+                                    </ul>
+            </div>
+            <div class="footer-col">
+                <h4>Legal</h4>
+                <ul>
+                    <li><a href="#">Privacy</a></li>
+                    <li><a href="#">Terms</a></li>
+                                    </ul>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2026 KICKOFF Football News. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <button class="theme-toggle-fab" id="themeToggle" aria-label="Toggle theme"><i class="fa-solid fa-lightbulb"></i></button>
+
+<script>
+        document.querySelectorAll('.nav a').forEach(a => {
+            const page = a.getAttribute('href');
+            if (location.pathname.endsWith(page)) {
+                a.classList.add('active');
+            }
+        });
+        const html = document.documentElement;
+        const toggle = document.getElementById('themeToggle');
+        const savedTheme = localStorage.getItem('theme') || 'dark';
+        html.setAttribute('data-theme', savedTheme);
+        toggle.addEventListener('click', () => {
+            const current = html.getAttribute('data-theme');
+            const next = current === 'dark' ? 'light' : 'dark';
+            html.setAttribute('data-theme', next);
+            localStorage.setItem('theme', next);
+        });
+    </script>
+
+    
+
+</body>
+</html>

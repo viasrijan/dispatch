@@ -1,239 +1,268 @@
 {
-  "generated_at": "2026-05-14T09:13:54.609611",
+  "generated_at": "2026-05-23T03:26:07.971189",
   "rss_headlines_used": 15,
   "sections": {
-    "slider": [
+    "hero": [
       {
-        "original_headline": "Hearts' McInnes rages at 'disgusting' Celtic penalty as title race goes to final day",
-        "headline": "**Celtic's Title Win in Chaos! McInnes Rages Over Disgusting Penalty**",
+        "headline": "Premier League title race reaches thrilling climax with 3 teams in contention",
         "category": "Premier League",
         "content_type": "Match Reports",
-        "category_tag": "BREAKING",
         "importance": 5,
-        "image_prompt": "A photo of Hearts coach Derek McInnes, with a red face and clenched fists, in the midst of chaos.",
-        "source": "bbci.co.uk",
-        "tags": [
-          "Match Reports",
-          "Europe",
-          "Premier League"
-        ],
-        "_key": "slider_0"
+        "image_prompt": "Premier League trophy at stadium",
+        "category_tag": "Breaking",
+        "excerpt": "Premier League title race reaches thrilling climax with 3 teams in contention",
+        "_key": "hero_0",
+        "_post_id": "230526-0000"
       },
       {
-        "original_headline": "Controversial 99th-minute penalty keeps Scottish title race alive",
-        "headline": "**Disgusting Penalty Decision! Celtic's Title Hopes Live On**",
-        "category": "Scottish Premiership",
+        "headline": "Real Madrid complete \u20ac120M signing of generational talent",
+        "category": "Transfers",
+        "content_type": "Transfers",
+        "importance": 5,
+        "image_prompt": "Player signing contract at Bernabeu",
+        "category_tag": "Breaking",
+        "excerpt": "Real Madrid complete \u20ac120M signing of generational talent",
+        "_key": "hero_1",
+        "_post_id": "230526-0001"
+      },
+      {
+        "headline": "Champions League final: Tactical preview and key battles to watch",
+        "category": "Champions League",
         "content_type": "Match Reports",
-        "category_tag": "BREAKING",
         "importance": 5,
-        "image_prompt": "A photo of a Celtic player celebrating, with a red card in the foreground.",
-        "source": "bbci.co.uk",
-        "tags": [
-          "Match Reports"
-        ],
-        "_key": "slider_1"
+        "image_prompt": "Champions League trophy in stadium",
+        "category_tag": "Breaking",
+        "excerpt": "Champions League final: Tactical preview and key battles to watch",
+        "_key": "hero_2",
+        "_post_id": "230526-0002"
       },
       {
-        "original_headline": "Celtic score controversial late penalty to set up epic final day",
-        "headline": "**Disgusting Penalty Decision! Celtic Win Title Race**",
-        "category": "Scottish Premiership",
-        "content_type": "Match Reports",
-        "category_tag": "BREAKING",
-        "importance": 5,
-        "image_prompt": "A photo of a Celtic player celebrating, with a red card in the foreground.",
-        "source": "bbci.co.uk",
-        "tags": [
-          "Match Reports"
-        ],
-        "_key": "slider_2"
-      },
-      {
-        "original_headline": "Assist of the season? Mesmerising Foden keeps title hopes alive",
-        "headline": "**Foden's Magic Saves City! Manchester City's Title Hopes Live On**",
+        "headline": "Liverpool confirm new manager after Jurgen Klopp departure",
         "category": "Premier League",
-        "content_type": "Match Reports",
-        "category_tag": "LIVE",
+        "content_type": "Transfers",
+        "importance": 5,
+        "image_prompt": "Anfield stadium at night",
+        "category_tag": "Breaking",
+        "excerpt": "Liverpool confirm new manager after Jurgen Klopp departure",
+        "_key": "hero_3",
+        "_post_id": "230526-0003"
+      },
+      {
+        "headline": "Barcelona's youth academy produces next generational superstar",
+        "category": "La Liga",
+        "content_type": "Interviews",
         "importance": 4,
-        "image_prompt": "A photo of Phil Foden, Manchester City midfielder, with a ball at his feet.",
-        "source": "bbci.co.uk",
-        "tags": [
-          "Match Reports",
-          "Europe",
-          "Premier League"
-        ],
-        "_key": "slider_3"
+        "image_prompt": "Young player training at La Masia",
+        "category_tag": "LIVE",
+        "excerpt": "Barcelona's youth academy produces next generational superstar",
+        "_key": "hero_4",
+        "_post_id": "230526-0004"
       }
     ],
-    "featured": [
+    "trending": [
       {
-        "original_headline": "An iron fist joining a broken team: Inside Mourinho's Real return",
-        "headline": "**Mourinho Returns to Real Madrid! The Iron Fist Takes the Reins**",
+        "headline": "Bayern Munich secure domestic double with dominant display",
+        "category": "Bundesliga",
+        "content_type": "Match Reports",
+        "importance": 4,
+        "image_prompt": "Bayern Munich celebration",
+        "category_tag": "TRENDING",
+        "_key": "trending_0",
+        "_post_id": "230526-0010"
+      },
+      {
+        "headline": "PSG announce major squad overhaul for next season",
+        "category": "Ligue 1",
+        "content_type": "Transfers",
+        "importance": 4,
+        "image_prompt": "PSG stadium packed with fans",
+        "category_tag": "TRENDING",
+        "_key": "trending_1",
+        "_post_id": "230526-0011"
+      },
+      {
+        "headline": "Inter Milan announce ambitious expansion plans for stadium",
+        "category": "Serie A",
+        "content_type": "Analysis",
+        "importance": 4,
+        "image_prompt": "San Siro stadium",
+        "category_tag": "TRENDING",
+        "_key": "trending_2",
+        "_post_id": "230526-0012"
+      }
+    ],
+    "picks": [
+      {
+        "headline": "Rising star reveals childhood dream of playing for hometown club",
+        "category": "Premier League",
+        "content_type": "Interviews",
+        "importance": 3,
+        "image_prompt": "Player interview",
+        "category_tag": "PICK",
+        "_key": "picks_0",
+        "_post_id": "230526-0020"
+      },
+      {
+        "headline": "VAR controversy sparks debate among managers and fans",
+        "category": "Premier League",
+        "content_type": "Analysis",
+        "importance": 3,
+        "image_prompt": "VAR monitor",
+        "category_tag": "PICK",
+        "_key": "picks_1",
+        "_post_id": "230526-0021"
+      },
+      {
+        "headline": "Football legends gather for annual charity match event",
+        "category": "Champions League",
+        "content_type": "Opinion",
+        "importance": 3,
+        "image_prompt": "Charity football match",
+        "category_tag": "PICK",
+        "_key": "picks_2",
+        "_post_id": "230526-0022"
+      },
+      {
+        "headline": "Arsenal prepare for crucial north London derby",
+        "category": "Premier League",
+        "content_type": "Match Reports",
+        "importance": 3,
+        "image_prompt": "Arsenal stadium",
+        "category_tag": "PICK",
+        "_key": "picks_3",
+        "_post_id": "230526-0023"
+      }
+    ],
+    "latest": [
+      {
+        "headline": "Chelsea youngster earns first senior international call-up",
+        "category": "Premier League",
+        "content_type": "News",
+        "importance": 3,
+        "image_prompt": "Chelsea celebration",
+        "category_tag": "NEWS",
+        "_key": "latest_0",
+        "_post_id": "230526-0030"
+      },
+      {
+        "headline": "Manchester United confident of landing top transfer target",
+        "category": "Transfers",
+        "content_type": "Transfers",
+        "importance": 3,
+        "image_prompt": "Old Trafford",
+        "category_tag": "NEWS",
+        "_key": "latest_1",
+        "_post_id": "230526-0031"
+      },
+      {
+        "headline": "Real Madrid and Barcelona set for El Clasico showdown",
+        "category": "La Liga",
+        "content_type": "Match Reports",
+        "importance": 3,
+        "image_prompt": "Camp Nou packed",
+        "category_tag": "NEWS",
+        "_key": "latest_2",
+        "_post_id": "230526-0032"
+      },
+      {
+        "headline": "Juventus announce new signing from Serie A rivals",
         "category": "Serie A",
         "content_type": "Transfers",
-        "category_tag": "FEATURED",
-        "importance": 4,
-        "image_prompt": "A photo of Jose Mourinho, with a serious expression.",
-        "source": "bbci.co.uk",
-        "tags": [
-          "Serie A",
-          "Transfers",
-          "Europe"
-        ],
-        "_key": "featured_0"
+        "importance": 3,
+        "image_prompt": "Juventus stadium",
+        "category_tag": "NEWS",
+        "_key": "latest_3",
+        "_post_id": "230526-0033"
       },
       {
-        "original_headline": "Man Utd chiefs to recommend Carrick for permanent job",
-        "headline": "**Carrick for United! Man Utd Chiefs Back Michael Carrick as Permanent Boss**",
-        "category": "Premier League",
-        "content_type": "Transfers",
-        "category_tag": "FEATURED",
-        "importance": 4,
-        "image_prompt": "A photo of Michael Carrick, with a determined expression.",
-        "source": "bbci.co.uk",
-        "tags": [
-          "Transfers",
-          "Europe",
-          "Premier League"
-        ],
-        "_key": "featured_1"
+        "headline": "AC Milan target Champions League qualification",
+        "category": "Serie A",
+        "content_type": "Match Reports",
+        "importance": 3,
+        "image_prompt": "San Siro at night",
+        "category_tag": "NEWS",
+        "_key": "latest_4",
+        "_post_id": "230526-0034"
       },
       {
-        "original_headline": "Man City pile pressure on Arsenal with Palace win",
-        "headline": "**City Pile Pressure on Arsenal! Manchester City Close Gap to Leaders**",
+        "headline": "Leipzig challenge Bayern for Bundesliga title",
+        "category": "Bundesliga",
+        "content_type": "Match Reports",
+        "importance": 3,
+        "image_prompt": "Red Bull Arena",
+        "category_tag": "NEWS",
+        "_key": "latest_5",
+        "_post_id": "230526-0035"
+      },
+      {
+        "headline": "Dortmund youth prospect set for breakthrough season",
+        "category": "Bundesliga",
+        "content_type": "Interviews",
+        "importance": 3,
+        "image_prompt": "BVB fans",
+        "category_tag": "NEWS",
+        "_key": "latest_6",
+        "_post_id": "230526-0036"
+      },
+      {
+        "headline": "Monaco youngster attracts Premier League attention",
+        "category": "Ligue 1",
+        "content_type": "Rumors",
+        "importance": 3,
+        "image_prompt": "Monaco match",
+        "category_tag": "NEWS",
+        "_key": "latest_7",
+        "_post_id": "230526-0037"
+      },
+      {
+        "headline": "Lyon announce major investment in women's team",
+        "category": "Ligue 1",
+        "content_type": "News",
+        "importance": 3,
+        "image_prompt": "Lyon stadium",
+        "category_tag": "NEWS",
+        "_key": "latest_8",
+        "_post_id": "230526-0038"
+      },
+      {
+        "headline": "South American stars set for Copa America battle",
+        "category": "Copa America",
+        "content_type": "Match Reports",
+        "importance": 3,
+        "image_prompt": "Maracan\u00e3 stadium",
+        "category_tag": "NEWS",
+        "_key": "latest_9",
+        "_post_id": "230526-0039"
+      },
+      {
+        "headline": "Asian Champions League reaches knockout stages",
+        "category": "Asia",
+        "content_type": "Match Reports",
+        "importance": 3,
+        "image_prompt": "Asian football stadium",
+        "category_tag": "NEWS",
+        "_key": "latest_10",
+        "_post_id": "230526-0040"
+      },
+      {
+        "headline": "MLS expansion team announces stadium plans",
+        "category": "North America",
+        "content_type": "News",
+        "importance": 3,
+        "image_prompt": "MLS stadium",
+        "category_tag": "NEWS",
+        "_key": "latest_11",
+        "_post_id": "230526-0041"
+      },
+      {
+        "headline": "Tottenham Hotspur face crucial run of fixtures",
         "category": "Premier League",
         "content_type": "Match Reports",
-        "category_tag": "FEATURED",
-        "importance": 4,
-        "image_prompt": "A photo of a Manchester City player celebrating, with an Arsenal player in the background.",
-        "source": "bbci.co.uk",
-        "tags": [
-          "Match Reports",
-          "Europe",
-          "Premier League"
-        ],
-        "_key": "featured_2"
-      },
-      {
-        "original_headline": "Hearts put three past Falkirk to move within point of title",
-        "headline": "**Hearts Move Within Point of Title! Hearts Beat Falkirk 3-0**",
-        "category": "Scottish Premiership",
-        "content_type": "Match Reports",
-        "category_tag": "FEATURED",
-        "importance": 4,
-        "image_prompt": "A photo of a Hearts player celebrating, with a Falkirk player in the background.",
-        "source": "bbci.co.uk",
-        "tags": [
-          "Match Reports"
-        ],
-        "_key": "featured_3"
-      }
-    ],
-    "stories": [
-      {
-        "original_headline": "Why Arsenal have fallen short in WSL and Champions League this season",
-        "headline": "**Arsenal's WSL and Champions League Struggles: What Went Wrong?**",
-        "category": "Champions League",
-        "content_type": "Analysis",
+        "importance": 2,
+        "image_prompt": "Tottenham stadium",
         "category_tag": "NEWS",
-        "importance": 3,
-        "image_prompt": "A photo of an Arsenal player in action, with a disappointed expression.",
-        "source": "bbci.co.uk",
-        "tags": [
-          "Europe",
-          "Analysis",
-          "Champions League"
-        ],
-        "_key": "story_0"
-      },
-      {
-        "original_headline": "Could Southampton be kicked out of play-offs over Spygate?",
-        "headline": "**Spygate Scandal: Could Southampton Be Kicked Out of Play-Offs?**",
-        "category": "Championship",
-        "content_type": "Rumors",
-        "category_tag": "NEWS",
-        "importance": 3,
-        "image_prompt": "A photo of a football stadium, with a red flag in the foreground.",
-        "source": "bbci.co.uk",
-        "tags": [
-          "Rumors"
-        ],
-        "_key": "story_1"
-      },
-      {
-        "original_headline": "Ex-Spurs chief Levy never imagined relegation fight",
-        "headline": "**Levy's Shock Relegation Warning! Spurs Chief Daniel Levy Admits He Didn't See It Coming**",
-        "category": "Premier League",
-        "content_type": "Interviews",
-        "category_tag": "NEWS",
-        "importance": 3,
-        "image_prompt": "A photo of Daniel Levy, with a surprised expression.",
-        "source": "bbci.co.uk",
-        "tags": [
-          "Premier League",
-          "Europe",
-          "Interviews"
-        ],
-        "_key": "story_2"
-      },
-      {
-        "original_headline": "'Beyond happy' - Guardiola praises Foden performance",
-        "headline": "**Foden's Masterclass! Guardiola Praises Manchester City Midfielder**",
-        "category": "Premier League",
-        "content_type": "Interviews",
-        "category_tag": "NEWS",
-        "importance": 3,
-        "image_prompt": "A photo of Pep Guardiola, with a smile on his face.",
-        "source": "bbci.co.uk",
-        "tags": [
-          "Premier League",
-          "Europe",
-          "Interviews"
-        ],
-        "_key": "story_3"
-      },
-      {
-        "original_headline": "Gordon agrees to Bayern move - Thursday's gossip",
-        "headline": "**Gordon to Bayern! Anthony Gordon Agrees to German Move**",
-        "category": "Transfers",
-        "content_type": "Rumors",
-        "category_tag": "NEWS",
-        "importance": 3,
-        "image_prompt": "A photo of Anthony Gordon, with a suitcase in the background.",
-        "source": "bbci.co.uk",
-        "tags": [
-          "Rumors"
-        ],
-        "_key": "story_4"
-      },
-      {
-        "original_headline": "BBC to stream FA Youth Cup final between Man City & Man Utd",
-        "headline": "**Youth Cup Showdown! BBC to Stream Manchester City vs Manchester United**",
-        "category": "Transfers",
-        "content_type": "Transfers",
-        "category_tag": "NEWS",
-        "importance": 3,
-        "image_prompt": "A photo of a football stadium, with two teams facing off.",
-        "source": "bbci.co.uk",
-        "tags": [
-          "Transfers"
-        ],
-        "_key": "story_5"
-      },
-      {
-        "original_headline": "Liverpool owners face dilemma - stick or twist with Slot?",
-        "headline": "**Slot's Future in Jeopardy! Liverpool Owners Face Dilemma**",
-        "category": "Champions League",
-        "content_type": "Analysis",
-        "category_tag": "NEWS",
-        "importance": 3,
-        "image_prompt": "A photo of Arne Slot, with a worried expression.",
-        "source": "bbci.co.uk",
-        "tags": [
-          "Europe",
-          "Analysis",
-          "Champions League"
-        ],
-        "_key": "story_6"
+        "_key": "latest_12",
+        "_post_id": "230526-0042"
       }
     ]
   }
