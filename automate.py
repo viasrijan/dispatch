@@ -1286,7 +1286,7 @@ async def run():
         subprocess.run(["git", "add", "-A"], cwd=PROJECT_DIR, check=True)
         subprocess.run(["git", "commit", "-m", f"Auto-update: {datetime.now().strftime('%Y-%m-%d %H:%M')}"], cwd=PROJECT_DIR, check=True)
         if AUTO_PUSH:
-            subprocess.run(["git", "push"], cwd=PROJECT_DIR, check=True)
+            subprocess.run(["git", "push", "origin", "main:gh-pages"], cwd=PROJECT_DIR, check=True)
             print("   ✅ Pushed to GitHub")
         else:
             print("   ⏭️ Skipping push (AUTO_PUSH=False)")
