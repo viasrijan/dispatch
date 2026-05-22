@@ -773,7 +773,7 @@ img {
 
 .mag-card {
     position: relative;
-    background: linear-gradient(135deg, rgba(0,0,0,0.3) 0%, transparent 100%), var(--bg-card);
+    background: linear-gradient(to right, transparent, rgba(0,0,0,0.4) 100%), var(--bg-card);
     overflow: hidden;
     cursor: pointer;
     display: flex;
@@ -785,7 +785,7 @@ img {
 }
 
 [data-theme="light"] .mag-card {
-    background: linear-gradient(45deg, rgba(0,0,0,0.05) 0%, transparent 100%), var(--bg-card);
+    background: linear-gradient(to right, transparent, rgba(0,0,0,0.08) 100%), var(--bg-card);
 }
 
 .mag-card:hover {
@@ -1026,10 +1026,10 @@ img {
 
 .mini-card {
     display: flex;
-    gap: 20px;
+    flex-direction: row;
     align-items: stretch;
     padding: 20px;
-    background: linear-gradient(135deg, rgba(0,0,0,0.3) 0%, transparent 100%), var(--bg-card);
+    background: linear-gradient(to right, transparent, rgba(0,0,0,0.4) 100%), var(--bg-card);
     border-radius: var(--radius);
     border: 1px solid var(--border);
     transition: all var(--transition);
@@ -1037,7 +1037,7 @@ img {
 }
 
 [data-theme="light"] .mini-card {
-    background: linear-gradient(45deg, rgba(0,0,0,0.05) 0%, transparent 100%), var(--bg-card);
+    background: linear-gradient(to right, transparent, rgba(0,0,0,0.08) 100%), var(--bg-card);
 }
 
 .mini-card:hover {
@@ -1056,7 +1056,7 @@ img {
 }
 
 [data-theme="light"] .trending-wrap .mini-card:hover {
-    border-color: #F5B027;
+    border-color: #3D9970;
 }
 
 .trending-wrap .mini-card .mini-title,
@@ -1080,7 +1080,7 @@ img {
 [data-theme="light"] .trending-wrap .mini-card:hover .mini-title,
 [data-theme="light"] .trending-wrap .mini-card:hover .mini-meta,
 [data-theme="light"] .trending-wrap .mini-card:hover .num {
-    color: #F5B027;
+    color: #3D9970;
 }
 
 .mini-card .num {
@@ -1221,7 +1221,7 @@ img {
 .story-tile {
     display: block;
     padding: 16px 20px;
-    background: linear-gradient(135deg, rgba(0,0,0,0.25) 0%, transparent 100%), var(--bg-card);
+    background: linear-gradient(to right, transparent, rgba(0,0,0,0.4) 100%), var(--bg-card);
     border: 1px solid var(--border);
     border-radius: var(--radius);
     cursor: pointer;
@@ -1229,7 +1229,7 @@ img {
 }
 
 [data-theme="light"] .story-tile {
-    background: linear-gradient(45deg, rgba(0,0,0,0.03) 0%, transparent 100%), var(--bg-card);
+    background: linear-gradient(to right, transparent, rgba(0,0,0,0.06) 100%), var(--bg-card);
 }
 
 .story-tile:hover {
