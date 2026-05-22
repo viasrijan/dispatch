@@ -1121,16 +1121,16 @@ async def run():
         all_stories.extend(fallback_items[:40 - len(all_stories)])
     
     # Assign to sections based on importance
-    # Site layout: 5 hero + 12 trending (4x3) + 4 picks + 4+ latest = 25+ total
+    # Site layout: 5 hero + 3 trending + 4 picks + 12 latest (4x3) = 24 total
     hero_items = all_stories[:5]
-    trending_items = all_stories[5:17]
-    picks_items = all_stories[17:21]
-    latest_items = all_stories[21:25]
+    trending_items = all_stories[5:8]
+    picks_items = all_stories[8:12]
+    latest_items = all_stories[12:24]
     
     # Ensure minimum counts
-    trending_items = trending_items[:12]
+    trending_items = trending_items[:3]
     picks_items = picks_items[:4]
-    latest_items = latest_items[:4]
+    latest_items = latest_items[:12]
     
     # Add section-specific tags
     for item in hero_items:
@@ -1144,9 +1144,9 @@ async def run():
         item["category_tag"] = "NEWS"
     
     print(f"    📊 Priority assignment:")
-    print(f"       🔴 Hero (5): {[s.get('importance', 3) for s in hero_items]}")
-    print(f"       🟠 Trending (3): {[s.get('importance', 3) for s in trending_items]}")
-    print(f"       🟡 Picks (4): {[s.get('importance', 3) for s in picks_items]}")
+    print(f"       🔴 Hero ({len(hero_items)}): {[s.get('importance', 3) for s in hero_items]}")
+    print(f"       🟠 Trending ({len(trending_items)}): {[s.get('importance', 3) for s in trending_items]}")
+    print(f"       🟡 Picks ({len(picks_items)}): {[s.get('importance', 3) for s in picks_items]}")
     print(f"       🟢 Latest ({len(latest_items)}): {[s.get('importance', 3) for s in latest_items]}")
     
     # Generate images for each story
@@ -1193,11 +1193,11 @@ async def run():
         all_items.append(item)
     for i, item in enumerate(picks_items):
         item["_key"] = f"picks_{i}"
-        item["_post_id"] = get_post_id(item, i + 22)
+        item["_post_id"] = get_post_id(item, i + 20)
         all_items.append(item)
     for i, item in enumerate(latest_items):
         item["_key"] = f"latest_{i}"
-        item["_post_id"] = get_post_id(item, i + 26)
+        item["_post_id"] = get_post_id(item, i + 30)
         all_items.append(item)
 
     print(f"\n🎨 Generating images for hero + picks ({5 + 4} images)...")
