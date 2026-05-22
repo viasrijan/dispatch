@@ -246,7 +246,7 @@ def extract_json_from_text(text):
     return text
 
 
-async def call_ollama(messages, model="llama3.2", max_tokens=2000):
+async def call_ollama(messages, model="llama3.2:1b", max_tokens=2000):
     """Use Ollama for local AI generation (free, private)"""
     import asyncio
     import json
@@ -284,7 +284,7 @@ async def call_ollama(messages, model="llama3.2", max_tokens=2000):
             stderr=asyncio.subprocess.PIPE,
         )
         try:
-            stdout, stderr = await asyncio.wait_for(proc.communicate(), timeout=180)
+            stdout, stderr = await asyncio.wait_for(proc.communicate(), timeout=300)
         except asyncio.TimeoutError:
             proc.kill()
             print("  ⚠ Ollama timed out (180s)")
@@ -306,7 +306,7 @@ async def call_ollama(messages, model="llama3.2", max_tokens=2000):
 async def call_openai(messages, api_key, response_format=None, max_tokens=2000, model="gpt-4o-mini"):
     # First try Ollama (local, free)
     try:
-        result = await call_ollama(messages, model="llama3.2", max_tokens=max_tokens)
+        result = await call_ollama(messages, model="llama3.2:1b", max_tokens=max_tokens)
         if result and result != "[]":
             # Extract JSON from the response (Ollama may add explanation text)
             return extract_json_from_text(result)
