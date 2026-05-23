@@ -323,7 +323,6 @@ img {
 
 .hero-slider-inner {
     display: flex;
-    min-height: 420px;
     border-radius: var(--radius-lg);
     overflow: hidden;
     transition: box-shadow var(--transition-snappy);
@@ -332,6 +331,7 @@ img {
 
 .hero-slider-inner .hero-slider-image {
     flex: 1.2 1 0;
+    aspect-ratio: 16 / 9;
     border-radius: var(--radius-lg) 0 0 var(--radius-lg);
     overflow: hidden;
 }
@@ -1095,6 +1095,12 @@ img {
     color: var(--text-muted);
     min-width: 24px;
     text-align: center;
+}
+
+[data-theme="light"] .fixture-team,
+[data-theme="light"] .fixture-score,
+[data-theme="light"] .fixture-vs {
+    color: #fff;
 }
 
 /* === 4-COL GRID FOR TRENDING === */
