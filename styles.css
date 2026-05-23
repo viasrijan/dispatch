@@ -267,6 +267,108 @@ img {
     display: none;
 }
 
+/* Hamburger Menu Button */
+.hamburger {
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    gap: 4px;
+    width: 28px;
+    height: 28px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    z-index: 1001;
+}
+
+.hamburger span {
+    display: block;
+    width: 100%;
+    height: 2.5px;
+    background: var(--accent);
+    border-radius: 2px;
+    transition: all var(--transition-snappy);
+}
+
+[data-theme="light"] .hamburger span {
+    background: #000;
+}
+
+.hamburger.active span:nth-child(1) {
+    transform: translateY(6.5px) rotate(45deg);
+}
+
+.hamburger.active span:nth-child(2) {
+    opacity: 0;
+}
+
+.hamburger.active span:nth-child(3) {
+    transform: translateY(-6.5px) rotate(-45deg);
+}
+
+/* Mobile Nav Overlay */
+.mobile-nav {
+    display: none;
+    position: fixed;
+    inset: 0;
+    z-index: 999;
+    background: var(--bg);
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.3s ease;
+}
+
+.mobile-nav.open {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.mobile-nav a {
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: var(--text);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    transition: color var(--transition-snappy);
+}
+
+.mobile-nav a:hover {
+    color: var(--accent);
+}
+
+[data-theme="light"] .mobile-nav a {
+    color: #000;
+}
+
+[data-theme="light"] .mobile-nav a:hover {
+    color: var(--accent);
+}
+
+.mobile-nav .play-nav {
+    font-size: 1.1rem;
+    padding: 12px 32px !important;
+}
+
+.mobile-nav .mobile-social {
+    display: flex;
+    gap: 24px;
+    margin-top: 16px;
+}
+
+.mobile-nav .mobile-social a {
+    font-size: 1.3rem;
+    color: var(--accent);
+}
+
+[data-theme="light"] .mobile-nav .mobile-social a {
+    color: #000;
+}
+
 .theme-toggle-fab {
     position: fixed;
     bottom: 40px;
@@ -1957,6 +2059,16 @@ img {
     .header-social {
         display: none;
     }
+    .hamburger {
+        display: flex;
+    }
+    .mobile-nav {
+        display: flex;
+    }
+
+    .container {
+        padding: 0 16px;
+    }
     
     .magazine-grid {
         grid-template-columns: 1fr;
@@ -2008,20 +2120,47 @@ img {
     .leagues-layout .league-sidebar {
         width: 100%;
     }
+
+    .section-title {
+        font-size: 1.2rem;
+    }
+
+    .page-header .section-title,
+    .page-hdr .section-title {
+        font-size: 1.7rem;
+    }
+
+    .theme-toggle-fab {
+        bottom: 20px;
+        right: 20px;
+        width: 44px;
+        height: 44px;
+    }
+
+    .theme-toggle-fab i {
+        font-size: 1.1rem;
+    }
 }
 
 @media (max-width: 480px) {
     .header-inner {
-        height: 64px;
+        height: 56px;
+        padding: 0 12px;
     }
     .logo {
-        font-size: 1.3rem;
+        font-size: 1.15rem;
+    }
+    .container {
+        padding: 0 12px;
     }
     .hero-slider-content .hero-title {
-        font-size: 1.7rem;
+        font-size: 1.4rem;
+    }
+    .hero-slider-content {
+        padding: 28px 20px;
     }
     .hero-main .hero-title {
-        font-size: 1.7rem;
+        font-size: 1.4rem;
     }
     .hero-side {
         grid-template-columns: 1fr;
@@ -2032,11 +2171,50 @@ img {
     .story-grid-3x3 {
         grid-template-columns: 1fr;
     }
+    .story-tile {
+        padding: 12px 16px;
+    }
+    .story-tile .story-tile-title {
+        font-size: 0.8rem;
+    }
+    .mini-card {
+        padding: 16px 5%;
+    }
+    .mini-card .mini-title {
+        font-size: 1.1rem;
+    }
+    .mini-card .num {
+        font-size: 3.5rem;
+    }
+    .section-title {
+        font-size: 1rem;
+    }
+    .page-header .section-title,
+    .page-hdr .section-title {
+        font-size: 1.35rem;
+    }
     .post-image-wrap {
         border-radius: var(--radius);
     }
     .post-title {
         font-size: 1.6rem;
+    }
+    .fixtures-scroll {
+        padding: 96px 0 32px;
+    }
+    .fixture-box {
+        padding: 8px 12px;
+        min-width: 110px;
+    }
+    .fixture-score {
+        font-size: 0.75rem;
+        min-width: 24px;
+    }
+    .footer {
+        padding: 32px 0 24px;
+    }
+    .league-sidebar .sidebar-grid a {
+        font-size: 0.82rem;
     }
 }
 
