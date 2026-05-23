@@ -323,16 +323,21 @@ img {
 
 .hero-slider-inner {
     display: flex;
-    transition: all var(--transition-snappy);
+    min-height: 420px;
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    transition: box-shadow var(--transition-snappy);
     cursor: pointer;
 }
 
 .hero-slider-inner .hero-slider-image {
+    flex: 1.2 1 0;
     border-radius: var(--radius-lg) 0 0 var(--radius-lg);
     overflow: hidden;
 }
 
 .hero-slider-inner .hero-slider-content {
+    flex: 0.8 1 0;
     border-radius: 0 var(--radius-lg) var(--radius-lg) 0;
     overflow: hidden;
 }
@@ -1033,7 +1038,7 @@ img {
     justify-content: center;
     gap: 8px;
     background: var(--bg-card);
-    border: 2px solid var(--border);
+    border: 1px solid var(--border);
     border-radius: var(--radius);
     padding: 10px 16px;
     min-width: 122px;
@@ -1041,12 +1046,12 @@ img {
     cursor: pointer;
 }
 
-.fixture-box[data-league="premier"] { border-color: rgba(79, 70, 229, 0.5); }
-.fixture-box[data-league="laliga"] { border-color: rgba(225, 29, 72, 0.5); }
-.fixture-box[data-league="seriea"] { border-color: rgba(61, 153, 112, 0.5); }
-.fixture-box[data-league="bundesliga"] { border-color: rgba(220, 38, 38, 0.5); }
-.fixture-box[data-league="ligue1"] { border-color: rgba(37, 99, 235, 0.5); }
-.fixture-box[data-league="portugal"] { border-color: rgba(217, 119, 6, 0.5); }
+.fixture-box[data-league="premier"] { background: rgba(79, 70, 229, 0.5); }
+.fixture-box[data-league="laliga"] { background: rgba(225, 29, 72, 0.5); }
+.fixture-box[data-league="seriea"] { background: rgba(61, 153, 112, 0.5); }
+.fixture-box[data-league="bundesliga"] { background: rgba(220, 38, 38, 0.5); }
+.fixture-box[data-league="ligue1"] { background: rgba(37, 99, 235, 0.5); }
+.fixture-box[data-league="portugal"] { background: rgba(217, 119, 6, 0.5); }
 
 .fixture-box:hover {
     box-shadow: 0 2px 8px rgba(0,0,0,0.15);
@@ -1092,10 +1097,6 @@ img {
     color: var(--text-muted);
     min-width: 24px;
     text-align: center;
-}
-
-[data-theme="light"] .fixture-box {
-    background: var(--bg-card);
 }
 
 /* === 4-COL GRID FOR TRENDING === */
