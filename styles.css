@@ -351,7 +351,6 @@ img {
     flex-direction: column;
     justify-content: center;
     padding: 60px 48px;
-    height: 100%;
     background: linear-gradient(135deg, rgba(0,0,0,0.25) 0%, transparent 100%), var(--bg-card);
 }
 
@@ -415,7 +414,6 @@ img {
     position: relative;
     overflow: hidden;
     background: var(--bg-elevated);
-    height: 100%;
 }
 
 .hero-image-overlay {
@@ -1046,12 +1044,12 @@ img {
     cursor: pointer;
 }
 
-.fixture-box[data-league="premier"] { background: rgba(79, 70, 229, 0.5); }
-.fixture-box[data-league="laliga"] { background: rgba(225, 29, 72, 0.5); }
-.fixture-box[data-league="seriea"] { background: rgba(61, 153, 112, 0.5); }
-.fixture-box[data-league="bundesliga"] { background: rgba(220, 38, 38, 0.5); }
-.fixture-box[data-league="ligue1"] { background: rgba(37, 99, 235, 0.5); }
-.fixture-box[data-league="portugal"] { background: rgba(217, 119, 6, 0.5); }
+.fixture-box[data-league="premier"] { background: rgba(79, 70, 229, 1); }
+.fixture-box[data-league="laliga"] { background: rgba(225, 29, 72, 1); }
+.fixture-box[data-league="seriea"] { background: rgba(61, 153, 112, 1); }
+.fixture-box[data-league="bundesliga"] { background: rgba(220, 38, 38, 1); }
+.fixture-box[data-league="ligue1"] { background: rgba(37, 99, 235, 1); }
+.fixture-box[data-league="portugal"] { background: rgba(217, 119, 6, 1); }
 
 .fixture-box:hover {
     box-shadow: 0 2px 8px rgba(0,0,0,0.15);
