@@ -1575,10 +1575,11 @@ img {
     display: flex;
     gap: 24px;
     align-items: flex-start;
+    justify-content: space-between;
 }
 
 .leagues-layout .league-section {
-    flex: 0 1 760px;
+    flex: 0 1 808px;
     min-width: 0;
 }
 
@@ -1651,7 +1652,9 @@ img {
 .league-tab {
     display: flex;
     align-items: center;
+    justify-content: center;
     gap: 8px;
+    flex: 1;
     padding: 14px 24px;
     background: transparent;
     border: none;
@@ -1701,6 +1704,7 @@ img {
 }
 
 .league-table-header span:nth-child(2) {
+    text-align: left;
 }
 
 .league-table-row {
@@ -1736,7 +1740,7 @@ img {
 .league-team-wrap {
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: flex-start;
     gap: 10px;
     font-weight: 600;
     color: var(--text);
