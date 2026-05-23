@@ -1478,68 +1478,71 @@ img {
 
 /* === INDIVIDUAL POST LAYOUT === */
 .post-wrapper {
-    padding: 112px 0 80px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 112px 24px 80px;
+}
+
+.post-layout {
+    display: flex;
+    gap: 56px;
+    align-items: flex-start;
 }
 
 .post-image-wrap {
+    flex: 0 0 440px;
     border-radius: var(--radius-lg);
     overflow: hidden;
     background: var(--bg-card);
     border: 1px solid var(--border);
     box-shadow: 0 10px 30px var(--shadow);
     position: relative;
-    margin-bottom: 32px;
 }
 
 .post-image-wrap img {
     width: 100%;
     height: auto;
-    aspect-ratio: 16 / 9;
+    aspect-ratio: 1.33;
     object-fit: cover;
     transition: transform 1s var(--transition);
 }
 
-.post-image-wrap:hover img {
-    transform: scale(1.03);
-}
 
 .post-content {
+    flex: 1;
     min-width: 0;
 }
 
-.post-back {
+.back-btn {
     display: inline-flex;
     align-items: center;
     gap: 8px;
-    font-size: 0.8rem;
+    font-size: 0.85rem;
     font-weight: 600;
-    color: var(--text-muted);
-    margin-bottom: 20px;
+    color: var(--text-secondary);
+    margin-bottom: 24px;
+    transition: all var(--transition-snappy);
     text-transform: uppercase;
     letter-spacing: 0.5px;
-    transition: color var(--transition-snappy);
 }
 
-.post-back i {
+.back-btn i {
     transition: transform var(--transition-snappy);
 }
 
-.post-back:hover {
+.back-btn:hover {
     color: var(--accent);
 }
 
-.post-back:hover i {
+.back-btn:hover i {
     transform: translateX(-4px);
 }
 
-.post-meta-top {
-    display: flex;
-    align-items: center;
-    gap: 16px;
-    margin-bottom: 16px;
-}
-
 .post-tag {
+    position: absolute;
+    top: 24px;
+    right: 24px;
+    z-index: 5;
     font-size: 0.6rem;
     font-weight: 700;
     text-transform: uppercase;
@@ -1549,13 +1552,13 @@ img {
     padding: 6px 16px;
     border-radius: 50px;
     box-shadow: 0 4px 12px var(--accent-glow);
-    display: inline-block;
 }
 
 .post-category {
-    font-size: 0.8rem;
+    font-size: 0.85rem;
     font-weight: 600;
     color: var(--text-secondary);
+    margin-left: 16px;
     text-transform: uppercase;
     letter-spacing: 0.5px;
 }
@@ -1564,13 +1567,13 @@ img {
     font-size: 2.5rem;
     font-weight: 800;
     line-height: 1.15;
-    margin-bottom: 12px;
+    margin-bottom: 16px;
     color: var(--text);
     letter-spacing: -0.5px;
 }
 
 .post-time {
-    font-size: 0.8rem;
+    font-size: 0.85rem;
     color: var(--text-muted);
     margin-bottom: 24px;
 }
@@ -2034,8 +2037,18 @@ img {
         min-height: 200px;
     }
     
-    .post-wrapper {
-        padding: 96px 0 64px;
+    .post-layout {
+        flex-direction: column;
+        gap: 32px;
+    }
+    .post-image-wrap {
+        flex: none;
+        width: 100%;
+        max-width: 520px;
+        margin: 0 auto;
+    }
+    .post-title {
+        font-size: 2rem;
     }
 }
 
@@ -2185,9 +2198,6 @@ img {
     }
     .post-title {
         font-size: 1.6rem;
-    }
-    .post-wrapper {
-        padding: 80px 0 48px;
     }
     .fixtures-scroll {
         padding: 96px 0 32px;
