@@ -663,6 +663,11 @@ img {
     gap: 8px;
 }
 
+.page-header .section-title,
+.page-hdr .section-title {
+    font-size: 2.9rem;
+}
+
 .trending-wrap .section-header::after {
     background: linear-gradient(to left, #F5B027, transparent);
 }
@@ -1611,8 +1616,8 @@ img {
 }
 
 .league-sidebar .sidebar-grid {
-    list-style: disc;
-    padding-left: 18px;
+    list-style: none;
+    padding-left: 0;
     margin: 0;
     display: block;
 }
@@ -1620,7 +1625,7 @@ img {
 .league-sidebar .sidebar-grid a {
     color: var(--text);
     text-decoration: none;
-    font-size: 0.82rem;
+    font-size: 0.9rem;
     font-weight: 600;
     line-height: 1.45;
     transition: color var(--transition-snappy);
@@ -1632,11 +1637,36 @@ img {
 
 .league-sidebar .sidebar-grid li {
     margin-bottom: 10px;
-    padding-left: 4px;
+    padding-left: 14px;
+    position: relative;
 }
 
 .league-sidebar .sidebar-grid li:last-child {
     margin-bottom: 0;
+}
+
+.league-sidebar .sidebar-grid li::before {
+    content: '•';
+    position: absolute;
+    left: 0;
+    font-size: 0.65rem;
+    line-height: 1.65;
+}
+
+.league-sidebar .sidebar-trending .sidebar-grid li::before {
+    color: #F5B027;
+}
+
+[data-theme="light"] .league-sidebar .sidebar-trending .sidebar-grid li::before {
+    color: #bc005b;
+}
+
+.league-sidebar .sidebar-latest .sidebar-grid li::before {
+    color: #3D9970;
+}
+
+[data-theme="light"] .league-sidebar .sidebar-latest .sidebar-grid li::before {
+    color: #bc005b;
 }
 
 .league-sidebar .sidebar-trending .sidebar-grid a:hover {
