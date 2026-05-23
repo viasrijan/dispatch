@@ -407,11 +407,7 @@ img {
     box-shadow: 0 4px 12px rgba(133, 20, 75, 0.3);
 }
 
-[data-theme="light"] .hero-slider-content .hero-readmore {
-    color: #fff;
-    background: #000;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
-}
+
 
 .hero-slider-inner:hover .hero-readmore {
 }
@@ -656,7 +652,7 @@ img {
 }
 
 [data-theme="light"] .section-header::after {
-    background: linear-gradient(to left, #3D9970, transparent);
+    background: linear-gradient(to left, #bc005b, transparent);
 }
 
 .section-title {
@@ -675,7 +671,7 @@ img {
 }
 
 [data-theme="light"] .trending-wrap .section-header::after {
-    background: linear-gradient(to left, #3D9970, transparent);
+    background: linear-gradient(to left, #bc005b, transparent);
 }
 
 .trending-wrap .section-title {
@@ -691,7 +687,7 @@ img {
 }
 
 [data-theme="light"] .section:has(.magazine-grid) .section-header::after {
-    background: linear-gradient(to left, #3D9970, transparent);
+    background: linear-gradient(to left, #bc005b, transparent);
 }
 
 .section:has(.magazine-grid) .section-title {
@@ -707,7 +703,7 @@ img {
 }
 
 [data-theme="light"] .section:has(.story-grid-3x3) .section-header::after {
-    background: linear-gradient(to left, #3D9970, transparent);
+    background: linear-gradient(to left, #bc005b, transparent);
 }
 
 .section:has(.story-grid-3x3) .section-title {
@@ -1046,7 +1042,7 @@ img {
     border: 1px solid var(--border);
     border-radius: var(--radius);
     padding: 10px 16px;
-    min-width: 170px;
+    min-width: 136px;
     transition: border-color var(--transition-snappy);
     position: relative;
     overflow: hidden;
@@ -1062,14 +1058,20 @@ img {
 }
 
 .fixture-box[data-league="premier"]::after { background: #4f46e5; }
+.fixture-box[data-league="premier"] { border-color: #4f46e5; }
 .fixture-box[data-league="laliga"]::after { background: #e11d48; }
+.fixture-box[data-league="laliga"] { border-color: #e11d48; }
 .fixture-box[data-league="seriea"]::after { background: #3D9970; }
+.fixture-box[data-league="seriea"] { border-color: #3D9970; }
 .fixture-box[data-league="bundesliga"]::after { background: #dc2626; }
+.fixture-box[data-league="bundesliga"] { border-color: #dc2626; }
 .fixture-box[data-league="ligue1"]::after { background: #2563eb; }
+.fixture-box[data-league="ligue1"] { border-color: #2563eb; }
 .fixture-box[data-league="portugal"]::after { background: #d97706; }
+.fixture-box[data-league="portugal"] { border-color: #d97706; }
 
 .fixture-box:hover {
-    border-color: var(--accent);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
 }
 
 .fixture-team {
