@@ -1611,13 +1611,48 @@ img {
 }
 
 .league-sidebar .sidebar-grid {
-    display: grid;
-    grid-template-columns: 1fr;
-    gap: 12px;
+    list-style: disc;
+    padding-left: 18px;
+    margin: 0;
+    display: block;
 }
 
-.league-sidebar .story-tile {
-    padding: 14px 18px;
+.league-sidebar .sidebar-grid a {
+    color: var(--text);
+    text-decoration: none;
+    font-size: 0.82rem;
+    font-weight: 600;
+    line-height: 1.45;
+    transition: color var(--transition-snappy);
+}
+
+[data-theme="light"] .league-sidebar .sidebar-grid a {
+    color: #000;
+}
+
+.league-sidebar .sidebar-grid li {
+    margin-bottom: 10px;
+    padding-left: 4px;
+}
+
+.league-sidebar .sidebar-grid li:last-child {
+    margin-bottom: 0;
+}
+
+.league-sidebar .sidebar-trending .sidebar-grid a:hover {
+    color: #F5B027;
+}
+
+[data-theme="light"] .league-sidebar .sidebar-trending .sidebar-grid a:hover {
+    color: #bc005b;
+}
+
+.league-sidebar .sidebar-latest .sidebar-grid a:hover {
+    color: #3D9970;
+}
+
+[data-theme="light"] .league-sidebar .sidebar-latest .sidebar-grid a:hover {
+    color: #bc005b;
 }
 
 .league-sidebar .sidebar-trending .section-title {
@@ -1650,38 +1685,6 @@ img {
 
 [data-theme="light"] .league-sidebar .sidebar-latest .section-header::after {
     background: linear-gradient(to left, #bc005b, transparent);
-}
-
-.league-sidebar .sidebar-trending .story-tile:hover {
-    border-color: #F5B027;
-}
-
-.league-sidebar .sidebar-trending .story-tile:hover .story-tile-title {
-    color: #F5B027;
-}
-
-[data-theme="light"] .league-sidebar .sidebar-trending .story-tile:hover {
-    border-color: #bc005b;
-}
-
-[data-theme="light"] .league-sidebar .sidebar-trending .story-tile:hover .story-tile-title {
-    color: #bc005b;
-}
-
-.league-sidebar .sidebar-latest .story-tile:hover {
-    border-color: #3D9970;
-}
-
-.league-sidebar .sidebar-latest .story-tile:hover .story-tile-title {
-    color: #3D9970;
-}
-
-[data-theme="light"] .league-sidebar .sidebar-latest .story-tile:hover {
-    border-color: #bc005b;
-}
-
-[data-theme="light"] .league-sidebar .sidebar-latest .story-tile:hover .story-tile-title {
-    color: #bc005b;
 }
 
 .league-tabs {
