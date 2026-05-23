@@ -1620,6 +1620,38 @@ img {
     padding: 14px 18px;
 }
 
+.league-sidebar .sidebar-trending .section-title {
+    color: #F5B027;
+}
+
+[data-theme="light"] .league-sidebar .sidebar-trending .section-title {
+    color: #000;
+}
+
+.league-sidebar .sidebar-trending .section-header::after {
+    background: linear-gradient(to left, #F5B027, transparent);
+}
+
+[data-theme="light"] .league-sidebar .sidebar-trending .section-header::after {
+    background: linear-gradient(to left, #bc005b, transparent);
+}
+
+.league-sidebar .sidebar-latest .section-title {
+    color: #3D9970;
+}
+
+[data-theme="light"] .league-sidebar .sidebar-latest .section-title {
+    color: #000;
+}
+
+.league-sidebar .sidebar-latest .section-header::after {
+    background: linear-gradient(to left, #3D9970, transparent);
+}
+
+[data-theme="light"] .league-sidebar .sidebar-latest .section-header::after {
+    background: linear-gradient(to left, #bc005b, transparent);
+}
+
 .league-sidebar .sidebar-trending .story-tile:hover {
     border-color: #F5B027;
 }
