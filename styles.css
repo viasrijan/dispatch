@@ -1649,9 +1649,9 @@ img {
     content: '•';
     position: absolute;
     left: 0;
-    top: 0;
+    top: 0.33rem;
     font-size: 0.65rem;
-    line-height: 1.45;
+    line-height: 1;
 }
 
 .league-sidebar .sidebar-trending .sidebar-grid li::before {
