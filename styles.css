@@ -1571,6 +1571,36 @@ img {
     box-shadow: 0 8px 24px rgba(0,0,0,0.08);
 }
 
+.leagues-layout {
+    display: flex;
+    gap: 24px;
+    align-items: flex-start;
+}
+
+.leagues-layout .league-section {
+    flex: 1;
+    min-width: 0;
+}
+
+.leagues-layout .league-sidebar {
+    width: 320px;
+    flex-shrink: 0;
+}
+
+.league-sidebar .section-header {
+    margin-bottom: 16px;
+}
+
+.league-sidebar .sidebar-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 12px;
+}
+
+.league-sidebar .story-tile {
+    padding: 14px 18px;
+}
+
 .league-tabs {
     display: flex;
     gap: 0;
@@ -1849,6 +1879,14 @@ img {
     .league-tab {
         padding: 12px 16px;
         font-size: 0.72rem;
+    }
+
+    .leagues-layout {
+        flex-direction: column;
+    }
+
+    .leagues-layout .league-sidebar {
+        width: 100%;
     }
 }
 
