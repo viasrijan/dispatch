@@ -1583,12 +1583,20 @@ img {
 }
 
 .leagues-layout .league-sidebar {
-    width: 320px;
+    width: 280px;
     flex-shrink: 0;
 }
 
 .league-sidebar .section-header {
-    margin-bottom: 16px;
+    margin-bottom: 12px;
+}
+
+.league-sidebar .sidebar-section {
+    margin-bottom: 24px;
+}
+
+.league-sidebar .sidebar-section:last-child {
+    margin-bottom: 0;
 }
 
 .league-sidebar .sidebar-grid {
