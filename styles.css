@@ -23,7 +23,7 @@
     
     /* Utilities */
     --shadow: rgba(0, 0, 0, 0.6);
-    --header-bg: rgba(9, 9, 9, 0.85);
+    --header-bg: rgba(255, 255, 255, 0.85);
     --transition: 0.4s cubic-bezier(0.16, 1, 0.3, 1);
     --transition-snappy: 0.2s cubic-bezier(0.16, 1, 0.3, 1);
     --radius: 12px;
@@ -63,7 +63,7 @@
     
     /* Utilities */
     --shadow: rgba(0, 0, 0, 0.04);
-    --header-bg: rgba(255, 255, 255, 0.85);
+    --header-bg: rgba(9, 9, 9, 0.85);
 }
 
 /* === BASE & SCROLLBAR === */
@@ -171,6 +171,15 @@ img {
     color: var(--text);
 }
 
+/* Inverted header text colors */
+.header .logo span {
+    color: #000;
+}
+
+[data-theme="light"] .header .logo span {
+    color: #fff;
+}
+
 .nav {
     display: flex;
     gap: 32px;
@@ -189,16 +198,16 @@ img {
 }
 
 .nav a:hover {
-    color: #fff;
+    color: #000;
     text-shadow: 0 0 12px var(--accent-glow);
 }
 
 .nav a.active {
-    color: #fff;
+    color: #000;
 }
 
 [data-theme="light"] .nav a {
-    color: #000;
+    color: #fff;
 }
 
 [data-theme="light"] .nav a:hover,
@@ -243,7 +252,7 @@ img {
 }
 
 [data-theme="light"] .header-social a {
-    color: #000;
+    color: #fff;
 }
 
 .header-social a:hover .fa-youtube {
@@ -251,11 +260,11 @@ img {
 }
 
 .header-social a:hover .fa-x-twitter {
-    color: #fff;
+    color: #000;
 }
 
 [data-theme="light"] .header-social a:hover .fa-x-twitter {
-    color: #000;
+    color: #fff;
 }
 
 .header-social a:hover .fa-instagram {
@@ -292,7 +301,7 @@ img {
 }
 
 [data-theme="light"] .hamburger span {
-    background: #000;
+    background: #fff;
 }
 
 .hamburger.active span:nth-child(1) {
@@ -1596,10 +1605,34 @@ img {
 
 /* === FOOTER === */
 .footer {
-    background: var(--bg-elevated);
+    background: #ffffff;
     border-top: 1px solid var(--border);
     padding: 40px 0 32px;
     transition: background var(--transition), border-color var(--transition);
+}
+
+[data-theme="light"] .footer {
+    background: #090909;
+}
+
+[data-theme="light"] .footer .footer-brand p,
+[data-theme="light"] .footer .footer-col a,
+[data-theme="light"] .footer .footer-bottom {
+    color: #ccc;
+}
+
+.footer .logo span {
+    color: #000;
+}
+
+[data-theme="light"] .footer .logo span {
+    color: #fff;
+}
+
+.footer .footer-brand p,
+.footer .footer-col a,
+.footer .footer-bottom {
+    color: #444;
 }
 
 .footer-grid {
