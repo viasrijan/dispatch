@@ -317,7 +317,7 @@ img {
 
 /* === HERO SLIDER (Editorial Masterpiece) === */
 .hero-slider {
-    padding: 108px 0 64px;
+    padding: 64px 0;
     position: relative;
 }
 
@@ -473,8 +473,8 @@ img {
     color: #fff;
 }
 
-.hero-slider-arrow.prev { left: -26px; }
-.hero-slider-arrow.next { right: -26px; }
+.hero-slider-arrow.prev { left: 0; }
+.hero-slider-arrow.next { right: 0; }
 
 /* === ALTERNATIVE HERO GRID === */
 .hero-grid {
@@ -1011,7 +1011,7 @@ img {
 /* === FIXTURES SCROLL BAR === */
 .fixtures-scroll {
     overflow: hidden;
-    padding: 64px 0;
+    padding: 108px 0 64px;
     position: relative;
 }
 
