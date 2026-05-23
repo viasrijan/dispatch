@@ -317,7 +317,7 @@ img {
 
 /* === HERO SLIDER (Editorial Masterpiece) === */
 .hero-slider {
-    padding: 64px 0;
+    padding: 0 0 40px;
     position: relative;
 }
 
@@ -630,7 +630,7 @@ img {
 
 /* === SECTION === */
 .section {
-    padding: 64px 0;
+    padding: 0 0 40px;
 }
 
 .section-header {
@@ -1011,7 +1011,7 @@ img {
 /* === FIXTURES SCROLL BAR === */
 .fixtures-scroll {
     overflow: hidden;
-    padding: 108px 0 64px;
+    padding: 112px 0 40px;
     position: relative;
 }
 
@@ -1481,7 +1481,7 @@ img {
 .footer {
     background: var(--bg-elevated);
     border-top: 1px solid var(--border);
-    padding: 64px 0 32px;
+    padding: 40px 0 32px;
     transition: background var(--transition), border-color var(--transition);
 }
 
