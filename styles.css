@@ -1578,7 +1578,7 @@ img {
 }
 
 .leagues-layout .league-section {
-    flex: 1;
+    flex: 0 1 760px;
     min-width: 0;
 }
 
@@ -1607,6 +1607,38 @@ img {
 
 .league-sidebar .story-tile {
     padding: 14px 18px;
+}
+
+.league-sidebar .sidebar-trending .story-tile:hover {
+    border-color: #F5B027;
+}
+
+.league-sidebar .sidebar-trending .story-tile:hover .story-tile-title {
+    color: #F5B027;
+}
+
+[data-theme="light"] .league-sidebar .sidebar-trending .story-tile:hover {
+    border-color: #bc005b;
+}
+
+[data-theme="light"] .league-sidebar .sidebar-trending .story-tile:hover .story-tile-title {
+    color: #bc005b;
+}
+
+.league-sidebar .sidebar-latest .story-tile:hover {
+    border-color: #3D9970;
+}
+
+.league-sidebar .sidebar-latest .story-tile:hover .story-tile-title {
+    color: #3D9970;
+}
+
+[data-theme="light"] .league-sidebar .sidebar-latest .story-tile:hover {
+    border-color: #bc005b;
+}
+
+[data-theme="light"] .league-sidebar .sidebar-latest .story-tile:hover .story-tile-title {
+    color: #bc005b;
 }
 
 .league-tabs {
@@ -1669,7 +1701,6 @@ img {
 }
 
 .league-table-header span:nth-child(2) {
-    text-align: left;
 }
 
 .league-table-row {
@@ -1705,6 +1736,7 @@ img {
 .league-team-wrap {
     display: flex;
     align-items: center;
+    justify-content: center;
     gap: 10px;
     font-weight: 600;
     color: var(--text);
