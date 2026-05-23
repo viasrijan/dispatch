@@ -665,7 +665,7 @@ img {
 
 .page-header .section-title,
 .page-hdr .section-title {
-    font-size: 2.9rem;
+    font-size: 2.175rem;
 }
 
 .trending-wrap .section-header::after {
@@ -1649,8 +1649,9 @@ img {
     content: '•';
     position: absolute;
     left: 0;
+    top: 0;
     font-size: 0.65rem;
-    line-height: 1.65;
+    line-height: 1.45;
 }
 
 .league-sidebar .sidebar-trending .sidebar-grid li::before {
