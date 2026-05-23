@@ -322,15 +322,9 @@ img {
 }
 
 .hero-slider-inner {
-    display: grid;
-    grid-template-columns: 1fr 1.1fr;
-    height: 420px;
-    background: var(--bg-card);
-    border: 1px solid var(--border);
-    border-radius: var(--radius-lg);
-    position: relative;
-    transition: border-color var(--transition), box-shadow var(--transition);
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+    display: flex;
+    transition: all var(--transition-snappy);
+    cursor: pointer;
 }
 
 .hero-slider-inner .hero-slider-image {
@@ -1039,36 +1033,20 @@ img {
     justify-content: center;
     gap: 8px;
     background: var(--bg-card);
-    border: 1px solid var(--border);
+    border: 2px solid var(--border);
     border-radius: var(--radius);
     padding: 10px 16px;
-    min-width: 136px;
+    min-width: 122px;
     transition: border-color var(--transition-snappy);
-    position: relative;
-    overflow: hidden;
+    cursor: pointer;
 }
 
-.fixture-box::after {
-    content: '';
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    height: 3px;
-}
-
-.fixture-box[data-league="premier"]::after { background: #4f46e5; }
-.fixture-box[data-league="premier"] { border-color: #4f46e5; }
-.fixture-box[data-league="laliga"]::after { background: #e11d48; }
-.fixture-box[data-league="laliga"] { border-color: #e11d48; }
-.fixture-box[data-league="seriea"]::after { background: #3D9970; }
-.fixture-box[data-league="seriea"] { border-color: #3D9970; }
-.fixture-box[data-league="bundesliga"]::after { background: #dc2626; }
-.fixture-box[data-league="bundesliga"] { border-color: #dc2626; }
-.fixture-box[data-league="ligue1"]::after { background: #2563eb; }
-.fixture-box[data-league="ligue1"] { border-color: #2563eb; }
-.fixture-box[data-league="portugal"]::after { background: #d97706; }
-.fixture-box[data-league="portugal"] { border-color: #d97706; }
+.fixture-box[data-league="premier"] { border-color: rgba(79, 70, 229, 0.1); }
+.fixture-box[data-league="laliga"] { border-color: rgba(225, 29, 72, 0.1); }
+.fixture-box[data-league="seriea"] { border-color: rgba(61, 153, 112, 0.1); }
+.fixture-box[data-league="bundesliga"] { border-color: rgba(220, 38, 38, 0.1); }
+.fixture-box[data-league="ligue1"] { border-color: rgba(37, 99, 235, 0.1); }
+.fixture-box[data-league="portugal"] { border-color: rgba(217, 119, 6, 0.1); }
 
 .fixture-box:hover {
     box-shadow: 0 2px 8px rgba(0,0,0,0.15);
