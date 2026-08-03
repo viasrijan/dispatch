@@ -1,15 +1,15 @@
-/* ============ THE DISPATCH — app logic ============ */
+/* ============ EXTRA TIME — app logic ============ */
 (() => {
   'use strict'
 
   const $ = (s, el = document) => el.querySelector(s)
   const $$ = (s, el = document) => [...el.querySelectorAll(s)]
 
-  const SOURCES = {
-    bbc: { name: 'BBC Sport', home: 'https://www.bbc.com/sport/football', color: '#bd1f3c', abbr: 'BBC' },
-    guardian: { name: 'The Guardian', home: 'https://www.theguardian.com/football', color: '#052962', abbr: 'GUARD' },
-    independent: { name: 'The Independent', home: 'https://www.independent.co.uk/sport/football', color: '#c8102e', abbr: 'IND' },
-    espn: { name: 'ESPN FC', home: 'https://www.espn.com/soccer', color: '#a6171d', abbr: 'ESPN' },
+  const COVERAGE = {
+    bbc: { name: 'BBC Sport', color: '#bd1f3c', abbr: 'BBC' },
+    guardian: { name: 'The Guardian', color: '#052962', abbr: 'GUARD' },
+    independent: { name: 'The Independent', color: '#c8102e', abbr: 'IND' },
+    espn: { name: 'ESPN FC', color: '#a6171d', abbr: 'ESPN' },
   }
 
   const state = { content: null, scores: null, tickerDup: false }
@@ -27,15 +27,37 @@
 
   const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]))
 
-  const kickerOf = (a) => a.league ? `${a.category} · ${a.league}` : (a.category || 'Football')
+  const kickerOf = (a) => (a.league && a.league !== 'Football' ? `${a.category} · ${a.league}` : a.category || 'Football')
 
-  function storyMeta(a) {
-    const src = SOURCES[a.source] || SOURCES.espn
+  const img = (a, cls = 'aspect-16-9') => {
+    const wrap = document.createElement('div')
+    wrap.className = `img-wrap ${cls}`
+    if (a.image) {
+      const im = document.createElement('img')
+      im.loading = 'lazy'
+      im.decoding = 'async'
+      im.alt = a.imageAlt || `${a.title} — image`
+      im.src = a.image
+      im.addEventListener('load', () => im.classList.add('loaded'), { once: true })
+      wrap.appendChild(im)
+      const c = document.createElement('span')
+      c.className = 'img-credit'
+      c.textContent = a.imageCredit || ''
+      wrap.appendChild(c)
+    } else {
+      wrap.style.background = 'linear-gradient(135deg, var(--paper-3), var(--paper-2))'
+      wrap.appendChild(Object.assign(document.createElement('span'), { textContent: '⚽', style: 'position:absolute;inset:0;display:grid;place-items:center;font-size:34px;opacity:.5' }))
+    }
+    return wrap
+  }
+
+  function storyMeta(a, withSource = true) {
+    const src = COVERAGE[a.source]
     const el = document.createElement('div')
     el.className = 'story-meta'
     el.innerHTML =
-      `<span class="source-badge ${esc(a.source)}">${esc(src.abbr)}</span>` +
-      `<span>${esc(src.name)}</span>` +
+      (withSource && src ? `<span class="source-badge">${esc(src.abbr)}</span>` : '') +
+      `<span>${withSource ? esc(src ? src.name : a.sourceName) : esc(a.category)}</span>` +
       `<span class="time-ago">${esc(timeAgo(a.published))}</span>`
     return el
   }
@@ -46,10 +68,9 @@
     if (!track) return
     const matches = state.scores && state.scores.matches ? state.scores.matches : []
     if (!matches.length) { track.innerHTML = '<span class="ticker-empty">No live matches right now — the ticker refreshes automatically.</span>'; return }
-
     const mk = (m) => {
       const d = m.status === 'live' ? `<span class="t-live">${esc(m.clock || 'LIVE')}</span>`
-        : m.status === 'final' ? `<span class="score" style="color:${m.homeScore > m.awayScore ? '#ffb347' : m.homeScore < m.awayScore ? '#ffb347' : ''}">${m.homeScore}–${m.awayScore} FT</span>`
+        : m.status === 'final' ? `<span class="t-pre">FT</span>`
         : `<span class="t-pre">${esc(m.clock || m.time || 'Today')}</span>`
       return `<span class="ticker-item"><span class="t-team">${esc(m.home)}</span><span class="score">${m.status === 'pre' ? 'v' : `${m.homeScore ?? 0}–${m.awayScore ?? 0}`}</span><span class="t-team">${esc(m.away)}</span>${d}</span>`
     }
@@ -59,58 +80,64 @@
     $('#tickerClock').textContent = new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })
   }
 
-  /* ---------- hero ---------- */
+  /* ---------- home ---------- */
   function renderHero() {
     const a = state.content.articles
-    const lead = state.content.hero || a[0]
+    const lead = state.content.hero_id ? a.find((x) => x.id === state.content.hero_id) || a[0] : a[0]
     const side = a.slice(1, 3)
 
     const leadEl = $('#heroLead')
     leadEl.innerHTML = ''
+    leadEl.appendChild(img(lead))
     const body = document.createElement('div')
     body.className = 'hero-lead-body'
     body.innerHTML =
       `<span class="hero-kicker">${esc(kickerOf(lead))}</span>` +
       `<h2>${esc(lead.title)}</h2>` +
-      `<p>${esc(lead.excerpt)}</p>`
+      `<p>${esc(lead.dek)}</p>`
     body.appendChild(storyMeta(lead))
     body.querySelector('.story-meta')?.appendChild(Object.assign(document.createElement('span'), { className: 'arrow', innerHTML: '→' }))
     leadEl.appendChild(body)
-    leadEl.addEventListener('click', () => openArticle(lead))
+    leadEl.addEventListener('click', () => location.hash = `#/story/${lead.slug}`)
 
     const sideEl = $('#heroSide')
     sideEl.innerHTML = ''
-    side.forEach((s, i) => {
+    side.forEach((s) => {
       const art = document.createElement('article')
-      art.innerHTML =
+      art.appendChild(img(s, 'aspect-16-10'))
+      const inner = document.createElement('div')
+      inner.innerHTML =
         `<span class="hero-kicker">${esc(kickerOf(s))}</span>` +
         `<h3>${esc(s.title)}</h3>` +
-        `<p>${esc(s.excerpt)}</p>`
-      art.appendChild(storyMeta(s))
-      art.addEventListener('click', () => openArticle(s))
+        `<p>${esc(s.dek)}</p>`
+      inner.appendChild(storyMeta(s))
+      art.appendChild(inner)
+      art.addEventListener('click', () => location.hash = `#/story/${s.slug}`)
       sideEl.appendChild(art)
     })
   }
 
-  /* ---------- news grid ---------- */
   function renderNews() {
     const grid = $('#newsGrid')
     grid.innerHTML = ''
     state.content.articles.slice(3, 19).forEach((a, i) => {
       const card = document.createElement('article')
-      card.className = `story-card reveal ${i < 6 ? '' : 'reveal-late'}`
-      card.innerHTML =
+      card.className = `story-card reveal ${i < 6 ? '' : ''}`
+      card.appendChild(img(a, 'aspect-16-10'))
+      const inner = document.createElement('div')
+      inner.className = 'story-card-body'
+      inner.innerHTML =
         `<span class="hero-kicker">${esc(kickerOf(a))}</span>` +
         `<h3>${esc(a.title)}</h3>` +
-        `<p>${esc(a.excerpt)}</p>`
-      card.appendChild(storyMeta(a))
-      card.addEventListener('click', () => openArticle(a))
+        `<p>${esc(a.dek)}</p>`
+      inner.appendChild(storyMeta(a))
+      card.appendChild(inner)
+      card.addEventListener('click', () => location.hash = `#/story/${a.slug}`)
       grid.appendChild(card)
     })
     observeReveals()
   }
 
-  /* ---------- transfers ---------- */
   function renderTransfers() {
     const list = $('#transferList')
     list.innerHTML = ''
@@ -119,20 +146,21 @@
     rows.forEach((a) => {
       const row = document.createElement('div')
       row.className = 'transfer-row reveal'
-      row.innerHTML =
-        `<span class="transfer-tag">Transfers</span>` +
-        `<div><h3>${esc(a.title)}</h3><p style="font-size:12.5px;color:var(--muted)">${esc(a.excerpt.slice(0, 130))}</p></div>`
-      const meta = storyMeta(a)
-      const t = meta.querySelector('.time-ago')
-      if (t) { t.parentElement.removeChild(t) }
-      row.appendChild(meta)
-      row.addEventListener('click', () => openArticle(a))
+      row.appendChild(img(a, 'transfer-thumb'))
+      const mid = document.createElement('div')
+      mid.innerHTML = `<span class="transfer-tag">Transfers</span><h3>${esc(a.title)}</h3>`
+      mid.appendChild(storyMeta(a, false))
+      row.appendChild(mid)
+      const t = document.createElement('span')
+      t.className = 'time-ago'
+      t.textContent = timeAgo(a.published)
+      row.appendChild(t)
+      row.addEventListener('click', () => location.hash = `#/story/${a.slug}`)
       list.appendChild(row)
     })
     observeReveals()
   }
 
-  /* ---------- fixtures ---------- */
   function renderFixtures() {
     const grid = $('#fixturesGrid')
     grid.innerHTML = ''
@@ -148,14 +176,15 @@
       const st = m.status === 'live' ? `<span class="f-status live">${esc(m.clock || 'LIVE')}</span>`
         : m.status === 'final' ? `<span class="f-status final">Full time</span>`
         : `<span class="f-status pre">${esc(m.clock || m.time || 'Upcoming')}</span>`
+      const logo = (u, name) => u ? `<img class="f-logo" src="${esc(u)}" alt="" loading="lazy">` : `<span class="f-logo" style="background:var(--paper-3);border-radius:50%"></span>`
       const card = document.createElement('div')
       card.className = 'fixture-card reveal'
       card.innerHTML =
         `<span class="fixture-league">${esc(m.league)}</span>` +
         `<div class="fixture-status">${st}<span class="f-score">${m.status === 'pre' ? '' : `${m.homeScore ?? 0} – ${m.awayScore ?? 0}`}</span></div>` +
         `<div class="fixture-teams">` +
-        `<div class="f-row"><span class="t">${esc(m.home)}</span><span class="s">${m.status === 'pre' ? '' : (m.homeScore ?? 0)}</span></div>` +
-        `<div class="f-row"><span class="t">${esc(m.away)}</span><span class="s">${m.status === 'pre' ? '' : (m.awayScore ?? 0)}</span></div>` +
+        `<div class="f-row"><span class="f-left">${logo(m.homeLogo, m.home)}<span class="t">${esc(m.home)}</span></span><span class="s">${m.status === 'pre' ? '' : (m.homeScore ?? 0)}</span></div>` +
+        `<div class="f-row"><span class="f-left">${logo(m.awayLogo, m.away)}<span class="t">${esc(m.away)}</span></span><span class="s">${m.status === 'pre' ? '' : (m.awayScore ?? 0)}</span></div>` +
         `</div>`
       grid.appendChild(card)
     })
@@ -163,55 +192,114 @@
     $('#fixturesNote').textContent = `synced ${timeAgo(state.scores.generated_at)} · auto-refreshes`
   }
 
-  /* ---------- sources ---------- */
   function renderSources() {
     const grid = $('#sourcesGrid')
     grid.innerHTML = ''
-    Object.values(SOURCES).forEach((s, i) => {
-      const card = document.createElement('a')
+    Object.values(COVERAGE).forEach((s) => {
+      const card = document.createElement('div')
       card.className = 'source-card reveal'
-      card.href = s.home
-      card.target = '_blank'
-      card.rel = 'noreferrer'
       card.innerHTML =
         `<span class="source-logo" style="background:${s.color}">${esc(s.abbr)}</span>` +
-        `<div><h3>${esc(s.name)}</h3><p>Football desk — live feed</p></div>`
+        `<div><h3>${esc(s.name)}</h3><p>Reporting aggregated &amp; edited in-house</p></div>`
       grid.appendChild(card)
     })
     observeReveals()
   }
 
-  /* ---------- article modal ---------- */
-  const modal = $('#articleModal')
-  let lastFocus = null
+  /* ---------- story page (hosted on our site) ---------- */
+  function renderStory(slug) {
+    const main = $('#main')
+    const view = $('#storyView')
+    const a = state.content && state.content.articles.find((x) => x.slug === slug)
+    if (!a) { location.hash = '#/'; return }
+    main.hidden = true
+    view.hidden = false
+    document.title = `${a.title} — Extra Time`
 
-  function openArticle(a) {
-    if (!a) return
-    lastFocus = document.activeElement
-    const src = SOURCES[a.source] || SOURCES.espn
-    $('#modalArticle').innerHTML =
+    view.innerHTML = ''
+    const wrap = document.createElement('div')
+    wrap.className = 'story-wrap'
+    wrap.innerHTML =
+      `<a class="story-back" href="#/">← Back to home</a>` +
+      `<div class="story-hero">${img(a).outerHTML}</div>` +
       `<span class="hero-kicker">${esc(kickerOf(a))}</span>` +
-      `<h2 id="modalTitle">${esc(a.title)}</h2>` +
-      `<div class="story-meta"><span class="source-badge ${esc(a.source)}">${esc(src.abbr)}</span><span>${esc(src.name)}</span><span class="time-ago">${esc(timeAgo(a.published))}</span></div>` +
-      `<div class="modal-body">${esc(a.body || a.excerpt || '')}</div>` +
-      `<a class="modal-original" href="${esc(a.link)}" target="_blank" rel="noreferrer">Read original at ${esc(src.name)} →</a>`
-    modal.classList.add('open')
-    modal.setAttribute('aria-hidden', 'false')
-    document.body.style.overflow = 'hidden'
-    const close = $('.modal-close', modal)
-    close.focus()
-    close.scrollIntoView({ block: 'nearest' })
+      `<h1 class="story-title">${esc(a.title)}</h1>` +
+      `<p class="story-dek">${esc(a.dek)}</p>` +
+      `<div class="story-meta"></div>` +
+      `<hr class="story-divider">` +
+      `<div class="story-body"></div>` +
+      `<div class="story-note"><strong>Extra Time editor's note:</strong> this story was compiled and edited in-house from reporting published by ${esc(a.sourceName)}. All content on this page is hosted by us; no external links required.</div>`
+    wrap.querySelector('.story-meta').appendChild(storyMeta(a))
+    const body = wrap.querySelector('.story-body')
+    ;(a.body && a.body.length ? a.body : [a.dek]).forEach((p) => {
+      const el = document.createElement('p')
+      el.textContent = p
+      body.appendChild(el)
+    })
+    const related = state.content.articles.filter((x) => x.slug !== slug).slice(0, 2)
+    const more = document.createElement('div')
+    more.className = 'story-more'
+    more.innerHTML = '<h3>More from today\'s edition</h3>'
+    const grid = document.createElement('div')
+    grid.className = 'story-more-grid'
+    related.forEach((r) => {
+      const card = document.createElement('div')
+      card.className = 'story-more-card'
+      const im = img(r, 'aspect-16-10')
+      card.appendChild(im)
+      const right = document.createElement('div')
+      right.innerHTML = `<h4>${esc(r.title)}</h4>`
+      right.appendChild(storyMeta(r))
+      card.appendChild(right)
+      card.addEventListener('click', () => location.hash = `#/story/${r.slug}`)
+      grid.appendChild(card)
+    })
+    more.appendChild(grid)
+    wrap.appendChild(more)
+    view.appendChild(wrap)
+    window.scrollTo({ top: 0, behavior: 'instant' in window ? 'instant' : 'auto' })
   }
-  function closeModal() {
-    modal.classList.remove('open')
-    modal.setAttribute('aria-hidden', 'true')
-    document.body.style.overflow = ''
-    if (lastFocus) lastFocus.focus()
+
+  function renderHome() {
+    const main = $('#main')
+    const view = $('#storyView')
+    main.hidden = false
+    view.hidden = true
+    document.title = 'Extra Time — Football, Every Day'
+    if (!state.content || !state.content.articles || !state.content.articles.length) {
+      $('#heroLead').innerHTML = '<div class="hero-skeleton">The desk is warming up — the first edition lands on the next auto-update cycle (within 30 minutes).</div>'
+      $('#newsGrid').innerHTML = '<div class="grid-skeleton">Stories are being curated from BBC, Guardian, Independent &amp; ESPN…</div>'
+      $('#tickerTrack').innerHTML = '<span class="ticker-empty">Fetching live scores…</span>'
+      return
+    }
+    renderHero(); renderNews(); renderTransfers(); renderSources()
+    $('#updatedAt').textContent = `updated ${timeAgo(state.content.generated_at)}`
+    $('#footerUpdated').textContent = `Updated: ${new Date(state.content.generated_at).toLocaleString()}`
   }
-  $$('[data-close]', modal).forEach((b) => b.addEventListener('click', closeModal))
-  document.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape' && modal.classList.contains('open')) closeModal()
-  })
+
+  /* ---------- router ---------- */
+  function route() {
+    const h = location.hash || '#/'
+    if (h.startsWith('#/story/')) {
+      if (!state.content) return
+      renderStory(h.replace('#/story/', '').split('?')[0])
+      closeMenu()
+    } else {
+      const sections = ['news', 'transfers', 'fixtures', 'sources']
+      renderHome()
+      const anchor = h.replace('#/', '')
+      if (anchor && sections.includes(anchor)) {
+        requestAnimationFrame(() => {
+          const el = $('#' + anchor)
+          if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' })
+        })
+      } else if (h !== '#/') {
+        window.scrollTo({ top: 0, behavior: 'auto' })
+      }
+      closeMenu()
+    }
+  }
+  window.addEventListener('hashchange', route)
 
   /* ---------- reveal on scroll ---------- */
   let io = null
@@ -237,8 +325,7 @@
 
   /* ---------- header date / clock ---------- */
   function setMastheadDate() {
-    const d = new Date()
-    $('#mastheadDate').textContent = d.toLocaleDateString([], { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' })
+    $('#mastheadDate').textContent = new Date().toLocaleDateString([], { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' })
   }
   setInterval(() => { $('#tickerClock').textContent = new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }) }, 30000)
 
@@ -264,12 +351,12 @@
           if (!home || !away) return
           all.push({
             league: name, home: home.team.displayName, away: away.team.displayName,
+            homeLogo: home.team.logo || '', awayLogo: away.team.logo || '',
             homeScore: home.score != null ? parseInt(home.score, 10) : 0,
             awayScore: away.score != null ? parseInt(away.score, 10) : 0,
             status: isLive ? 'live' : isFinal ? 'final' : 'pre',
             clock: isLive ? (st.displayClock ? `${st.displayClock}'` : 'LIVE') : '',
-            time: st.type.detail || '',
-            date: ev.date,
+            time: st.type.detail || '', date: ev.date,
           })
         })
       }))
@@ -284,26 +371,15 @@
 
   /* ---------- boot ---------- */
   async function loadData() {
-    const headers = document.querySelector('html')
-    let contentOk = false
     try {
       const r = await fetch('data/content.json', { cache: 'no-cache' })
-      if (r.ok) { state.content = await r.json(); contentOk = true }
+      if (r.ok) state.content = await r.json()
     } catch (e) { /* offline */ }
     try {
       const r2 = await fetch('data/scores.json', { cache: 'no-cache' })
       if (r2.ok) state.scores = await r2.json()
     } catch (e) { /* ignore */ }
-
-    if (!state.content || !state.content.articles || !state.content.articles.length) {
-      $('#heroLead').innerHTML = '<div class="hero-skeleton">The dispatch desk is warming up — first edition lands on the next auto-update cycle (within 30 minutes).</div>'
-      $('#newsGrid').innerHTML = '<div class="grid-skeleton">Stories are being aggregated from BBC, Guardian, Sky &amp; ESPN…</div>'
-      $('#tickerTrack').innerHTML = '<span class="ticker-empty">Fetching live scores…</span>'
-    } else {
-      renderHero(); renderNews(); renderTransfers(); renderSources()
-      $('#updatedAt').textContent = `updated ${timeAgo(state.content.generated_at)}`
-      $('#footerUpdated').textContent = `Updated: ${new Date(state.content.generated_at).toLocaleString()}`
-    }
+    route()
     renderTicker()
     renderFixtures()
     setMastheadDate()
@@ -313,23 +389,26 @@
   /* ---------- nav / header interactions ---------- */
   const navToggle = $('#navToggle')
   const navList = $('#navList')
+  function closeMenu() {
+    navList.classList.remove('open')
+    navToggle.setAttribute('aria-expanded', 'false')
+  }
   navToggle.addEventListener('click', () => {
     const open = navList.classList.toggle('open')
     navToggle.setAttribute('aria-expanded', String(open))
     if (open) navList.querySelector('a')?.focus()
   })
-  $$('#navList a').forEach((a) => a.addEventListener('click', () => { navList.classList.remove('open'); navToggle.setAttribute('aria-expanded', 'false') }))
+  $$('#navList a').forEach((a) => a.addEventListener('click', closeMenu))
 
   const navLinks = $$('#navList a')
-  const sectionEls = ['news', 'transfers', 'fixtures', 'sources'].map((id) => $('#' + id))
+  const spyEls = ['news', 'transfers', 'fixtures', 'sources'].map((id) => $('#' + id))
   const spy = new IntersectionObserver((ents) => {
     ents.forEach((en) => {
       if (!en.isIntersecting) return
-      const id = en.target.id
-      navLinks.forEach((a) => a.classList.toggle('active', a.getAttribute('href') === '#' + id))
+      navLinks.forEach((a) => a.classList.toggle('active', a.getAttribute('href') === '#/' + en.target.id))
     })
   }, { rootMargin: '-40% 0px -55% 0px' })
-  sectionEls.forEach((s) => s && spy.observe(s))
+  spyEls.forEach((s) => s && spy.observe(s))
 
   $('#refreshBtn').addEventListener('click', async (e) => {
     const btn = e.currentTarget
@@ -342,6 +421,4 @@
   loadData()
   fetchLiveScores()
   setInterval(fetchLiveScores, 120000)
-
-  if ('serviceWorker' in navigator) { /* reserved for future PWA */ }
 })()
