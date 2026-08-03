@@ -18,7 +18,7 @@
 <header class="site-header" id="siteHeader">
   <div class="ticker" id="tickerBar" aria-label="Live scores">
     <div class="ticker-inner">
-      <span class="ticker-live"><span class="pulse-dot"></span>LIVE SCORES</span>
+      <span class="ticker-live"><span class="pulse-dot"></span>LIVE</span>
       <div class="ticker-track-wrap">
         <div class="ticker-track" id="tickerTrack"><span class="ticker-empty">Loading live scores…</span></div>
       </div>
@@ -31,11 +31,6 @@
       <div class="masthead-date"><span id="mastheadDate"></span><br /><span class="masthead-edition">DAILY EDITION</span></div>
       <div class="masthead-brand">
         <a href="#/" class="wordmark">EXTRA <span>TIME</span></a>
-        <p class="masthead-tag">Football, every day — news, scores &amp; transfers</p>
-      </div>
-      <div class="masthead-live">
-        <span class="live-pill"><span class="pulse-dot"></span>LIVE DESK</span>
-        <span class="updated-at" id="updatedAt">auto-updating</span>
       </div>
     </div>
   </div>
@@ -46,11 +41,11 @@
         <span></span><span></span><span></span>
       </button>
       <ul class="nav-list" id="navList">
-        <li><a href="#/" data-nav>Home</a></li>
-        <li><a href="#/news" data-nav>Latest News</a></li>
-        <li><a href="#/transfers" data-nav>Transfers</a></li>
-        <li><a href="#/fixtures" data-nav>Fixtures &amp; Results</a></li>
-        <li><a href="#/sources" data-nav>Our Coverage</a></li>
+        <li><a href="#/" data-nav><span class="nav-name">Home</span><span class="nav-desc">Today's edition</span></a></li>
+        <li><a href="#/news" data-nav><span class="nav-name">Latest News</span><span class="nav-desc">Top stories from the desk</span></a></li>
+        <li><a href="#/transfers" data-nav><span class="nav-name">Transfers</span><span class="nav-desc">Rumours &amp; done deals</span></a></li>
+        <li><a href="#/fixtures" data-nav><span class="nav-name">Fixtures &amp; Results</span><span class="nav-desc">Scores across five leagues</span></a></li>
+        <li><a href="#/sources" data-nav><span class="nav-name">Our Coverage</span><span class="nav-desc">Where the desk reports from</span></a></li>
       </ul>
       <div class="nav-tools">
         <button class="icon-btn" id="refreshBtn" aria-label="Refresh stories" title="Refresh stories">
@@ -59,6 +54,7 @@
       </div>
     </div>
   </nav>
+  <div class="nav-backdrop" id="navBackdrop" hidden></div>
 </header>
 
 <main id="main">

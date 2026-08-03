@@ -40,10 +40,6 @@
       im.src = a.image
       im.addEventListener('load', () => im.classList.add('loaded'), { once: true })
       wrap.appendChild(im)
-      const c = document.createElement('span')
-      c.className = 'img-credit'
-      c.textContent = a.imageCredit || ''
-      wrap.appendChild(c)
     } else {
       wrap.style.background = 'linear-gradient(135deg, var(--paper-3), var(--paper-2))'
       wrap.appendChild(Object.assign(document.createElement('span'), { textContent: '⚽', style: 'position:absolute;inset:0;display:grid;place-items:center;font-size:34px;opacity:.5' }))
@@ -221,7 +217,7 @@
     wrap.className = 'story-wrap'
     wrap.innerHTML =
       `<a class="story-back" href="#/">← Back to home</a>` +
-      `<div class="story-hero">${img(a).outerHTML}</div>` +
+      `<div class="story-hero">${img(a).outerHTML}${a.imageCredit ? `<p class="img-caption">Photo: ${esc(a.imageCredit)}</p>` : ''}</div>` +
       `<span class="hero-kicker">${esc(kickerOf(a))}</span>` +
       `<h1 class="story-title">${esc(a.title)}</h1>` +
       `<p class="story-dek">${esc(a.dek)}</p>` +
@@ -273,7 +269,6 @@
       return
     }
     renderHero(); renderNews(); renderTransfers(); renderSources()
-    $('#updatedAt').textContent = `updated ${timeAgo(state.content.generated_at)}`
     $('#footerUpdated').textContent = `Updated: ${new Date(state.content.generated_at).toLocaleString()}`
   }
 
@@ -389,16 +384,21 @@
   /* ---------- nav / header interactions ---------- */
   const navToggle = $('#navToggle')
   const navList = $('#navList')
-  function closeMenu() {
-    navList.classList.remove('open')
-    navToggle.setAttribute('aria-expanded', 'false')
-  }
-  navToggle.addEventListener('click', () => {
-    const open = navList.classList.toggle('open')
+  const navBackdrop = $('#navBackdrop')
+  function setMenu(open) {
+    navList.classList.toggle('open', open)
     navToggle.setAttribute('aria-expanded', String(open))
+    if (navBackdrop) navBackdrop.hidden = !open
+  }
+  function closeMenu() { setMenu(false) }
+  navToggle.addEventListener('click', () => {
+    const open = !navList.classList.contains('open')
+    setMenu(open)
     if (open) navList.querySelector('a')?.focus()
   })
   $$('#navList a').forEach((a) => a.addEventListener('click', closeMenu))
+  if (navBackdrop) navBackdrop.addEventListener('click', closeMenu)
+  document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeMenu() })
 
   const navLinks = $$('#navList a')
   const spyEls = ['news', 'transfers', 'fixtures', 'sources'].map((id) => $('#' + id))

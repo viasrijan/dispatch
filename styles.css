@@ -67,7 +67,7 @@ button { font: inherit; cursor: pointer; color: inherit; background: none; borde
 .img-wrap img { width: 100%; height: 100%; object-fit: cover; opacity: 0; transition: opacity .45s ease, transform .6s ease; }
 .img-wrap img.loaded { opacity: 1; }
 .img-wrap:hover img { transform: scale(1.03); }
-.img-credit { position: absolute; right: 6px; bottom: 6px; font-size: 9.5px; letter-spacing: .04em; color: rgba(255,255,255,.85); background: rgba(0,0,0,.55); padding: 2px 7px; border-radius: 4px; pointer-events: none; }
+.img-caption { font-size: 11px; color: var(--muted); margin-top: 8px; line-height: 1.5; }
 .aspect-16-9 { aspect-ratio: 16 / 9; }
 .aspect-16-10 { aspect-ratio: 16 / 10; }
 .aspect-4-3 { aspect-ratio: 4 / 3; }
@@ -97,20 +97,18 @@ button { font: inherit; cursor: pointer; color: inherit; background: none; borde
 .masthead-row { display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; gap: 16px; }
 .masthead-date { font-size: 11.5px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); line-height: 1.5; justify-self: start; }
 .masthead-edition { color: var(--accent); font-size: 10px; letter-spacing: .2em; }
-.masthead-brand { text-align: center; }
+.masthead-brand { text-align: center; grid-column: 2; justify-self: center; }
 .wordmark { font-weight: 900; font-size: clamp(28px, 5.5vw, 42px); letter-spacing: -.02em; line-height: 1; display: block; color: var(--ink); }
 .wordmark span { color: var(--accent); }
-.masthead-tag { font-size: 10.5px; letter-spacing: .22em; text-transform: uppercase; color: var(--muted); margin-top: 8px; font-weight: 600; }
-.masthead-live { justify-self: end; text-align: right; display: flex; flex-direction: column; align-items: flex-end; gap: 5px; }
-.live-pill { display: inline-flex; align-items: center; gap: 7px; font-size: 10px; font-weight: 800; letter-spacing: .16em; color: var(--accent); text-transform: uppercase; }
-.updated-at { font-size: 11px; color: var(--muted); font-weight: 500; }
 
 /* ---------- primary nav ---------- */
 .main-nav { background: var(--paper-2); border-bottom: 1px solid var(--line); position: sticky; top: 34px; z-index: 110; }
 .nav-row { display: flex; align-items: center; justify-content: center; height: var(--header-h); position: relative; }
 .nav-list { display: flex; gap: 4px; list-style: none; }
-.nav-list a { display: block; padding: 9px 16px; font-size: 12.5px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; color: var(--ink-2); border-bottom: 2px solid transparent; transition: color .15s, border-color .15s; }
+.nav-list a { display: flex; align-items: center; gap: 6px; padding: 9px 16px; font-size: 12.5px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; color: var(--ink-2); border-bottom: 2px solid transparent; transition: color .15s, border-color .15s; }
 .nav-list a:hover, .nav-list a.active { color: var(--accent); border-bottom-color: var(--accent); }
+.nav-desc { display: none; }
+.nav-backdrop { display: none; }
 .nav-tools { position: absolute; right: 20px; display: flex; align-items: center; }
 .icon-btn { width: 32px; height: 32px; display: grid; place-items: center; border-radius: 8px; color: var(--muted); transition: color .15s, transform .15s, background .15s; }
 .icon-btn:hover { color: var(--accent); background: var(--paper-3); }
@@ -260,21 +258,27 @@ button { font: inherit; cursor: pointer; color: inherit; background: none; borde
 @media (max-width: 768px) {
   .masthead { padding: 20px 0 18px; }
   .masthead-row { grid-template-columns: 1fr; gap: 10px; text-align: center; }
-  .masthead-date, .masthead-live { justify-self: center; text-align: center; align-items: center; }
-  .masthead-tag { letter-spacing: .14em; }
+  .masthead-date, .masthead-brand { justify-self: center; }
+  .masthead-brand { grid-column: 1; }
 
-  .nav-toggle { display: grid; place-items: center; width: 38px; height: 34px; gap: 4.5px; border: 1px solid var(--line); border-radius: 8px; background: var(--paper); position: absolute; left: 20px; top: 50%; transform: translateY(-50%); }
+  .nav-toggle { display: grid; place-items: center; width: 38px; height: 34px; gap: 4.5px; border: 1px solid var(--line); border-radius: 8px; background: var(--paper); position: absolute; left: 20px; top: 50%; transform: translateY(-50%); z-index: 118; }
   .nav-toggle span { display: block; width: 17px; height: 2px; background: var(--ink); transition: transform .2s, opacity .2s; }
   .nav-toggle[aria-expanded="true"] span:nth-child(1) { transform: translateY(6.5px) rotate(45deg); }
   .nav-toggle[aria-expanded="true"] span:nth-child(2) { opacity: 0; }
   .nav-toggle[aria-expanded="true"] span:nth-child(3) { transform: translateY(-6.5px) rotate(-45deg); }
 
   .nav-row { justify-content: flex-end; }
-  .nav-list { position: fixed; top: 78px; left: 0; right: 0; bottom: 0; z-index: 115; flex-direction: column; gap: 0; background: var(--paper); padding: 18px 20px; display: none; overflow-y: auto; border-top: 1px solid var(--line); }
-  .nav-list.open { display: flex; animation: fade .18s ease; }
-  .nav-list a { padding: 15px 4px; font-size: 14px; border-bottom: 1px solid var(--line); border-radius: 0; }
-  .nav-list a:hover { background: var(--paper-2); }
-  @keyframes fade { from { opacity: 0; } }
+  .nav-list { position: absolute; top: calc(100% + 8px); left: 12px; right: 12px; z-index: 116; flex-direction: column; gap: 3px; display: none; background: var(--white); border: 1px solid var(--line); border-radius: 14px; box-shadow: 0 14px 44px rgba(0,0,0,.24), 0 2px 8px rgba(0,0,0,.08); padding: 9px; overflow-y: auto; max-height: calc(100vh - 130px); }
+  .nav-list.open { display: flex; animation: nav-drop .22s cubic-bezier(.2,.9,.3,1.1); }
+  .nav-list a { flex-direction: column; align-items: flex-start; gap: 2px; padding: 12px 14px; font-size: 14px; border-bottom: 1px solid var(--line); border-radius: 9px; }
+  .nav-list a:last-child { border-bottom: 0; }
+  .nav-list a:hover, .nav-list a.active { background: var(--paper-2); color: var(--accent); border-bottom-color: var(--line); }
+  .nav-list .nav-desc { display: block; font-size: 11.5px; font-weight: 500; letter-spacing: .02em; text-transform: none; color: var(--muted); }
+  .nav-list a:hover .nav-desc, .nav-list a.active .nav-desc { color: var(--muted); }
+  @keyframes nav-drop { from { opacity: 0; transform: translateY(-8px) scale(.98); } }
+
+  .nav-backdrop { display: block; position: fixed; inset: 0; z-index: 114; background: rgba(15,15,18,.48); opacity: 0; pointer-events: none; transition: opacity .22s; }
+  .nav-backdrop:not([hidden]) { opacity: 1; pointer-events: auto; }
 
   .section { padding: 32px 20px; }
   .section-head { flex-wrap: wrap; gap: 10px; }

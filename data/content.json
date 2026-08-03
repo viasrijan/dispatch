@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-03T15:06:28.198Z",
- "updated_utc": "2026-08-03T15:06Z",
- "cycle": 29762826,
+ "generated_at": "2026-08-03T16:19:02.380Z",
+ "updated_utc": "2026-08-03T16:19Z",
+ "cycle": 29762899,
  "sources_used": [
   {
    "id": "bbc",
@@ -14,30 +14,34 @@
   {
    "id": "independent",
    "name": "The Independent"
+  },
+  {
+   "id": "espn",
+   "name": "ESPN FC"
   }
  ],
- "hero_id": "espn-game-changers-how-ea-sports-made-video-game-epic",
+ "hero_id": "espn-pochettino-signs-deal-remain-usmnt-manager",
  "articles": [
   {
-   "id": "espn-game-changers-how-ea-sports-made-video-game-epic",
-   "slug": "game-changers-how-ea-sports-made-a-video-game-the-epicenter---epic",
-   "title": "Game changers: How EA Sports made a video game the epicenter of soccer culture",
-   "dek": "Long before the EAFC video game franchise nestled itself at the epicenter of soccer culture, FIFA International Soccer was an unexpected bestseller.",
-   "description": "Long before the EAFC video game franchise nestled itself at the epicenter of soccer culture, FIFA International Soccer was an unexpected bestseller.",
-   "category": "Tactics & Analysis",
+   "id": "espn-pochettino-s-new-usmnt-deal-what-works-what-must",
+   "slug": "pochettino-s-new-usmnt-deal-what-works-and-what-must-he-impr--must",
+   "title": "Pochettino’s new USMNT deal: What works and what must he improve before 2030?",
+   "dek": "Mauricio Pochettino will remain U.S. men's national team coach through the 2030 World Cup, but what happens if a big club comes calling before then?",
+   "description": "Mauricio Pochettino will remain U.S. men's national team coach through the 2030 World Cup, but what happens if a big club comes calling before then?",
+   "category": "News",
    "league": "Football",
    "source": "espn",
    "sourceName": "ESPN FC",
-   "published": "2026-08-03T15:45:38.000Z",
-   "fetched_at": "2026-08-03T14:49:38.291Z",
+   "published": "2026-08-03T16:00:07.000Z",
+   "fetched_at": "2026-08-03T16:18:44.147Z",
    "body": [
-    "Our briefing: Long before the EAFC video game franchise nestled itself at the epicenter of soccer culture, FIFA International Soccer was an unexpected bestseller.",
-    "Long before the EAFC video game franchise nestled itself at the epicenter of soccer culture, FIFA International Soccer was an unexpected bestseller.",
-    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
+    "Our briefing: Mauricio Pochettino will remain U.S. men's national team coach through the 2030 World Cup, but what happens if a big club comes calling before then?",
+    "Mauricio Pochettino will remain U. S. men's national team coach through the 2030 World Cup, but what happens if a big club comes calling before then?",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by ESPN FC."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Football_for_public_and_player_%28IA_footballforpubli00reed%29.pdf/page1-960px-Football_for_public_and_player_%28IA_footballforpubli00reed%29.pdf.jpg",
-   "imageCredit": "Football for public and player (IA footballforpubli00reed).pdf"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/FirstEnergy_Stadium_panoramic_USMNT_vs._Belgium.jpg/960px-FirstEnergy_Stadium_panoramic_USMNT_vs._Belgium.jpg",
+   "imageCredit": "Erik Drost — CC BY 2.0"
   },
   {
    "id": "espn-pochettino-signs-deal-remain-usmnt-manager",
@@ -49,8 +53,8 @@
    "league": "Football",
    "source": "espn",
    "sourceName": "ESPN FC",
-   "published": "2026-08-03T15:38:23.000Z",
-   "fetched_at": "2026-08-03T14:49:38.290Z",
+   "published": "2026-08-03T15:59:54.000Z",
+   "fetched_at": "2026-08-03T16:18:44.147Z",
    "body": [
     "Our briefing: Mauricio Pochettino has signed a new contract to continue as manager of the U.S. men's national team, U.S. Soccer announced Monday morning.",
     "Mauricio Pochettino has signed a new contract to continue as manager of the U. S. men's national team, U.",
@@ -58,29 +62,367 @@
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by ESPN FC."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mercer_University_Football_Sign.jpg/960px-Mercer_University_Football_Sign.jpg",
-   "imageCredit": "Mercer University Football Sign.jpg"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Starting_XI_USMNT_v_Belgium_Mar_28_2026-10.jpg/960px-Starting_XI_USMNT_v_Belgium_Mar_28_2026-10.jpg",
+   "imageCredit": "Bryan Berlin — CC BY-SA 4.0"
   },
   {
-   "id": "espn-pochettino-s-new-usmnt-deal-what-works-what-must",
-   "slug": "pochettino-s-new-usmnt-deal-what-works-and-what-must-he-impr--must",
-   "title": "Pochettino’s new USMNT deal: What works and what must he improve before 2030?",
-   "dek": "Pochettino will remain through the 2030 World Cup, but what happens if a big club comes calling before then?",
-   "description": "Pochettino will remain through the 2030 World Cup, but what happens if a big club comes calling before then?",
+   "id": "espn-vin-back-madrid-training-amid-arsenal-links",
+   "slug": "vin-back-in-madrid-training-amid-arsenal-links-links",
+   "title": "Viní back in Madrid training amid Arsenal links",
+   "dek": "Vinícius Júnior returned to Real Madrid training on Monday amid doubts over the star winger's future and links with a possible move to Arsenal.",
+   "description": "Vinícius Júnior returned to Real Madrid training on Monday amid doubts over the star winger's future and links with a possible move to Arsenal.",
+   "category": "Transfers & Rumours",
+   "league": "Premier League",
+   "source": "espn",
+   "sourceName": "ESPN FC",
+   "published": "2026-08-03T15:59:54.000Z",
+   "fetched_at": "2026-08-03T16:18:44.147Z",
+   "body": [
+    "Our briefing: Vinícius Júnior returned to Real Madrid training on Monday amid doubts over the star winger's future and links with a possible move to Arsenal.",
+    "Vinícius Júnior returned to Real Madrid training on Monday amid doubts over the star winger's future and links with a possible move to Arsenal.",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by ESPN FC."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg/960px-Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg",
+   "imageCredit": null
+  },
+  {
+   "id": "espn-sources-uefa-threatens-infantino-legal-action",
+   "slug": "sources-uefa-threatens-infantino-with-legal-action-ction",
+   "title": "Sources: UEFA threatens Infantino with legal action",
+   "dek": "UEFA has raised the possibility that it could take legal action against Gianni Infantino over his World Cup sell-off plan, sources told ESPN.",
+   "description": "UEFA has raised the possibility that it could take legal action against Gianni Infantino over his World Cup sell-off plan, sources told ESPN.",
    "category": "News",
    "league": "Football",
    "source": "espn",
    "sourceName": "ESPN FC",
-   "published": "2026-08-03T15:38:23.000Z",
-   "fetched_at": "2026-08-03T14:49:38.290Z",
+   "published": "2026-08-03T15:59:54.000Z",
+   "fetched_at": "2026-08-03T16:18:44.147Z",
    "body": [
-    "Our briefing: Pochettino will remain through the 2030 World Cup, but what happens if a big club comes calling before then?",
-    "Pochettino will remain through the 2030 World Cup, but what happens if a big club comes calling before then?",
+    "Our briefing: UEFA has raised the possibility that it could take legal action against Gianni Infantino over his World Cup sell-off plan, sources told ESPN.",
+    "UEFA has raised the possibility that it could take legal action against Gianni Infantino over his World Cup sell-off plan, sources told ESPN.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by ESPN FC."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Mbombela_Stadium_crowd_leaving.jpg/960px-Mbombela_Stadium_crowd_leaving.jpg",
-   "imageCredit": "Mbombela Stadium crowd leaving.jpg"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png",
+   "imageCredit": "John Shorten — CC BY 4.0"
+  },
+  {
+   "id": "espn-messi-returns-after-wc-but-miami-held-draw",
+   "slug": "messi-returns-after-wc-but-miami-held-to-draw--draw",
+   "title": "Messi returns after WC but Miami held to draw",
+   "dek": "Lionel Messi made his return to action for Inter Miami on Saturday, paying for the first time since tasting defeat with Argentina in the World Cup final last month.",
+   "description": "Lionel Messi made his return to action for Inter Miami on Saturday, paying for the first time since tasting defeat with Argentina in the World Cup final last month.",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "espn",
+   "sourceName": "ESPN FC",
+   "published": "2026-08-03T15:59:54.000Z",
+   "fetched_at": "2026-08-03T16:18:44.147Z",
+   "body": [
+    "Our briefing: Lionel Messi made his return to action for Inter Miami on Saturday, paying for the first time since tasting defeat with Argentina in the World Cup final last month.",
+    "Lionel Messi made his return to action for Inter Miami on Saturday, paying for the first time since tasting defeat with Argentina in the World Cup final last month.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by ESPN FC."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg",
+   "imageCredit": null
+  },
+  {
+   "id": "espn-new-chelsea-boss-alonso-madrid-scar-has-healed",
+   "slug": "new-chelsea-boss-alonso-madrid-scar-has-healed-ealed",
+   "title": "New Chelsea boss Alonso: Madrid 'scar' has healed",
+   "dek": "Xabi Alonso said the \"scar\" he suffered from his short tenure at Real Madrid has healed, allowing him to fully focus on taking Chelsea into the new Premier League season.",
+   "description": "Xabi Alonso said the \"scar\" he suffered from his short tenure at Real Madrid has healed, allowing him to fully focus on taking Chelsea into the new Premier League season.",
+   "category": "News",
+   "league": "Premier League",
+   "source": "espn",
+   "sourceName": "ESPN FC",
+   "published": "2026-08-03T15:59:54.000Z",
+   "fetched_at": "2026-08-03T16:18:44.148Z",
+   "body": [
+    "Our briefing: Xabi Alonso said the \"scar\" he suffered from his short tenure at Real Madrid has healed, allowing him to fully focus on taking Chelsea into the new Premier League season.",
+    "Xabi Alonso said the \"scar\" he suffered from his short tenure at Real Madrid has healed, allowing him to fully focus on taking Chelsea into the new Premier League season.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by ESPN FC."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Stadium_Street%2C_Chelsea_-_geograph.org.uk_-_4585241.jpg/960px-Stadium_Street%2C_Chelsea_-_geograph.org.uk_-_4585241.jpg",
+   "imageCredit": "Chris Whippet — CC BY-SA 2.0"
+  },
+  {
+   "id": "espn-wrexham-end-preseason-loss-sunderland",
+   "slug": "wrexham-end-preseason-with-loss-to-sunderland-rland",
+   "title": "Wrexham end preseason with loss to Sunderland",
+   "dek": "Wrexham ended their pre-season campaign with a 1-0 defeat to Sunderland in Philadelphia.",
+   "description": "Wrexham ended their pre-season campaign with a 1-0 defeat to Sunderland in Philadelphia.",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "espn",
+   "sourceName": "ESPN FC",
+   "published": "2026-08-03T15:59:54.000Z",
+   "fetched_at": "2026-08-03T16:18:44.148Z",
+   "body": [
+    "Our briefing: Wrexham ended their pre-season campaign with a 1-0 defeat to Sunderland in Philadelphia.",
+    "Wrexham ended their pre-season campaign with a 1-0 defeat to Sunderland in Philadelphia.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by ESPN FC."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg",
+   "imageCredit": null
+  },
+  {
+   "id": "espn-bar-s-flick-will-miss-rashford-after-utd-return",
+   "slug": "bar-a-s-flick-will-miss-rashford-after-utd-return-eturn",
+   "title": "Barça's Flick will 'miss' Rashford after Utd return",
+   "dek": "Barcelona boss Hansi Flick has said he will \"miss\" Marcus Rashford after the Manchester United forward returned to his parent club following a successful loan in Spain.",
+   "description": "Barcelona boss Hansi Flick has said he will \"miss\" Marcus Rashford after the Manchester United forward returned to his parent club following a successful loan in Spain.",
+   "category": "Transfers & Rumours",
+   "league": "Football",
+   "source": "espn",
+   "sourceName": "ESPN FC",
+   "published": "2026-08-03T15:59:54.000Z",
+   "fetched_at": "2026-08-03T16:18:44.148Z",
+   "body": [
+    "Our briefing: Barcelona boss Hansi Flick has said he will \"miss\" Marcus Rashford after the Manchester United forward returned to his parent club following a successful loan in Spain.",
+    "Barcelona boss Hansi Flick has said he will \"miss\" Marcus Rashford after the Manchester United forward returned to his parent club following a successful loan in Spain.",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by ESPN FC."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg",
+   "imageCredit": "YHC — CC BY-SA 4.0"
+  },
+  {
+   "id": "espn-sources-inter-miami-not-pursuing-quintero",
+   "slug": "sources-inter-miami-not-pursuing-quintero-ntero",
+   "title": "Sources: Inter Miami not pursuing Quintero",
+   "dek": "Inter Miami has not expressed interest in signing Colombian national team midfielder Juan Fernando Quintero, club sources confirmed to ESPN.",
+   "description": "Inter Miami has not expressed interest in signing Colombian national team midfielder Juan Fernando Quintero, club sources confirmed to ESPN.",
+   "category": "Transfers & Rumours",
+   "league": "Serie A",
+   "source": "espn",
+   "sourceName": "ESPN FC",
+   "published": "2026-08-03T15:59:54.000Z",
+   "fetched_at": "2026-08-03T16:18:44.148Z",
+   "body": [
+    "Our briefing: Inter Miami has not expressed interest in signing Colombian national team midfielder Juan Fernando Quintero, club sources confirmed to ESPN.",
+    "Inter Miami has not expressed interest in signing Colombian national team midfielder Juan Fernando Quintero, club sources confirmed to ESPN.",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by ESPN FC."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/%C3%89charpe_RC_Strasbourg_-_Inter_Milan%2C_1997.jpg/960px-%C3%89charpe_RC_Strasbourg_-_Inter_Milan%2C_1997.jpg",
+   "imageCredit": "The original uploader was 44Charles at French Wikipedia. — CC BY 3.0"
+  },
+  {
+   "id": "espn-top-premier-league-teams-transfer-strategies",
+   "slug": "top-premier-league-teams-transfer-strategies-egies",
+   "title": "⚽ Top Premier League teams' transfer strategies",
+   "dek": "Manchester United opted for affordable options, while Chelsea, Man City and Spurs all spent big. Here's the thinking behind the summer's transfer action so far.",
+   "description": "Manchester United opted for affordable options, while Chelsea, Man City and Spurs all spent big. Here's the thinking behind the summer's transfer action so far.",
+   "category": "Transfers & Rumours",
+   "league": "Premier League",
+   "source": "espn",
+   "sourceName": "ESPN FC",
+   "published": "2026-08-03T15:59:54.000Z",
+   "fetched_at": "2026-08-03T16:18:44.148Z",
+   "body": [
+    "Our briefing: Manchester United opted for affordable options, while Chelsea, Man City and Spurs all spent big. Here's the thinking behind the summer's transfer action so far.",
+    "Manchester United opted for affordable options, while Chelsea, Man City and Spurs all spent big. Here's the thinking behind the summer's transfer action so far.",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by ESPN FC."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg",
+   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
+  },
+  {
+   "id": "guardian-marc-skinner-may-have-been-marmite-manager-but-m",
+   "slug": "marc-skinner-may-have-been-a-marmite-manager-but-manchester--but-m",
+   "title": "Marc Skinner may have been a Marmite manager but Manchester United’s budget was spread thin | Tom Garry",
+   "dek": "He divided opinion but made the most of a small budget – his successor must work with youngsters not big signings “If we want to compete at this later stage, we’ve seen…",
+   "description": "He divided opinion but made the most of a small budget – his successor must work with youngsters not big signings “If we want to compete at this later stage, we’ve seen what we’ve got to do, as a club. It’s our choice now, isn’t it? We have to look at what we seriously want to achieve … It takes, sometimes, a punch in the face to wake up.” Those were the words of the Manchester United head coach Marc Skinner after his side went out of the Women’s Champions League with elimination by Bayern Munich in April. Just over four months later, the bruise from that punch has faded, but so, it would seem, have the club’s ambitions to compete in the transfer market, and Skinner has decided not to get into the ring for another round. Continue reading...",
+   "category": "Transfers & Rumours",
+   "league": "Premier League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-08-03T15:55:02.000Z",
+   "fetched_at": "2026-08-03T16:18:43.635Z",
+   "body": [
+    "Our briefing: He divided opinion but made the most of a small budget – his successor must work with youngsters not big signings “If we want to compete at this later stage, we’ve seen…",
+    "He divided opinion but made the most of a small budget – his successor must work with youngsters not big signings “If we want to compete at this later stage, we’ve seen what we’ve got to do, as a club. It’s our choice now, isn’t it? We have to look at what we seriously want to achieve … It takes, sometimes, a punch in the face to wake up.",
+    "” Those were the words of the Manchester United head coach Marc Skinner after his side went out of the Women’s Champions League with elimination by Bayern Munich in April. Just over four months later, the bruise from that punch has faded, but so, it would seem, have the club’s ambitions to compete in the transfer market, and Skinner has decided not to get into the ring for another round. Continue reading...",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Manchester_United_1908-09.jpg/960px-Manchester_United_1908-09.jpg",
+   "imageCredit": null
+  },
+  {
+   "id": "guardian-newcastle-reject-first-bid-arsenal-captain-bruno",
+   "slug": "newcastle-reject-first-bid-from-arsenal-for-captain-bruno-gu-bruno",
+   "title": "Newcastle reject first bid from Arsenal for captain Bruno Guimarães",
+   "dek": "Premier League champions have £70m offer turned down Brazil midfielder has arrived at Newcastle training camp Arsenal have stepped up their attempt to sign Bruno…",
+   "description": "Premier League champions have £70m offer turned down Brazil midfielder has arrived at Newcastle training camp Arsenal have stepped up their attempt to sign Bruno Guimarães by finally beginning formal transfer negotiations and making an opening offer, which Newcastle have rejected. Guimarães met Newcastle’s incoming manager, Matthias Jaissle, for the first time on Monday at the team’s pre-season training camp at La Manga after a post-World Cup holiday in Brazil. Continue reading...",
+   "category": "Transfers & Rumours",
+   "league": "Premier League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-08-03T15:46:54.000Z",
+   "fetched_at": "2026-08-03T16:18:43.635Z",
+   "body": [
+    "Our briefing: Premier League champions have £70m offer turned down Brazil midfielder has arrived at Newcastle training camp Arsenal have stepped up their attempt to sign Bruno…",
+    "Premier League champions have £70m offer turned down Brazil midfielder has arrived at Newcastle training camp Arsenal have stepped up their attempt to sign Bruno Guimarães by finally beginning formal transfer negotiations and making an opening offer, which Newcastle have rejected. Guimarães met Newcastle’s incoming manager, Matthias Jaissle, for the first time on Monday at the team’s pre-season training camp at La Manga after a post-World Cup holiday in Brazil. Continue reading...",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/NDL11904200_Notice_of_Transfer_of_Equipment_Report_%28Shirahama_Arsenal%2C_Osaka_Arsenal%2C_etc.%29_part1.pdf/page1-960px-NDL11904200_Notice_of_Transfer_of_Equipment_Report_%28Shirahama_Arsenal%2C_Osaka_Arsenal%2C_etc.%29_part1.pdf.jpg",
+   "imageCredit": null
+  },
+  {
+   "id": "espn-nwsl-power-rankings-utah-takes-top-spot-washingt",
+   "slug": "nwsl-power-rankings-utah-takes-top-spot-as-washington-tumble-hingt",
+   "title": "NWSL Power Rankings: Utah takes top spot as Washington tumbles down the order",
+   "dek": "Washington's loss to San Diego saw the Spirit surrender the No. 1 spot on ESPN's NWSL Power Rankings, with Utah laying claim to best in the league.",
+   "description": "Washington's loss to San Diego saw the Spirit surrender the No. 1 spot on ESPN's NWSL Power Rankings, with Utah laying claim to best in the league.",
+   "category": "News",
+   "league": "Football",
+   "source": "espn",
+   "sourceName": "ESPN FC",
+   "published": "2026-08-03T15:45:45.000Z",
+   "fetched_at": "2026-08-03T16:18:44.148Z",
+   "body": [
+    "Our briefing: Washington's loss to San Diego saw the Spirit surrender the No. 1 spot on ESPN's NWSL Power Rankings, with Utah laying claim to best in the league.",
+    "Washington's loss to San Diego saw the Spirit surrender the No. 1 spot on ESPN's NWSL Power Rankings, with Utah laying claim to best in the league.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by ESPN FC."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg",
+   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+  },
+  {
+   "id": "espn-game-changers-how-ea-sports-made-video-game-epic",
+   "slug": "game-changers-how-ea-sports-made-a-video-game-the-epicenter---epic",
+   "title": "Game changers: How EA Sports made a video game the epicenter of soccer culture",
+   "dek": "Long before the EAFC video game franchise nestled itself at the epicenter of soccer culture, FIFA International Soccer was an unexpected bestseller.",
+   "description": "Long before the EAFC video game franchise nestled itself at the epicenter of soccer culture, FIFA International Soccer was an unexpected bestseller.",
+   "category": "Tactics & Analysis",
+   "league": "Football",
+   "source": "espn",
+   "sourceName": "ESPN FC",
+   "published": "2026-08-03T15:45:38.000Z",
+   "fetched_at": "2026-08-03T16:18:44.148Z",
+   "body": [
+    "Our briefing: Long before the EAFC video game franchise nestled itself at the epicenter of soccer culture, FIFA International Soccer was an unexpected bestseller.",
+    "Long before the EAFC video game franchise nestled itself at the epicenter of soccer culture, FIFA International Soccer was an unexpected bestseller.",
+    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
+    "This summary was compiled from reporting published by ESPN FC."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg",
+   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
+  },
+  {
+   "id": "independent-jordan-henderson-joins-chelsea-free-transfer-aft",
+   "slug": "jordan-henderson-joins-chelsea-on-free-transfer-after-leavin-r-aft",
+   "title": "Jordan Henderson joins Chelsea on free transfer after leaving Brentford",
+   "dek": "Former Liverpool captain Jordan Henderson has signed a two-year deal with Chelsea",
+   "description": "Former Liverpool captain Jordan Henderson has signed a two-year deal with Chelsea",
+   "category": "Transfers & Rumours",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-08-03T15:40:04.000Z",
+   "fetched_at": "2026-08-03T16:18:43.862Z",
+   "body": [
+    "Our briefing: Former Liverpool captain Jordan Henderson has signed a two-year deal with Chelsea",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dr_Christian_Pathak_at_Chelsea_%26_Westminster_Hospital.jpg/960px-Dr_Christian_Pathak_at_Chelsea_%26_Westminster_Hospital.jpg",
+   "imageCredit": "Isselerhof — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-como-agree-31m-deal-sign-chalobah-chelsea",
+   "slug": "como-agree-31m-deal-to-sign-chalobah-from-chelsea-elsea",
+   "title": "Como agree £31m deal to sign Chalobah from Chelsea",
+   "dek": "Como agree a deal worth more than £30m to sign Chelsea defender Trevoh Chalobah.",
+   "description": "Como agree a deal worth more than £30m to sign Chelsea defender Trevoh Chalobah.",
+   "category": "News",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-03T15:39:32.000Z",
+   "fetched_at": "2026-08-03T16:18:43.445Z",
+   "body": [
+    "Our briefing: Como agree a deal worth more than £30m to sign Chelsea defender Trevoh Chalobah.",
+    "Como agree a deal worth more than £30m to sign Chelsea defender Trevoh Chalobah.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Inside_Stamford_Bridge_Stadium_-_Chelsea_v_Peterborough_-_geograph.org.uk_-_5253336.jpg/960px-Inside_Stamford_Bridge_Stadium_-_Chelsea_v_Peterborough_-_geograph.org.uk_-_5253336.jpg",
+   "imageCredit": "Richard Humphrey — CC BY-SA 2.0"
+  },
+  {
+   "id": "bbc-ex-man-city-striker-dzeko-40-pens-new-schalke-de",
+   "slug": "ex-man-city-striker-dzeko-40-pens-new-schalke-deal-ke-de",
+   "title": "Ex-Man City striker Dzeko, 40, pens new Schalke deal",
+   "dek": "Bosnia and Herzegovina captain Edin Dzeko, 40, signs a one-year contract extension at newly promoted Bundesliga side Schalke.",
+   "description": "Bosnia and Herzegovina captain Edin Dzeko, 40, signs a one-year contract extension at newly promoted Bundesliga side Schalke.",
+   "category": "Transfers & Rumours",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-03T15:37:14.000Z",
+   "fetched_at": "2026-08-03T16:18:43.447Z",
+   "body": [
+    "Our briefing: Bosnia and Herzegovina captain Edin Dzeko, 40, signs a one-year contract extension at newly promoted Bundesliga side Schalke.",
+    "Bosnia and Herzegovina captain Edin Dzeko, 40, signs a one-year contract extension at newly promoted Bundesliga side Schalke.",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/A_Bus_in_Manchester_City_Centre_-_geograph.org.uk_-_2876841.jpg/960px-A_Bus_in_Manchester_City_Centre_-_geograph.org.uk_-_2876841.jpg",
+   "imageCredit": "David Hillas — CC BY-SA 2.0"
+  },
+  {
+   "id": "bbc-england-midfielder-henderson-joins-chelsea",
+   "slug": "england-midfielder-henderson-joins-chelsea-elsea",
+   "title": "England midfielder Henderson joins Chelsea",
+   "dek": "Free agent Jordan Henderson signs a two-year deal with Chelsea after his contract with Premier League rivals Brentford is mutually terminated.",
+   "description": "Free agent Jordan Henderson signs a two-year deal with Chelsea after his contract with Premier League rivals Brentford is mutually terminated.",
+   "category": "Transfers & Rumours",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-03T15:17:56.000Z",
+   "fetched_at": "2026-08-03T16:18:43.444Z",
+   "body": [
+    "Our briefing: Free agent Jordan Henderson signs a two-year deal with Chelsea after his contract with Premier League rivals Brentford is mutually terminated.",
+    "Free agent Jordan Henderson signs a two-year deal with Chelsea after his contract with Premier League rivals Brentford is mutually terminated.",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chelsea_Football_Club%2C_Stamford_Bridge_%28Ank_kumar%29_08.jpg/960px-Chelsea_Football_Club%2C_Stamford_Bridge_%28Ank_kumar%29_08.jpg",
+   "imageCredit": "Ank kumar — CC BY-SA 4.0"
+  },
+  {
+   "id": "guardian-vin-cius-j-nior-arsenal-doesn-t-make-sense-that-",
+   "slug": "vin-cius-j-nior-to-arsenal-doesn-t-make-sense-that-s-why-it--that-",
+   "title": "Vinícius Júnior to Arsenal doesn’t make sense. That’s why it may work | Jonathan Wilson",
+   "dek": "Mikel Arteta’s team and the Brazilian star could be a perfect match. It also could be a risk that ends in disaster Sometimes what is needed is something different. There…",
+   "description": "Mikel Arteta’s team and the Brazilian star could be a perfect match. It also could be a risk that ends in disaster Sometimes what is needed is something different. There is a long history in football of counterintuitive thinking being successful, of the benefits of creative tension, of adding grit to the oyster to generate the pearl, but even so, the news that talks between Vinícius Júnior and Arsenal on personal terms are progressing comes as something of a shock. Mikel Arteta’s great followers of a blueprint adding a free spirit like the Brazilian? Really? This is an extract from Soccer Desk, a newsletter from the Guardian. Subscribe for free here. Continue reading...",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-08-03T15:00:21.000Z",
+   "fetched_at": "2026-08-03T16:18:43.635Z",
+   "body": [
+    "Our briefing: Mikel Arteta’s team and the Brazilian star could be a perfect match. It also could be a risk that ends in disaster Sometimes what is needed is something different. There…",
+    "Mikel Arteta’s team and the Brazilian star could be a perfect match. It also could be a risk that ends in disaster Sometimes what is needed is something different. There is a long history in football of counterintuitive thinking being successful, of the benefits of creative tension, of adding grit to the oyster to generate the pearl, but even so, the news that talks between Vinícius Júnior and Arsenal on personal terms are progressing comes as something of a shock.",
+    "Mikel Arteta’s great followers of a blueprint adding a free spirit like the Brazilian? Really? This is an extract from Soccer Desk, a newsletter from the Guardian.",
+    "Subscribe for free here. Continue reading...",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Manchester_City_v_Arsenal%2C_League_Cup_2004-5_-_geograph.org.uk_-_3841596.jpg/960px-Manchester_City_v_Arsenal%2C_League_Cup_2004-5_-_geograph.org.uk_-_3841596.jpg",
+   "imageCredit": "Richard Cooke — CC BY-SA 2.0"
   },
   {
    "id": "independent-key-dates-decide-gianni-infantino-s-future-fifa-",
@@ -92,15 +434,15 @@
    "league": "Football",
    "source": "independent",
    "sourceName": "The Independent",
-   "published": "2026-08-03T14:56:23.000Z",
-   "fetched_at": "2026-08-03T15:05:41.541Z",
+   "published": "2026-08-03T14:57:51.000Z",
+   "fetched_at": "2026-08-03T16:18:43.863Z",
    "body": [
     "Our briefing: Infantino is under intense pressure as footballing bodies turn against the Fifa president in the fallout of his botched World Cup sell-off scheme",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Mbombela_Stadium_crowd_leaving.jpg/960px-Mbombela_Stadium_crowd_leaving.jpg",
-   "imageCredit": "Mbombela Stadium crowd leaving.jpg"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "independent-english-fa-withdraw-support-gianni-infantino-aft",
@@ -113,14 +455,43 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-03T14:52:48.000Z",
-   "fetched_at": "2026-08-03T15:05:41.541Z",
+   "fetched_at": "2026-08-03T16:18:43.863Z",
    "body": [
     "Our briefing: Infantino’s position as Fifa president is under heavy scrutiny after his failed plan to sell off the World Cup",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Boys_playing_street_football_in_Egypt.jpg/960px-Boys_playing_street_football_in_Egypt.jpg",
-   "imageCredit": "Boys playing street football in Egypt.jpg"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg",
+   "imageCredit": null
+  },
+  {
+   "id": "guardian-football-daily-scrapped-proposals-statement-wars",
+   "slug": "daily-scrapped-proposals-statement-wars-and-the-ongoing-infa--wars",
+   "title": "Daily | Scrapped proposals, statement wars and the ongoing Infantino furore",
+   "dek": "Sign up now! Sign up now! Sign up now? Sign up now! Here we go again. And, no, we are not talking about the start of the new Scottish Premiership season or the…",
+   "description": "Sign up now! Sign up now! Sign up now? Sign up now! Here we go again. And, no, we are not talking about the start of the new Scottish Premiership season or the preliminary round of the Carabao Cup – although that Tranmere v Rochdale shootout was a cracker. Yes, after a week of talk about money, greed and Donald Trump’s son-in-law’s brother, the hot topic around the water cooler on Monday was again Gianni Infantino and, more specifically, the English and Welsh FAs’ decisions to row back on their support of a stalling ship. Along with Finland, they’re the first of Uefa’s 55 members to withdraw their letters of support for next year’s Fifa overlord elections. I write to you with my deep regret on hearing about the death of the heroic and granite-made Franco Baresi. Two moments stand out to me, both off the pitch, and show what a great man he was. The first was when Arrigo Sacchi, the Milan manager, dropped his intensity in training, fearing he was overworking the players; Baresi convinced Sacchi to up it instead for the sake of the team, with spectacular results. The second was an older Baresi reflecting on his 1994 World Cup final loss to Brazil, which he appeared in 25 days after knee surgery. Rather than lamenting his lot, having missed a penalty and lost the final, Baresi instead recalled watching the 1970 final between Italy and Brazil, only the second game he had seen on TV. The first game was the West Germany v Italy semi-final, where he recalled watching the players who ‘to me, they were Martians’. He said: ‘I would never have thought 24 years later, at 34 years old, I would have the possibility to play in that same game, the final, against Brazil, the same team. It was a dream that came true.’ Rest in peace” – Nick Kinsella. I was wondering if Gianni Infantino might revist his Big Sale Opportunity by allowing smaller, club-level contestants from less lucrative leagues to participate in a seriously revamped World Cup, replacing their boycotting national sides. For instance, from the lower leagues of Scottish competitions. Mainly to render possible the wonderful hypothetical headline result of the last match of the (?) 2038 edition: Fifa Forward Final fiasco … East Fife 4, Forfar 5” – Russell Richardson. Steve Bennett’s comment on Newcastle United’s new kit ( Friday’s Football Daily letters ) made me think of West Bromwich Albion’s similarly ‘bar-coded’ Premier League strip from the 2020-21 season , at the end of which they were relegated. Newcastle may have to hope that isn’t an omen” – Derrick Cameron. This is an extract from our daily football email … Football Daily. To get the full version, just visit this page and follow the instructions . Continue reading...",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-08-03T14:20:20.000Z",
+   "fetched_at": "2026-08-03T16:18:43.636Z",
+   "body": [
+    "Our briefing: Sign up now! Sign up now! Sign up now? Sign up now! Here we go again. And, no, we are not talking about the start of the new Scottish Premiership season or the…",
+    "Sign up now! Sign up now! Sign up now?",
+    "Sign up now! Here we go again. And, no, we are not talking about the start of the new Scottish Premiership season or the preliminary round of the Carabao Cup – although that Tranmere v Rochdale shootout was a cracker.",
+    "Yes, after a week of talk about money, greed and Donald Trump’s son-in-law’s brother, the hot topic around the water cooler on Monday was again Gianni Infantino and, more specifically, the English and Welsh FAs’ decisions to row back on their support of a stalling ship. Along with Finland, they’re the first of Uefa’s 55 members to withdraw their letters of support for next year’s Fifa overlord elections. I write to you with my deep regret on hearing about the death of the heroic and granite-made Franco Baresi.",
+    "Two moments stand out to me, both off the pitch, and show what a great man he was. The first was when Arrigo Sacchi, the Milan manager, dropped his intensity in training, fearing he was overworking the players; Baresi convinced Sacchi to up it instead for the sake of the team, with spectacular results. The second was an older Baresi reflecting on his 1994 World Cup final loss to Brazil, which he appeared in 25 days after knee surgery.",
+    "Rather than lamenting his lot, having missed a penalty and lost the final, Baresi instead recalled watching the 1970 final between Italy and Brazil, only the second game he had seen on TV. The first game was the West Germany v Italy semi-final, where he recalled watching the players who ‘to me, they were Martians’. He said: ‘I would never have thought 24 years later, at 34 years old, I would have the possibility to play in that same game, the final, against Brazil, the same team.",
+    "It was a dream that came true. ’ Rest in peace” – Nick Kinsella. I was wondering if Gianni Infantino might revist his Big Sale Opportunity by allowing smaller, club-level contestants from less lucrative leagues to participate in a seriously revamped World Cup, replacing their boycotting national sides.",
+    "For instance, from the lower leagues of Scottish competitions. Mainly to render possible the wonderful hypothetical headline result of the last match of the (? ) 2038 edition: Fifa Forward Final fiasco … East Fife 4, Forfar 5” – Russell Richardson.",
+    "Steve Bennett’s comment on Newcastle United’s new kit ( Friday’s Football Daily letters ) made me think of West Bromwich Albion’s similarly ‘bar-coded’ Premier League strip from the 2020-21 season , at the end of which they were relegated. Newcastle may have to hope that isn’t an omen” – Derrick Cameron. This is an extract from our daily football email … Football Daily.",
+    "To get the full version, just visit this page and follow the instructions . Continue reading...",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
    "id": "independent-arsenal-have-opening-bid-newcastle-captain-bruno",
@@ -133,14 +504,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-03T14:12:27.000Z",
-   "fetched_at": "2026-08-03T15:05:41.541Z",
+   "fetched_at": "2026-08-03T16:18:43.863Z",
    "body": [
     "Our briefing: The Brazil midfielder has been strongly linked with a move to Arsenal this summer",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Martynas_Isajevas_Arsenal_Football_Club.jpg/960px-Martynas_Isajevas_Arsenal_Football_Club.jpg",
-   "imageCredit": "Martynas Isajevas Arsenal Football Club.jpg"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/NDL11904200_Notice_of_Transfer_of_Equipment_Report_%28Shirahama_Arsenal%2C_Osaka_Arsenal%2C_etc.%29_part2.pdf/page1-960px-NDL11904200_Notice_of_Transfer_of_Equipment_Report_%28Shirahama_Arsenal%2C_Osaka_Arsenal%2C_etc.%29_part2.pdf.jpg",
+   "imageCredit": null
   },
   {
    "id": "bbc-inside-liverpool-s-summer-so-far-should-fans-be-",
@@ -153,15 +524,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-03T14:12:22.000Z",
-   "fetched_at": "2026-08-03T15:05:41.358Z",
+   "fetched_at": "2026-08-03T16:18:43.445Z",
    "body": [
     "Our briefing: BBC Sport's Aadam Patel reports on the latest from the Liverpool tour of the United States.",
     "BBC Sport's Aadam Patel reports on the latest from the Liverpool tour of the United States.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Liverpool_Football_Club_Museum_09.jpg/960px-Liverpool_Football_Club_Museum_09.jpg",
-   "imageCredit": "Liverpool Football Club Museum 09.jpg"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Liverpool_anfield_road_stadium.jpg/960px-Liverpool_anfield_road_stadium.jpg",
+   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
   },
   {
    "id": "espn-transfer-rumors-news-arteta-tries-convince-vin-c",
@@ -174,15 +545,15 @@
    "source": "espn",
    "sourceName": "ESPN FC",
    "published": "2026-08-03T14:04:36.000Z",
-   "fetched_at": "2026-08-03T14:49:38.290Z",
+   "fetched_at": "2026-08-03T16:18:44.148Z",
    "body": [
     "Our briefing: Mikel Arteta has tried to convince Real Madrid star Vinícius Júnior to join Arsenal. Transfer Talk has the latest.",
     "Mikel Arteta has tried to convince Real Madrid star Vinícius Júnior to join Arsenal. Transfer Talk has the latest.",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by ESPN FC."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Martynas_Isajevas_Arsenal_Football_Club.jpg/960px-Martynas_Isajevas_Arsenal_Football_Club.jpg",
-   "imageCredit": "Martynas Isajevas Arsenal Football Club.jpg"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Arsenal_parade_2004_-_women.jpg/960px-Arsenal_parade_2004_-_women.jpg",
+   "imageCredit": null
   },
   {
    "id": "espn-why-infantino-s-plans-sell-off-world-cup-made-no",
@@ -195,15 +566,15 @@
    "source": "espn",
    "sourceName": "ESPN FC",
    "published": "2026-08-03T14:04:24.000Z",
-   "fetched_at": "2026-08-03T14:49:38.290Z",
+   "fetched_at": "2026-08-03T16:18:44.148Z",
    "body": [
     "Our briefing: FIFA president Gianni Infantino has gambled unsuccessfully on questionable ideas before, but his World Cup plans were ham-fisted and delusional from both a business and…",
     "FIFA president Gianni Infantino has gambled unsuccessfully on questionable ideas before, but his World Cup plans were ham-fisted and delusional from both a business and political perspective.",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
     "This summary was compiled from reporting published by ESPN FC."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Boys_playing_street_football_in_Egypt.jpg/960px-Boys_playing_street_football_in_Egypt.jpg",
-   "imageCredit": "Boys playing street football in Egypt.jpg"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   },
   {
    "id": "espn-could-infantino-lose-fifa-presidency",
@@ -216,15 +587,15 @@
    "source": "espn",
    "sourceName": "ESPN FC",
    "published": "2026-08-03T14:04:24.000Z",
-   "fetched_at": "2026-08-03T14:49:38.291Z",
+   "fetched_at": "2026-08-03T16:18:44.148Z",
    "body": [
     "Our briefing: Despite generating unimaginable fortunes for the organization, Gianni Infantino is wearing out his welcome.",
     "Despite generating unimaginable fortunes for the organization, Gianni Infantino is wearing out his welcome.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by ESPN FC."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Mbombela_Stadium_crowd_leaving.jpg/960px-Mbombela_Stadium_crowd_leaving.jpg",
-   "imageCredit": "Mbombela Stadium crowd leaving.jpg"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "bbc-jadon-was-not-trial-club-flixton-dismiss-sancho-",
@@ -237,15 +608,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-03T14:02:43.000Z",
-   "fetched_at": "2026-08-03T15:05:41.358Z",
+   "fetched_at": "2026-08-03T16:18:43.446Z",
    "body": [
     "Our briefing: Non-league Flixton FC set the record straight after former Man Utd winger Jadon Sancho is seen training with the club.",
     "Non-league Flixton FC set the record straight after former Man Utd winger Jadon Sancho is seen training with the club.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Mbombela_Stadium_crowd_leaving.jpg/960px-Mbombela_Stadium_crowd_leaving.jpg",
-   "imageCredit": "Mbombela Stadium crowd leaving.jpg"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "bbc-pochettino-agrees-us-manager-contract-extension",
@@ -258,15 +629,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-03T13:57:06.000Z",
-   "fetched_at": "2026-08-03T15:05:41.358Z",
+   "fetched_at": "2026-08-03T16:18:43.446Z",
    "body": [
     "Our briefing: Mauricio Pochettino agrees a deal to continue as the manager of the United States men's team until 2030.",
     "Mauricio Pochettino agrees a deal to continue as the manager of the United States men's team until 2030.",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mercer_University_Football_Sign.jpg/960px-Mercer_University_Football_Sign.jpg",
-   "imageCredit": "Mercer University Football Sign.jpg"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Badalik_Szabolcs_Hungarian_beach_soccer_player.jpg",
+   "imageCredit": "Badalik Szabolcs — CC BY 4.0"
   },
   {
    "id": "independent-mauricio-pochettino-makes-call-usmnt-future-afte",
@@ -279,14 +650,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-03T13:37:18.000Z",
-   "fetched_at": "2026-08-03T15:05:41.541Z",
+   "fetched_at": "2026-08-03T16:18:43.863Z",
    "body": [
     "Our briefing: The Argentine led USA to the last 16 of the World Cup on home soil this year",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Boys_playing_street_football_in_Egypt.jpg/960px-Boys_playing_street_football_in_Egypt.jpg",
-   "imageCredit": "Boys playing street football in Egypt.jpg"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Tql-stadium_world-cup-qualifier_usmnt-v-mexico_11-12-2021_1903.jpg/960px-Tql-stadium_world-cup-qualifier_usmnt-v-mexico_11-12-2021_1903.jpg",
+   "imageCredit": null
   },
   {
    "id": "independent-ballon-d-or-2026-power-rankings-who-leads-race-a",
@@ -299,14 +670,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-03T13:22:27.000Z",
-   "fetched_at": "2026-08-03T15:05:41.541Z",
+   "fetched_at": "2026-08-03T16:18:43.863Z",
    "body": [
     "Our briefing: Here’s how the top 10 contenders rank in the race to lift the Ballon d’Or in October",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Boys_playing_street_football_in_Egypt.jpg/960px-Boys_playing_street_football_in_Egypt.jpg",
-   "imageCredit": "Boys playing street football in Egypt.jpg"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
    "id": "espn-arsenal-s-new-third-kit-blast-recent-past",
@@ -319,15 +690,15 @@
    "source": "espn",
    "sourceName": "ESPN FC",
    "published": "2026-08-03T13:21:58.000Z",
-   "fetched_at": "2026-08-03T14:49:38.291Z",
+   "fetched_at": "2026-08-03T16:18:44.148Z",
    "body": [
     "Our briefing: Arsenal have rolled out their new third kit for the 2026-27 season, but we would forgive you for thinking that you have seen it before.",
     "Arsenal have rolled out their new third kit for the 2026-27 season, but we would forgive you for thinking that you have seen it before.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by ESPN FC."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Martynas_Isajevas_Arsenal_Football_Club.jpg/960px-Martynas_Isajevas_Arsenal_Football_Club.jpg",
-   "imageCredit": "Martynas Isajevas Arsenal Football Club.jpg"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Arsenal_Stadium_Highbury_east_facade.jpg/960px-Arsenal_Stadium_Highbury_east_facade.jpg",
+   "imageCredit": "No machine-readable author provided. Qwghlm~commonswiki assumed (based on copyright claims). — CC BY-SA 3.0"
   },
   {
    "id": "espn-premier-league-2026-27-kits-ranking-every-jersey",
@@ -340,162 +711,15 @@
    "source": "espn",
    "sourceName": "ESPN FC",
    "published": "2026-08-03T13:21:58.000Z",
-   "fetched_at": "2026-08-03T14:49:38.291Z",
+   "fetched_at": "2026-08-03T16:18:44.148Z",
    "body": [
     "Our briefing: It's still a few weeks before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
     "It's still a few weeks before the new Premier League season begins, but plenty of top clubs have already released some of their 2026-27 kits.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by ESPN FC."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Premier_League_Trophy_at_Manchester%27s_National_Football_Museum_%28Ank_Kumar%29_02.jpg/960px-Premier_League_Trophy_at_Manchester%27s_National_Football_Museum_%28Ank_Kumar%29_02.jpg",
-   "imageCredit": "Premier League Trophy at Manchester's National Football Museum (Ank Kumar) 02.jpg"
-  },
-  {
-   "id": "espn-vin-back-madrid-training-amid-arsenal-links",
-   "slug": "vin-back-in-madrid-training-amid-arsenal-links-links",
-   "title": "Viní back in Madrid training amid Arsenal links",
-   "dek": "Vinícius Júnior returned to Real Madrid training on Monday amid doubts over the star winger's future and links with a possible move to Arsenal.",
-   "description": "Vinícius Júnior returned to Real Madrid training on Monday amid doubts over the star winger's future and links with a possible move to Arsenal.",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "source": "espn",
-   "sourceName": "ESPN FC",
-   "published": "2026-08-03T13:17:50.000Z",
-   "fetched_at": "2026-08-03T14:49:38.290Z",
-   "body": [
-    "Our briefing: Vinícius Júnior returned to Real Madrid training on Monday amid doubts over the star winger's future and links with a possible move to Arsenal.",
-    "Vinícius Júnior returned to Real Madrid training on Monday amid doubts over the star winger's future and links with a possible move to Arsenal.",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by ESPN FC."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Martynas_Isajevas_Arsenal_Football_Club.jpg/960px-Martynas_Isajevas_Arsenal_Football_Club.jpg",
-   "imageCredit": "Martynas Isajevas Arsenal Football Club.jpg"
-  },
-  {
-   "id": "espn-sources-uefa-threatens-infantino-legal-action",
-   "slug": "sources-uefa-threatens-infantino-with-legal-action-ction",
-   "title": "Sources: UEFA threatens Infantino with legal action",
-   "dek": "UEFA has raised the possibility that it could take legal action against Gianni Infantino over his World Cup sell-off plan, sources told ESPN.",
-   "description": "UEFA has raised the possibility that it could take legal action against Gianni Infantino over his World Cup sell-off plan, sources told ESPN.",
-   "category": "News",
-   "league": "Football",
-   "source": "espn",
-   "sourceName": "ESPN FC",
-   "published": "2026-08-03T13:17:50.000Z",
-   "fetched_at": "2026-08-03T14:49:38.290Z",
-   "body": [
-    "Our briefing: UEFA has raised the possibility that it could take legal action against Gianni Infantino over his World Cup sell-off plan, sources told ESPN.",
-    "UEFA has raised the possibility that it could take legal action against Gianni Infantino over his World Cup sell-off plan, sources told ESPN.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by ESPN FC."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Mbombela_Stadium_crowd_leaving.jpg/960px-Mbombela_Stadium_crowd_leaving.jpg",
-   "imageCredit": "Mbombela Stadium crowd leaving.jpg"
-  },
-  {
-   "id": "espn-messi-returns-after-wc-but-miami-held-draw",
-   "slug": "messi-returns-after-wc-but-miami-held-to-draw--draw",
-   "title": "Messi returns after WC but Miami held to draw",
-   "dek": "Lionel Messi made his return to action for Inter Miami on Saturday, paying for the first time since tasting defeat with Argentina in the World Cup final last month.",
-   "description": "Lionel Messi made his return to action for Inter Miami on Saturday, paying for the first time since tasting defeat with Argentina in the World Cup final last month.",
-   "category": "Match Reports",
-   "league": "Football",
-   "source": "espn",
-   "sourceName": "ESPN FC",
-   "published": "2026-08-03T13:17:50.000Z",
-   "fetched_at": "2026-08-03T14:49:38.290Z",
-   "body": [
-    "Our briefing: Lionel Messi made his return to action for Inter Miami on Saturday, paying for the first time since tasting defeat with Argentina in the World Cup final last month.",
-    "Lionel Messi made his return to action for Inter Miami on Saturday, paying for the first time since tasting defeat with Argentina in the World Cup final last month.",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by ESPN FC."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Aerial_view_of_Albert_Park_Lake_and_the_South_Melbourne_Cricket_Ground_in_the_foreground_with_a_football_match_in_progress.jpeg/960px-Aerial_view_of_Albert_Park_Lake_and_the_South_Melbourne_Cricket_Ground_in_the_foreground_with_a_football_match_in_progress.jpeg",
-   "imageCredit": "Aerial view of Albert Park Lake and the South Melbourne Cricket Ground in the foreground with a football match in progress.jpeg"
-  },
-  {
-   "id": "espn-new-chelsea-boss-alonso-madrid-scar-has-healed",
-   "slug": "new-chelsea-boss-alonso-madrid-scar-has-healed-ealed",
-   "title": "New Chelsea boss Alonso: Madrid 'scar' has healed",
-   "dek": "Xabi Alonso said the \"scar\" he suffered from his short tenure at Real Madrid has healed, allowing him to fully focus on taking Chelsea into the new Premier League season.",
-   "description": "Xabi Alonso said the \"scar\" he suffered from his short tenure at Real Madrid has healed, allowing him to fully focus on taking Chelsea into the new Premier League season.",
-   "category": "News",
-   "league": "Premier League",
-   "source": "espn",
-   "sourceName": "ESPN FC",
-   "published": "2026-08-03T13:17:50.000Z",
-   "fetched_at": "2026-08-03T14:49:38.290Z",
-   "body": [
-    "Our briefing: Xabi Alonso said the \"scar\" he suffered from his short tenure at Real Madrid has healed, allowing him to fully focus on taking Chelsea into the new Premier League season.",
-    "Xabi Alonso said the \"scar\" he suffered from his short tenure at Real Madrid has healed, allowing him to fully focus on taking Chelsea into the new Premier League season.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by ESPN FC."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chelsea_Football_Club%2C_Stamford_Bridge_%28Ank_kumar%29_08.jpg/960px-Chelsea_Football_Club%2C_Stamford_Bridge_%28Ank_kumar%29_08.jpg",
-   "imageCredit": "Chelsea Football Club, Stamford Bridge (Ank kumar) 08.jpg"
-  },
-  {
-   "id": "espn-wrexham-end-preseason-loss-sunderland",
-   "slug": "wrexham-end-preseason-with-loss-to-sunderland-rland",
-   "title": "Wrexham end preseason with loss to Sunderland",
-   "dek": "Wrexham ended their pre-season campaign with a 1-0 defeat to Sunderland in Philadelphia.",
-   "description": "Wrexham ended their pre-season campaign with a 1-0 defeat to Sunderland in Philadelphia.",
-   "category": "Match Reports",
-   "league": "Football",
-   "source": "espn",
-   "sourceName": "ESPN FC",
-   "published": "2026-08-03T13:17:50.000Z",
-   "fetched_at": "2026-08-03T14:49:38.290Z",
-   "body": [
-    "Our briefing: Wrexham ended their pre-season campaign with a 1-0 defeat to Sunderland in Philadelphia.",
-    "Wrexham ended their pre-season campaign with a 1-0 defeat to Sunderland in Philadelphia.",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by ESPN FC."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Aerial_view_of_Albert_Park_Lake_and_the_South_Melbourne_Cricket_Ground_in_the_foreground_with_a_football_match_in_progress.jpeg/960px-Aerial_view_of_Albert_Park_Lake_and_the_South_Melbourne_Cricket_Ground_in_the_foreground_with_a_football_match_in_progress.jpeg",
-   "imageCredit": "Aerial view of Albert Park Lake and the South Melbourne Cricket Ground in the foreground with a football match in progress.jpeg"
-  },
-  {
-   "id": "espn-bar-s-flick-will-miss-rashford-after-utd-return",
-   "slug": "bar-a-s-flick-will-miss-rashford-after-utd-return-eturn",
-   "title": "Barça's Flick will 'miss' Rashford after Utd return",
-   "dek": "Barcelona boss Hansi Flick has said he will \"miss\" Marcus Rashford after the Manchester United forward returned to his parent club following a successful loan in Spain.",
-   "description": "Barcelona boss Hansi Flick has said he will \"miss\" Marcus Rashford after the Manchester United forward returned to his parent club following a successful loan in Spain.",
-   "category": "Transfers & Rumours",
-   "league": "Football",
-   "source": "espn",
-   "sourceName": "ESPN FC",
-   "published": "2026-08-03T13:17:50.000Z",
-   "fetched_at": "2026-08-03T14:49:38.290Z",
-   "body": [
-    "Our briefing: Barcelona boss Hansi Flick has said he will \"miss\" Marcus Rashford after the Manchester United forward returned to his parent club following a successful loan in Spain.",
-    "Barcelona boss Hansi Flick has said he will \"miss\" Marcus Rashford after the Manchester United forward returned to his parent club following a successful loan in Spain.",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by ESPN FC."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mercer_University_Football_Sign.jpg/960px-Mercer_University_Football_Sign.jpg",
-   "imageCredit": "Mercer University Football Sign.jpg"
-  },
-  {
-   "id": "espn-sources-inter-miami-not-pursuing-quintero",
-   "slug": "sources-inter-miami-not-pursuing-quintero-ntero",
-   "title": "Sources: Inter Miami not pursuing Quintero",
-   "dek": "Inter Miami has not expressed interest in signing Colombian national team midfielder Juan Fernando Quintero, club sources confirmed to ESPN.",
-   "description": "Inter Miami has not expressed interest in signing Colombian national team midfielder Juan Fernando Quintero, club sources confirmed to ESPN.",
-   "category": "Transfers & Rumours",
-   "league": "Serie A",
-   "source": "espn",
-   "sourceName": "ESPN FC",
-   "published": "2026-08-03T13:17:50.000Z",
-   "fetched_at": "2026-08-03T14:49:38.290Z",
-   "body": [
-    "Our briefing: Inter Miami has not expressed interest in signing Colombian national team midfielder Juan Fernando Quintero, club sources confirmed to ESPN.",
-    "Inter Miami has not expressed interest in signing Colombian national team midfielder Juan Fernando Quintero, club sources confirmed to ESPN.",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by ESPN FC."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Stadio_Giuseppe_Meazza_inter_vs_ac_milan_tifo.jpg/960px-Stadio_Giuseppe_Meazza_inter_vs_ac_milan_tifo.jpg",
-   "imageCredit": "Stadio Giuseppe Meazza inter vs ac milan tifo.jpg"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "espn-argentina-s-barco-joins-chelsea-strasbourg",
@@ -519,27 +743,6 @@
    "imageCredit": "Chelsea Football Club, Stamford Bridge (Ank kumar) 08.jpg"
   },
   {
-   "id": "espn-top-premier-league-teams-transfer-strategies",
-   "slug": "top-premier-league-teams-transfer-strategies-egies",
-   "title": "⚽ Top Premier League teams' transfer strategies",
-   "dek": "Manchester United opted for affordable options, while Chelsea, Man City and Spurs all spent big. Here's the thinking behind the summer's transfer action so far.",
-   "description": "Manchester United opted for affordable options, while Chelsea, Man City and Spurs all spent big. Here's the thinking behind the summer's transfer action so far.",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "source": "espn",
-   "sourceName": "ESPN FC",
-   "published": "2026-08-03T13:17:50.000Z",
-   "fetched_at": "2026-08-03T14:49:38.290Z",
-   "body": [
-    "Our briefing: Manchester United opted for affordable options, while Chelsea, Man City and Spurs all spent big. Here's the thinking behind the summer's transfer action so far.",
-    "Manchester United opted for affordable options, while Chelsea, Man City and Spurs all spent big. Here's the thinking behind the summer's transfer action so far.",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by ESPN FC."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Premier_League_Trophy_at_Manchester%27s_National_Football_Museum_%28Ank_Kumar%29_02.jpg/960px-Premier_League_Trophy_at_Manchester%27s_National_Football_Museum_%28Ank_Kumar%29_02.jpg",
-   "imageCredit": "Premier League Trophy at Manchester's National Football Museum (Ank Kumar) 02.jpg"
-  },
-  {
    "id": "bbc-if-infantino-goes-who-might-replace-him-fifa-pre",
    "slug": "if-infantino-goes-who-might-replace-him-as-fifa-president-a-pre",
    "title": "If Infantino goes, who might replace him as Fifa president?",
@@ -550,15 +753,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-03T13:14:12.000Z",
-   "fetched_at": "2026-08-03T15:05:41.358Z",
+   "fetched_at": "2026-08-03T16:18:43.446Z",
    "body": [
     "Our briefing: Pressure is building on Fifa president Gianni Infantino but if he goes, who comes in?",
     "Pressure is building on Fifa president Gianni Infantino but if he goes, who comes in?",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Premier_League_Trophy_at_Manchester%27s_National_Football_Museum_%28Ank_Kumar%29_02.jpg/960px-Premier_League_Trophy_at_Manchester%27s_National_Football_Museum_%28Ank_Kumar%29_02.jpg",
-   "imageCredit": "Premier League Trophy at Manchester's National Football Museum (Ank Kumar) 02.jpg"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg",
+   "imageCredit": null
   },
   {
    "id": "bbc-casemiro-said-he-wanted-play-us-galaxy-gm",
@@ -571,15 +774,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-03T13:09:02.000Z",
-   "fetched_at": "2026-08-03T15:05:41.359Z",
+   "fetched_at": "2026-08-03T16:18:43.447Z",
    "body": [
     "Our briefing: Los Angeles Galaxy's general manager Will Kuntz says Casemiro told the club he \"only wanted to play for them\" amid investigations into his transfer to Inter Miami.",
     "Los Angeles Galaxy's general manager Will Kuntz says Casemiro told the club he \"only wanted to play for them\" amid investigations into his transfer to Inter Miami.",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mercer_University_Football_Sign.jpg/960px-Mercer_University_Football_Sign.jpg",
-   "imageCredit": "Mercer University Football Sign.jpg"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/LA_Galaxy_vs_Red_Bulls_soccer.jpg/960px-LA_Galaxy_vs_Red_Bulls_soccer.jpg",
+   "imageCredit": null
   },
   {
    "id": "guardian-mauricio-pochettino-agrees-deal-stay-us-coach-th",
@@ -592,7 +795,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-03T13:01:57.000Z",
-   "fetched_at": "2026-08-03T15:05:41.456Z",
+   "fetched_at": "2026-08-03T16:18:43.636Z",
    "body": [
     "Our briefing: Pochettino joined US national team in 2024 Coach led US to last 16 at 2026 World Cup US men’s national team head coach Mauricio Pochettino and the US Soccer Federation…",
     "Pochettino joined US national team in 2024 Coach led US to last 16 at 2026 World Cup US men’s national team head coach Mauricio Pochettino and the US Soccer Federation have agreed to a contract extension that will keep Pochettino attached to the program through 2030, US Soccer announced on Monday. The two sides had been actively engaged in discussions on a contract extension for several months, long before the USMNT’s disappointing, last-16 exit in this summer’s World Cup, with the federation making it clear it desired Pochettino to stay. Conversations picked up in the weeks following the World Cup, with the Guardian reporting last week that the sides had been in the “final stages” of agreeing to a deal.",
@@ -600,8 +803,8 @@
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Boys_playing_street_football_in_Egypt.jpg/960px-Boys_playing_street_football_in_Egypt.jpg",
-   "imageCredit": "Boys playing street football in Egypt.jpg"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Kashima_Soccer_Stadium_6.jpg/960px-Kashima_Soccer_Stadium_6.jpg",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   },
   {
    "id": "guardian-they-are-terrified-como-spark-row-fans-over-cont",
@@ -614,7 +817,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-03T12:53:25.000Z",
-   "fetched_at": "2026-08-03T15:05:41.456Z",
+   "fetched_at": "2026-08-03T16:18:43.636Z",
    "body": [
     "Our briefing: Supporters must not miss more than three home games Serie A club’s chairman defends new rules Como, the surprise package of last season’s Serie A, who qualified for the…",
     "Supporters must not miss more than three home games Serie A club’s chairman defends new rules Como, the surprise package of last season’s Serie A, who qualified for the Champions League for the first time , will revoke season tickets from fans who fail to attend four home matches, under a series of new rules that have sparked a row among supporters. The club, coached by the former Arsenal midfielder Cesc Fàbregas , said on Monday that supporters “who miss more than three home matches without what it considers a valid reason risk having their season tickets revoked”. Another new rule bans fans from wearing the opposing team’s shirts or scarves anywhere in the stadium except the away section.",
@@ -622,8 +825,8 @@
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Mbombela_Stadium_crowd_leaving.jpg/960px-Mbombela_Stadium_crowd_leaving.jpg",
-   "imageCredit": "Mbombela Stadium crowd leaving.jpg"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/1974%E2%80%9375_Como_Calcio_-_Marco_Tardelli.jpg",
+   "imageCredit": null
   },
   {
    "id": "espn-men-s-transfer-grades-chelsea-get-welbeck",
@@ -636,15 +839,15 @@
    "source": "espn",
    "sourceName": "ESPN FC",
    "published": "2026-08-03T12:31:18.000Z",
-   "fetched_at": "2026-08-03T14:49:38.291Z",
+   "fetched_at": "2026-08-03T16:18:44.148Z",
    "body": [
     "Our briefing: The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
     "The 2026 summer transfer window is open. Here is how we rated the biggest deals.",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by ESPN FC."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chelsea_Football_Club%2C_Stamford_Bridge_%28Ank_kumar%29_08.jpg/960px-Chelsea_Football_Club%2C_Stamford_Bridge_%28Ank_kumar%29_08.jpg",
-   "imageCredit": "Chelsea Football Club, Stamford Bridge (Ank kumar) 08.jpg"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Chelsea_Football_Club%2C_Stamford_Bridge_%28Ank_kumar%29_06.jpg/960px-Chelsea_Football_Club%2C_Stamford_Bridge_%28Ank_kumar%29_06.jpg",
+   "imageCredit": "Ank kumar — CC BY-SA 4.0"
   },
   {
    "id": "bbc-celtic-drawn-against-lask-other-scottish-sides-d",
@@ -657,198 +860,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-03T12:25:22.000Z",
-   "fetched_at": "2026-08-03T15:05:41.358Z",
+   "fetched_at": "2026-08-03T16:18:43.445Z",
    "body": [
     "Our briefing: Celtic will play against Austrian champions LASK in the Champions League play-off round as four other Scottish sides discover potential Europa League and Conference…",
     "Celtic will play against Austrian champions LASK in the Champions League play-off round as four other Scottish sides discover potential Europa League and Conference League opponents.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Mbombela_Stadium_crowd_leaving.jpg/960px-Mbombela_Stadium_crowd_leaving.jpg",
-   "imageCredit": "Mbombela Stadium crowd leaving.jpg"
-  },
-  {
-   "id": "independent-celtic-learn-champions-league-play-off-opponents",
-   "slug": "celtic-learn-champions-league-play-off-opponents-nents",
-   "title": "Celtic learn Champions League play-off opponents",
-   "dek": "Martin O'Neill's side will face Austrian side LASK in their Champions League play-off",
-   "description": "Martin O'Neill's side will face Austrian side LASK in their Champions League play-off",
-   "category": "News",
-   "league": "Champions League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-08-03T12:20:40.000Z",
-   "fetched_at": "2026-08-03T15:05:41.541Z",
-   "body": [
-    "Our briefing: Martin O'Neill's side will face Austrian side LASK in their Champions League play-off",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/UEFA_Champions_League_logo.png",
-   "imageCredit": "UEFA Champions League logo.png"
-  },
-  {
-   "id": "bbc-it-s-new-era-past-past-peixoto",
-   "slug": "it-s-a-new-era-the-past-is-the-past-peixoto-ixoto",
-   "title": "It's a new era, the past is the past - Peixoto",
-   "dek": "Wolves head coach Cesar Peixoto says his squad are looking to the future and are not scarred by the past few seasons of struggle at Molineux.",
-   "description": "Wolves head coach Cesar Peixoto says his squad are looking to the future and are not scarred by the past few seasons of struggle at Molineux.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-03T12:10:08.000Z",
-   "fetched_at": "2026-08-03T15:05:41.358Z",
-   "body": [
-    "Our briefing: Wolves head coach Cesar Peixoto says his squad are looking to the future and are not scarred by the past few seasons of struggle at Molineux.",
-    "Wolves head coach Cesar Peixoto says his squad are looking to the future and are not scarred by the past few seasons of struggle at Molineux.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Mbombela_Stadium_crowd_leaving.jpg/960px-Mbombela_Stadium_crowd_leaving.jpg",
-   "imageCredit": "Mbombela Stadium crowd leaving.jpg"
-  },
-  {
-   "id": "independent-transfer-news-live-arsenal-s-guimaraes-bid-rejec",
-   "slug": "news-live-arsenal-s-guimaraes-bid-rejected-vinicius-jr-deal--rejec",
-   "title": "news LIVE: Arsenal’s Guimaraes bid rejected, Vinicius Jr deal close, Man Utd target left-back",
-   "dek": "All of the latest transfer gossip and done deals as a busy window continues",
-   "description": "All of the latest transfer gossip and done deals as a busy window continues",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-08-03T11:47:50.000Z",
-   "fetched_at": "2026-08-03T15:05:41.541Z",
-   "body": [
-    "Our briefing: All of the latest transfer gossip and done deals as a busy window continues",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Martynas_Isajevas_Arsenal_Football_Club.jpg/960px-Martynas_Isajevas_Arsenal_Football_Club.jpg",
-   "imageCredit": "Martynas Isajevas Arsenal Football Club.jpg"
-  },
-  {
-   "id": "independent-uefa-leads-push-force-gianni-infantino-resignati",
-   "slug": "uefa-leads-push-to-force-gianni-infantino-resignation-after--gnati",
-   "title": "Uefa leads push to force Gianni Infantino resignation after World Cup plan collapses",
-   "dek": "The Fifa President is under pressure after the collapse of his plans to sell off part of the World Cup, with associations starting to withdraw their endorsement letters…",
-   "description": "The Fifa President is under pressure after the collapse of his plans to sell off part of the World Cup, with associations starting to withdraw their endorsement letters for the Swiss official to run for another term",
-   "category": "Match Reports",
-   "league": "International",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-08-03T10:58:01.000Z",
-   "fetched_at": "2026-08-03T15:05:41.541Z",
-   "body": [
-    "Our briefing: The Fifa President is under pressure after the collapse of his plans to sell off part of the World Cup, with associations starting to withdraw their endorsement letters…",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Boys_playing_street_football_in_Egypt.jpg/960px-Boys_playing_street_football_in_Egypt.jpg",
-   "imageCredit": "Boys playing street football in Egypt.jpg"
-  },
-  {
-   "id": "bbc-spurs-make-osimhen-approach-monday-s-gossip",
-   "slug": "spurs-make-osimhen-approach-monday-s-gossip-ossip",
-   "title": "Spurs make Osimhen approach - Monday's gossip",
-   "dek": "Tottenham make an approach for Victor Osimhen, Atletico Madrid consider a move for Manchester City winger Jack Grealish, Liverpool forward Cody Gakpo has positive talks…",
-   "description": "Tottenham make an approach for Victor Osimhen, Atletico Madrid consider a move for Manchester City winger Jack Grealish, Liverpool forward Cody Gakpo has positive talks with Spurs, plus more.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-03T10:54:44.000Z",
-   "fetched_at": "2026-08-03T15:05:41.359Z",
-   "body": [
-    "Our briefing: Tottenham make an approach for Victor Osimhen, Atletico Madrid consider a move for Manchester City winger Jack Grealish, Liverpool forward Cody Gakpo has positive talks…",
-    "Tottenham make an approach for Victor Osimhen, Atletico Madrid consider a move for Manchester City winger Jack Grealish, Liverpool forward Cody Gakpo has positive talks with Spurs, plus more.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Mbombela_Stadium_crowd_leaving.jpg/960px-Mbombela_Stadium_crowd_leaving.jpg",
-   "imageCredit": "Mbombela Stadium crowd leaving.jpg"
-  },
-  {
-   "id": "independent-andoni-iraola-allays-jeremie-frimpong-injury-fea",
-   "slug": "andoni-iraola-allays-jeremie-frimpong-injury-fears-after-liv-y-fea",
-   "title": "Andoni Iraola allays Jeremie Frimpong injury fears after Liverpool’s collapse against Leeds",
-   "dek": "Frimpong came off 13 minutes from time in Liverpool’s pre-season defeat to Leeds but Iraola is hopeful the problem is nothing more than ‘overload’",
-   "description": "Frimpong came off 13 minutes from time in Liverpool’s pre-season defeat to Leeds but Iraola is hopeful the problem is nothing more than ‘overload’",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-08-03T10:36:50.000Z",
-   "fetched_at": "2026-08-03T15:05:41.541Z",
-   "body": [
-    "Our briefing: Frimpong came off 13 minutes from time in Liverpool’s pre-season defeat to Leeds but Iraola is hopeful the problem is nothing more than ‘overload’",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Liverpool_Football_Club_Museum_09.jpg/960px-Liverpool_Football_Club_Museum_09.jpg",
-   "imageCredit": "Liverpool Football Club Museum 09.jpg"
-  },
-  {
-   "id": "independent-newcastle-sign-goalkeeper-lukas-hornicek-braga-p",
-   "slug": "newcastle-sign-goalkeeper-lukas-hornicek-from-braga-as-post--aga-p",
-   "title": "Newcastle sign goalkeeper Lukas Hornicek from Braga as post-Eddie Howe era begins",
-   "dek": "Hornicek arrives at Newcastle three days after the club confirmed the departure of manager Eddie Howe",
-   "description": "Hornicek arrives at Newcastle three days after the club confirmed the departure of manager Eddie Howe",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-08-03T10:25:38.000Z",
-   "fetched_at": "2026-08-03T15:05:41.541Z",
-   "body": [
-    "Our briefing: Hornicek arrives at Newcastle three days after the club confirmed the departure of manager Eddie Howe",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Newcastle_United_F.C._1960.jpg/960px-Newcastle_United_F.C._1960.jpg",
-   "imageCredit": "Newcastle United F.C. 1960.jpg"
-  },
-  {
-   "id": "guardian-worn-usa-liverpool-s-pre-season-tour-had-highs-b",
-   "slug": "worn-in-the-usa-liverpool-s-pre-season-tour-had-highs-but-ex-ghs-b",
-   "title": "Worn in the USA: Liverpool’s pre-season tour had highs but exposed glaring gaps in the squad | Andy Hunter",
-   "dek": "Teenager Nyoni excelled in Andoni Iraola’s first pre-season tour, but the head coach desperately needs transfers Andoni Iraola’s first pre-season tour as the Liverpool…",
-   "description": "Teenager Nyoni excelled in Andoni Iraola’s first pre-season tour, but the head coach desperately needs transfers Andoni Iraola’s first pre-season tour as the Liverpool head coach produced wins over Sunderland in Nashville and Wrexham in New York before ending in a 4-2 defeat against Leeds in Chicago. The Guardian followed the tour throughout and here are a few things we learned. Continue reading...",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-08-03T10:23:25.000Z",
-   "fetched_at": "2026-08-03T15:05:41.456Z",
-   "body": [
-    "Our briefing: Teenager Nyoni excelled in Andoni Iraola’s first pre-season tour, but the head coach desperately needs transfers Andoni Iraola’s first pre-season tour as the Liverpool…",
-    "Teenager Nyoni excelled in Andoni Iraola’s first pre-season tour, but the head coach desperately needs transfers Andoni Iraola’s first pre-season tour as the Liverpool head coach produced wins over Sunderland in Nashville and Wrexham in New York before ending in a 4-2 defeat against Leeds in Chicago. The Guardian followed the tour throughout and here are a few things we learned. Continue reading...",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Liverpool_Football_Club_Museum_09.jpg/960px-Liverpool_Football_Club_Museum_09.jpg",
-   "imageCredit": "Liverpool Football Club Museum 09.jpg"
-  },
-  {
-   "id": "independent-fifa-world-cup-sell-off-live-infantino-future-fi",
-   "slug": "fifa-world-cup-sell-off-live-infantino-future-as-fifa-presid-re-fi",
-   "title": "Fifa World Cup sell-off LIVE: Infantino future as Fifa president in doubt after English FA withdraws support",
-   "dek": "Uefa says it has lost confidence in Infantino as Fifa president after his ‘shabby, back-room, opaque deal’ to try and sell off stakes in the World Cup to private…",
-   "description": "Uefa says it has lost confidence in Infantino as Fifa president after his ‘shabby, back-room, opaque deal’ to try and sell off stakes in the World Cup to private investment",
-   "category": "Injuries",
-   "league": "International",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-08-03T10:20:07.000Z",
-   "fetched_at": "2026-08-03T15:05:41.541Z",
-   "body": [
-    "Our briefing: Uefa says it has lost confidence in Infantino as Fifa president after his ‘shabby, back-room, opaque deal’ to try and sell off stakes in the World Cup to private…",
-    "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Boys_playing_street_football_in_Egypt.jpg/960px-Boys_playing_street_football_in_Egypt.jpg",
-   "imageCredit": "Boys playing street football in Egypt.jpg"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Celtic_Park_during_an_Old_Firm_derby_between_Celtic_FC_and_Rangers_FC.jpg/960px-Celtic_Park_during_an_Old_Firm_derby_between_Celtic_FC_and_Rangers_FC.jpg",
+   "imageCredit": "Vincenzo.togni — CC BY-SA 4.0"
   }
  ]
 }

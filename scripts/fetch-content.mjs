@@ -131,17 +131,24 @@ const TEAM_SEARCH = [
   ['sevilla', 'Sevilla'], ['valencia', 'Valencia CF'], ['villarreal', 'Villarreal'], ['real sociedad', 'Real Sociedad'],
   ['juventus', 'Juventus'], ['ac milan', 'AC Milan'], ['inter ', 'Inter Milan'], ['napoli', 'Napoli'], ['roma', 'AS Roma'],
   ['lazio', 'Lazio'], ['atalanta', 'Atalanta'], ['bayern', 'Bayern Munich'], ['dortmund', 'Borussia Dortmund'],
-  ['leipzig', 'RB Leipzig'], ['leverkusen', 'Bayer Leverkusen'], ['psg', 'Paris Saint-Germain'], ['paris saint', 'Paris Saint-Germain'],
+  ['leipzig', 'RB Leipzig'],   ['leverkusen', 'Bayer Leverkusen'], ['psg', 'Paris Saint-Germain'], ['paris saint', 'Paris Saint-Germain'],
   ['marseille', 'Olympique Marseille'], ['lyon', 'Olympique Lyonnais'], ['monaco', 'AS Monaco'],
+  ['celtic', 'Celtic FC'], ['rangers', 'Rangers FC'], ['galaxy', 'LA Galaxy'], ['lask', 'LASK'],
+  ['como', 'Como 1907'], ['fenerbahce', 'Fenerbahçe'], ['fenerbahçe', 'Fenerbahçe'], ['galatasaray', 'Galatasaray'],
+  ['psv', 'PSV Eindhoven'], ['club brugge', 'Club Brugge'], ['red star', 'Red Star Belgrade'],
+  ['slovan', 'Slovan Bratislava'], ['young boys', 'Young Boys'], ['sparta prague', 'Sparta Prague'],
+  ['shakhtar', 'Shakhtar Donetsk'], ['feyenoord', 'Feyenoord'], ['porto', 'FC Porto'],
+  ['benfica', 'Benfica'], ['sporting lisbon', 'Sporting CP'], ['milan', 'AC Milan'],
+  ['usmnt', 'USMNT'], ['united states men', 'USMNT'], ['usa women', 'USWNT'],
 ]
 
 const CATEGORY_IMAGE = {
-  'Transfers & Rumours': 'football transfer signing',
-  'Match Reports': 'football match action stadium',
-  'Injuries': 'football player injury grass',
-  'Tactics & Analysis': 'football tactical formation pitch',
-  'Previews': 'football team line up',
-  'News': 'football stadium crowd',
+  'Transfers & Rumours': 'soccer player',
+  'Match Reports': 'soccer match',
+  'Injuries': 'soccer injury',
+  'Tactics & Analysis': 'soccer stadium',
+  'Previews': 'soccer team',
+  'News': 'soccer stadium crowd',
 }
 
 const isFootball = (text) => !NON_FOOTBALL_RULES.some((w) => (' ' + text.toLowerCase() + ' ').includes(w))
@@ -183,57 +190,113 @@ function buildBody(article) {
   return pars
 }
 
-/* ---------------- images (Wikimedia Commons, free, hotlinkable) ---------------- */
+/* ---------------- images (Wikimedia Commons, free & attribution-safe, hotlinkable) ----------------
+   Copyright strategy: prefer Public Domain / CC0 images (no attribution needed).
+   Accept CC BY / CC BY-SA / CC BY-ND (attribution kept in data, shown as a small
+   caption below the hero image — never overlaid on the photo). Reject CC BY-NC
+   and anything non-free. Relevance: for team stories the photo file must mention
+   the club name; logos/crests/badges/maps etc. are excluded. */
 
 const photoCache = new Map()
+const usedImages = new Set()
 
-async function commonsPhoto(query) {
-  if (photoCache.has(query)) return photoCache.get(query)
+const BAD_FILE_WORDS = /(logo|crest|badge|emblem|wappen|coat of arms|shield|kit |jersey|t-shirt|scarf|certificate|programme|program |ticket|stamp|poster|screenshot|map |flag of|roundel|match ball|american football|gridiron|super bowl|\bnfl\b|guide|novel|fortune|archive\.org)/i
+
+const RELEVANT_WORDS = ['soccer', 'stadium', 'match', 'player', 'crowd', 'derby', 'cup', 'league', 'training', 'goal', 'pitch', 'fans', 'coach', 'final', 'champion', 'striker', 'goalkeeper']
+
+const stripTags = (s) => String(s || '').replace(/<[^>]*>/g, '').replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&').replace(/&#0?39;/g, "'").replace(/&quot;/g, '"').replace(/\s+/g, ' ').trim()
+
+const licenseKind = (lic) => {
+  const l = (lic || '').toLowerCase()
+  if (/(public domain|cc[- ]?0|cc-zero|no restrictions)/.test(l)) return 'free'
+  if (/^(cc( |[-]?by| by|by-)(sa|nd)?)/.test(l) && !/nc/.test(l)) return 'attrib'
+  if (/\bgfdl\b/.test(l)) return 'attrib'
+  return null
+}
+
+async function commonsPhoto(query, opts = {}) {
+  const key = query + '|' + (opts.require ? opts.require.join(',') : '') + '|' + (opts.any ? 1 : 0)
+  if (photoCache.has(key)) return photoCache.get(key)
   const url = 'https://commons.wikimedia.org/w/api.php?' + new URLSearchParams({
     action: 'query', format: 'json', generator: 'search',
-    gsrsearch: query, gsrnamespace: '6', gsrlimit: '5',
-    prop: 'imageinfo', iiprop: 'url', iiurlwidth: '900',
+    gsrsearch: query, gsrnamespace: '6', gsrlimit: '6',
+    prop: 'imageinfo', iiprop: 'url|size|extmetadata', iiurlwidth: '900',
   })
-  let result = null
+  const out = []
   try {
     const r = await fetch(url, { headers: UA, signal: AbortSignal.timeout(8000) })
     const j = await r.json()
     const pages = j.query && j.query.pages
     if (pages) {
-      const vals = Object.values(pages).sort((a, b) => (a.index || 9) - (b.index || 9))
+      const vals = Object.values(pages).sort((a, b) => (a.index || 99) - (b.index || 99))
       for (const v of vals) {
         const ii = v.imageinfo && v.imageinfo[0]
-        if (ii && ii.thumburl && !/\.svg($|\?)/i.test(v.title)) {
-          result = { url: ii.thumburl, credit: v.title.replace(/^File:/, '') }
-          break
-        }
+        if (!ii || !ii.thumburl) continue
+        if (!/\.(jpe?g|png)(\?|$)/i.test(ii.thumburl)) continue
+        if (ii.width && ii.width < (opts.minWidth || 800)) continue
+        const fileTitle = v.title.replace(/^File:/, '')
+        if (BAD_FILE_WORDS.test(fileTitle)) continue
+        if (opts.require && !opts.require.some((r) => fileTitle.toLowerCase().includes(r))) continue
+        if (opts.any && !RELEVANT_WORDS.some((w) => fileTitle.toLowerCase().includes(w))) continue
+        const meta = ii.extmetadata || {}
+        const lic = (meta.LicenseShortName && meta.LicenseShortName.value) || ''
+        const kind = licenseKind(lic)
+        if (!kind) continue
+        const artist = stripTags(meta.Artist && meta.Artist.value)
+        if (kind === 'attrib' && (!artist || /\.(jpe?g|png)$/i.test(artist))) continue
+        out.push({
+          url: ii.thumburl,
+          credit: kind === 'attrib' && artist ? `${artist} — ${lic}` : null,
+        })
       }
     }
   } catch (e) { /* no image */ }
-  photoCache.set(query, result)
-  return result
+  photoCache.set(key, out)
+  return out
 }
 
-const searchFor = (article) => {
+const CATEGORY_KEYWORD = {
+  'Transfers & Rumours': 'transfer',
+  'Match Reports': 'match',
+  'Injuries': 'injury',
+  'Tactics & Analysis': 'stadium',
+  'Previews': 'match',
+  'News': 'stadium',
+}
+
+function queriesFor(article) {
   const t = article.title.toLowerCase()
-  for (const [k, name] of TEAM_SEARCH) if (t.includes(k)) return `${name} football`
-  const league = article.league
-  if (league && league !== 'Football') return `${league} football`
-  return CATEGORY_IMAGE[article.category] || 'football stadium crowd'
+  let team = ''
+  let teamKey = ''
+  for (const [k, name] of TEAM_SEARCH) if (t.includes(k)) { team = name; teamKey = k.trim(); break }
+  const kw = CATEGORY_KEYWORD[article.category] || 'football'
+  const qs = []
+  if (team) {
+    const req = [team.toLowerCase(), teamKey].filter(Boolean)
+    qs.push({ q: `${team} ${kw}`, require: req })
+    qs.push({ q: `${team} soccer`, require: req })
+    qs.push({ q: `${team} stadium`, require: req })
+    qs.push({ q: `${team} football`, require: req })
+  }
+  qs.push({ q: CATEGORY_IMAGE[article.category] || 'soccer stadium crowd', any: true })
+  qs.push({ q: 'soccer match', any: true })
+  qs.push({ q: 'soccer stadium', any: true })
+  qs.push({ q: 'soccer fans', any: true })
+  return qs
 }
 
-const sleep = (ms) => new Promise((res) => setTimeout(res, ms))
-
-async function attachImage(article, isNew) {
-  if (!isNew) return
+async function attachImage(article) {
   try {
-    let photo = await commonsPhoto(searchFor(article))
-    if (!photo) photo = await commonsPhoto(CATEGORY_IMAGE[article.category] || 'football stadium crowd')
-    if (photo) {
-      article.image = photo.url
-      article.imageCredit = photo.credit
+    for (const { q, require, any } of queriesFor(article)) {
+      const photos = await commonsPhoto(q, { require, any })
+      const pick = photos.find((p) => !usedImages.has(p.url))
+      if (pick) {
+        usedImages.add(pick.url)
+        article.image = pick.url
+        article.imageCredit = pick.credit
+        break
+      }
     }
-    await sleep(250)
   } catch (e) { /* keep no image */ }
 }
 
@@ -345,7 +408,6 @@ async function main() {
   for (const a of fresh) {
     a.dek = a.dek || excerptOf(a.description)
     a.body = buildBody(a)
-    await attachImage(a, true)
   }
   for (const a of old) {
     const p = prevById.get(a.id)
@@ -355,6 +417,11 @@ async function main() {
   }
 
   const merged = [...fresh, ...old].sort((a, b) => (b.published || '').localeCompare(a.published || '')).slice(0, MAX_ARTICLES)
+
+  /* images only for the stories that will actually ship */
+  for (const a of merged) {
+    if (!a.image) await attachImage(a)
+  }
 
   const runCount = Math.floor(Date.now() / 60000)
   const hero = merged[runCount % Math.max(1, Math.min(6, merged.length))] || merged[0] || null
