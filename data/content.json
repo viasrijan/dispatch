@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-03T10:50:09.498Z",
- "updated_utc": "2026-08-03T10:50Z",
- "cycle": 29762570,
+ "generated_at": "2026-08-03T13:41:42.486Z",
+ "updated_utc": "2026-08-03T13:41Z",
+ "cycle": 29762741,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,8 +16,99 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "independent-newcastle-sign-goalkeeper-lukas-hornicek-from-br",
+ "hero_id": "guardian-they-are-terrified-como-spark-row-with-fans-over",
  "articles": [
+  {
+   "id": "independent-mauricio-pochettino-makes-call-usmnt-future-afte",
+   "title": "Mauricio Pochettino makes call on USMNT future after turbulent World Cup",
+   "link": "https://www.independent.co.uk/sport/football/mauricio-pochettino-usa-football-team-2030-world-cup-b3026512.html",
+   "excerpt": "The Argentine led USA to the last 16 of the World Cup on home soil this year",
+   "body": "The Argentine led USA to the last 16 of the World Cup on home soil this year",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "category": "News",
+   "league": "International",
+   "published": "2026-08-03T13:37:18.000Z",
+   "fetched_at": "2026-08-03T13:41:42.315Z"
+  },
+  {
+   "id": "independent-ballon-d-or-2026-power-rankings-who-leads-race-a",
+   "title": "Ballon d’Or 2026 power rankings: Who leads the race after the World Cup?",
+   "link": "https://www.independent.co.uk/sport/football/ballon-dor-contenders-power-rankings-odds-yamal-rodri-dembele-mbappe-b3024683.html",
+   "excerpt": "Here’s how the top 10 contenders rank in the race to lift the Ballon d’Or in October",
+   "body": "Here’s how the top 10 contenders rank in the race to lift the Ballon d’Or in October",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "category": "Tactics & Analysis",
+   "league": "International",
+   "published": "2026-08-03T13:22:27.000Z",
+   "fetched_at": "2026-08-03T13:41:42.315Z"
+  },
+  {
+   "id": "bbc-if-infantino-goes-who-might-replace-him-fifa-pre",
+   "title": "If Infantino goes, who might replace him as Fifa president?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cvgwvdvwn80o?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Pressure is building on Fifa president Gianni Infantino but if he goes, who comes in?",
+   "body": "Pressure is building on Fifa president Gianni Infantino but if he goes, who comes in?",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "category": "News",
+   "league": "Premier League",
+   "published": "2026-08-03T13:14:12.000Z",
+   "fetched_at": "2026-08-03T13:41:41.926Z"
+  },
+  {
+   "id": "bbc-casemiro-said-he-wanted-play-us-galaxy-gm",
+   "title": "Casemiro said he wanted to play for us - Galaxy GM",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cx27plpx2glo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Los Angeles Galaxy's general manager Will Kuntz says Casemiro told the club he \"only wanted to play for them\" amid investigations into his transfer to Inter Miami.",
+   "body": "Los Angeles Galaxy's general manager Will Kuntz says Casemiro told the club he \"only wanted to play for them\" amid investigations into his transfer to Inter Miami.",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "category": "Transfers & Rumours",
+   "league": "Football",
+   "published": "2026-08-03T13:09:02.000Z",
+   "fetched_at": "2026-08-03T13:41:41.926Z"
+  },
+  {
+   "id": "guardian-mauricio-pochettino-agrees-deal-stay-us-coach-th",
+   "title": "Mauricio Pochettino agrees deal to stay as US coach through World Cup 2030",
+   "link": "https://www.theguardian.com/football/2026/aug/03/mauricio-pochettino-new-contract-us-soccer-world-cup",
+   "excerpt": "Pochettino joined US national team in 2024 Coach led US to last 16 at 2026 World Cup US men’s national team head coach Mauricio Pochettino and the US Soccer Federation…",
+   "body": "Pochettino joined US national team in 2024 Coach led US to last 16 at 2026 World Cup US men’s national team head coach Mauricio Pochettino and the US Soccer Federation have agreed to a contract extension that will keep Pochettino attached to the program through 2030, US Soccer announced on Monday. The two sides had been actively engaged in discussions on a contract extension for several months, long before the USMNT’s disappointing, last-16 exit in this summer’s World Cup, with the federation making it clear it desired Pochettino to stay. Conversations picked up in the weeks following the World Cup, with the Guardian reporting last week that the sides had been in the “final stages” of agreeing to a deal. Financial details of the contract extension were not released, but Pochettino is expected to get a raise on top of the $6m per year he earned under his previous deal with the federation – already the largest outlay for a US head coach. Continue reading...",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "category": "Transfers & Rumours",
+   "league": "International",
+   "published": "2026-08-03T13:01:57.000Z",
+   "fetched_at": "2026-08-03T13:41:42.022Z"
+  },
+  {
+   "id": "guardian-they-are-terrified-como-spark-row-with-fans-over",
+   "title": "‘They are terrified’: Como spark row with fans over controversial new stadium policy",
+   "link": "https://www.theguardian.com/football/2026/aug/03/they-are-terrified-como-spark-row-with-fans-over-controversial-new-stadium-policy",
+   "excerpt": "Supporters must not miss more than three home games Serie A club’s chairman defends harsh new rules The surprise package of last season’s Serie A, Como, who qualified…",
+   "body": "Supporters must not miss more than three home games Serie A club’s chairman defends harsh new rules The surprise package of last season’s Serie A, Como, who qualified for the Champions League for the first time in the club’s history , will revoke season tickets from fans who fail to attend four home matches, under a series of new rules that have sparked a row among supporters. In a statement issued on Monday the club, coached by the former Arsenal midfielder Cesc Fàbregas , said its supporters “who miss more than three home matches without what it considers a valid reason risk having their season tickets revoked”. Another new rule bans fans from wearing the opposing team’s shirts or scarves anywhere in the stadium except the away section. Continue reading...",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "category": "News",
+   "league": "Football",
+   "published": "2026-08-03T12:53:25.000Z",
+   "fetched_at": "2026-08-03T13:41:42.022Z"
+  },
+  {
+   "id": "bbc-celtic-drawn-against-lask-other-scottish-sides-d",
+   "title": "Celtic drawn against LASK as other Scottish sides discover opponents",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cddjm88m4vno?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Celtic will play against Austrian champions LASK in the Champions League play-off round as four other Scottish sides discover potential Europa League and Conference…",
+   "body": "Celtic will play against Austrian champions LASK in the Champions League play-off round as four other Scottish sides discover potential Europa League and Conference League opponents",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "category": "News",
+   "league": "Football",
+   "published": "2026-08-03T12:25:22.000Z",
+   "fetched_at": "2026-08-03T13:41:41.926Z"
+  },
   {
    "id": "independent-celtic-learn-champions-league-play-off-opponents",
    "title": "Celtic learn Champions League play-off opponents",
@@ -28,8 +119,60 @@
    "sourceName": "The Independent",
    "category": "News",
    "league": "Champions League",
-   "published": "2026-08-03T10:44:04.000Z",
-   "fetched_at": "2026-08-03T10:50:09.336Z"
+   "published": "2026-08-03T12:20:40.000Z",
+   "fetched_at": "2026-08-03T13:41:42.315Z"
+  },
+  {
+   "id": "bbc-it-s-new-era-past-past-peixoto",
+   "title": "It's a new era, the past is the past - Peixoto",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwyr9y0528go?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Wolves head coach Cesar Peixoto says his squad are looking to the future and are not scarred by the past few seasons of struggle at Molineux.",
+   "body": "Wolves head coach Cesar Peixoto says his squad are looking to the future and are not scarred by the past few seasons of struggle at Molineux.",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "category": "News",
+   "league": "Football",
+   "published": "2026-08-03T12:10:08.000Z",
+   "fetched_at": "2026-08-03T13:41:41.926Z"
+  },
+  {
+   "id": "independent-transfer-news-live-arsenal-s-guimaraes-bid-rejec",
+   "title": "Transfer news LIVE: Arsenal’s Guimaraes bid rejected, Vinicius Jr deal close, Man Utd target left-back",
+   "link": "https://www.independent.co.uk/sport/football/transfer-news-live-arsenal-vinicius-man-united-lewis-hall-bruno-guimaraes-b3026196.html",
+   "excerpt": "All of the latest transfer gossip and done deals as a busy window continues",
+   "body": "All of the latest transfer gossip and done deals as a busy window continues",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "category": "Transfers & Rumours",
+   "league": "Premier League",
+   "published": "2026-08-03T11:47:50.000Z",
+   "fetched_at": "2026-08-03T13:41:42.315Z"
+  },
+  {
+   "id": "independent-uefa-leads-push-force-gianni-infantino-resignati",
+   "title": "Uefa leads push to force Gianni Infantino resignation after World Cup plan collapses",
+   "link": "https://www.independent.co.uk/sport/football/gianni-infantino-fifa-president-world-cup-uefa-trump-b3026363.html",
+   "excerpt": "The Fifa President is under pressure after the collapse of his plans to sell off part of the World Cup, with associations starting to withdraw their endorsement letters…",
+   "body": "The Fifa President is under pressure after the collapse of his plans to sell off part of the World Cup, with associations starting to withdraw their endorsement letters for the Swiss official to run for another term",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "category": "Match Reports",
+   "league": "International",
+   "published": "2026-08-03T10:58:01.000Z",
+   "fetched_at": "2026-08-03T13:41:42.315Z"
+  },
+  {
+   "id": "bbc-spurs-make-osimhen-approach-monday-s-gossip",
+   "title": "Spurs make Osimhen approach - Monday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cn7n66edplno?at_medium=RSS&at_campaign=rss",
+   "excerpt": "Tottenham make an approach for Victor Osimhen, Atletico Madrid consider a move for Manchester City winger Jack Grealish, Liverpool forward Cody Gakpo has positive talks…",
+   "body": "Tottenham make an approach for Victor Osimhen, Atletico Madrid consider a move for Manchester City winger Jack Grealish, Liverpool forward Cody Gakpo has positive talks with Spurs, plus more.",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "category": "News",
+   "league": "Football",
+   "published": "2026-08-03T10:54:44.000Z",
+   "fetched_at": "2026-08-03T13:41:41.926Z"
   },
   {
    "id": "independent-andoni-iraola-allays-jeremie-frimpong-injury-fea",
@@ -42,7 +185,7 @@
    "category": "Match Reports",
    "league": "Premier League",
    "published": "2026-08-03T10:36:50.000Z",
-   "fetched_at": "2026-08-03T10:50:09.336Z"
+   "fetched_at": "2026-08-03T13:41:42.315Z"
   },
   {
    "id": "independent-newcastle-sign-goalkeeper-lukas-hornicek-from-br",
@@ -55,20 +198,20 @@
    "category": "Transfers & Rumours",
    "league": "Premier League",
    "published": "2026-08-03T10:25:38.000Z",
-   "fetched_at": "2026-08-03T10:50:09.336Z"
+   "fetched_at": "2026-08-03T13:41:42.315Z"
   },
   {
    "id": "guardian-worn-usa-liverpool-s-pre-season-tour-had-highs-b",
    "title": "Worn in the USA: Liverpool’s pre-season tour had highs but exposed glaring gaps in the squad | Andy Hunter",
    "link": "https://www.theguardian.com/football/2026/aug/03/liverpool-pre-season-usa-tour-exposed-squad-gaps",
    "excerpt": "Teenager Nyoni excelled in Andoni Iraola’s first pre-season tour, but the head coach desperately needs transfers Andoni Iraola’s first pre-season tour as the Liverpool…",
-   "body": "Teenager Nyoni excelled in Andoni Iraola’s first pre-season tour, but the head coach desperately needs transfers Andoni Iraola’s first pre-season tour as the Liverpool head coach produced wins over Sunderland in Nashville and Wrexham in New York before ending in a 4-2 defeat against Leeds in Chicago. The Guardian followed the tour throughout, and here are a few things we learned. Continue reading...",
+   "body": "Teenager Nyoni excelled in Andoni Iraola’s first pre-season tour, but the head coach desperately needs transfers Andoni Iraola’s first pre-season tour as the Liverpool head coach produced wins over Sunderland in Nashville and Wrexham in New York before ending in a 4-2 defeat against Leeds in Chicago. The Guardian followed the tour throughout and here are a few things we learned. Continue reading...",
    "source": "guardian",
    "sourceName": "The Guardian",
    "category": "Transfers & Rumours",
    "league": "Premier League",
    "published": "2026-08-03T10:23:25.000Z",
-   "fetched_at": "2026-08-03T10:50:09.182Z"
+   "fetched_at": "2026-08-03T13:41:42.022Z"
   },
   {
    "id": "independent-fifa-world-cup-sell-off-live-infantino-future-fi",
@@ -81,7 +224,7 @@
    "category": "Injuries",
    "league": "International",
    "published": "2026-08-03T10:20:07.000Z",
-   "fetched_at": "2026-08-03T10:50:09.336Z"
+   "fetched_at": "2026-08-03T13:41:42.315Z"
   },
   {
    "id": "bbc-celtic-drawn-against-lask-champions-league-play-",
@@ -107,7 +250,7 @@
    "category": "Match Reports",
    "league": "Premier League",
    "published": "2026-08-03T10:07:30.000Z",
-   "fetched_at": "2026-08-03T10:50:09.336Z"
+   "fetched_at": "2026-08-03T13:41:42.315Z"
   },
   {
    "id": "espn-game-changers-how-ea-sports-made-video-game-epic",
@@ -133,7 +276,7 @@
    "category": "Transfers & Rumours",
    "league": "Premier League",
    "published": "2026-08-03T09:57:23.000Z",
-   "fetched_at": "2026-08-03T10:50:09.336Z"
+   "fetched_at": "2026-08-03T13:41:42.315Z"
   },
   {
    "id": "independent-uefa-threatens-fifa-with-legal-action-over-giann",
@@ -159,7 +302,7 @@
    "category": "Transfers & Rumours",
    "league": "Premier League",
    "published": "2026-08-03T09:33:10.000Z",
-   "fetched_at": "2026-08-03T10:50:09.098Z"
+   "fetched_at": "2026-08-03T13:41:41.926Z"
   },
   {
    "id": "guardian-it-s-my-time-christos-tzolis-fighting-fit-arsena",
@@ -172,7 +315,7 @@
    "category": "Transfers & Rumours",
    "league": "Premier League",
    "published": "2026-08-03T09:30:14.000Z",
-   "fetched_at": "2026-08-03T10:50:09.182Z"
+   "fetched_at": "2026-08-03T13:41:42.022Z"
   },
   {
    "id": "independent-english-fa-withdraw-support-gianni-infantino-aft",
@@ -185,7 +328,7 @@
    "category": "Match Reports",
    "league": "International",
    "published": "2026-08-03T09:18:19.000Z",
-   "fetched_at": "2026-08-03T10:50:09.336Z"
+   "fetched_at": "2026-08-03T13:41:42.315Z"
   },
   {
    "id": "espn-men-s-transfer-grades-chelsea-get-welbeck",
@@ -217,14 +360,14 @@
    "id": "guardian-english-fa-drop-support-gianni-infantino-after-w",
    "title": "English FA to drop support for Gianni Infantino after Wales withdraw backing",
    "link": "https://www.theguardian.com/football/2026/aug/03/wales-become-first-nation-to-drop-support-for-fifa-president-gianni-infantino",
-   "excerpt": "FAW says under-fire Fifa president has lost its confidence Pressure continues to build after doomed World Cup plan The Football Association will formally withdraw its…",
-   "body": "FAW says under-fire Fifa president has lost its confidence Pressure continues to build after doomed World Cup plan The Football Association will formally withdraw its support for Gianni Infantino’s re-election as the Fifa president, adding to the mounting pressure on his crisis-hit tenure. In a significant development, the FA will write to Fifa confirming that it no longer backs Infantino for a fourth term in charge, having previously offered its endorsement. Their move comes after the Welsh FA dropped its backing for Infantino’s candidature. More European countries are expected to follow suit in an attempt to force his resignation. The Football Association of Finland became the first nation to withdraw its support last week. Continue reading...",
+   "excerpt": "FAW says Fifa president has lost its confidence Pressure continues to build after doomed World Cup plan The Football Association will formally withdraw its support for…",
+   "body": "FAW says Fifa president has lost its confidence Pressure continues to build after doomed World Cup plan The Football Association will formally withdraw its support for Gianni Infantino’s re-election as the Fifa president, adding to the mounting pressure on his crisis-hit tenure. In a significant development, the FA will write to Fifa confirming it no longer backs Infantino for a fourth term in charge, having previously offered its endorsement. Their move comes after the Welsh FA dropped its backing for Infantino’s candidature. More European countries are expected to follow suit in an attempt to force his resignation. The Football Association of Finland became the first country to withdraw its support last week. Continue reading...",
    "source": "guardian",
    "sourceName": "The Guardian",
    "category": "Match Reports",
    "league": "International",
    "published": "2026-08-03T09:06:48.000Z",
-   "fetched_at": "2026-08-03T10:50:09.182Z"
+   "fetched_at": "2026-08-03T13:41:42.022Z"
   },
   {
    "id": "independent-marc-skinner-leaves-manchester-united-month-befo",
@@ -237,7 +380,7 @@
    "category": "News",
    "league": "Premier League",
    "published": "2026-08-03T08:22:12.000Z",
-   "fetched_at": "2026-08-03T10:50:09.336Z"
+   "fetched_at": "2026-08-03T13:41:42.315Z"
   },
   {
    "id": "bbc-newcastle-sign-braga-keeper-hornicek-25-7m",
@@ -250,7 +393,7 @@
    "category": "News",
    "league": "Premier League",
    "published": "2026-08-03T08:00:39.000Z",
-   "fetched_at": "2026-08-03T10:50:09.097Z"
+   "fetched_at": "2026-08-03T13:41:41.926Z"
   },
   {
    "id": "independent-tottenham-teenager-mikey-moore-set-another-loan-",
@@ -263,7 +406,7 @@
    "category": "Transfers & Rumours",
    "league": "Premier League",
    "published": "2026-08-03T07:56:40.000Z",
-   "fetched_at": "2026-08-03T10:50:09.336Z"
+   "fetched_at": "2026-08-03T13:41:42.315Z"
   },
   {
    "id": "independent-wales-becomes-first-nation-withdraw-support-fifa",
@@ -276,7 +419,7 @@
    "category": "Match Reports",
    "league": "International",
    "published": "2026-08-03T07:50:09.000Z",
-   "fetched_at": "2026-08-03T10:50:09.336Z"
+   "fetched_at": "2026-08-03T13:41:42.315Z"
   },
   {
    "id": "bbc-fa-set-withdraw-support-fifa-president-infantino",
@@ -289,7 +432,20 @@
    "category": "Match Reports",
    "league": "Football",
    "published": "2026-08-03T07:49:33.000Z",
-   "fetched_at": "2026-08-03T10:50:09.097Z"
+   "fetched_at": "2026-08-03T13:41:41.925Z"
+  },
+  {
+   "id": "bbc-sfa-aligned-with-uefa-s-lack-confidence-infantin",
+   "title": "SFA 'aligned with Uefa's lack of confidence in Infantino'",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
+   "excerpt": "The English Football Association is set to write to Fifa president Gianni Infantino withdrawing its support amid the fallout from his scrapped plans to sell off stakes…",
+   "body": "The English Football Association is set to write to Fifa president Gianni Infantino withdrawing its support amid the fallout from his scrapped plans to sell off stakes in Fifa competitions to private investors.",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "category": "News",
+   "league": "Football",
+   "published": "2026-08-03T07:49:33.000Z",
+   "fetched_at": "2026-08-03T13:41:41.927Z"
   },
   {
    "id": "independent-transfer-news-live-guimaraes-set-arsenal-medical",
@@ -315,7 +471,7 @@
    "category": "Transfers & Rumours",
    "league": "Football",
    "published": "2026-08-03T07:23:05.000Z",
-   "fetched_at": "2026-08-03T10:50:09.183Z"
+   "fetched_at": "2026-08-03T13:41:42.023Z"
   },
   {
    "id": "bbc-goals-galore-scottish-championship-leagues-1-2-r",
@@ -328,7 +484,20 @@
    "category": "News",
    "league": "Football",
    "published": "2026-08-03T07:22:23.000Z",
-   "fetched_at": "2026-08-03T10:50:09.098Z"
+   "fetched_at": "2026-08-03T13:41:41.926Z"
+  },
+  {
+   "id": "guardian-football-weekly-s-summer-mailbag-ai-how-transfer",
+   "title": "Football Weekly’s summer mailbag: AI, how transfer gossip works and more – part two",
+   "link": "https://www.theguardian.com/football/audio/2026/aug/03/football-weekly-summer-mailbag-ai-how-transfer-gossip-works-part-two-podcast",
+   "excerpt": "Max Rushden is joined by Barry Glendenning , John Brewin , Seb Hutchinson and Jonathan Wilson to answer your questions from the Football Weekly mailbag Rate, review,…",
+   "body": "Max Rushden is joined by Barry Glendenning , John Brewin , Seb Hutchinson and Jonathan Wilson to answer your questions from the Football Weekly mailbag Rate, review, share on Apple Podcasts and join the conversation on email . On the podcast today: the panel discuss AI in football, their specialist subject in Mastermind, how transfer gossip works, how they got their starts in the industry and which team should a new football fan start supporting? Continue reading...",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "category": "Transfers & Rumours",
+   "league": "Football",
+   "published": "2026-08-03T07:10:47.000Z",
+   "fetched_at": "2026-08-03T13:41:42.022Z"
   },
   {
    "id": "bbc-from-european-hopes-relegation-form-will-moyes-r",
@@ -341,7 +510,7 @@
    "category": "News",
    "league": "Premier League",
    "published": "2026-08-03T07:03:44.000Z",
-   "fetched_at": "2026-08-03T10:50:09.097Z"
+   "fetched_at": "2026-08-03T13:41:41.926Z"
   },
   {
    "id": "bbc-listen-premiership-returns-with-chaos-comebacks-",
@@ -354,7 +523,7 @@
    "category": "Match Reports",
    "league": "Football",
    "published": "2026-08-03T07:00:00.000Z",
-   "fetched_at": "2026-08-03T10:50:09.099Z"
+   "fetched_at": "2026-08-03T13:41:41.927Z"
   },
   {
    "id": "bbc-mcgregor-tipped-future-boss-he-commits-celtic-go",
@@ -367,176 +536,7 @@
    "category": "Tactics & Analysis",
    "league": "Football",
    "published": "2026-08-03T06:55:28.000Z",
-   "fetched_at": "2026-08-03T10:50:09.099Z"
-  },
-  {
-   "id": "bbc-wales-first-home-nation-withdraw-support-infanti",
-   "title": "Wales first home nation to withdraw support for Infantino",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ckg9z094v8go?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Wales withdraw backing for Gianni Infantino's bid to continue his leadership of Fifa.",
-   "body": "Wales withdraw backing for Gianni Infantino's bid to continue his leadership of Fifa.",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "category": "Match Reports",
-   "league": "International",
-   "published": "2026-08-03T06:54:07.000Z",
-   "fetched_at": "2026-08-03T10:50:09.098Z"
-  },
-  {
-   "id": "guardian-football-transfer-rumours-atl-tico-offer-grealis",
-   "title": "Football transfer rumours: Atlético to offer Grealish escape route? Spurs target Osimhen and Gakpo?",
-   "link": "https://www.theguardian.com/football/2026/aug/03/football-transfer-rumours-atletico-grealish-tottenham-osimhen-gakpo",
-   "excerpt": "Today’s rumours are at a pintxo bar Jack Grealish needs a route out of Manchester City and could be offered one by Atlético Madrid. Everton, where he spent last season…",
-   "body": "Today’s rumours are at a pintxo bar Jack Grealish needs a route out of Manchester City and could be offered one by Atlético Madrid. Everton, where he spent last season on loan, and first club Aston Villa are also lurking as the winger recovers from injury. The 30-year-old is absent from City’s pre-season tour and his future at the Etihad Stadium does not have a positive outlook, even after Enzo Maresca replaced Pep Guardiola. Tottenham’s attempts to add some more attacking power has caused them to enquire about Galatasaray’s Victor Osimhen and Liverpool’s Cody Gakpo , not that either would come cheaply. One imminent outgoing is the youngster Mikey Moore who is closing on a loan move to Cologne. Continue reading...",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "category": "Transfers & Rumours",
-   "league": "Football",
-   "published": "2026-08-03T06:49:27.000Z",
-   "fetched_at": "2026-08-03T10:50:09.182Z"
-  },
-  {
-   "id": "independent-newcastle-are-crossroads-can-little-known-manage",
-   "title": "Newcastle are at a crossroads – can little-known manager Matthias Jaissle find a new way?",
-   "link": "https://www.independent.co.uk/sport/football/newcastle-matthias-jaissle-eddie-howe-bruno-guimaraes-b3026052.html",
-   "excerpt": "Stripped of their stars, manager and identity, Newcastle look in decline – but, Richard Jolly writes, Matthias Jaissle may prove a shrewd appointment",
-   "body": "Stripped of their stars, manager and identity, Newcastle look in decline – but, Richard Jolly writes, Matthias Jaissle may prove a shrewd appointment",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "category": "News",
-   "league": "Premier League",
-   "published": "2026-08-03T06:19:22.000Z",
-   "fetched_at": "2026-08-03T10:50:09.336Z"
-  },
-  {
-   "id": "independent-ballon-d-or-2026-power-rankings-who-leads-race-a",
-   "title": "Ballon d’Or 2026 power rankings: Who leads the race after the World Cup?",
-   "link": "https://www.independent.co.uk/sport/football/ballon-dor-contenders-power-rankings-odds-yamal-rodri-dembele-mbappe-b3024683.html",
-   "excerpt": "Here’s how the top 10 contenders rank in the race to lift the Ballon d’Or in October",
-   "body": "Here’s how the top 10 contenders rank in the race to lift the Ballon d’Or in October",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "category": "Tactics & Analysis",
-   "league": "International",
-   "published": "2026-08-03T06:13:07.000Z",
-   "fetched_at": "2026-08-03T10:50:09.336Z"
-  },
-  {
-   "id": "bbc-watch-highlights-st-johnstone-edge-out-killie-se",
-   "title": "Watch highlights as St Johnstone edge out Killie in seven-goal thriller",
-   "link": "https://www.bbc.co.uk/sport/articles/cn5nqg6vvvyo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Watch Sportscene highlights from McDiarmid Park as St Johnstone and Kilmarnock play out a seven-goal thriller in the Scottish Premiership.",
-   "body": "Watch Sportscene highlights from McDiarmid Park as St Johnstone and Kilmarnock play out a seven-goal thriller in the Scottish Premiership.",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "category": "News",
-   "league": "Football",
-   "published": "2026-08-03T06:11:47.000Z",
-   "fetched_at": "2026-08-03T10:50:09.098Z"
-  },
-  {
-   "id": "bbc-who-am-i-guess-premier-league-star-no-14",
-   "title": "Who am I? Guess Premier League star No 14",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c5y3k026j1zo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Work out the identity of today's player in as few attempts as possible.",
-   "body": "Work out the identity of today's player in as few attempts as possible.",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "category": "News",
-   "league": "Premier League",
-   "published": "2026-08-03T06:06:03.000Z",
-   "fetched_at": "2026-08-03T10:50:09.097Z"
-  },
-  {
-   "id": "guardian-spot-50-most-famous-infamous-panenka-penalties-a",
-   "title": "On the spot: 50 of the most famous – and infamous – Panenka penalties of all time",
-   "link": "https://www.theguardian.com/football/ng-interactive/2026/aug/03/50-of-the-most-famous-and-infamous-panenka-penalties-of-all-time",
-   "excerpt": "The 50th anniversary is the perfect time to remember 50 of the most famous – and infamous – attempts at the Czech’s chip It is 50 years since Antonin Panenka won the…",
-   "body": "The 50th anniversary is the perfect time to remember 50 of the most famous – and infamous – attempts at the Czech’s chip It is 50 years since Antonin Panenka won the European Championship for Czechoslovakia with the most audacious penalty ever taken. His signature chip wasn’t instantly eponymous. A search of the British newspaper archives shows that it was barely mentioned until Francesco Totti dusted it off for the internet generation at Euro 2000. It was at least another decade before Panenka was commonly used as a noun, and it did not have its own Wikipedia page until 2014, but in 2026 every football fan has an idea of what it means. The 50th anniversary is the perfect time to remember 50 of the most famous – and infamous – attempts. Continue reading...",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "category": "Match Reports",
-   "league": "Football",
-   "published": "2026-08-03T06:00:43.000Z",
-   "fetched_at": "2026-08-03T10:50:09.182Z"
-  },
-  {
-   "id": "bbc-semenyo-hails-maresca-style-play-music-my-ears",
-   "title": "Semenyo hails Maresca style of play as 'music to my ears'",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cglj1zz5g92o?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Manchester City forward Antoine Semenyo hails new manager Enzo Maresca's style of play as \"music to my ears\" after showcasing early signs of his role under the Italian.",
-   "body": "Manchester City forward Antoine Semenyo hails new manager Enzo Maresca's style of play as \"music to my ears\" after showcasing early signs of his role under the Italian.",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "category": "Transfers & Rumours",
-   "league": "Football",
-   "published": "2026-08-03T06:00:26.000Z",
-   "fetched_at": "2026-08-03T10:50:09.097Z"
-  },
-  {
-   "id": "bbc-nothing-strange-how-clubs-prepare-transfer-windo",
-   "title": "'Nothing is strange' - how clubs prepare for the transfer window",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c87nxvyq4yqo?at_medium=RSS&at_campaign=rss",
-   "excerpt": "Premier League clubs have already spent more than £1bn in the transfer window, but are expected to only get busier.",
-   "body": "Premier League clubs have already spent more than £1bn in the transfer window, but are expected to only get busier.",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "category": "Transfers & Rumours",
-   "league": "Football",
-   "published": "2026-08-03T05:43:49.000Z",
-   "fetched_at": "2026-08-03T10:50:09.097Z"
-  },
-  {
-   "id": "espn-why-infantino-s-plans-sell-off-world-cup-made-no",
-   "title": "Why Infantino's plans to sell off World Cup made no sense",
-   "link": "https://www.espn.com/soccer/story/_/id/49511728/why-fifa-president-infantino-plans-sell-world-cup-made-no-sense",
-   "excerpt": "FIFA president Gianni Infantino has gambled unsuccessfully on questionable ideas before, but his World Cup plans were ham-fisted and delusional from both a business and…",
-   "body": "FIFA president Gianni Infantino has gambled unsuccessfully on questionable ideas before, but his World Cup plans were ham-fisted and delusional from both a business and political perspective.",
-   "source": "espn",
-   "sourceName": "ESPN FC",
-   "category": "Tactics & Analysis",
-   "league": "International",
-   "published": "2026-08-03T04:02:08.000Z",
-   "fetched_at": "2026-08-03T10:33:30.682Z"
-  },
-  {
-   "id": "espn-could-infantino-lose-fifa-presidency",
-   "title": "Could Infantino lose the FIFA presidency?",
-   "link": "https://www.espn.com/soccer/story/_/id/49497503/fifa-world-cup-president-gianni-infantino-world-cup-selloff-plan-lose-power-analysis",
-   "excerpt": "Despite generating unimaginable fortunes for the organization, Gianni Infantino is wearing out his welcome.",
-   "body": "Despite generating unimaginable fortunes for the organization, Gianni Infantino is wearing out his welcome.",
-   "source": "espn",
-   "sourceName": "ESPN FC",
-   "category": "News",
-   "league": "Football",
-   "published": "2026-08-03T04:02:08.000Z",
-   "fetched_at": "2026-08-03T10:33:30.682Z"
-  },
-  {
-   "id": "guardian-socceroos-move-herrington-headlines-post-world-c",
-   "title": "Socceroos on the move: Herrington headlines post-World Cup transfers",
-   "link": "https://www.theguardian.com/football/blog/2026/aug/03/lucas-herrington-transfers-hull-premier-league-socceroos-transfer-news-fee-australian-players",
-   "excerpt": "The defender is set to become one of Australia’s most expensive players with a Premier League deal nearly done while some international teammates have already made moves…",
-   "body": "The defender is set to become one of Australia’s most expensive players with a Premier League deal nearly done while some international teammates have already made moves Lucas Herrington, fresh off becoming the youngest Australian to start a game at a men’s World Cup, is set to become the second-most expensive footballer in Australian history with a move to newly-promoted Premier League side Hull City. Latest reports suggest a fee of approximately £12.6m ($24.1m), with a further £4.4m ($8.4m) in add-ons, which comes in just shy of the Australian record of £15m plus £5m in add-ons ($38.3m in total) that Leicester paid Stoke City to sign Harry Souttar in 2023. It would set a new selling high-water mark for his current club, Colorado Rapids, and eclipses the decade-old record Hull set when they paid just over £10m for Ryan Mason. Given the trajectory of Herrington’s meteoric rise, it feels a pretty safe bet to assume the 18-year-old will claim Souttar’s record outright sooner rather than later. Continue reading...",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "category": "Transfers & Rumours",
-   "league": "International",
-   "published": "2026-08-03T03:33:18.000Z",
-   "fetched_at": "2026-08-03T10:50:09.182Z"
-  },
-  {
-   "id": "espn-arteta-coy-vini-jr-links-expects-arsenal-moves",
-   "title": "Arteta coy on Vini Jr. links, expects Arsenal moves",
-   "link": "https://www.espn.com/soccer/story/_/id/49507822/arsenal-vinicius-junior-transfer-mikel-arteta",
-   "excerpt": "Arsenal manager Mikel Arteta refused to give anything away about his club's reported pursuit of Real Madrid winger Vinícius Júnior but said he expects more moves before…",
-   "body": "Arsenal manager Mikel Arteta refused to give anything away about his club's reported pursuit of Real Madrid winger Vinícius Júnior but said he expects more moves before the end of the summer transfer window.",
-   "source": "espn",
-   "sourceName": "ESPN FC",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "published": "2026-08-03T02:00:08.000Z",
-   "fetched_at": "2026-08-03T10:33:30.682Z"
+   "fetched_at": "2026-08-03T13:41:41.927Z"
   }
  ]
 }
