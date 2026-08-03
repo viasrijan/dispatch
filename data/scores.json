@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-03T10:33:30.733Z",
+ "generated_at": "2026-08-03T10:46:15.739Z",
  "matches": [
   {
    "league": "La Liga",
@@ -24,17 +24,6 @@
    "date": "2026-08-15T19:30Z"
   },
   {
-   "league": "Premier League",
-   "home": "Arsenal",
-   "away": "Coventry City",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, August 21st at 3:00 PM EDT",
-   "date": "2026-08-21T19:00Z"
-  },
-  {
    "league": "Bundesliga",
    "home": "Bayern Munich",
    "away": "VfB Stuttgart",
@@ -44,17 +33,6 @@
    "clock": "",
    "time": "Fri, August 28th at 2:30 PM EDT",
    "date": "2026-08-28T18:30Z"
-  },
-  {
-   "league": "Ligue 1",
-   "home": "Marseille",
-   "away": "Strasbourg",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, August 21st at 2:45 PM EDT",
-   "date": "2026-08-21T18:45Z"
   },
   {
    "league": "Serie A",
@@ -99,6 +77,28 @@
    "clock": "",
    "time": "Sat, August 22nd at 2:45 PM EDT",
    "date": "2026-08-22T18:45Z"
+  },
+  {
+   "league": "Premier League",
+   "home": "Arsenal",
+   "away": "Coventry City",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, August 21st at 3:00 PM EDT",
+   "date": "2026-08-21T19:00Z"
+  },
+  {
+   "league": "Ligue 1",
+   "home": "Marseille",
+   "away": "Strasbourg",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, August 21st at 2:45 PM EDT",
+   "date": "2026-08-21T18:45Z"
   }
  ]
 }

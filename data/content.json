@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-03T10:33:30.726Z",
- "updated_utc": "2026-08-03T10:33Z",
- "cycle": 29762553,
+ "generated_at": "2026-08-03T10:46:15.738Z",
+ "updated_utc": "2026-08-03T10:46Z",
+ "cycle": 29762566,
  "sources_used": [
   {
    "id": "bbc",
@@ -14,14 +14,49 @@
   {
    "id": "independent",
    "name": "The Independent"
-  },
-  {
-   "id": "espn",
-   "name": "ESPN FC"
   }
  ],
- "hero_id": "independent-who-could-replace-gianni-infantino-six-candidate",
+ "hero_id": "independent-fifa-world-cup-sell-off-live-infantino-future-fi",
  "articles": [
+  {
+   "id": "independent-celtic-learn-champions-league-play-off-opponents",
+   "title": "Celtic learn Champions League play-off opponents",
+   "link": "https://www.independent.co.uk/sport/football/celtic-lask-champions-league-playoff-draw-b3026407.html",
+   "excerpt": "Martin O'Neill's side will face Austrian side LASK in their Champions League play-off",
+   "body": "Martin O'Neill's side will face Austrian side LASK in their Champions League play-off",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "category": "News",
+   "league": "Champions League",
+   "published": "2026-08-03T10:44:04.000Z",
+   "fetched_at": "2026-08-03T10:46:15.648Z"
+  },
+  {
+   "id": "independent-andoni-iraola-allays-jeremie-frimpong-injury-fea",
+   "title": "Andoni Iraola allays Jeremie Frimpong injury fears after Liverpool’s collapse against Leeds",
+   "link": "https://www.independent.co.uk/sport/football/jeremie-frimpong-injury-update-liverpool-leeds-score-andoni-iraola-b3026394.html",
+   "excerpt": "Frimpong came off 13 minutes from time in Liverpool’s pre-season defeat to Leeds but Iraola is hopeful the problem is nothing more than ‘overload’",
+   "body": "Frimpong came off 13 minutes from time in Liverpool’s pre-season defeat to Leeds but Iraola is hopeful the problem is nothing more than ‘overload’",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "published": "2026-08-03T10:36:50.000Z",
+   "fetched_at": "2026-08-03T10:46:15.648Z"
+  },
+  {
+   "id": "independent-newcastle-sign-goalkeeper-lukas-hornicek-from-br",
+   "title": "Newcastle sign goalkeeper Lukas Hornicek from Braga as post-Eddie Howe era begins",
+   "link": "https://www.independent.co.uk/sport/football/lukas-hornicek-newcastle-braga-transfer-b3026384.html",
+   "excerpt": "Hornicek arrives at Newcastle three days after the club confirmed the departure of manager Eddie Howe",
+   "body": "Hornicek arrives at Newcastle three days after the club confirmed the departure of manager Eddie Howe",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "category": "Transfers & Rumours",
+   "league": "Premier League",
+   "published": "2026-08-03T10:25:38.000Z",
+   "fetched_at": "2026-08-03T10:46:15.648Z"
+  },
   {
    "id": "guardian-worn-usa-liverpool-s-pre-season-tour-had-highs-b",
    "title": "Worn in the USA: Liverpool’s pre-season tour had highs but exposed glaring gaps in the squad | Andy Hunter",
@@ -33,7 +68,7 @@
    "category": "Transfers & Rumours",
    "league": "Premier League",
    "published": "2026-08-03T10:23:25.000Z",
-   "fetched_at": "2026-08-03T10:33:29.538Z"
+   "fetched_at": "2026-08-03T10:46:15.491Z"
   },
   {
    "id": "independent-fifa-world-cup-sell-off-live-infantino-future-fi",
@@ -46,7 +81,7 @@
    "category": "Injuries",
    "league": "International",
    "published": "2026-08-03T10:20:07.000Z",
-   "fetched_at": "2026-08-03T10:33:30.101Z"
+   "fetched_at": "2026-08-03T10:46:15.648Z"
   },
   {
    "id": "bbc-celtic-drawn-against-lask-champions-league-play-",
@@ -59,7 +94,7 @@
    "category": "News",
    "league": "Champions League",
    "published": "2026-08-03T10:18:24.000Z",
-   "fetched_at": "2026-08-03T10:33:29.362Z"
+   "fetched_at": "2026-08-03T10:46:15.319Z"
   },
   {
    "id": "independent-who-could-replace-gianni-infantino-six-candidate",
@@ -72,7 +107,7 @@
    "category": "Match Reports",
    "league": "Premier League",
    "published": "2026-08-03T10:07:30.000Z",
-   "fetched_at": "2026-08-03T10:33:30.101Z"
+   "fetched_at": "2026-08-03T10:46:15.648Z"
   },
   {
    "id": "espn-game-changers-how-ea-sports-made-video-game-epic",
@@ -98,7 +133,7 @@
    "category": "Transfers & Rumours",
    "league": "Premier League",
    "published": "2026-08-03T09:57:23.000Z",
-   "fetched_at": "2026-08-03T10:33:30.101Z"
+   "fetched_at": "2026-08-03T10:46:15.648Z"
   },
   {
    "id": "independent-uefa-threatens-fifa-with-legal-action-over-giann",
@@ -111,7 +146,7 @@
    "category": "News",
    "league": "International",
    "published": "2026-08-03T09:46:44.000Z",
-   "fetched_at": "2026-08-03T10:33:30.101Z"
+   "fetched_at": "2026-08-03T10:46:15.648Z"
   },
   {
    "id": "bbc-aston-villa-set-piece-guru-macphee-joins-chelsea",
@@ -124,7 +159,7 @@
    "category": "Transfers & Rumours",
    "league": "Premier League",
    "published": "2026-08-03T09:33:10.000Z",
-   "fetched_at": "2026-08-03T10:33:29.365Z"
+   "fetched_at": "2026-08-03T10:46:15.320Z"
   },
   {
    "id": "guardian-it-s-my-time-christos-tzolis-fighting-fit-arsena",
@@ -137,7 +172,7 @@
    "category": "Transfers & Rumours",
    "league": "Premier League",
    "published": "2026-08-03T09:30:14.000Z",
-   "fetched_at": "2026-08-03T10:33:29.538Z"
+   "fetched_at": "2026-08-03T10:46:15.492Z"
   },
   {
    "id": "independent-english-fa-withdraw-support-gianni-infantino-aft",
@@ -150,7 +185,7 @@
    "category": "Match Reports",
    "league": "International",
    "published": "2026-08-03T09:18:19.000Z",
-   "fetched_at": "2026-08-03T10:33:30.102Z"
+   "fetched_at": "2026-08-03T10:46:15.648Z"
   },
   {
    "id": "espn-men-s-transfer-grades-chelsea-get-welbeck",
@@ -189,7 +224,7 @@
    "category": "Match Reports",
    "league": "International",
    "published": "2026-08-03T09:06:48.000Z",
-   "fetched_at": "2026-08-03T10:33:29.538Z"
+   "fetched_at": "2026-08-03T10:46:15.491Z"
   },
   {
    "id": "independent-marc-skinner-leaves-manchester-united-month-befo",
@@ -202,7 +237,7 @@
    "category": "News",
    "league": "Premier League",
    "published": "2026-08-03T08:22:12.000Z",
-   "fetched_at": "2026-08-03T10:33:30.102Z"
+   "fetched_at": "2026-08-03T10:46:15.648Z"
   },
   {
    "id": "bbc-newcastle-sign-braga-keeper-hornicek-25-7m",
@@ -215,7 +250,7 @@
    "category": "News",
    "league": "Premier League",
    "published": "2026-08-03T08:00:39.000Z",
-   "fetched_at": "2026-08-03T10:33:29.362Z"
+   "fetched_at": "2026-08-03T10:46:15.319Z"
   },
   {
    "id": "independent-tottenham-teenager-mikey-moore-set-another-loan-",
@@ -228,7 +263,7 @@
    "category": "Transfers & Rumours",
    "league": "Premier League",
    "published": "2026-08-03T07:56:40.000Z",
-   "fetched_at": "2026-08-03T10:33:30.102Z"
+   "fetched_at": "2026-08-03T10:46:15.648Z"
   },
   {
    "id": "independent-wales-becomes-first-nation-withdraw-support-fifa",
@@ -241,7 +276,7 @@
    "category": "Match Reports",
    "league": "International",
    "published": "2026-08-03T07:50:09.000Z",
-   "fetched_at": "2026-08-03T10:33:30.102Z"
+   "fetched_at": "2026-08-03T10:46:15.648Z"
   },
   {
    "id": "bbc-fa-set-withdraw-support-fifa-president-infantino",
@@ -254,7 +289,7 @@
    "category": "Match Reports",
    "league": "Football",
    "published": "2026-08-03T07:49:33.000Z",
-   "fetched_at": "2026-08-03T10:33:29.362Z"
+   "fetched_at": "2026-08-03T10:46:15.319Z"
   },
   {
    "id": "independent-transfer-news-live-guimaraes-set-arsenal-medical",
@@ -267,7 +302,7 @@
    "category": "Transfers & Rumours",
    "league": "Premier League",
    "published": "2026-08-03T07:32:43.000Z",
-   "fetched_at": "2026-08-03T10:33:30.102Z"
+   "fetched_at": "2026-08-03T10:46:15.648Z"
   },
   {
    "id": "guardian-football-weekly-s-summer-mailbag-ai-how-transfer",
@@ -280,7 +315,7 @@
    "category": "Transfers & Rumours",
    "league": "Football",
    "published": "2026-08-03T07:23:05.000Z",
-   "fetched_at": "2026-08-03T10:33:29.541Z"
+   "fetched_at": "2026-08-03T10:46:15.493Z"
   },
   {
    "id": "bbc-goals-galore-scottish-championship-leagues-1-2-r",
@@ -293,7 +328,7 @@
    "category": "News",
    "league": "Football",
    "published": "2026-08-03T07:22:23.000Z",
-   "fetched_at": "2026-08-03T10:33:29.364Z"
+   "fetched_at": "2026-08-03T10:46:15.319Z"
   },
   {
    "id": "bbc-from-european-hopes-relegation-form-will-moyes-r",
@@ -306,7 +341,7 @@
    "category": "News",
    "league": "Premier League",
    "published": "2026-08-03T07:03:44.000Z",
-   "fetched_at": "2026-08-03T10:33:29.363Z"
+   "fetched_at": "2026-08-03T10:46:15.319Z"
   },
   {
    "id": "bbc-listen-premiership-returns-with-chaos-comebacks-",
@@ -319,7 +354,7 @@
    "category": "Match Reports",
    "league": "Football",
    "published": "2026-08-03T07:00:00.000Z",
-   "fetched_at": "2026-08-03T10:33:29.368Z"
+   "fetched_at": "2026-08-03T10:46:15.320Z"
   },
   {
    "id": "bbc-mcgregor-tipped-future-boss-he-commits-celtic-go",
@@ -332,7 +367,7 @@
    "category": "Tactics & Analysis",
    "league": "Football",
    "published": "2026-08-03T06:55:28.000Z",
-   "fetched_at": "2026-08-03T10:33:29.368Z"
+   "fetched_at": "2026-08-03T10:46:15.320Z"
   },
   {
    "id": "bbc-wales-first-home-nation-withdraw-support-infanti",
@@ -345,7 +380,7 @@
    "category": "Match Reports",
    "league": "International",
    "published": "2026-08-03T06:54:07.000Z",
-   "fetched_at": "2026-08-03T10:33:29.363Z"
+   "fetched_at": "2026-08-03T10:46:15.319Z"
   },
   {
    "id": "guardian-football-transfer-rumours-atl-tico-offer-grealis",
@@ -358,7 +393,7 @@
    "category": "Transfers & Rumours",
    "league": "Football",
    "published": "2026-08-03T06:49:27.000Z",
-   "fetched_at": "2026-08-03T10:33:29.538Z"
+   "fetched_at": "2026-08-03T10:46:15.492Z"
   },
   {
    "id": "independent-newcastle-are-crossroads-can-little-known-manage",
@@ -371,7 +406,7 @@
    "category": "News",
    "league": "Premier League",
    "published": "2026-08-03T06:19:22.000Z",
-   "fetched_at": "2026-08-03T10:33:30.102Z"
+   "fetched_at": "2026-08-03T10:46:15.648Z"
   },
   {
    "id": "independent-ballon-d-or-2026-power-rankings-who-leads-race-a",
@@ -384,7 +419,7 @@
    "category": "Tactics & Analysis",
    "league": "International",
    "published": "2026-08-03T06:13:07.000Z",
-   "fetched_at": "2026-08-03T10:33:30.102Z"
+   "fetched_at": "2026-08-03T10:46:15.648Z"
   },
   {
    "id": "bbc-watch-highlights-st-johnstone-edge-out-killie-se",
@@ -397,7 +432,7 @@
    "category": "News",
    "league": "Football",
    "published": "2026-08-03T06:11:47.000Z",
-   "fetched_at": "2026-08-03T10:33:29.364Z"
+   "fetched_at": "2026-08-03T10:46:15.319Z"
   },
   {
    "id": "bbc-who-am-i-guess-premier-league-star-no-14",
@@ -410,7 +445,7 @@
    "category": "News",
    "league": "Premier League",
    "published": "2026-08-03T06:06:03.000Z",
-   "fetched_at": "2026-08-03T10:33:29.363Z"
+   "fetched_at": "2026-08-03T10:46:15.319Z"
   },
   {
    "id": "guardian-spot-50-most-famous-infamous-panenka-penalties-a",
@@ -423,7 +458,7 @@
    "category": "Match Reports",
    "league": "Football",
    "published": "2026-08-03T06:00:43.000Z",
-   "fetched_at": "2026-08-03T10:33:29.538Z"
+   "fetched_at": "2026-08-03T10:46:15.492Z"
   },
   {
    "id": "bbc-semenyo-hails-maresca-style-play-music-my-ears",
@@ -436,7 +471,7 @@
    "category": "Transfers & Rumours",
    "league": "Football",
    "published": "2026-08-03T06:00:26.000Z",
-   "fetched_at": "2026-08-03T10:33:29.363Z"
+   "fetched_at": "2026-08-03T10:46:15.319Z"
   },
   {
    "id": "bbc-nothing-strange-how-clubs-prepare-transfer-windo",
@@ -449,7 +484,7 @@
    "category": "Transfers & Rumours",
    "league": "Football",
    "published": "2026-08-03T05:43:49.000Z",
-   "fetched_at": "2026-08-03T10:33:29.363Z"
+   "fetched_at": "2026-08-03T10:46:15.319Z"
   },
   {
    "id": "espn-why-infantino-s-plans-sell-off-world-cup-made-no",
@@ -488,7 +523,7 @@
    "category": "Transfers & Rumours",
    "league": "International",
    "published": "2026-08-03T03:33:18.000Z",
-   "fetched_at": "2026-08-03T10:33:29.539Z"
+   "fetched_at": "2026-08-03T10:46:15.492Z"
   },
   {
    "id": "espn-arteta-coy-vini-jr-links-expects-arsenal-moves",
@@ -502,45 +537,6 @@
    "league": "Premier League",
    "published": "2026-08-03T02:00:08.000Z",
    "fetched_at": "2026-08-03T10:33:30.682Z"
-  },
-  {
-   "id": "espn-real-madrid-thank-uefa-protecting-football",
-   "title": "Real Madrid thank UEFA for 'protecting football'",
-   "link": "https://www.espn.com/soccer/story/_/id/49512906/real-madrid-thank-uefa-protecting-football-fifa-abandon-private-equity-proposal",
-   "excerpt": "Real Madrid have praised UEFA for helping protect football \"at a decisive moment\" after FIFA abandoned plans to sell stakes in a World Cup company to private investors.",
-   "body": "Real Madrid have praised UEFA for helping protect football \"at a decisive moment\" after FIFA abandoned plans to sell stakes in a World Cup company to private investors.",
-   "source": "espn",
-   "sourceName": "ESPN FC",
-   "category": "News",
-   "league": "La Liga",
-   "published": "2026-08-03T02:00:08.000Z",
-   "fetched_at": "2026-08-03T10:33:30.683Z"
-  },
-  {
-   "id": "espn-messi-returns-after-wc-but-miami-held-draw",
-   "title": "Messi returns after WC but Miami held to draw",
-   "link": "https://www.espn.com/soccer/story/_/id/49507355/lionel-messi-inter-miami-lineup-columbus-crew-mls-world-cup",
-   "excerpt": "Lionel Messi made his return to action for Inter Miami on Saturday, paying for the first time since tasting defeat with Argentina in the World Cup final last month.",
-   "body": "Lionel Messi made his return to action for Inter Miami on Saturday, paying for the first time since tasting defeat with Argentina in the World Cup final last month.",
-   "source": "espn",
-   "sourceName": "ESPN FC",
-   "category": "Match Reports",
-   "league": "Football",
-   "published": "2026-08-03T02:00:08.000Z",
-   "fetched_at": "2026-08-03T10:33:30.683Z"
-  },
-  {
-   "id": "espn-new-chelsea-boss-alonso-madrid-scar-has-healed",
-   "title": "New Chelsea boss Alonso: Madrid 'scar' has healed",
-   "link": "https://www.espn.com/soccer/story/_/id/49513341/xabi-alonso-real-madrid-scar-healed-chelsea-premier-league",
-   "excerpt": "Xabi Alonso said the \"scar\" he suffered from his short tenure at Real Madrid has healed, allowing him to fully focus on taking Chelsea into the new Premier League season.",
-   "body": "Xabi Alonso said the \"scar\" he suffered from his short tenure at Real Madrid has healed, allowing him to fully focus on taking Chelsea into the new Premier League season.",
-   "source": "espn",
-   "sourceName": "ESPN FC",
-   "category": "News",
-   "league": "Premier League",
-   "published": "2026-08-03T02:00:08.000Z",
-   "fetched_at": "2026-08-03T10:33:30.683Z"
   }
  ]
 }
