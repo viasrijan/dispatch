@@ -1,474 +1,134 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>KICKOFF | Football News</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="styles.css">
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+<title>The Dispatch — Football's Daily Briefing</title>
+<meta name="description" content="Live football scores, transfers, match reports and news from the world's biggest leagues — curated automatically from BBC Sport, The Guardian, Sky Sports and ESPN." />
+<meta name="theme-color" content="#f6f3ec" />
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23141210'/%3E%3Ccircle cx='16' cy='16' r='8.5' fill='none' stroke='%23f6f3ec' stroke-width='2'/%3E%3Cpath d='M16 7.5v17M7.5 16h17' stroke='%23c8102e' stroke-width='2'/%3E%3C/svg%3E" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,700;0,900;1,600&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="styles.css" />
 </head>
 <body>
+<a class="skip-link" href="#main">Skip to content</a>
 
-    <!-- HEADER -->
-    <header class="header">
-        <div class="header-inner">
-            <div class="header-left">
-                <a href="index.html" class="logo">KICK<span>OFF</span></a>
-                <nav>
-                    <ul class="nav">
-                        <li><a href="matches.html">Matches</a></li>
-                        <li><a href="transfers.html">Transfers</a></li>
-                        <li><a href="leagues.html">Leagues</a></li>
-                        <li><a href="rumors.html">Rumors</a></li>
-                        <li><a href="contact.html">Contact</a></li>
-                        <li><a href="play.html" class="play-nav">Play</a></li>
-                        
-                    </ul>
-                </nav>
-            </div>
-            <div class="header-right">
-                <div class="header-social">
-                    <a href="#"><i class="fab fa-instagram"></i></a>
-                    <a href="#"><i class="fab fa-youtube"></i></a>
-                    <a href="#"><i class="fab fa-x-twitter"></i></a>
-                </div>
-                <button class="hamburger" id="hamburger" aria-label="Menu">
-                    <span></span><span></span><span></span>
-                </button>
-            </div>
-        </div>
-    </header>
-
-    <!-- MOBILE NAV -->
-    <div class="mobile-nav" id="mobileNav">
-        <a href="index.html">Home</a>
-        <a href="matches.html">Matches</a>
-        <a href="transfers.html">Transfers</a>
-        <a href="leagues.html">Leagues</a>
-        <a href="rumors.html">Rumors</a>
-        <a href="contact.html">Contact</a>
-        <a href="play.html" class="play-nav">Play</a>
-        <div class="mobile-social">
-            <a href="#"><i class="fab fa-instagram"></i></a>
-            <a href="#"><i class="fab fa-youtube"></i></a>
-            <a href="#"><i class="fab fa-x-twitter"></i></a>
-        </div>
+<header class="site-header" id="siteHeader">
+  <div class="ticker" id="tickerBar" aria-label="Live scores">
+    <div class="ticker-inner">
+      <span class="ticker-live"><span class="pulse-dot"></span>LIVE SCORES</span>
+      <div class="ticker-track-wrap">
+        <div class="ticker-track" id="tickerTrack"><span class="ticker-empty">Loading live scores…</span></div>
+      </div>
+      <span class="ticker-clock" id="tickerClock"></span>
     </div>
+  </div>
 
-    <!-- FIXTURES SCROLL -->
-    <section class="fixtures-scroll">
-        <div class="container">
-            <div class="fixtures-track">
-                <div class="fixture-box" data-league="premier">
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#DA291C">MUN</div>MUN</div>
-                    <div class="fixture-score">3-1</div>
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#034694">CHE</div>CHE</div>
-                </div>
-                <div class="fixture-box" data-league="premier">
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#C8102E">LIV</div>LIV</div>
-                    <div class="fixture-score">2-2</div>
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#6CABDD">MCI</div>MCI</div>
-                </div>
-                <div class="fixture-box" data-league="premier">
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#EF0107">ARS</div>ARS</div>
-                    <div class="fixture-score">4-0</div>
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#132257">TOT</div>TOT</div>
-                </div>
-                <div class="fixture-box" data-league="premier">
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#241F20">NEW</div>NEW</div>
-                    <div class="fixture-score">1-1</div>
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#670E36">AVL</div>AVL</div>
-                </div>
-                <div class="fixture-box" data-league="laliga">
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#FEBE10">RMA</div>RMA</div>
-                    <div class="fixture-score">3-2</div>
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#A50044">BAR</div>BAR</div>
-                </div>
-                <div class="fixture-box" data-league="laliga">
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#CB3524">ATM</div>ATM</div>
-                    <div class="fixture-score">1-0</div>
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#FEBE10">RMA</div>RMA</div>
-                </div>
-                <div class="fixture-box" data-league="bundesliga">
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#DC052D">BAY</div>BAY</div>
-                    <div class="fixture-score">5-1</div>
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#FDE100">DOR</div>DOR</div>
-                </div>
-                <div class="fixture-box" data-league="seriea">
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#000000">JUV</div>JUV</div>
-                    <div class="fixture-score">0-0</div>
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#FB090B">ACM</div>ACM</div>
-                </div>
-                <div class="fixture-box" data-league="seriea">
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#010E80">INT</div>INT</div>
-                    <div class="fixture-score">2-1</div>
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#000000">JUV</div>JUV</div>
-                </div>
-                <div class="fixture-box" data-league="ligue1">
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#004170">PSG</div>PSG</div>
-                    <div class="fixture-score">4-1</div>
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#E63E32">MON</div>MON</div>
-                </div>
-                <div class="fixture-box" data-league="portugal">
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#0063B1">POR</div>POR</div>
-                    <div class="fixture-score">3-0</div>
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#EF1B2F">BEN</div>BEN</div>
-                </div>
-                <div class="fixture-box" data-league="premier">
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#6CABDD">MCI</div>MCI</div>
-                    <div class="fixture-vs">vs</div>
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#DA291C">MUN</div>MUN</div>
-                </div>
-                <!-- Duplicate for seamless scroll -->
-                <div class="fixture-box" data-league="premier">
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#DA291C">MUN</div>MUN</div>
-                    <div class="fixture-score">3-1</div>
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#034694">CHE</div>CHE</div>
-                </div>
-                <div class="fixture-box" data-league="premier">
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#C8102E">LIV</div>LIV</div>
-                    <div class="fixture-score">2-2</div>
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#6CABDD">MCI</div>MCI</div>
-                </div>
-                <div class="fixture-box" data-league="premier">
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#EF0107">ARS</div>ARS</div>
-                    <div class="fixture-score">4-0</div>
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#132257">TOT</div>TOT</div>
-                </div>
-                <div class="fixture-box" data-league="premier">
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#241F20">NEW</div>NEW</div>
-                    <div class="fixture-score">1-1</div>
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#670E36">AVL</div>AVL</div>
-                </div>
-                <div class="fixture-box" data-league="laliga">
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#FEBE10">RMA</div>RMA</div>
-                    <div class="fixture-score">3-2</div>
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#A50044">BAR</div>BAR</div>
-                </div>
-                <div class="fixture-box" data-league="laliga">
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#CB3524">ATM</div>ATM</div>
-                    <div class="fixture-score">1-0</div>
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#FEBE10">RMA</div>RMA</div>
-                </div>
-                <div class="fixture-box" data-league="bundesliga">
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#DC052D">BAY</div>BAY</div>
-                    <div class="fixture-score">5-1</div>
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#FDE100">DOR</div>DOR</div>
-                </div>
-                <div class="fixture-box" data-league="seriea">
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#000000">JUV</div>JUV</div>
-                    <div class="fixture-score">0-0</div>
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#FB090B">ACM</div>ACM</div>
-                </div>
-                <div class="fixture-box" data-league="seriea">
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#010E80">INT</div>INT</div>
-                    <div class="fixture-score">2-1</div>
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#000000">JUV</div>JUV</div>
-                </div>
-                <div class="fixture-box" data-league="ligue1">
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#004170">PSG</div>PSG</div>
-                    <div class="fixture-score">4-1</div>
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#E63E32">MON</div>MON</div>
-                </div>
-                <div class="fixture-box" data-league="portugal">
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#0063B1">POR</div>POR</div>
-                    <div class="fixture-score">3-0</div>
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#EF1B2F">BEN</div>BEN</div>
-                </div>
-                <div class="fixture-box" data-league="premier">
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#6CABDD">MCI</div>MCI</div>
-                    <div class="fixture-vs">vs</div>
-                    <div class="fixture-team"><div class="fixture-logo" style="background:#DA291C">MUN</div>MUN</div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- HERO SLIDER (BBC In History style) -->
-    <section class="hero-slider">
-        <div class="container" style="position:relative">
-            <div class="hero-slider-inner">
-                <div class="hero-slider-image">
-                    <div class="hero-image-overlay"></div>
-                    <img id="heroImage" src="" alt="">
-
-                </div>
-                <div class="hero-slider-content" id="heroContent">
-                    <span class="hero-date" id="heroDate"></span>
-                    <h1 class="hero-title" id="heroTitle"></h1>
-                    <p class="hero-excerpt" id="heroExcerpt"></p>
-                    <a href="#" class="hero-readmore" id="heroLink">Read more</a>
-                </div>
-            </div>
-            <button class="hero-slider-arrow prev" onclick="slideHero(-1)"><i class="fas fa-chevron-left"></i></button>
-            <button class="hero-slider-arrow next" onclick="slideHero(1)"><i class="fas fa-chevron-right"></i></button>
-        </div>
-    </section>
-
-    <!-- TRENDING / RANKED -->
-    <div class="trending-wrap">
-        <section class="section">
-            <div class="container">
-                <div class="section-header">
-                    <h2 class="section-title">Trending</h2>
-                </div>
-                <div class="grid-3" id="trendingGrid">
-<!--KICKOFF_TRENDING_START-->
-                    <a href="posts/230526-0010.html" class="mini-card">
-                        <span class="num">1</span>
-                        <div class="mini-body">
-                            <div class="mini-tag" data-league="premier">Premier League</div>
-                            <h3 class="mini-title">Slot Refuses To Confirm Salah Selected For Final Game</h3>
-                            <div class="mini-meta">15 min ago</div>
-                        </div>
-                    </a>
-                    <a href="posts/230526-0011.html" class="mini-card">
-                        <span class="num">2</span>
-                        <div class="mini-body">
-                            <div class="mini-tag" data-league="premier">Premier League</div>
-                            <h3 class="mini-title">Sutton's Final-Day Predictions V Sam Tompkins</h3>
-                            <div class="mini-meta">28 min ago</div>
-                        </div>
-                    </a>
-                    <a href="posts/230526-0012.html" class="mini-card">
-                        <span class="num">3</span>
-                        <div class="mini-body">
-                            <div class="mini-tag" data-league="premier">Premier League</div>
-                            <h3 class="mini-title">Romero Set To Be In Argentina As Spurs Battle To Avoid Drop</h3>
-                            <div class="mini-meta">42 min ago</div>
-                        </div>
-                    </a>
-<!--KICKOFF_TRENDING_END-->
-                </div>
-            </div>
-        </section>
+  <div class="masthead">
+    <div class="container masthead-row">
+      <div class="masthead-date"><span id="mastheadDate"></span><br /><span class="masthead-edition">DAILY EDITION</span></div>
+      <div class="masthead-brand">
+        <a href="#top" class="wordmark">THE <span>DISPATCH</span></a>
+        <p class="masthead-tag">Football's daily briefing — news, scores &amp; transfers</p>
+      </div>
+      <div class="masthead-live">
+        <span class="live-pill"><span class="pulse-dot"></span>LIVE DESK</span>
+        <span class="updated-at" id="updatedAt">auto-updating</span>
+      </div>
     </div>
+  </div>
 
-    <!-- MAGAZINE GRID -->
-    <section class="section">
-        <div class="container">
-            <div class="section-header">
-                <h2 class="section-title">Editor's Picks</h2>
-            </div>
-            <div class="magazine-grid">
-<!--KICKOFF_PICKS_START-->
-                <a href="posts/230526-0020.html" class="mag-card">
-                    <img src="images/picks_0.png" alt="">
-                    <div class="overlay"></div>
-                    <div class="mag-text">
-                        <span class="mag-tag" data-league="premier">Premier League</span>
-                        <h3 class="mag-title">Why Tuchel Wanted Toney Back In England Picture</h3>
-                    </div>
-                </a>
-                <a href="posts/230526-0021.html" class="mag-card">
-                    <img src="images/picks_1.png" alt="">
-                    <div class="overlay"></div>
-                    <div class="mag-text">
-                        <span class="mag-tag" data-league="premier">Premier League</span>
-                        <h3 class="mag-title">Why Genius Guardiola Is The Greatest Coach Of All Time</h3>
-                    </div>
-                </a>
-                <a href="posts/230526-0022.html" class="mag-card">
-                    <img src="images/picks_2.png" alt="">
-                    <div class="overlay"></div>
-                    <div class="mag-text">
-                        <span class="mag-tag" data-league="laliga">La Liga</span>
-                        <h3 class="mag-title">Kane On Barcelona Shortlist - Saturday's Gossip</h3>
-                    </div>
-                </a>
-                <a href="posts/230526-0023.html" class="mag-card">
-                    <img src="images/picks_3.png" alt="">
-                    <div class="overlay"></div>
-                    <div class="mag-text">
-                        <span class="mag-tag" data-league="laliga">La Liga</span>
-                        <h3 class="mag-title">Benidorm Beaches To Barcelona - Now Lopez Can Light Up Champ</h3>
-                    </div>
-                </a>
-<!--KICKOFF_PICKS_END-->
-            </div>
-        </div>
-    </section>
+  <nav class="main-nav" id="mainNav" aria-label="Primary">
+    <div class="container nav-row">
+      <button class="nav-toggle" id="navToggle" aria-expanded="false" aria-label="Open menu">
+        <span></span><span></span><span></span>
+      </button>
+      <ul class="nav-list" id="navList">
+        <li><a href="#top" data-nav>Home</a></li>
+        <li><a href="#news" data-nav>Latest News</a></li>
+        <li><a href="#transfers" data-nav>Transfers</a></li>
+        <li><a href="#fixtures" data-nav>Fixtures &amp; Results</a></li>
+        <li><a href="#sources" data-nav>Sources</a></li>
+      </ul>
+      <div class="nav-tools">
+        <button class="icon-btn" id="refreshBtn" aria-label="Refresh stories" title="Refresh stories">
+          <svg width="15" height="15" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"><path d="M13.5 8a5.5 5.5 0 1 1-1.6-3.9M13.5 1.5v3h-3"/></svg>
+        </button>
+      </div>
+    </div>
+  </nav>
+</header>
 
-    <!-- LATEST STORIES -->
-    <section class="section">
-        <div class="container">
-            <div class="section-header">
-                <h2 class="section-title">Latest</h2>
-            </div>
-            <div class="story-grid-3x3">
-<!--KICKOFF_LATEST_START-->
-                <a href="posts/230526-0030.html" class="story-tile">
-                    <h3 class="story-tile-title">'Tuchel's Gambles And Iron Conviction Position Him As The An</h3>
-                </a>
-                <a href="posts/230526-0031.html" class="story-tile">
-                    <h3 class="story-tile-title">Eleven Players Who Defined Guardiola's Man City Era</h3>
-                </a>
-                <a href="posts/230526-0032.html" class="story-tile">
-                    <h3 class="story-tile-title">Carrick Confirmed As Man Utd Permanent Boss</h3>
-                </a>
-                <a href="posts/230526-0033.html" class="story-tile">
-                    <h3 class="story-tile-title">Real Madrid Complete €120M Signing Of Generational Talent</h3>
-                </a>
-                <a href="posts/230526-0034.html" class="story-tile">
-                    <h3 class="story-tile-title">Champions League Final: Tactical Preview And Key Battles To Watch</h3>
-                </a>
-                <a href="posts/230526-0035.html" class="story-tile">
-                    <h3 class="story-tile-title">Bayern Munich Secure Domestic Double With Dominant Display</h3>
-                </a>
-                <a href="posts/230526-0036.html" class="story-tile">
-                    <h3 class="story-tile-title">Psg Announce Major Squad Overhaul For Next Season</h3>
-                </a>
-                <a href="posts/230526-0037.html" class="story-tile">
-                    <h3 class="story-tile-title">Inter Milan Announce Ambitious Expansion Plans For Stadium</h3>
-                </a>
-                <a href="posts/230526-0038.html" class="story-tile">
-                    <h3 class="story-tile-title">Football Legends Gather For Annual Charity Match Event</h3>
-                </a>
-                <a href="posts/230526-0039.html" class="story-tile">
-                    <h3 class="story-tile-title">Manchester United Confident Of Landing Top Transfer Target</h3>
-                </a>
-                <a href="posts/230526-0040.html" class="story-tile">
-                    <h3 class="story-tile-title">Juventus Announce New Signing From Serie A Rivals</h3>
-                </a>
-                <a href="posts/230526-0041.html" class="story-tile">
-                    <h3 class="story-tile-title">Ac Milan Target Champions League Qualification</h3>
-                </a>
-<!--KICKOFF_LATEST_END-->
-            </div>
-        </div>
-    </section>
+<main id="main">
+  <section class="hero container" id="top">
+    <article class="hero-lead" id="heroLead">
+      <div class="hero-skeleton">Loading the lead story…</div>
+    </article>
+    <div class="hero-side" id="heroSide"></div>
+  </section>
 
-    <!-- FOOTER -->
-    <footer class="footer">
-        <div class="container">
-            <div class="footer-grid">
-                <div class="footer-brand">
-                    <a href="index.html" class="logo">KICK<span>OFF</span></a>
-                    <p>Your daily dose of football news, transfers, and match updates. Covering every league, every story, every moment.</p>
-                </div>
+  <section class="container section" id="news">
+    <div class="section-head">
+      <h2 class="section-title">Latest News</h2>
+      <span class="section-rule"></span>
+      <a href="#top" class="section-more">All stories ↑</a>
+    </div>
+    <div class="news-grid" id="newsGrid"></div>
+  </section>
 
-                <div class="footer-col">
-                    <h4>Company</h4>
-                    <ul>
-                        <li><a href="#">About</a></li>
-                        <li><a href="contact.html">Contact</a></li>
-                                            </ul>
-                </div>
-                <div class="footer-col">
-                    <h4>Legal</h4>
-                    <ul>
-                        <li><a href="#">Privacy</a></li>
-                        <li><a href="#">Terms</a></li>
-                                            </ul>
-                </div>
-            </div>
-            <div class="footer-bottom">
-                <p>&copy; 2026 KICKOFF Football News. All rights reserved.</p>
-            </div>
-        </div>
-    </footer>
+  <section class="container section" id="transfers">
+    <div class="section-head">
+      <h2 class="section-title">Transfers &amp; Rumours</h2>
+      <span class="section-rule"></span>
+    </div>
+    <div class="transfer-list" id="transferList"></div>
+  </section>
 
-    <button class="theme-toggle-fab" id="themeToggle" aria-label="Toggle theme"><i class="fa-solid fa-lightbulb"></i></button>
+  <section class="container section" id="fixtures">
+    <div class="section-head">
+      <h2 class="section-title">Fixtures &amp; Results</h2>
+      <span class="section-rule"></span>
+      <span class="section-note" id="fixturesNote">auto-synced every 30 min</span>
+    </div>
+    <div class="fixtures-grid" id="fixturesGrid"></div>
+  </section>
 
-<script>
-        // Hero slider data
-        const heroSlides = [
-<!--KICKOFF_HERO_START-->
-            { tag: "Breaking", title: "'Unselfish' Over 'Ego' - What Do Leaks Say About Tuchel's En", excerpt: "BBC Sport explores why the whole world knew the England World Cup squad before it was announced, and what Thomas Tuchel's response says about England'", image: "images/hero_0.png", link: "posts/230526-0000.html", date: "2026-05-23" },
-            { tag: "Breaking", title: "Guardiola Says Man City 'Need New Energy' As Exit Confirmed", excerpt: "Manchester City confirm Pep Guardiola will leave at the end of the season after a decade of unparalleled success.", image: "images/hero_1.png", link: "posts/230526-0001.html", date: "2026-05-23" },
-            { tag: "Breaking", title: "Celtic V Dunfermline: All You Need To Know About Scottish Cu", excerpt: "Martin O'Neill's Celtic and Neil Lennon's Dunfermline Athletic go head-to-head in Saturday's Scottish Cup final. Here are all the key details.", image: "images/hero_2.png", link: "posts/230526-0002.html", date: "2026-05-23" },
-            { tag: "LIVE", title: "Hull And Middlesbrough Set For Unique Play-Off Final", excerpt: "BBC Sport looks at the Championship play-off finalists Hull City and Middlesbrough after the build-up was dominated by Southampton and Spygate.", image: "images/hero_3.png", link: "posts/230526-0003.html", date: "2026-05-23" },
-            { tag: "LIVE", title: "Maguire 'Very Unlucky' To Miss World Cup - Rooney", excerpt: "Former England captain Wayne Rooney says Harry Maguire is \"very unlucky\" to miss out on a place in Thomas Tuchel's World Cup squad this summer.", image: "images/hero_4.png", link: "posts/230526-0004.html", date: "2026-05-23" },<!--KICKOFF_HERO_END-->
-        ];
+  <section class="container section" id="sources">
+    <div class="section-head">
+      <h2 class="section-title">Our Sources</h2>
+      <span class="section-rule"></span>
+    </div>
+    <p class="sources-note">Stories are aggregated automatically from these established football desks. Every article links back to its original publication.</p>
+    <div class="sources-grid" id="sourcesGrid"></div>
+  </section>
+</main>
 
-        let currentHero = 0;
-        let heroTimer = null;
-        const HERO_INTERVAL = 5000;
+<footer class="site-footer">
+  <div class="container footer-row">
+    <div>
+      <p class="footer-brand">THE DISPATCH</p>
+      <p class="footer-tag">Football's daily briefing. Aggregated automatically from reputable sources.</p>
+    </div>
+    <div class="footer-meta">
+      <p id="footerUpdated">Updated: —</p>
+      <p>Content auto-published by the Dispatch bot on a 30-minute cycle.</p>
+      <p class="footer-legal">© <span id="footerYear"></span> The Dispatch. Headlines © respective publishers.</p>
+    </div>
+  </div>
+</footer>
 
-        const heroTitle = document.getElementById('heroTitle');
-        const heroExcerpt = document.getElementById('heroExcerpt');
-        const heroLink = document.getElementById('heroLink');
-        const heroImage = document.getElementById('heroImage');
+<div class="article-modal" id="articleModal" aria-hidden="true">
+  <div class="modal-backdrop" data-close></div>
+  <div class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+    <button class="modal-close" data-close aria-label="Close article">×</button>
+    <article id="modalArticle"></article>
+  </div>
+</div>
 
-        const heroDate = document.getElementById('heroDate');
-        const heroSlider = document.querySelector('.hero-slider');
+<div class="toast" id="toast" role="status"></div>
 
-        function formatDate(dateStr) {
-            const d = new Date(dateStr);
-            const months = ['January','February','March','April','May','June','July','August','September','October','November','December'];
-            return `${months[d.getMonth()]} ${d.getDate()}, ${d.getFullYear()}`;
-        }
-
-        function renderHero(index) {
-            const slide = heroSlides[index];
-            heroTitle.textContent = slide.title;
-            heroExcerpt.textContent = slide.excerpt;
-            heroLink.href = slide.link;
-            heroImage.src = slide.image;
-            heroImage.alt = slide.tag;
-            heroDate.textContent = formatDate(slide.date);
-        }
-
-        function slideHero(dir) {
-            currentHero = (currentHero + dir + heroSlides.length) % heroSlides.length;
-            renderHero(currentHero);
-            resetHeroTimer();
-        }
-
-        function resetHeroTimer() {
-            if (heroTimer) clearInterval(heroTimer);
-            heroTimer = setInterval(() => slideHero(1), HERO_INTERVAL);
-        }
-
-        renderHero(0);
-        resetHeroTimer();
-
-        heroSlider.addEventListener('mouseenter', () => {
-            if (heroTimer) clearInterval(heroTimer);
-            heroTimer = null;
-        });
-
-        heroSlider.addEventListener('mouseleave', resetHeroTimer);
-
-        // Click slider to open post
-        document.querySelector('.hero-slider-inner').addEventListener('click', (e) => {
-            if (e.target.closest('.hero-slider-arrow') || e.target.closest('.hero-readmore')) return;
-            window.location.href = heroLink.href;
-        });
-
-        // Mobile nav toggle
-        const hamburger = document.getElementById('hamburger');
-        const mobileNav = document.getElementById('mobileNav');
-        hamburger.addEventListener('click', () => {
-            hamburger.classList.toggle('active');
-            mobileNav.classList.toggle('open');
-            document.body.style.overflow = mobileNav.classList.contains('open') ? 'hidden' : '';
-        });
-        // Theme toggle
-        const html = document.documentElement;
-        const toggle = document.getElementById('themeToggle');
-
-        const savedTheme = localStorage.getItem('theme') || 'dark';
-        html.setAttribute('data-theme', savedTheme);
-
-        toggle.addEventListener('click', () => {
-            const current = html.getAttribute('data-theme');
-            const next = current === 'dark' ? 'light' : 'dark';
-            html.setAttribute('data-theme', next);
-            localStorage.setItem('theme', next);
-        });
-
-        // Active nav highlighting
-        document.querySelectorAll('.nav a').forEach(a => {
-            const page = a.getAttribute('href');
-            if (location.pathname.endsWith(page) || (page === 'index.html' && (location.pathname.endsWith('/') || location.pathname.endsWith('/index.html')))) {
-                a.classList.add('active');
-            }
-        });
-    </script>
-
+<script src="app.js"></script>
 </body>
 </html>
