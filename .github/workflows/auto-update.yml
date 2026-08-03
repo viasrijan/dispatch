@@ -45,5 +45,15 @@ jobs:
             exit 0
           fi
           git commit -m "Auto dispatch: $(date -u +'%Y-%m-%d %H:%M UTC')"
-          git pull --rebase origin main --autostash || true
-          git push origin main
+          for i in 1 2 3; do
+            if git push origin main 2>/dev/null; then
+              echo "Posted."
+              exit 0
+            fi
+            # another run pushed meanwhile — rebase ours on top; on data-file
+            # conflicts keep the freshly generated content (ours)
+            git pull --rebase --autostash origin main || { git rebase --abort; }
+            sleep 2
+          done
+          echo "Push kept racing — the next cycle will resolve it."
+          exit 1
