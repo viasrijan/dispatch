@@ -45,14 +45,20 @@ jobs:
             exit 0
           fi
           git commit -m "Auto dispatch: $(date -u +'%Y-%m-%d %H:%M UTC')"
-          for i in 1 2 3; do
+          for i in 1 2 3 4 5; do
             if git push origin main 2>/dev/null; then
               echo "Posted."
               exit 0
             fi
-            # another run pushed meanwhile — rebase ours on top; on data-file
-            # conflicts keep the freshly generated content (ours)
-            git pull --rebase --autostash origin main || { git rebase --abort; }
+            # A concurrent run pushed meanwhile. Each run rewrites data/*.json
+            # wholesale, so the rebase always conflicts there — keep the freshly
+            # generated content (theirs during rebase) and continue.
+            git pull --rebase --autostash origin main 2>/dev/null || true
+            if [ -d .git/rebase-merge ] || [ -d .git/rebase-apply ]; then
+              git checkout --theirs data/ 2>/dev/null
+              git add data/
+              GIT_EDITOR=true git rebase --continue 2>/dev/null || git rebase --skip 2>/dev/null || true
+            fi
             sleep 2
           done
           echo "Push kept racing — the next cycle will resolve it."
