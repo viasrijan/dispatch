@@ -1,6 +1,28 @@
 {
- "generated_at": "2026-08-03T10:46:15.739Z",
+ "generated_at": "2026-08-03T10:50:09.499Z",
  "matches": [
+  {
+   "league": "Premier League",
+   "home": "Arsenal",
+   "away": "Coventry City",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, August 21st at 3:00 PM EDT",
+   "date": "2026-08-21T19:00Z"
+  },
+  {
+   "league": "Bundesliga",
+   "home": "Bayern Munich",
+   "away": "VfB Stuttgart",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, August 28th at 2:30 PM EDT",
+   "date": "2026-08-28T18:30Z"
+  },
   {
    "league": "La Liga",
    "home": "Alavés",
@@ -22,17 +44,6 @@
    "clock": "",
    "time": "Sat, August 15th at 3:30 PM EDT",
    "date": "2026-08-15T19:30Z"
-  },
-  {
-   "league": "Bundesliga",
-   "home": "Bayern Munich",
-   "away": "VfB Stuttgart",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, August 28th at 2:30 PM EDT",
-   "date": "2026-08-28T18:30Z"
   },
   {
    "league": "Serie A",
@@ -77,17 +88,6 @@
    "clock": "",
    "time": "Sat, August 22nd at 2:45 PM EDT",
    "date": "2026-08-22T18:45Z"
-  },
-  {
-   "league": "Premier League",
-   "home": "Arsenal",
-   "away": "Coventry City",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, August 21st at 3:00 PM EDT",
-   "date": "2026-08-21T19:00Z"
   },
   {
    "league": "Ligue 1",
