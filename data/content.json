@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-04T07:14:05.245Z",
- "updated_utc": "2026-08-04T07:14Z",
- "cycle": 29763794,
+ "generated_at": "2026-08-04T10:10:45.379Z",
+ "updated_utc": "2026-08-04T10:10Z",
+ "cycle": 29763970,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,8 +16,174 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "bbc-rangers-agree-fee-japanese-winger-yokota-gossip",
+ "hero_id": "guardian-alverca-portuguese-club-thriving-help-vin-cius-j",
  "articles": [
+  {
+   "id": "independent-police-release-images-after-spate-crimes-during-",
+   "slug": "police-release-images-after-spate-of-crimes-during-arsenal-v-ring-",
+   "title": "Police release images after spate of crimes during Arsenal victory parade",
+   "dek": "Arsenal celebrated winning the Premier League title for the first time in 22 years with a victory parade in May",
+   "description": "Arsenal celebrated winning the Premier League title for the first time in 22 years with a victory parade in May",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-08-04T10:09:18.000Z",
+   "fetched_at": "2026-08-04T10:10:39.314Z",
+   "body": [
+    "Our briefing: Arsenal celebrated winning the Premier League title for the first time in 22 years with a victory parade in May",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Manchester_City_v_Arsenal%2C_League_Cup_2004-5_-_geograph.org.uk_-_3841596.jpg/960px-Manchester_City_v_Arsenal%2C_League_Cup_2004-5_-_geograph.org.uk_-_3841596.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Richard Cooke — CC BY-SA 2.0"
+  },
+  {
+   "id": "bbc-get-live-score-updates-your-football-team-your-l",
+   "slug": "get-live-score-updates-for-your-football-team-on-your-lock-s-our-l",
+   "title": "Get live score updates for your football team on your lock screen for 2026-27",
+   "dek": "Get live score updates on your lock screen with the BBC.",
+   "description": "Get live score updates on your lock screen with the BBC.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-04T10:01:44.000Z",
+   "fetched_at": "2026-08-04T10:10:38.967Z",
+   "body": [
+    "Our briefing: Get live score updates on your lock screen with the BBC.",
+    "Get live score updates on your lock screen with the BBC.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "John Shorten — CC BY 4.0"
+  },
+  {
+   "id": "guardian-concacaf-countries-considering-withdrawing-suppo",
+   "slug": "concacaf-countries-considering-withdrawing-support-for-under-suppo",
+   "title": "Concacaf countries considering withdrawing support for under-fire Gianni Infantino",
+   "dek": "Confederation which represents Americas unhappy Pressure growing on the beleaguered Fifa president A number of Concacaf countries are considering following Europe’s lead…",
+   "description": "Confederation which represents Americas unhappy Pressure growing on the beleaguered Fifa president A number of Concacaf countries are considering following Europe’s lead by formally removing their support for the Fifa president Gianni Infantino. All 41 members of Concacaf, the confederation which represents North America, Central America and the Caribbean, are understood to have submitted letters of endorsement for Infantino’s re-election campaign before the World Cup, but many are now giving serious consideration to withdrawing them. Continue reading...",
+   "category": "News",
+   "league": "Football",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-08-04T09:41:02.000Z",
+   "fetched_at": "2026-08-04T10:10:39.060Z",
+   "body": [
+    "Our briefing: Confederation which represents Americas unhappy Pressure growing on the beleaguered Fifa president A number of Concacaf countries are considering following Europe’s lead…",
+    "Confederation which represents Americas unhappy Pressure growing on the beleaguered Fifa president A number of Concacaf countries are considering following Europe’s lead by formally removing their support for the Fifa president Gianni Infantino. All 41 members of Concacaf, the confederation which represents North America, Central America and the Caribbean, are understood to have submitted letters of endorsement for Infantino’s re-election campaign before the World Cup, but many are now giving serious consideration to withdrawing them. Continue reading...",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+  },
+  {
+   "id": "independent-cape-verde-manager-takes-new-job-after-fairytale",
+   "slug": "cape-verde-manager-takes-new-job-after-fairytale-world-cup-r-ytale",
+   "title": "Cape Verde manager takes new job after fairytale World Cup run",
+   "dek": "Bubista led Cape Verde into the knockout stages of the World Cup earlier this summer",
+   "description": "Bubista led Cape Verde into the knockout stages of the World Cup earlier this summer",
+   "category": "News",
+   "league": "International",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-08-04T09:26:25.000Z",
+   "fetched_at": "2026-08-04T10:10:39.314Z",
+   "body": [
+    "Our briefing: Bubista led Cape Verde into the knockout stages of the World Cup earlier this summer",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+  },
+  {
+   "id": "guardian-alverca-portuguese-club-thriving-help-vin-cius-j",
+   "slug": "alverca-the-portuguese-club-thriving-with-help-from-vin-cius-ius-j",
+   "title": "Alverca: the Portuguese club thriving with help from Vinícius Júnior",
+   "dek": "Their rise is down to smart scouting and clever links with celebrities such as Eduardo Camavinga and Travis Scott By Get French Football News Alverca have been busy in…",
+   "description": "Their rise is down to smart scouting and clever links with celebrities such as Eduardo Camavinga and Travis Scott By Get French Football News Alverca have been busy in the last few years. They have shot up the Portuguese pyramid while changing owners, buying a whole new squad and bringing in one of the world’s most famous footballers as a co-owner. The club’s sporting director, Fernando Malta, says they want to be “gamechangers”. Historically a satellite club for nearby Benfica, Alverca were first promoted to the top flight in 1998 but folded in 2005 after a costly relegation. The club reformed and gradually made its way through the regional divisions before earning back-to-back promotions to take them to the Portuguese top flight in 2025. Continue reading...",
+   "category": "News",
+   "league": "Football",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-08-04T09:12:55.000Z",
+   "fetched_at": "2026-08-04T10:10:39.060Z",
+   "body": [
+    "Our briefing: Their rise is down to smart scouting and clever links with celebrities such as Eduardo Camavinga and Travis Scott By Get French Football News Alverca have been busy in…",
+    "Their rise is down to smart scouting and clever links with celebrities such as Eduardo Camavinga and Travis Scott By Get French Football News Alverca have been busy in the last few years. They have shot up the Portuguese pyramid while changing owners, buying a whole new squad and bringing in one of the world’s most famous footballers as a co-owner. The club’s sporting director, Fernando Malta, says they want to be “gamechangers”.",
+    "Historically a satellite club for nearby Benfica, Alverca were first promoted to the top flight in 1998 but folded in 2005 after a costly relegation. The club reformed and gradually made its way through the regional divisions before earning back-to-back promotions to take them to the Portuguese top flight in 2025. Continue reading...",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+  },
+  {
+   "id": "bbc-southampton-will-win-championship-this-season-do",
+   "slug": "southampton-will-win-championship-this-season-downes-on-do",
+   "title": "Southampton will win Championship this season - Downes",
+   "dek": "Southampton midfielder Flynn Downes says he and his team-mates have a \"chip on their shoulder\" he believes can help them win the Championship.",
+   "description": "Southampton midfielder Flynn Downes says he and his team-mates have a \"chip on their shoulder\" he believes can help them win the Championship.",
+   "category": "News",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-04T08:39:11.000Z",
+   "fetched_at": "2026-08-04T10:10:38.966Z",
+   "body": [
+    "Our briefing: Southampton midfielder Flynn Downes says he and his team-mates have a \"chip on their shoulder\" he believes can help them win the Championship.",
+    "Southampton midfielder Flynn Downes says he and his team-mates have a \"chip on their shoulder\" he believes can help them win the Championship.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Southampton_%2C_Bushes_and_Stadium_-_geograph.org.uk_-_1737889.jpg/960px-Southampton_%2C_Bushes_and_Stadium_-_geograph.org.uk_-_1737889.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Lewis Clarke — CC BY-SA 2.0"
+  },
+  {
+   "id": "independent-transfer-news-live-arsenal-open-talks-guimaraes-",
+   "slug": "news-live-arsenal-open-talks-for-guimaraes-vinicius-jr-negot-raes-",
+   "title": "news LIVE: Arsenal open talks for Guimaraes, Vinicius Jr negotiations, Rashford’s shock suitors",
+   "dek": "All of the latest transfer gossip and done deals as a busy window continues",
+   "description": "All of the latest transfer gossip and done deals as a busy window continues",
+   "category": "Transfers & Rumours",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-08-04T08:07:16.000Z",
+   "fetched_at": "2026-08-04T10:10:39.314Z",
+   "body": [
+    "Our briefing: All of the latest transfer gossip and done deals as a busy window continues",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg/960px-Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
+   "id": "bbc-which-scottish-club-has-toughest-route-european-",
+   "slug": "which-scottish-club-has-toughest-route-to-european-group-sta-pean-",
+   "title": "Which Scottish club has toughest route to European group stage?",
+   "dek": "Celtic win but are they ready for Europe? Dundee show promise in defeat.",
+   "description": "Celtic win but are they ready for Europe? Dundee show promise in defeat.",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-04T07:00:00.000Z",
+   "fetched_at": "2026-08-04T10:10:38.969Z",
+   "body": [
+    "Our briefing: Celtic win but are they ready for Europe? Dundee show promise in defeat.",
+    "Celtic win but are they ready for Europe? Dundee show promise in defeat.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": null
+  },
   {
    "id": "bbc-ex-sandwich-maker-who-cycles-champions-league-ga",
    "slug": "the-ex-sandwich-maker-who-cycles-to-champions-league-games-ue-ga",
@@ -29,15 +195,36 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-04T06:54:38.000Z",
-   "fetched_at": "2026-08-04T07:13:55.701Z",
+   "fetched_at": "2026-08-04T10:10:38.966Z",
    "body": [
     "Our briefing: Meet Mjallby striker Jacob Bergstrom, a former sandwich maker who cycles to games and hopes to upset Yaya Toure's new club in the Champions League.",
     "Meet Mjallby striker Jacob Bergstrom, a former sandwich maker who cycles to games and hopes to upset Yaya Toure's new club in the Champions League.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "John Shorten — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+  },
+  {
+   "id": "bbc-record-number-new-managers-season-like-no-other",
+   "slug": "record-number-of-new-managers-for-season-like-no-other-other",
+   "title": "Record number of new managers for season like no other",
+   "dek": "The 2026-27 Premier League season has not yet kicked off, but it has already made history for its managerial changes.",
+   "description": "The 2026-27 Premier League season has not yet kicked off, but it has already made history for its managerial changes.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-04T06:52:45.000Z",
+   "fetched_at": "2026-08-04T10:10:38.965Z",
+   "body": [
+    "Our briefing: The 2026-27 Premier League season has not yet kicked off, but it has already made history for its managerial changes.",
+    "The 2026-27 Premier League season has not yet kicked off, but it has already made history for its managerial changes.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "bbc-record-number-new-managers-premier-league-season",
@@ -71,7 +258,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-04T06:45:16.000Z",
-   "fetched_at": "2026-08-04T07:13:55.702Z",
+   "fetched_at": "2026-08-04T10:10:38.969Z",
    "body": [
     "Our briefing: Rangers agree a deal for Hannover winger Daisuke Yokota, while Celtic knock back an enquiry for star defender Kieran Tierney.",
     "Rangers agree a deal for Hannover winger Daisuke Yokota, while Celtic knock back an enquiry for star defender Kieran Tierney.",
@@ -98,8 +285,7 @@
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg/960px-Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg/960px-Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
    "id": "bbc-man-city-count-me-despite-exit-rumours-kovacic",
@@ -112,7 +298,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-04T06:00:02.000Z",
-   "fetched_at": "2026-08-04T07:13:55.701Z",
+   "fetched_at": "2026-08-04T10:10:38.966Z",
    "body": [
     "Our briefing: Manchester City's Mateo Kovacic says the club \"count on me\" despite the midfielder being linked with a move away this summer.",
     "Manchester City's Mateo Kovacic says the club \"count on me\" despite the midfielder being linked with a move away this summer.",
@@ -133,15 +319,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-04T05:58:17.000Z",
-   "fetched_at": "2026-08-04T07:13:55.701Z",
+   "fetched_at": "2026-08-04T10:10:38.966Z",
    "body": [
     "Our briefing: Work out the identity of today's player in as few attempts as possible.",
     "Work out the identity of today's player in as few attempts as possible.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "bbc-youngster-watch-each-premier-league-club-this-se",
@@ -154,15 +340,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-04T05:54:31.000Z",
-   "fetched_at": "2026-08-04T07:13:55.701Z",
+   "fetched_at": "2026-08-04T10:10:38.966Z",
    "body": [
     "Our briefing: The Premier League returns later this month and we have picked out 20 prospects - one from each club - who will be looking to make their mark and enjoy a breakthrough…",
     "The Premier League returns later this month and we have picked out 20 prospects - one from each club - who will be looking to make their mark and enjoy a breakthrough season.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "bbc-summer-that-changed-welsh-football",
@@ -175,15 +361,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-04T05:17:17.000Z",
-   "fetched_at": "2026-08-04T07:13:55.701Z",
+   "fetched_at": "2026-08-04T10:10:38.966Z",
    "body": [
     "Our briefing: A decade on from Euro 2016, key figures tell BBC Sport Wales the inside story of the summer that changed Welsh football forever.",
     "A decade on from Euro 2016, key figures tell BBC Sport Wales the inside story of the summer that changed Welsh football forever.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
   },
   {
    "id": "bbc-tierney-shows-value-celtic-title-defence-begins-",
@@ -196,7 +382,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-03T22:18:02.000Z",
-   "fetched_at": "2026-08-04T07:13:55.701Z",
+   "fetched_at": "2026-08-04T10:10:38.966Z",
    "body": [
     "Our briefing: BBC Scotland looks at the impact of Kieran Tierney in Celtic's win over Dundee in the Scottish Premiership.",
     "BBC Scotland looks at the impact of Kieran Tierney in Celtic's win over Dundee in the Scottish Premiership.",
@@ -217,7 +403,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-03T22:18:02.000Z",
-   "fetched_at": "2026-08-04T07:13:55.702Z",
+   "fetched_at": "2026-08-04T10:10:38.968Z",
    "body": [
     "Our briefing: BBC Scotland looks at the impact of Kieran Tierney in Celtic's win over Dundee in the Scottish Premiership.",
     "BBC Scotland looks at the impact of Kieran Tierney in Celtic's win over Dundee in the Scottish Premiership.",
@@ -238,15 +424,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-03T21:18:39.000Z",
-   "fetched_at": "2026-08-04T07:13:55.701Z",
+   "fetched_at": "2026-08-04T10:10:38.966Z",
    "body": [
     "Our briefing: Fulham sign Gonzalo Garcia and Cesar Palacios from Real Madrid on five-year deals.",
     "Fulham sign Gonzalo Garcia and Cesar Palacios from Real Madrid on five-year deals.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Craven_Cottage%2C_Fulham_FC_Stadium_-_panoramio.jpg/960px-Craven_Cottage%2C_Fulham_FC_Stadium_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Heikki Immonen — CC BY 3.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Fulham_FC%27s_Craven_Cottage_Stadium%2C_from_Barn_Elms_Park%2C_1990_-_geograph.org.uk_-_4695047.jpg/960px-Fulham_FC%27s_Craven_Cottage_Stadium%2C_from_Barn_Elms_Park%2C_1990_-_geograph.org.uk_-_4695047.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ben Brooksbank — CC BY-SA 2.0"
   },
   {
    "id": "bbc-sportsound-reaction-celtic-kick-off-title-defenc",
@@ -279,7 +465,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-03T21:02:30.000Z",
-   "fetched_at": "2026-08-04T07:13:55.834Z",
+   "fetched_at": "2026-08-04T10:10:39.060Z",
    "body": [
     "Our briefing: Israeli striker scored, then gestured at CF Montréal fans Revolution ‘strongly condemn’ the chants The New England Revolution have denounced chants they deemed…",
     "Israeli striker scored, then gestured at CF Montréal fans Revolution ‘strongly condemn’ the chants The New England Revolution have denounced chants they deemed “antisemitic” and “discriminatory” from CF Montréal fans during Saturday’s MLS matchup between the sides in Quebec. The specific chants were directed towards New England’s Israeli striker Dor Turgeman, with broadcast microphones capturing fans chanting “free Palestine” shortly before he scored a goal. MLS on Monday confirmed it was “aware of reported antisemitic and discriminatory language directed at a New England Revolution player” and that the matter is under investigation.",
@@ -287,8 +473,8 @@
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": null
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
    "id": "guardian-benjamin-nygren-edges-celtic-past-dundee-winning",
@@ -301,7 +487,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-03T20:58:25.000Z",
-   "fetched_at": "2026-08-04T07:13:55.833Z",
+   "fetched_at": "2026-08-04T10:10:39.060Z",
    "body": [
     "Our briefing: Benjamin Nygren was quickly back on the goal trail as Celtic began the defence of their Premiership title with a 1-0 home win over Dundee. Before the game, Celtic fans…",
     "Benjamin Nygren was quickly back on the goal trail as Celtic began the defence of their Premiership title with a 1-0 home win over Dundee. Before the game, Celtic fans cheered as the captain, Callum McGregor, unfurled the flag which confirmed again a 14th title win in 15 seasons. It was all a bit flat in a first half with Martin O’Neill’s side struggling to get into their stride as the visitors posed problems.",
@@ -309,8 +495,8 @@
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/20170701_SK_Rapid_Wien_vs_Celtic_FC_1742.jpg/960px-20170701_SK_Rapid_Wien_vs_Celtic_FC_1742.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ailura — CC BY-SA 3.0 at"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/FC_Salzburg_gegen_Celtic_FC_%284._Oktober_2918_Gruppe_B%2C_5._Spieltag%29.jpg/960px-FC_Salzburg_gegen_Celtic_FC_%284._Oktober_2918_Gruppe_B%2C_5._Spieltag%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Werner100359 — CC BY-SA 4.0"
   },
   {
    "id": "bbc-fenerbahce-ready-huge-rashford-offer-tuesday-s-g",
@@ -323,7 +509,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-03T20:26:32.000Z",
-   "fetched_at": "2026-08-04T07:13:55.701Z",
+   "fetched_at": "2026-08-04T10:10:38.967Z",
    "body": [
     "Our briefing: Fenerbahce prepared to break the bank for Marcus Rashford, RB Leipzig hold out on Real Madrid over Yan Diomande deal, Arsenal open talks for Bruno Guimaraes",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -343,7 +529,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-03T20:23:26.000Z",
-   "fetched_at": "2026-08-04T07:13:55.834Z",
+   "fetched_at": "2026-08-04T10:10:39.061Z",
    "body": [
     "Our briefing: Berg is a senior partner at private equity firm 26North Commissioner will take over on 1 January 2027 The Major League Soccer board of governors has voted to install Los…",
     "Berg is a senior partner at private equity firm 26North Commissioner will take over on 1 January 2027 The Major League Soccer board of governors has voted to install Los Angeles FC co-managing owner Larry Berg as the league’s next commissioner. Berg will succeed Don Garber as the head of the 30-year-old league, with a term starting on 1 January 2027. He will be the third commissioner in MLS history.",
@@ -351,8 +537,8 @@
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   },
   {
    "id": "bbc-monday-night-club-fifa-s-climbdown-vinicius-arse",
@@ -365,7 +551,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-03T20:21:00.000Z",
-   "fetched_at": "2026-08-04T07:13:55.701Z",
+   "fetched_at": "2026-08-04T10:10:38.967Z",
    "body": [
     "Our briefing: Andros Townsend, Don Hutchison & Adam Crafton analyse football's biggest talking points.",
     "Andros Townsend, Don Hutchison & Adam Crafton analyse football's biggest talking points.",
@@ -386,7 +572,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-03T20:09:46.000Z",
-   "fetched_at": "2026-08-04T07:13:55.701Z",
+   "fetched_at": "2026-08-04T10:10:38.967Z",
    "body": [
     "Our briefing: London Stadium recommends West Ham's co-owner stay away amid fears of fan unrest following sexual misconduct claims.",
     "London Stadium recommends West Ham's co-owner stay away amid fears of fan unrest following sexual misconduct claims.",
@@ -407,7 +593,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-03T19:30:22.000Z",
-   "fetched_at": "2026-08-04T07:13:55.833Z",
+   "fetched_at": "2026-08-04T10:10:39.060Z",
    "body": [
     "Our briefing: Owners led by Gabriel Brener paid £15m in 2023 Buyer would be the club’s fifth owner in six years Charlton’s US owners have put the club up for sale just three years…",
     "Owners led by Gabriel Brener paid £15m in 2023 Buyer would be the club’s fifth owner in six years Charlton’s US owners have put the club up for sale just three years after taking over at the Valley. The ownership group is understood to have engaged Oakwell Sports Advisory to find what would be the club’s fifth owner in the past six years. In a sales deck sent to potential investors, which has been seen by the Guardian, Oakwell describes Charlton as “the last remaining football club upside opportunity in London”.",
@@ -415,8 +601,8 @@
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
    "id": "guardian-more-european-countries-fas-withdraw-support-inf",
@@ -437,8 +623,7 @@
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
    "id": "guardian-more-european-countries-withdraw-support-infanti",
@@ -472,14 +657,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-03T18:16:53.000Z",
-   "fetched_at": "2026-08-04T07:13:55.955Z",
+   "fetched_at": "2026-08-04T10:10:39.314Z",
    "body": [
     "Our briefing: Infantino’s position as Fifa president is under heavy scrutiny after his failed plan to sell off the World Cup",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "bbc-real-resume-talks-arsenal-target-vinicius-jr",
@@ -492,7 +677,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-03T17:30:32.000Z",
-   "fetched_at": "2026-08-04T07:13:55.701Z",
+   "fetched_at": "2026-08-04T10:10:38.967Z",
    "body": [
     "Our briefing: Real Madrid and Vinicius Jr will resume contract talks this week as Arsenal wait in the wings.",
     "Real Madrid and Vinicius Jr will resume contract talks this week as Arsenal wait in the wings.",
@@ -513,7 +698,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-03T17:30:01.000Z",
-   "fetched_at": "2026-08-04T07:13:55.834Z",
+   "fetched_at": "2026-08-04T10:10:39.060Z",
    "body": [
     "Our briefing: Chalobah to join Cesc Fàbregas at Como for £27.5m Fulham sign Real Madrid’s Gonzalo García for £34m Trevoh Chalobah’s long association with Chelsea is to end after Como…",
     "Chalobah to join Cesc Fàbregas at Como for £27. 5m Fulham sign Real Madrid’s Gonzalo García for £34m Trevoh Chalobah’s long association with Chelsea is to end after Como agreed a deal worth an initial £25. 7m.",
@@ -536,15 +721,15 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-03T16:48:15.000Z",
-   "fetched_at": "2026-08-04T07:13:55.833Z",
+   "fetched_at": "2026-08-04T10:10:39.061Z",
    "body": [
     "Our briefing: In giving the head coach another World Cup cycle, US Soccer is tempting fate for negligible benefit Mauricio Pochettino and US Soccer enjoyed their time together. Or,…",
     "In giving the head coach another World Cup cycle, US Soccer is tempting fate for negligible benefit Mauricio Pochettino and US Soccer enjoyed their time together. Or, rather, they enshoyed it, as Pochettino would pronounce it in his thick Argentinian accent, which charmingly carries over when he speaks English. Continue reading...",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Kashima_Soccer_Stadium_6.jpg/960px-Kashima_Soccer_Stadium_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   },
   {
    "id": "espn-pochettino-s-new-usmnt-deal-what-works-what-must",
@@ -670,194 +855,6 @@
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Stadium_Street%2C_Chelsea_-_geograph.org.uk_-_4585241.jpg/960px-Stadium_Street%2C_Chelsea_-_geograph.org.uk_-_4585241.jpg",
    "imageCredit": "Chris Whippet — CC BY-SA 2.0"
-  },
-  {
-   "id": "espn-wrexham-end-preseason-loss-sunderland",
-   "slug": "wrexham-end-preseason-with-loss-to-sunderland-rland",
-   "title": "Wrexham end preseason with loss to Sunderland",
-   "dek": "Wrexham ended their pre-season campaign with a 1-0 defeat to Sunderland in Philadelphia.",
-   "description": "Wrexham ended their pre-season campaign with a 1-0 defeat to Sunderland in Philadelphia.",
-   "category": "Match Reports",
-   "league": "Football",
-   "source": "espn",
-   "sourceName": "ESPN FC",
-   "published": "2026-08-03T15:59:54.000Z",
-   "fetched_at": "2026-08-03T16:18:44.148Z",
-   "body": [
-    "Our briefing: Wrexham ended their pre-season campaign with a 1-0 defeat to Sunderland in Philadelphia.",
-    "Wrexham ended their pre-season campaign with a 1-0 defeat to Sunderland in Philadelphia.",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by ESPN FC."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg"
-  },
-  {
-   "id": "espn-bar-s-flick-will-miss-rashford-after-utd-return",
-   "slug": "bar-a-s-flick-will-miss-rashford-after-utd-return-eturn",
-   "title": "Barça's Flick will 'miss' Rashford after Utd return",
-   "dek": "Barcelona boss Hansi Flick has said he will \"miss\" Marcus Rashford after the Manchester United forward returned to his parent club following a successful loan in Spain.",
-   "description": "Barcelona boss Hansi Flick has said he will \"miss\" Marcus Rashford after the Manchester United forward returned to his parent club following a successful loan in Spain.",
-   "category": "Transfers & Rumours",
-   "league": "Football",
-   "source": "espn",
-   "sourceName": "ESPN FC",
-   "published": "2026-08-03T15:59:54.000Z",
-   "fetched_at": "2026-08-03T16:18:44.148Z",
-   "body": [
-    "Our briefing: Barcelona boss Hansi Flick has said he will \"miss\" Marcus Rashford after the Manchester United forward returned to his parent club following a successful loan in Spain.",
-    "Barcelona boss Hansi Flick has said he will \"miss\" Marcus Rashford after the Manchester United forward returned to his parent club following a successful loan in Spain.",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by ESPN FC."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg",
-   "imageCredit": "YHC — CC BY-SA 4.0"
-  },
-  {
-   "id": "espn-sources-inter-miami-not-pursuing-quintero",
-   "slug": "sources-inter-miami-not-pursuing-quintero-ntero",
-   "title": "Sources: Inter Miami not pursuing Quintero",
-   "dek": "Inter Miami has not expressed interest in signing Colombian national team midfielder Juan Fernando Quintero, club sources confirmed to ESPN.",
-   "description": "Inter Miami has not expressed interest in signing Colombian national team midfielder Juan Fernando Quintero, club sources confirmed to ESPN.",
-   "category": "Transfers & Rumours",
-   "league": "Serie A",
-   "source": "espn",
-   "sourceName": "ESPN FC",
-   "published": "2026-08-03T15:59:54.000Z",
-   "fetched_at": "2026-08-03T16:18:44.148Z",
-   "body": [
-    "Our briefing: Inter Miami has not expressed interest in signing Colombian national team midfielder Juan Fernando Quintero, club sources confirmed to ESPN.",
-    "Inter Miami has not expressed interest in signing Colombian national team midfielder Juan Fernando Quintero, club sources confirmed to ESPN.",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by ESPN FC."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/%C3%89charpe_RC_Strasbourg_-_Inter_Milan%2C_1997.jpg/960px-%C3%89charpe_RC_Strasbourg_-_Inter_Milan%2C_1997.jpg",
-   "imageCredit": "The original uploader was 44Charles at French Wikipedia. — CC BY 3.0"
-  },
-  {
-   "id": "espn-top-premier-league-teams-transfer-strategies",
-   "slug": "top-premier-league-teams-transfer-strategies-egies",
-   "title": "⚽ Top Premier League teams' transfer strategies",
-   "dek": "Manchester United opted for affordable options, while Chelsea, Man City and Spurs all spent big. Here's the thinking behind the summer's transfer action so far.",
-   "description": "Manchester United opted for affordable options, while Chelsea, Man City and Spurs all spent big. Here's the thinking behind the summer's transfer action so far.",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "source": "espn",
-   "sourceName": "ESPN FC",
-   "published": "2026-08-03T15:59:54.000Z",
-   "fetched_at": "2026-08-03T16:18:44.148Z",
-   "body": [
-    "Our briefing: Manchester United opted for affordable options, while Chelsea, Man City and Spurs all spent big. Here's the thinking behind the summer's transfer action so far.",
-    "Manchester United opted for affordable options, while Chelsea, Man City and Spurs all spent big. Here's the thinking behind the summer's transfer action so far.",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by ESPN FC."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg",
-   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
-  },
-  {
-   "id": "guardian-marc-skinner-may-have-been-marmite-manager-but-m",
-   "slug": "marc-skinner-may-have-been-a-marmite-manager-but-manchester--but-m",
-   "title": "Marc Skinner may have been a Marmite manager but Manchester United’s budget was spread thin | Tom Garry",
-   "dek": "He divided opinion but made the most of a small budget – his successor must work with youngsters not big signings “If we want to compete at this later stage, we’ve seen…",
-   "description": "He divided opinion but made the most of a small budget – his successor must work with youngsters not big signings “If we want to compete at this later stage, we’ve seen what we’ve got to do, as a club. It’s our choice now, isn’t it? We have to look at what we seriously want to achieve … It takes, sometimes, a punch in the face to wake up.” Those were the words of the Manchester United head coach Marc Skinner after his side were knocked out of the Women’s Champions League by Bayern Munich in April. Just over four months later, the bruise from that punch has faded, but so, it would seem, have the club’s ambitions to compete in the transfer market, and Skinner has decided not to get into the ring for another round. Continue reading...",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-08-03T15:55:02.000Z",
-   "fetched_at": "2026-08-04T07:13:55.833Z",
-   "body": [
-    "Our briefing: He divided opinion but made the most of a small budget – his successor must work with youngsters not big signings “If we want to compete at this later stage, we’ve seen…",
-    "He divided opinion but made the most of a small budget – his successor must work with youngsters not big signings “If we want to compete at this later stage, we’ve seen what we’ve got to do, as a club. It’s our choice now, isn’t it? We have to look at what we seriously want to achieve … It takes, sometimes, a punch in the face to wake up.",
-    "” Those were the words of the Manchester United head coach Marc Skinner after his side were knocked out of the Women’s Champions League by Bayern Munich in April. Just over four months later, the bruise from that punch has faded, but so, it would seem, have the club’s ambitions to compete in the transfer market, and Skinner has decided not to get into the ring for another round. Continue reading...",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Manchester_United_1908-09.jpg/960px-Manchester_United_1908-09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "guardian-newcastle-reject-first-bid-arsenal-captain-bruno",
-   "slug": "newcastle-reject-first-bid-from-arsenal-for-captain-bruno-gu-bruno",
-   "title": "Newcastle reject first bid from Arsenal for captain Bruno Guimarães",
-   "dek": "Premier League champions have £70m offer turned down Brazil midfielder has arrived at Newcastle training camp Arsenal have stepped up their attempt to sign Bruno…",
-   "description": "Premier League champions have £70m offer turned down Brazil midfielder has arrived at Newcastle training camp Arsenal have stepped up their attempt to sign Bruno Guimarães by finally beginning formal transfer negotiations and making an opening offer, which Newcastle have rejected. Guimarães met Newcastle’s incoming manager, Matthias Jaissle, for the first time on Monday at the team’s pre-season training camp at La Manga after a post-World Cup holiday in Brazil. Continue reading...",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-08-03T15:46:54.000Z",
-   "fetched_at": "2026-08-04T07:13:55.833Z",
-   "body": [
-    "Our briefing: Premier League champions have £70m offer turned down Brazil midfielder has arrived at Newcastle training camp Arsenal have stepped up their attempt to sign Bruno…",
-    "Premier League champions have £70m offer turned down Brazil midfielder has arrived at Newcastle training camp Arsenal have stepped up their attempt to sign Bruno Guimarães by finally beginning formal transfer negotiations and making an opening offer, which Newcastle have rejected. Guimarães met Newcastle’s incoming manager, Matthias Jaissle, for the first time on Monday at the team’s pre-season training camp at La Manga after a post-World Cup holiday in Brazil. Continue reading...",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/NDL11904200_Notice_of_Transfer_of_Equipment_Report_%28Shirahama_Arsenal%2C_Osaka_Arsenal%2C_etc.%29_part2.pdf/page1-960px-NDL11904200_Notice_of_Transfer_of_Equipment_Report_%28Shirahama_Arsenal%2C_Osaka_Arsenal%2C_etc.%29_part2.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "espn-nwsl-power-rankings-utah-takes-top-spot-washingt",
-   "slug": "nwsl-power-rankings-utah-takes-top-spot-as-washington-tumble-hingt",
-   "title": "NWSL Power Rankings: Utah takes top spot as Washington tumbles down the order",
-   "dek": "Washington's loss to San Diego saw the Spirit surrender the No. 1 spot on ESPN's NWSL Power Rankings, with Utah laying claim to best in the league.",
-   "description": "Washington's loss to San Diego saw the Spirit surrender the No. 1 spot on ESPN's NWSL Power Rankings, with Utah laying claim to best in the league.",
-   "category": "News",
-   "league": "Football",
-   "source": "espn",
-   "sourceName": "ESPN FC",
-   "published": "2026-08-03T15:45:45.000Z",
-   "fetched_at": "2026-08-03T16:18:44.148Z",
-   "body": [
-    "Our briefing: Washington's loss to San Diego saw the Spirit surrender the No. 1 spot on ESPN's NWSL Power Rankings, with Utah laying claim to best in the league.",
-    "Washington's loss to San Diego saw the Spirit surrender the No. 1 spot on ESPN's NWSL Power Rankings, with Utah laying claim to best in the league.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by ESPN FC."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg",
-   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
-  },
-  {
-   "id": "espn-game-changers-how-ea-sports-made-video-game-epic",
-   "slug": "game-changers-how-ea-sports-made-a-video-game-the-epicenter---epic",
-   "title": "Game changers: How EA Sports made a video game the epicenter of soccer culture",
-   "dek": "Long before the EAFC video game franchise nestled itself at the epicenter of soccer culture, FIFA International Soccer was an unexpected bestseller.",
-   "description": "Long before the EAFC video game franchise nestled itself at the epicenter of soccer culture, FIFA International Soccer was an unexpected bestseller.",
-   "category": "Tactics & Analysis",
-   "league": "Football",
-   "source": "espn",
-   "sourceName": "ESPN FC",
-   "published": "2026-08-03T15:45:38.000Z",
-   "fetched_at": "2026-08-03T16:18:44.148Z",
-   "body": [
-    "Our briefing: Long before the EAFC video game franchise nestled itself at the epicenter of soccer culture, FIFA International Soccer was an unexpected bestseller.",
-    "Long before the EAFC video game franchise nestled itself at the epicenter of soccer culture, FIFA International Soccer was an unexpected bestseller.",
-    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
-    "This summary was compiled from reporting published by ESPN FC."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg",
-   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
-  },
-  {
-   "id": "independent-jordan-henderson-joins-chelsea-free-transfer-aft",
-   "slug": "jordan-henderson-joins-chelsea-on-free-transfer-after-leavin-r-aft",
-   "title": "Jordan Henderson joins Chelsea on free transfer after leaving Brentford",
-   "dek": "Former Liverpool captain Jordan Henderson has signed a two-year deal with Chelsea",
-   "description": "Former Liverpool captain Jordan Henderson has signed a two-year deal with Chelsea",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-08-03T15:40:04.000Z",
-   "fetched_at": "2026-08-04T07:13:55.955Z",
-   "body": [
-    "Our briefing: Former Liverpool captain Jordan Henderson has signed a two-year deal with Chelsea",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Chelsea_Football_Club%2C_Stamford_Bridge_%28Ank_kumar%29_06.jpg/960px-Chelsea_Football_Club%2C_Stamford_Bridge_%28Ank_kumar%29_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ank kumar — CC BY-SA 4.0"
   }
  ]
 }
