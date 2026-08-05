@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-05T13:11:16.233Z",
- "updated_utc": "2026-08-05T13:11Z",
- "cycle": 29765591,
+ "generated_at": "2026-08-05T15:38:35.828Z",
+ "updated_utc": "2026-08-05T15:38Z",
+ "cycle": 29765738,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,8 +16,277 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "bbc-why-arsenal-are-signing-newcastle-captain-guimar",
+ "hero_id": "independent-man-united-women-appoint-eva-olid-new-head-coach",
  "articles": [
+  {
+   "id": "bbc-rejecting-arsenal-emulating-hazard-monga-makes-d",
+   "slug": "rejecting-arsenal-emulating-hazard-monga-makes-debut-in-man--kes-d",
+   "title": "Rejecting Arsenal & emulating Hazard - Monga makes debut in Man City win",
+   "dek": "Jeremy Monga's £10m move from Leicester to Manchester City may have gone under the radar this summer, but the teenager's own career is not expected to go in quite the…",
+   "description": "Jeremy Monga's £10m move from Leicester to Manchester City may have gone under the radar this summer, but the teenager's own career is not expected to go in quite the same manner as he aims to emulate his idol Eden Hazard.",
+   "category": "News",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-05T15:22:36.000Z",
+   "fetched_at": "2026-08-05T15:38:28.898Z",
+   "body": [
+    "Our briefing: Jeremy Monga's £10m move from Leicester to Manchester City may have gone under the radar this summer, but the teenager's own career is not expected to go in quite the…",
+    "Jeremy Monga's £10m move from Leicester to Manchester City may have gone under the radar this summer, but the teenager's own career is not expected to go in quite the same manner as he aims to emulate his idol Eden Hazard.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Arsenal_Stadium_Highbury_east_facade.jpg/960px-Arsenal_Stadium_Highbury_east_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "No machine-readable author provided. Qwghlm~commonswiki assumed (based on copyright claims). — CC BY-SA 3.0"
+  },
+  {
+   "id": "independent-transfer-news-live-arsenal-agree-cut-price-bruno",
+   "slug": "news-live-arsenal-agree-cut-price-bruno-guimaraes-fee-salah--bruno",
+   "title": "news LIVE: Arsenal agree cut-price Bruno Guimaraes fee, Salah’s new club confirmed, Liverpool get Barcola…",
+   "dek": "Guimaraes, who wants to join the champions, has been given permission to travel to Arsenal and complete his £75m move",
+   "description": "Guimaraes, who wants to join the champions, has been given permission to travel to Arsenal and complete his £75m move",
+   "category": "Transfers & Rumours",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-08-05T15:09:28.000Z",
+   "fetched_at": "2026-08-05T15:38:29.481Z",
+   "body": [
+    "Our briefing: Guimaraes, who wants to join the champions, has been given permission to travel to Arsenal and complete his £75m move",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg/960px-Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
+   "id": "independent-man-united-women-appoint-eva-olid-new-head-coach",
+   "slug": "man-united-women-appoint-eva-olid-as-new-head-coach-after-ma-coach",
+   "title": "Man United Women appoint Eva Olid as new head coach after Marc Skinner exit",
+   "dek": "Olid led Hearts to their first Scottish women’s title in May",
+   "description": "Olid led Hearts to their first Scottish women’s title in May",
+   "category": "News",
+   "league": "Football",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-08-05T15:06:32.000Z",
+   "fetched_at": "2026-08-05T15:38:29.481Z",
+   "body": [
+    "Our briefing: Olid led Hearts to their first Scottish women’s title in May",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "John Shorten — CC BY 4.0"
+  },
+  {
+   "id": "bbc-why-efl-cup-being-played-weekend",
+   "slug": "why-is-the-efl-cup-being-played-on-a-weekend-ekend",
+   "title": "Why is the EFL Cup being played on a weekend?",
+   "dek": "The bulk of the EFL cup's first round fixtures will take place on a weekend, despite traditionally being a midweek cup competition.",
+   "description": "The bulk of the EFL cup's first round fixtures will take place on a weekend, despite traditionally being a midweek cup competition.",
+   "category": "Tactics & Analysis",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-05T15:04:08.000Z",
+   "fetched_at": "2026-08-05T15:38:28.899Z",
+   "body": [
+    "Our briefing: The bulk of the EFL cup's first round fixtures will take place on a weekend, despite traditionally being a midweek cup competition.",
+    "The bulk of the EFL cup's first round fixtures will take place on a weekend, despite traditionally being a midweek cup competition.",
+    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
+  },
+  {
+   "id": "guardian-lu-s-figo-blasts-deceitful-infantino-says-fifa-p",
+   "slug": "lu-s-figo-blasts-deceitful-infantino-and-says-fifa-president-ifa-p",
+   "title": "Luís Figo blasts ‘deceitful’ Infantino and says Fifa president must quit to ‘save football’",
+   "dek": "Portugal legend calls for Fifa president to stand down ‘Too late to save his dignity, not too late to save football’ The Portugal legend Luís Figo has described Gianni…",
+   "description": "Portugal legend calls for Fifa president to stand down ‘Too late to save his dignity, not too late to save football’ The Portugal legend Luís Figo has described Gianni Infantino’s ill-fated scheme to sell off stakes in the World Cup to private investors as “the lowest, most deceitful and cravenly self-interested behaviour I have ever witnessed” and called on the Fifa president to resign. Infantino was forced to scrap his controversial proposal after a fierce backlash that was led by Uefa, with the 56-year-old now battling for his future having called an emergency meeting of Fifa staff on Wednesday as pressure on him mounts. Continue reading...",
+   "category": "News",
+   "league": "Football",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-08-05T15:03:11.000Z",
+   "fetched_at": "2026-08-05T15:38:29.088Z",
+   "body": [
+    "Our briefing: Portugal legend calls for Fifa president to stand down ‘Too late to save his dignity, not too late to save football’ The Portugal legend Luís Figo has described Gianni…",
+    "Portugal legend calls for Fifa president to stand down ‘Too late to save his dignity, not too late to save football’ The Portugal legend Luís Figo has described Gianni Infantino’s ill-fated scheme to sell off stakes in the World Cup to private investors as “the lowest, most deceitful and cravenly self-interested behaviour I have ever witnessed” and called on the Fifa president to resign. Infantino was forced to scrap his controversial proposal after a fierce backlash that was led by Uefa, with the 56-year-old now battling for his future having called an emergency meeting of Fifa staff on Wednesday as pressure on him mounts. Continue reading...",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+  },
+  {
+   "id": "bbc-celtic-boss-o-neill-hospital-after-surgery",
+   "slug": "celtic-boss-o-neill-in-hospital-after-surgery-rgery",
+   "title": "Celtic boss O'Neill in hospital after surgery",
+   "dek": "Celtic manager Martin O'Neill remains in hospital after undergoing a \"small procedure\", the club announce.",
+   "description": "Celtic manager Martin O'Neill remains in hospital after undergoing a \"small procedure\", the club announce.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-05T14:58:25.000Z",
+   "fetched_at": "2026-08-05T15:38:28.897Z",
+   "body": [
+    "Our briefing: Celtic manager Martin O'Neill remains in hospital after undergoing a \"small procedure\", the club announce.",
+    "Celtic manager Martin O'Neill remains in hospital after undergoing a \"small procedure\", the club announce.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Celtic_Park_during_an_Old_Firm_derby_between_Celtic_FC_and_Rangers_FC.jpg/960px-Celtic_Park_during_an_Old_Firm_derby_between_Celtic_FC_and_Rangers_FC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Vincenzo.togni — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-no-wsl-experience-but-who-new-man-utd-boss-olid",
+   "slug": "no-wsl-experience-but-who-is-new-man-utd-boss-olid--olid",
+   "title": "No WSL experience but who is new Man Utd boss Olid?",
+   "dek": "Manchester United appoint former Hearts boss Eva Olid as their new women's manager on a two-year deal, with an option for a further 12 months.",
+   "description": "Manchester United appoint former Hearts boss Eva Olid as their new women's manager on a two-year deal, with an option for a further 12 months.",
+   "category": "News",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-05T14:44:37.000Z",
+   "fetched_at": "2026-08-05T15:38:28.898Z",
+   "body": [
+    "Our briefing: Manchester United appoint former Hearts boss Eva Olid as their new women's manager on a two-year deal, with an option for a further 12 months.",
+    "Manchester United appoint former Hearts boss Eva Olid as their new women's manager on a two-year deal, with an option for a further 12 months.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Manchester_United_Old_Trafford.jpg/960px-Manchester_United_Old_Trafford.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
+  },
+  {
+   "id": "bbc-dream-come-true-ex-hearts-boss-olid-takes-charge",
+   "slug": "dream-come-true-as-ex-hearts-boss-olid-takes-charge-at-man-u-harge",
+   "title": "'Dream come true' as ex-Hearts boss Olid takes charge at Man Utd",
+   "dek": "Manchester United appoint former Hearts boss Eva Olid as their new women's manager on a two-year deal, with an option for a further 12 months.",
+   "description": "Manchester United appoint former Hearts boss Eva Olid as their new women's manager on a two-year deal, with an option for a further 12 months.",
+   "category": "News",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-05T14:44:37.000Z",
+   "fetched_at": "2026-08-05T15:38:28.900Z",
+   "body": [
+    "Our briefing: Manchester United appoint former Hearts boss Eva Olid as their new women's manager on a two-year deal, with an option for a further 12 months.",
+    "Manchester United appoint former Hearts boss Eva Olid as their new women's manager on a two-year deal, with an option for a further 12 months.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Manchester_United_Old_Trafford_%28cropped%29.jpg/960px-Manchester_United_Old_Trafford_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
+  },
+  {
+   "id": "independent-key-dates-decide-gianni-infantino-s-future-fifa-",
+   "slug": "key-dates-to-decide-gianni-infantino-s-future-as-fifa-offici-fifa-",
+   "title": "Key dates to decide Gianni Infantino’s future as Fifa officials summoned to crisis meeting",
+   "dek": "Infantino is under intense pressure as footballing bodies turn against the Fifa president in the fallout of his botched World Cup sell-off scheme",
+   "description": "Infantino is under intense pressure as footballing bodies turn against the Fifa president in the fallout of his botched World Cup sell-off scheme",
+   "category": "News",
+   "league": "Football",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-08-05T14:43:51.000Z",
+   "fetched_at": "2026-08-05T15:38:29.481Z",
+   "body": [
+    "Our briefing: Infantino is under intense pressure as footballing bodies turn against the Fifa president in the fallout of his botched World Cup sell-off scheme",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+  },
+  {
+   "id": "independent-spanish-government-urged-reconsider-hosting-2030",
+   "slug": "spanish-government-urged-to-reconsider-hosting-2030-world-cu--2030",
+   "title": "Spanish government urged to reconsider hosting 2030 World Cup with Morocco after Ceuta crisis",
+   "dek": "Spain is due to co-host the 2030 World Cup with Morocco and Portugal",
+   "description": "Spain is due to co-host the 2030 World Cup with Morocco and Portugal",
+   "category": "News",
+   "league": "International",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-08-05T14:36:38.000Z",
+   "fetched_at": "2026-08-05T15:38:29.481Z",
+   "body": [
+    "Our briefing: Spain is due to co-host the 2030 World Cup with Morocco and Portugal",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+  },
+  {
+   "id": "guardian-dream-come-true-eva-olid-delighted-after-being-n",
+   "slug": "dream-come-true-eva-olid-delighted-after-being-named-manches-ing-n",
+   "title": "‘Dream come true’: Eva Olid delighted after being named Manchester United’s new head coach",
+   "dek": "United impressed by her ability to develop players Spaniard signs two-year deal after guiding Hearts to glory Eva Olid has described being appointed as the Manchester…",
+   "description": "United impressed by her ability to develop players Spaniard signs two-year deal after guiding Hearts to glory Eva Olid has described being appointed as the Manchester United Women head coach as a dream come true, after signing a two-year contract until 2028 with the option of a further year. The Spanish coach will replace Marc Skinner, whose surprise departure was announced on Monday morning . Continue reading...",
+   "category": "Transfers & Rumours",
+   "league": "Premier League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-08-05T14:10:54.000Z",
+   "fetched_at": "2026-08-05T15:38:29.088Z",
+   "body": [
+    "Our briefing: United impressed by her ability to develop players Spaniard signs two-year deal after guiding Hearts to glory Eva Olid has described being appointed as the Manchester…",
+    "United impressed by her ability to develop players Spaniard signs two-year deal after guiding Hearts to glory Eva Olid has described being appointed as the Manchester United Women head coach as a dream come true, after signing a two-year contract until 2028 with the option of a further year. The Spanish coach will replace Marc Skinner, whose surprise departure was announced on Monday morning . Continue reading...",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Manchester_United_1908-09.jpg/960px-Manchester_United_1908-09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
+   "id": "guardian-transfer-roundup-coventry-make-yirenkyi-new-reco",
+   "slug": "roundup-coventry-to-make-yirenkyi-new-record-signing-palace---reco",
+   "title": "roundup: Coventry to make Yirenkyi new record signing, Palace swoop for Gozo",
+   "dek": "Promoted side closing on £23m deal with Nordsjælland Palace target USA’s Zavier Gozo, hold firm on Wharton Coventry are set to break their transfer record for the fourth…",
+   "description": "Promoted side closing on £23m deal with Nordsjælland Palace target USA’s Zavier Gozo, hold firm on Wharton Coventry are set to break their transfer record for the fourth time in this window after agreeing a £23m fee with Danish side Nordsjælland for the Ghana midfielder Caleb Yirenkyi. The deal for Yirenkyi, who impressed during the Black Stars’ World Cup campaign and scored the winning goal against Panama in the group stage, is set to be a record for the Danish top flight and comes after Coventry have already spent almost £60m on the winger Loum Tchaouna, the defender Aurèle Amenda and the goalkeeper Carl Rushworth. Yirenkyi, who was named young player of the year in the Danish league last season, will travel to Coventry in the coming hours to complete his move. Continue reading...",
+   "category": "Transfers & Rumours",
+   "league": "Football",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-08-05T13:49:12.000Z",
+   "fetched_at": "2026-08-05T15:38:29.089Z",
+   "body": [
+    "Our briefing: Promoted side closing on £23m deal with Nordsjælland Palace target USA’s Zavier Gozo, hold firm on Wharton Coventry are set to break their transfer record for the fourth…",
+    "Promoted side closing on £23m deal with Nordsjælland Palace target USA’s Zavier Gozo, hold firm on Wharton Coventry are set to break their transfer record for the fourth time in this window after agreeing a £23m fee with Danish side Nordsjælland for the Ghana midfielder Caleb Yirenkyi. The deal for Yirenkyi, who impressed during the Black Stars’ World Cup campaign and scored the winning goal against Panama in the group stage, is set to be a record for the Danish top flight and comes after Coventry have already spent almost £60m on the winger Loum Tchaouna, the defender Aurèle Amenda and the goalkeeper Carl Rushworth. Yirenkyi, who was named young player of the year in the Danish league last season, will travel to Coventry in the coming hours to complete his move.",
+    "Continue reading...",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "YHC — CC BY-SA 4.0"
+  },
+  {
+   "id": "independent-chelsea-vs-juventus-live-edon-zhegrova-strike-gi",
+   "slug": "chelsea-vs-juventus-live-edon-zhegrova-strike-gives-serie-a--ke-gi",
+   "title": "Chelsea vs Juventus LIVE: Edon Zhegrova strike gives Serie A side victory in pre-season friendly",
+   "dek": "The Blues were beaten 1-0 by Juve in Hong Kong as Xabi Alonso continues to get to grips with his emerging squad",
+   "description": "The Blues were beaten 1-0 by Juve in Hong Kong as Xabi Alonso continues to get to grips with his emerging squad",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-08-05T13:30:10.000Z",
+   "fetched_at": "2026-08-05T15:38:29.481Z",
+   "body": [
+    "Our briefing: The Blues were beaten 1-0 by Juve in Hong Kong as Xabi Alonso continues to get to grips with his emerging squad",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Chelsea_vs_union_1929.jpg/960px-Chelsea_vs_union_1929.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
   {
    "id": "independent-why-arsenal-had-sign-bruno-guimaraes-how-he-fits",
    "slug": "why-arsenal-had-to-sign-bruno-guimaraes-and-how-he-fits-into--fits",
@@ -29,14 +298,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-05T13:01:58.000Z",
-   "fetched_at": "2026-08-05T13:11:09.190Z",
+   "fetched_at": "2026-08-05T15:38:29.481Z",
    "body": [
     "Our briefing: The Brazilian is the king of midfield ‘duels’ – one of Mikel Arteta’s favourite buzzwords – but also brings his range of passing to increase the competition for places at…",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Arsenal_Stadium_Highbury_east_facade.jpg/960px-Arsenal_Stadium_Highbury_east_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "No machine-readable author provided. Qwghlm~commonswiki assumed (based on copyright claims). — CC BY-SA 3.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Arsenal_Stadium_in_Tula.jpg/960px-Arsenal_Stadium_in_Tula.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "UMNICK — CC BY-SA 3.0"
   },
   {
    "id": "independent-chelsea-vs-juventus-live-edon-zhegrova-strikes-g",
@@ -55,28 +324,7 @@
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Chelsea_vs_union_1929.jpg/960px-Chelsea_vs_union_1929.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "independent-transfer-news-live-arsenal-agree-cut-price-bruno",
-   "slug": "news-live-arsenal-agree-cut-price-bruno-guimaraes-fee-salah--bruno",
-   "title": "news LIVE: Arsenal agree cut-price Bruno Guimaraes fee, Salah’s new club confirmed, Liverpool get Barcola…",
-   "dek": "Guimaraes, who wants to join the champions, has been given permission to travel to Arsenal and complete his £75m move",
-   "description": "Guimaraes, who wants to join the champions, has been given permission to travel to Arsenal and complete his £75m move",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-08-05T12:57:49.000Z",
-   "fetched_at": "2026-08-05T13:11:09.190Z",
-   "body": [
-    "Our briefing: Guimaraes, who wants to join the champions, has been given permission to travel to Arsenal and complete his £75m move",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg/960px-Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Chelsea_vs_union_1929.jpg/960px-Chelsea_vs_union_1929.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
    "id": "independent-why-mohamed-salah-signing-trabzonspor",
@@ -89,14 +337,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-05T12:39:50.000Z",
-   "fetched_at": "2026-08-05T13:11:09.190Z",
+   "fetched_at": "2026-08-05T15:38:29.481Z",
    "body": [
     "Our briefing: As Salah is a free agent, Trabzonspor would have needed to commit to covering the Egyptian’s enormous wages - but the Liverpool icon also offers huge commercial upside",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "YHC — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
   },
   {
    "id": "independent-real-madrid-legend-implores-deceitful-gianni-inf",
@@ -109,7 +357,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-05T12:36:45.000Z",
-   "fetched_at": "2026-08-05T13:11:09.190Z",
+   "fetched_at": "2026-08-05T15:38:29.481Z",
    "body": [
     "Our briefing: Infantino is under immense pressure after his foiled plans to sell stakes in the World Cup to private investors",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -129,14 +377,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-05T11:55:50.000Z",
-   "fetched_at": "2026-08-05T13:11:09.044Z",
+   "fetched_at": "2026-08-05T15:38:28.898Z",
    "body": [
     "Our briefing: With Bruno Guimaraes set to sign for Premier League champions Arsenal, BBC Sport look at why the Gunners wanted the Newcastle skipper.",
     "With Bruno Guimaraes set to sign for Premier League champions Arsenal, BBC Sport look at why the Gunners wanted the Newcastle skipper.",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/NDL11904200_Notice_of_Transfer_of_Equipment_Report_%28Shirahama_Arsenal%2C_Osaka_Arsenal%2C_etc.%29_part1.pdf/page1-960px-NDL11904200_Notice_of_Transfer_of_Equipment_Report_%28Shirahama_Arsenal%2C_Osaka_Arsenal%2C_etc.%29_part1.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/NDL11904200_Notice_of_Transfer_of_Equipment_Report_%28Shirahama_Arsenal%2C_Osaka_Arsenal%2C_etc.%29_part2.pdf/page1-960px-NDL11904200_Notice_of_Transfer_of_Equipment_Report_%28Shirahama_Arsenal%2C_Osaka_Arsenal%2C_etc.%29_part2.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
   },
   {
@@ -150,15 +398,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-05T11:50:39.000Z",
-   "fetched_at": "2026-08-05T13:11:09.045Z",
+   "fetched_at": "2026-08-05T15:38:28.899Z",
    "body": [
     "Our briefing: Lincoln City midfielder Jack Moylan is poised to join Championship rivals Cardiff City after an impressive last season in League One.",
     "Lincoln City midfielder Jack Moylan is poised to join Championship rivals Cardiff City after an impressive last season in League One.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "John Shorten — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "bbc-shark-de-zerbi-hopes-drag-spurs-up-depths",
@@ -171,15 +419,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-05T11:00:55.000Z",
-   "fetched_at": "2026-08-05T13:11:09.044Z",
+   "fetched_at": "2026-08-05T15:38:28.898Z",
    "body": [
     "Our briefing: Through his self-confessed love of the transfer window, Tottenham boss Roberto de Zerbi hopes he can guide his club back up the Premier League table.",
     "Through his self-confessed love of the transfer window, Tottenham boss Roberto de Zerbi hopes he can guide his club back up the Premier League table.",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Badalik_Szabolcs_Hungarian_beach_soccer_player.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "Badalik Szabolcs — CC BY 4.0"
   },
   {
    "id": "guardian-media-deals-roster-rules-five-priorities-mls-s-n",
@@ -192,7 +440,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-05T11:00:17.000Z",
-   "fetched_at": "2026-08-05T13:11:09.138Z",
+   "fetched_at": "2026-08-05T15:38:29.089Z",
    "body": [
     "Our briefing: Larry Berg will have plenty of things on his to-do list when he officially starts as the league’s commissioner in January As Larry Berg fielded his first wave of…",
     "Larry Berg will have plenty of things on his to-do list when he officially starts as the league’s commissioner in January As Larry Berg fielded his first wave of questions as MLS commissioner-elect, he tried to make clear his ambitious vision to take the league to another level. Until a question about the league’s broadcasting plans came up, that is. To his right sat Don Garber, whose 28-year tenure in the role will conclude at year’s end.",
@@ -200,8 +448,8 @@
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "bbc-salah-given-hero-s-welcome-before-trabzonspor-mo",
@@ -214,15 +462,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-05T10:57:54.000Z",
-   "fetched_at": "2026-08-05T13:11:09.044Z",
+   "fetched_at": "2026-08-05T15:38:28.898Z",
    "body": [
     "Our briefing: Turkish club Trabzonspor are set to confirm the signing of Egypt captain and former Liverpool forward Mohamed Salah.",
     "Turkish club Trabzonspor are set to confirm the signing of Egypt captain and former Liverpool forward Mohamed Salah.",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Badalik_Szabolcs_Hungarian_beach_soccer_player.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "Badalik Szabolcs — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": null
   },
   {
    "id": "guardian-crystal-palace-ready-swoop-us-star-zavier-gozo-s",
@@ -257,14 +505,14 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-05T10:48:47.000Z",
-   "fetched_at": "2026-08-05T13:11:09.137Z",
+   "fetched_at": "2026-08-05T15:38:29.088Z",
    "body": [
     "Our briefing: Salah greeted by hundreds of fans before free transfer Egypt star left Liverpool this summer after nine years Mohamed Salah arrived smiling at an Istanbul airport on…",
     "Salah greeted by hundreds of fans before free transfer Egypt star left Liverpool this summer after nine years Mohamed Salah arrived smiling at an Istanbul airport on Wednesday wearing Trabzonspor’s burgundy and blue kit ahead of ⁠his expected move to ⁠the Turkish Super Lig ​side, as hundreds of fans jostled for a glimpse of the Egyptian forward. Trabzonspor announced on Tuesday they were in negotiations with ⁠Salah and the club chairman, Ertugrul Dogan, said they expected to sign the 34-year-old on a free transfer at a ceremony in the Black Sea city on Thursday. Continue reading...",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
   },
   {
@@ -298,14 +546,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-05T10:43:01.000Z",
-   "fetched_at": "2026-08-05T13:11:09.190Z",
+   "fetched_at": "2026-08-05T15:38:29.481Z",
    "body": [
     "Our briefing: Manchester United signed Karl Darlow earlier this summer and are now set to offload two goalkeepers",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "bbc-hull-sign-goalkeeper-tzolakis-club-record-fee",
@@ -318,15 +566,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-05T10:35:01.000Z",
-   "fetched_at": "2026-08-05T13:11:09.045Z",
+   "fetched_at": "2026-08-05T15:38:28.898Z",
    "body": [
     "Our briefing: Hull City sign Greece goalkeeper Konstantinos Tzolakis from Olympiacos on a five-year deal for a club-record fee.",
     "Hull City sign Greece goalkeeper Konstantinos Tzolakis from Olympiacos on a five-year deal for a club-record fee.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
    "id": "guardian-arsenal-agree-75m-fee-newcastle-bruno-guimar-es-",
@@ -339,7 +587,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-05T10:23:19.000Z",
-   "fetched_at": "2026-08-05T13:11:09.137Z",
+   "fetched_at": "2026-08-05T15:38:29.089Z",
    "body": [
     "Our briefing: Magpies rejected opening offer of £70m on Monday Newcastle captain to travel from Spain training camp Bruno Guimarães is set to leave Newcastle’s pre-season training camp…",
     "Magpies rejected opening offer of £70m on Monday Newcastle captain to travel from Spain training camp Bruno Guimarães is set to leave Newcastle’s pre-season training camp in southern Spain and fly to London before a £75m move to Arsenal. The out-going Newcastle captain is scheduled to undergo a medical in north London in the next couple of days after the two clubs finally compromised on the fee. While Arsenal had initially wanted to pay no more than £60m for the Brazil midfielder, who turns 29 in November and has two years remaining on his contract, Newcastle demanded a minimum of £80m.",
@@ -347,7 +595,7 @@
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/NDL11904200_Notice_of_Transfer_of_Equipment_Report_%28Shirahama_Arsenal%2C_Osaka_Arsenal%2C_etc.%29_part2.pdf/page1-960px-NDL11904200_Notice_of_Transfer_of_Equipment_Report_%28Shirahama_Arsenal%2C_Osaka_Arsenal%2C_etc.%29_part2.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/NDL11904200_Notice_of_Transfer_of_Equipment_Report_%28Shirahama_Arsenal%2C_Osaka_Arsenal%2C_etc.%29_part1.pdf/page1-960px-NDL11904200_Notice_of_Transfer_of_Equipment_Report_%28Shirahama_Arsenal%2C_Osaka_Arsenal%2C_etc.%29_part1.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
   },
   {
@@ -361,15 +609,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-05T10:16:45.000Z",
-   "fetched_at": "2026-08-05T13:11:09.045Z",
+   "fetched_at": "2026-08-05T15:38:28.899Z",
    "body": [
     "Our briefing: Nottingham Forest eye Tijjani Reijnders, Spurs want Savinho and Nicolas Jackson, Real Madrid resume Vinicius Jr contract talks, plus more.",
     "Nottingham Forest eye Tijjani Reijnders, Spurs want Savinho and Nicolas Jackson, Real Madrid resume Vinicius Jr contract talks, plus more.",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   },
   {
    "id": "independent-2026-27-premier-league-relegation-betting-tips-t",
@@ -382,7 +630,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-05T10:14:24.000Z",
-   "fetched_at": "2026-08-05T13:11:09.190Z",
+   "fetched_at": "2026-08-05T15:38:29.481Z",
    "body": [
     "Our briefing: Follow our football betting tips ahead of the 2026/27 Premier League season",
     "Team news can change right up to kick-off. Bookmark this story for the final line-ups and confirmed sides.",
@@ -402,15 +650,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-05T10:08:49.000Z",
-   "fetched_at": "2026-08-05T13:11:09.044Z",
+   "fetched_at": "2026-08-05T15:38:28.898Z",
    "body": [
     "Our briefing: Fifa president Gianni Infantino will face senior leaders of football's world governing body on Wednesday. This is what is expected to happen.",
     "Fifa president Gianni Infantino will face senior leaders of football's world governing body on Wednesday. This is what is expected to happen.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
    "id": "guardian-continuity-chaos-rodman-how-washington-spirit-ar",
@@ -423,7 +671,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-05T10:00:17.000Z",
-   "fetched_at": "2026-08-05T13:11:09.137Z",
+   "fetched_at": "2026-08-05T15:38:29.089Z",
    "body": [
     "Our briefing: International talent and one of US’s most marketable players to fore as league approaches business end The National Women’s Soccer League is just past the midway point of…",
     "International talent and one of US’s most marketable players to fore as league approaches business end The National Women’s Soccer League is just past the midway point of its 14th regular season, with 12 of 30 games remaining in the regular season (though half the league’s teams have one or more games in hand). Despite a number of developments in 2026 – including two new expansion teams and the Utah Royals on a historic tear – some things have stayed consistent. At the moment, that includes a third consecutive season featuring the Washington Spirit as a top-two team.",
@@ -431,8 +679,8 @@
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "independent-gianni-infantino-summons-senior-fifa-officials-c",
@@ -445,14 +693,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-05T09:08:13.000Z",
-   "fetched_at": "2026-08-05T13:11:09.190Z",
+   "fetched_at": "2026-08-05T15:38:29.481Z",
    "body": [
     "Our briefing: Infantino was accused of ‘blackmail’ and faced more attacks from senior Fifa figures on another bruising day on Tuesday",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Kashima_Soccer_Stadium_6.jpg/960px-Kashima_Soccer_Stadium_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   },
   {
    "id": "bbc-japanese-winger-yokota-joins-rangers-hannover",
@@ -465,7 +713,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-05T09:01:35.000Z",
-   "fetched_at": "2026-08-05T13:11:09.045Z",
+   "fetched_at": "2026-08-05T15:38:28.899Z",
    "body": [
     "Our briefing: Japanese winger Daisuke Yokota hopes to make \"special memories\" after joining Rangers from Hannover.",
     "Japanese winger Daisuke Yokota hopes to make \"special memories\" after joining Rangers from Hannover.",
@@ -486,7 +734,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-05T09:01:35.000Z",
-   "fetched_at": "2026-08-05T13:11:09.047Z",
+   "fetched_at": "2026-08-05T15:38:28.900Z",
    "body": [
     "Our briefing: Japanese winger Daisuke Yokota hopes to make \"special memories\" after joining Rangers from Hannover.",
     "Japanese winger Daisuke Yokota hopes to make \"special memories\" after joining Rangers from Hannover.",
@@ -516,26 +764,6 @@
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg/960px-Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
-   "id": "independent-key-dates-decide-gianni-infantino-s-future-fifa-",
-   "slug": "key-dates-to-decide-gianni-infantino-s-future-as-fifa-offici-fifa-",
-   "title": "Key dates to decide Gianni Infantino’s future as Fifa officials summoned to crisis meeting",
-   "dek": "Infantino is under intense pressure as footballing bodies turn against the Fifa president in the fallout of his botched World Cup sell-off scheme",
-   "description": "Infantino is under intense pressure as footballing bodies turn against the Fifa president in the fallout of his botched World Cup sell-off scheme",
-   "category": "News",
-   "league": "Football",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-08-05T08:05:15.000Z",
-   "fetched_at": "2026-08-05T13:11:09.191Z",
-   "body": [
-    "Our briefing: Infantino is under intense pressure as footballing bodies turn against the Fifa president in the fallout of his botched World Cup sell-off scheme",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
    "id": "guardian-football-transfer-rumours-folarin-balogun-spurs-",
    "slug": "transfer-rumours-folarin-balogun-to-spurs-pedro-neto-to-manc-purs-",
    "title": "transfer rumours: Folarin Balogun to Spurs? Pedro Neto to Manchester City?",
@@ -546,7 +774,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-05T07:31:34.000Z",
-   "fetched_at": "2026-08-05T13:11:09.137Z",
+   "fetched_at": "2026-08-05T15:38:29.091Z",
    "body": [
     "Our briefing: Today’s fluff is riding a unicycle It’s been a quiet summer thus far for Folarin Balogun , so why not stir up some controversy by signing for the arch rivals of your…",
     "Today’s fluff is riding a unicycle It’s been a quiet summer thus far for Folarin Balogun , so why not stir up some controversy by signing for the arch rivals of your boyhood club? The Monaco striker, who started his career at Arsenal, is being linked with a move to Tottenham, who need a goalscorer to ensure they do not finish 17th again. The American’s agents have offered him to Roberto De Zerbi’s side to see if they are willing to bite.",
@@ -555,8 +783,8 @@
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
    "id": "bbc-chelsea-nearing-16-3m-deal-rayo-defender-chavarr",
@@ -569,7 +797,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-05T07:28:14.000Z",
-   "fetched_at": "2026-08-05T13:11:09.045Z",
+   "fetched_at": "2026-08-05T15:38:28.899Z",
    "body": [
     "Our briefing: Chelsea are closing in on an agreement with Rayo Vallecano for defender Pep Chavarria.",
     "Chelsea are closing in on an agreement with Rayo Vallecano for defender Pep Chavarria.",
@@ -590,7 +818,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-05T07:00:13.000Z",
-   "fetched_at": "2026-08-05T13:11:09.138Z",
+   "fetched_at": "2026-08-05T15:38:29.089Z",
    "body": [
     "Our briefing: Spanish full-back on moving on from the Emirates Stadium, his elation at his old club ending their title drought, and how Mikel Arteta has helped prolong his career One…",
     "Spanish full-back on moving on from the Emirates Stadium, his elation at his old club ending their title drought, and how Mikel Arteta has helped prolong his career One day when he was 18 or 19, still near the start of his journey, Héctor Bellerín got a call from Mikel Arteta inviting him round. He remembers asking lunch or dinner but this was neither. “When I arrived that afternoon, he was sitting with a financial adviser and they started to ask: ‘How much do you spend on this?",
@@ -601,8 +829,8 @@
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Arsenal_Stadium_in_Tula.jpg/960px-Arsenal_Stadium_in_Tula.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "UMNICK — CC BY-SA 3.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/West_Stand_entrance%2C_Arsenal_Stadium%2C_Highbury_-_geograph.org.uk_-_1967580.jpg/960px-West_Stand_entrance%2C_Arsenal_Stadium%2C_Highbury_-_geograph.org.uk_-_1967580.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Julian Osley — CC BY-SA 2.0"
   },
   {
    "id": "guardian-which-footballer-made-biggest-leap-competitive-l",
@@ -615,7 +843,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-05T07:00:12.000Z",
-   "fetched_at": "2026-08-05T13:11:09.137Z",
+   "fetched_at": "2026-08-05T15:38:29.089Z",
    "body": [
     "Our briefing: Plus: worst penalty shootouts, poachers turned gamekeepers … and footballers donating antiques?! Mail us with your all of your questions and answers “Malachi…",
     "Plus: worst penalty shootouts, poachers turned gamekeepers … and footballers donating antiques?! Mail us with your all of your questions and answers “Malachi Fagan-Walcott’s final game of last season was for York City against Rochdale in the National League. His first competitive game of 2026-27 season was for Hearts against Sturm Graz in a Champions League qualifier.",
@@ -626,237 +854,8 @@
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-podcast-crunch-time-motherwell-hibs",
-   "slug": "podcast-crunch-time-for-motherwell-hibs--hibs",
-   "title": "Podcast: Crunch time for Motherwell & Hibs",
-   "dek": "Can Motherwell and Hibs take another step towards the Conference League?",
-   "description": "Can Motherwell and Hibs take another step towards the Conference League?",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-05T07:00:00.000Z",
-   "fetched_at": "2026-08-05T13:11:09.047Z",
-   "body": [
-    "Our briefing: Can Motherwell and Hibs take another step towards the Conference League?",
-    "Can Motherwell and Hibs take another step towards the Conference League?",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-vozinha-granted-shirt-name-exemption-chile-fa",
-   "slug": "vozinha-granted-shirt-name-exemption-by-chile-fa-le-fa",
-   "title": "Vozinha granted shirt name exemption by Chile FA",
-   "dek": "The Chilean Football Federation (ANFP) grants an exemption to allow Cape Verde goalkeeper Vozinha to wear his nickname on his shirt after signing for Colo Colo.",
-   "description": "The Chilean Football Federation (ANFP) grants an exemption to allow Cape Verde goalkeeper Vozinha to wear his nickname on his shirt after signing for Colo Colo.",
-   "category": "Transfers & Rumours",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-05T06:44:38.000Z",
-   "fetched_at": "2026-08-05T13:11:09.045Z",
-   "body": [
-    "Our briefing: The Chilean Football Federation (ANFP) grants an exemption to allow Cape Verde goalkeeper Vozinha to wear his nickname on his shirt after signing for Colo Colo.",
-    "The Chilean Football Federation (ANFP) grants an exemption to allow Cape Verde goalkeeper Vozinha to wear his nickname on his shirt after signing for Colo Colo.",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "bbc-celtic-push-ghedjemis-deal-rangers-face-yokota-r",
-   "slug": "celtic-push-for-ghedjemis-deal-as-rangers-face-yokota-race-g-ota-r",
-   "title": "Celtic push for Ghedjemis deal as Rangers face Yokota race - gossip",
-   "dek": "Possible incomings at Celtic as Scottish champions' former left-back moves to Houston Dynamo.",
-   "description": "Possible incomings at Celtic as Scottish champions' former left-back moves to Houston Dynamo.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-05T06:40:41.000Z",
-   "fetched_at": "2026-08-05T13:11:09.047Z",
-   "body": [
-    "Our briefing: Possible incomings at Celtic as Scottish champions' former left-back moves to Houston Dynamo.",
-    "Possible incomings at Celtic as Scottish champions' former left-back moves to Houston Dynamo.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Celtic_Park_during_an_Old_Firm_derby_between_Celtic_FC_and_Rangers_FC.jpg/960px-Celtic_Park_during_an_Old_Firm_derby_between_Celtic_FC_and_Rangers_FC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Vincenzo.togni — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-arsenal-set-sign-newcastle-captain-guimaraes",
-   "slug": "arsenal-set-to-sign-newcastle-captain-guimaraes-araes",
-   "title": "Arsenal set to sign Newcastle captain Guimaraes",
-   "dek": "Arsenal are set to complete their protracted move for Newcastle captain Bruno Guimaraes.",
-   "description": "Arsenal are set to complete their protracted move for Newcastle captain Bruno Guimaraes.",
-   "category": "News",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-05T06:29:40.000Z",
-   "fetched_at": "2026-08-05T13:11:09.045Z",
-   "body": [
-    "Our briefing: Arsenal are set to complete their protracted move for Newcastle captain Bruno Guimaraes.",
-    "Arsenal are set to complete their protracted move for Newcastle captain Bruno Guimaraes.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/West_Stand_entrance%2C_Arsenal_Stadium%2C_Highbury_-_geograph.org.uk_-_1967580.jpg/960px-West_Stand_entrance%2C_Arsenal_Stadium%2C_Highbury_-_geograph.org.uk_-_1967580.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Julian Osley — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-football-daily",
-   "slug": "daily-daily",
-   "title": "Daily",
-   "dek": "Did Messi rage quit FIFA, did Fenners score at Wembley or did Rivaldo wee in a bush?",
-   "description": "Did Messi rage quit FIFA, did Fenners score at Wembley or did Rivaldo wee in a bush?",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-05T06:00:00.000Z",
-   "fetched_at": "2026-08-05T13:11:09.045Z",
-   "body": [
-    "Our briefing: Did Messi rage quit FIFA, did Fenners score at Wembley or did Rivaldo wee in a bush?",
-    "Did Messi rage quit FIFA, did Fenners score at Wembley or did Rivaldo wee in a bush?",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Kashima_Soccer_Stadium_6.jpg/960px-Kashima_Soccer_Stadium_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-what-happens-next-rashford-man-utd",
-   "slug": "what-happens-next-with-rashford-and-man-utd-n-utd",
-   "title": "What happens next with Rashford and Man Utd?",
-   "dek": "Marcus Rashford is expected to return to Manchester United training in the coming days as debate continues over whether that is a good thing or not.",
-   "description": "Marcus Rashford is expected to return to Manchester United training in the coming days as debate continues over whether that is a good thing or not.",
-   "category": "News",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-05T05:42:36.000Z",
-   "fetched_at": "2026-08-05T13:11:09.045Z",
-   "body": [
-    "Our briefing: Marcus Rashford is expected to return to Manchester United training in the coming days as debate continues over whether that is a good thing or not.",
-    "Marcus Rashford is expected to return to Manchester United training in the coming days as debate continues over whether that is a good thing or not.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Manchester_United_Old_Trafford.jpg/960px-Manchester_United_Old_Trafford.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
-  },
-  {
-   "id": "bbc-why-liverpool-are-ready-make-barcola-third-100m-",
-   "slug": "why-liverpool-are-ready-to-make-barcola-third-100m-signing-100m-",
-   "title": "Why Liverpool are ready to make Barcola third £100m signing",
-   "dek": "With Liverpool prepared to make Bradley Barcola their third £100m signing, BBC Sport looks at what the France and Paris St-Germain winger would bring to Anfield.",
-   "description": "With Liverpool prepared to make Bradley Barcola their third £100m signing, BBC Sport looks at what the France and Paris St-Germain winger would bring to Anfield.",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-05T05:28:08.000Z",
-   "fetched_at": "2026-08-05T13:11:09.045Z",
-   "body": [
-    "Our briefing: With Liverpool prepared to make Bradley Barcola their third £100m signing, BBC Sport looks at what the France and Paris St-Germain winger would bring to Anfield.",
-    "With Liverpool prepared to make Bradley Barcola their third £100m signing, BBC Sport looks at what the France and Paris St-Germain winger would bring to Anfield.",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Magistrates%27_Court%2C_Dale_Street%2C_Liverpool_2018.jpg/960px-Magistrates%27_Court%2C_Dale_Street%2C_Liverpool_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Rodhullandemu — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-who-am-i-guess-premier-league-star-no-16",
-   "slug": "who-am-i-guess-premier-league-star-no-16-no-16",
-   "title": "Who am I? Guess Premier League star No 16",
-   "dek": "Work out the identity of today's player in as few attempts as possible.",
-   "description": "Work out the identity of today's player in as few attempts as possible.",
-   "category": "News",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-05T05:17:57.000Z",
-   "fetched_at": "2026-08-05T13:11:09.045Z",
-   "body": [
-    "Our briefing: Work out the identity of today's player in as few attempts as possible.",
-    "Work out the identity of today's player in as few attempts as possible.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "independent-england-fan-amends-viral-world-cup-win-tattoo-we",
-   "slug": "england-fan-amends-viral-world-cup-win-tattoo-weeks-after-ar-oo-we",
-   "title": "England fan amends viral World Cup win tattoo weeks after Argentina defeat",
-   "dek": "Sean Carrington spent £550 on a tattoo of the World Cup trophy above the words ‘England World Cup Winner 2026’ after the 2-1 win over DR Congo in the round of 32",
-   "description": "Sean Carrington spent £550 on a tattoo of the World Cup trophy above the words ‘England World Cup Winner 2026’ after the 2-1 win over DR Congo in the round of 32",
-   "category": "Match Reports",
-   "league": "International",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-08-04T22:17:10.000Z",
-   "fetched_at": "2026-08-05T13:11:09.191Z",
-   "body": [
-    "Our briefing: Sean Carrington spent £550 on a tattoo of the World Cup trophy above the words ‘England World Cup Winner 2026’ after the 2-1 win over DR Congo in the round of 32",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "guardian-trabzonspor-aim-sign-mohamed-salah-this-week-aft",
-   "slug": "trabzonspor-aim-to-sign-mohamed-salah-this-week-after-openin-k-aft",
-   "title": "Trabzonspor aim to sign Mohamed Salah this week after opening transfer talks",
-   "dek": "Club chair says forward will have medical on Wednesday Egypt international left Liverpool after nine years The Turkish Super Lig side Trabzonspor say they have begun…",
-   "description": "Club chair says forward will have medical on Wednesday Egypt international left Liverpool after nine years The Turkish Super Lig side Trabzonspor say they have begun transfer ⁠negotiations with Mohamed Salah, with the club chair adding they hoped to sign the Egypt forward later this week. “Negotiations have been launched ⁠to transfer professional footballer ⁠Mohamed Salah, ​who is in a free status, to our club,” the club said in a statement. Continue reading...",
-   "category": "Transfers & Rumours",
-   "league": "Football",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-08-04T21:52:37.000Z",
-   "fetched_at": "2026-08-05T08:36:56.016Z",
-   "body": [
-    "Our briefing: Club chair says forward will have medical on Wednesday Egypt international left Liverpool after nine years The Turkish Super Lig side Trabzonspor say they have begun…",
-    "Club chair says forward will have medical on Wednesday Egypt international left Liverpool after nine years The Turkish Super Lig side Trabzonspor say they have begun transfer ⁠negotiations with Mohamed Salah, with the club chair adding they hoped to sign the Egypt forward later this week. “Negotiations have been launched ⁠to transfer professional footballer ⁠Mohamed Salah, ​who is in a free status, to our club,” the club said in a statement. Continue reading...",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  {
-   "id": "bbc-turkish-club-trabzonspor-begin-talks-sign-salah",
-   "slug": "turkish-club-trabzonspor-begin-talks-to-sign-salah-salah",
-   "title": "Turkish club Trabzonspor begin talks to sign Salah",
-   "dek": "Turkish club Trabzonspor say they have begun negotiations to sign Mohamed Salah.",
-   "description": "Turkish club Trabzonspor say they have begun negotiations to sign Mohamed Salah.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-04T21:39:08.000Z",
-   "fetched_at": "2026-08-05T08:36:55.942Z",
-   "body": [
-    "Our briefing: Turkish club Trabzonspor say they have begun negotiations to sign Mohamed Salah.",
-    "Turkish club Trabzonspor say they have begun negotiations to sign Mohamed Salah.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   }
  ]
 }
