@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-08T07:50:32.231Z",
- "updated_utc": "2026-08-08T07:50Z",
- "cycle": 29769590,
+ "generated_at": "2026-08-08T08:42:03.240Z",
+ "updated_utc": "2026-08-08T08:42Z",
+ "cycle": 29769642,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,8 +16,28 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "bbc-who-am-i-guess-premier-league-star-no-19",
+ "hero_id": "independent-transfer-news-live-man-city-reject-rodri-bid-ars",
  "articles": [
+  {
+   "id": "independent-transfer-news-live-man-city-reject-rodri-bid-ars",
+   "slug": "news-live-man-city-reject-rodri-bid-arsenal-identify-viniciu-d-ars",
+   "title": "news LIVE: Man City reject Rodri bid, Arsenal identify Vinicius Jr alternatives, Man Utd done deal",
+   "dek": "Vinicius has signed a contract extension at Real Madrid ending Arsenal’s hopes of signing the Brazilian and forcing them to look elsewhere as they seek to bring in…",
+   "description": "Vinicius has signed a contract extension at Real Madrid ending Arsenal’s hopes of signing the Brazilian and forcing them to look elsewhere as they seek to bring in reinforcements",
+   "category": "Transfers & Rumours",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-08-08T07:55:12.000Z",
+   "fetched_at": "2026-08-08T08:41:57.211Z",
+   "body": [
+    "Our briefing: Vinicius has signed a contract extension at Real Madrid ending Arsenal’s hopes of signing the Brazilian and forcing them to look elsewhere as they seek to bring in…",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg/960px-Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
   {
    "id": "bbc-psv-reject-improved-rangers-offer-driouech-gossi",
    "slug": "psv-reject-improved-rangers-offer-for-driouech-gossip-gossi",
@@ -29,7 +49,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-08T07:37:28.000Z",
-   "fetched_at": "2026-08-08T07:50:26.825Z",
+   "fetched_at": "2026-08-08T08:41:57.091Z",
    "body": [
     "Our briefing: Speculation mounts over wingers linked with Rangers and Celtic as Hearts forward is touted for move.",
     "Speculation mounts over wingers linked with Rangers and Celtic as Hearts forward is touted for move.",
@@ -50,7 +70,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-08T06:37:37.000Z",
-   "fetched_at": "2026-08-08T07:50:26.823Z",
+   "fetched_at": "2026-08-08T08:41:57.089Z",
    "body": [
     "Our briefing: BBC Sport looks at some of the wildest games - and scorelines - the EFL Cup has produced as the competition returns for a new season.",
     "BBC Sport looks at some of the wildest games - and scorelines - the EFL Cup has produced as the competition returns for a new season.",
@@ -71,7 +91,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-08T06:13:34.000Z",
-   "fetched_at": "2026-08-08T07:50:26.823Z",
+   "fetched_at": "2026-08-08T08:41:57.089Z",
    "body": [
     "Our briefing: Work out the identity of today's player in as few attempts as possible.",
     "Work out the identity of today's player in as few attempts as possible.",
@@ -92,7 +112,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-08T06:00:37.000Z",
-   "fetched_at": "2026-08-08T07:50:26.823Z",
+   "fetched_at": "2026-08-08T08:41:57.088Z",
    "body": [
     "Our briefing: Manchester City agree a deal to sign Argentina goalkeeper Geronimo Rulli from Marseille.",
     "Manchester City agree a deal to sign Argentina goalkeeper Geronimo Rulli from Marseille.",
@@ -113,7 +133,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-08T05:50:20.000Z",
-   "fetched_at": "2026-08-08T07:50:26.823Z",
+   "fetched_at": "2026-08-08T08:41:57.088Z",
    "body": [
     "Our briefing: Matthias Jaissle will take charge of his first friendly as Newcastle United head coach against Valencia as a new era begins.",
     "Matthias Jaissle will take charge of his first friendly as Newcastle United head coach against Valencia as a new era begins.",
@@ -134,7 +154,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-08T05:15:34.000Z",
-   "fetched_at": "2026-08-08T07:50:26.823Z",
+   "fetched_at": "2026-08-08T08:41:57.089Z",
    "body": [
     "Our briefing: What is life like for footballers' families during the transfer window where a last-minute deal means you need to uproot your life and move hundreds of miles?",
     "What is life like for footballers' families during the transfer window where a last-minute deal means you need to uproot your life and move hundreds of miles?",
@@ -155,7 +175,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-07T22:54:13.000Z",
-   "fetched_at": "2026-08-08T07:50:26.823Z",
+   "fetched_at": "2026-08-08T08:41:57.089Z",
    "body": [
     "Our briefing: Liverpool are close to signing Uruguay defender Ronald Araujo on a season-long loan from Barcelona, with an option to purchase.",
     "Liverpool are close to signing Uruguay defender Ronald Araujo on a season-long loan from Barcelona, with an option to purchase.",
@@ -176,14 +196,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-07T22:50:58.000Z",
-   "fetched_at": "2026-08-08T07:50:26.822Z",
+   "fetched_at": "2026-08-08T08:41:57.088Z",
    "body": [
     "Our briefing: Gianni Infantino's alleged lover was given a severance payment over the affair by Uefa while he was its general secretary, according to a Daily Telegraph investigation.",
     "Gianni Infantino's alleged lover was given a severance payment over the affair by Uefa while he was its general secretary, according to a Daily Telegraph investigation.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -197,13 +217,13 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-07T21:44:53.000Z",
-   "fetched_at": "2026-08-08T07:50:26.960Z",
+   "fetched_at": "2026-08-08T08:41:57.211Z",
    "body": [
     "Our briefing: ‘It makes you wonder whether the authorities at the European and global level have something against us,’ Burnham said",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -217,7 +237,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-07T21:25:41.000Z",
-   "fetched_at": "2026-08-08T07:50:26.823Z",
+   "fetched_at": "2026-08-08T08:41:57.089Z",
    "body": [
     "Our briefing: An early Robbie Crawford back-heel and a Cammy MacPherson own goal give Partick Thistle victory over Livingston as two of the promotion favourites meet in the Scottish…",
     "An early Robbie Crawford back-heel and a Cammy MacPherson own goal give Partick Thistle victory over Livingston as two of the promotion favourites meet in the Scottish Championship at Firhill.",
@@ -238,7 +258,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-07T21:25:41.000Z",
-   "fetched_at": "2026-08-08T07:50:26.825Z",
+   "fetched_at": "2026-08-08T08:41:57.091Z",
    "body": [
     "Our briefing: An early Robbie Crawford back-heel and a Cammy MacPherson own goal give Partick Thistle victory over Livingston as two of the promotion favourites meet in the Scottish…",
     "An early Robbie Crawford back-heel and a Cammy MacPherson own goal give Partick Thistle victory over Livingston as two of the promotion favourites meet in the Scottish Championship at Firhill.",
@@ -259,7 +279,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-07T21:20:40.000Z",
-   "fetched_at": "2026-08-08T07:50:26.902Z",
+   "fetched_at": "2026-08-08T08:41:57.150Z",
    "body": [
     "Our briefing: Will Lankshear’s debut strike ensured Middlesbrough made a winning start to the season as they beat Wrexham 1-0 in the Carabao Cup first round. Lankshear, a £10m summer…",
     "Will Lankshear’s debut strike ensured Middlesbrough made a winning start to the season as they beat Wrexham 1-0 in the Carabao Cup first round. Lankshear, a £10m summer signing from Tottenham, scored the only goal of the game in the 61st minute as he hooked home an excellent first-time volley. Middlesbrough almost claimed a seventh-minute opener but when Adilson Malanda prodded Sebastian Berhalter’s cross goalwards from close range, Danny Ward kept the ball out with a superb point-blank save.",
@@ -303,7 +323,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-07T21:08:19.000Z",
-   "fetched_at": "2026-08-08T07:50:26.960Z",
+   "fetched_at": "2026-08-08T08:41:57.211Z",
    "body": [
     "Our briefing: Everything you need to know about the Carabao Cup second-round draw as Premier League teams enter the fray",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -323,7 +343,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-07T21:07:46.000Z",
-   "fetched_at": "2026-08-08T07:50:26.823Z",
+   "fetched_at": "2026-08-08T08:41:57.089Z",
    "body": [
     "Our briefing: Manchester City explore Enzo Fernandez move, Arsenal could battle Manchester United for Pio Esposito and Liverpool yet to agree Bradley Barcola fee, plus more.",
     "Manchester City explore Enzo Fernandez move, Arsenal could battle Manchester United for Pio Esposito and Liverpool yet to agree Bradley Barcola fee, plus more.",
@@ -365,7 +385,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-07T19:00:25.000Z",
-   "fetched_at": "2026-08-08T07:50:26.903Z",
+   "fetched_at": "2026-08-08T08:41:57.151Z",
    "body": [
     "Our briefing: It has been a remarkable few days for an institution that may be irredeemable but this is a story that stretches back to a decision in 2010 There are decades in which…",
     "It has been a remarkable few days for an institution that may be irredeemable but this is a story that stretches back to a decision in 2010 There are decades in which nothing happens, and weeks in which decades happen, and those weeks tend to result in leaders being toppled. Not even a fortnight ago, Gianni Infantino was taking his victory lap on Instagram, attacking “those behind their pens and papers, behind their screens spreading hate and false rumours” who had dared to question elements of his World Cup, which had generated a record $15bn in revenues. But the next day came the revelation of his plan to sell the World Cup to outside investors and a backlash that has him scrabbling to save his presidency.",
@@ -407,7 +427,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-07T18:37:55.000Z",
-   "fetched_at": "2026-08-08T07:50:26.824Z",
+   "fetched_at": "2026-08-08T08:41:57.089Z",
    "body": [
     "Our briefing: Premier League newcomers Coventry City have completed the club-record signing of Ghana midfielder Caleb Yirenkyi.",
     "Premier League newcomers Coventry City have completed the club-record signing of Ghana midfielder Caleb Yirenkyi.",
@@ -428,7 +448,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-07T17:45:06.000Z",
-   "fetched_at": "2026-08-08T07:50:26.823Z",
+   "fetched_at": "2026-08-08T08:41:57.089Z",
    "body": [
     "Our briefing: Fifa president Gianni Infantino appears to be trying to return to business as usual after the failed World Cup private investment plan - but it may not be that easy.",
     "Fifa president Gianni Infantino appears to be trying to return to business as usual after the failed World Cup private investment plan - but it may not be that easy.",
@@ -449,7 +469,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-07T17:34:26.000Z",
-   "fetched_at": "2026-08-08T07:50:26.823Z",
+   "fetched_at": "2026-08-08T08:41:57.089Z",
    "body": [
     "Our briefing: Already it is looking like the Scottish title might be won again by the best of a bad bunch, but what can we look forward to this weekend?",
     "Already it is looking like the Scottish title might be won again by the best of a bad bunch, but what can we look forward to this weekend?",
@@ -470,7 +490,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-07T17:06:48.000Z",
-   "fetched_at": "2026-08-08T07:50:26.823Z",
+   "fetched_at": "2026-08-08T08:41:57.089Z",
    "body": [
     "Our briefing: The Scottish Football Association is to hold a \"critically important\" summit around the future of the national game.",
     "The Scottish Football Association is to hold a \"critically important\" summit around the future of the national game.",
@@ -491,7 +511,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-07T17:06:27.000Z",
-   "fetched_at": "2026-08-08T07:50:26.960Z",
+   "fetched_at": "2026-08-08T08:41:57.211Z",
    "body": [
     "Our briefing: Ibhais, who spent three years in a Doha jail, is scheduled to testify as a witness in a US District Court deposition in two weeks",
     "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
@@ -511,7 +531,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-07T16:57:07.000Z",
-   "fetched_at": "2026-08-08T07:50:26.904Z",
+   "fetched_at": "2026-08-08T08:41:57.151Z",
    "body": [
     "Our briefing: The Fifa president’s attempt to brazen out the storm, after attempting to sell a stake in the World Cup to private equity, adds insult to injury “How did you go…",
     "The Fifa president’s attempt to brazen out the storm, after attempting to sell a stake in the World Cup to private equity, adds insult to injury “How did you go bankrupt? ” a character is asked in Ernest Hemingway’s novel The Sun Also Rises. “Gradually, then suddenly” comes the reply.",
@@ -534,7 +554,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-07T16:56:45.000Z",
-   "fetched_at": "2026-08-08T07:50:26.904Z",
+   "fetched_at": "2026-08-08T08:41:57.151Z",
    "body": [
     "Our briefing: Millwall remain my main club, but others have turned my head, writes Michael Opitz. Also letters from Neil Bage and Ariel J Friedlander I read Luke McLaughlin’s article…",
     "Millwall remain my main club, but others have turned my head, writes Michael Opitz. Also letters from Neil Bage and Ariel J Friedlander I read Luke McLaughlin’s article with a great deal of empathy, yet still with some uneasiness about the taboo of having more than one club ( Have you ever switched allegiance as a football fan? You are not alone, 1 August ).",
@@ -557,7 +577,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-07T16:20:27.000Z",
-   "fetched_at": "2026-08-08T07:50:26.960Z",
+   "fetched_at": "2026-08-08T08:41:57.211Z",
    "body": [
     "Our briefing: Billy Vigar, 21, died in September last year after suffering a brain injury when he collided with a concrete barrier trying to keep a ball in play",
     "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
@@ -577,7 +597,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-07T15:47:49.000Z",
-   "fetched_at": "2026-08-08T07:50:26.960Z",
+   "fetched_at": "2026-08-08T08:41:57.211Z",
    "body": [
     "Our briefing: Countries are beginning to officially withdraw their support for Infantino’s re-election as Fifa president after his failed attempt to privatise the World Cup",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -597,7 +617,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-07T15:35:22.000Z",
-   "fetched_at": "2026-08-08T07:50:26.824Z",
+   "fetched_at": "2026-08-08T08:41:57.089Z",
    "body": [
     "Our briefing: France say they are still planning to compete in the Under-20 Women's World Cup next month despite a threat from Uefa to boycott Fifa competitions.",
     "France say they are still planning to compete in the Under-20 Women's World Cup next month despite a threat from Uefa to boycott Fifa competitions.",
@@ -618,7 +638,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-07T15:35:22.000Z",
-   "fetched_at": "2026-08-08T07:50:26.825Z",
+   "fetched_at": "2026-08-08T08:41:57.091Z",
    "body": [
     "Our briefing: France say they are still planning to compete in the Under-20 Women's World Cup next month despite a threat from Uefa to boycott Fifa competitions.",
     "France say they are still planning to compete in the Under-20 Women's World Cup next month despite a threat from Uefa to boycott Fifa competitions.",
@@ -639,7 +659,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-07T15:11:48.000Z",
-   "fetched_at": "2026-08-08T07:50:26.824Z",
+   "fetched_at": "2026-08-08T08:41:57.090Z",
    "body": [
     "Our briefing: Barcelona cancel pre-season friendly in Morocco because of the ongoing border crisis in Ceuta.",
     "Barcelona cancel pre-season friendly in Morocco because of the ongoing border crisis in Ceuta.",
@@ -660,14 +680,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-07T15:08:25.000Z",
-   "fetched_at": "2026-08-08T07:50:26.824Z",
+   "fetched_at": "2026-08-08T08:41:57.089Z",
    "body": [
     "Our briefing: Crystal Palace complete the signing of Japan defender Takehiro Tomiyasu following a successful pre-season trial.",
     "Crystal Palace complete the signing of Japan defender Takehiro Tomiyasu following a successful pre-season trial.",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Soccer_fans_put_town_in_siege_%28FL62506613%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506613%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
@@ -681,7 +701,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-07T14:46:59.000Z",
-   "fetched_at": "2026-08-08T07:50:26.960Z",
+   "fetched_at": "2026-08-08T08:41:57.211Z",
    "body": [
     "Our briefing: Comment: The pain of relegation and the allegations against co-owner David Sullivan have given way to optimism around a strong squad and a potential regime change",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -701,7 +721,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-07T14:38:26.000Z",
-   "fetched_at": "2026-08-08T07:50:26.960Z",
+   "fetched_at": "2026-08-08T08:41:57.211Z",
    "body": [
     "Our briefing: The Catalan club will have to up their offer if they are to bring the World Cup winner back to Spain",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -721,13 +741,13 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-07T14:28:22.000Z",
-   "fetched_at": "2026-08-08T07:50:26.960Z",
+   "fetched_at": "2026-08-08T08:41:57.211Z",
    "body": [
     "Our briefing: Salah will be something of an incongruous sight at Trabzonspor – a stark drop in prestige from Liverpool – but the move to football’s growing, lucrative retirement home…",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Soccer_fans_put_town_in_siege_%28FL62506919%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506919%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Soccer_fans_put_town_in_siege_%28FL62506613%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506613%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
@@ -741,14 +761,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-07T14:10:20.000Z",
-   "fetched_at": "2026-08-08T07:50:26.824Z",
+   "fetched_at": "2026-08-08T08:41:57.090Z",
    "body": [
     "Our briefing: Hull City sign Norwegian midfielder Jens Hjerto-Dahl on a five-year contract from Tromso.",
     "Hull City sign Norwegian midfielder Jens Hjerto-Dahl on a five-year contract from Tromso.",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Soccer_fans_put_town_in_siege_%28FL62506919%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506919%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
@@ -762,7 +782,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-07T14:08:37.000Z",
-   "fetched_at": "2026-08-08T07:50:26.824Z",
+   "fetched_at": "2026-08-08T08:41:57.089Z",
    "body": [
     "Our briefing: Celtic assistant manager Shaun Maloney says there is \"no timeline\" for Martin O'Neill's return from the \"small procedure\" the boss underwent in hospital and the…",
     "Celtic assistant manager Shaun Maloney says there is \"no timeline\" for Martin O'Neill's return from the \"small procedure\" the boss underwent in hospital and the 74-year-old will \"make the call\" about whether he will be in the dugout for Sunday's trip to Kilmarnock.",
@@ -783,7 +803,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-07T14:08:37.000Z",
-   "fetched_at": "2026-08-08T07:50:26.825Z",
+   "fetched_at": "2026-08-08T08:41:57.091Z",
    "body": [
     "Our briefing: Celtic assistant manager Shaun Maloney says there is \"no timeline\" for Martin O'Neill's return from the \"small procedure\" the boss underwent in hospital and the…",
     "Celtic assistant manager Shaun Maloney says there is \"no timeline\" for Martin O'Neill's return from the \"small procedure\" the boss underwent in hospital and the 74-year-old will \"make the call\" about whether he will be in the dugout for Sunday's trip to Kilmarnock.",
@@ -804,7 +824,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-07T14:05:52.000Z",
-   "fetched_at": "2026-08-08T07:50:26.825Z",
+   "fetched_at": "2026-08-08T08:41:57.091Z",
    "body": [
     "Our briefing: Notts County sign Northampton Town midfielder Dean Campbell.",
     "Notts County sign Northampton Town midfielder Dean Campbell.",
@@ -825,7 +845,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-07T14:02:12.000Z",
-   "fetched_at": "2026-08-08T07:50:26.903Z",
+   "fetched_at": "2026-08-08T08:41:57.150Z",
    "body": [
     "Our briefing: Mourinho reportedly unhappy over Barça hijack City ready to seal deal for Morocco star Bouaddi Manchester City have rejected an offer of £38.5m (€45m) from Barcelona for…",
     "Mourinho reportedly unhappy over Barça hijack City ready to seal deal for Morocco star Bouaddi Manchester City have rejected an offer of £38. 5m (€45m) from Barcelona for Rodri and want at least £60m before allowing Spain’s World Cup-winning captain to depart. Barcelona have emerged as Rodri’s preferred destination after talks with Real Madrid broke down this week.",
@@ -835,26 +855,6 @@
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Barcelona_fans_in_Paris.jpg/960px-Barcelona_fans_in_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Original uploader was McMurdo at cs.wikipedia — CC BY-SA 3.0"
-  },
-  {
-   "id": "independent-transfer-news-live-man-city-reject-rodri-bid-ars",
-   "slug": "news-live-man-city-reject-rodri-bid-arsenal-identify-viniciu-d-ars",
-   "title": "news LIVE: Man City reject Rodri bid, Arsenal identify Vinicius Jr alternatives, Man Utd done deal",
-   "dek": "Vinicius has signed a contract extension at Real Madrid ending Arsenal’s hopes of signing the Brazilian and forcing them to look elsewhere as they seek to bring in…",
-   "description": "Vinicius has signed a contract extension at Real Madrid ending Arsenal’s hopes of signing the Brazilian and forcing them to look elsewhere as they seek to bring in reinforcements",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-08-07T13:51:03.000Z",
-   "fetched_at": "2026-08-08T07:50:26.960Z",
-   "body": [
-    "Our briefing: Vinicius has signed a contract extension at Real Madrid ending Arsenal’s hopes of signing the Brazilian and forcing them to look elsewhere as they seek to bring in…",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg/960px-Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
   }
  ]
 }
