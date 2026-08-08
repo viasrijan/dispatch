@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-08T23:00:26.674Z",
- "updated_utc": "2026-08-08T23:00Z",
- "cycle": 29770500,
+ "generated_at": "2026-08-08T23:55:19.997Z",
+ "updated_utc": "2026-08-08T23:55Z",
+ "cycle": 29770555,
  "sources_used": [
   {
    "id": "bbc",
@@ -19,6 +19,27 @@
  "hero_id": "guardian-fifa-launches-new-attack-media-over-alleged-conc",
  "articles": [
   {
+   "id": "bbc-jaissle-starts-win-but-not-planning-smash-locker",
+   "slug": "jaissle-starts-with-win-but-not-planning-to-smash-locker-roo-ocker",
+   "title": "Jaissle starts with win but not planning to 'smash locker room'",
+   "dek": "It was a night which ended with Newcastle United lifting a trophy, but there was certainly no danger of head coach Matthias Jaissle getting carried away.",
+   "description": "It was a night which ended with Newcastle United lifting a trophy, but there was certainly no danger of head coach Matthias Jaissle getting carried away.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-08T23:23:30.000Z",
+   "fetched_at": "2026-08-08T23:55:11.330Z",
+   "body": [
+    "Our briefing: It was a night which ended with Newcastle United lifting a trophy, but there was certainly no danger of head coach Matthias Jaissle getting carried away.",
+    "It was a night which ended with Newcastle United lifting a trophy, but there was certainly no danger of head coach Matthias Jaissle getting carried away.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "John Shorten — CC BY 4.0"
+  },
+  {
    "id": "guardian-fifa-launches-new-attack-media-over-alleged-conc",
    "slug": "fifa-launches-new-attack-on-media-over-alleged-concerted-eff--conc",
    "title": "Fifa launches new attack on media over alleged ‘concerted effort’ to undermine Gianni Infantino",
@@ -29,7 +50,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-08T22:17:25.000Z",
-   "fetched_at": "2026-08-08T23:00:17.672Z",
+   "fetched_at": "2026-08-08T23:55:11.416Z",
    "body": [
     "Our briefing: Fifa issues statement defending under-fire president ‘Insinuation should not be presented as fact’ Fifa has issued a new statement alleging there is a “concerted and…",
     "Fifa issues statement defending under-fire president ‘Insinuation should not be presented as fact’ Fifa has issued a new statement alleging there is a “concerted and ongoing effort by some to undermine Fifa and its president” as pressure increases on Gianni Infantino. The governing body issued the statement in response to Uefa confirming on Saturday that a “departure payment” was made to a female employee who is alleged to have been in a relationship with Infantino while he was the organisation’s general secretary – allegations Fifa dismissed as “categorically untrue”. Continue reading...",
@@ -50,14 +71,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-08T22:11:27.000Z",
-   "fetched_at": "2026-08-08T23:00:18.729Z",
+   "fetched_at": "2026-08-08T23:55:11.460Z",
    "body": [
     "Our briefing: Infantino has faced calls to resign over an abandoned plan to sell off stakes in the World Cup",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "John Shorten — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
   },
   {
    "id": "bbc-fifa-criticises-campaign-oust-president-infantin",
@@ -70,15 +91,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-08T22:06:44.000Z",
-   "fetched_at": "2026-08-08T23:00:17.595Z",
+   "fetched_at": "2026-08-08T23:55:11.329Z",
    "body": [
     "Our briefing: Fifa strongly criticises what it calls a \"concerted and ongoing effort\" to \"undermine\" the organisation and its president Gianni Infantino.",
     "Fifa strongly criticises what it calls a \"concerted and ongoing effort\" to \"undermine\" the organisation and its president Gianni Infantino.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "bbc-wissa-toure-star-jaissle-wins-first-newcastle-fr",
@@ -91,7 +112,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-08T21:11:46.000Z",
-   "fetched_at": "2026-08-08T23:00:17.595Z",
+   "fetched_at": "2026-08-08T23:55:11.330Z",
    "body": [
     "Our briefing: Newcastle United forward Yoane Wissa scores twice in a 2-1 win against Valencia in Matthias Jaissle's first game in charge - but how did the Magpies players perform?",
     "Newcastle United forward Yoane Wissa scores twice in a 2-1 win against Valencia in Matthias Jaissle's first game in charge - but how did the Magpies players perform?",
@@ -112,7 +133,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-08T20:37:28.000Z",
-   "fetched_at": "2026-08-08T23:00:17.596Z",
+   "fetched_at": "2026-08-08T23:55:11.330Z",
    "body": [
     "Our briefing: Barcelona increase their Rodri bid, Cristian Romero wants to join Arsenal, Forest are set to sign Ousmane Diomande, plus more.",
     "Barcelona increase their Rodri bid, Cristian Romero wants to join Arsenal, Forest are set to sign Ousmane Diomande, plus more.",
@@ -133,7 +154,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-08T20:02:43.000Z",
-   "fetched_at": "2026-08-08T23:00:18.729Z",
+   "fetched_at": "2026-08-08T23:55:11.460Z",
    "body": [
     "Our briefing: Manchester United 1-1 PSG: A competitive draw in Sweden served as useful preparation for the new season for both sides",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -153,7 +174,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-08T19:31:31.000Z",
-   "fetched_at": "2026-08-08T23:00:17.596Z",
+   "fetched_at": "2026-08-08T23:55:11.330Z",
    "body": [
     "Our briefing: St Mirren were many people's favourites for relegation, so how come they have started with two opening wins in the Scottish Premiership?",
     "St Mirren were many people's favourites for relegation, so how come they have started with two opening wins in the Scottish Premiership?",
@@ -174,7 +195,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-08T19:31:31.000Z",
-   "fetched_at": "2026-08-08T23:00:17.598Z",
+   "fetched_at": "2026-08-08T23:55:11.333Z",
    "body": [
     "Our briefing: St Mirren were many people's favourites for relegation, so how come they have started with two opening wins in the Scottish Premiership?",
     "St Mirren were many people's favourites for relegation, so how come they have started with two opening wins in the Scottish Premiership?",
@@ -235,7 +256,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-08T19:15:24.000Z",
-   "fetched_at": "2026-08-08T23:00:17.595Z",
+   "fetched_at": "2026-08-08T23:55:11.330Z",
    "body": [
     "Our briefing: Manchester United's £35m signing Youri Tielemans makes an impressive debut in the 1-1 friendly draw against Paris St-Germain in Gothenburg.",
     "Manchester United's £35m signing Youri Tielemans makes an impressive debut in the 1-1 friendly draw against Paris St-Germain in Gothenburg.",
@@ -256,7 +277,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-08T19:10:23.000Z",
-   "fetched_at": "2026-08-08T23:00:17.672Z",
+   "fetched_at": "2026-08-08T23:55:11.416Z",
    "body": [
     "Our briefing: Bryan Mbeumo scores United’s goal in 1-1 draw Mount taken off with foot injury in Gothenburg Manchester United managed a creditable 1-1 draw with the European champions,…",
     "Bryan Mbeumo scores United’s goal in 1-1 draw Mount taken off with foot injury in Gothenburg Manchester United managed a creditable 1-1 draw with the European champions, Paris Saint-Germain, in a Gothenburg friendly on Saturday but the result was overshadowed by an injury to Mason Mount. The England midfielder, who joined United from Chelsea in 2023 , has been hampered by injury problems since arriving at Old Trafford and he lasted fewer than 20 minutes after starting against PSG. Continue reading...",
@@ -298,7 +319,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-08T19:00:05.000Z",
-   "fetched_at": "2026-08-08T23:00:17.672Z",
+   "fetched_at": "2026-08-08T23:55:11.416Z",
    "body": [
     "Our briefing: Huge turnover between seasons means 11 clubs start 2026-27 led by people with under a year in their dugout Nine of the 20 Premier League clubs will begin the 2026-27…",
     "Huge turnover between seasons means 11 clubs start 2026-27 led by people with under a year in their dugout Nine of the 20 Premier League clubs will begin the 2026-27 season with a different man in the dugout than the one who ended the last campaign. Opta recently revealed that the only other seasons which started with so many men making their managerial debut for top flight clubs were 1888-89 and 1946-47; the inaugural season of league football and the first following the second world war. Neither occurred under normal circumstances yet the level of turnover this summer does not feel unusual.",
@@ -307,7 +328,7 @@
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -321,7 +342,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-08T19:00:05.000Z",
-   "fetched_at": "2026-08-08T23:00:17.672Z",
+   "fetched_at": "2026-08-08T23:55:11.416Z",
    "body": [
     "Our briefing: While able to play deeper, the onus will also be on Arsenal’s £75m signing to provide creativity in an attack that has struggled to break down the low block Data shows…",
     "While able to play deeper, the onus will also be on Arsenal’s £75m signing to provide creativity in an attack that has struggled to break down the low block Data shows deal could be another set-piece masterstroke If there was one of his many assets Newcastle supporters grew to love above all about Bruno Guimarães then it was best summed up by the man himself after being unveiled as Arsenal’s new £75m signing . “That’s a tough one,” said the Brazil midfielder when asked what fans in north London can expect from him. “I would say I can pass the ball, run a lot and play like a warrior.",
@@ -343,7 +364,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-08T18:45:01.000Z",
-   "fetched_at": "2026-08-08T23:00:18.729Z",
+   "fetched_at": "2026-08-08T23:55:11.460Z",
    "body": [
     "Our briefing: Everything you need to know about the Carabao Cup second-round draw as Premier League teams enter the fray",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -363,7 +384,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-08T18:37:44.000Z",
-   "fetched_at": "2026-08-08T23:00:17.672Z",
+   "fetched_at": "2026-08-08T23:55:11.416Z",
    "body": [
     "Our briefing: Lukas Jensen the shootout hero for Millwall at QPR Kyle Walker hits winner in Burnley shootout victory Alex Neil felt Lukas Jensen deserved his moment of glory after the…",
     "Lukas Jensen the shootout hero for Millwall at QPR Kyle Walker hits winner in Burnley shootout victory Alex Neil felt Lukas Jensen deserved his moment of glory after the fit-again goalkeeper saved all four QPR penalties to take Millwall through to the second round of the Carabao Cup. After a 1-1 draw, with a late Mark Sykes own goal bringing Rangers level after Luke Cundle’s opener, Millwall won 2-0 in a shootout which included six missed spot-kicks. Jensen, back after a long injury lay-off, kept out penalties from Ilias Chair, Harvey Vale, Koki Saito and Kwame Poku.",
@@ -385,7 +406,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-08T18:10:39.000Z",
-   "fetched_at": "2026-08-08T23:00:18.729Z",
+   "fetched_at": "2026-08-08T23:55:11.460Z",
    "body": [
     "Our briefing: West Ham 3-1 Portsmouth: Taty Castellanos struck twice for the Irons as they progressed past Portsmouth",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -405,7 +426,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-08T17:03:52.000Z",
-   "fetched_at": "2026-08-08T23:00:18.729Z",
+   "fetched_at": "2026-08-08T23:55:11.460Z",
    "body": [
     "Our briefing: Man United 1-1 PSG: Bryan Mbeumo scored a superb equaliser after Ibrahim Mbaye had given PSG an early lead in Gothenburg",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -425,7 +446,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-08T16:45:47.000Z",
-   "fetched_at": "2026-08-08T23:00:17.596Z",
+   "fetched_at": "2026-08-08T23:55:11.330Z",
    "body": [
     "Our briefing: As two Liverpool legends meet in pre-season, Luis Garcia says he hopes Xabi Alonso's Chelsea finish behind their former club in the Premier League.",
     "As two Liverpool legends meet in pre-season, Luis Garcia says he hopes Xabi Alonso's Chelsea finish behind their former club in the Premier League.",
@@ -467,7 +488,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-08T16:38:20.000Z",
-   "fetched_at": "2026-08-08T23:00:17.672Z",
+   "fetched_at": "2026-08-08T23:55:11.416Z",
    "body": [
     "Our briefing: In an unseasonable black bomber jacket, with heavy duty company beside him, David Sullivan took his seat. Against the advice of the stadium’s operators, unbowed by…",
     "In an unseasonable black bomber jacket, with heavy duty company beside him, David Sullivan took his seat. Against the advice of the stadium’s operators, unbowed by serious allegations placed against his name and the weight of public opinion, West Ham’s major shareholder, the former co-chair, sat with arms crossed, always conspicuous by his presence. By beating Portsmouth in relative comfort, West Ham, the club where Sullivan’s name is no longer above the door, had secured a heartening Carabao Cup passage to the second round.",
@@ -534,14 +555,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-08T15:51:11.000Z",
-   "fetched_at": "2026-08-08T23:00:17.596Z",
+   "fetched_at": "2026-08-08T23:55:11.331Z",
    "body": [
     "Our briefing: Lionel Messi's father and agent Jorge dies at the age of 68 following a long illness.",
     "Lionel Messi's father and agent Jorge dies at the age of 68 following a long illness.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -555,7 +576,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-08T15:50:26.000Z",
-   "fetched_at": "2026-08-08T23:00:18.729Z",
+   "fetched_at": "2026-08-08T23:55:11.460Z",
    "body": [
     "Our briefing: Vinicius has signed a contract extension at Real Madrid ending Arsenal’s hopes of signing the Brazilian and forcing them to look elsewhere as they seek to bring in…",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -638,7 +659,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-08T14:49:29.000Z",
-   "fetched_at": "2026-08-08T23:00:17.672Z",
+   "fetched_at": "2026-08-08T23:55:11.416Z",
    "body": [
     "Our briefing: Messi family report death at medical clinic in Rosario Inter Miami are due to play Monterrey on Saturday night Lionel Messi’s father and agent, Jorge, has died aged 68 at…",
     "Messi family report death at medical clinic in Rosario Inter Miami are due to play Monterrey on Saturday night Lionel Messi’s father and agent, Jorge, has died aged 68 at a medical clinic in the ⁠Argentinian city of ⁠Rosario after ​a long illness, the family have announced. Jorge Messi spent his final months ⁠alternating between a medical centre in Rosario and his home, accompanied by his wife, Celia, and his ⁠children Rodrigo, Matías and María Sol. Lionel Messi ​spent time with his ‌father after the World ‌Cup before rejoining his club, Inter Miami, for whom he ‌returned to action a week ago.",
@@ -646,7 +667,7 @@
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -660,14 +681,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-08T14:38:52.000Z",
-   "fetched_at": "2026-08-08T23:00:18.730Z",
+   "fetched_at": "2026-08-08T23:55:11.460Z",
    "body": [
     "Our briefing: Messi’s father acted as his agent during portions of his son’s career",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
    "id": "bbc-sullivan-attends-west-ham-game-despite-advice-no",
@@ -680,7 +701,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-08T14:23:56.000Z",
-   "fetched_at": "2026-08-08T23:00:17.596Z",
+   "fetched_at": "2026-08-08T23:55:11.331Z",
    "body": [
     "Our briefing: Former West Ham co-chairman David Sullivan attends their Carabao Cup match against Portsmouth despite being advised he should stay away.",
     "Former West Ham co-chairman David Sullivan attends their Carabao Cup match against Portsmouth despite being advised he should stay away.",
@@ -701,7 +722,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-08T14:16:07.000Z",
-   "fetched_at": "2026-08-08T23:00:18.730Z",
+   "fetched_at": "2026-08-08T23:55:11.460Z",
    "body": [
     "Our briefing: Sullivan resigned from his position of co-chair of the club in June but retains a stake",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -741,14 +762,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-08T14:11:22.000Z",
-   "fetched_at": "2026-08-08T23:00:18.730Z",
+   "fetched_at": "2026-08-08T23:55:11.460Z",
    "body": [
     "Our briefing: Uefa has confirmed a ‘departure payment was made to the individual in question’ during Infantino’s time working for European football’s governing body, but the Fifa…",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   },
   {
    "id": "bbc-football-ai-proof-why-tech-investors-wanted-slic",
@@ -761,15 +782,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-08T13:41:32.000Z",
-   "fetched_at": "2026-08-08T23:00:17.597Z",
+   "fetched_at": "2026-08-08T23:55:11.331Z",
    "body": [
     "Our briefing: What was the thinking of the investors backing the now-canned plan, and are such proposals in the future inevitable?",
     "What was the thinking of the investors backing the now-canned plan, and are such proposals in the future inevitable?",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
    "id": "bbc-critically-important-summit-called-future-scotti",
@@ -782,15 +803,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-08T13:40:39.000Z",
-   "fetched_at": "2026-08-08T23:00:17.597Z",
+   "fetched_at": "2026-08-08T23:55:11.331Z",
    "body": [
     "Our briefing: The Scottish Football Association is to hold a \"critically important\" summit around the future of the national game.",
     "The Scottish Football Association is to hold a \"critically important\" summit around the future of the national game.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "independent-man-city-agree-cut-price-deal-new-gianluigi-donn",
@@ -803,7 +824,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-08T13:00:55.000Z",
-   "fetched_at": "2026-08-08T23:00:18.730Z",
+   "fetched_at": "2026-08-08T23:55:11.460Z",
    "body": [
     "Our briefing: The veteran Geronimo Rulli replaces James Trafford, who has joined Leeds",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -832,27 +853,6 @@
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-ipswich-sign-midfielder-lukic-fulham",
-   "slug": "ipswich-sign-midfielder-lukic-from-fulham-ulham",
-   "title": "Ipswich sign midfielder Lukic from Fulham",
-   "dek": "Ipswich Town sign Serbia midfielder Sasa Lukic from Fulham for an undisclosed fee.",
-   "description": "Ipswich Town sign Serbia midfielder Sasa Lukic from Fulham for an undisclosed fee.",
-   "category": "News",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-08T12:43:31.000Z",
-   "fetched_at": "2026-08-08T14:32:23.339Z",
-   "body": [
-    "Our briefing: Ipswich Town sign Serbia midfielder Sasa Lukic from Fulham for an undisclosed fee.",
-    "Ipswich Town sign Serbia midfielder Sasa Lukic from Fulham for an undisclosed fee.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Fulham_FC%27s_Craven_Cottage_Stadium%2C_from_Barn_Elms_Park%2C_1990_-_geograph.org.uk_-_4695047.jpg/960px-Fulham_FC%27s_Craven_Cottage_Stadium%2C_from_Barn_Elms_Park%2C_1990_-_geograph.org.uk_-_4695047.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ben Brooksbank — CC BY-SA 2.0"
   }
  ]
 }
