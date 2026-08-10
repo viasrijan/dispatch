@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-10T21:41:59.470Z",
- "updated_utc": "2026-08-10T21:41Z",
- "cycle": 29773301,
+ "generated_at": "2026-08-10T22:38:02.993Z",
+ "updated_utc": "2026-08-10T22:38Z",
+ "cycle": 29773358,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,8 +16,71 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "bbc-forest-host-leeds-efl-cup-second-round-draw-full",
+ "hero_id": "independent-micky-van-de-ven-excited-tottenham-s-future-afte",
  "articles": [
+  {
+   "id": "bbc-it-s-football-not-playstation-uefa-refs-chief-va",
+   "slug": "it-s-football-not-playstation-uefa-refs-chief-on-var-ef-va",
+   "title": "It's football, not PlayStation - Uefa refs' chief on VAR",
+   "dek": "Uefa referees' chief Roberto Rosetti says some video assistant referee reviews \"were not connected with football\".",
+   "description": "Uefa referees' chief Roberto Rosetti says some video assistant referee reviews \"were not connected with football\".",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-10T22:00:11.000Z",
+   "fetched_at": "2026-08-10T22:37:54.602Z",
+   "body": [
+    "Our briefing: Uefa referees' chief Roberto Rosetti says some video assistant referee reviews \"were not connected with football\".",
+    "Uefa referees' chief Roberto Rosetti says some video assistant referee reviews \"were not connected with football\".",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "John Shorten — CC BY 4.0"
+  },
+  {
+   "id": "guardian-carabao-cup-second-round-draw-chelsea-host-luton",
+   "slug": "carabao-cup-second-round-draw-chelsea-host-luton-forest-at-h-luton",
+   "title": "Carabao Cup second-round draw: Chelsea host Luton, Forest at home to Leeds",
+   "dek": "Spurs will play Charlton, Preston v Everton Brentford away at Birmingham; Ipswich v Leicester Five-time winners Chelsea have been handed a home draw against League One…",
+   "description": "Spurs will play Charlton, Preston v Everton Brentford away at Birmingham; Ipswich v Leicester Five-time winners Chelsea have been handed a home draw against League One Luton in the second round of the Carabao Cup. Chelsea’s new manager, Xabi Alonso, will begin the club’s attempt to win the competition for the first time since 2015 later this month. Fellow Premier League side Tottenham have also benefited from a home draw, against Championship opponents Charlton. The 11 top-tier sides not involved in European competition enter the draw in the second round, with the remaining nine following in round three. Continue reading...",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-08-10T21:55:08.000Z",
+   "fetched_at": "2026-08-10T22:37:54.771Z",
+   "body": [
+    "Our briefing: Spurs will play Charlton, Preston v Everton Brentford away at Birmingham; Ipswich v Leicester Five-time winners Chelsea have been handed a home draw against League One…",
+    "Spurs will play Charlton, Preston v Everton Brentford away at Birmingham; Ipswich v Leicester Five-time winners Chelsea have been handed a home draw against League One Luton in the second round of the Carabao Cup. Chelsea’s new manager, Xabi Alonso, will begin the club’s attempt to win the competition for the first time since 2015 later this month. Fellow Premier League side Tottenham have also benefited from a home draw, against Championship opponents Charlton.",
+    "The 11 top-tier sides not involved in European competition enter the draw in the second round, with the remaining nine following in round three. Continue reading...",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Chelsea_vs_union_1929.jpg/960px-Chelsea_vs_union_1929.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
+   "id": "independent-micky-van-de-ven-excited-tottenham-s-future-afte",
+   "slug": "micky-van-de-ven-excited-for-tottenham-s-future-after-signin--afte",
+   "title": "Micky van de Ven ‘excited’ for Tottenham’s future after signing new long-term deal",
+   "dek": "The defender is reported to have agreed a new five-year deal at the club",
+   "description": "The defender is reported to have agreed a new five-year deal at the club",
+   "category": "Transfers & Rumours",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-08-10T21:50:17.000Z",
+   "fetched_at": "2026-08-10T22:37:54.871Z",
+   "body": [
+    "Our briefing: The defender is reported to have agreed a new five-year deal at the club",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/The_South_Stand_of_Tottenham_Hotspur%27s_football_stadium_-_geograph.org.uk_-_2167351.jpg/960px-The_South_Stand_of_Tottenham_Hotspur%27s_football_stadium_-_geograph.org.uk_-_2167351.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Bill Boaden — CC BY-SA 2.0"
+  },
   {
    "id": "bbc-van-de-ven-signs-new-long-term-deal-spurs",
    "slug": "van-de-ven-signs-new-long-term-deal-with-spurs-spurs",
@@ -29,15 +92,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-10T20:59:50.000Z",
-   "fetched_at": "2026-08-10T21:41:48.759Z",
+   "fetched_at": "2026-08-10T22:37:54.602Z",
    "body": [
     "Our briefing: Tottenham defender Micky van de Ven says it is \"clear the direction the club wants to go in\" after signing a new long-term deal with Spurs.",
     "Tottenham defender Micky van de Ven says it is \"clear the direction the club wants to go in\" after signing a new long-term deal with Spurs.",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "YHC — CC BY-SA 4.0"
   },
   {
    "id": "bbc-who-could-arsenal-sign-after-missing-out-viniciu",
@@ -50,7 +113,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-10T20:32:37.000Z",
-   "fetched_at": "2026-08-10T21:41:48.758Z",
+   "fetched_at": "2026-08-10T22:37:54.602Z",
    "body": [
     "Our briefing: One big signing missed, but one big signing through the doors - it's been a mixed transfer window for Arsenal.",
     "One big signing missed, but one big signing through the doors - it's been a mixed transfer window for Arsenal.",
@@ -71,7 +134,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-10T20:30:44.000Z",
-   "fetched_at": "2026-08-10T21:41:48.759Z",
+   "fetched_at": "2026-08-10T22:37:54.603Z",
    "body": [
     "Our briefing: Manchester City on the verge of signing Ayyoub Bouaddi, Serie A interest in Arsenal duo Gabriel Jesus and Gabriel Martinelli plus Harry Kane a target for Barcelona and…",
     "Manchester City on the verge of signing Ayyoub Bouaddi, Serie A interest in Arsenal duo Gabriel Jesus and Gabriel Martinelli plus Harry Kane a target for Barcelona and Tottenham.",
@@ -92,15 +155,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-10T20:23:33.000Z",
-   "fetched_at": "2026-08-10T21:41:48.760Z",
+   "fetched_at": "2026-08-10T22:37:54.605Z",
    "body": [
     "Our briefing: Heart of Midlothian sell Greece winger Alexandros Kyziridis to Turkish club Corum for a fee of around £1.7m.",
     "Heart of Midlothian sell Greece winger Alexandros Kyziridis to Turkish club Corum for a fee of around £1. 7m.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "John Shorten — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
   },
   {
    "id": "bbc-football-daily",
@@ -113,7 +176,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-10T20:17:00.000Z",
-   "fetched_at": "2026-08-10T21:41:48.759Z",
+   "fetched_at": "2026-08-10T22:37:54.603Z",
    "body": [
     "Our briefing: Debating the big Premier League talking points and a heart-warming fan tale.",
     "Debating the big Premier League talking points and a heart-warming fan tale.",
@@ -134,7 +197,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-10T20:01:26.000Z",
-   "fetched_at": "2026-08-10T21:41:48.758Z",
+   "fetched_at": "2026-08-10T22:37:54.602Z",
    "body": [
     "Our briefing: Nottingham Forest will face Leeds in the Carabao Cup in the only all-Premier League tie in the second round of the competition.",
     "Nottingham Forest will face Leeds in the Carabao Cup in the only all-Premier League tie in the second round of the competition.",
@@ -143,28 +206,6 @@
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Leeds_United-Galatasaray_match_in_20_April_2000.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "imageCredit": "John Seb Barber from Leeds, UK — CC BY-SA 2.0"
-  },
-  {
-   "id": "guardian-carabao-cup-second-round-draw-chelsea-host-luton",
-   "slug": "carabao-cup-second-round-draw-chelsea-host-luton-forest-at-h-luton",
-   "title": "Carabao Cup second-round draw: Chelsea host Luton, Forest at home to Leeds",
-   "dek": "Spurs will play Charlton, Preston v Everton Brentford away at Birmingham; Ipswich v Leicester Five-time winners Chelsea have been handed a home draw against League One…",
-   "description": "Spurs will play Charlton, Preston v Everton Brentford away at Birmingham; Ipswich v Leicester Five-time winners Chelsea have been handed a home draw against League One Luton in the second round of the Carabao Cup. Chelsea’s new manager, Xabi Alonso, will begin the club’s attempt to win the competition for the first time since 2015 later this month. Fellow Premier League side Tottenham have also benefited from a home draw, against Championship opponents Charlton. Continue reading...",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-08-10T19:32:36.000Z",
-   "fetched_at": "2026-08-10T21:41:48.849Z",
-   "body": [
-    "Our briefing: Spurs will play Charlton, Preston v Everton Brentford away at Birmingham; Ipswich v Leicester Five-time winners Chelsea have been handed a home draw against League One…",
-    "Spurs will play Charlton, Preston v Everton Brentford away at Birmingham; Ipswich v Leicester Five-time winners Chelsea have been handed a home draw against League One Luton in the second round of the Carabao Cup. Chelsea’s new manager, Xabi Alonso, will begin the club’s attempt to win the competition for the first time since 2015 later this month. Fellow Premier League side Tottenham have also benefited from a home draw, against Championship opponents Charlton.",
-    "Continue reading...",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Chelsea_vs_union_1929.jpg/960px-Chelsea_vs_union_1929.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
   },
   {
    "id": "independent-carabao-cup-draw-live-chelsea-tottenham-premier-",
@@ -177,7 +218,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-10T19:14:02.000Z",
-   "fetched_at": "2026-08-10T21:41:49.005Z",
+   "fetched_at": "2026-08-10T22:37:54.871Z",
    "body": [
     "Our briefing: Nottingham Forest will face Leeds in an all-Premier League tie while Chelsea and Tottenham are both at home to League One and Championship opposition respectively",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -197,7 +238,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-10T19:10:48.000Z",
-   "fetched_at": "2026-08-10T21:41:48.849Z",
+   "fetched_at": "2026-08-10T22:37:54.771Z",
    "body": [
     "Our briefing: Banner depicted him holding gun to Gibbs-White’s head Palace have already been handed £50,000 fine from FA The Nottingham Forest owner, Evangelos Marinakis, is suing…",
     "Banner depicted him holding gun to Gibbs-White’s head Palace have already been handed £50,000 fine from FA The Nottingham Forest owner, Evangelos Marinakis, is suing Crystal Palace for defamation after supporters of the south London club displayed a banner depicting him holding a gun to the head of the England midfielder Morgan Gibbs-White. Almost 12 months since the banner appeared midway through the first half of Palace’s 1-1 draw with Forest at Selhurst Park , lawyers for Marinakis lodged the claim for defamation against CPFC Ltd and “persons unknown” at the high court on Monday. Continue reading...",
@@ -218,7 +259,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-10T19:09:39.000Z",
-   "fetched_at": "2026-08-10T21:41:49.005Z",
+   "fetched_at": "2026-08-10T22:37:54.871Z",
    "body": [
     "Our briefing: The 11 Premier League teams not competing in Europe this season learned their second-round opposition on Monday night",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -238,31 +279,31 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-10T18:56:56.000Z",
-   "fetched_at": "2026-08-10T21:41:48.759Z",
+   "fetched_at": "2026-08-10T22:37:54.603Z",
    "body": [
     "Our briefing: West Ham United sign winger Manor Solomon from Tottenham on a three-year contract.",
     "West Ham United sign winger Manor Solomon from Tottenham on a three-year contract.",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/The_South_Stand_of_Tottenham_Hotspur%27s_football_stadium_-_geograph.org.uk_-_2167351.jpg/960px-The_South_Stand_of_Tottenham_Hotspur%27s_football_stadium_-_geograph.org.uk_-_2167351.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Bill Boaden — CC BY-SA 2.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/The_main_stand_at_Tottenham_Hotspur_in_1991_-_geograph.org.uk_-_2839301.jpg/960px-The_main_stand_at_Tottenham_Hotspur_in_1991_-_geograph.org.uk_-_2839301.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Steve Daniels — CC BY-SA 2.0"
   },
   {
    "id": "guardian-ara-jo-joins-liverpool-loan-van-dijk-hopes-more-",
    "slug": "ara-jo-joins-liverpool-on-loan-and-van-dijk-hopes-for-more-a-more-",
    "title": "Araújo joins Liverpool on loan and Van Dijk hopes for more arrivals before new season",
    "dek": "Barcelona’s Ronald Araújo arrives on loan Van Dijk: ‘Let’s see what the next couple of weeks bring’ Virgil van Dijk is ready to welcome Ronald Araújo as his new…",
-   "description": "Barcelona’s Ronald Araújo arrives on loan Van Dijk: ‘Let’s see what the next couple of weeks bring’ Virgil van Dijk is ready to welcome Ronald Araújo as his new centre‑back partner at Liverpool with the loan deal to sign the Barcelona defender completed on Monday. Uruguay international Araújo, 27, arrives on a one-season contract and has also played at right-back, a vulnerable area of Liverpool’s squad as Conor Bradley continues his rehabilitation from a serious knee injury and with Jeremie Frimpong still to nail down a first XI spot after a disrupted first season at Anfield. Continue reading...",
+   "description": "Barcelona’s Ronald Araújo arrives on loan Van Dijk: ‘Let’s see what the next couple of weeks bring’ Virgil van Dijk is ready to welcome Ronald Araújo as his new centre‑back partner at Liverpool with the loan deal to sign the Barcelona defender completed on Monday. Uruguay international Araújo, 27, arrives on a one-year contract and has also played at right-back, a vulnerable area of Liverpool’s squad as Conor Bradley continues his rehabilitation from a serious knee injury and with Jeremie Frimpong still to nail down a first XI spot after a disrupted first season at Anfield. Continue reading...",
    "category": "Transfers & Rumours",
    "league": "Premier League",
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-10T18:16:49.000Z",
-   "fetched_at": "2026-08-10T21:41:48.849Z",
+   "fetched_at": "2026-08-10T22:37:54.772Z",
    "body": [
     "Our briefing: Barcelona’s Ronald Araújo arrives on loan Van Dijk: ‘Let’s see what the next couple of weeks bring’ Virgil van Dijk is ready to welcome Ronald Araújo as his new…",
-    "Barcelona’s Ronald Araújo arrives on loan Van Dijk: ‘Let’s see what the next couple of weeks bring’ Virgil van Dijk is ready to welcome Ronald Araújo as his new centre‑back partner at Liverpool with the loan deal to sign the Barcelona defender completed on Monday. Uruguay international Araújo, 27, arrives on a one-season contract and has also played at right-back, a vulnerable area of Liverpool’s squad as Conor Bradley continues his rehabilitation from a serious knee injury and with Jeremie Frimpong still to nail down a first XI spot after a disrupted first season at Anfield. Continue reading...",
+    "Barcelona’s Ronald Araújo arrives on loan Van Dijk: ‘Let’s see what the next couple of weeks bring’ Virgil van Dijk is ready to welcome Ronald Araújo as his new centre‑back partner at Liverpool with the loan deal to sign the Barcelona defender completed on Monday. Uruguay international Araújo, 27, arrives on a one-year contract and has also played at right-back, a vulnerable area of Liverpool’s squad as Conor Bradley continues his rehabilitation from a serious knee injury and with Jeremie Frimpong still to nail down a first XI spot after a disrupted first season at Anfield. Continue reading...",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Guardian."
    ],
@@ -280,7 +321,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-10T18:11:48.000Z",
-   "fetched_at": "2026-08-10T21:41:48.758Z",
+   "fetched_at": "2026-08-10T22:37:54.602Z",
    "body": [
     "Our briefing: Ronald Araujo has joined Liverpool on loan from Barcelona. We explain why Liverpool moved for the Uruguay defender and what went wrong at Barcelona.",
     "Ronald Araujo has joined Liverpool on loan from Barcelona. We explain why Liverpool moved for the Uruguay defender and what went wrong at Barcelona.",
@@ -301,15 +342,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-10T18:11:00.000Z",
-   "fetched_at": "2026-08-10T21:41:48.759Z",
+   "fetched_at": "2026-08-10T22:37:54.602Z",
    "body": [
     "Our briefing: Evangelos Marinakis is suing Crystal Palace for a banner unfurled by their fans depicting the Nottingham Forest owner holding a gun to midfielder Morgan Gibbs-White's…",
     "Evangelos Marinakis is suing Crystal Palace for a banner unfurled by their fans depicting the Nottingham Forest owner holding a gun to midfielder Morgan Gibbs-White's head.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "bbc-liverpool-sign-araujo-loan-barcelona",
@@ -322,7 +363,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-10T18:04:38.000Z",
-   "fetched_at": "2026-08-10T21:41:48.759Z",
+   "fetched_at": "2026-08-10T22:37:54.603Z",
    "body": [
     "Our briefing: Liverpool sign Uruguay defender Ronald Araujo on a season-long loan from Barcelona, with an option to buy.",
     "Liverpool sign Uruguay defender Ronald Araujo on a season-long loan from Barcelona, with an option to buy.",
@@ -343,7 +384,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-10T17:51:59.000Z",
-   "fetched_at": "2026-08-10T21:41:49.005Z",
+   "fetched_at": "2026-08-10T22:37:54.871Z",
    "body": [
     "Our briefing: Marinakis has sued Palace in the High Court for a banner that depicted him holding a gun to Morgan Gibbs-White’s head",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -363,7 +404,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-10T17:47:07.000Z",
-   "fetched_at": "2026-08-10T21:41:48.760Z",
+   "fetched_at": "2026-08-10T22:37:54.605Z",
    "body": [
     "Our briefing: The second-round draw of the EFL Cup takes place on Monday, with 11 Premier League teams entering the competition.",
     "The second-round draw of the EFL Cup takes place on Monday, with 11 Premier League teams entering the competition.",
@@ -384,7 +425,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-10T17:33:08.000Z",
-   "fetched_at": "2026-08-10T21:41:49.005Z",
+   "fetched_at": "2026-08-10T22:37:54.871Z",
    "body": [
     "Our briefing: The Tottenham captain is aiming for a shock switch to rivals Arsenal amid rumours he will leave the club this summer",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -404,7 +445,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-10T17:30:39.000Z",
-   "fetched_at": "2026-08-10T21:41:49.005Z",
+   "fetched_at": "2026-08-10T22:37:54.871Z",
    "body": [
     "Our briefing: The Barcelona captain offers much-needed reinforcements in defence and represents another leadership figure for a squad shorn of senior players",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -424,13 +465,13 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-10T16:57:37.000Z",
-   "fetched_at": "2026-08-10T21:41:49.005Z",
+   "fetched_at": "2026-08-10T22:37:54.871Z",
    "body": [
     "Our briefing: Derby and Alalshikh confirmed that negotiations over a takeover had ended",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -444,14 +485,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-10T16:53:54.000Z",
-   "fetched_at": "2026-08-10T21:41:48.759Z",
+   "fetched_at": "2026-08-10T22:37:54.603Z",
    "body": [
     "Our briefing: Teenager Erica Meg Parkinson withdraws from England's training camp before the Under-20 Women's World Cup in Poland next month.",
     "Teenager Erica Meg Parkinson withdraws from England's training camp before the Under-20 Women's World Cup in Poland next month.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -465,14 +506,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-10T16:51:34.000Z",
-   "fetched_at": "2026-08-10T21:41:48.759Z",
+   "fetched_at": "2026-08-10T22:37:54.603Z",
    "body": [
     "Our briefing: Saudi Arabia government official Turki Alalshikh abandons his proposed takeover of Championship club Derby County.",
     "Saudi Arabia government official Turki Alalshikh abandons his proposed takeover of Championship club Derby County.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -486,15 +527,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-10T16:48:34.000Z",
-   "fetched_at": "2026-08-10T21:41:48.759Z",
+   "fetched_at": "2026-08-10T22:37:54.604Z",
    "body": [
     "Our briefing: Players flocking to ply their trade in England can still be a positive for women's football in Scotland, insists SWPL managing director Fiona McIntyre.",
     "Players flocking to ply their trade in England can still be a positive for women's football in Scotland, insists SWPL managing director Fiona McIntyre.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "bbc-villa-talks-sign-bayern-s-palhinha",
@@ -507,7 +548,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-10T15:40:18.000Z",
-   "fetched_at": "2026-08-10T21:41:48.758Z",
+   "fetched_at": "2026-08-10T22:37:54.602Z",
    "body": [
     "Our briefing: Aston Villa are in talks over a move for Bayern Munich midfielder Joao Palhinha.",
     "Aston Villa are in talks over a move for Bayern Munich midfielder Joao Palhinha.",
@@ -528,7 +569,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-10T15:21:25.000Z",
-   "fetched_at": "2026-08-10T21:41:49.005Z",
+   "fetched_at": "2026-08-10T22:37:54.871Z",
    "body": [
     "Our briefing: Van Dijk has become Liverpool’s last centre-back standing but is ready for another long season as he welcomes new teammates and a new manager into the fold",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
@@ -548,7 +589,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-10T15:14:04.000Z",
-   "fetched_at": "2026-08-10T21:41:48.759Z",
+   "fetched_at": "2026-08-10T22:37:54.603Z",
    "body": [
     "Our briefing: Finding a balance between the national interest and self-interest of clubs will be a challenge when it comes to how best to nurture Scottish talent, writes Tom English.",
     "Finding a balance between the national interest and self-interest of clubs will be a challenge when it comes to how best to nurture Scottish talent, writes Tom English.",
@@ -569,7 +610,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-10T15:14:04.000Z",
-   "fetched_at": "2026-08-10T21:41:48.760Z",
+   "fetched_at": "2026-08-10T22:37:54.605Z",
    "body": [
     "Our briefing: Finding a balance between the national interest and self-interest of clubs will be a challenge when it comes to how best to nurture Scottish talent, writes Tom English.",
     "Finding a balance between the national interest and self-interest of clubs will be a challenge when it comes to how best to nurture Scottish talent, writes Tom English.",
@@ -590,7 +631,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-10T15:01:59.000Z",
-   "fetched_at": "2026-08-10T21:41:48.849Z",
+   "fetched_at": "2026-08-10T22:37:54.771Z",
    "body": [
     "Our briefing: In a mailbag edition of his newsletter, Jonathan Wilson answers questions about Michael Carrick, VAR and the Premier League’s new teams Sign up for our free newsletter…",
     "In a mailbag edition of his newsletter, Jonathan Wilson answers questions about Michael Carrick, VAR and the Premier League’s new teams Sign up for our free newsletter here Manchester United finally seem to have something that resembles stability in the dressing room under Michael Carrick. I feel with quality signings in defence and midfield, they could mount a decent challenge for the Premier League next season. How do you feel they will fare?",
@@ -614,7 +655,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-10T14:54:09.000Z",
-   "fetched_at": "2026-08-10T21:41:48.759Z",
+   "fetched_at": "2026-08-10T22:37:54.603Z",
    "body": [
     "Our briefing: Should Liverpool fans be worried about Andoni Iraola's comments concerning the squad's fitness?",
     "Should Liverpool fans be worried about Andoni Iraola's comments concerning the squad's fitness?",
@@ -635,7 +676,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-10T14:40:46.000Z",
-   "fetched_at": "2026-08-10T21:41:48.849Z",
+   "fetched_at": "2026-08-10T22:37:54.772Z",
    "body": [
     "Our briefing: Referee was refused entry to US in June Will take charge of PSG v Aston Villa on Wednesday The Somali referee Omar Artan, who was refused entry to the US to officiate at…",
     "Referee was refused entry to US in June Will take charge of PSG v Aston Villa on Wednesday The Somali referee Omar Artan, who was refused entry to the US to officiate at the World Cup, has spoken publicly for the first time about the decision and detailed his pride as he prepares to take charge of the Super Cup match between Paris Saint‑Germain and Aston Villa on Wednesday. Uefa awarded the 34-year-old Artan the game a few days after he was prevented from working at the tournament. Artan will make history in Salzburg as the first non-European official to take charge of Uefa’s annual competition between the respective winners of the Champions League and the Europa League.",
@@ -643,7 +684,7 @@
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
   },
   {
@@ -657,14 +698,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-10T14:29:04.000Z",
-   "fetched_at": "2026-08-10T21:41:49.005Z",
+   "fetched_at": "2026-08-10T22:37:54.871Z",
    "body": [
     "Our briefing: Omar Artan was refused entry to the US shortly before the World Cup got underway",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
    "id": "independent-carabao-cup-draw-start-time-ball-numbers-how-wat",
@@ -697,7 +738,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-10T13:49:05.000Z",
-   "fetched_at": "2026-08-10T21:41:48.849Z",
+   "fetched_at": "2026-08-10T22:37:54.771Z",
    "body": [
     "Our briefing: Group including Amazon founder has held talks with FSG Bhatia and Facebook co-founder Saverin also involved A consortium including the Amazon founder, Jeff Bezos, is…",
     "Group including Amazon founder has held talks with FSG Bhatia and Facebook co-founder Saverin also involved A consortium including the Amazon founder, Jeff Bezos, is close to completing a deal for a 30% stake in Liverpool after months of talks with Fenway Sports Group. The investors are led by Amit Bhatia, the son-in-law of the Indian billionaire Lakshmi Mittal and who previously was a shareholder and director at Queens Park Rangers. The Facebook co-founder Eduardo Saverin is another member of the group who will pay in the region of £1.",
@@ -719,7 +760,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-10T13:48:16.000Z",
-   "fetched_at": "2026-08-10T21:41:49.005Z",
+   "fetched_at": "2026-08-10T22:37:54.871Z",
    "body": [
     "Our briefing: Manchester City beat Atletico Madrid 3-1 in a pre-season friendly on Sunday",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -739,7 +780,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-10T13:39:45.000Z",
-   "fetched_at": "2026-08-10T21:41:48.849Z",
+   "fetched_at": "2026-08-10T22:37:54.772Z",
    "body": [
     "Our briefing: Sign up now! Sign up now! Sign up now? Sign up now! “You don’t do a documentary with a guy who wins nothing,” parps José Mourinho during the trailer for his shiny, new…",
     "Sign up now! Sign up now! Sign up now?",
@@ -753,8 +794,8 @@
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "guardian-infantino-hangs-thread-overhaul-newcastle-footba",
@@ -767,7 +808,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-10T13:26:16.000Z",
-   "fetched_at": "2026-08-10T21:41:48.850Z",
+   "fetched_at": "2026-08-10T22:37:54.772Z",
    "body": [
     "Our briefing: Max Rushden is joined by Robyn Cowen, Dan Bardell, Sam Dalling and Matt Hughes to look at how Fifa deals with its Infantino problem Continue reading...",
     "Max Rushden is joined by Robyn Cowen, Dan Bardell, Sam Dalling and Matt Hughes to look at how Fifa deals with its Infantino problem Continue reading...",
@@ -788,7 +829,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-10T13:16:51.000Z",
-   "fetched_at": "2026-08-10T21:41:48.759Z",
+   "fetched_at": "2026-08-10T22:37:54.602Z",
    "body": [
     "Our briefing: A group including Amazon founder Jeff Bezos advances its talks to buy about a 30% stake in Liverpool, BBC Sport has been told.",
     "A group including Amazon founder Jeff Bezos advances its talks to buy about a 30% stake in Liverpool, BBC Sport has been told.",
@@ -809,57 +850,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-10T13:00:00.000Z",
-   "fetched_at": "2026-08-10T21:41:48.760Z",
+   "fetched_at": "2026-08-10T22:37:54.604Z",
    "body": [
     "Our briefing: Hear from Georgia Stanway, Ona Batlle, Steph Catley, Lotte Wubben-Moy and Renée Slegers.",
     "Hear from Georgia Stanway, Ona Batlle, Steph Catley, Lotte Wubben-Moy and Renée Slegers.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "bbc-sliding-doors-when-mourinho-said-yes-then-no-man",
-   "slug": "sliding-doors-when-mourinho-said-yes-then-no-to-man-utd-o-man",
-   "title": "Sliding doors - when Mourinho said yes, then no, to Man Utd",
-   "dek": "The inside story of Manchester United's attempt to get Jose Mourinho to replace Sir Alex Ferguson, why he said 'no' and the impact of that decision.",
-   "description": "The inside story of Manchester United's attempt to get Jose Mourinho to replace Sir Alex Ferguson, why he said 'no' and the impact of that decision.",
-   "category": "Tactics & Analysis",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-10T12:59:39.000Z",
-   "fetched_at": "2026-08-10T21:41:48.759Z",
-   "body": [
-    "Our briefing: The inside story of Manchester United's attempt to get Jose Mourinho to replace Sir Alex Ferguson, why he said 'no' and the impact of that decision.",
-    "The inside story of Manchester United's attempt to get Jose Mourinho to replace Sir Alex Ferguson, why he said 'no' and the impact of that decision.",
-    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Manchester_United_Old_Trafford.jpg/960px-Manchester_United_Old_Trafford.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
-  },
-  {
-   "id": "bbc-palace-close-signing-khalaili-union-sg",
-   "slug": "palace-close-to-signing-khalaili-from-union-sg-on-sg",
-   "title": "Palace close to signing Khalaili from Union SG",
-   "dek": "Crystal Palace poised to sign 21-year-old midfielder Anan Khalaili from Belgian side Union Saint-Gilloise.",
-   "description": "Crystal Palace poised to sign 21-year-old midfielder Anan Khalaili from Belgian side Union Saint-Gilloise.",
-   "category": "Transfers & Rumours",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-10T12:45:17.000Z",
-   "fetched_at": "2026-08-10T21:41:48.759Z",
-   "body": [
-    "Our briefing: Crystal Palace poised to sign 21-year-old midfielder Anan Khalaili from Belgian side Union Saint-Gilloise.",
-    "Crystal Palace poised to sign 21-year-old midfielder Anan Khalaili from Belgian side Union Saint-Gilloise.",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "YHC — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Kashima_Soccer_Stadium_6.jpg/960px-Kashima_Soccer_Stadium_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   }
  ]
 }
