@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-10T23:35:41.001Z",
+ "generated_at": "2026-08-11T01:48:12.646Z",
  "matches": [
   {
    "league": "Premier League",
@@ -41,19 +41,6 @@
    "date": "2026-08-15T19:30Z"
   },
   {
-   "league": "Ligue 1",
-   "home": "Marseille",
-   "away": "Strasbourg",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, August 21st at 2:45 PM EDT",
-   "date": "2026-08-21T18:45Z"
-  },
-  {
    "league": "Bundesliga",
    "home": "Bayern Munich",
    "away": "VfB Stuttgart",
@@ -65,6 +52,19 @@
    "clock": "",
    "time": "Fri, August 28th at 2:30 PM EDT",
    "date": "2026-08-28T18:30Z"
+  },
+  {
+   "league": "Ligue 1",
+   "home": "Marseille",
+   "away": "Strasbourg",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, August 21st at 2:45 PM EDT",
+   "date": "2026-08-21T18:45Z"
   },
   {
    "league": "Serie A",
