@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-11T13:54:49.659Z",
- "updated_utc": "2026-08-11T13:54Z",
- "cycle": 29774274,
+ "generated_at": "2026-08-11T14:58:27.679Z",
+ "updated_utc": "2026-08-11T14:58Z",
+ "cycle": 29774338,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,7 +16,7 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "independent-transfer-news-live-liverpool-agree-barcola-terms",
+ "hero_id": "independent-enzo-maresca-reveals-bizarre-reason-erling-haala",
  "articles": [
   {
    "id": "independent-transfer-news-live-liverpool-agree-barcola-terms",
@@ -28,8 +28,8 @@
    "league": "Premier League",
    "source": "independent",
    "sourceName": "The Independent",
-   "published": "2026-08-11T13:23:13.000Z",
-   "fetched_at": "2026-08-11T13:54:33.883Z",
+   "published": "2026-08-11T14:09:39.000Z",
+   "fetched_at": "2026-08-11T14:58:15.366Z",
    "body": [
     "Our briefing: Liverpool have been in pursuit of Barcola all summer but have recently faced competition from Arsenal",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -37,6 +37,27 @@
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg/960px-Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
+  },
+  {
+   "id": "bbc-unhappy-psg-given-extra-super-cup-dressing-room",
+   "slug": "unhappy-psg-given-extra-super-cup-dressing-room--room",
+   "title": "Unhappy PSG given extra Super Cup dressing room",
+   "dek": "Champions League winners Paris St-Germain were unhappy with the space they were given at Red Bull Arena.",
+   "description": "Champions League winners Paris St-Germain were unhappy with the space they were given at Red Bull Arena.",
+   "category": "News",
+   "league": "Ligue 1",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-11T14:06:50.000Z",
+   "fetched_at": "2026-08-11T14:58:15.195Z",
+   "body": [
+    "Our briefing: Champions League winners Paris St-Germain were unhappy with the space they were given at Red Bull Arena.",
+    "Champions League winners Paris St-Germain were unhappy with the space they were given at Red Bull Arena.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/World_Football_Challenge_-_Chelsea_FC_vs_Paris_Saint-Germain_FC.jpg/960px-World_Football_Challenge_-_Chelsea_FC_vs_Paris_Saint-Germain_FC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Shinya Suzuki — CC BY 2.0"
   },
   {
    "id": "bbc-pfa-starts-legal-proceedings-over-league-one-sal",
@@ -49,7 +70,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-11T13:13:32.000Z",
-   "fetched_at": "2026-08-11T13:54:33.576Z",
+   "fetched_at": "2026-08-11T14:58:15.195Z",
    "body": [
     "Our briefing: The PFA starts legal proceedings against the EFL over changes to salary caps in League One.",
     "The PFA starts legal proceedings against the EFL over changes to salary caps in League One.",
@@ -70,7 +91,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-11T12:52:30.000Z",
-   "fetched_at": "2026-08-11T13:54:33.657Z",
+   "fetched_at": "2026-08-11T14:58:15.274Z",
    "body": [
     "Our briefing: Max Rushden is joined by Nicky Bandini , Lars Sivertsen and Paul Watson to discuss Donald Trump’s nice words about the struggling Fifa boss, plus returning Madrid boss…",
     "Max Rushden is joined by Nicky Bandini , Lars Sivertsen and Paul Watson to discuss Donald Trump’s nice words about the struggling Fifa boss, plus returning Madrid boss José Mourinho’s new Netflix documentary Continue reading...",
@@ -91,7 +112,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-11T12:40:03.000Z",
-   "fetched_at": "2026-08-11T13:54:33.883Z",
+   "fetched_at": "2026-08-11T14:58:15.366Z",
    "body": [
     "Our briefing: Manchester City are set to name a new captain after Bernardo Silva left the club at the end of last season",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -111,7 +132,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-11T12:25:23.000Z",
-   "fetched_at": "2026-08-11T13:54:33.883Z",
+   "fetched_at": "2026-08-11T14:58:15.366Z",
    "body": [
     "Our briefing: Phillips has not played for Manchester City since 2023 but still has two years left on his deal",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -131,7 +152,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-11T12:23:07.000Z",
-   "fetched_at": "2026-08-11T13:54:33.883Z",
+   "fetched_at": "2026-08-11T14:58:15.366Z",
    "body": [
     "Our briefing: Nine fans were banned during the 2025-26 season, as confirmed in figures released by Arsenal on Tuesday",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -151,7 +172,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-11T12:22:08.000Z",
-   "fetched_at": "2026-08-11T13:54:33.576Z",
+   "fetched_at": "2026-08-11T14:58:15.196Z",
    "body": [
     "Our briefing: Youssef Chermiti faces a long recovery from anterior cruciate ligament damage sustained shortly after Rangers turned down an offer for the striker.",
     "Youssef Chermiti faces a long recovery from anterior cruciate ligament damage sustained shortly after Rangers turned down an offer for the striker.",
@@ -172,7 +193,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-11T12:22:08.000Z",
-   "fetched_at": "2026-08-11T13:54:33.579Z",
+   "fetched_at": "2026-08-11T14:58:15.197Z",
    "body": [
     "Our briefing: Youssef Chermiti faces a long recovery from anterior cruciate ligament damage sustained shortly after Rangers turned down an offer for the striker.",
     "Youssef Chermiti faces a long recovery from anterior cruciate ligament damage sustained shortly after Rangers turned down an offer for the striker.",
@@ -193,7 +214,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-11T12:10:16.000Z",
-   "fetched_at": "2026-08-11T13:54:33.883Z",
+   "fetched_at": "2026-08-11T14:58:15.366Z",
    "body": [
     "Our briefing: President Trump has given his full backing to embattled Infantino as the FIFA president faces ongoing pressure to step down",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -213,7 +234,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-11T12:09:48.000Z",
-   "fetched_at": "2026-08-11T13:54:33.656Z",
+   "fetched_at": "2026-08-11T14:58:15.273Z",
    "body": [
     "Our briefing: Chelsea also made aware of 19-year-old’s availability Newcastle’s Lewis Hall remains prime United target Myles Lewis-Skelly has been offered to Manchester United as a…",
     "Chelsea also made aware of 19-year-old’s availability Newcastle’s Lewis Hall remains prime United target Myles Lewis-Skelly has been offered to Manchester United as a potential left-back option, with Arsenal wishing to recoup some of the £75m paid to Newcastle for Bruno Guimarães. Chelsea, it is understood, have also been made aware of the availability of the 19-year-old, who won the Premier League under Mikel Arteta last term. Whether the west London club will make a move for Lewis-Skelly is unclear.",
@@ -235,7 +256,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-11T12:07:28.000Z",
-   "fetched_at": "2026-08-11T13:54:33.576Z",
+   "fetched_at": "2026-08-11T14:58:15.195Z",
    "body": [
     "Our briefing: Crystal Palace co-owner and chairman Steve Parish contacts Dwight McNeil's partner before the midfielder's move to the club.",
     "Crystal Palace co-owner and chairman Steve Parish contacts Dwight McNeil's partner before the midfielder's move to the club.",
@@ -256,7 +277,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-11T12:06:26.000Z",
-   "fetched_at": "2026-08-11T13:54:33.577Z",
+   "fetched_at": "2026-08-11T14:58:15.196Z",
    "body": [
     "Our briefing: Burnley defender Kyle Walker warns his team-mates they cannot \"have a hangover\" as they target an immediate Premier League return.",
     "Burnley defender Kyle Walker warns his team-mates they cannot \"have a hangover\" as they target an immediate Premier League return.",
@@ -277,7 +298,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-11T11:54:57.000Z",
-   "fetched_at": "2026-08-11T13:54:33.576Z",
+   "fetched_at": "2026-08-11T14:58:15.196Z",
    "body": [
     "Our briefing: Crystal Palace are in talks to re-sign Ivory Coast forward Evann Guessand on a season-long loan from Aston Villa.",
     "Crystal Palace are in talks to re-sign Ivory Coast forward Evann Guessand on a season-long loan from Aston Villa.",
@@ -298,7 +319,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-11T11:47:24.000Z",
-   "fetched_at": "2026-08-11T13:54:33.656Z",
+   "fetched_at": "2026-08-11T14:58:15.273Z",
    "body": [
     "Our briefing: Fulham sign Shea Charles from Saints for £30m Chelsea’s Filip Jorgensen moves to Strasbourg on loan Nottingham Forest have signed Côte d’Ivoire defender Ousmane Diomande…",
     "Fulham sign Shea Charles from Saints for £30m Chelsea’s Filip Jorgensen moves to Strasbourg on loan Nottingham Forest have signed Côte d’Ivoire defender Ousmane Diomande from Sporting for an undisclosed fee, reported to be £34. 2m. The 22-year-old centre-half, who featured in the Côte d’Ivoire’s World Cup squad, has agreed a four-year deal with Forest, who have an option for a further year.",
@@ -320,7 +341,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-11T11:37:56.000Z",
-   "fetched_at": "2026-08-11T13:54:33.576Z",
+   "fetched_at": "2026-08-11T14:58:15.196Z",
    "body": [
     "Our briefing: Manchester United are one of the biggest clubs in the world, but is the women's team really judged differently as a result?",
     "Manchester United are one of the biggest clubs in the world, but is the women's team really judged differently as a result?",
@@ -341,7 +362,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-11T11:36:09.000Z",
-   "fetched_at": "2026-08-11T13:54:33.576Z",
+   "fetched_at": "2026-08-11T14:58:15.195Z",
    "body": [
     "Our briefing: After he became Northern Ireland's most expensive player, BBC Sport NI looks at the rise of Shea Charles, from Manchester City's academy to Fulham's £30m man.",
     "After he became Northern Ireland's most expensive player, BBC Sport NI looks at the rise of Shea Charles, from Manchester City's academy to Fulham's £30m man.",
@@ -383,7 +404,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-11T11:35:40.000Z",
-   "fetched_at": "2026-08-11T13:54:33.577Z",
+   "fetched_at": "2026-08-11T14:58:15.196Z",
    "body": [
     "Our briefing: Chelsea will face Spanish side Real Sociedad in the Women's Champions League third qualifying round, with the first leg of the tie on 26 August.",
     "Chelsea will face Spanish side Real Sociedad in the Women's Champions League third qualifying round, with the first leg of the tie on 26 August.",
@@ -404,7 +425,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-11T11:25:32.000Z",
-   "fetched_at": "2026-08-11T13:54:33.883Z",
+   "fetched_at": "2026-08-11T14:58:15.366Z",
    "body": [
     "Our briefing: A consortium that includes Jeff Bezos is nearing a deal to buy a significant minority stake in Liverpool",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -424,7 +445,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-11T11:06:13.000Z",
-   "fetched_at": "2026-08-11T13:54:33.883Z",
+   "fetched_at": "2026-08-11T14:58:15.366Z",
    "body": [
     "Our briefing: It has been musical chairs, Unai Emery-style, at Villa Park once more and now double reigning European champions PSG provide a daunting test or the Villans",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -444,7 +465,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-11T11:05:55.000Z",
-   "fetched_at": "2026-08-11T13:54:33.576Z",
+   "fetched_at": "2026-08-11T14:58:15.195Z",
    "body": [
     "Our briefing: Nottingham Forest sign Ivory Coast defender Ousmane Diomande from Portuguese club Sporting for a reported £34m.",
     "Nottingham Forest sign Ivory Coast defender Ousmane Diomande from Portuguese club Sporting for a reported £34m.",
@@ -465,7 +486,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-11T11:04:43.000Z",
-   "fetched_at": "2026-08-11T13:54:33.883Z",
+   "fetched_at": "2026-08-11T14:58:15.366Z",
    "body": [
     "Our briefing: Roberto De Zerbi is hoping to turn things around at Spurs at successive 17th-placed finishes in the Premier League",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -485,7 +506,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-11T11:02:42.000Z",
-   "fetched_at": "2026-08-11T13:54:33.575Z",
+   "fetched_at": "2026-08-11T14:58:15.195Z",
    "body": [
     "Our briefing: BBC Sport uses visuals to explore the support and opposition to Gianni Infantino's leadership of Fifa from its members.",
     "BBC Sport uses visuals to explore the support and opposition to Gianni Infantino's leadership of Fifa from its members.",
@@ -506,7 +527,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-11T11:00:03.000Z",
-   "fetched_at": "2026-08-11T13:54:33.656Z",
+   "fetched_at": "2026-08-11T14:58:15.273Z",
    "body": [
     "Our briefing: Keith Andrews and the high-scoring Igor Thiago face difficult second album after outperforming expectations Guardian writers’ predicted position: 8th (NB: this is not…",
     "Keith Andrews and the high-scoring Igor Thiago face difficult second album after outperforming expectations Guardian writers’ predicted position: 8th (NB: this is not necessarily John Brewin’s prediction but the average of our writers’ tips) Last season’s position: 9th Continue reading...",
@@ -527,7 +548,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-11T11:00:00.000Z",
-   "fetched_at": "2026-08-11T13:54:33.883Z",
+   "fetched_at": "2026-08-11T14:58:15.366Z",
    "body": [
     "Our briefing: Wirtz did not hit the heights of the legendary Liverpool No 7s before him in his debut season, but the German is buoyed by a new presence in the dugout for his second…",
     "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
@@ -547,14 +568,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-11T10:52:41.000Z",
-   "fetched_at": "2026-08-11T13:54:33.884Z",
+   "fetched_at": "2026-08-11T14:58:15.366Z",
    "body": [
     "Our briefing: The EFL is facing legal action following their changes to salary cap rules in League One",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/CPSL_2005_semifinals_-_Esther_Shiner_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "Robin Glover — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "independent-nottingham-forest-face-leeds-all-premier-league-",
@@ -567,7 +588,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-11T10:45:44.000Z",
-   "fetched_at": "2026-08-11T13:54:33.884Z",
+   "fetched_at": "2026-08-11T14:58:15.366Z",
    "body": [
     "Our briefing: The 11 Premier League teams not competing in Europe this season learned their second-round opposition on Monday night",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -607,7 +628,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-11T10:33:50.000Z",
-   "fetched_at": "2026-08-11T13:54:33.656Z",
+   "fetched_at": "2026-08-11T14:58:15.273Z",
    "body": [
     "Our briefing: Our cartoonist welcomes the EFL back, with returning characters and a look at what it’s like as an exiled supporter Buy a cartoon | Some of David’s favourite works And…",
     "Our cartoonist welcomes the EFL back, with returning characters and a look at what it’s like as an exiled supporter Buy a cartoon | Some of David’s favourite works And his latest book, Chaos in the Box: get it now Continue reading...",
@@ -628,7 +649,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-11T10:10:43.000Z",
-   "fetched_at": "2026-08-11T13:54:33.577Z",
+   "fetched_at": "2026-08-11T14:58:15.196Z",
    "body": [
     "Our briefing: Chelsea explore potential loan moves for Mykhailo Mudryk as he looks to rebuild his fitness after 20 months out of football.",
     "Chelsea explore potential loan moves for Mykhailo Mudryk as he looks to rebuild his fitness after 20 months out of football.",
@@ -649,7 +670,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-11T09:42:20.000Z",
-   "fetched_at": "2026-08-11T13:54:33.576Z",
+   "fetched_at": "2026-08-11T14:58:15.195Z",
    "body": [
     "Our briefing: Sevilla announce £5.5m move, rising to potential £7.6m, for former Scotland youth international striker Robbie Ure to join from Swedish club IK Sirius.",
     "Sevilla announce £5. 5m move, rising to potential £7. 6m, for former Scotland youth international striker Robbie Ure to join from Swedish club IK Sirius.",
@@ -670,7 +691,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-11T09:42:20.000Z",
-   "fetched_at": "2026-08-11T13:54:33.579Z",
+   "fetched_at": "2026-08-11T14:58:15.197Z",
    "body": [
     "Our briefing: Sevilla announce £5.5m move, rising to potential £7.6m, for former Scotland youth international striker Robbie Ure to join from Swedish club IK Sirius.",
     "Sevilla announce £5. 5m move, rising to potential £7. 6m, for former Scotland youth international striker Robbie Ure to join from Swedish club IK Sirius.",
@@ -691,7 +712,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-11T09:41:29.000Z",
-   "fetched_at": "2026-08-11T13:54:33.577Z",
+   "fetched_at": "2026-08-11T14:58:15.196Z",
    "body": [
     "Our briefing: The Championship play-offs expand to six teams this season. Here's a closer look at how it may pan out and the thoughts of those involved.",
     "The Championship play-offs expand to six teams this season. Here's a closer look at how it may pan out and the thoughts of those involved.",
@@ -712,7 +733,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-11T09:21:01.000Z",
-   "fetched_at": "2026-08-11T13:54:33.884Z",
+   "fetched_at": "2026-08-11T14:58:15.367Z",
    "body": [
     "Our briefing: Johnson joins Everton seven months after Crystal Palace made him their record signing for £35m",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -732,7 +753,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-11T09:08:58.000Z",
-   "fetched_at": "2026-08-11T13:54:33.656Z",
+   "fetched_at": "2026-08-11T14:58:15.273Z",
    "body": [
     "Our briefing: Pair sign four-year deals after swapping clubs ‘This is a club that wants to go in the right direction’ Crystal Palace and Everton have agreed a straight swap for Brennan…",
     "Pair sign four-year deals after swapping clubs ‘This is a club that wants to go in the right direction’ Crystal Palace and Everton have agreed a straight swap for Brennan Johnson and Dwight McNeil – six months after McNeil’s partner accused Palace of messing with his mental health after pulling out of a deal. McNeil and Johnson, who became Palace’s record signing when he joined in January from Tottenham for £35m , only to be surpassed by the arrival of Jørgen Strand Larsen from Wolves for an initial £43m a few weeks later, have agreed four-year contracts with the option of a further 12 months. Continue reading...",
@@ -753,7 +774,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-11T09:01:18.000Z",
-   "fetched_at": "2026-08-11T13:54:33.577Z",
+   "fetched_at": "2026-08-11T14:58:15.196Z",
    "body": [
     "Our briefing: Fulham confirm the signing of Southampton midfielder Shea Charles in a deal worth up to £30m.",
     "Fulham confirm the signing of Southampton midfielder Shea Charles in a deal worth up to £30m.",
@@ -774,7 +795,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-11T09:00:30.000Z",
-   "fetched_at": "2026-08-11T13:54:33.577Z",
+   "fetched_at": "2026-08-11T14:58:15.196Z",
    "body": [
     "Our briefing: Everton and Crystal Palace complete the swap deal for Dwight McNeil and Brennan Johnson.",
     "Everton and Crystal Palace complete the swap deal for Dwight McNeil and Brennan Johnson.",
@@ -795,7 +816,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-11T08:37:22.000Z",
-   "fetched_at": "2026-08-11T13:54:33.659Z",
+   "fetched_at": "2026-08-11T14:58:15.275Z",
    "body": [
     "Our briefing: Today’s rumours are just trying to orbit the sun When did the summer of 2026 transform into a midfield merry-go-round? Now Bruno Guimarães has rocked up at Arsenal and…",
     "Today’s rumours are just trying to orbit the sun When did the summer of 2026 transform into a midfield merry-go-round? Now Bruno Guimarães has rocked up at Arsenal and Manchester United have a couple of new signings, it stands to reason that more midfielders will be on the move soon and Real Madrid appear to be chasing Gunners metronome Mart ín Zubimendi . It seems odd that Arsenal would sanction a sale, given they spent most of the 2024-25 campaign coveting the former Real Sociedad star, but Mikel Arteta has forward and defensive targets to land instead.",
@@ -817,7 +838,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-11T07:32:35.000Z",
-   "fetched_at": "2026-08-11T13:54:33.658Z",
+   "fetched_at": "2026-08-11T14:58:15.274Z",
    "body": [
     "Our briefing: Football Australia issues statement in support of Asian federation Calls for ‘clear and credible action’ in response to Fifa crisis Football Australia has joined a…",
     "Football Australia issues statement in support of Asian federation Calls for ‘clear and credible action’ in response to Fifa crisis Football Australia has joined a growing chorus placing pressure on Fifa president Gianni Infantino by calling for “clear and credible action” in response to the crisis engulfing world football. It stopped short of calling for the Infantino’s resignation, however, in a three-paragraph statement issued on Tuesday, instead backing the Asian Football Confederation hours after its more strident attacks on the Fifa president. Continue reading...",
@@ -826,27 +847,6 @@
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
-  },
-  {
-   "id": "bbc-meet-liverpool-s-rising-star-who-can-only-play-f",
-   "slug": "meet-liverpool-s-rising-star-who-can-only-play-friendlies-lay-f",
-   "title": "Meet Liverpool's rising star who can only play friendlies",
-   "dek": "The emergence of teenage defender Ifeanyi Ndukwe has been one of the main storylines of Liverpool's pre-season - but why can the 18-year-old only play friendly matches?",
-   "description": "The emergence of teenage defender Ifeanyi Ndukwe has been one of the main storylines of Liverpool's pre-season - but why can the 18-year-old only play friendly matches?",
-   "category": "Tactics & Analysis",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-11T07:16:45.000Z",
-   "fetched_at": "2026-08-11T13:54:33.576Z",
-   "body": [
-    "Our briefing: The emergence of teenage defender Ifeanyi Ndukwe has been one of the main storylines of Liverpool's pre-season - but why can the 18-year-old only play friendly matches?",
-    "The emergence of teenage defender Ifeanyi Ndukwe has been one of the main storylines of Liverpool's pre-season - but why can the 18-year-old only play friendly matches?",
-    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Anfield_Stadium%2C_Liverpool_-_geograph.org.uk_-_5885062.jpg/960px-Anfield_Stadium%2C_Liverpool_-_geograph.org.uk_-_5885062.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Mike Pennington — CC BY-SA 2.0"
   }
  ]
 }
