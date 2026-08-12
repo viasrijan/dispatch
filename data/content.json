@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-12T15:05:40.387Z",
- "updated_utc": "2026-08-12T15:05Z",
- "cycle": 29775785,
+ "generated_at": "2026-08-12T16:26:19.124Z",
+ "updated_utc": "2026-08-12T16:26Z",
+ "cycle": 29775866,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,8 +16,49 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "guardian-lionel-messi-has-quite-few-doubts-about-football",
+ "hero_id": "bbc-rangers-seek-striker-are-playing-fire-defence",
  "articles": [
+  {
+   "id": "independent-everton-striker-charged-fa-after-placing-61-alle",
+   "slug": "everton-striker-charged-by-fa-after-placing-61-alleged-bets---alle",
+   "title": "Everton striker charged by FA after placing 61 alleged bets on matches",
+   "dek": "Sheriff came through the ranks at Everton and spent last season on loan in League One",
+   "description": "Sheriff came through the ranks at Everton and spent last season on loan in League One",
+   "category": "Transfers & Rumours",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-08-12T15:56:15.000Z",
+   "fetched_at": "2026-08-12T16:26:09.221Z",
+   "body": [
+    "Our briefing: Sheriff came through the ranks at Everton and spent last season on loan in League One",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/1939_1940_everton_team_photo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "Dr. David France — CC BY-SA 3.0"
+  },
+  {
+   "id": "bbc-arsenal-reignite-interest-aston-villa-s-konsa",
+   "slug": "arsenal-reignite-interest-in-aston-villa-s-konsa-konsa",
+   "title": "Arsenal reignite interest in Aston Villa's Konsa",
+   "dek": "Aston Villa's central defender Ezri Konsa is thought to be Arsenal's preferred option in their search for a new central defender.",
+   "description": "Aston Villa's central defender Ezri Konsa is thought to be Arsenal's preferred option in their search for a new central defender.",
+   "category": "News",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-12T15:21:59.000Z",
+   "fetched_at": "2026-08-12T16:26:08.742Z",
+   "body": [
+    "Our briefing: Aston Villa's central defender Ezri Konsa is thought to be Arsenal's preferred option in their search for a new central defender.",
+    "Aston Villa's central defender Ezri Konsa is thought to be Arsenal's preferred option in their search for a new central defender.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Arsenal_Stadium_Highbury_east_facade.jpg/960px-Arsenal_Stadium_Highbury_east_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "No machine-readable author provided. Qwghlm~commonswiki assumed (based on copyright claims). — CC BY-SA 3.0"
+  },
   {
    "id": "bbc-rangers-seek-striker-are-playing-fire-defence",
    "slug": "rangers-seek-striker-are-playing-with-fire-in-defence-fence",
@@ -29,7 +70,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-12T15:03:40.000Z",
-   "fetched_at": "2026-08-12T15:05:31.573Z",
+   "fetched_at": "2026-08-12T16:26:08.742Z",
    "body": [
     "Our briefing: Rangers are being \"proactive\" in seeking a new striker after Youssef Chermiti was ruled out long term, says manager Derek McInnes, who warns defensive injuries leave the…",
     "Rangers are being \"proactive\" in seeking a new striker after Youssef Chermiti was ruled out long term, says manager Derek McInnes, who warns defensive injuries leave the club \"playing with fire\".",
@@ -50,7 +91,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-12T15:02:07.000Z",
-   "fetched_at": "2026-08-12T15:05:31.914Z",
+   "fetched_at": "2026-08-12T16:26:09.221Z",
    "body": [
     "Our briefing: Mikel Arteta has previously hinted at trying to strengthen his squad further before the transfer window closes",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -58,6 +99,54 @@
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg/960px-Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
+  },
+  {
+   "id": "guardian-australia-s-brightest-young-talents-are-move-it-",
+   "slug": "australia-s-brightest-young-talents-are-on-the-move-and-it-b-e-it-",
+   "title": "Australia’s brightest young talents are on the move and it bodes well for the Socceroos | Jack Snape",
+   "dek": "Headlined by Nestory Irankunda and Lucas Herrington, almost a third of the World Cup squad are changing clubs with January’s Asian Cup looming From Socceroos to…",
+   "description": "Headlined by Nestory Irankunda and Lucas Herrington, almost a third of the World Cup squad are changing clubs with January’s Asian Cup looming From Socceroos to soccer-moves, the World Cup has launched Australia’s top footballers into the transfer vortex, highlighted by this week’s expected signings of Nestory Irankunda and Lucas Herrington at major European clubs. At just 18, Herrington is set to confirm a move to Premier League returnees Hull City from Colorado Rapids in a deal that could eclipse the transfer record for an Australian. The current mark is $38.3m, paid by Leicester to Stoke for Harry Souttar in 2023. Continue reading...",
+   "category": "Transfers & Rumours",
+   "league": "Football",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-08-12T15:00:34.000Z",
+   "fetched_at": "2026-08-12T16:26:09.090Z",
+   "body": [
+    "Our briefing: Headlined by Nestory Irankunda and Lucas Herrington, almost a third of the World Cup squad are changing clubs with January’s Asian Cup looming From Socceroos to…",
+    "Headlined by Nestory Irankunda and Lucas Herrington, almost a third of the World Cup squad are changing clubs with January’s Asian Cup looming From Socceroos to soccer-moves, the World Cup has launched Australia’s top footballers into the transfer vortex, highlighted by this week’s expected signings of Nestory Irankunda and Lucas Herrington at major European clubs. At just 18, Herrington is set to confirm a move to Premier League returnees Hull City from Colorado Rapids in a deal that could eclipse the transfer record for an Australian. The current mark is $38.",
+    "3m, paid by Leicester to Stoke for Harry Souttar in 2023. Continue reading...",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
+  },
+  {
+   "id": "guardian-football-daily-newcastle-s-rock-star-plays-hits-",
+   "slug": "daily-newcastle-s-rock-star-plays-the-hits-but-will-he-find--hits-",
+   "title": "Daily | Newcastle’s ‘rock star’ plays the hits but will he find it hard to stay in Toon?",
+   "dek": "Sign up now! Sign up now! Sign up now? Sign up now! As rallying cries for the dawn of a golden era go, “I am quite optimistic” is not “ask not what your country can do…",
+   "description": "Sign up now! Sign up now! Sign up now? Sign up now! As rallying cries for the dawn of a golden era go, “I am quite optimistic” is not “ask not what your country can do for you, ask what you can do for your country”. It did not fit the “I think I am a special one” template set 22 years ago by Netflix’s latest documentary subject . Nor did Matthias Jaissle’s unveiling as Newcastle manager meet the pre-match billing of “fire” and “a rock star” that the club’s chief suit had promised the journalists in attendance. Though, considering the summer of tumult on Tyneside, it was a sensible path to take. Expectations among the Toon Army have certainly lowered since Geordies sunk Tin and donned tea-towel headdresses in celebration of Mike Ashley’s departure and the arrival of a consortium underpinned by the petrodollars of Saudi Arabia’s Public Investment Fund. As it turned out, Lionel Messi neither ended up mowing the pitch nor selling the pies. Bob Cushion ( yesterday’s letters ), your football club was caught cheating. Your club deserves everything it gets. Oh and no, I’m not a Pompey fan” – Darren Dodd. As a Wolves fan may I express gratitude to Wrexham and Southampton for preventing us from starting the season in last place. Although still in the relegation zone I remain moderately optimistic” – Rob Taylor Reading Big Website’s League One preview I was reminded that Stockport County have replaced the legendary Dave Challinor with one Jimmy McNulty. Does that mean the Hatters’ promotion challenge will once again go down to The Wire? (with excuses if this has been mentioned previously)” – Duncan Roberts. Continue reading...",
+   "category": "Transfers & Rumours",
+   "league": "Premier League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-08-12T14:52:43.000Z",
+   "fetched_at": "2026-08-12T16:26:09.089Z",
+   "body": [
+    "Our briefing: Sign up now! Sign up now! Sign up now? Sign up now! As rallying cries for the dawn of a golden era go, “I am quite optimistic” is not “ask not what your country can do…",
+    "Sign up now! Sign up now! Sign up now?",
+    "Sign up now! As rallying cries for the dawn of a golden era go, “I am quite optimistic” is not “ask not what your country can do for you, ask what you can do for your country”. It did not fit the “I think I am a special one” template set 22 years ago by Netflix’s latest documentary subject .",
+    "Nor did Matthias Jaissle’s unveiling as Newcastle manager meet the pre-match billing of “fire” and “a rock star” that the club’s chief suit had promised the journalists in attendance. Though, considering the summer of tumult on Tyneside, it was a sensible path to take. Expectations among the Toon Army have certainly lowered since Geordies sunk Tin and donned tea-towel headdresses in celebration of Mike Ashley’s departure and the arrival of a consortium underpinned by the petrodollars of Saudi Arabia’s Public Investment Fund.",
+    "As it turned out, Lionel Messi neither ended up mowing the pitch nor selling the pies. Bob Cushion ( yesterday’s letters ), your football club was caught cheating. Your club deserves everything it gets.",
+    "Oh and no, I’m not a Pompey fan” – Darren Dodd. As a Wolves fan may I express gratitude to Wrexham and Southampton for preventing us from starting the season in last place. Although still in the relegation zone I remain moderately optimistic” – Rob Taylor Reading Big Website’s League One preview I was reminded that Stockport County have replaced the legendary Dave Challinor with one Jimmy McNulty.",
+    "Does that mean the Hatters’ promotion challenge will once again go down to The Wire? (with excuses if this has been mentioned previously)” – Duncan Roberts. Continue reading...",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Outside_Newcastle_Central_Station_-_geograph.org.uk_-_2661040.jpg/960px-Outside_Newcastle_Central_Station_-_geograph.org.uk_-_2661040.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "David Hillas — CC BY-SA 2.0"
   },
   {
    "id": "independent-lionel-messi-not-sure-if-he-will-play-much-longe",
@@ -70,7 +159,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-12T14:39:17.000Z",
-   "fetched_at": "2026-08-12T15:05:31.914Z",
+   "fetched_at": "2026-08-12T16:26:09.221Z",
    "body": [
     "Our briefing: Messi’s father and agent, Jorge, died at the age of 68 last week after battling a long illness",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -90,7 +179,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-12T14:34:40.000Z",
-   "fetched_at": "2026-08-12T15:05:31.914Z",
+   "fetched_at": "2026-08-12T16:26:09.221Z",
    "body": [
     "Our briefing: Chelsea have brought in a new left-back after losing Marc Cucurella to Real Madrid earlier this summer",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -110,7 +199,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-12T14:20:21.000Z",
-   "fetched_at": "2026-08-12T15:05:31.570Z",
+   "fetched_at": "2026-08-12T16:26:08.742Z",
    "body": [
     "Our briefing: Ligue 1 side Monaco reject Crystal Palace's verbal bid for midfielder Lamine Camara.",
     "Ligue 1 side Monaco reject Crystal Palace's verbal bid for midfielder Lamine Camara.",
@@ -131,7 +220,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-12T14:16:12.000Z",
-   "fetched_at": "2026-08-12T15:05:31.655Z",
+   "fetched_at": "2026-08-12T16:26:09.088Z",
    "body": [
     "Our briefing: Messi’s father, ⁠Jorge, died last week at age of 68 Argentinian suggests he may not play on much longer Lionel Messi said on Wednesday that he is having doubts about…",
     "Messi’s father, ⁠Jorge, died last week at age of 68 Argentinian suggests he may not play on much longer Lionel Messi said on Wednesday that he is having doubts about continuing his career following the death of his father last week. Messi’s father, ⁠Jorge, died last week aged 68 at a medical clinic in the Argentinian city of Rosario after a long illness. In a tribute on Instagram, Messi wrote: “I don’t know what I’m going to ⁠do without you.",
@@ -153,14 +242,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-12T13:56:24.000Z",
-   "fetched_at": "2026-08-12T15:05:31.570Z",
+   "fetched_at": "2026-08-12T16:26:08.742Z",
    "body": [
     "Our briefing: Aston Villa close in on the signing of Atletico Madrid defender Matteo Ruggeri.",
     "Aston Villa close in on the signing of Atletico Madrid defender Matteo Ruggeri.",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Lokomotiv_vs_Atletico_Madrid_2020-11-08.jpg/960px-Lokomotiv_vs_Atletico_Madrid_2020-11-08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lokomotiv_vs_Atletico_Madrid_2020-11-15.jpg/960px-Lokomotiv_vs_Atletico_Madrid_2020-11-15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Anton Zaitsev — CC BY-SA 3.0"
   },
   {
@@ -174,7 +263,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-12T13:48:23.000Z",
-   "fetched_at": "2026-08-12T15:05:31.570Z",
+   "fetched_at": "2026-08-12T16:26:08.741Z",
    "body": [
     "Our briefing: Lionel Messi says he is unsure how much longer he will continue playing football in an emotional tribute after his father's death.",
     "Lionel Messi says he is unsure how much longer he will continue playing football in an emotional tribute after his father's death.",
@@ -188,17 +277,17 @@
    "id": "bbc-inter-advanced-talks-spurs-full-back-spence",
    "slug": "inter-in-advanced-talks-for-spurs-full-back-spence-pence",
    "title": "Inter in advanced talks for Spurs full-back Spence",
-   "dek": "Inter Milan are in advanced talks to sign Tottenham and England full-back Djed Spence, in a deal worth a minimum of £25.6m (30m euros).",
-   "description": "Inter Milan are in advanced talks to sign Tottenham and England full-back Djed Spence, in a deal worth a minimum of £25.6m (30m euros).",
+   "dek": "Inter Milan are in advanced talks to sign Tottenham and England full-back Djed Spence in a deal worth a minimum of £25.6m.",
+   "description": "Inter Milan are in advanced talks to sign Tottenham and England full-back Djed Spence in a deal worth a minimum of £25.6m.",
    "category": "News",
    "league": "Serie A",
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-12T13:43:30.000Z",
-   "fetched_at": "2026-08-12T15:05:31.570Z",
+   "fetched_at": "2026-08-12T16:26:08.742Z",
    "body": [
-    "Our briefing: Inter Milan are in advanced talks to sign Tottenham and England full-back Djed Spence, in a deal worth a minimum of £25.6m (30m euros).",
-    "Inter Milan are in advanced talks to sign Tottenham and England full-back Djed Spence, in a deal worth a minimum of £25. 6m (30m euros).",
+    "Our briefing: Inter Milan are in advanced talks to sign Tottenham and England full-back Djed Spence in a deal worth a minimum of £25.6m.",
+    "Inter Milan are in advanced talks to sign Tottenham and England full-back Djed Spence in a deal worth a minimum of £25. 6m.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
@@ -216,7 +305,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-12T13:36:49.000Z",
-   "fetched_at": "2026-08-12T15:05:31.571Z",
+   "fetched_at": "2026-08-12T16:26:08.742Z",
    "body": [
     "Our briefing: The Football Association charges Everton's Martin Sherif with breaching betting rules after allegedly placing 61 bets on football matches.",
     "The Football Association charges Everton's Martin Sherif with breaching betting rules after allegedly placing 61 bets on football matches.",
@@ -237,7 +326,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-12T13:20:10.000Z",
-   "fetched_at": "2026-08-12T15:05:31.914Z",
+   "fetched_at": "2026-08-12T16:26:09.221Z",
    "body": [
     "Our briefing: Under-fire Fifa president Gianni Infantino has received support from Donald Trump",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -257,7 +346,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-12T13:11:07.000Z",
-   "fetched_at": "2026-08-12T15:05:31.570Z",
+   "fetched_at": "2026-08-12T16:26:08.742Z",
    "body": [
     "Our briefing: The South Korean FA apologises amid a series of controversies and a police raid on its headquarters.",
     "The South Korean FA apologises amid a series of controversies and a police raid on its headquarters.",
@@ -278,7 +367,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-12T13:01:06.000Z",
-   "fetched_at": "2026-08-12T15:05:31.570Z",
+   "fetched_at": "2026-08-12T16:26:08.742Z",
    "body": [
     "Our briefing: La Liga officials are set to inspect the pitch at Celta Vigo's Estadio de Balaidos over a suspected fungus outbreak.",
     "La Liga officials are set to inspect the pitch at Celta Vigo's Estadio de Balaidos over a suspected fungus outbreak.",
@@ -299,7 +388,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-12T13:00:29.000Z",
-   "fetched_at": "2026-08-12T15:05:31.655Z",
+   "fetched_at": "2026-08-12T16:26:09.089Z",
    "body": [
     "Our briefing: The lineup of Championship teams this season is fearsome, leaving some supporters fearing a long slog to come A new season is supposed to be about renewed hope and…",
     "The lineup of Championship teams this season is fearsome, leaving some supporters fearing a long slog to come A new season is supposed to be about renewed hope and optimism, a fresh campaign opening up a world of possibilities, a clean slate. But with the English Football League due to kick off on Friday night when Wolves host Blackburn in the Championship, the sense of rejuvenation is not universal. The lineup of Championship teams this season is fearsome.",
@@ -322,7 +411,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-12T12:16:45.000Z",
-   "fetched_at": "2026-08-12T15:05:31.915Z",
+   "fetched_at": "2026-08-12T16:26:09.221Z",
    "body": [
     "Our briefing: Daniel Levy stepped down from his role as Tottenham chairman last September",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -342,7 +431,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-12T12:00:20.000Z",
-   "fetched_at": "2026-08-12T15:05:31.571Z",
+   "fetched_at": "2026-08-12T16:26:08.743Z",
    "body": [
     "Our briefing: All 12 Scottish Premiership clubs will enter teams into a legends version of cult indoor tournament the Tennent's Soccer Sixes later this year.",
     "All 12 Scottish Premiership clubs will enter teams into a legends version of cult indoor tournament the Tennent's Soccer Sixes later this year.",
@@ -384,7 +473,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-12T11:34:08.000Z",
-   "fetched_at": "2026-08-12T15:05:31.572Z",
+   "fetched_at": "2026-08-12T16:26:08.743Z",
    "body": [
     "Our briefing: Kick It Out chair Sanjay Bhandari will step down from his role at the end of the 2026-27 season.",
     "Kick It Out chair Sanjay Bhandari will step down from his role at the end of the 2026-27 season.",
@@ -405,7 +494,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-12T11:24:16.000Z",
-   "fetched_at": "2026-08-12T15:05:31.572Z",
+   "fetched_at": "2026-08-12T16:26:08.743Z",
    "body": [
     "Our briefing: Derry City interim manager Mark Connolly reiterates that James McClean remains employed by the club despite speculation over his future.",
     "Derry City interim manager Mark Connolly reiterates that James McClean remains employed by the club despite speculation over his future.",
@@ -426,7 +515,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-12T11:20:33.000Z",
-   "fetched_at": "2026-08-12T15:05:31.915Z",
+   "fetched_at": "2026-08-12T16:26:09.221Z",
    "body": [
     "Our briefing: Arne Slot left Liverpool in May after leading the club to the Premier League title a year earlier",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -446,7 +535,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-12T11:05:41.000Z",
-   "fetched_at": "2026-08-12T15:05:31.571Z",
+   "fetched_at": "2026-08-12T16:26:08.742Z",
    "body": [
     "Our briefing: BBC Sport England looks at how the three relegated sides - West Ham, Burnley and Wolves - will navigate the Championship this season.",
     "BBC Sport England looks at how the three relegated sides - West Ham, Burnley and Wolves - will navigate the Championship this season.",
@@ -467,7 +556,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-12T11:00:27.000Z",
-   "fetched_at": "2026-08-12T15:05:31.655Z",
+   "fetched_at": "2026-08-12T16:26:09.088Z",
    "body": [
     "Our briefing: After a period of underachievement and upheaval for the Blues, the arrival of Xabi Alonso could signal a change in fortunes Guardian writers’ predicted position: 3rd (NB:…",
     "After a period of underachievement and upheaval for the Blues, the arrival of Xabi Alonso could signal a change in fortunes Guardian writers’ predicted position: 3rd (NB: this is not necessarily Billy Munday’s prediction but the average of our writers’ tips) Last season’s position: 10th Continue reading...",
@@ -488,7 +577,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-12T11:00:26.000Z",
-   "fetched_at": "2026-08-12T15:05:31.655Z",
+   "fetched_at": "2026-08-12T16:26:09.089Z",
    "body": [
     "Our briefing: Midfielder says experience has helped him settle in ‘It’s what I’ve been doing from when I was young’ Youri Tielemans has stated that adjusting to Michael Carrick’s…",
     "Midfielder says experience has helped him settle in ‘It’s what I’ve been doing from when I was young’ Youri Tielemans has stated that adjusting to Michael Carrick’s vision for Manchester United has been as easy as “smelling football” for the vastly experienced £35m midfield signing. The 29-year-old, who joined from Aston Villa last month, made his debut for Anderlecht at the age of 16. He has been integrating with the United squad during the past 10 days of the club’s pre-season tour, making his first appearance in the 1-1 draw with Paris Saint-Germain in Gothenburg on Saturday.",
@@ -510,7 +599,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-12T11:00:23.000Z",
-   "fetched_at": "2026-08-12T15:05:31.570Z",
+   "fetched_at": "2026-08-12T16:26:08.742Z",
    "body": [
     "Our briefing: Manchester United new boy Youri Tielemans gives his first extended interview on his £35m dream move, making it third time lucky for the ex-Aston Villa man.",
     "Manchester United new boy Youri Tielemans gives his first extended interview on his £35m dream move, making it third time lucky for the ex-Aston Villa man.",
@@ -531,7 +620,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-12T10:57:58.000Z",
-   "fetched_at": "2026-08-12T15:05:31.655Z",
+   "fetched_at": "2026-08-12T16:26:09.089Z",
    "body": [
     "Our briefing: Latest offer close to City’s valuation for Spain midfielder Chelsea’s £120m price for Fernández may be too high Barcelona have made an improved bid to Manchester City of…",
     "Latest offer close to City’s valuation for Spain midfielder Chelsea’s £120m price for Fernández may be too high Barcelona have made an improved bid to Manchester City of around €60m (£51m) for Rodri. This follows Barça’s initial offer of €45m that was rejected out of hand by City. The Spanish club’s new offer – which may include add-ons – is close to City’s valuation for the 30-year-old who captained Spain to the World Cup and won the Ballon d’Or in 2024 .",
@@ -553,7 +642,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-12T10:50:19.000Z",
-   "fetched_at": "2026-08-12T15:05:31.655Z",
+   "fetched_at": "2026-08-12T16:26:09.088Z",
    "body": [
     "Our briefing: The former Leicester player’s focus has moved from runner beans to running drills as the season approaches With some parts of England gearing up for a fifth heatwave of…",
     "The former Leicester player’s focus has moved from runner beans to running drills as the season approaches With some parts of England gearing up for a fifth heatwave of 2026 the new Manchester United goalkeeper Janina Leitzig, a keen gardener, is sympathetic to the precarious health of this reporter’s tomato plants. “You’re not used to so little rain, are you? ” she observes.",
@@ -577,7 +666,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-12T10:27:22.000Z",
-   "fetched_at": "2026-08-12T15:05:31.571Z",
+   "fetched_at": "2026-08-12T16:26:08.742Z",
    "body": [
     "Our briefing: Manchester City complete the signing of Argentina goalkeeper Geronimo Rulli from Marseille.",
     "Manchester City complete the signing of Argentina goalkeeper Geronimo Rulli from Marseille.",
@@ -598,15 +687,15 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-12T10:00:46.000Z",
-   "fetched_at": "2026-08-12T15:05:31.915Z",
+   "fetched_at": "2026-08-12T16:26:09.221Z",
    "body": [
     "Our briefing: Geronimo Rulli joins for a fee of £1.7m as a replacement for James Trafford",
     "Geronimo Rulli joins for a fee of £1.",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Badalik_Szabolcs_Hungarian_beach_soccer_player.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "Badalik Szabolcs — CC BY 4.0"
   },
   {
    "id": "bbc-how-do-add-ons-work-football-transfers",
@@ -619,15 +708,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-12T09:39:44.000Z",
-   "fetched_at": "2026-08-12T15:05:31.572Z",
+   "fetched_at": "2026-08-12T16:26:08.743Z",
    "body": [
     "Our briefing: Our Ask Me Anything team examine exactly how extra amounts added on to transfer fees really work.",
     "Our Ask Me Anything team examine exactly how extra amounts added on to transfer fees really work.",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Badalik_Szabolcs_Hungarian_beach_soccer_player.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "Badalik Szabolcs — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "bbc-community-shield-considered-major-trophy",
@@ -640,14 +729,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-12T09:34:15.000Z",
-   "fetched_at": "2026-08-12T15:05:31.572Z",
+   "fetched_at": "2026-08-12T16:26:08.743Z",
    "body": [
     "Our briefing: BBC Sport's Ask Me Anything team take a look at whether the Community Shield is a major trophy.",
     "BBC Sport's Ask Me Anything team take a look at whether the Community Shield is a major trophy.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
   },
   {
@@ -661,7 +750,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-12T09:22:48.000Z",
-   "fetched_at": "2026-08-12T15:05:31.571Z",
+   "fetched_at": "2026-08-12T16:26:08.743Z",
    "body": [
     "Our briefing: Crystal Palace re-sign Evann Guessand on a season-long loan from Aston Villa.",
     "Crystal Palace re-sign Evann Guessand on a season-long loan from Aston Villa.",
@@ -682,7 +771,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-12T09:13:34.000Z",
-   "fetched_at": "2026-08-12T15:05:31.571Z",
+   "fetched_at": "2026-08-12T16:26:08.742Z",
    "body": [
     "Our briefing: Spain's World Cup hero Ferran Torres is given permission to miss Barcelona training to finalise a move to Paris St-Germain.",
     "Spain's World Cup hero Ferran Torres is given permission to miss Barcelona training to finalise a move to Paris St-Germain.",
@@ -697,23 +786,23 @@
    "slug": "saudi-pro-league-tries-to-move-on-from-era-of-ageing-megasta-star-",
    "title": "Saudi Pro League tries to move on from era of ageing megastar but big names still loom | John Duerden",
    "dek": "As Ronaldo heads towards 1,000 career goals, the league plans to lift the standard of Saudi Arabian football, not just the clubs There is no Mohamed Salah in the new…",
-   "description": "As Ronaldo heads towards 1,000 career goals, the league plans to lift the standard of Saudi Arabian football, not just the clubs There is no Mohamed Salah in the new Saudi Pro League season that kicks off on Thursday and while the era of the ageing megastar is ending, there is still the strong chance that the next few months will be dominated by Cristiano Ronaldo. The 41-year-old is 24 shy of 1,000 career goals and, with the five-time Ballon d’Or winner having scored 102 in 107 league games for Al-Nassr so far, the milestone could – should – be reached this season. Huge as that will be, just how it fits into the plans of the league is unclear. This is the fourth season since the spending started with $957m (£710m) splashed out in that summer of 2023. It delivered thousands of articles, dozens of international broadcasting deals and untold numbers of people worldwide sporting the yellow CR7 Al-Nassr shirt. Now, though, the focus is on getting a little more value for money and lifting not just the clubs but the standard of Saudi Arabian football in general. Continue reading...",
+   "description": "As Ronaldo heads towards 1,000 career goals, the league plans to lift the standard of Saudi Arabian football, not just the clubs There is no Mohamed Salah in the new Saudi Pro League season that kicks off on Thursday and while the era of the ageing megastar is ending, there is still the strong chance the next few months will be dominated by Cristiano Ronaldo. The 41-year-old is 24 shy of 1,000 career goals and, with the five-time Ballon d’Or winner having scored 102 in 107 league games for Al-Nassr, the milestone could – should – be reached this season. Huge as that will be, just how it fits into the plans of the league is unclear. This is the fourth season since the spending started with $957m splashed out in the summer of 2023. It produced thousands of articles, dozens of international broadcasting deals and untold numbers of people worldwide sporting the yellow CR7 Al-Nassr shirt. Now, though, the focus is on getting a little more value for money and lifting not just the clubs, but the standard of Saudi Arabian football in general. Continue reading...",
    "category": "Match Reports",
    "league": "Football",
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-12T09:05:29.000Z",
-   "fetched_at": "2026-08-12T15:05:31.655Z",
+   "fetched_at": "2026-08-12T16:26:09.089Z",
    "body": [
     "Our briefing: As Ronaldo heads towards 1,000 career goals, the league plans to lift the standard of Saudi Arabian football, not just the clubs There is no Mohamed Salah in the new…",
-    "As Ronaldo heads towards 1,000 career goals, the league plans to lift the standard of Saudi Arabian football, not just the clubs There is no Mohamed Salah in the new Saudi Pro League season that kicks off on Thursday and while the era of the ageing megastar is ending, there is still the strong chance that the next few months will be dominated by Cristiano Ronaldo. The 41-year-old is 24 shy of 1,000 career goals and, with the five-time Ballon d’Or winner having scored 102 in 107 league games for Al-Nassr so far, the milestone could – should – be reached this season. Huge as that will be, just how it fits into the plans of the league is unclear.",
-    "This is the fourth season since the spending started with $957m (£710m) splashed out in that summer of 2023. It delivered thousands of articles, dozens of international broadcasting deals and untold numbers of people worldwide sporting the yellow CR7 Al-Nassr shirt. Now, though, the focus is on getting a little more value for money and lifting not just the clubs but the standard of Saudi Arabian football in general.",
+    "As Ronaldo heads towards 1,000 career goals, the league plans to lift the standard of Saudi Arabian football, not just the clubs There is no Mohamed Salah in the new Saudi Pro League season that kicks off on Thursday and while the era of the ageing megastar is ending, there is still the strong chance the next few months will be dominated by Cristiano Ronaldo. The 41-year-old is 24 shy of 1,000 career goals and, with the five-time Ballon d’Or winner having scored 102 in 107 league games for Al-Nassr, the milestone could – should – be reached this season. Huge as that will be, just how it fits into the plans of the league is unclear.",
+    "This is the fourth season since the spending started with $957m splashed out in the summer of 2023. It produced thousands of articles, dozens of international broadcasting deals and untold numbers of people worldwide sporting the yellow CR7 Al-Nassr shirt. Now, though, the focus is on getting a little more value for money and lifting not just the clubs, but the standard of Saudi Arabian football in general.",
     "Continue reading...",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
    "id": "guardian-saudi-pro-league-tries-move-era-ageing-megastar-",
@@ -748,7 +837,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-12T09:02:11.000Z",
-   "fetched_at": "2026-08-12T15:05:31.915Z",
+   "fetched_at": "2026-08-12T16:26:09.221Z",
    "body": [
     "Our briefing: Liverpool have been in pursuit of Barcola all summer but have recently faced competition from Arsenal",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -768,7 +857,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-12T08:56:17.000Z",
-   "fetched_at": "2026-08-12T15:05:31.572Z",
+   "fetched_at": "2026-08-12T16:26:08.743Z",
    "body": [
     "Our briefing: Paul Pogba is expected to leave Monaco amid talks over a possible contract termination.",
     "Paul Pogba is expected to leave Monaco amid talks over a possible contract termination.",
@@ -777,92 +866,6 @@
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Monaco_mraky.JPG/960px-Monaco_mraky.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
-  },
-  {
-   "id": "guardian-football-transfer-rumours-folarin-balogun-totten",
-   "slug": "transfer-rumours-folarin-balogun-to-tottenham-gabriel-jesus--otten",
-   "title": "transfer rumours: Folarin Balogun to Tottenham? Gabriel Jesus to Napoli?",
-   "dek": "Today’s fluff is coming back with a better offer Bradley Barcola is firmly in Liverpool’s sights as they look to rebuild their attack in the post-Mohamed Salah era. The…",
-   "description": "Today’s fluff is coming back with a better offer Bradley Barcola is firmly in Liverpool’s sights as they look to rebuild their attack in the post-Mohamed Salah era. The two-time Champions League winner reportedly wants to leave Paris Saint-Germain, and Anfield is his preferred destination, though Arsenal have apparently been making eyes at the France international too. For their part PSG are thought to be closing on deals for Barcelona’s World Cup winner Ferran Torres and the Ajax winger Mika Godts , though the 21-year-old Belgium international had talked at the weekend of “putting an end” to rumours that he was refusing to play for Ajax in order to force a move. England’s World Cup cult hero Djed Spence could soon be exhibiting his marauding runs and eye-catching slide tackles in Serie A. Inter are interested in a £25.6m move for the Tottenham full-back, who fancies a move to San Siro and might find himself struggling for regular first-team football in north London after Roberto De Zerbi’s busy summer in the market. Continue reading...",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-08-12T08:30:27.000Z",
-   "fetched_at": "2026-08-12T15:05:31.655Z",
-   "body": [
-    "Our briefing: Today’s fluff is coming back with a better offer Bradley Barcola is firmly in Liverpool’s sights as they look to rebuild their attack in the post-Mohamed Salah era. The…",
-    "Today’s fluff is coming back with a better offer Bradley Barcola is firmly in Liverpool’s sights as they look to rebuild their attack in the post-Mohamed Salah era. The two-time Champions League winner reportedly wants to leave Paris Saint-Germain, and Anfield is his preferred destination, though Arsenal have apparently been making eyes at the France international too. For their part PSG are thought to be closing on deals for Barcelona’s World Cup winner Ferran Torres and the Ajax winger Mika Godts , though the 21-year-old Belgium international had talked at the weekend of “putting an end” to rumours that he was refusing to play for Ajax in order to force a move.",
-    "England’s World Cup cult hero Djed Spence could soon be exhibiting his marauding runs and eye-catching slide tackles in Serie A. Inter are interested in a £25. 6m move for the Tottenham full-back, who fancies a move to San Siro and might find himself struggling for regular first-team football in north London after Roberto De Zerbi’s busy summer in the market.",
-    "Continue reading...",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/The_South_Stand_of_Tottenham_Hotspur%27s_football_stadium_-_geograph.org.uk_-_2167351.jpg/960px-The_South_Stand_of_Tottenham_Hotspur%27s_football_stadium_-_geograph.org.uk_-_2167351.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Bill Boaden — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-late-bloomer-left-back-joining-chelsea-16m",
-   "slug": "the-late-bloomer-left-back-joining-chelsea-for-16m-a-16m",
-   "title": "The late-bloomer left-back joining Chelsea for £16m",
-   "dek": "Pep Chavarria joins Chelsea on a five-year deal, having played in the Spanish lower leagues until he was 24.",
-   "description": "Pep Chavarria joins Chelsea on a five-year deal, having played in the Spanish lower leagues until he was 24.",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-12T08:29:22.000Z",
-   "fetched_at": "2026-08-12T15:05:31.571Z",
-   "body": [
-    "Our briefing: Pep Chavarria joins Chelsea on a five-year deal, having played in the Spanish lower leagues until he was 24.",
-    "Pep Chavarria joins Chelsea on a five-year deal, having played in the Spanish lower leagues until he was 24.",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dr_Christian_Pathak_at_Chelsea_%26_Westminster_Hospital.jpg/960px-Dr_Christian_Pathak_at_Chelsea_%26_Westminster_Hospital.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Isselerhof — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-chelsea-sign-chavarria-16m-deal-who-left-back",
-   "slug": "chelsea-sign-chavarria-in-16m-deal-who-is-the-left-back--back",
-   "title": "Chelsea sign Chavarria in £16m deal - who is the left-back?",
-   "dek": "Pep Chavarria joins Chelsea on a five-year deal, having played in the Spanish lower leagues until he was 24.",
-   "description": "Pep Chavarria joins Chelsea on a five-year deal, having played in the Spanish lower leagues until he was 24.",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-12T08:29:22.000Z",
-   "fetched_at": "2026-08-12T08:49:15.810Z",
-   "body": [
-    "Our briefing: Pep Chavarria joins Chelsea on a five-year deal, having played in the Spanish lower leagues until he was 24.",
-    "Pep Chavarria joins Chelsea on a five-year deal, having played in the Spanish lower leagues until he was 24.",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dr_Christian_Pathak_at_Chelsea_%26_Westminster_Hospital.jpg/960px-Dr_Christian_Pathak_at_Chelsea_%26_Westminster_Hospital.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Isselerhof — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-ipswich-agree-fee-paraguay-forward-enciso",
-   "slug": "ipswich-agree-fee-for-paraguay-forward-enciso-nciso",
-   "title": "Ipswich agree fee for Paraguay forward Enciso",
-   "dek": "Ipswich Town reach an agreement to sign Paraguay forward Julio Enciso from Strasbourg.",
-   "description": "Ipswich Town reach an agreement to sign Paraguay forward Julio Enciso from Strasbourg.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-12T08:25:12.000Z",
-   "fetched_at": "2026-08-12T15:05:31.571Z",
-   "body": [
-    "Our briefing: Ipswich Town reach an agreement to sign Paraguay forward Julio Enciso from Strasbourg.",
-    "Ipswich Town reach an agreement to sign Paraguay forward Julio Enciso from Strasbourg.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   }
  ]
 }
