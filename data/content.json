@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-13T16:24:54.664Z",
- "updated_utc": "2026-08-13T16:24Z",
- "cycle": 29777304,
+ "generated_at": "2026-08-13T17:28:51.643Z",
+ "updated_utc": "2026-08-13T17:28Z",
+ "cycle": 29777368,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,8 +16,49 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "independent-michael-carrick-wants-more-signings-man-utd-chas",
+ "hero_id": "guardian-celta-vigo-s-la-liga-opener-postponed-due-fungal",
  "articles": [
+  {
+   "id": "bbc-listen-sportsound-build-up-four-scottish-clubs-e",
+   "slug": "listen-sportsound-build-up-to-four-scottish-clubs-in-europea-ubs-e",
+   "title": "Listen: Sportsound build-up to four Scottish clubs in European action",
+   "dek": "Commentary of Rangers v Jagiellonia in the second leg of their Europa League qualifier.",
+   "description": "Commentary of Rangers v Jagiellonia in the second leg of their Europa League qualifier.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-13T21:00:00.000Z",
+   "fetched_at": "2026-08-13T17:28:42.620Z",
+   "body": [
+    "Our briefing: Commentary of Rangers v Jagiellonia in the second leg of their Europa League qualifier.",
+    "Commentary of Rangers v Jagiellonia in the second leg of their Europa League qualifier.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "John Shorten — CC BY 4.0"
+  },
+  {
+   "id": "independent-michael-carrick-outlines-man-united-transfer-pla",
+   "slug": "michael-carrick-outlines-man-united-transfer-plans-after-wat-r-pla",
+   "title": "Michael Carrick outlines Man United transfer plans after watching rivals spend big",
+   "dek": "Manchester United have added Andrey Santos, Youri Tielemans and Karl Darlow to their ranks this summer",
+   "description": "Manchester United have added Andrey Santos, Youri Tielemans and Karl Darlow to their ranks this summer",
+   "category": "Transfers & Rumours",
+   "league": "Football",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-08-13T17:14:51.000Z",
+   "fetched_at": "2026-08-13T17:28:43.027Z",
+   "body": [
+    "Our briefing: Manchester United have added Andrey Santos, Youri Tielemans and Karl Darlow to their ranks this summer",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "YHC — CC BY-SA 4.0"
+  },
   {
    "id": "independent-michael-carrick-wants-more-signings-man-utd-chas",
    "slug": "michael-carrick-wants-more-signings-as-man-utd-chase-big-spe--chas",
@@ -35,8 +76,49 @@
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Manchester_United_1908-09.jpg/960px-Manchester_United_1908-09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Manchester_United_1908-09.jpg/960px-Manchester_United_1908-09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+   "id": "bbc-rashford-mainoo-transfers-carrick-calls-more-sig",
+   "slug": "rashford-mainoo-transfers-carrick-calls-for-more-signings-e-sig",
+   "title": "Rashford, Mainoo & transfers - Carrick calls for more signings",
+   "dek": "Before his first full season as Manchester United head coach, Michael Carrick explains why the club need more players, discusses why he is in a privileged position and…",
+   "description": "Before his first full season as Manchester United head coach, Michael Carrick explains why the club need more players, discusses why he is in a privileged position and talks Marcus Rashford and Kobbie Mainoo.",
+   "category": "Transfers & Rumours",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-13T16:21:51.000Z",
+   "fetched_at": "2026-08-13T17:28:42.618Z",
+   "body": [
+    "Our briefing: Before his first full season as Manchester United head coach, Michael Carrick explains why the club need more players, discusses why he is in a privileged position and…",
+    "Before his first full season as Manchester United head coach, Michael Carrick explains why the club need more players, discusses why he is in a privileged position and talks Marcus Rashford and Kobbie Mainoo.",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
+  },
+  {
+   "id": "guardian-celta-vigo-s-la-liga-opener-postponed-due-fungal",
+   "slug": "celta-vigo-s-la-liga-opener-postponed-due-to-fungal-outbreak-ungal",
+   "title": "Celta Vigo’s La Liga opener postponed due to fungal outbreak on pitch",
+   "dek": "Fungal outbreak damages surface at Estadio de Balaidos Turf for Osasuna match left ‘unfit for football’ Celta Vigo’s ⁠season-opening La Liga match against Osasuna has…",
+   "description": "Fungal outbreak damages surface at Estadio de Balaidos Turf for Osasuna match left ‘unfit for football’ Celta Vigo’s ⁠season-opening La Liga match against Osasuna has been postponed after ⁠a fungal outbreak ⁠affected ​the pitch at Estadio de Balaidos, the Spanish club ⁠said on Thursday. Celta had been due to host Osasuna on Sunday, ⁠but the fixture was postponed with ​the decision ‌agreed by both ‌clubs and the Spanish Football Federation (RFEF) ‌following a technical inspection by La Liga. Continue reading...",
+   "category": "News",
+   "league": "La Liga",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-08-13T16:14:47.000Z",
+   "fetched_at": "2026-08-13T17:28:42.756Z",
+   "body": [
+    "Our briefing: Fungal outbreak damages surface at Estadio de Balaidos Turf for Osasuna match left ‘unfit for football’ Celta Vigo’s ⁠season-opening La Liga match against Osasuna has…",
+    "Fungal outbreak damages surface at Estadio de Balaidos Turf for Osasuna match left ‘unfit for football’ Celta Vigo’s ⁠season-opening La Liga match against Osasuna has been postponed after ⁠a fungal outbreak ⁠affected ​the pitch at Estadio de Balaidos, the Spanish club ⁠said on Thursday. Celta had been due to host Osasuna on Sunday, ⁠but the fixture was postponed with ​the decision ‌agreed by both ‌clubs and the Spanish Football Federation (RFEF) ‌following a technical inspection by La Liga. Continue reading...",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
   },
   {
    "id": "bbc-handling-hate-seeking-stability-fofana-s-chelsea",
@@ -49,7 +131,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-13T16:02:57.000Z",
-   "fetched_at": "2026-08-13T16:24:44.615Z",
+   "fetched_at": "2026-08-13T17:28:42.618Z",
    "body": [
     "Our briefing: Wesley Fofana shed tears, faced criticism for laughing at the wrong moment and exposed racist abuse last season but believes stability will lead to \"amazing\" Chelsea…",
     "Wesley Fofana shed tears, faced criticism for laughing at the wrong moment and exposed racist abuse last season but believes stability will lead to \"amazing\" Chelsea future.",
@@ -64,21 +146,21 @@
    "slug": "carrick-rules-out-100m-signing-for-manchester-united-as-rash-nited",
    "title": "Carrick rules out £100m signing for Manchester United as Rashford rejoins squad",
    "dek": "United unable to financially compete with rivals Rashford back after Barcelona loan but could leave Michael Carrick has stated that Manchester United will not make a…",
-   "description": "United unable to financially compete with rivals Rashford back after Barcelona loan but could leave Michael Carrick has stated that Manchester United will not make a £100m signing due to their finances, with the manager also insisting that Marcus Rashford “is our player” despite the forward and club preferring him to depart. In the current window United have invested a total of £85m on Youri Tielemans and Andrey Santos but have never spent £100m on a single transfer. Continue reading...",
+   "description": "United unable to financially compete with rivals Rashford back after Barcelona loan but could leave Michael Carrick has stated that Manchester United will not make a £100m signing this summer due to their finances, with the manager also insisting that Marcus Rashford “is our player” despite the forward and club preferring him to depart. In the current window United have invested a total of £85m on Youri Tielemans and Andrey Santos but have never spent £100m on a single transfer. Continue reading...",
    "category": "Transfers & Rumours",
    "league": "Premier League",
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-13T16:00:02.000Z",
-   "fetched_at": "2026-08-13T16:24:44.692Z",
+   "fetched_at": "2026-08-13T17:28:42.755Z",
    "body": [
     "Our briefing: United unable to financially compete with rivals Rashford back after Barcelona loan but could leave Michael Carrick has stated that Manchester United will not make a…",
-    "United unable to financially compete with rivals Rashford back after Barcelona loan but could leave Michael Carrick has stated that Manchester United will not make a £100m signing due to their finances, with the manager also insisting that Marcus Rashford “is our player” despite the forward and club preferring him to depart. In the current window United have invested a total of £85m on Youri Tielemans and Andrey Santos but have never spent £100m on a single transfer. Continue reading...",
+    "United unable to financially compete with rivals Rashford back after Barcelona loan but could leave Michael Carrick has stated that Manchester United will not make a £100m signing this summer due to their finances, with the manager also insisting that Marcus Rashford “is our player” despite the forward and club preferring him to depart. In the current window United have invested a total of £85m on Youri Tielemans and Andrey Santos but have never spent £100m on a single transfer. Continue reading...",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Manchester_United_Halt.JPG/960px-Manchester_United_Halt.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Atomicdanny at English Wikipedia — CC BY-SA 3.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Manchester_United_1908-09.jpg/960px-Manchester_United_1908-09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "bbc-fresh-talks-over-arsenal-move-aston-villa-s-kons",
@@ -91,7 +173,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-13T15:47:45.000Z",
-   "fetched_at": "2026-08-13T16:24:44.615Z",
+   "fetched_at": "2026-08-13T17:28:42.618Z",
    "body": [
     "Our briefing: Aston Villa's central defender Ezri Konsa is thought to be Arsenal's preferred option in their search for a new central defender.",
     "Aston Villa's central defender Ezri Konsa is thought to be Arsenal's preferred option in their search for a new central defender.",
@@ -112,7 +194,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-13T15:35:07.000Z",
-   "fetched_at": "2026-08-13T16:24:45.299Z",
+   "fetched_at": "2026-08-13T17:28:43.027Z",
    "body": [
     "Our briefing: Chelsea have told Manchester City that they would need to meet their £120m price for the Argentina international by Friday",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -132,7 +214,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-13T15:34:42.000Z",
-   "fetched_at": "2026-08-13T16:24:44.615Z",
+   "fetched_at": "2026-08-13T17:28:42.618Z",
    "body": [
     "Our briefing: Enes Unal leaves Bournemouth to rejoin Spanish club Getafe.",
     "Enes Unal leaves Bournemouth to rejoin Spanish club Getafe.",
@@ -153,7 +235,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-13T15:22:27.000Z",
-   "fetched_at": "2026-08-13T16:24:44.698Z",
+   "fetched_at": "2026-08-13T17:28:42.756Z",
    "body": [
     "Our briefing: Sign up now! Sign up now! Sign up now? Sign up now! Aston Villa supporters could have been forgiven for approaching the new season with feelings of great anxiety, nagging…",
     "Sign up now! Sign up now! Sign up now?",
@@ -165,8 +247,8 @@
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "YHC — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Badalik_Szabolcs_Hungarian_beach_soccer_player.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "Badalik Szabolcs — CC BY 4.0"
   },
   {
    "id": "bbc-celtic-sign-midfielder-baur-paderborn",
@@ -179,7 +261,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-13T15:06:40.000Z",
-   "fetched_at": "2026-08-13T16:24:44.616Z",
+   "fetched_at": "2026-08-13T17:28:42.619Z",
    "body": [
     "Our briefing: Celtic sign German midfielder Mika Baur from Paderborn for an undisclosed fee, with the 22-year-old signing a four-year contract.",
     "Celtic sign German midfielder Mika Baur from Paderborn for an undisclosed fee, with the 22-year-old signing a four-year contract.",
@@ -200,7 +282,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-13T15:06:40.000Z",
-   "fetched_at": "2026-08-13T16:24:44.618Z",
+   "fetched_at": "2026-08-13T17:28:42.620Z",
    "body": [
     "Our briefing: Celtic sign German midfielder Mika Baur from Paderborn for an undisclosed fee, with the 22-year-old signing a four-year contract.",
     "Celtic sign German midfielder Mika Baur from Paderborn for an undisclosed fee, with the 22-year-old signing a four-year contract.",
@@ -221,7 +303,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-13T15:02:56.000Z",
-   "fetched_at": "2026-08-13T16:24:44.615Z",
+   "fetched_at": "2026-08-13T17:28:42.618Z",
    "body": [
     "Our briefing: As West Ham get ready to start their first league campaign outside the top flight since 2011-12, what's going on in the boardroom?",
     "As West Ham get ready to start their first league campaign outside the top flight since 2011-12, what's going on in the boardroom?",
@@ -242,7 +324,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-13T14:57:15.000Z",
-   "fetched_at": "2026-08-13T16:24:44.615Z",
+   "fetched_at": "2026-08-13T17:28:42.618Z",
    "body": [
     "Our briefing: Premier League kits are going to have a very different look this season after clubs voted to ban gambling on the front of shirts. BBC Sport looks at the history of…",
     "Premier League kits are going to have a very different look this season after clubs voted to ban gambling on the front of shirts. BBC Sport looks at the history of sponsorship, and who is replacing the betting companies.",
@@ -263,15 +345,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-13T14:41:24.000Z",
-   "fetched_at": "2026-08-13T16:24:44.615Z",
+   "fetched_at": "2026-08-13T17:28:42.618Z",
    "body": [
     "Our briefing: England came third in this summer's World Cup - their best performance in a men's competition in 60 years - and now their players are in demand in the transfer market.",
     "England came third in this summer's World Cup - their best performance in a men's competition in 60 years - and now their players are in demand in the transfer market.",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": null
   },
   {
    "id": "bbc-main-contenders-replace-rodri-man-city",
@@ -284,7 +366,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-13T14:18:05.000Z",
-   "fetched_at": "2026-08-13T16:24:44.615Z",
+   "fetched_at": "2026-08-13T17:28:42.618Z",
    "body": [
     "Our briefing: As a move for Manchester City midfielder Rodri looks increasingly likely, BBC Sport takes a look at the options to replace him.",
     "As a move for Manchester City midfielder Rodri looks increasingly likely, BBC Sport takes a look at the options to replace him.",
@@ -305,13 +387,13 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-13T14:15:29.000Z",
-   "fetched_at": "2026-08-13T16:24:45.299Z",
+   "fetched_at": "2026-08-13T17:28:43.027Z",
    "body": [
     "Our briefing: Tielemans made the move to Old Trafford this summer",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Manchester_United_Halt1.JPG/960px-Manchester_United_Halt1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Manchester_United_Halt.JPG/960px-Manchester_United_Halt.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Atomicdanny at English Wikipedia — CC BY-SA 3.0"
   },
   {
@@ -325,7 +407,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-13T14:08:18.000Z",
-   "fetched_at": "2026-08-13T16:24:44.615Z",
+   "fetched_at": "2026-08-13T17:28:42.618Z",
    "body": [
     "Our briefing: Leicester City's Thai owners King Power are hoping to sell the club after 16 years, for more than £200m.",
     "Leicester City's Thai owners King Power are hoping to sell the club after 16 years, for more than £200m.",
@@ -346,7 +428,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-13T13:47:14.000Z",
-   "fetched_at": "2026-08-13T16:24:44.615Z",
+   "fetched_at": "2026-08-13T17:28:42.618Z",
    "body": [
     "Our briefing: Youri Tielemans apologises to Aston Villa fans after suggesting he had moved to a bigger club in Premier League rivals Manchester United.",
     "Youri Tielemans apologises to Aston Villa fans after suggesting he had moved to a bigger club in Premier League rivals Manchester United.",
@@ -367,14 +449,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-13T13:15:25.000Z",
-   "fetched_at": "2026-08-13T16:24:45.299Z",
+   "fetched_at": "2026-08-13T17:28:43.027Z",
    "body": [
     "Our briefing: Ex-Premier League official Taylor retired from refereeing after officiating at the 2026 World Cup",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "John Shorten — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "bbc-when-do-major-european-leagues-start-what-are-bi",
@@ -387,15 +469,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-13T13:06:55.000Z",
-   "fetched_at": "2026-08-13T16:24:44.616Z",
+   "fetched_at": "2026-08-13T17:28:42.619Z",
    "body": [
     "Our briefing: BBC Sport looks at the big stories in Europe heading into the 2026-27 season.",
     "BBC Sport looks at the big stories in Europe heading into the 2026-27 season.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "independent-tijjani-reijnders-brink-leaving-man-city-50m-dea",
@@ -408,7 +490,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-13T12:56:23.000Z",
-   "fetched_at": "2026-08-13T16:24:45.299Z",
+   "fetched_at": "2026-08-13T17:28:43.028Z",
    "body": [
     "Our briefing: Reijnders joined from AC Milan last summer for £46.5m but fell out of favour towards the end of City’s season",
     "Reijnders joined from AC Milan last summer for £46.",
@@ -429,7 +511,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-13T12:52:36.000Z",
-   "fetched_at": "2026-08-13T16:24:45.299Z",
+   "fetched_at": "2026-08-13T17:28:43.028Z",
    "body": [
     "Our briefing: After a big-money move from Nottingham Forest, the midfielder sits down with Richard Jolly to reflect on a year of transfer highs and World Cup lows",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -449,13 +531,13 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-13T12:33:32.000Z",
-   "fetched_at": "2026-08-13T16:24:45.299Z",
+   "fetched_at": "2026-08-13T17:28:43.028Z",
    "body": [
     "Our briefing: The Football Association of Ireland are yet to be joined by neighbours Northern Ireland in pulling their endorsement",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -469,7 +551,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-13T12:18:40.000Z",
-   "fetched_at": "2026-08-13T16:24:44.616Z",
+   "fetched_at": "2026-08-13T17:28:42.619Z",
    "body": [
     "Our briefing: BBC Sport analyses the season ahead for West Ham, who will be playing in the Championship for the first time in 14 years.",
     "BBC Sport analyses the season ahead for West Ham, who will be playing in the Championship for the first time in 14 years.",
@@ -497,8 +579,7 @@
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": null
+   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   {
    "id": "guardian-fog-time-lech-poznan-race-reach-faroe-islands-eu",
@@ -525,17 +606,17 @@
    "id": "guardian-he-has-very-high-ceiling-madjo-makes-instant-mar",
    "slug": "he-has-a-very-high-ceiling-madjo-makes-instant-mark-on-delay-t-mar",
    "title": "‘He has a very high ceiling’: Madjo makes instant mark on delayed Aston Villa bow",
-   "dek": "Teenager endured a frustrating wait for his registration to be approved but took no time to show his potential on the big stage against PSG At first glance there was the…",
-   "description": "Teenager endured a frustrating wait for his registration to be approved but took no time to show his potential on the big stage against PSG At first glance there was the usual stuff: the wide smile, the guttural release, the punch of the air, teammates quickly on the scene to offer congratulations. But then the real celebration followed for the 17-year-old Brian Madjo. After scoring his first Aston Villa goal 45 minutes into an unforgettable debut , the teenager clasped his hands behind his back and then unlocked them with the kind of force he exhibited on the pitch. “No distractions, I’m free,” he posted on Instagram after finally being cleared to pull on a Villa shirt in a competitive game. After confirmation that the court of arbitration for sport (Cas) had upheld Villa’s appeal to register the 6ft 4in striker, the Madjo movement gathered pace. John McGinn and Amadou Onana responded to the club sharing the news on social media by posting “#freemadjo”. After Madjo shone in defeat in Salzburg, McGinn alluded to the painful and protracted waiting game. “Brian has had a terrible year,” the Villa captain said. “A player born in England should be able to play in England. He has the potential to be an unbelievable striker and he showed that.” Continue reading...",
+   "dek": "Teenager endured a frustrating wait for his registration to be approved but took no time to show his potential on the big stage against PSG At first there was the usual…",
+   "description": "Teenager endured a frustrating wait for his registration to be approved but took no time to show his potential on the big stage against PSG At first there was the usual stuff: the wide smile, the guttural release, the punch of the air, teammates quickly on the scene to offer congratulations. But then the real celebration followed for the 17-year-old Brian Madjo. After scoring his first Aston Villa goal 45 minutes into an unforgettable debut , the teenager clasped his hands behind his back and then unlocked them with the kind of force he exhibited on the pitch. “No distractions, I’m free,” he posted on Instagram after finally being cleared to pull on a Villa shirt in a competitive game. After confirmation that the court of arbitration for sport (Cas) had upheld Villa’s appeal to register the 6ft 4in striker, the Madjo movement gathered pace. John McGinn and Amadou Onana responded to the club sharing the news on social media by posting “#freemadjo”. After Madjo shone in defeat in Salzburg, McGinn alluded to the painful and protracted waiting game. “Brian has had a terrible year,” the Villa captain said. “A player born in England should be able to play in England. He has the potential to be an unbelievable striker and he showed that.” Continue reading...",
    "category": "Match Reports",
    "league": "Premier League",
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-13T12:00:00.000Z",
-   "fetched_at": "2026-08-13T16:24:44.693Z",
+   "fetched_at": "2026-08-13T17:28:42.756Z",
    "body": [
-    "Our briefing: Teenager endured a frustrating wait for his registration to be approved but took no time to show his potential on the big stage against PSG At first glance there was the…",
-    "Teenager endured a frustrating wait for his registration to be approved but took no time to show his potential on the big stage against PSG At first glance there was the usual stuff: the wide smile, the guttural release, the punch of the air, teammates quickly on the scene to offer congratulations. But then the real celebration followed for the 17-year-old Brian Madjo. After scoring his first Aston Villa goal 45 minutes into an unforgettable debut , the teenager clasped his hands behind his back and then unlocked them with the kind of force he exhibited on the pitch.",
+    "Our briefing: Teenager endured a frustrating wait for his registration to be approved but took no time to show his potential on the big stage against PSG At first there was the usual…",
+    "Teenager endured a frustrating wait for his registration to be approved but took no time to show his potential on the big stage against PSG At first there was the usual stuff: the wide smile, the guttural release, the punch of the air, teammates quickly on the scene to offer congratulations. But then the real celebration followed for the 17-year-old Brian Madjo. After scoring his first Aston Villa goal 45 minutes into an unforgettable debut , the teenager clasped his hands behind his back and then unlocked them with the kind of force he exhibited on the pitch.",
     "“No distractions, I’m free,” he posted on Instagram after finally being cleared to pull on a Villa shirt in a competitive game. After confirmation that the court of arbitration for sport (Cas) had upheld Villa’s appeal to register the 6ft 4in striker, the Madjo movement gathered pace. John McGinn and Amadou Onana responded to the club sharing the news on social media by posting “#freemadjo”.",
     "After Madjo shone in defeat in Salzburg, McGinn alluded to the painful and protracted waiting game. “Brian has had a terrible year,” the Villa captain said. “A player born in England should be able to play in England.",
     "He has the potential to be an unbelievable striker and he showed that. ” Continue reading...",
@@ -556,7 +637,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-13T11:58:51.000Z",
-   "fetched_at": "2026-08-13T16:24:45.299Z",
+   "fetched_at": "2026-08-13T17:28:43.028Z",
    "body": [
     "Our briefing: The Republic of Ireland are the latest to withdraw their endorsement of Infantino after his botched World Cup sell-off plan",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -576,7 +657,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-13T11:54:12.000Z",
-   "fetched_at": "2026-08-13T16:24:44.695Z",
+   "fetched_at": "2026-08-13T17:28:42.757Z",
    "body": [
     "Our briefing: Max Rushden is joined by George Elek, Ali Maxwell and Seb Hutchinson to run through all you need to know about the Championship, League One and League Two Continue…",
     "Max Rushden is joined by George Elek, Ali Maxwell and Seb Hutchinson to run through all you need to know about the Championship, League One and League Two Continue reading...",
@@ -597,7 +678,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-13T11:43:03.000Z",
-   "fetched_at": "2026-08-13T15:04:34.563Z",
+   "fetched_at": "2026-08-13T17:28:42.619Z",
    "body": [
     "Our briefing: BBC Sport's Ask Me Anything team explains why the '3pm blackout' is not being enforced this weekend",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
@@ -639,14 +720,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-13T11:35:28.000Z",
-   "fetched_at": "2026-08-13T16:24:44.615Z",
+   "fetched_at": "2026-08-13T17:28:42.618Z",
    "body": [
     "Our briefing: Retiring Premier League referee Anthony Taylor says his decision to quit was partly due to the toxic debate around officials.",
     "Retiring Premier League referee Anthony Taylor says his decision to quit was partly due to the toxic debate around officials.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -660,15 +741,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-13T11:29:00.000Z",
-   "fetched_at": "2026-08-13T16:24:44.616Z",
+   "fetched_at": "2026-08-13T17:28:42.619Z",
    "body": [
     "Our briefing: Featuring Casparij, Miedema, Clinton, Shaw, Jeglertz and new signing Beth Mead!",
     "Featuring Casparij, Miedema, Clinton, Shaw, Jeglertz and new signing Beth Mead!",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Badalik_Szabolcs_Hungarian_beach_soccer_player.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "Badalik Szabolcs — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "independent-lionel-messi-makes-inter-miami-return-after-hint",
@@ -681,7 +762,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-13T11:21:25.000Z",
-   "fetched_at": "2026-08-13T16:24:45.299Z",
+   "fetched_at": "2026-08-13T17:28:43.028Z",
    "body": [
     "Our briefing: Lionel Messi’s father, Jorge, passed away last week at the age of 68",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -701,15 +782,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-13T11:05:03.000Z",
-   "fetched_at": "2026-08-13T16:24:44.615Z",
+   "fetched_at": "2026-08-13T17:28:42.618Z",
    "body": [
     "Our briefing: The Football Association of Ireland [FAI] officially withdraws support for under-fire Fifa president Gianni Infantino, while the Irish Football Association [IFA] confirms…",
     "The Football Association of Ireland [FAI] officially withdraws support for under-fire Fifa president Gianni Infantino, while the Irish Football Association [IFA] confirms it backs Uefa's stance.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   },
   {
    "id": "independent-fulham-respond-after-fiery-friendly-ends-walk-of",
@@ -722,7 +803,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-13T11:04:05.000Z",
-   "fetched_at": "2026-08-13T16:24:45.299Z",
+   "fetched_at": "2026-08-13T17:28:43.028Z",
    "body": [
     "Our briefing: New Fulham manager Alvaro Arbeloa was also sent off as the friendly descended into chaos",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -742,7 +823,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-13T11:00:56.000Z",
-   "fetched_at": "2026-08-13T16:24:44.692Z",
+   "fetched_at": "2026-08-13T17:28:42.755Z",
    "body": [
     "Our briefing: Palace take a risk with new manager Pierre Sage, who is tasked with building on Glasner’s unprecedented success Guardian writers’ predicted position: 16th (NB: this is…",
     "Palace take a risk with new manager Pierre Sage, who is tasked with building on Glasner’s unprecedented success Guardian writers’ predicted position: 16th (NB: this is not necessarily Ed Aarons’ prediction but the average of our writers’ tips) Last season’s position: 15th Continue reading...",
@@ -763,7 +844,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-13T11:00:56.000Z",
-   "fetched_at": "2026-08-13T16:24:44.693Z",
+   "fetched_at": "2026-08-13T17:28:42.755Z",
    "body": [
     "Our briefing: The former England full-back is back in the Championship after 12 years away, hoping to lead Wolves out of it When the question inevitably comes, Kieran Trippier is happy…",
     "The former England full-back is back in the Championship after 12 years away, hoping to lead Wolves out of it When the question inevitably comes, Kieran Trippier is happy to set the record straight. Fresh from training, head to toe in Wolves kit – vest, shorts and club-branded sliders – he walks into a suite at their Compton Park base, conversation soon shifting to an episode that rocked supporters and stopped outsiders in their tracks: three days after signing, the manager Trippier cited as a significant driver behind his decision to drop into the second tier, Rob Edwards, was sacked . All the while, a deal for his replacement, César Peixoto, was being accelerated.",
@@ -772,90 +853,8 @@
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "independent-martin-o-neill-gives-health-update-after-missing",
-   "slug": "martin-o-neill-gives-health-update-after-missing-celtic-matc-ssing",
-   "title": "Martin O’Neill gives health update after missing Celtic match following hospital procedure",
-   "dek": "Martin O’Neill missed Celtic’s 5-1 win over Kilmarnock on Sunday",
-   "description": "Martin O’Neill missed Celtic’s 5-1 win over Kilmarnock on Sunday",
-   "category": "News",
-   "league": "Football",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-08-13T10:59:31.000Z",
-   "fetched_at": "2026-08-13T16:24:45.299Z",
-   "body": [
-    "Our briefing: Martin O’Neill missed Celtic’s 5-1 win over Kilmarnock on Sunday",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Celtic_Park_during_an_Old_Firm_derby_between_Celtic_FC_and_Rangers_FC.jpg/960px-Celtic_Park_during_an_Old_Firm_derby_between_Celtic_FC_and_Rangers_FC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Vincenzo.togni — CC BY-SA 4.0"
-  },
-  {
-   "id": "independent-elliot-anderson-i-ve-been-watching-man-city-past",
-   "slug": "elliot-anderson-i-ve-been-watching-man-city-for-the-past-ten--past",
-   "title": "Elliot Anderson: ‘I’ve been watching Man City for the past ten years – I’m confident I’ve made the right…",
-   "dek": "After a big-money move from Nottingham Forest, the midfielder sits down with Richard Jolly to reflect on a year of transfer highs and World Cup lows",
-   "description": "After a big-money move from Nottingham Forest, the midfielder sits down with Richard Jolly to reflect on a year of transfer highs and World Cup lows",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-08-13T10:32:20.000Z",
-   "fetched_at": "2026-08-13T12:10:08.082Z",
-   "body": [
-    "Our briefing: After a big-money move from Nottingham Forest, the midfielder sits down with Richard Jolly to reflect on a year of transfer highs and World Cup lows",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/A_Bus_in_Manchester_City_Centre_-_geograph.org.uk_-_2876841.jpg/960px-A_Bus_in_Manchester_City_Centre_-_geograph.org.uk_-_2876841.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "David Hillas — CC BY-SA 2.0"
-  },
-  {
-   "id": "guardian-women-s-transfer-window-summer-2026-all-deals-wo",
-   "slug": "women-s-transfer-window-summer-2026-all-deals-from-world-s-t-ls-wo",
-   "title": "Women’s transfer window summer 2026: all deals from world’s top six leagues",
-   "dek": "Every deal in the NWSL, WSL, Liga F, Frauen-Bundesliga, Première Ligue and Serie A Femminile as well as a club-by-club guide Men’s transfer window interactive guide…",
-   "description": "Every deal in the NWSL, WSL, Liga F, Frauen-Bundesliga, Première Ligue and Serie A Femminile as well as a club-by-club guide Men’s transfer window interactive guide Continue reading...",
-   "category": "Transfers & Rumours",
-   "league": "Football",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-08-13T10:29:36.000Z",
-   "fetched_at": "2026-08-13T16:24:44.693Z",
-   "body": [
-    "Our briefing: Every deal in the NWSL, WSL, Liga F, Frauen-Bundesliga, Première Ligue and Serie A Femminile as well as a club-by-club guide Men’s transfer window interactive guide…",
-    "Every deal in the NWSL, WSL, Liga F, Frauen-Bundesliga, Première Ligue and Serie A Femminile as well as a club-by-club guide Men’s transfer window interactive guide Continue reading...",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Kiran891 — CC BY-SA 4.0"
-  },
-  {
-   "id": "guardian-men-s-transfer-window-summer-2026-all-deals-euro",
-   "slug": "men-s-transfer-window-summer-2026-all-deals-from-europe-s-to--euro",
-   "title": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
-   "dek": "All the latest Premier League, La Liga, Bundesliga, Ligue 1 and Serie A deals and a club-by-club guide Women’s transfer window interactive guide Continue reading...",
-   "description": "All the latest Premier League, La Liga, Bundesliga, Ligue 1 and Serie A deals and a club-by-club guide Women’s transfer window interactive guide Continue reading...",
-   "category": "Transfers & Rumours",
-   "league": "Football",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-08-13T10:29:11.000Z",
-   "fetched_at": "2026-08-13T16:24:44.693Z",
-   "body": [
-    "Our briefing: All the latest Premier League, La Liga, Bundesliga, Ligue 1 and Serie A deals and a club-by-club guide Women’s transfer window interactive guide Continue reading...",
-    "All the latest Premier League, La Liga, Bundesliga, Ligue 1 and Serie A deals and a club-by-club guide Women’s transfer window interactive guide Continue reading...",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   }
  ]
 }
