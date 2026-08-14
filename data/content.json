@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-13T23:41:31.162Z",
- "updated_utc": "2026-08-13T23:41Z",
- "cycle": 29777741,
+ "generated_at": "2026-08-14T02:00:28.673Z",
+ "updated_utc": "2026-08-14T02:00Z",
+ "cycle": 29777880,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,8 +16,50 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "bbc-dad-rang-i-was-like-what-s-happening-england-u20",
+ "hero_id": "bbc-level-headed-swede-orchestrating-magic-motherwel",
  "articles": [
+  {
+   "id": "bbc-level-headed-swede-orchestrating-magic-motherwel",
+   "slug": "the-level-headed-swede-orchestrating-magic-with-motherwell-erwel",
+   "title": "The level-headed Swede orchestrating magic with Motherwell",
+   "dek": "Alfred Johansson's impressive early work at Motherwell continues with a place in the Conference League play-offs - but don't expect the Swede to get carried away.",
+   "description": "Alfred Johansson's impressive early work at Motherwell continues with a place in the Conference League play-offs - but don't expect the Swede to get carried away.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-13T23:47:48.000Z",
+   "fetched_at": "2026-08-14T02:00:21.019Z",
+   "body": [
+    "Our briefing: Alfred Johansson's impressive early work at Motherwell continues with a place in the Conference League play-offs - but don't expect the Swede to get carried away.",
+    "Alfred Johansson's impressive early work at Motherwell continues with a place in the Conference League play-offs - but don't expect the Swede to get carried away.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "John Shorten — CC BY 4.0"
+  },
+  {
+   "id": "bbc-what-s-going-wrong-rangers-mcinnes",
+   "slug": "what-s-going-wrong-for-rangers-and-mcinnes-innes",
+   "title": "What's going wrong for Rangers and McInnes?",
+   "dek": "After Rangers' Europa League qualifying defeat by Jagellonia Bialystok, what is going wrong for new manager Derek McInnes and his side so far this season?",
+   "description": "After Rangers' Europa League qualifying defeat by Jagellonia Bialystok, what is going wrong for new manager Derek McInnes and his side so far this season?",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-13T23:43:51.000Z",
+   "fetched_at": "2026-08-14T02:00:21.019Z",
+   "body": [
+    "Our briefing: After Rangers' Europa League qualifying defeat by Jagellonia Bialystok, what is going wrong for new manager Derek McInnes and his side so far this season?",
+    "After Rangers' Europa League qualifying defeat by Jagellonia Bialystok, what is going wrong for new manager Derek McInnes and his side so far this season?",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Celtic_Park_during_an_Old_Firm_derby_between_Celtic_FC_and_Rangers_FC.jpg/960px-Celtic_Park_during_an_Old_Firm_derby_between_Celtic_FC_and_Rangers_FC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Vincenzo.togni — CC BY-SA 4.0"
+  },
   {
    "id": "guardian-premier-league-2026-27-preview-no-9-everton",
    "slug": "premier-league-2026-27-preview-no-9-everton-erton",
@@ -29,7 +71,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-13T23:01:11.000Z",
-   "fetched_at": "2026-08-13T23:41:22.087Z",
+   "fetched_at": "2026-08-14T02:00:21.094Z",
    "body": [
     "Our briefing: Modest but sensible-looking recruitment befits the club’s new air of stability but a continuation of their spring slump could test David Moyes’s appetite for the fight…",
     "Modest but sensible-looking recruitment befits the club’s new air of stability but a continuation of their spring slump could test David Moyes’s appetite for the fight Guardian writers’ predicted position: 10th (NB: this is not necessarily Andy Hunter’s prediction but the average of our writers’ tips) Last season’s position: 13th Continue reading...",
@@ -50,7 +92,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-13T22:49:29.000Z",
-   "fetched_at": "2026-08-13T23:41:21.964Z",
+   "fetched_at": "2026-08-14T02:00:21.020Z",
    "body": [
     "Our briefing: South Africa and Ghana progress to an inter-confederation qualifier for the 2027 Women's World Cup, but Nigeria will miss the tournament for the first time.",
     "South Africa and Ghana progress to an inter-confederation qualifier for the 2027 Women's World Cup, but Nigeria will miss the tournament for the first time.",
@@ -71,7 +113,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-13T22:12:05.000Z",
-   "fetched_at": "2026-08-13T23:41:21.963Z",
+   "fetched_at": "2026-08-14T02:00:21.019Z",
    "body": [
     "Our briefing: Manchester City midfielder Tijjani Reijnders is set to leave following a year at the club after a £52m move was agreed with Saudi Pro-League side Al-Qadsiah.",
     "Manchester City midfielder Tijjani Reijnders is set to leave following a year at the club after a £52m move was agreed with Saudi Pro-League side Al-Qadsiah.",
@@ -92,7 +134,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-13T22:03:35.000Z",
-   "fetched_at": "2026-08-13T23:41:21.964Z",
+   "fetched_at": "2026-08-14T02:00:21.020Z",
    "body": [
     "Our briefing: Barcelona's latest Rodri bid rejected, Tottenham's Djed Spence on verge of Inter Milan move, Arsenal rebuffed in bid for Marc Pubill, plus more.",
     "Barcelona's latest Rodri bid rejected, Tottenham's Djed Spence on verge of Inter Milan move, Arsenal rebuffed in bid for Marc Pubill, plus more.",
@@ -113,15 +155,15 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-13T21:30:00.000Z",
-   "fetched_at": "2026-08-13T23:41:22.087Z",
+   "fetched_at": "2026-08-14T02:00:21.094Z",
    "body": [
     "Our briefing: Rangers 1-1 Jagiellonia Bialystok (2-3 agg) Spirited Hearts hold Benfica but also out of competition Derek McInnes’s fledgling tenure as Rangers manager is in disarray…",
     "Rangers 1-1 Jagiellonia Bialystok (2-3 agg) Spirited Hearts hold Benfica but also out of competition Derek McInnes’s fledgling tenure as Rangers manager is in disarray after his side exited the Europa League qualifiers with a 3-2 aggregate defeat to Jagiellonia Bialystok after drawing 1-1 at Ibrox. Rangers had lost 2-1 in the first leg in Poland last week but there was optimism when the captain, Lawrence Shankland, levelled the tie on aggregate with a penalty on 19 minutes. Continue reading...",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Celtic_Park_during_an_Old_Firm_derby_between_Celtic_FC_and_Rangers_FC.jpg/960px-Celtic_Park_during_an_Old_Firm_derby_between_Celtic_FC_and_Rangers_FC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Vincenzo.togni — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Rangers_v_Sevilla_FC_-_UEFA_Youth_League_%2851870699559%29.jpg/960px-Rangers_v_Sevilla_FC_-_UEFA_Youth_League_%2851870699559%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Daniel from Glasgow, United Kingdom — CC BY 2.0"
   },
   {
    "id": "bbc-dad-rang-i-was-like-what-s-happening-england-u20",
@@ -134,15 +176,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-13T21:09:51.000Z",
-   "fetched_at": "2026-08-13T23:41:21.964Z",
+   "fetched_at": "2026-08-14T02:00:21.019Z",
    "body": [
     "Our briefing: England head coach Lydia Bedford says she has been told to \"just continue as usual\" before next month's Under-20 Women's World Cup, despite the threat of a Uefa boycott…",
     "England head coach Lydia Bedford says she has been told to \"just continue as usual\" before next month's Under-20 Women's World Cup, despite the threat of a Uefa boycott over an ongoing row with Fifa.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "John Shorten — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
   },
   {
    "id": "bbc-listen-sportsound-build-up-four-scottish-clubs-e",
@@ -176,7 +218,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-13T20:36:21.000Z",
-   "fetched_at": "2026-08-13T23:41:21.964Z",
+   "fetched_at": "2026-08-14T02:00:21.020Z",
    "body": [
     "Our briefing: Paris St-Germain agree a deal in principle to sign Barcelona forward Ferran Torres from Barcelona for about £43m.",
     "Paris St-Germain agree a deal in principle to sign Barcelona forward Ferran Torres from Barcelona for about £43m.",
@@ -197,7 +239,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-13T19:00:05.000Z",
-   "fetched_at": "2026-08-13T23:41:22.087Z",
+   "fetched_at": "2026-08-14T02:00:21.094Z",
    "body": [
     "Our briefing: With a top-eight finish offering at least a playoff place, the temptation to spend big in pursuit of the Premier League will grow – but so will the risks The…",
     "With a top-eight finish offering at least a playoff place, the temptation to spend big in pursuit of the Premier League will grow – but so will the risks The Championship’s collective wage bill grew to a record £903m in 2024-25, according to Deloitte’s latest Annual Review of Football Finance. Clubs are paying players enormous sums in their pursuit of Premier League football. With the playoffs expanding this season , the number of owners willing to risk even more money in the hope of securing promotion is only likely to increase.",
@@ -242,7 +284,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-13T17:56:48.000Z",
-   "fetched_at": "2026-08-13T23:41:21.964Z",
+   "fetched_at": "2026-08-14T02:00:21.020Z",
    "body": [
     "Our briefing: Ahead of his first full Premier League campaign in charge at Old Trafford, Carrick feels the squad is making good progress.",
     "Ahead of his first full Premier League campaign in charge at Old Trafford, Carrick feels the squad is making good progress.",
@@ -263,7 +305,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-13T17:49:02.000Z",
-   "fetched_at": "2026-08-13T23:41:21.964Z",
+   "fetched_at": "2026-08-14T02:00:21.020Z",
    "body": [
     "Our briefing: Arsenal hold talks with Galatasaray over the prospect of selling various squad members as the Gunners invite offers for Gabriel Martinelli and Ethan Nwaneri.",
     "Arsenal hold talks with Galatasaray over the prospect of selling various squad members as the Gunners invite offers for Gabriel Martinelli and Ethan Nwaneri.",
@@ -284,7 +326,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-13T17:14:51.000Z",
-   "fetched_at": "2026-08-13T23:41:22.193Z",
+   "fetched_at": "2026-08-14T02:00:21.368Z",
    "body": [
     "Our briefing: Manchester United have added Andrey Santos, Youri Tielemans and Karl Darlow to their ranks this summer",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -323,7 +365,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-13T16:21:51.000Z",
-   "fetched_at": "2026-08-13T23:41:21.964Z",
+   "fetched_at": "2026-08-14T02:00:21.019Z",
    "body": [
     "Our briefing: Before his first full season as Manchester United head coach, Michael Carrick explains why the club need more players, discusses why he is in a privileged position and…",
     "Before his first full season as Manchester United head coach, Michael Carrick explains why the club need more players, discusses why he is in a privileged position and talks Marcus Rashford and Kobbie Mainoo.",
@@ -344,15 +386,15 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-13T16:14:47.000Z",
-   "fetched_at": "2026-08-13T23:41:22.087Z",
+   "fetched_at": "2026-08-14T02:00:21.095Z",
    "body": [
     "Our briefing: Fungal outbreak damages surface at Estadio de Balaidos Turf for Osasuna match left ‘unfit for football’ Celta Vigo’s ⁠season-opening La Liga match against Osasuna has…",
     "Fungal outbreak damages surface at Estadio de Balaidos Turf for Osasuna match left ‘unfit for football’ Celta Vigo’s ⁠season-opening La Liga match against Osasuna has been postponed after ⁠a fungal outbreak ⁠affected ​the pitch at Estadio de Balaidos, the Spanish club ⁠said on Thursday. Celta had been due to host Osasuna on Sunday, ⁠but the fixture was postponed with ​the decision ‌agreed by both ‌clubs and the Spanish Football Federation (RFEF) ‌following a technical inspection by La Liga. Continue reading...",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "bbc-handling-hate-seeking-stability-fofana-s-chelsea",
@@ -365,7 +407,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-13T16:02:57.000Z",
-   "fetched_at": "2026-08-13T23:41:21.964Z",
+   "fetched_at": "2026-08-14T02:00:21.019Z",
    "body": [
     "Our briefing: Wesley Fofana shed tears, faced criticism for laughing at the wrong moment and exposed racist abuse last season but believes stability will lead to \"amazing\" Chelsea…",
     "Wesley Fofana shed tears, faced criticism for laughing at the wrong moment and exposed racist abuse last season but believes stability will lead to \"amazing\" Chelsea future.",
@@ -386,7 +428,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-13T16:00:02.000Z",
-   "fetched_at": "2026-08-13T23:41:22.087Z",
+   "fetched_at": "2026-08-14T02:00:21.094Z",
    "body": [
     "Our briefing: United unable to financially compete with rivals Rashford back after Barcelona loan but could leave Michael Carrick has stated that Manchester United will not make a…",
     "United unable to financially compete with rivals Rashford back after Barcelona loan but could leave Michael Carrick has stated that Manchester United will not make a £100m signing this summer due to their finances, with the manager also insisting that Marcus Rashford “is our player” despite the forward and club preferring him to depart. In the current window United have invested a total of £85m on Youri Tielemans and Andrey Santos but have never spent £100m on a single transfer. Continue reading...",
@@ -407,7 +449,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-13T15:47:45.000Z",
-   "fetched_at": "2026-08-13T23:41:21.964Z",
+   "fetched_at": "2026-08-14T02:00:21.019Z",
    "body": [
     "Our briefing: Aston Villa's central defender Ezri Konsa is thought to be Arsenal's preferred option in their search for a new central defender.",
     "Aston Villa's central defender Ezri Konsa is thought to be Arsenal's preferred option in their search for a new central defender.",
@@ -428,7 +470,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-13T15:35:07.000Z",
-   "fetched_at": "2026-08-13T23:41:22.193Z",
+   "fetched_at": "2026-08-14T02:00:21.368Z",
    "body": [
     "Our briefing: Chelsea have told Manchester City that they would need to meet their £120m price for the Argentina international by Friday",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -448,15 +490,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-13T15:34:42.000Z",
-   "fetched_at": "2026-08-13T23:41:21.964Z",
+   "fetched_at": "2026-08-14T02:00:21.020Z",
    "body": [
     "Our briefing: Enes Unal leaves Bournemouth to rejoin Spanish club Getafe.",
     "Enes Unal leaves Bournemouth to rejoin Spanish club Getafe.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Bournemouth_v_West_Ham_2023.jpeg/960px-Bournemouth_v_West_Ham_2023.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Egghead06 — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Jogadores_do_AFC_Bournemouth_abra%C3%A7ados.jpg/960px-Jogadores_do_AFC_Bournemouth_abra%C3%A7ados.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "AFC Bournemouth — CC BY 4.0"
   },
   {
    "id": "guardian-football-daily-brian-madjo-tendency-lump-expecta",
@@ -469,7 +511,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-13T15:22:27.000Z",
-   "fetched_at": "2026-08-13T23:41:22.089Z",
+   "fetched_at": "2026-08-14T02:00:21.097Z",
    "body": [
     "Our briefing: Sign up now! Sign up now! Sign up now? Sign up now! Aston Villa supporters could have been forgiven for approaching the new season with feelings of great anxiety, nagging…",
     "Sign up now! Sign up now! Sign up now?",
@@ -483,6 +525,27 @@
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Badalik_Szabolcs_Hungarian_beach_soccer_player.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "imageCredit": "Badalik Szabolcs — CC BY 4.0"
+  },
+  {
+   "id": "bbc-celtic-perseverance-pays-off-midfielder-baur-sig",
+   "slug": "celtic-perseverance-pays-off-as-midfielder-baur-signs-r-sig",
+   "title": "Celtic perseverance pays off as midfielder Baur signs",
+   "dek": "Celtic sign German midfielder Mika Baur from Paderborn for an undisclosed fee, with the 22-year-old signing a four-year contract.",
+   "description": "Celtic sign German midfielder Mika Baur from Paderborn for an undisclosed fee, with the 22-year-old signing a four-year contract.",
+   "category": "Transfers & Rumours",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-13T15:06:40.000Z",
+   "fetched_at": "2026-08-14T02:00:21.023Z",
+   "body": [
+    "Our briefing: Celtic sign German midfielder Mika Baur from Paderborn for an undisclosed fee, with the 22-year-old signing a four-year contract.",
+    "Celtic sign German midfielder Mika Baur from Paderborn for an undisclosed fee, with the 22-year-old signing a four-year contract.",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Seville_celtic_fans.jpg/960px-Seville_celtic_fans.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Vintagekits at English Wikipedia — CC BY 2.5"
   },
   {
    "id": "bbc-celtic-sign-midfielder-baur-paderborn",
@@ -504,27 +567,6 @@
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Seville_celtic_fans.jpg/960px-Seville_celtic_fans.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Vintagekits at English Wikipedia — CC BY 2.5"
-  },
-  {
-   "id": "bbc-celtic-perseverance-pays-off-midfielder-baur-sig",
-   "slug": "celtic-perseverance-pays-off-as-midfielder-baur-signs-r-sig",
-   "title": "Celtic perseverance pays off as midfielder Baur signs",
-   "dek": "Celtic sign German midfielder Mika Baur from Paderborn for an undisclosed fee, with the 22-year-old signing a four-year contract.",
-   "description": "Celtic sign German midfielder Mika Baur from Paderborn for an undisclosed fee, with the 22-year-old signing a four-year contract.",
-   "category": "Transfers & Rumours",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-13T15:06:40.000Z",
-   "fetched_at": "2026-08-13T23:41:21.966Z",
-   "body": [
-    "Our briefing: Celtic sign German midfielder Mika Baur from Paderborn for an undisclosed fee, with the 22-year-old signing a four-year contract.",
-    "Celtic sign German midfielder Mika Baur from Paderborn for an undisclosed fee, with the 22-year-old signing a four-year contract.",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/20170701_SK_Rapid_Wien_vs_Celtic_FC_1742.jpg/960px-20170701_SK_Rapid_Wien_vs_Celtic_FC_1742.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ailura — CC BY-SA 3.0 at"
   },
   {
    "id": "bbc-celtic-perseverance-pays-off-paderborn-midfielde",
@@ -558,7 +600,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-13T15:02:56.000Z",
-   "fetched_at": "2026-08-13T23:41:21.964Z",
+   "fetched_at": "2026-08-14T02:00:21.020Z",
    "body": [
     "Our briefing: As West Ham get ready to start their first league campaign outside the top flight since 2011-12, what's going on in the boardroom?",
     "As West Ham get ready to start their first league campaign outside the top flight since 2011-12, what's going on in the boardroom?",
@@ -579,7 +621,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-13T14:57:15.000Z",
-   "fetched_at": "2026-08-13T23:41:21.964Z",
+   "fetched_at": "2026-08-14T02:00:21.020Z",
    "body": [
     "Our briefing: Premier League kits are going to have a very different look this season after clubs voted to ban gambling on the front of shirts. BBC Sport looks at the history of…",
     "Premier League kits are going to have a very different look this season after clubs voted to ban gambling on the front of shirts. BBC Sport looks at the history of sponsorship, and who is replacing the betting companies.",
@@ -600,7 +642,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-13T14:41:24.000Z",
-   "fetched_at": "2026-08-13T23:41:21.964Z",
+   "fetched_at": "2026-08-14T02:00:21.020Z",
    "body": [
     "Our briefing: England came third in this summer's World Cup - their best performance in a men's competition in 60 years - and now their players are in demand in the transfer market.",
     "England came third in this summer's World Cup - their best performance in a men's competition in 60 years - and now their players are in demand in the transfer market.",
@@ -621,7 +663,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-13T14:18:05.000Z",
-   "fetched_at": "2026-08-13T23:41:21.964Z",
+   "fetched_at": "2026-08-14T02:00:21.020Z",
    "body": [
     "Our briefing: As a move for Manchester City midfielder Rodri looks increasingly likely, BBC Sport takes a look at the options to replace him.",
     "As a move for Manchester City midfielder Rodri looks increasingly likely, BBC Sport takes a look at the options to replace him.",
@@ -642,7 +684,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-13T14:15:29.000Z",
-   "fetched_at": "2026-08-13T23:41:22.193Z",
+   "fetched_at": "2026-08-14T02:00:21.368Z",
    "body": [
     "Our briefing: Tielemans made the move to Old Trafford this summer",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -662,7 +704,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-13T14:08:18.000Z",
-   "fetched_at": "2026-08-13T23:41:21.964Z",
+   "fetched_at": "2026-08-14T02:00:21.019Z",
    "body": [
     "Our briefing: Leicester City's Thai owners King Power are hoping to sell the club after 16 years, for more than £200m.",
     "Leicester City's Thai owners King Power are hoping to sell the club after 16 years, for more than £200m.",
@@ -683,7 +725,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-13T13:47:14.000Z",
-   "fetched_at": "2026-08-13T23:41:21.964Z",
+   "fetched_at": "2026-08-14T02:00:21.020Z",
    "body": [
     "Our briefing: Youri Tielemans apologises to Aston Villa fans after suggesting he had moved to a bigger club in Premier League rivals Manchester United.",
     "Youri Tielemans apologises to Aston Villa fans after suggesting he had moved to a bigger club in Premier League rivals Manchester United.",
@@ -704,7 +746,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-13T13:15:25.000Z",
-   "fetched_at": "2026-08-13T23:41:22.193Z",
+   "fetched_at": "2026-08-14T02:00:21.368Z",
    "body": [
     "Our briefing: Ex-Premier League official Taylor retired from refereeing after officiating at the 2026 World Cup",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -724,14 +766,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-13T13:06:55.000Z",
-   "fetched_at": "2026-08-13T23:41:21.964Z",
+   "fetched_at": "2026-08-14T02:00:21.020Z",
    "body": [
     "Our briefing: BBC Sport looks at the big stories in Europe heading into the 2026-27 season.",
     "BBC Sport looks at the big stories in Europe heading into the 2026-27 season.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -745,7 +787,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-13T12:56:23.000Z",
-   "fetched_at": "2026-08-13T23:41:22.193Z",
+   "fetched_at": "2026-08-14T02:00:21.368Z",
    "body": [
     "Our briefing: Reijnders joined from AC Milan last summer for £46.5m but fell out of favour towards the end of City’s season",
     "Reijnders joined from AC Milan last summer for £46.",
@@ -766,7 +808,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-13T12:52:36.000Z",
-   "fetched_at": "2026-08-13T23:41:22.193Z",
+   "fetched_at": "2026-08-14T02:00:21.368Z",
    "body": [
     "Our briefing: After a big-money move from Nottingham Forest, the midfielder sits down with Richard Jolly to reflect on a year of transfer highs and World Cup lows",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -786,13 +828,13 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-13T12:33:32.000Z",
-   "fetched_at": "2026-08-13T23:41:22.193Z",
+   "fetched_at": "2026-08-14T02:00:21.368Z",
    "body": [
     "Our briefing: The Football Association of Ireland are yet to be joined by neighbours Northern Ireland in pulling their endorsement",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -806,7 +848,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-13T12:18:40.000Z",
-   "fetched_at": "2026-08-13T23:41:21.965Z",
+   "fetched_at": "2026-08-14T02:00:21.021Z",
    "body": [
     "Our briefing: BBC Sport analyses the season ahead for West Ham, who will be playing in the Championship for the first time in 14 years.",
     "BBC Sport analyses the season ahead for West Ham, who will be playing in the Championship for the first time in 14 years.",
@@ -815,47 +857,6 @@
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/West_Ham_Stadium_Store_in_2021.jpg/960px-West_Ham_Stadium_Store_in_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "CybJubal — CC BY-SA 4.0"
-  },
-  {
-   "id": "guardian-fog-time-nearly-lech-poznan-reach-faroe-islands-",
-   "slug": "fog-and-on-time-nearly-lech-poznan-reach-faroe-islands-for-f-ands-",
-   "title": "Fog and on time (nearly): Lech Poznan reach Faroe Islands for fixture after two-day trip",
-   "dek": "Heavy fog had meant planes unable to land in Faroes Polish team will have to play within hours of landing Poland’s champions Lech Poznan will have to play their Europa…",
-   "description": "Heavy fog had meant planes unable to land in Faroes Polish team will have to play within hours of landing Poland’s champions Lech Poznan will have to play their Europa League second leg against the Faroese champions KÍ Klaksvík on Thursday night within hours of landing in the Faroe Islands after their travel was disrupted for two days in a row by heavy fog. Lech won 1-0 in the first leg in Poznan thanks to a late goal from Ivorian striker Yannick Agnero, but on Thursday they were locked in a chaotic race against time to reach the islands for kick-off. Continue reading...",
-   "category": "Match Reports",
-   "league": "Football",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-08-13T12:06:01.000Z",
-   "fetched_at": "2026-08-13T16:24:44.693Z",
-   "body": [
-    "Our briefing: Heavy fog had meant planes unable to land in Faroes Polish team will have to play within hours of landing Poland’s champions Lech Poznan will have to play their Europa…",
-    "Heavy fog had meant planes unable to land in Faroes Polish team will have to play within hours of landing Poland’s champions Lech Poznan will have to play their Europa League second leg against the Faroese champions KÍ Klaksvík on Thursday night within hours of landing in the Faroe Islands after their travel was disrupted for two days in a row by heavy fog. Lech won 1-0 in the first leg in Poznan thanks to a late goal from Ivorian striker Yannick Agnero, but on Thursday they were locked in a chaotic race against time to reach the islands for kick-off. Continue reading...",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-  },
-  {
-   "id": "guardian-fog-time-lech-poznan-race-reach-faroe-islands-eu",
-   "slug": "fog-and-on-time-lech-poznan-race-to-reach-faroe-islands-for--ds-eu",
-   "title": "Fog and on time? Lech Poznan race to reach Faroe Islands for Europa League tie",
-   "dek": "Heavy fog means planes unable to land in Faroes Polish team have been trying to reach Vágar for two days The Europa League second leg between Poland’s champions Lech…",
-   "description": "Heavy fog means planes unable to land in Faroes Polish team have been trying to reach Vágar for two days The Europa League second leg between Poland’s champions Lech Poznan and the Faroese champions KÍ Klaksvík on Thursday evening is at risk, with the Polish team struggling to reach the Faroe Islands on time due to heavy fog. Lech won 1-0 in the first leg in Poznan after a late goal from Ivorian striker Yannick Agnero, but are locked in a race against time to reach the islands for Thursday’s return leg, scheduled for 6.30pm local time. Continue reading...",
-   "category": "Match Reports",
-   "league": "Europa League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-08-13T12:06:01.000Z",
-   "fetched_at": "2026-08-13T13:57:29.056Z",
-   "body": [
-    "Our briefing: Heavy fog means planes unable to land in Faroes Polish team have been trying to reach Vágar for two days The Europa League second leg between Poland’s champions Lech…",
-    "Heavy fog means planes unable to land in Faroes Polish team have been trying to reach Vágar for two days The Europa League second leg between Poland’s champions Lech Poznan and the Faroese champions KÍ Klaksvík on Thursday evening is at risk, with the Polish team struggling to reach the Faroe Islands on time due to heavy fog. Lech won 1-0 in the first leg in Poznan after a late goal from Ivorian striker Yannick Agnero, but are locked in a race against time to reach the islands for Thursday’s return leg, scheduled for 6. 30pm local time.",
-    "Continue reading...",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   }
  ]
 }
