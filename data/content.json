@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-14T10:33:15.857Z",
- "updated_utc": "2026-08-14T10:33Z",
- "cycle": 29778393,
+ "generated_at": "2026-08-14T11:43:46.766Z",
+ "updated_utc": "2026-08-14T11:43Z",
+ "cycle": 29778463,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,7 +16,7 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "guardian-arsenal-talks-over-deal-quansah-transfer-latest-",
+ "hero_id": "bbc-what-s-going-southampton-boss-eckert-s-fa-probe",
  "articles": [
   {
    "id": "independent-transfer-news-live-arsenal-talks-england-defende",
@@ -28,14 +28,161 @@
    "league": "Premier League",
    "source": "independent",
    "sourceName": "The Independent",
-   "published": "2026-08-14T10:19:22.000Z",
-   "fetched_at": "2026-08-14T10:33:09.359Z",
+   "published": "2026-08-14T11:36:07.000Z",
+   "fetched_at": "2026-08-14T11:43:38.273Z",
    "body": [
     "Our briefing: Chelsea have told Man City they have until 5pm today to meet their £120m price for the Argentina international",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Independent."
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg/960px-Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
+   "id": "bbc-what-s-going-southampton-boss-eckert-s-fa-probe",
+   "slug": "what-s-going-on-with-southampton-boss-eckert-s-fa-probe-probe",
+   "title": "What's going on with Southampton boss Eckert's FA probe?",
+   "dek": "While Southampton felt the full force of the EFL's disciplionary powers at the back end of last season, Spygate is far from over with the future of Tonda Eckert still…",
+   "description": "While Southampton felt the full force of the EFL's disciplionary powers at the back end of last season, Spygate is far from over with the future of Tonda Eckert still uncertain.",
+   "category": "News",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-14T11:23:30.000Z",
+   "fetched_at": "2026-08-14T11:43:37.916Z",
+   "body": [
+    "Our briefing: While Southampton felt the full force of the EFL's disciplionary powers at the back end of last season, Spygate is far from over with the future of Tonda Eckert still…",
+    "While Southampton felt the full force of the EFL's disciplionary powers at the back end of last season, Spygate is far from over with the future of Tonda Eckert still uncertain.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Southampton_%2C_Bushes_and_Stadium_-_geograph.org.uk_-_1737889.jpg/960px-Southampton_%2C_Bushes_and_Stadium_-_geograph.org.uk_-_1737889.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Lewis Clarke — CC BY-SA 2.0"
+  },
+  {
+   "id": "guardian-arsenal-talks-over-deal-quansah-transfer-latest-",
+   "slug": "arsenal-in-talks-over-deal-for-quansah-transfer-latest-champ-test-",
+   "title": "Arsenal in talks over deal for Quansah; transfer latest; Championship kicks off; Fifa news: football – live",
+   "dek": "⚽ All the latest football news, comment and previews ⚽ This weekend’s fixtures | Read Football Daily | Mail Stuart Arsenal are in talks with Bayer Leverkusen over Jarell…",
+   "description": "⚽ All the latest football news, comment and previews ⚽ This weekend’s fixtures | Read Football Daily | Mail Stuart Arsenal are in talks with Bayer Leverkusen over Jarell Quansah. The asking price for the England defender expected to be at least €50m (£43m). He joined the German club from Liverpool last summer for an initial £30m, with the Reds inserting a buy-back clause in the deal. Continue reading...",
+   "category": "Transfers & Rumours",
+   "league": "Premier League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-08-14T11:20:05.000Z",
+   "fetched_at": "2026-08-14T11:43:38.170Z",
+   "body": [
+    "Our briefing: ⚽ All the latest football news, comment and previews ⚽ This weekend’s fixtures | Read Football Daily | Mail Stuart Arsenal are in talks with Bayer Leverkusen over Jarell…",
+    "⚽ All the latest football news, comment and previews ⚽ This weekend’s fixtures | Read Football Daily | Mail Stuart Arsenal are in talks with Bayer Leverkusen over Jarell Quansah. The asking price for the England defender expected to be at least €50m (£43m). He joined the German club from Liverpool last summer for an initial £30m, with the Reds inserting a buy-back clause in the deal.",
+    "Continue reading...",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/NDL11904200_Notice_of_Transfer_of_Equipment_Report_%28Shirahama_Arsenal%2C_Osaka_Arsenal%2C_etc.%29_part1.pdf/page1-960px-NDL11904200_Notice_of_Transfer_of_Equipment_Report_%28Shirahama_Arsenal%2C_Osaka_Arsenal%2C_etc.%29_part1.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
+   "id": "bbc-var-timewasting-subs-new-rules-new-season",
+   "slug": "var-timewasting-and-subs-new-rules-for-the-new-season-eason",
+   "title": "VAR, timewasting and subs - new rules for the new season",
+   "dek": "The 2026-27 season will feature an unprecedented number of new laws, mostly designed to tackle tempo disruption and make the game quicker.",
+   "description": "The 2026-27 season will feature an unprecedented number of new laws, mostly designed to tackle tempo disruption and make the game quicker.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-14T11:00:52.000Z",
+   "fetched_at": "2026-08-14T11:43:37.916Z",
+   "body": [
+    "Our briefing: The 2026-27 season will feature an unprecedented number of new laws, mostly designed to tackle tempo disruption and make the game quicker.",
+    "The 2026-27 season will feature an unprecedented number of new laws, mostly designed to tackle tempo disruption and make the game quicker.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "John Shorten — CC BY 4.0"
+  },
+  {
+   "id": "guardian-premier-league-2026-27-preview-no-10-fulham",
+   "slug": "premier-league-2026-27-preview-no-10-fulham-ulham",
+   "title": "Premier League 2026-27 preview No 10: Fulham",
+   "dek": "With Marco Silva leaving after five years can the club take advantage of the links their new coach, Álvaro Arbeloa, has with Real Madrid? Guardian writers’ predicted…",
+   "description": "With Marco Silva leaving after five years can the club take advantage of the links their new coach, Álvaro Arbeloa, has with Real Madrid? Guardian writers’ predicted position: 15th (NB: this is not necessarily John Brewin’s prediction but the average of our writers’ tips) Last season’s position: 11th Continue reading...",
+   "category": "Previews",
+   "league": "Premier League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-08-14T11:00:26.000Z",
+   "fetched_at": "2026-08-14T11:43:38.170Z",
+   "body": [
+    "Our briefing: With Marco Silva leaving after five years can the club take advantage of the links their new coach, Álvaro Arbeloa, has with Real Madrid? Guardian writers’ predicted…",
+    "With Marco Silva leaving after five years can the club take advantage of the links their new coach, Álvaro Arbeloa, has with Real Madrid? Guardian writers’ predicted position: 15th (NB: this is not necessarily John Brewin’s prediction but the average of our writers’ tips) Last season’s position: 11th Continue reading...",
+    "Team news can change right up to kick-off. Bookmark this story for the final line-ups and confirmed sides.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Fulham_Players_Pre-Match_Training_on_7_November_2015.JPG/960px-Fulham_Players_Pre-Match_Training_on_7_November_2015.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Timmy96 — CC BY-SA 4.0"
+  },
+  {
+   "id": "guardian-running-dry-drought-hit-uk-sporting-venues-parch",
+   "slug": "running-dry-drought-hit-uk-sporting-venues-and-parched-pitch-parch",
+   "title": "Running dry: drought-hit UK sporting venues and parched pitches – in pictures",
+   "dek": "With the UK experiencing the driest summer on record, we look at how the weather is affecting the pitches and courses across the country Continue reading...",
+   "description": "With the UK experiencing the driest summer on record, we look at how the weather is affecting the pitches and courses across the country Continue reading...",
+   "category": "Tactics & Analysis",
+   "league": "Football",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-08-14T10:45:56.000Z",
+   "fetched_at": "2026-08-14T11:43:38.170Z",
+   "body": [
+    "Our briefing: With the UK experiencing the driest summer on record, we look at how the weather is affecting the pitches and courses across the country Continue reading...",
+    "With the UK experiencing the driest summer on record, we look at how the weather is affecting the pitches and courses across the country Continue reading...",
+    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
+  },
+  {
+   "id": "independent-enzo-maresca-provides-update-manchester-city-s-p",
+   "slug": "enzo-maresca-provides-update-on-manchester-city-s-pursuit-of-y-s-p",
+   "title": "Enzo Maresca provides update on Manchester City’s pursuit of Enzo Fernandez ahead of Chelsea deadline",
+   "dek": "Manchester City have been keen on the Chelsea midfielder but are unlikely to pay a hefty asking price",
+   "description": "Manchester City have been keen on the Chelsea midfielder but are unlikely to pay a hefty asking price",
+   "category": "Previews",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-08-14T10:42:46.000Z",
+   "fetched_at": "2026-08-14T11:43:38.273Z",
+   "body": [
+    "Our briefing: Manchester City have been keen on the Chelsea midfielder but are unlikely to pay a hefty asking price",
+    "Team news can change right up to kick-off. Bookmark this story for the final line-ups and confirmed sides.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Chelsea_vs_union_1929.jpg/960px-Chelsea_vs_union_1929.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
+   "id": "bbc-arsenal-express-interest-signing-quansah",
+   "slug": "arsenal-express-interest-in-signing-quansah-ansah",
+   "title": "Arsenal express interest in signing Quansah",
+   "dek": "Arsenal express an interest in signing Bayer Leverkusen and England defender Jarell Quansah.",
+   "description": "Arsenal express an interest in signing Bayer Leverkusen and England defender Jarell Quansah.",
+   "category": "Transfers & Rumours",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-14T10:35:26.000Z",
+   "fetched_at": "2026-08-14T11:43:37.916Z",
+   "body": [
+    "Our briefing: Arsenal express an interest in signing Bayer Leverkusen and England defender Jarell Quansah.",
+    "Arsenal express an interest in signing Bayer Leverkusen and England defender Jarell Quansah.",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/NDL11904200_Notice_of_Transfer_of_Equipment_Report_%28Shirahama_Arsenal%2C_Osaka_Arsenal%2C_etc.%29_part2.pdf/page1-960px-NDL11904200_Notice_of_Transfer_of_Equipment_Report_%28Shirahama_Arsenal%2C_Osaka_Arsenal%2C_etc.%29_part2.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
   },
   {
@@ -49,7 +196,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-14T10:16:40.000Z",
-   "fetched_at": "2026-08-14T10:33:09.359Z",
+   "fetched_at": "2026-08-14T11:43:38.273Z",
    "body": [
     "Our briefing: Jimmy Rimmer won the league and European Cup during his time at Aston Villa, while he also lifted the European Cup during his time at Manchester United",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -69,37 +216,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-14T10:13:47.000Z",
-   "fetched_at": "2026-08-14T10:33:09.047Z",
+   "fetched_at": "2026-08-14T11:43:37.916Z",
    "body": [
     "Our briefing: European Cup winner and former Aston Villa and Manchester United goalkeeper Jimmy Rimmer dies at the age of 78.",
     "European Cup winner and former Aston Villa and Manchester United goalkeeper Jimmy Rimmer dies at the age of 78.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "John Shorten — CC BY 4.0"
-  },
-  {
-   "id": "guardian-arsenal-talks-over-deal-quansah-transfer-latest-",
-   "slug": "arsenal-in-talks-over-deal-for-quansah-transfer-latest-champ-test-",
-   "title": "Arsenal in talks over deal for Quansah; transfer latest; Championship kicks off; Fifa news: football – live",
-   "dek": "⚽ All the latest football news, comment and previews ⚽ This weekend’s fixtures | Read Football Daily | Mail Tom Arsenal are in talks with Bayer Leverkusen over Jarell…",
-   "description": "⚽ All the latest football news, comment and previews ⚽ This weekend’s fixtures | Read Football Daily | Mail Tom Arsenal are in talks with Bayer Leverkusen over Jarell Quansah. The asking price for the England defender expected to be at least €50m (£43m). He joined the German club from Liverpool last summer for an initial £30m, with the Reds inserting a buy-back clause in the deal. Continue reading...",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-08-14T10:13:34.000Z",
-   "fetched_at": "2026-08-14T10:33:09.114Z",
-   "body": [
-    "Our briefing: ⚽ All the latest football news, comment and previews ⚽ This weekend’s fixtures | Read Football Daily | Mail Tom Arsenal are in talks with Bayer Leverkusen over Jarell…",
-    "⚽ All the latest football news, comment and previews ⚽ This weekend’s fixtures | Read Football Daily | Mail Tom Arsenal are in talks with Bayer Leverkusen over Jarell Quansah. The asking price for the England defender expected to be at least €50m (£43m). He joined the German club from Liverpool last summer for an initial £30m, with the Reds inserting a buy-back clause in the deal.",
-    "Continue reading...",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/NDL11904200_Notice_of_Transfer_of_Equipment_Report_%28Shirahama_Arsenal%2C_Osaka_Arsenal%2C_etc.%29_part1.pdf/page1-960px-NDL11904200_Notice_of_Transfer_of_Equipment_Report_%28Shirahama_Arsenal%2C_Osaka_Arsenal%2C_etc.%29_part1.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
   },
   {
    "id": "bbc-rangers-pull-out-deal-psv-winger-driouech",
@@ -112,7 +237,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-14T10:05:02.000Z",
-   "fetched_at": "2026-08-14T10:33:09.050Z",
+   "fetched_at": "2026-08-14T11:43:37.918Z",
    "body": [
     "Our briefing: Rangers withdraw from a proposed deal to sign Couhaib Driouech from PSV Eindhoven, with the winger carrying an injury.",
     "Rangers withdraw from a proposed deal to sign Couhaib Driouech from PSV Eindhoven, with the winger carrying an injury.",
@@ -133,7 +258,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-14T10:00:53.000Z",
-   "fetched_at": "2026-08-14T10:33:09.047Z",
+   "fetched_at": "2026-08-14T11:43:37.916Z",
    "body": [
     "Our briefing: Liverpool midfielder Sofie Lundgaard completes a permanent transfer to Eintracht Frankfurt for an undisclosed fee.",
     "Liverpool midfielder Sofie Lundgaard completes a permanent transfer to Eintracht Frankfurt for an undisclosed fee.",
@@ -154,7 +279,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-14T10:00:24.000Z",
-   "fetched_at": "2026-08-14T10:33:09.114Z",
+   "fetched_at": "2026-08-14T11:43:38.170Z",
    "body": [
     "Our briefing: Sunderland and Leeds defied the odds and stayed up last season. Will Coventry, Hull and Ipswich continue the trend? By WhoScored A quarter of a century after their last…",
     "Sunderland and Leeds defied the odds and stayed up last season. Will Coventry, Hull and Ipswich continue the trend? By WhoScored A quarter of a century after their last appearance in the Premier League – following financial ruin, ground-sharing in Northampton and Birmingham and even a spell in League Two – Coventry have finally completed their comeback story.",
@@ -176,15 +301,15 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-14T09:22:36.000Z",
-   "fetched_at": "2026-08-14T10:33:09.114Z",
+   "fetched_at": "2026-08-14T11:43:38.170Z",
    "body": [
     "Our briefing: Kick off the new season in the Championship, League One and League Two with our 16-question quiz By The Football Mine This is a quiz by Richard Foster, who presents the…",
     "Kick off the new season in the Championship, League One and League Two with our 16-question quiz By The Football Mine This is a quiz by Richard Foster, who presents the It Started With A Kick podcast and edits The Football Mine . Continue reading...",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
    "id": "bbc-hammers-boro-go-up-championship-club-club-previe",
@@ -197,7 +322,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-14T09:06:36.000Z",
-   "fetched_at": "2026-08-14T10:33:09.047Z",
+   "fetched_at": "2026-08-14T11:43:37.916Z",
    "body": [
     "Our briefing: BBC Sport correspondents take a closer look at the 24 teams taking part in the 2026-27 Championship season.",
     "BBC Sport correspondents take a closer look at the 24 teams taking part in the 2026-27 Championship season.",
@@ -218,7 +343,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-14T09:02:33.000Z",
-   "fetched_at": "2026-08-14T10:33:09.047Z",
+   "fetched_at": "2026-08-14T11:43:37.916Z",
    "body": [
     "Our briefing: BBC Sport correspondents assess the strengths and weaknesses of all 24 teams competing in League One this season.",
     "BBC Sport correspondents assess the strengths and weaknesses of all 24 teams competing in League One this season.",
@@ -239,7 +364,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-14T09:02:23.000Z",
-   "fetched_at": "2026-08-14T10:33:09.047Z",
+   "fetched_at": "2026-08-14T11:43:37.917Z",
    "body": [
     "Our briefing: BBC Sport correspondents assess the strengths and weaknesses of all 24 teams competing in League Two this season.",
     "BBC Sport correspondents assess the strengths and weaknesses of all 24 teams competing in League Two this season.",
@@ -301,7 +426,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-14T07:48:24.000Z",
-   "fetched_at": "2026-08-14T10:33:09.114Z",
+   "fetched_at": "2026-08-14T11:43:38.170Z",
    "body": [
     "Our briefing: Today’s fluff has sought shade As these glorious pages reported on Thursday, Galatasaray wanted Gabriel Martinelli . In the following 24 hours things changed a bit,…",
     "Today’s fluff has sought shade As these glorious pages reported on Thursday, Galatasaray wanted Gabriel Martinelli . In the following 24 hours things changed a bit, creating greater complexity, something we do not approve of. Arsenal have supposedly been offered the chance to involve the Nigeria striker Victor Osimhen in exchange for the Brazilian, which could be temptong for a side looking for a new No 9.",
@@ -310,7 +435,7 @@
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/NDL11904200_Notice_of_Transfer_of_Equipment_Report_%28Shirahama_Arsenal%2C_Osaka_Arsenal%2C_etc.%29_part2.pdf/page1-960px-NDL11904200_Notice_of_Transfer_of_Equipment_Report_%28Shirahama_Arsenal%2C_Osaka_Arsenal%2C_etc.%29_part2.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Arsenal_parade_2004_-_women.jpg/960px-Arsenal_parade_2004_-_women.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
   },
   {
@@ -324,15 +449,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-14T07:14:05.000Z",
-   "fetched_at": "2026-08-14T10:33:09.047Z",
+   "fetched_at": "2026-08-14T11:43:37.916Z",
    "body": [
     "Our briefing: Our team of FPL experts assess the best and worst picks for 2026-27 from each of the 20 Premier League teams.",
     "Our team of FPL experts assess the best and worst picks for 2026-27 from each of the 20 Premier League teams.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "bbc-who-pick-who-avoid-your-team-s-fpl-assets-ranked",
@@ -366,7 +491,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-14T07:02:42.000Z",
-   "fetched_at": "2026-08-14T10:33:09.359Z",
+   "fetched_at": "2026-08-14T11:43:38.273Z",
    "body": [
     "Our briefing: Reijnders joined from AC Milan last summer for £46.5m but fell out of favour towards the end of City’s season",
     "Reijnders joined from AC Milan last summer for £46.",
@@ -387,7 +512,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-14T07:00:44.000Z",
-   "fetched_at": "2026-08-14T10:33:09.047Z",
+   "fetched_at": "2026-08-14T11:43:37.916Z",
    "body": [
     "Our briefing: Do you know your Red Devils from your Saints? How about your Magpies from your Robins?",
     "Do you know your Red Devils from your Saints? How about your Magpies from your Robins?",
@@ -408,7 +533,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-14T07:00:38.000Z",
-   "fetched_at": "2026-08-14T10:33:09.050Z",
+   "fetched_at": "2026-08-14T11:43:37.919Z",
    "body": [
     "Our briefing: Rangers chase Venezuela striker and agree loan deal for left-back as Celtic are linked with Bosnian based in Czech Republic...",
     "Rangers chase Venezuela striker and agree loan deal for left-back as Celtic are linked with Bosnian based in Czech Republic...",
@@ -429,7 +554,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-14T07:00:21.000Z",
-   "fetched_at": "2026-08-14T10:33:09.115Z",
+   "fetched_at": "2026-08-14T11:43:38.170Z",
    "body": [
     "Our briefing: They may have sold Robbie Ure, their top scorer, to Sevilla, but the team from Uppsala have good reason to believe they can finish the job For most teams, losing a…",
     "They may have sold Robbie Ure, their top scorer, to Sevilla, but the team from Uppsala have good reason to believe they can finish the job For most teams, losing a forward with 15 goals in 15 games midway through the season, amid a historic title chase, might be cause for panic. Sirius, the runaway Allsvenskan leaders, are not most teams. “I’m actually really confident,” says Henrik Castegren, the club captain, when asked about the team’s ability to adapt after Robbie Ure’s move to Sevilla for a club-record fee, reported to be £5.",
@@ -438,8 +563,8 @@
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "YHC — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
   },
   {
    "id": "guardian-lincoln-trust-double-act-second-tier-return-star",
@@ -452,7 +577,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-14T07:00:20.000Z",
-   "fetched_at": "2026-08-14T10:33:09.114Z",
+   "fetched_at": "2026-08-14T11:43:38.170Z",
    "body": [
     "Our briefing: Lincoln’s joint head coaches, Tom Shaw and Chris Cohen, hope Championship rivals underestimate ‘amazing squad’ The last thing the Championship needs is another spying…",
     "Lincoln’s joint head coaches, Tom Shaw and Chris Cohen, hope Championship rivals underestimate ‘amazing squad’ The last thing the Championship needs is another spying scandal, so when a lorry emblazoned with KGB parked up alongside Lincoln City’s training ground on Tuesday lunchtime there was laughter as staff pondered whether the Soviet Union was examining their set pieces. It shows the relaxed atmosphere at one of the second tier’s newest clubs, one that has had a summer of change yet maintained continuity by appointing joint head coaches. Tom Shaw and Chris Cohen have replaced Michael Skubala, who led the Imps to 103 points and promotion back to this level after 65 years away before leaving for Bristol City.",
@@ -461,8 +586,8 @@
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "YHC — CC BY-SA 4.0"
   },
   {
    "id": "bbc-podcast-scottish-league-cup-weekend-preview",
@@ -475,15 +600,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-14T07:00:00.000Z",
-   "fetched_at": "2026-08-14T10:33:09.050Z",
+   "fetched_at": "2026-08-14T11:43:37.919Z",
    "body": [
     "Our briefing: League Cup Weekend: Can Ayr Humble Killie? Can St Mirren Deepen Rangers' Trouble?",
     "League Cup Weekend: Can Ayr Humble Killie? Can St Mirren Deepen Rangers' Trouble?",
     "Team news can change right up to kick-off. Bookmark this story for the final line-ups and confirmed sides.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   },
   {
    "id": "bbc-can-chelsea-go-10th-title-again",
@@ -496,7 +621,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-14T06:34:57.000Z",
-   "fetched_at": "2026-08-14T10:33:09.047Z",
+   "fetched_at": "2026-08-14T11:43:37.916Z",
    "body": [
     "Our briefing: With a new manager at the helm in Xabi Alonso, can Chelsea go from 10th to the Premier League title like they did a decade ago?",
     "With a new manager at the helm in Xabi Alonso, can Chelsea go from 10th to the Premier League title like they did a decade ago?",
@@ -517,14 +642,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-14T06:14:50.000Z",
-   "fetched_at": "2026-08-14T10:33:09.359Z",
+   "fetched_at": "2026-08-14T11:43:38.273Z",
    "body": [
     "Our briefing: The fallout from Spygate continues to loom large but the Championship returns with hopes of a higher standard of football and a fascinating promotion race due to the…",
     "The fallout from Spygate continues to loom large but the Championship returns with hopes of a higher standard of football and a fascinating promotion race due to the expansion of the play-offs.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -538,14 +663,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-14T05:17:23.000Z",
-   "fetched_at": "2026-08-14T10:33:09.047Z",
+   "fetched_at": "2026-08-14T11:43:37.917Z",
    "body": [
     "Our briefing: Work out the identity of today's player in as few attempts as possible.",
     "Work out the identity of today's player in as few attempts as possible.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -559,7 +684,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-14T05:16:06.000Z",
-   "fetched_at": "2026-08-14T10:33:09.047Z",
+   "fetched_at": "2026-08-14T11:43:37.916Z",
    "body": [
     "Our briefing: Enzo Maresca has the difficult task of following Pep Guardiola at Manchester City. BBC Sport analyses the new manager's style and tactics from the pre-season games so…",
     "Enzo Maresca has the difficult task of following Pep Guardiola at Manchester City. BBC Sport analyses the new manager's style and tactics from the pre-season games so far.",
@@ -580,7 +705,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-13T23:47:48.000Z",
-   "fetched_at": "2026-08-14T10:33:09.048Z",
+   "fetched_at": "2026-08-14T11:43:37.917Z",
    "body": [
     "Our briefing: Alfred Johansson's impressive early work at Motherwell continues with a place in the Conference League play-offs - but don't expect the Swede to get carried away.",
     "Alfred Johansson's impressive early work at Motherwell continues with a place in the Conference League play-offs - but don't expect the Swede to get carried away.",
@@ -601,7 +726,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-13T23:43:51.000Z",
-   "fetched_at": "2026-08-14T10:33:09.047Z",
+   "fetched_at": "2026-08-14T11:43:37.916Z",
    "body": [
     "Our briefing: After Rangers' Europa League qualifying defeat by Jagellonia Bialystok, what is going wrong for new manager Derek McInnes and his side so far this season?",
     "After Rangers' Europa League qualifying defeat by Jagellonia Bialystok, what is going wrong for new manager Derek McInnes and his side so far this season?",
@@ -629,8 +754,7 @@
     "Team news can change right up to kick-off. Bookmark this story for the final line-ups and confirmed sides.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Everton_v_tottenham_arg_match_1909.jpg/960px-Everton_v_tottenham_arg_match_1909.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Everton_v_tottenham_arg_match_1909.jpg/960px-Everton_v_tottenham_arg_match_1909.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
    "id": "bbc-nigeria-miss-women-s-world-cup-after-south-afric",
@@ -643,15 +767,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-13T22:49:29.000Z",
-   "fetched_at": "2026-08-14T10:33:09.048Z",
+   "fetched_at": "2026-08-14T11:43:37.917Z",
    "body": [
     "Our briefing: South Africa and Ghana progress to an inter-confederation qualifier for the 2027 Women's World Cup, but Nigeria will miss the tournament for the first time.",
     "South Africa and Ghana progress to an inter-confederation qualifier for the 2027 Women's World Cup, but Nigeria will miss the tournament for the first time.",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
    "id": "bbc-man-city-s-reijnders-set-52m-saudi-move",
@@ -664,7 +788,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-13T22:12:05.000Z",
-   "fetched_at": "2026-08-14T10:33:09.047Z",
+   "fetched_at": "2026-08-14T11:43:37.917Z",
    "body": [
     "Our briefing: Manchester City midfielder Tijjani Reijnders is set to leave following a year at the club after a £52m move was agreed with Saudi Pro-League side Al-Qadsiah.",
     "Manchester City midfielder Tijjani Reijnders is set to leave following a year at the club after a £52m move was agreed with Saudi Pro-League side Al-Qadsiah.",
@@ -685,7 +809,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-13T22:03:35.000Z",
-   "fetched_at": "2026-08-14T10:33:09.048Z",
+   "fetched_at": "2026-08-14T11:43:37.917Z",
    "body": [
     "Our briefing: Barcelona's latest Rodri bid rejected, Tottenham's Djed Spence on verge of Inter Milan move, Arsenal rebuffed in bid for Marc Pubill, plus more.",
     "Barcelona's latest Rodri bid rejected, Tottenham's Djed Spence on verge of Inter Milan move, Arsenal rebuffed in bid for Marc Pubill, plus more.",
@@ -706,7 +830,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-13T21:30:00.000Z",
-   "fetched_at": "2026-08-14T10:33:09.115Z",
+   "fetched_at": "2026-08-14T11:43:38.170Z",
    "body": [
     "Our briefing: Rangers 1-1 Jagiellonia Bialystok (2-3 agg) Spirited Hearts hold Benfica but also out of competition Derek McInnes’s fledgling tenure as Rangers manager is in disarray…",
     "Rangers 1-1 Jagiellonia Bialystok (2-3 agg) Spirited Hearts hold Benfica but also out of competition Derek McInnes’s fledgling tenure as Rangers manager is in disarray after his side exited the Europa League qualifiers with a 3-2 aggregate defeat to Jagiellonia Bialystok after drawing 1-1 at Ibrox. Rangers had lost 2-1 in the first leg in Poland last week but there was optimism when the captain, Lawrence Shankland, levelled the tie on aggregate with a penalty on 19 minutes. Continue reading...",
@@ -727,143 +851,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-13T21:09:51.000Z",
-   "fetched_at": "2026-08-14T10:33:09.048Z",
+   "fetched_at": "2026-08-14T11:43:37.917Z",
    "body": [
     "Our briefing: England head coach Lydia Bedford says she has been told to \"just continue as usual\" before next month's Under-20 Women's World Cup, despite the threat of a Uefa boycott…",
     "England head coach Lydia Bedford says she has been told to \"just continue as usual\" before next month's Under-20 Women's World Cup, despite the threat of a Uefa boycott over an ongoing row with Fifa.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-listen-sportsound-build-up-four-scottish-clubs-e",
-   "slug": "listen-sportsound-build-up-to-four-scottish-clubs-in-europea-ubs-e",
-   "title": "Listen: Sportsound build-up to four Scottish clubs in European action",
-   "dek": "Commentary of Rangers v Jagiellonia in the second leg of their Europa League qualifier.",
-   "description": "Commentary of Rangers v Jagiellonia in the second leg of their Europa League qualifier.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-13T21:00:00.000Z",
-   "fetched_at": "2026-08-13T17:28:42.620Z",
-   "body": [
-    "Our briefing: Commentary of Rangers v Jagiellonia in the second leg of their Europa League qualifier.",
-    "Commentary of Rangers v Jagiellonia in the second leg of their Europa League qualifier.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "John Shorten — CC BY 4.0"
-  },
-  {
-   "id": "bbc-psg-agree-deal-principle-barcelona-s-torres",
-   "slug": "psg-agree-deal-in-principle-for-barcelona-s-torres-orres",
-   "title": "PSG agree deal in principle for Barcelona's Torres",
-   "dek": "Paris St-Germain agree a deal in principle to sign Barcelona forward Ferran Torres from Barcelona for about £43m.",
-   "description": "Paris St-Germain agree a deal in principle to sign Barcelona forward Ferran Torres from Barcelona for about £43m.",
-   "category": "News",
-   "league": "La Liga",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-13T20:36:21.000Z",
-   "fetched_at": "2026-08-14T10:33:09.048Z",
-   "body": [
-    "Our briefing: Paris St-Germain agree a deal in principle to sign Barcelona forward Ferran Torres from Barcelona for about £43m.",
-    "Paris St-Germain agree a deal in principle to sign Barcelona forward Ferran Torres from Barcelona for about £43m.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/LFP_-_Barcelona_vs_Mallorca_pre-match_-_Oct_3rd_2010.jpg/960px-LFP_-_Barcelona_vs_Mallorca_pre-match_-_Oct_3rd_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Paolo Costa Baldi — CC BY-SA 3.0"
-  },
-  {
-   "id": "guardian-championship-spending-hits-record-levels-likely-",
-   "slug": "championship-spending-hits-record-levels-and-likely-to-go-hi-kely-",
-   "title": "Championship spending hits record levels and likely to go higher as playoffs expand",
-   "dek": "With a top-eight finish offering at least a playoff place, the temptation to spend big in pursuit of the Premier League will grow – but so will the risks The…",
-   "description": "With a top-eight finish offering at least a playoff place, the temptation to spend big in pursuit of the Premier League will grow – but so will the risks The Championship’s collective wage bill grew to a record £903m in 2024-25, according to Deloitte’s latest Annual Review of Football Finance. Clubs are paying players enormous sums in their pursuit of Premier League football. With the playoffs expanding this season , the number of owners willing to risk even more money in the hope of securing promotion is only likely to increase. In isolation, the figure of £903m does not signify much. Compared to the Premier League’s £4.4bn salary outlay, it almost looks small. But England’s top division can afford that gargantuan commitment to wages whereas the second tier cannot. The 24 clubs in the Championship earned £942m, meaning salaries consumed 96% of revenue. If there was any surprise in their collective net debt being £1.4bn at the end of 2024-25, it was only that it had reduced from the £1.5bn it was a year earlier. Continue reading...",
-   "category": "Match Reports",
-   "league": "Football",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-08-13T19:00:05.000Z",
-   "fetched_at": "2026-08-14T07:38:13.152Z",
-   "body": [
-    "Our briefing: With a top-eight finish offering at least a playoff place, the temptation to spend big in pursuit of the Premier League will grow – but so will the risks The…",
-    "With a top-eight finish offering at least a playoff place, the temptation to spend big in pursuit of the Premier League will grow – but so will the risks The Championship’s collective wage bill grew to a record £903m in 2024-25, according to Deloitte’s latest Annual Review of Football Finance. Clubs are paying players enormous sums in their pursuit of Premier League football. With the playoffs expanding this season , the number of owners willing to risk even more money in the hope of securing promotion is only likely to increase.",
-    "In isolation, the figure of £903m does not signify much. Compared to the Premier League’s £4. 4bn salary outlay, it almost looks small.",
-    "But England’s top division can afford that gargantuan commitment to wages whereas the second tier cannot. The 24 clubs in the Championship earned £942m, meaning salaries consumed 96% of revenue. If there was any surprise in their collective net debt being £1.",
-    "4bn at the end of 2024-25, it was only that it had reduced from the £1. 5bn it was a year earlier. Continue reading...",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  {
-   "id": "bbc-psv-winger-driouech-ibrox-before-expected-ranger",
-   "slug": "psv-winger-driouech-at-ibrox-before-expected-rangers-move-anger",
-   "title": "PSV winger Driouech at Ibrox before expected Rangers move",
-   "dek": "PSV Eindhoven winger Couhaib Driouech is at Ibrox to watch Rangers face Jagiellonia Bialystok pending a transfer to the Scottish Premiership club.",
-   "description": "PSV Eindhoven winger Couhaib Driouech is at Ibrox to watch Rangers face Jagiellonia Bialystok pending a transfer to the Scottish Premiership club.",
-   "category": "Transfers & Rumours",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-13T18:41:31.000Z",
-   "fetched_at": "2026-08-13T23:41:21.966Z",
-   "body": [
-    "Our briefing: PSV Eindhoven winger Couhaib Driouech is at Ibrox to watch Rangers face Jagiellonia Bialystok pending a transfer to the Scottish Premiership club.",
-    "PSV Eindhoven winger Couhaib Driouech is at Ibrox to watch Rangers face Jagiellonia Bialystok pending a transfer to the Scottish Premiership club.",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Queen%27s_Park_Rangers_F.C._Team_coach_in_Trinity_Square_-_geograph.org.uk_-_2406457.jpg/960px-Queen%27s_Park_Rangers_F.C._Team_coach_in_Trinity_Square_-_geograph.org.uk_-_2406457.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Oxyman — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-carrick-pushing-improve-squad-this-summer",
-   "slug": "carrick-pushing-to-improve-the-squad-this-summer-ummer",
-   "title": "Carrick pushing to improve the squad this summer",
-   "dek": "Ahead of his first full Premier League campaign in charge at Old Trafford, Carrick feels the squad is making good progress.",
-   "description": "Ahead of his first full Premier League campaign in charge at Old Trafford, Carrick feels the squad is making good progress.",
-   "category": "Match Reports",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-13T17:56:48.000Z",
-   "fetched_at": "2026-08-14T10:33:09.048Z",
-   "body": [
-    "Our briefing: Ahead of his first full Premier League campaign in charge at Old Trafford, Carrick feels the squad is making good progress.",
-    "Ahead of his first full Premier League campaign in charge at Old Trafford, Carrick feels the squad is making good progress.",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-arsenal-invite-offers-martinelli-nwaneri",
-   "slug": "arsenal-invite-offers-for-martinelli-and-nwaneri-aneri",
-   "title": "Arsenal invite offers for Martinelli and Nwaneri",
-   "dek": "Arsenal hold talks with Galatasaray over the prospect of selling various squad members as the Gunners invite offers for Gabriel Martinelli and Ethan Nwaneri.",
-   "description": "Arsenal hold talks with Galatasaray over the prospect of selling various squad members as the Gunners invite offers for Gabriel Martinelli and Ethan Nwaneri.",
-   "category": "News",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-13T17:49:02.000Z",
-   "fetched_at": "2026-08-14T10:33:09.048Z",
-   "body": [
-    "Our briefing: Arsenal hold talks with Galatasaray over the prospect of selling various squad members as the Gunners invite offers for Gabriel Martinelli and Ethan Nwaneri.",
-    "Arsenal hold talks with Galatasaray over the prospect of selling various squad members as the Gunners invite offers for Gabriel Martinelli and Ethan Nwaneri.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Arsenal_Stadium_Highbury_east_facade.jpg/960px-Arsenal_Stadium_Highbury_east_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "No machine-readable author provided. Qwghlm~commonswiki assumed (based on copyright claims). — CC BY-SA 3.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   }
  ]
 }
