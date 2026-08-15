@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-15T11:45:23.504Z",
- "updated_utc": "2026-08-15T11:45Z",
- "cycle": 29779905,
+ "generated_at": "2026-08-15T12:38:29.723Z",
+ "updated_utc": "2026-08-15T12:38Z",
+ "cycle": 29779958,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,8 +16,71 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "guardian-efl-s-big-kick-off-psg-sign-torres-romero-joins-",
+ "hero_id": "bbc-belgian-pocognoli-set-scotland-job-gossip",
  "articles": [
+  {
+   "id": "bbc-listen-off-ball-edinburgh-festival",
+   "slug": "listen-off-the-ball-at-the-edinburgh-festival-tival",
+   "title": "Listen: Off the Ball at the Edinburgh Festival",
+   "dek": "The most petty and ill-informed football show on radio.",
+   "description": "The most petty and ill-informed football show on radio.",
+   "category": "Tactics & Analysis",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-15T13:00:00.000Z",
+   "fetched_at": "2026-08-15T12:38:23.039Z",
+   "body": [
+    "Our briefing: The most petty and ill-informed football show on radio.",
+    "The most petty and ill-informed football show on radio.",
+    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-hull-sign-gelhardt-gourna-douath",
+   "slug": "hull-sign-gelhardt-and-gourna-douath-ouath",
+   "title": "Hull sign Gelhardt and Gourna-Douath",
+   "dek": "Hull City sign English forward Joe Gelhardt from Leeds and French midfielder Lucas Gourna-Douath from Red Bull Salzburg for undisclosed fees.",
+   "description": "Hull City sign English forward Joe Gelhardt from Leeds and French midfielder Lucas Gourna-Douath from Red Bull Salzburg for undisclosed fees.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-15T12:03:16.000Z",
+   "fetched_at": "2026-08-15T12:38:23.037Z",
+   "body": [
+    "Our briefing: Hull City sign English forward Joe Gelhardt from Leeds and French midfielder Lucas Gourna-Douath from Red Bull Salzburg for undisclosed fees.",
+    "Hull City sign English forward Joe Gelhardt from Leeds and French midfielder Lucas Gourna-Douath from Red Bull Salzburg for undisclosed fees.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "John Shorten — CC BY 4.0"
+  },
+  {
+   "id": "bbc-belgian-pocognoli-set-scotland-job-gossip",
+   "slug": "belgian-pocognoli-set-for-scotland-job-gossip-ossip",
+   "title": "Belgian Pocognoli set for Scotland job - gossip",
+   "dek": "Belgian tipped for Scotland job, Celtic forward likely moving on and Scottish champions target goalkeeper.",
+   "description": "Belgian tipped for Scotland job, Celtic forward likely moving on and Scottish champions target goalkeeper.",
+   "category": "News",
+   "league": "International",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-15T11:51:50.000Z",
+   "fetched_at": "2026-08-15T12:38:23.040Z",
+   "body": [
+    "Our briefing: Belgian tipped for Scotland job, Celtic forward likely moving on and Scottish champions target goalkeeper.",
+    "Belgian tipped for Scotland job, Celtic forward likely moving on and Scottish champions target goalkeeper.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+  },
   {
    "id": "bbc-cardiff-secure-return-liverpool-loanee-scanlon",
    "slug": "cardiff-secure-return-of-liverpool-loanee-scanlon-anlon",
@@ -29,7 +92,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-15T11:09:18.000Z",
-   "fetched_at": "2026-08-15T11:45:16.660Z",
+   "fetched_at": "2026-08-15T12:38:23.038Z",
    "body": [
     "Our briefing: Liverpool defender Calum Scanlon is back for a second spell with Cardiff City for the 2026-27 Championship season.",
     "Liverpool defender Calum Scanlon is back for a second spell with Cardiff City for the 2026-27 Championship season.",
@@ -50,7 +113,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-15T11:01:57.000Z",
-   "fetched_at": "2026-08-15T11:45:16.897Z",
+   "fetched_at": "2026-08-15T12:38:23.234Z",
    "body": [
     "Our briefing: Jack Hinshelwood is the latest name to be linked with the Premier League champions as they continue talks with Jarell Quansah",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -70,7 +133,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-15T11:00:55.000Z",
-   "fetched_at": "2026-08-15T11:45:16.794Z",
+   "fetched_at": "2026-08-15T12:38:23.168Z",
    "body": [
     "Our briefing: Women’s football has much to gain from the kind of reforms that threats to snub upcoming tournaments might prompt. Infantino should be taken on “And I say to all the…",
     "Women’s football has much to gain from the kind of reforms that threats to snub upcoming tournaments might prompt. Infantino should be taken on “And I say to all the women … Pick the right battles. Pick the right fights.",
@@ -117,7 +180,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-15T10:23:24.000Z",
-   "fetched_at": "2026-08-15T11:45:16.794Z",
+   "fetched_at": "2026-08-15T12:38:23.168Z",
    "body": [
     "Our briefing: Spain World Cup winner signs five-year deal ‘I’m delighted to be beginning a new adventure’ Paris Saint-Germain have signed Spain’s World Cup-winning ⁠forward Ferran…",
     "Spain World Cup winner signs five-year deal ‘I’m delighted to be beginning a new adventure’ Paris Saint-Germain have signed Spain’s World Cup-winning ⁠forward Ferran Torres from Barcelona on a contract until 2031. Financial ​details were not disclosed, but reports said PSG paid €50m (£42. 7m) ⁠for the 26-year-old.",
@@ -139,7 +202,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-15T09:37:31.000Z",
-   "fetched_at": "2026-08-15T11:45:16.659Z",
+   "fetched_at": "2026-08-15T12:38:23.037Z",
    "body": [
     "Our briefing: Ferran Torres, who scored the winning goal for Spain at the World Cup, has joined European champions Paris St-Germain from Barcelona.",
     "Ferran Torres, who scored the winning goal for Spain at the World Cup, has joined European champions Paris St-Germain from Barcelona.",
@@ -182,15 +245,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-15T09:15:00.000Z",
-   "fetched_at": "2026-08-15T11:45:16.660Z",
+   "fetched_at": "2026-08-15T12:38:23.038Z",
    "body": [
     "Our briefing: Wrexham aim for the coming campaign clear after they narrowly missed out on a Championship play-off spot last season.",
     "Wrexham aim for the coming campaign clear after they narrowly missed out on a Championship play-off spot last season.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "John Shorten — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "bbc-palace-sign-khalaili-union-saint-gilloise",
@@ -203,15 +266,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-15T09:03:55.000Z",
-   "fetched_at": "2026-08-15T11:45:16.659Z",
+   "fetched_at": "2026-08-15T12:38:23.037Z",
    "body": [
     "Our briefing: Crystal Palace sign Israel international Ana Khalaili on a deal which runs until 2031.",
     "Crystal Palace sign Israel international Ana Khalaili on a deal which runs until 2031.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "bbc-europa-league-exit-leaves-rangers-counting-finan",
@@ -224,7 +287,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-15T08:31:58.000Z",
-   "fetched_at": "2026-08-15T11:45:16.662Z",
+   "fetched_at": "2026-08-15T12:38:23.040Z",
    "body": [
     "Our briefing: As Rangers struggle on the pitch, there will be an understanding that they need fan loyalty to stay afloat.",
     "As Rangers struggle on the pitch, there will be an understanding that they need fan loyalty to stay afloat.",
@@ -233,6 +296,27 @@
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ibrox_Stadium%2C_Rangers_FC.jpg/960px-Ibrox_Stadium%2C_Rangers_FC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Lesterhobbes764 — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-i-know-i-wasn-t-perfect-romero-joins-atletico-sp",
+   "slug": "i-know-i-wasn-t-perfect-romero-joins-atletico-from-spurs-co-sp",
+   "title": "'I know I wasn't perfect' - Romero joins Atletico from Spurs",
+   "dek": "Cristian Romero says he \"wasn't perfect\" during his five years with Tottenham Hotspur as his move to Atletico Madrid is confirmed.",
+   "description": "Cristian Romero says he \"wasn't perfect\" during his five years with Tottenham Hotspur as his move to Atletico Madrid is confirmed.",
+   "category": "Transfers & Rumours",
+   "league": "La Liga",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-15T07:44:59.000Z",
+   "fetched_at": "2026-08-15T12:38:23.037Z",
+   "body": [
+    "Our briefing: Cristian Romero says he \"wasn't perfect\" during his five years with Tottenham Hotspur as his move to Atletico Madrid is confirmed.",
+    "Cristian Romero says he \"wasn't perfect\" during his five years with Tottenham Hotspur as his move to Atletico Madrid is confirmed.",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lokomotiv_vs_Atletico_Madrid_2020-11-15.jpg/960px-Lokomotiv_vs_Atletico_Madrid_2020-11-15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Anton Zaitsev — CC BY-SA 3.0"
   },
   {
    "id": "bbc-romero-reflects-spurs-stay-atletico-move-confirm",
@@ -287,15 +371,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-15T07:38:19.000Z",
-   "fetched_at": "2026-08-15T11:45:16.660Z",
+   "fetched_at": "2026-08-15T12:38:23.038Z",
    "body": [
     "Our briefing: Fans in Cameroon want a statue built for Michaely Bihina after she made four penalty saves against Morocco to help Cameroon reach the 2026 Wafcon final.",
     "Fans in Cameroon want a statue built for Michaely Bihina after she made four penalty saves against Morocco to help Cameroon reach the 2026 Wafcon final.",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
    "id": "guardian-news-buildup-first-weekend-efl-season-football-u",
@@ -320,8 +404,8 @@
   },
   {
    "id": "bbc-premier-league-clubs-looking-efl-next-semenyo-ez",
-   "slug": "premier-league-clubs-looking-to-efl-for-next-semenyo-eze-yo-ez",
-   "title": "Premier League clubs looking to EFL for next Semenyo & Eze",
+   "slug": "premier-league-clubs-looking-to-efl-for-next-semenyo-and-eze-yo-ez",
+   "title": "Premier League clubs looking to EFL for next Semenyo and Eze",
    "dek": "Premier League clubs are continuing to recruit young players from EFL and Scottish academies for their U21 and B-team squads.",
    "description": "Premier League clubs are continuing to recruit young players from EFL and Scottish academies for their U21 and B-team squads.",
    "category": "News",
@@ -329,14 +413,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-15T07:16:50.000Z",
-   "fetched_at": "2026-08-15T11:45:16.659Z",
+   "fetched_at": "2026-08-15T12:38:23.037Z",
    "body": [
     "Our briefing: Premier League clubs are continuing to recruit young players from EFL and Scottish academies for their U21 and B-team squads.",
     "Premier League clubs are continuing to recruit young players from EFL and Scottish academies for their U21 and B-team squads.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -350,7 +434,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-15T07:00:50.000Z",
-   "fetched_at": "2026-08-15T11:45:16.794Z",
+   "fetched_at": "2026-08-15T12:38:23.167Z",
    "body": [
     "Our briefing: You can’t help but feel the Argentinian with a penchant for red cards has arrived at his spiritual home with his move to Diego Simeone’s Atlético Madrid “He’s not that…",
     "You can’t help but feel the Argentinian with a penchant for red cards has arrived at his spiritual home with his move to Diego Simeone’s Atlético Madrid “He’s not that kind of player” is perhaps the greatest of the co-commentators’ meaningless banalities. Used shortly after a “nice guy” has scythed someone in half about a day after the ball has gone, it is by definition nonsense because if you have scythed someone in half about a day after the ball has gone, then you are indeed that kind of player. But I don’t recall ever hearing anyone saying “the thing is Clive/Brian, he is that kind of player”.",
@@ -372,7 +456,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-15T07:00:50.000Z",
-   "fetched_at": "2026-08-15T11:45:16.794Z",
+   "fetched_at": "2026-08-15T12:38:23.168Z",
    "body": [
     "Our briefing: Florentino Pérez pressed the Special One button again after two straight trophyless seasons at Real, but Lamine Yamal and co remain title favourites A lot has changed…",
     "Florentino Pérez pressed the Special One button again after two straight trophyless seasons at Real, but Lamine Yamal and co remain title favourites A lot has changed since José Mourinho was last appointed Real Madrid manager, but a lot has also not changed. Before his first game in charge in 2010, Spain had just become world champions , their extra-time winner in the final scored by a Barcelona player after their opponents, who had been reduced to 10 men, had tried to kick them off the park. Like then, Mourinho’s task is to take down a Barcelona team that have won two La Liga titles in succession .",
@@ -381,8 +465,8 @@
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Camp_Nou_during_2014_La_Liga_match_FC_Barcelona%282%29_-_Athletic_Bilbao%280%29_10.jpg/960px-Camp_Nou_during_2014_La_Liga_match_FC_Barcelona%282%29_-_Athletic_Bilbao%280%29_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ank Kumar — CC BY-SA 4.0"
+   "image": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+   "imageCredit": null
   },
   {
    "id": "bbc-who-am-i-guess-premier-league-star-no-26",
@@ -395,14 +479,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-15T06:44:46.000Z",
-   "fetched_at": "2026-08-15T11:45:16.660Z",
+   "fetched_at": "2026-08-15T12:38:23.037Z",
    "body": [
     "Our briefing: Work out the identity of today's player in as few attempts as possible.",
     "Work out the identity of today's player in as few attempts as possible.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -416,7 +500,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-15T06:19:19.000Z",
-   "fetched_at": "2026-08-15T11:45:16.659Z",
+   "fetched_at": "2026-08-15T12:38:23.037Z",
    "body": [
     "Our briefing: Danny Rohl explains why he left Rangers for Red Bull Salzburg - where he hopes to win trophies and help develop young players.",
     "Danny Rohl explains why he left Rangers for Red Bull Salzburg - where he hopes to win trophies and help develop young players.",
@@ -437,7 +521,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-15T05:59:18.000Z",
-   "fetched_at": "2026-08-15T11:45:16.659Z",
+   "fetched_at": "2026-08-15T12:38:23.037Z",
    "body": [
     "Our briefing: From Lionel Messi and Cristiano Ronaldo to Erling Haaland and Jude Bellingham, are star names a bigger draw than clubs for young fans?",
     "From Lionel Messi and Cristiano Ronaldo to Erling Haaland and Jude Bellingham, are star names a bigger draw than clubs for young fans?",
@@ -478,7 +562,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-15T05:00:00.000Z",
-   "fetched_at": "2026-08-15T11:45:16.897Z",
+   "fetched_at": "2026-08-15T12:38:23.234Z",
    "body": [
     "Our briefing: The exits of Rodri and Tijjani Reijnders leave Enzo Maresca free to create his own midfield: but as the season starts in earnest in Sunday’s Community Shield it is still…",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -498,7 +582,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-14T21:30:38.000Z",
-   "fetched_at": "2026-08-15T11:45:16.794Z",
+   "fetched_at": "2026-08-15T12:38:23.168Z",
    "body": [
     "Our briefing: Manager’s deal expires at end of the new season ‘They don’t have to worry … I want to be here’ Mikel Arteta has said he is relaxed about his Arsenal contract expiring at…",
     "Manager’s deal expires at end of the new season ‘They don’t have to worry … I want to be here’ Mikel Arteta has said he is relaxed about his Arsenal contract expiring at the end of the new season and believes his side will need to be better than last year to defend their title successfully. The Premier League champions will face Enzo Maresca’s Manchester City in the Community Shield in Cardiff on Sunday and are heavy favourites to win back-to-back league titles for the first time since the 1930s. The departure of Pep Guardiola from their traditional rivals City means Arteta is now the Premier League’s longest-serving manager, with the Spaniard having joined in December 2019.",
@@ -520,7 +604,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-14T21:30:21.000Z",
-   "fetched_at": "2026-08-15T11:45:16.660Z",
+   "fetched_at": "2026-08-15T12:38:23.038Z",
    "body": [
     "Our briefing: Mikel Arteta says supporters \"don't have to worry about\" his future at Arsenal as he wants to extend his contract and the time left on his deal is \"not an issue\".",
     "Mikel Arteta says supporters \"don't have to worry about\" his future at Arsenal as he wants to extend his contract and the time left on his deal is \"not an issue\".",
@@ -541,7 +625,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-14T21:21:18.000Z",
-   "fetched_at": "2026-08-15T11:45:16.794Z",
+   "fetched_at": "2026-08-15T12:38:23.168Z",
    "body": [
     "Our briefing: Raúl Jiménez marked his return to Wolves with the stoppage-time equaliser that saved them from an embarrassing start to their return to the Championship. The Mexico…",
     "Raúl Jiménez marked his return to Wolves with the stoppage-time equaliser that saved them from an embarrassing start to their return to the Championship. The Mexico striker, who scored against England during the World Cup, came off the bench to convert a penalty given for handball by Ryan Alebiosu that would have had VAR questioning whether the defender was in the area when Jackson Tchatchoua’s cross struck his arm. One minor consolation from Wolves’ relegation is that the video assistant referee is no longer their problem.",
@@ -563,7 +647,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-14T21:14:10.000Z",
-   "fetched_at": "2026-08-15T11:45:16.660Z",
+   "fetched_at": "2026-08-15T12:38:23.037Z",
    "body": [
     "Our briefing: Arsenal lead race for Jack Hinshelwood, Barcelona set to make third Rodri bid, Manchester United and Tottenham join Arsenal in discussing Victor Osimhen, plus more.",
     "Arsenal lead race for Jack Hinshelwood, Barcelona set to make third Rodri bid, Manchester United and Tottenham join Arsenal in discussing Victor Osimhen, plus more.",
@@ -590,8 +674,7 @@
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
    "id": "bbc-football-daily",
@@ -604,14 +687,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-14T21:09:00.000Z",
-   "fetched_at": "2026-08-15T11:45:16.660Z",
+   "fetched_at": "2026-08-15T12:38:23.038Z",
    "body": [
     "Our briefing: Arsenal take on Manchester City in the Community Shield on Sunday",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "guardian-wolves-2-2-blackburn-championship-opener-live",
@@ -666,7 +749,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-14T20:24:13.000Z",
-   "fetched_at": "2026-08-15T11:45:16.897Z",
+   "fetched_at": "2026-08-15T12:38:23.234Z",
    "body": [
     "Our briefing: It is understood that the defender will sign for Atletico Madrid in a 40 million euros deal (£34.1m)",
     "It is understood that the defender will sign for Atletico Madrid in a 40 million euros deal (£34.",
@@ -687,7 +770,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-14T19:49:11.000Z",
-   "fetched_at": "2026-08-15T11:45:16.661Z",
+   "fetched_at": "2026-08-15T12:38:23.038Z",
    "body": [
     "Our briefing: Chelsea's new teenage winger Dastan Satpayev joins Championship club Burnley on a season's loan.",
     "Chelsea's new teenage winger Dastan Satpayev joins Championship club Burnley on a season's loan.",
@@ -729,7 +812,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-14T19:10:08.000Z",
-   "fetched_at": "2026-08-15T11:45:16.897Z",
+   "fetched_at": "2026-08-15T12:38:23.234Z",
    "body": [
     "Our briefing: Although majority owners Fenway Sports Group will continue to run day-to-day operations and there will be no change to Liverpool’s transfer budget, 1892 Holdings will now…",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -781,87 +864,6 @@
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dr_Christian_Pathak_at_Chelsea_%26_Westminster_Hospital.jpg/960px-Dr_Christian_Pathak_at_Chelsea_%26_Westminster_Hospital.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Isselerhof — CC BY-SA 4.0"
-  },
-  {
-   "id": "independent-transfer-news-live-chelsea-s-enzo-fernandez-dead",
-   "slug": "news-live-chelsea-s-enzo-fernandez-deadline-passes-arsenal-o--dead",
-   "title": "news LIVE: Chelsea’s Enzo Fernandez deadline passes, Arsenal open Jarell Quansah talks",
-   "dek": "Chelsea told Man City they had until 5pm today to meet their £120m price for the Argentina international",
-   "description": "Chelsea told Man City they had until 5pm today to meet their £120m price for the Argentina international",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-08-14T16:21:11.000Z",
-   "fetched_at": "2026-08-15T06:38:44.289Z",
-   "body": [
-    "Our briefing: Chelsea told Man City they had until 5pm today to meet their £120m price for the Argentina international",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/NDL11904200_Notice_of_Transfer_of_Equipment_Report_%28Shirahama_Arsenal%2C_Osaka_Arsenal%2C_etc.%29_part2.pdf/page1-960px-NDL11904200_Notice_of_Transfer_of_Equipment_Report_%28Shirahama_Arsenal%2C_Osaka_Arsenal%2C_etc.%29_part2.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  {
-   "id": "bbc-burnley-drop-shirt-sponsor-after-42-days",
-   "slug": "burnley-drop-shirt-sponsor-after-42-days--days",
-   "title": "Burnley drop shirt sponsor after 42 days",
-   "dek": "Burnley drop their shirt sponsor just two days before their opening Championship match against West Ham - and only 42 days after signing the deal.",
-   "description": "Burnley drop their shirt sponsor just two days before their opening Championship match against West Ham - and only 42 days after signing the deal.",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-14T16:20:40.000Z",
-   "fetched_at": "2026-08-15T11:45:16.660Z",
-   "body": [
-    "Our briefing: Burnley drop their shirt sponsor just two days before their opening Championship match against West Ham - and only 42 days after signing the deal.",
-    "Burnley drop their shirt sponsor just two days before their opening Championship match against West Ham - and only 42 days after signing the deal.",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
-  },
-  {
-   "id": "bbc-chelsea-say-no-fernandez-move-deadline-passes-bu",
-   "slug": "chelsea-say-no-fernandez-move-as-deadline-passes-but-is-it-r-es-bu",
-   "title": "Chelsea say no Fernandez move as deadline passes - but is it really over?",
-   "dek": "Chelsea's deadline for clubs to bid £120m for midfielder Enzo Fernandez has passed - and they now expect the Argentine to stay at the club this season.",
-   "description": "Chelsea's deadline for clubs to bid £120m for midfielder Enzo Fernandez has passed - and they now expect the Argentine to stay at the club this season.",
-   "category": "News",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-14T16:04:54.000Z",
-   "fetched_at": "2026-08-15T11:45:16.660Z",
-   "body": [
-    "Our briefing: Chelsea's deadline for clubs to bid £120m for midfielder Enzo Fernandez has passed - and they now expect the Argentine to stay at the club this season.",
-    "Chelsea's deadline for clubs to bid £120m for midfielder Enzo Fernandez has passed - and they now expect the Argentine to stay at the club this season.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Stadium_Street%2C_Chelsea_-_geograph.org.uk_-_4585241.jpg/960px-Stadium_Street%2C_Chelsea_-_geograph.org.uk_-_4585241.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Chris Whippet — CC BY-SA 2.0"
-  },
-  {
-   "id": "independent-will-liverpool-s-transfer-budget-change-after-je",
-   "slug": "will-liverpool-s-transfer-budget-change-after-jeff-bezos-inv-er-je",
-   "title": "Will Liverpool’s transfer budget change after Jeff Bezos investment?",
-   "dek": "Amazon owner Bezos, with a wealth of roughly $270bn, is part of a consortium buying a minority stake in Liverpool",
-   "description": "Amazon owner Bezos, with a wealth of roughly $270bn, is part of a consortium buying a minority stake in Liverpool",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-08-14T16:00:51.000Z",
-   "fetched_at": "2026-08-15T11:45:16.897Z",
-   "body": [
-    "Our briefing: Amazon owner Bezos, with a wealth of roughly $270bn, is part of a consortium buying a minority stake in Liverpool",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/6_UCL_trophies_that_Liverpool_FC_won.jpg/960px-6_UCL_trophies_that_Liverpool_FC_won.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
   }
  ]
 }
