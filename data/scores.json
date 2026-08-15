@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-08-15T20:49:00.906Z",
+ "generated_at": "2026-08-15T21:21:21.900Z",
  "matches": [
+  {
+   "league": "La Liga",
+   "home": "Alavés",
+   "away": "Getafe",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
+   "homeScore": 3,
+   "awayScore": 0,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-08-15T17:30Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Sevilla",
+   "away": "Rayo Vallecano",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png",
+   "homeScore": 1,
+   "awayScore": 1,
+   "status": "live",
+   "clock": "78'",
+   "time": "78'",
+   "date": "2026-08-15T19:30Z"
+  },
   {
    "league": "Serie A",
    "home": "Internazionale",
@@ -54,30 +80,17 @@
    "date": "2026-08-22T18:45Z"
   },
   {
-   "league": "La Liga",
-   "home": "Alavés",
-   "away": "Getafe",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
-   "homeScore": 3,
-   "awayScore": 0,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-08-15T17:30Z"
-  },
-  {
-   "league": "La Liga",
-   "home": "Sevilla",
-   "away": "Rayo Vallecano",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png",
+   "league": "Ligue 1",
+   "home": "Marseille",
+   "away": "Strasbourg",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
    "homeScore": 0,
-   "awayScore": 1,
-   "status": "live",
-   "clock": "46'",
-   "time": "46'",
-   "date": "2026-08-15T19:30Z"
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, August 21st at 2:45 PM EDT",
+   "date": "2026-08-21T18:45Z"
   },
   {
    "league": "Bundesliga",
@@ -104,19 +117,6 @@
    "clock": "",
    "time": "Fri, August 21st at 3:00 PM EDT",
    "date": "2026-08-21T19:00Z"
-  },
-  {
-   "league": "Ligue 1",
-   "home": "Marseille",
-   "away": "Strasbourg",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, August 21st at 2:45 PM EDT",
-   "date": "2026-08-21T18:45Z"
   }
  ]
 }
