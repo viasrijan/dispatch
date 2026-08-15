@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-15T15:20:33.843Z",
- "updated_utc": "2026-08-15T15:20Z",
- "cycle": 29780120,
+ "generated_at": "2026-08-15T15:46:02.013Z",
+ "updated_utc": "2026-08-15T15:46Z",
+ "cycle": 29780146,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,8 +16,51 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "guardian-middlesbrough-v-lincoln-bristol-city-v-millwall-",
+ "hero_id": "independent-enzo-fernandez-booed-some-chelsea-fans-stamford-",
  "articles": [
+  {
+   "id": "guardian-middlesbrough-v-lincoln-bristol-city-v-millwall-",
+   "slug": "middlesbrough-v-lincoln-bristol-city-v-millwall-norwich-v-we-wall-",
+   "title": "Middlesbrough v Lincoln, Bristol City v Millwall, Norwich v West Bromwich Albion, and more: football - live",
+   "dek": "⚽ EFL updates on the first weekend of the season ⚽ Live scores | Wolves 2-2 Blackburn | Email Scott FULL TIME: Notts County 1-1 Leicester City. No flying start for…",
+   "description": "⚽ EFL updates on the first weekend of the season ⚽ Live scores | Wolves 2-2 Blackburn | Email Scott FULL TIME: Notts County 1-1 Leicester City. No flying start for Russell Martin and his League One Foxes. GOAL! Reading 3-4 Luton Town (Kodua 90+6). Gideon Kodua completes the comeback for Luton! He comes in from the left and crashes a shot off the crossbar. The ball rebounds and bagatelles awhile, before Kodua has a second go, and slots from six yards! Luton were 3-1 down at the break! Continue reading...",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-08-15T15:37:34.000Z",
+   "fetched_at": "2026-08-15T15:45:54.826Z",
+   "body": [
+    "Our briefing: ⚽ EFL updates on the first weekend of the season ⚽ Live scores | Wolves 2-2 Blackburn | Email Scott FULL TIME: Notts County 1-1 Leicester City. No flying start for…",
+    "⚽ EFL updates on the first weekend of the season ⚽ Live scores | Wolves 2-2 Blackburn | Email Scott FULL TIME: Notts County 1-1 Leicester City. No flying start for Russell Martin and his League One Foxes. GOAL!",
+    "Reading 3-4 Luton Town (Kodua 90+6). Gideon Kodua completes the comeback for Luton! He comes in from the left and crashes a shot off the crossbar.",
+    "The ball rebounds and bagatelles awhile, before Kodua has a second go, and slots from six yards! Luton were 3-1 down at the break! Continue reading...",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": null
+  },
+  {
+   "id": "independent-man-united-v-ac-milan-live-fernandes-misses-pena",
+   "slug": "man-united-v-ac-milan-live-fernandes-misses-penalty-after-am--pena",
+   "title": "Man United v AC Milan LIVE: Fernandes misses penalty after Amorim’s side draw level in pre-season friendly",
+   "dek": "The two clubs conclude their pre-season preparations with a meeting in Wroclaw",
+   "description": "The two clubs conclude their pre-season preparations with a meeting in Wroclaw",
+   "category": "Match Reports",
+   "league": "Serie A",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-08-15T15:33:56.000Z",
+   "fetched_at": "2026-08-15T15:45:54.878Z",
+   "body": [
+    "Our briefing: The two clubs conclude their pre-season preparations with a meeting in Wroclaw",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Stadio_Giuseppe_Meazza_inter_vs_ac_milan_tifo.jpg/960px-Stadio_Giuseppe_Meazza_inter_vs_ac_milan_tifo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Vincenzo.togni — CC BY-SA 4.0"
+  },
   {
    "id": "independent-man-united-v-ac-milan-live-maguire-heads-united-",
    "slug": "man-united-v-ac-milan-live-maguire-heads-united-in-front-aft-ited-",
@@ -49,36 +92,13 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-15T15:10:50.000Z",
-   "fetched_at": "2026-08-15T15:20:26.847Z",
+   "fetched_at": "2026-08-15T15:45:54.878Z",
    "body": [
     "Our briefing: Jack Hinshelwood is the latest name to be linked with the Premier League champions as they continue talks with Jarell Quansah",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Independent."
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg/960px-Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "guardian-middlesbrough-v-lincoln-bristol-city-v-millwall-",
-   "slug": "middlesbrough-v-lincoln-bristol-city-v-millwall-norwich-v-we-wall-",
-   "title": "Middlesbrough v Lincoln, Bristol City v Millwall, Norwich v West Bromwich Albion, and more: football - live",
-   "dek": "⚽ EFL updates on the first weekend of the season ⚽ Live scores | Wolves 2-2 Blackburn | Email Scott FULL TIME: Notts County 1-1 Leicester City. No flying start for…",
-   "description": "⚽ EFL updates on the first weekend of the season ⚽ Live scores | Wolves 2-2 Blackburn | Email Scott FULL TIME: Notts County 1-1 Leicester City. No flying start for Russell Martin and his League One Foxes. GOAL! Reading 3-4 Luton Town (Kodua 90+6). Gideon Kodua completes the comeback for Luton! He comes in from the left and crashes a shot off the crossbar. The ball rebounds and bagatelles awhile, before Kodua has a second go, and slots from six yards! Luton were 3-1 down at the break! Continue reading...",
-   "category": "Match Reports",
-   "league": "Football",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-08-15T15:10:23.000Z",
-   "fetched_at": "2026-08-15T15:20:26.582Z",
-   "body": [
-    "Our briefing: ⚽ EFL updates on the first weekend of the season ⚽ Live scores | Wolves 2-2 Blackburn | Email Scott FULL TIME: Notts County 1-1 Leicester City. No flying start for…",
-    "⚽ EFL updates on the first weekend of the season ⚽ Live scores | Wolves 2-2 Blackburn | Email Scott FULL TIME: Notts County 1-1 Leicester City. No flying start for Russell Martin and his League One Foxes. GOAL!",
-    "Reading 3-4 Luton Town (Kodua 90+6). Gideon Kodua completes the comeback for Luton! He comes in from the left and crashes a shot off the crossbar.",
-    "The ball rebounds and bagatelles awhile, before Kodua has a second go, and slots from six yards! Luton were 3-1 down at the break! Continue reading...",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "imageCredit": null
   },
   {
@@ -92,7 +112,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-15T15:09:08.000Z",
-   "fetched_at": "2026-08-15T15:20:26.847Z",
+   "fetched_at": "2026-08-15T15:45:54.878Z",
    "body": [
     "Our briefing: Fernandez, who is being heavily linked with a move away to Man City, endured some boos as he came on against Real Sociedad in Chelsea’s final pre-season friendly",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -132,7 +152,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-15T14:44:42.000Z",
-   "fetched_at": "2026-08-15T15:20:26.582Z",
+   "fetched_at": "2026-08-15T15:45:54.826Z",
    "body": [
     "Our briefing: Dalby and Gale fire promoted Bolton to 2-1 win Kodua pounces at death as Luton beat Reading 4-3 Sam Dalby and Thierry Gale scored first-half goals as Bolton beat Preston…",
     "Dalby and Gale fire promoted Bolton to 2-1 win Kodua pounces at death as Luton beat Reading 4-3 Sam Dalby and Thierry Gale scored first-half goals as Bolton beat Preston 2-1 to record their first Championship win since March 2019. Last season’s League One playoff final winners have been predicted to struggle on their return to the second tier after seven years away. But in front of a sellout 26,262 crowd at the Toughsheet Community Stadium, Steven Schumacher’s side dominated the longstanding members of this division.",
@@ -154,7 +174,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-15T14:22:51.000Z",
-   "fetched_at": "2026-08-15T15:20:26.847Z",
+   "fetched_at": "2026-08-15T15:45:54.878Z",
    "body": [
     "Our briefing: The exits of Rodri and Tijjani Reijnders leave Enzo Maresca free to create his own midfield: but as the season starts in earnest in Sunday’s Community Shield it is still…",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -174,7 +194,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-15T14:05:07.000Z",
-   "fetched_at": "2026-08-15T15:20:26.847Z",
+   "fetched_at": "2026-08-15T15:45:54.878Z",
    "body": [
     "Our briefing: The Spain forward has completed a €50m switch from Barcelona to the two-time reigning Champions League winners",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -194,7 +214,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-15T14:02:48.000Z",
-   "fetched_at": "2026-08-15T15:20:26.491Z",
+   "fetched_at": "2026-08-15T15:45:54.747Z",
    "body": [
     "Our briefing: Bournemouth vow to \"do better\" after changes to matchday staffing were handled in a manner which \"did not reflect the standards we expect\".",
     "Bournemouth vow to \"do better\" after changes to matchday staffing were handled in a manner which \"did not reflect the standards we expect\".",
@@ -215,7 +235,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-15T13:58:42.000Z",
-   "fetched_at": "2026-08-15T15:20:26.491Z",
+   "fetched_at": "2026-08-15T15:45:54.747Z",
    "body": [
     "Our briefing: Former Monaco head coach Sebastien Pocognoli is identified by the Scottish FA as their prime candidate to replace Steve Clarke.",
     "Former Monaco head coach Sebastien Pocognoli is identified by the Scottish FA as their prime candidate to replace Steve Clarke.",
@@ -236,7 +256,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-15T13:54:09.000Z",
-   "fetched_at": "2026-08-15T15:20:26.491Z",
+   "fetched_at": "2026-08-15T15:45:54.747Z",
    "body": [
     "Our briefing: Newcastle United are in advanced talks as they aim to bring in defender Amar Dedic from Benfica.",
     "Newcastle United are in advanced talks as they aim to bring in defender Amar Dedic from Benfica.",
@@ -280,7 +300,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-15T13:09:59.000Z",
-   "fetched_at": "2026-08-15T15:20:26.582Z",
+   "fetched_at": "2026-08-15T15:45:54.826Z",
    "body": [
     "Our briefing: Belgian would be first non-Scot in role since Berti Vogts Scotland face Slovenia on 26 September in Nations League The Scottish Football Association hopes to name the…",
     "Belgian would be first non-Scot in role since Berti Vogts Scotland face Slovenia on 26 September in Nations League The Scottish Football Association hopes to name the Belgian Sébastien Pocognoli as the successor to Steve Clarke as manager early next week. The 39-year-old, who was sacked by Monaco in June, will become the country’s first non-Scottish manager since Berti Vogts, who was in charge from 2002-04. Clarke’s abrupt departure came as Scotland exited the World Cup at the group stage.",
@@ -323,7 +343,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-15T12:03:16.000Z",
-   "fetched_at": "2026-08-15T15:20:26.491Z",
+   "fetched_at": "2026-08-15T15:45:54.747Z",
    "body": [
     "Our briefing: Hull City sign English forward Joe Gelhardt from Leeds and French midfielder Lucas Gourna-Douath from Red Bull Salzburg for undisclosed fees.",
     "Hull City sign English forward Joe Gelhardt from Leeds and French midfielder Lucas Gourna-Douath from Red Bull Salzburg for undisclosed fees.",
@@ -344,7 +364,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-15T11:51:50.000Z",
-   "fetched_at": "2026-08-15T15:20:26.493Z",
+   "fetched_at": "2026-08-15T15:45:54.749Z",
    "body": [
     "Our briefing: Celtic forward likely moving on as Scottish champions target goalkeeper.",
     "Celtic forward likely moving on as Scottish champions target goalkeeper.",
@@ -386,7 +406,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-15T11:09:18.000Z",
-   "fetched_at": "2026-08-15T15:20:26.492Z",
+   "fetched_at": "2026-08-15T15:45:54.748Z",
    "body": [
     "Our briefing: Liverpool defender Calum Scanlon is back for a second spell with Cardiff City for the 2026-27 Championship season.",
     "Liverpool defender Calum Scanlon is back for a second spell with Cardiff City for the 2026-27 Championship season.",
@@ -407,7 +427,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-15T11:00:55.000Z",
-   "fetched_at": "2026-08-15T15:20:26.582Z",
+   "fetched_at": "2026-08-15T15:45:54.827Z",
    "body": [
     "Our briefing: Women’s football has much to gain from the kind of reforms that threats to snub upcoming tournaments might prompt. Infantino should be taken on “And I say to all the…",
     "Women’s football has much to gain from the kind of reforms that threats to snub upcoming tournaments might prompt. Infantino should be taken on “And I say to all the women … Pick the right battles. Pick the right fights.",
@@ -454,7 +474,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-15T10:23:24.000Z",
-   "fetched_at": "2026-08-15T15:20:26.582Z",
+   "fetched_at": "2026-08-15T15:45:54.827Z",
    "body": [
     "Our briefing: Spain World Cup winner signs five-year deal ‘I’m delighted to be beginning a new adventure’ Paris Saint-Germain have signed Spain’s World Cup-winning ⁠forward Ferran…",
     "Spain World Cup winner signs five-year deal ‘I’m delighted to be beginning a new adventure’ Paris Saint-Germain have signed Spain’s World Cup-winning ⁠forward Ferran Torres from Barcelona on a contract until 2031. Financial ​details were not disclosed, but reports said PSG paid €50m (£42. 7m) ⁠for the 26-year-old.",
@@ -476,7 +496,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-15T09:37:31.000Z",
-   "fetched_at": "2026-08-15T15:20:26.491Z",
+   "fetched_at": "2026-08-15T15:45:54.747Z",
    "body": [
     "Our briefing: Ferran Torres, who scored the winning goal for Spain at the World Cup, has joined European champions Paris St-Germain from Barcelona.",
     "Ferran Torres, who scored the winning goal for Spain at the World Cup, has joined European champions Paris St-Germain from Barcelona.",
@@ -519,7 +539,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-15T09:15:00.000Z",
-   "fetched_at": "2026-08-15T15:20:26.492Z",
+   "fetched_at": "2026-08-15T15:45:54.748Z",
    "body": [
     "Our briefing: Wrexham aim for the coming campaign clear after they narrowly missed out on a Championship play-off spot last season.",
     "Wrexham aim for the coming campaign clear after they narrowly missed out on a Championship play-off spot last season.",
@@ -540,7 +560,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-15T09:03:55.000Z",
-   "fetched_at": "2026-08-15T15:20:26.491Z",
+   "fetched_at": "2026-08-15T15:45:54.747Z",
    "body": [
     "Our briefing: Crystal Palace sign Israel international Ana Khalaili on a deal which runs until 2031.",
     "Crystal Palace sign Israel international Ana Khalaili on a deal which runs until 2031.",
@@ -561,7 +581,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-15T08:31:58.000Z",
-   "fetched_at": "2026-08-15T15:20:26.493Z",
+   "fetched_at": "2026-08-15T15:45:54.749Z",
    "body": [
     "Our briefing: As Rangers struggle on the pitch, there will be an understanding that they need fan loyalty to stay afloat.",
     "As Rangers struggle on the pitch, there will be an understanding that they need fan loyalty to stay afloat.",
@@ -624,7 +644,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-15T07:38:19.000Z",
-   "fetched_at": "2026-08-15T15:20:26.492Z",
+   "fetched_at": "2026-08-15T15:45:54.748Z",
    "body": [
     "Our briefing: Fans in Cameroon want a statue built for Michaely Bihina after she made four penalty saves against Morocco to help Cameroon reach the 2026 Wafcon final.",
     "Fans in Cameroon want a statue built for Michaely Bihina after she made four penalty saves against Morocco to help Cameroon reach the 2026 Wafcon final.",
@@ -666,7 +686,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-15T07:16:50.000Z",
-   "fetched_at": "2026-08-15T15:20:26.491Z",
+   "fetched_at": "2026-08-15T15:45:54.747Z",
    "body": [
     "Our briefing: Premier League clubs are continuing to recruit young players from EFL and Scottish academies for their U21 and B-team squads.",
     "Premier League clubs are continuing to recruit young players from EFL and Scottish academies for their U21 and B-team squads.",
@@ -687,7 +707,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-15T07:00:50.000Z",
-   "fetched_at": "2026-08-15T15:20:26.582Z",
+   "fetched_at": "2026-08-15T15:45:54.827Z",
    "body": [
     "Our briefing: You can’t help but feel the Argentinian with a penchant for red cards has arrived at his spiritual home with his move to Diego Simeone’s Atlético Madrid “He’s not that…",
     "You can’t help but feel the Argentinian with a penchant for red cards has arrived at his spiritual home with his move to Diego Simeone’s Atlético Madrid “He’s not that kind of player” is perhaps the greatest of the co-commentators’ meaningless banalities. Used shortly after a “nice guy” has scythed someone in half about a day after the ball has gone, it is by definition nonsense because if you have scythed someone in half about a day after the ball has gone, then you are indeed that kind of player. But I don’t recall ever hearing anyone saying “the thing is Clive/Brian, he is that kind of player”.",
@@ -709,7 +729,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-15T07:00:50.000Z",
-   "fetched_at": "2026-08-15T15:20:26.583Z",
+   "fetched_at": "2026-08-15T15:45:54.827Z",
    "body": [
     "Our briefing: Florentino Pérez pressed the Special One button again after two straight trophyless seasons at Real, but Lamine Yamal and co remain title favourites A lot has changed…",
     "Florentino Pérez pressed the Special One button again after two straight trophyless seasons at Real, but Lamine Yamal and co remain title favourites A lot has changed since José Mourinho was last appointed Real Madrid manager, but a lot has also not changed. Before his first game in charge in 2010, Spain had just become world champions , their extra-time winner in the final scored by a Barcelona player after their opponents, who had been reduced to 10 men, had tried to kick them off the park. Like then, Mourinho’s task is to take down a Barcelona team that have won two La Liga titles in succession .",
@@ -732,7 +752,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-15T06:44:46.000Z",
-   "fetched_at": "2026-08-15T15:20:26.491Z",
+   "fetched_at": "2026-08-15T15:45:54.747Z",
    "body": [
     "Our briefing: Work out the identity of today's player in as few attempts as possible.",
     "Work out the identity of today's player in as few attempts as possible.",
@@ -753,7 +773,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-15T06:19:19.000Z",
-   "fetched_at": "2026-08-15T15:20:26.491Z",
+   "fetched_at": "2026-08-15T15:45:54.747Z",
    "body": [
     "Our briefing: Danny Rohl explains why he left Rangers for Red Bull Salzburg - where he hopes to win trophies and help develop young players.",
     "Danny Rohl explains why he left Rangers for Red Bull Salzburg - where he hopes to win trophies and help develop young players.",
@@ -774,7 +794,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-15T05:59:18.000Z",
-   "fetched_at": "2026-08-15T15:20:26.492Z",
+   "fetched_at": "2026-08-15T15:45:54.747Z",
    "body": [
     "Our briefing: From Lionel Messi and Cristiano Ronaldo to Erling Haaland and Jude Bellingham, are star names a bigger draw than clubs for young fans?",
     "From Lionel Messi and Cristiano Ronaldo to Erling Haaland and Jude Bellingham, are star names a bigger draw than clubs for young fans?",
@@ -815,7 +835,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-14T21:30:38.000Z",
-   "fetched_at": "2026-08-15T15:20:26.583Z",
+   "fetched_at": "2026-08-15T15:45:54.827Z",
    "body": [
     "Our briefing: Manager’s deal expires at end of the new season ‘They don’t have to worry … I want to be here’ Mikel Arteta has said he is relaxed about his Arsenal contract expiring at…",
     "Manager’s deal expires at end of the new season ‘They don’t have to worry … I want to be here’ Mikel Arteta has said he is relaxed about his Arsenal contract expiring at the end of the new season and believes his side will need to be better than last year to defend their title successfully. The Premier League champions will face Enzo Maresca’s Manchester City in the Community Shield in Cardiff on Sunday and are heavy favourites to win back-to-back league titles for the first time since the 1930s. The departure of Pep Guardiola from their traditional rivals City means Arteta is now the Premier League’s longest-serving manager, with the Spaniard having joined in December 2019.",
@@ -837,7 +857,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-14T21:30:21.000Z",
-   "fetched_at": "2026-08-15T15:20:26.492Z",
+   "fetched_at": "2026-08-15T15:45:54.748Z",
    "body": [
     "Our briefing: Mikel Arteta says supporters \"don't have to worry about\" his future at Arsenal as he wants to extend his contract and the time left on his deal is \"not an issue\".",
     "Mikel Arteta says supporters \"don't have to worry about\" his future at Arsenal as he wants to extend his contract and the time left on his deal is \"not an issue\".",
@@ -846,27 +866,6 @@
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/NDL11904200_Notice_of_Transfer_of_Equipment_Report_%28Shirahama_Arsenal%2C_Osaka_Arsenal%2C_etc.%29_part2.pdf/page1-960px-NDL11904200_Notice_of_Transfer_of_Equipment_Report_%28Shirahama_Arsenal%2C_Osaka_Arsenal%2C_etc.%29_part2.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
-  },
-  {
-   "id": "guardian-ra-l-jim-nez-s-injury-time-penalty-salvages-poin",
-   "slug": "ra-l-jim-nez-s-injury-time-penalty-salvages-point-for-wolves--poin",
-   "title": "Raúl Jiménez’s injury-time penalty salvages point for Wolves against Blackburn",
-   "dek": "Raúl Jiménez marked his return to Wolves with the stoppage-time equaliser that saved them from an embarrassing start to their return to the Championship. The Mexico…",
-   "description": "Raúl Jiménez marked his return to Wolves with the stoppage-time equaliser that saved them from an embarrassing start to their return to the Championship. The Mexico striker, who scored against England during the World Cup, came off the bench to convert a penalty given for handball by Ryan Alebiosu that would have had VAR questioning whether the defender was in the area when Jackson Tchatchoua’s cross struck his arm. One minor consolation from Wolves’ relegation is that the video assistant referee is no longer their problem. Jiménez, who had bought scarves for all supporters in the South Bank in gratitude for their welcome home, tucked away his first goal in this second spell for the club he graced during their recent heyday before leaving for Fulham. Continue reading...",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-08-14T21:21:18.000Z",
-   "fetched_at": "2026-08-15T12:38:23.168Z",
-   "body": [
-    "Our briefing: Raúl Jiménez marked his return to Wolves with the stoppage-time equaliser that saved them from an embarrassing start to their return to the Championship. The Mexico…",
-    "Raúl Jiménez marked his return to Wolves with the stoppage-time equaliser that saved them from an embarrassing start to their return to the Championship. The Mexico striker, who scored against England during the World Cup, came off the bench to convert a penalty given for handball by Ryan Alebiosu that would have had VAR questioning whether the defender was in the area when Jackson Tchatchoua’s cross struck his arm. One minor consolation from Wolves’ relegation is that the video assistant referee is no longer their problem.",
-    "Jiménez, who had bought scarves for all supporters in the South Bank in gratitude for their welcome home, tucked away his first goal in this second spell for the club he graced during their recent heyday before leaving for Fulham. Continue reading...",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Wolverhampton_Wanderers_Players_01112025_%284%29.jpg/960px-Wolverhampton_Wanderers_Players_01112025_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   }
  ]
 }
