@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-16T17:45:48.511Z",
- "updated_utc": "2026-08-16T17:45Z",
- "cycle": 29781705,
+ "generated_at": "2026-08-16T18:30:03.238Z",
+ "updated_utc": "2026-08-16T18:30Z",
+ "cycle": 29781750,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,28 +16,90 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "independent-why-arsenal-s-community-shield-victory-over-man-",
+ "hero_id": "independent-old-issues-resurface-west-ham-championship-draw-",
  "articles": [
+  {
+   "id": "independent-old-issues-resurface-west-ham-championship-draw-",
+   "slug": "old-issues-resurface-for-west-ham-in-championship-draw-at-tu-draw-",
+   "title": "Old issues resurface for West Ham in Championship draw at Turf Moor",
+   "dek": "Burnley 2-2 West Ham: The Irons led by two goals only to drop two points after a late double from Zian Flemming",
+   "description": "Burnley 2-2 West Ham: The Irons led by two goals only to drop two points after a late double from Zian Flemming",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-08-16T18:23:11.000Z",
+   "fetched_at": "2026-08-16T18:29:55.416Z",
+   "body": [
+    "Our briefing: Burnley 2-2 West Ham: The Irons led by two goals only to drop two points after a late double from Zian Flemming",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Jack_Wilshere_-_Hertha_BSC_vs._West_Ham_United_%2820190731%29.jpg/960px-Jack_Wilshere_-_Hertha_BSC_vs._West_Ham_United_%2820190731%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "--Steindy (talk) 16:09, 29 August 2019 (UTC) — CC BY-SA 4.0"
+  },
+  {
+   "id": "independent-why-arsenal-s-community-shield-victory-over-man-",
+   "slug": "why-arsenal-s-community-shield-victory-over-man-city-is-so-o--man-",
+   "title": "Why Arsenal’s Community Shield victory over Man City is so ominous for title rivals",
+   "dek": "Arsenal 3-0 Manchester City: The Gunners won the Community Shield giving Mikel Arteta an early-season triumph while condemning new City boss Enzo Maresca to defeat in his…",
+   "description": "Arsenal 3-0 Manchester City: The Gunners won the Community Shield giving Mikel Arteta an early-season triumph while condemning new City boss Enzo Maresca to defeat in his first game in charge",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-08-16T18:02:05.000Z",
+   "fetched_at": "2026-08-16T18:29:55.416Z",
+   "body": [
+    "Our briefing: Arsenal 3-0 Manchester City: The Gunners won the Community Shield giving Mikel Arteta an early-season triumph while condemning new City boss Enzo Maresca to defeat in his…",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Manchester_City_v_Arsenal%2C_League_Cup_2004-5_-_geograph.org.uk_-_3841596.jpg/960px-Manchester_City_v_Arsenal%2C_League_Cup_2004-5_-_geograph.org.uk_-_3841596.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Richard Cooke — CC BY-SA 2.0"
+  },
   {
    "id": "bbc-belgian-pocognoli-confirmed-scotland-boss",
    "slug": "belgian-pocognoli-confirmed-as-scotland-boss--boss",
    "title": "Belgian Pocognoli confirmed as Scotland boss",
-   "dek": "Former Monaco head coach Sebastien Pocognoli is confirmed as Scotland men's new head coach.",
-   "description": "Former Monaco head coach Sebastien Pocognoli is confirmed as Scotland men's new head coach.",
+   "dek": "The Scottish FA say they have appointed \"one of Europe's brightest emerging coaching talents\" by securing Sebastien Pocognoli as Scotland men's new head coach on a…",
+   "description": "The Scottish FA say they have appointed \"one of Europe's brightest emerging coaching talents\" by securing Sebastien Pocognoli as Scotland men's new head coach on a two-year deal.",
    "category": "News",
    "league": "International",
    "source": "bbc",
    "sourceName": "BBC Sport",
-   "published": "2026-08-16T17:35:41.000Z",
-   "fetched_at": "2026-08-16T17:45:41.403Z",
+   "published": "2026-08-16T17:56:58.000Z",
+   "fetched_at": "2026-08-16T18:29:55.054Z",
    "body": [
-    "Our briefing: Former Monaco head coach Sebastien Pocognoli is confirmed as Scotland men's new head coach.",
-    "Former Monaco head coach Sebastien Pocognoli is confirmed as Scotland men's new head coach.",
+    "Our briefing: The Scottish FA say they have appointed \"one of Europe's brightest emerging coaching talents\" by securing Sebastien Pocognoli as Scotland men's new head coach on a…",
+    "The Scottish FA say they have appointed \"one of Europe's brightest emerging coaching talents\" by securing Sebastien Pocognoli as Scotland men's new head coach on a two-year deal.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "John Shorten — CC BY 4.0"
+  },
+  {
+   "id": "guardian-scotland-appoint-39-year-old-pocognoli-successor",
+   "slug": "scotland-appoint-39-year-old-pocognoli-as-successor-to-clark-essor",
+   "title": "Scotland appoint 39-year-old Pocognoli as successor to Clarke in fresh approach",
+   "dek": "Belgian is the first non-Scot in role since Berti Vogts Scotland face Slovenia on 26 September in Nations League The Scottish Football Association has appointed the…",
+   "description": "Belgian is the first non-Scot in role since Berti Vogts Scotland face Slovenia on 26 September in Nations League The Scottish Football Association has appointed the Belgian Sébastien Pocognoli as the successor to Steve Clarke as manager. The 39-year-old, who was sacked by Monaco in June, will become the country’s first non-Scottish manager since Berti Vogts, who was in charge from 2002 to 2004. Clarke’s abrupt departure came after Scotland were knocked out of the World Cup at the group stage. He had signed a four-year contract extension immediately before the tournament. It quickly became clear the SFA would turn towards a foreign manager with the Danes Jon Dahl Tomasson and Kasper Hjulmand being linked with the position. Continue reading...",
+   "category": "Transfers & Rumours",
+   "league": "International",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-08-16T17:46:42.000Z",
+   "fetched_at": "2026-08-16T18:29:55.268Z",
+   "body": [
+    "Our briefing: Belgian is the first non-Scot in role since Berti Vogts Scotland face Slovenia on 26 September in Nations League The Scottish Football Association has appointed the…",
+    "Belgian is the first non-Scot in role since Berti Vogts Scotland face Slovenia on 26 September in Nations League The Scottish Football Association has appointed the Belgian Sébastien Pocognoli as the successor to Steve Clarke as manager. The 39-year-old, who was sacked by Monaco in June, will become the country’s first non-Scottish manager since Berti Vogts, who was in charge from 2002 to 2004. Clarke’s abrupt departure came after Scotland were knocked out of the World Cup at the group stage.",
+    "He had signed a four-year contract extension immediately before the tournament. It quickly became clear the SFA would turn towards a foreign manager with the Danes Jon Dahl Tomasson and Kasper Hjulmand being linked with the position. Continue reading...",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "YHC — CC BY-SA 4.0"
   },
   {
    "id": "guardian-flemming-s-dramatic-burnley-double-pegs-back-wes",
@@ -50,7 +112,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-16T17:18:51.000Z",
-   "fetched_at": "2026-08-16T17:45:41.474Z",
+   "fetched_at": "2026-08-16T18:29:55.267Z",
    "body": [
     "Our briefing: More games, less money but plenty of entertainment will make it a compelling Championship season for Burnley and West Ham. Zian Flemming’s two late goals secured a…",
     "More games, less money but plenty of entertainment will make it a compelling Championship season for Burnley and West Ham. Zian Flemming’s two late goals secured a much-deserved point for the hosts as the Hammers cracked under pressure in this Premier League tribute act. Maximilian Kilman and Manor Solomon pounced in the box to seemingly set West Ham on their way to victory but Flemming ensured the points were shared, scoring first from the spot and then from a corner.",
@@ -58,8 +120,8 @@
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Jack_Wilshere_-_Hertha_BSC_vs._West_Ham_United_%2820190731%29.jpg/960px-Jack_Wilshere_-_Hertha_BSC_vs._West_Ham_United_%2820190731%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "--Steindy (talk) 16:09, 29 August 2019 (UTC) — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Hertha_BSC_vs._West_Ham_United_20190731_%28066%29_Marko_Gruji%C4%87.jpg/960px-Hertha_BSC_vs._West_Ham_United_20190731_%28066%29_Marko_Gruji%C4%87.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "--Steindy (talk) 15:45, 29 August 2019 (UTC) — CC BY-SA 4.0"
   },
   {
    "id": "bbc-rangers-host-celtic-league-cup-quarter-finals",
@@ -72,7 +134,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-16T17:13:35.000Z",
-   "fetched_at": "2026-08-16T17:45:41.403Z",
+   "fetched_at": "2026-08-16T18:29:55.054Z",
    "body": [
     "Our briefing: Rangers will host Celtic in the Premier Sports Cup quarter-finals with Kilmarnock v Aberdeen the other all top-flight tie.",
     "Rangers will host Celtic in the Premier Sports Cup quarter-finals with Kilmarnock v Aberdeen the other all top-flight tie.",
@@ -81,26 +143,6 @@
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Celtic_Park_during_an_Old_Firm_derby_between_Celtic_FC_and_Rangers_FC.jpg/960px-Celtic_Park_during_an_Old_Firm_derby_between_Celtic_FC_and_Rangers_FC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Vincenzo.togni — CC BY-SA 4.0"
-  },
-  {
-   "id": "independent-why-arsenal-s-community-shield-victory-over-man-",
-   "slug": "why-arsenal-s-community-shield-victory-over-man-city-is-so-o--man-",
-   "title": "Why Arsenal’s Community Shield victory over Man City is so ominous for title rivals",
-   "dek": "Arsenal 3-0 Manchester City: The Gunners won the Community Shield giving Mikel Arteta an early-season triumph while condemning new City boss Enzo Maresca to defeat in his…",
-   "description": "Arsenal 3-0 Manchester City: The Gunners won the Community Shield giving Mikel Arteta an early-season triumph while condemning new City boss Enzo Maresca to defeat in his first game in charge",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-08-16T17:08:25.000Z",
-   "fetched_at": "2026-08-16T17:45:41.554Z",
-   "body": [
-    "Our briefing: Arsenal 3-0 Manchester City: The Gunners won the Community Shield giving Mikel Arteta an early-season triumph while condemning new City boss Enzo Maresca to defeat in his…",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Manchester_City_v_Arsenal%2C_League_Cup_2004-5_-_geograph.org.uk_-_3841596.jpg/960px-Manchester_City_v_Arsenal%2C_League_Cup_2004-5_-_geograph.org.uk_-_3841596.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Richard Cooke — CC BY-SA 2.0"
   },
   {
    "id": "guardian-burnley-v-west-ham-championship-it-happened",
@@ -135,7 +177,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-16T16:46:36.000Z",
-   "fetched_at": "2026-08-16T17:45:41.474Z",
+   "fetched_at": "2026-08-16T18:29:55.267Z",
    "body": [
     "Our briefing: Al-Nassr and Portugal forward expects to retire soon Ronaldo has more than 950 goals for club and country Cristiano Ronaldo believes this year is “probably” his last as a…",
     "Al-Nassr and Portugal forward expects to retire soon Ronaldo has more than 950 goals for club and country Cristiano Ronaldo believes this year is “probably” his last as a professional footballer, the 41-year-old Portugal captain said in an interview with Vogue magazine published on Sunday. Ronaldo, who has established his place among football’s all-time greats with more than 950 goals for club and country, had previously spoken of retiring “soon” or within “one or two years”. Continue reading...",
@@ -198,7 +240,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-16T16:33:16.000Z",
-   "fetched_at": "2026-08-16T17:45:41.403Z",
+   "fetched_at": "2026-08-16T18:29:55.054Z",
    "body": [
     "Our briefing: Cristiano Ronaldo says this season will probably be his last as a player after a glittering football career.",
     "Cristiano Ronaldo says this season will probably be his last as a player after a glittering football career.",
@@ -219,7 +261,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-16T16:21:54.000Z",
-   "fetched_at": "2026-08-16T17:45:41.554Z",
+   "fetched_at": "2026-08-16T18:29:55.416Z",
    "body": [
     "Our briefing: Watford 2-1 Southampton : Tonda Eckert’s side had no answer to the home team’s energy and tenacity at Vicarage Road",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -239,7 +281,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-16T16:18:45.000Z",
-   "fetched_at": "2026-08-16T17:45:41.403Z",
+   "fetched_at": "2026-08-16T18:29:55.054Z",
    "body": [
     "Our briefing: How Arsenal and Man City's players rated following the Premier League champions' comfortable 3-0 victory over the FA Cup winners in the Community Shield.",
     "How Arsenal and Man City's players rated following the Premier League champions' comfortable 3-0 victory over the FA Cup winners in the Community Shield.",
@@ -281,7 +323,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-16T16:06:30.000Z",
-   "fetched_at": "2026-08-16T17:45:41.474Z",
+   "fetched_at": "2026-08-16T18:29:55.267Z",
    "body": [
     "Our briefing: For Enzo Maresca, a miserable first meaningful game in charge of Manchester City that began with Arsenal seizing the lead after 24.5 seconds ended with Mikel Arteta’s…",
     "For Enzo Maresca, a miserable first meaningful game in charge of Manchester City that began with Arsenal seizing the lead after 24. 5 seconds ended with Mikel Arteta’s side lifting the Community Shield. Arsenal eviscerated City, Riccardo Calafiori’s smart opener after Myles Lewis-Skelly’s brilliant pass seemingly leaving their opponents with irrecoverable damage.",
@@ -305,7 +347,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-16T15:58:28.000Z",
-   "fetched_at": "2026-08-16T17:45:41.554Z",
+   "fetched_at": "2026-08-16T18:29:55.416Z",
    "body": [
     "Our briefing: Arsenal 3-0 Manchester City: Mikel Arteta’s side outclassed City in a dominant showing - and ominous sign for their rivals ahead of the new season",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -376,6 +418,28 @@
    "imageCredit": "UMNICK — CC BY-SA 3.0"
   },
   {
+   "id": "guardian-nabizada-stunner-edges-watford-past-southampton-",
+   "slug": "nabizada-stunner-edges-watford-past-southampton-as-spygate-s-pton-",
+   "title": "Nabizada stunner edges Watford past Southampton as ‘Spygate’ still looms large",
+   "dek": "Southampton will have to get used to being barracked as they travel the Championship this autumn, the “Spygate” team set to be everyone’s favourite boo boys in the second…",
+   "description": "Southampton will have to get used to being barracked as they travel the Championship this autumn, the “Spygate” team set to be everyone’s favourite boo boys in the second tier. Certainly that was the case in Hertfordshire, with Watford fans and players alike beside themselves after a hard-fought victory, decided by two memorable first-half goals. Tonda Eckert, the Southampton head coach, remains under investigation for his part in the Spygate affair and presented a subdued figure both during and after this contest. He insisted that his team were more united than ever after suffering the indignity of being removed from last season’s playoffs, “but it would be easier to say that after a victory”, Eckert acknowledged. Continue reading...",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-08-16T14:44:07.000Z",
+   "fetched_at": "2026-08-16T18:29:55.267Z",
+   "body": [
+    "Our briefing: Southampton will have to get used to being barracked as they travel the Championship this autumn, the “Spygate” team set to be everyone’s favourite boo boys in the second…",
+    "Southampton will have to get used to being barracked as they travel the Championship this autumn, the “Spygate” team set to be everyone’s favourite boo boys in the second tier. Certainly that was the case in Hertfordshire, with Watford fans and players alike beside themselves after a hard-fought victory, decided by two memorable first-half goals. Tonda Eckert, the Southampton head coach, remains under investigation for his part in the Spygate affair and presented a subdued figure both during and after this contest.",
+    "He insisted that his team were more united than ever after suffering the indignity of being removed from last season’s playoffs, “but it would be easier to say that after a victory”, Eckert acknowledged. Continue reading...",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Southampton_Stickers_22112025_%281%29.jpg/960px-Southampton_Stickers_22112025_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
    "id": "guardian-amin-nabizada-s-solo-stunner-edges-watford-past-",
    "slug": "amin-nabizada-s-solo-stunner-edges-watford-past-southampton-past-",
    "title": "Amin Nabizada’s solo stunner edges Watford past Southampton",
@@ -395,8 +459,7 @@
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Southampton_Stickers_22112025_%281%29.jpg/960px-Southampton_Stickers_22112025_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Southampton_Stickers_22112025_%281%29.jpg/960px-Southampton_Stickers_22112025_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
    "id": "guardian-nabizada-s-breakaway-solo-stunner-edges-watford-",
@@ -451,15 +514,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-16T13:38:08.000Z",
-   "fetched_at": "2026-08-16T17:45:41.403Z",
+   "fetched_at": "2026-08-16T18:29:55.054Z",
    "body": [
     "Our briefing: Aston Villa close in on the signing of Parma goalkeeper Zion Suzuki, with Emi Martinez's future in increasing doubt.",
     "Aston Villa close in on the signing of Parma goalkeeper Zion Suzuki, with Emi Martinez's future in increasing doubt.",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "YHC — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
   },
   {
    "id": "independent-arsenal-vs-manchester-city-live-saka-rice-left-b",
@@ -492,7 +555,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-16T12:52:42.000Z",
-   "fetched_at": "2026-08-16T17:45:41.404Z",
+   "fetched_at": "2026-08-16T18:29:55.055Z",
    "body": [
     "Our briefing: Leeds agree an £8.5m deal to sign defender Nico Elvedi, who is set to have a medical on Monday.",
     "Leeds agree an £8. 5m deal to sign defender Nico Elvedi, who is set to have a medical on Monday.",
@@ -513,7 +576,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-16T12:03:40.000Z",
-   "fetched_at": "2026-08-16T17:45:41.404Z",
+   "fetched_at": "2026-08-16T18:29:55.055Z",
    "body": [
     "Our briefing: Coventry City agree a deal worth about £17m for Nottingham Forest striker Taiwo Awoniyi.",
     "Coventry City agree a deal worth about £17m for Nottingham Forest striker Taiwo Awoniyi.",
@@ -554,7 +617,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-16T11:00:14.000Z",
-   "fetched_at": "2026-08-16T17:45:41.404Z",
+   "fetched_at": "2026-08-16T18:29:55.055Z",
    "body": [
     "Our briefing: Manchester United defender Harry Maguire says he hopes Marcus Rashford will stay at the club because he can improve Michael Carrick's team.",
     "Manchester United defender Harry Maguire says he hopes Marcus Rashford will stay at the club because he can improve Michael Carrick's team.",
@@ -616,7 +679,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-16T09:47:03.000Z",
-   "fetched_at": "2026-08-16T17:45:41.475Z",
+   "fetched_at": "2026-08-16T18:29:55.268Z",
    "body": [
     "Our briefing: Emiliano Martínez potentially heading for Villa exit England’s Spence completes move to Inter from Spurs Aston Villa are preparing for the potential exit of goalkeeper…",
     "Emiliano Martínez potentially heading for Villa exit England’s Spence completes move to Inter from Spurs Aston Villa are preparing for the potential exit of goalkeeper Emiliano Martínez by accelerating a move for Parma’s Zion Suzuki. Juventus have revived their interest in Martínez, who is open to leaving after six seasons at Villa and is increasingly likely to depart during this transfer window. Villa are advancing a deal to sign Suzuki as the Argentina No 1’s replacement.",
@@ -639,7 +702,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-16T08:00:02.000Z",
-   "fetched_at": "2026-08-16T17:45:41.554Z",
+   "fetched_at": "2026-08-16T18:29:55.416Z",
    "body": [
     "Our briefing: Jack Hinshelwood is the latest name to be linked with the Premier League champions as they continue talks with Jarell Quansah",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -659,13 +722,13 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-16T07:10:08.000Z",
-   "fetched_at": "2026-08-16T17:45:41.554Z",
+   "fetched_at": "2026-08-16T18:29:55.416Z",
    "body": [
     "Our briefing: Haaland’s goalscoring ability has counted against him as Maresca picks Bernardo Silva’s successor",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -679,7 +742,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-16T07:09:07.000Z",
-   "fetched_at": "2026-08-16T17:45:41.554Z",
+   "fetched_at": "2026-08-16T18:29:55.416Z",
    "body": [
     "Our briefing: The Community Shield is traditionally held at Wembley but concert clashes have forced a change in venue",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
@@ -699,7 +762,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-16T07:00:20.000Z",
-   "fetched_at": "2026-08-16T17:45:41.475Z",
+   "fetched_at": "2026-08-16T18:29:55.267Z",
    "body": [
     "Our briefing: The Guardian’s fans’ network looks ahead to the new season: fresh talent, weak links, and who will be sacked first Having finally got the title monkey off our back, and…",
     "The Guardian’s fans’ network looks ahead to the new season: fresh talent, weak links, and who will be sacked first Having finally got the title monkey off our back, and with much of the competition in a state of flux, there’s plenty of optimism. Obviously the target is for Arteta to sustain the same appetite and intensity to mount a credible defence. The big questions are whether we can reproduce the same resilience at the back with Saliba on the long-term missing list, and will the introduction of Guimarães be the catalyst for the sort of midfield chemistry we’ll need to carve open opponents who plan to park the bus?",
@@ -721,7 +784,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-16T07:00:20.000Z",
-   "fetched_at": "2026-08-16T17:45:41.475Z",
+   "fetched_at": "2026-08-16T18:29:55.268Z",
    "body": [
     "Our briefing: Uncertainty about the club’s future was matched by some on the pitch in 1-1 draw with Notts County If Leicester thought this season was going to be the footballing…",
     "Uncertainty about the club’s future was matched by some on the pitch in 1-1 draw with Notts County If Leicester thought this season was going to be the footballing equivalent of a gap year, visiting new places and learning some life lessons before returning home, then they were mistaken. Being outfought and outperformed by Notts County, a well-organised and energetic team promoted from the fourth tier, brought the harsh reality of life to the fore on Saturday. Russell Martin’s desire to play out from the back provided the fragile foundation of a dispiriting performance for a team tipped to storm back up.",
@@ -744,7 +807,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-16T07:00:19.000Z",
-   "fetched_at": "2026-08-16T17:45:41.475Z",
+   "fetched_at": "2026-08-16T18:29:55.267Z",
    "body": [
     "Our briefing: After glory days of Park Ji-sung and Son Heung-min, the new season could be Korean-free for first time since 2005 It has been a cruel summer for South Korea. The national…",
     "After glory days of Park Ji-sung and Son Heung-min, the new season could be Korean-free for first time since 2005 It has been a cruel summer for South Korea. The national team crashed and burned at the World Cup, the police are investigating the football association, reports have emerged about bribes paid to foreign referees in 2011 and 2012 and there is a real prospect of the English Premier League being Korean-free for the first time since 2005. That was when Park Ji-sung signed for Manchester United, to start a love affair between the Land of the Morning Calm and England’s top tier that has continued ever since.",
@@ -766,14 +829,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-16T05:48:53.000Z",
-   "fetched_at": "2026-08-16T17:45:41.404Z",
+   "fetched_at": "2026-08-16T18:29:55.055Z",
    "body": [
     "Our briefing: Work out the identity of today's player in as few attempts as possible.",
     "Work out the identity of today's player in as few attempts as possible.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -787,7 +850,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-16T05:29:55.000Z",
-   "fetched_at": "2026-08-16T17:45:41.404Z",
+   "fetched_at": "2026-08-16T18:29:55.055Z",
    "body": [
     "Our briefing: Premier League champions Arsenal take on FA Cup winners Manchester City in Sunday's Community Shield - but would winning suggest a successful season ahead?",
     "Premier League champions Arsenal take on FA Cup winners Manchester City in Sunday's Community Shield - but would winning suggest a successful season ahead?",
@@ -796,68 +859,6 @@
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Kiran891 — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-strong-favourites-or-tougher-task-will-arsenal-d",
-   "slug": "strong-favourites-or-tougher-task-will-arsenal-defend-their--nal-d",
-   "title": "Strong favourites or tougher task - will Arsenal defend their title?",
-   "dek": "Arsenal begin this season as Premier League champions but just how difficult is it to defend the league title, and how well equipped are they for the challenge?",
-   "description": "Arsenal begin this season as Premier League champions but just how difficult is it to defend the league title, and how well equipped are they for the challenge?",
-   "category": "Tactics & Analysis",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-16T05:20:47.000Z",
-   "fetched_at": "2026-08-16T13:31:41.712Z",
-   "body": [
-    "Our briefing: Arsenal begin this season as Premier League champions but just how difficult is it to defend the league title, and how well equipped are they for the challenge?",
-    "Arsenal begin this season as Premier League champions but just how difficult is it to defend the league title, and how well equipped are they for the challenge?",
-    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Arsenal_Stadium_in_Tula.jpg/960px-Arsenal_Stadium_in_Tula.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "UMNICK — CC BY-SA 3.0"
-  },
-  {
-   "id": "bbc-villa-begin-suzuki-talks-sunday-s-gossip",
-   "slug": "villa-begin-suzuki-talks-sunday-s-gossip-ossip",
-   "title": "Villa begin Suzuki talks - Sunday's gossip",
-   "dek": "Aston Villa are in negotiations over Zion Suzuki, boosting Juventus' hope of signing Emiliano Martinez, while Arsenal are told price for Victor Osimhen, plus more.",
-   "description": "Aston Villa are in negotiations over Zion Suzuki, boosting Juventus' hope of signing Emiliano Martinez, while Arsenal are told price for Victor Osimhen, plus more.",
-   "category": "Transfers & Rumours",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-15T20:23:00.000Z",
-   "fetched_at": "2026-08-16T17:45:41.405Z",
-   "body": [
-    "Our briefing: Aston Villa are in negotiations over Zion Suzuki, boosting Juventus' hope of signing Emiliano Martinez, while Arsenal are told price for Victor Osimhen, plus more.",
-    "Aston Villa are in negotiations over Zion Suzuki, boosting Juventus' hope of signing Emiliano Martinez, while Arsenal are told price for Victor Osimhen, plus more.",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
-  },
-  {
-   "id": "independent-scotland-line-up-young-belgian-coach-replace-ste",
-   "slug": "scotland-line-up-young-belgian-coach-to-replace-steve-clarke-e-ste",
-   "title": "Scotland line up young Belgian coach to replace Steve Clarke",
-   "dek": "Sebastien Pocognoli has had spells with Monaco and Union Saint-Gilloise and looks set to become just the second foreign manager of Scotland",
-   "description": "Sebastien Pocognoli has had spells with Monaco and Union Saint-Gilloise and looks set to become just the second foreign manager of Scotland",
-   "category": "News",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-08-15T20:22:37.000Z",
-   "fetched_at": "2026-08-16T17:45:41.554Z",
-   "body": [
-    "Our briefing: Sebastien Pocognoli has had spells with Monaco and Union Saint-Gilloise and looks set to become just the second foreign manager of Scotland",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   }
  ]
 }
