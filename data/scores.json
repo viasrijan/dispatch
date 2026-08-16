@@ -1,45 +1,6 @@
 {
- "generated_at": "2026-08-16T16:52:02.325Z",
+ "generated_at": "2026-08-16T17:20:06.994Z",
  "matches": [
-  {
-   "league": "La Liga",
-   "home": "Racing Santander",
-   "away": "Villarreal",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
-   "homeScore": 2,
-   "awayScore": 2,
-   "status": "live",
-   "clock": "87'",
-   "time": "87'",
-   "date": "2026-08-16T15:00Z"
-  },
-  {
-   "league": "La Liga",
-   "home": "Espanyol",
-   "away": "Levante",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Sun, August 16th at 1:00 PM EDT",
-   "date": "2026-08-16T17:00Z"
-  },
-  {
-   "league": "Premier League",
-   "home": "Arsenal",
-   "away": "Coventry City",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, August 21st at 3:00 PM EDT",
-   "date": "2026-08-21T19:00Z"
-  },
   {
    "league": "Serie A",
    "home": "Internazionale",
@@ -93,17 +54,17 @@
    "date": "2026-08-22T18:45Z"
   },
   {
-   "league": "Ligue 1",
-   "home": "Marseille",
-   "away": "Strasbourg",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
+   "league": "Premier League",
+   "home": "Arsenal",
+   "away": "Coventry City",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
    "homeScore": 0,
    "awayScore": 0,
    "status": "pre",
    "clock": "",
-   "time": "Fri, August 21st at 2:45 PM EDT",
-   "date": "2026-08-21T18:45Z"
+   "time": "Fri, August 21st at 3:00 PM EDT",
+   "date": "2026-08-21T19:00Z"
   },
   {
    "league": "Bundesliga",
@@ -117,6 +78,45 @@
    "clock": "",
    "time": "Fri, August 28th at 2:30 PM EDT",
    "date": "2026-08-28T18:30Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Racing Santander",
+   "away": "Villarreal",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+   "homeScore": 2,
+   "awayScore": 2,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-08-16T15:00Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Espanyol",
+   "away": "Levante",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
+   "homeScore": 1,
+   "awayScore": 0,
+   "status": "live",
+   "clock": "16'",
+   "time": "16'",
+   "date": "2026-08-16T17:00Z"
+  },
+  {
+   "league": "Ligue 1",
+   "home": "Marseille",
+   "away": "Strasbourg",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, August 21st at 2:45 PM EDT",
+   "date": "2026-08-21T18:45Z"
   }
  ]
 }
