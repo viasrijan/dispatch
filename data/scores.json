@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-17T05:35:23.701Z",
+ "generated_at": "2026-08-17T06:56:08.686Z",
  "matches": [
+  {
+   "league": "Premier League",
+   "home": "Arsenal",
+   "away": "Coventry City",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, August 21st at 3:00 PM EDT",
+   "date": "2026-08-21T19:00Z"
+  },
   {
    "league": "La Liga",
    "home": "Racing Santander",
@@ -26,19 +39,6 @@
    "clock": "",
    "time": "FT",
    "date": "2026-08-16T17:00Z"
-  },
-  {
-   "league": "Premier League",
-   "home": "Arsenal",
-   "away": "Coventry City",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, August 21st at 3:00 PM EDT",
-   "date": "2026-08-21T19:00Z"
   },
   {
    "league": "Serie A",
@@ -93,19 +93,6 @@
    "date": "2026-08-22T18:45Z"
   },
   {
-   "league": "Bundesliga",
-   "home": "Bayern Munich",
-   "away": "VfB Stuttgart",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, August 28th at 2:30 PM EDT",
-   "date": "2026-08-28T18:30Z"
-  },
-  {
    "league": "Ligue 1",
    "home": "Marseille",
    "away": "Strasbourg",
@@ -117,6 +104,19 @@
    "clock": "",
    "time": "Fri, August 21st at 2:45 PM EDT",
    "date": "2026-08-21T18:45Z"
+  },
+  {
+   "league": "Bundesliga",
+   "home": "Bayern Munich",
+   "away": "VfB Stuttgart",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, August 28th at 2:30 PM EDT",
+   "date": "2026-08-28T18:30Z"
   }
  ]
 }
