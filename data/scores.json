@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-08-17T12:44:29.686Z",
+ "generated_at": "2026-08-17T13:39:57.914Z",
  "matches": [
+  {
+   "league": "Premier League",
+   "home": "Arsenal",
+   "away": "Coventry City",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, August 21st at 3:00 PM EDT",
+   "date": "2026-08-21T19:00Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Deportivo",
+   "away": "Elche",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/90.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Mon, August 17th at 3:00 PM EDT",
+   "date": "2026-08-17T19:00Z"
+  },
   {
    "league": "Bundesliga",
    "home": "Bayern Munich",
@@ -67,19 +93,6 @@
    "date": "2026-08-22T18:45Z"
   },
   {
-   "league": "Premier League",
-   "home": "Arsenal",
-   "away": "Coventry City",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, August 21st at 3:00 PM EDT",
-   "date": "2026-08-21T19:00Z"
-  },
-  {
    "league": "Ligue 1",
    "home": "Marseille",
    "away": "Strasbourg",
@@ -91,19 +104,6 @@
    "clock": "",
    "time": "Fri, August 21st at 2:45 PM EDT",
    "date": "2026-08-21T18:45Z"
-  },
-  {
-   "league": "La Liga",
-   "home": "Deportivo",
-   "away": "Elche",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/90.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Mon, August 17th at 3:00 PM EDT",
-   "date": "2026-08-17T19:00Z"
   }
  ]
 }
