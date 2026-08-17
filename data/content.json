@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-17T06:56:08.661Z",
- "updated_utc": "2026-08-17T06:56Z",
- "cycle": 29782496,
+ "generated_at": "2026-08-17T07:54:34.038Z",
+ "updated_utc": "2026-08-17T07:54Z",
+ "cycle": 29782554,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,8 +16,70 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "independent-transfer-news-live-liverpool-s-barcola-boost-man",
+ "hero_id": "bbc-these-eight-players-will-help-you-win-fpl",
  "articles": [
+  {
+   "id": "bbc-these-eight-players-will-help-you-win-fpl",
+   "slug": "these-eight-players-will-help-you-win-fpl-n-fpl",
+   "title": "These eight players will help you win FPL",
+   "dek": "Our Fantasy Premier League experts pick eight players they think will help you have a successful FPL season.",
+   "description": "Our Fantasy Premier League experts pick eight players they think will help you have a successful FPL season.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-17T07:49:52.000Z",
+   "fetched_at": "2026-08-17T07:54:26.583Z",
+   "body": [
+    "Our briefing: Our Fantasy Premier League experts pick eight players they think will help you have a successful FPL season.",
+    "Our Fantasy Premier League experts pick eight players they think will help you have a successful FPL season.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "John Shorten — CC BY 4.0"
+  },
+  {
+   "id": "independent-transfer-news-live-liverpool-arsenal-get-barcola",
+   "slug": "news-live-liverpool-and-arsenal-get-barcola-boost-man-city-i-rcola",
+   "title": "news LIVE: Liverpool and Arsenal get Barcola boost, Man City identify Rodri replacement",
+   "dek": "Man City will sell Rodri to Barcelona, which could accelerate moves for Ayyoub Bouaddi and Enzo Fernandez",
+   "description": "Man City will sell Rodri to Barcelona, which could accelerate moves for Ayyoub Bouaddi and Enzo Fernandez",
+   "category": "Transfers & Rumours",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-08-17T07:47:51.000Z",
+   "fetched_at": "2026-08-17T07:54:26.888Z",
+   "body": [
+    "Our briefing: Man City will sell Rodri to Barcelona, which could accelerate moves for Ayyoub Bouaddi and Enzo Fernandez",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg/960px-Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
+   "id": "bbc-scotland-boss-bring-ex-premier-league-winger-gos",
+   "slug": "scotland-boss-to-bring-in-ex-premier-league-winger-gossip-r-gos",
+   "title": "Scotland boss to bring in ex-Premier League winger - gossip",
+   "dek": "New Scotland boss to bring in former Premier League winger as assistant, while Hearts lodge a bid for a new striker...",
+   "description": "New Scotland boss to bring in former Premier League winger as assistant, while Hearts lodge a bid for a new striker...",
+   "category": "Transfers & Rumours",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-17T06:55:27.000Z",
+   "fetched_at": "2026-08-17T07:54:26.584Z",
+   "body": [
+    "Our briefing: New Scotland boss to bring in former Premier League winger as assistant, while Hearts lodge a bid for a new striker...",
+    "New Scotland boss to bring in former Premier League winger as assistant, while Hearts lodge a bid for a new striker...",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "YHC — CC BY-SA 4.0"
+  },
   {
    "id": "bbc-stats-that-show-premier-league-getting-more-comp",
    "slug": "stats-that-show-premier-league-is-getting-more-competitive--comp",
@@ -29,7 +91,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-17T06:41:27.000Z",
-   "fetched_at": "2026-08-17T06:56:02.712Z",
+   "fetched_at": "2026-08-17T07:54:26.582Z",
    "body": [
     "Our briefing: Last season, the Premier League was arguably more competitive than it has been for years. BBC Sport looks at whether that will continue to be the case this time around.",
     "Last season, the Premier League was arguably more competitive than it has been for years. BBC Sport looks at whether that will continue to be the case this time around.",
@@ -50,14 +112,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-17T06:33:15.000Z",
-   "fetched_at": "2026-08-17T06:56:02.835Z",
+   "fetched_at": "2026-08-17T07:54:26.888Z",
    "body": [
     "Our briefing: The former Union Saint-Gilloise and Monaco head coach has signed an initial two-year contract",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "YHC — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Badalik_Szabolcs_Hungarian_beach_soccer_player.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "Badalik Szabolcs — CC BY 4.0"
   },
   {
    "id": "independent-transfer-news-live-liverpool-s-barcola-boost-man",
@@ -76,8 +138,7 @@
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg/960px-Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg/960px-Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
    "id": "bbc-dublin-dons-failed-attempt-bring-premier-league-",
@@ -90,7 +151,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-17T06:19:22.000Z",
-   "fetched_at": "2026-08-17T06:56:02.711Z",
+   "fetched_at": "2026-08-17T07:54:26.583Z",
    "body": [
     "Our briefing: Just how close did an Irish consortium come to buying a Premier League team and moving them to Dublin?",
     "Just how close did an Irish consortium come to buying a Premier League team and moving them to Dublin?",
@@ -111,15 +172,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-17T06:10:48.000Z",
-   "fetched_at": "2026-08-17T06:56:02.712Z",
+   "fetched_at": "2026-08-17T07:54:26.583Z",
    "body": [
     "Our briefing: Work out the identity of today's player in as few attempts as possible.",
     "Work out the identity of today's player in as few attempts as possible.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "John Shorten — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
   },
   {
    "id": "bbc-five-five-football-quiz-no-1",
@@ -132,7 +193,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-17T06:04:20.000Z",
-   "fetched_at": "2026-08-17T06:56:02.711Z",
+   "fetched_at": "2026-08-17T07:54:26.582Z",
    "body": [
     "Our briefing: Will you beat the clock by getting all five of today's answers in five minutes?",
     "Will you beat the clock by getting all five of today's answers in five minutes?",
@@ -153,7 +214,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-17T05:54:05.000Z",
-   "fetched_at": "2026-08-17T06:56:02.711Z",
+   "fetched_at": "2026-08-17T07:54:26.582Z",
    "body": [
     "Our briefing: Juventus increase talks for Guglielmo Vicario and pull out of move for Emiliano Martinez, Manchester City face competition for Pedro Neto and Real Madrid want Martin…",
     "Juventus increase talks for Guglielmo Vicario and pull out of move for Emiliano Martinez, Manchester City face competition for Pedro Neto and Real Madrid want Martin Zubimendi. , plus more.",
@@ -174,7 +235,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-17T05:00:00.000Z",
-   "fetched_at": "2026-08-17T06:56:02.835Z",
+   "fetched_at": "2026-08-17T07:54:26.888Z",
    "body": [
     "Our briefing: A comprehensive guide of the players to target (and a few more) ahead of the start of the Fantasy Premier League season on Friday",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -194,14 +255,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-17T05:00:00.000Z",
-   "fetched_at": "2026-08-17T06:56:02.835Z",
+   "fetched_at": "2026-08-17T07:54:26.888Z",
    "body": [
     "Our briefing: The season kicks off on Friday with Arsenal v Coventry City, but it could be an unpredictable campaign following the World Cup and with so many changes from last year",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "bbc-changing-times-welsh-blockbuster-awaits",
@@ -214,14 +275,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-17T04:15:48.000Z",
-   "fetched_at": "2026-08-17T06:56:02.712Z",
+   "fetched_at": "2026-08-17T07:54:26.583Z",
    "body": [
     "Our briefing: Cardiff City's Championship contest with Wrexham on Monday will attract global attention, not just the eyes of those in the north and south of Wales.",
     "Cardiff City's Championship contest with Wrexham on Monday will attract global attention, not just the eyes of those in the north and south of Wales.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -235,7 +296,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-16T23:01:38.000Z",
-   "fetched_at": "2026-08-17T06:56:02.768Z",
+   "fetched_at": "2026-08-17T07:54:26.675Z",
    "body": [
     "Our briefing: Playoff winners are expected to go back down, but their owner is optimistic and is investing in the squad Guardian writers’ predicted position: 20th (NB: this is not…",
     "Playoff winners are expected to go back down, but their owner is optimistic and is investing in the squad Guardian writers’ predicted position: 20th (NB: this is not necessarily Louise Taylor’s prediction but the average of our writers’ tips) Last season’s position: 6th (Championship) Continue reading...",
@@ -276,7 +337,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-16T21:23:49.000Z",
-   "fetched_at": "2026-08-17T06:56:02.712Z",
+   "fetched_at": "2026-08-17T07:54:26.583Z",
    "body": [
     "Our briefing: Marie Ngah Manga scores twice as Cameroon cruise to a 3-0 win over Malawi and claim a first ever Women's Africa Cup of Nations title.",
     "Marie Ngah Manga scores twice as Cameroon cruise to a 3-0 win over Malawi and claim a first ever Women's Africa Cup of Nations title.",
@@ -297,7 +358,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-16T21:23:32.000Z",
-   "fetched_at": "2026-08-17T06:56:02.835Z",
+   "fetched_at": "2026-08-17T07:54:26.888Z",
    "body": [
     "Our briefing: City in race to rebuild midfield before transfer deadline",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -317,14 +378,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-16T20:51:15.000Z",
-   "fetched_at": "2026-08-17T06:56:02.712Z",
+   "fetched_at": "2026-08-17T07:54:26.583Z",
    "body": [
     "Our briefing: BBC Sport takes a look back at the moments that defined Rodri's time at Manchester City, from important goals to injuries and a Ballon d'Or, as the great midfielder takes…",
     "BBC Sport takes a look back at the moments that defined Rodri's time at Manchester City, from important goals to injuries and a Ballon d'Or, as the great midfielder takes his next step in his career.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -338,7 +399,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-16T20:46:01.000Z",
-   "fetched_at": "2026-08-17T06:56:02.768Z",
+   "fetched_at": "2026-08-17T07:54:26.675Z",
    "body": [
     "Our briefing: 30-year-old said to favour a move back to Spain Maresca chasing Lille’s Bouaddi as replacement Rodri looks set to complete a move to Barcelona after Manchester City…",
     "30-year-old said to favour a move back to Spain Maresca chasing Lille’s Bouaddi as replacement Rodri looks set to complete a move to Barcelona after Manchester City accepted a bid of £65. 4m from the Spanish club. The 30-year-old World Cup winner had entered the final year of his contract at the Etihad Stadium and made it clear he would like the opportunity to move to Barcelona.",
@@ -360,7 +421,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-16T20:25:07.000Z",
-   "fetched_at": "2026-08-17T06:56:02.711Z",
+   "fetched_at": "2026-08-17T07:54:26.583Z",
    "body": [
     "Our briefing: Shifting the playing style, maintaining qualification for major tournaments and refreshing the squad await the new Scotland boss.",
     "Shifting the playing style, maintaining qualification for major tournaments and refreshing the squad await the new Scotland boss.",
@@ -390,6 +451,27 @@
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg/960px-Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
+   "id": "bbc-newcastle-best-when-us-against-world-burn",
+   "slug": "newcastle-at-best-when-us-against-world-burn--burn",
+   "title": "Newcastle at best when 'us against world' - Burn",
+   "dek": "Dan Burn has his sights set on leading a new-look Newcastle back into Europe as the club's captain.",
+   "description": "Dan Burn has his sights set on leading a new-look Newcastle back into Europe as the club's captain.",
+   "category": "News",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-16T20:04:32.000Z",
+   "fetched_at": "2026-08-17T07:54:26.583Z",
+   "body": [
+    "Our briefing: Dan Burn has his sights set on leading a new-look Newcastle back into Europe as the club's captain.",
+    "Dan Burn has his sights set on leading a new-look Newcastle back into Europe as the club's captain.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Newcastle_Fans_at_Stadium_of_Light_-_geograph.org.uk_-_7688866.jpg/960px-Newcastle_Fans_at_Stadium_of_Light_-_geograph.org.uk_-_7688866.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Les Hull — CC BY-SA 2.0"
+  },
+  {
    "id": "bbc-nightmare-man-city-start-maresca-are-arsenal-rea",
    "slug": "nightmare-man-city-start-for-maresca-are-arsenal-really-so-f-l-rea",
    "title": "Nightmare Man City start for Maresca - are Arsenal really so far ahead?",
@@ -400,7 +482,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-16T19:37:55.000Z",
-   "fetched_at": "2026-08-17T06:56:02.711Z",
+   "fetched_at": "2026-08-17T07:54:26.582Z",
    "body": [
     "Our briefing: Did Arsenal show just how far above Manchester City they are with their dominant Community Shield win?",
     "Did Arsenal show just how far above Manchester City they are with their dominant Community Shield win?",
@@ -421,7 +503,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-16T19:37:45.000Z",
-   "fetched_at": "2026-08-17T06:56:02.711Z",
+   "fetched_at": "2026-08-17T07:54:26.582Z",
    "body": [
     "Our briefing: Barcelona agree a deal to sign Spain captain Rodri from Manchester City.",
     "Barcelona agree a deal to sign Spain captain Rodri from Manchester City.",
@@ -463,7 +545,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-16T19:37:19.000Z",
-   "fetched_at": "2026-08-17T06:56:02.768Z",
+   "fetched_at": "2026-08-17T07:54:26.675Z",
    "body": [
     "Our briefing: Champions delight manager by ‘winning the first trophy’ Maresca wants Manchester City signings to arrive soon Mikel Arteta said his Arsenal players demonstrated their…",
     "Champions delight manager by ‘winning the first trophy’ Maresca wants Manchester City signings to arrive soon Mikel Arteta said his Arsenal players demonstrated their hunger to defend the Premier League title in their Community Shield triumph over Manchester City. Arsenal, who ended their 22-year wait last season and are seeking to win back-to-back top-flight titles for the first time since 1934-35, beat City 3-0 at the Principality Stadium in Cardiff in Enzo Maresca’s first significant match in charge. Riccardo Calafiori opened the scoring after 24 seconds, the fastest goal in the competition since Bobby Owen’s strike for City in 1968, before Kai Havertz doubled Arsenal’s lead and their captain, Martin Ødegaard, completed the scoring on 48 minutes.",
@@ -485,7 +567,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-16T18:59:27.000Z",
-   "fetched_at": "2026-08-17T06:56:02.711Z",
+   "fetched_at": "2026-08-17T07:54:26.583Z",
    "body": [
     "Our briefing: Christos Tzolis has been a star performer in Arsenal's pre-season and continued that with an impressive performance against Manchester City in the Community Shield.",
     "Christos Tzolis has been a star performer in Arsenal's pre-season and continued that with an impressive performance against Manchester City in the Community Shield.",
@@ -506,7 +588,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-16T18:32:08.000Z",
-   "fetched_at": "2026-08-17T06:56:02.768Z",
+   "fetched_at": "2026-08-17T07:54:26.675Z",
    "body": [
     "Our briefing: Additions of Guimarães and Tzolis, plus re-emergence of Ødegaard, mean champions start clear favourites after Community Shield win If this was a glimpse of the Premier…",
     "Additions of Guimarães and Tzolis, plus re-emergence of Ødegaard, mean champions start clear favourites after Community Shield win If this was a glimpse of the Premier League’s new order then the rest had better watch out. By the time Martin Ødegaard sat Gianluigi Donnarumma down to make it 3-0 to the champions , the Arsenal party was in full swing. “Can we play you every week?",
@@ -554,15 +636,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-16T18:30:55.000Z",
-   "fetched_at": "2026-08-17T06:56:02.712Z",
+   "fetched_at": "2026-08-17T07:54:26.583Z",
    "body": [
     "Our briefing: Jack Grealish made an unexpected return to the Manchester City team on Sunday - so what could his future hold?",
     "Jack Grealish made an unexpected return to the Manchester City team on Sunday - so what could his future hold?",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "bbc-shop-window-or-new-chance-what-next-grealish",
@@ -596,7 +678,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-16T18:23:11.000Z",
-   "fetched_at": "2026-08-17T06:56:02.835Z",
+   "fetched_at": "2026-08-17T07:54:26.888Z",
    "body": [
     "Our briefing: Burnley 2-2 West Ham: The Irons led by two goals only to drop two points after a late double from Zian Flemming",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -604,6 +686,27 @@
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Jack_Wilshere_-_Hertha_BSC_vs._West_Ham_United_%2820190731%29.jpg/960px-Jack_Wilshere_-_Hertha_BSC_vs._West_Ham_United_%2820190731%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "--Steindy (talk) 16:09, 29 August 2019 (UTC) — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-can-anyone-stop-arsenal-how-do-man-city-improve-",
+   "slug": "can-anyone-stop-arsenal-how-do-man-city-improve-under-maresc-rove-",
+   "title": "Can anyone stop Arsenal & how do Man City improve under Maresca?",
+   "dek": "Aaron Paul is joined by Pat Nevin, Izzy Christiansen and, Chris Coles.",
+   "description": "Aaron Paul is joined by Pat Nevin, Izzy Christiansen and, Chris Coles.",
+   "category": "Tactics & Analysis",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-16T18:13:00.000Z",
+   "fetched_at": "2026-08-17T07:54:26.583Z",
+   "body": [
+    "Our briefing: Aaron Paul is joined by Pat Nevin, Izzy Christiansen and, Chris Coles.",
+    "Aaron Paul is joined by Pat Nevin, Izzy Christiansen and, Chris Coles.",
+    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Kyiv_Arsenal_Stadium.jpg/960px-Kyiv_Arsenal_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Toronto_guy — CC BY 3.0"
   },
   {
    "id": "bbc-football-daily",
@@ -623,8 +726,7 @@
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
    "id": "independent-why-arsenal-s-community-shield-victory-over-man-",
@@ -637,7 +739,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-16T18:02:05.000Z",
-   "fetched_at": "2026-08-17T06:56:02.835Z",
+   "fetched_at": "2026-08-17T07:54:26.888Z",
    "body": [
     "Our briefing: Arsenal 3-0 Manchester City: The Gunners won the Community Shield giving Mikel Arteta an early-season triumph while condemning new City boss Enzo Maresca to defeat in his…",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -657,7 +759,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-16T17:56:58.000Z",
-   "fetched_at": "2026-08-17T06:56:02.712Z",
+   "fetched_at": "2026-08-17T07:54:26.583Z",
    "body": [
     "Our briefing: The Scottish FA say they have appointed \"one of Europe's brightest emerging coaching talents\" by securing Sebastien Pocognoli as Scotland men's new head coach on a…",
     "The Scottish FA say they have appointed \"one of Europe's brightest emerging coaching talents\" by securing Sebastien Pocognoli as Scotland men's new head coach on a two-year deal.",
@@ -678,7 +780,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-16T17:46:42.000Z",
-   "fetched_at": "2026-08-17T06:56:02.768Z",
+   "fetched_at": "2026-08-17T07:54:26.675Z",
    "body": [
     "Our briefing: Belgian is the first non-Scot in role since Berti Vogts SFA welcomes ‘aggressive, front-foot style of play’ The Scottish Football Association has appointed the Belgian…",
     "Belgian is the first non-Scot in role since Berti Vogts SFA welcomes ‘aggressive, front-foot style of play’ The Scottish Football Association has appointed the Belgian Sébastien Pocognoli as the successor to Steve Clarke as manager. The 39-year-old, who was sacked by Monaco in June, will become the country’s first non-Scottish manager since Berti Vogts, who was in charge from 2002 to 2004. Clarke’s abrupt departure came after Scotland were knocked out of the World Cup at the group stage.",
@@ -686,8 +788,8 @@
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Badalik_Szabolcs_Hungarian_beach_soccer_player.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "Badalik Szabolcs — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
    "id": "guardian-scotland-appoint-39-year-old-pocognoli-successor",
@@ -722,7 +824,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-16T17:18:51.000Z",
-   "fetched_at": "2026-08-17T06:56:02.768Z",
+   "fetched_at": "2026-08-17T07:54:26.675Z",
    "body": [
     "Our briefing: There are many good reasons why Burnley and West Ham are performing as Premier League tribute acts, slumming it in the Championship with the hope of a shot at the…",
     "There are many good reasons why Burnley and West Ham are performing as Premier League tribute acts, slumming it in the Championship with the hope of a shot at the limelight once more. They are two flawed teams, relegated because of chronic defects, and plenty were on show as West Ham blew a two-goal lead to start life on the second-tier circuit with an entertaining draw. Zian Flemming’s late double secured a thoroughly deserved point for the hosts, who showed promise going forward but took far too long to find a clinical finish.",
@@ -744,7 +846,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-16T17:13:35.000Z",
-   "fetched_at": "2026-08-17T06:56:02.712Z",
+   "fetched_at": "2026-08-17T07:54:26.583Z",
    "body": [
     "Our briefing: Rangers will host Celtic in the Premier Sports Cup quarter-finals with Kilmarnock v Aberdeen the other all top-flight tie.",
     "Rangers will host Celtic in the Premier Sports Cup quarter-finals with Kilmarnock v Aberdeen the other all top-flight tie.",
@@ -753,112 +855,6 @@
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Celtic_Park_during_an_Old_Firm_derby_between_Celtic_FC_and_Rangers_FC.jpg/960px-Celtic_Park_during_an_Old_Firm_derby_between_Celtic_FC_and_Rangers_FC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Vincenzo.togni — CC BY-SA 4.0"
-  },
-  {
-   "id": "guardian-burnley-v-west-ham-championship-it-happened",
-   "slug": "burnley-v-west-ham-championship-as-it-happened-pened",
-   "title": "Burnley v West Ham: Championship – as it happened",
-   "dek": "Live updates from the 4pm kick-off at Turf Moor Seven Championship players to watch | Mail Tim The colour scheme. Burnley are in claret and blue, naturally. West Ham are…",
-   "description": "Live updates from the 4pm kick-off at Turf Moor Seven Championship players to watch | Mail Tim The colour scheme. Burnley are in claret and blue, naturally. West Ham are in their third strip, which is pale, swirly and makes each player look like a box of washing powder. The players are out there and a lot of fists are being bumped. Continue reading...",
-   "category": "News",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-08-16T17:05:27.000Z",
-   "fetched_at": "2026-08-16T17:19:58.186Z",
-   "body": [
-    "Our briefing: Live updates from the 4pm kick-off at Turf Moor Seven Championship players to watch | Mail Tim The colour scheme. Burnley are in claret and blue, naturally. West Ham are…",
-    "Live updates from the 4pm kick-off at Turf Moor Seven Championship players to watch | Mail Tim The colour scheme. Burnley are in claret and blue, naturally. West Ham are in their third strip, which is pale, swirly and makes each player look like a box of washing powder.",
-    "The players are out there and a lot of fists are being bumped. Continue reading...",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/London_Olympic_Stadium_West_Ham.jpg/960px-London_Olympic_Stadium_West_Ham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
-  },
-  {
-   "id": "guardian-cristiano-ronaldo-says-this-year-probably-his-la",
-   "slug": "cristiano-ronaldo-says-this-year-is-probably-his-last-as-a-f-is-la",
-   "title": "Cristiano Ronaldo says this year is ‘probably’ his last as a footballer",
-   "dek": "Al-Nassr and Portugal forward expects to retire soon Ronaldo has more than 950 goals for club and country Cristiano Ronaldo believes this year is “probably” his last as a…",
-   "description": "Al-Nassr and Portugal forward expects to retire soon Ronaldo has more than 950 goals for club and country Cristiano Ronaldo believes this year is “probably” his last as a professional footballer, the 41-year-old Portugal captain said in an interview with Vogue magazine published on Sunday. Ronaldo, who has established his place among football’s all-time greats with more than 950 goals for club and country, had previously spoken of retiring “soon” or within “one or two years”. Continue reading...",
-   "category": "News",
-   "league": "Football",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-08-16T16:46:36.000Z",
-   "fetched_at": "2026-08-17T06:56:02.768Z",
-   "body": [
-    "Our briefing: Al-Nassr and Portugal forward expects to retire soon Ronaldo has more than 950 goals for club and country Cristiano Ronaldo believes this year is “probably” his last as a…",
-    "Al-Nassr and Portugal forward expects to retire soon Ronaldo has more than 950 goals for club and country Cristiano Ronaldo believes this year is “probably” his last as a professional footballer, the 41-year-old Portugal captain said in an interview with Vogue magazine published on Sunday. Ronaldo, who has established his place among football’s all-time greats with more than 950 goals for club and country, had previously spoken of retiring “soon” or within “one or two years”. Continue reading...",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
-  },
-  {
-   "id": "guardian-burnley-v-west-ham-championship-live",
-   "slug": "burnley-v-west-ham-championship-live--live",
-   "title": "Burnley v West Ham: Championship – live",
-   "dek": "Live updates from the 4pm kick-off at Turf Moor Seven Championship players to watch | Mail Tim The colour scheme. Burnley are in claret and blue, naturally. West Ham are…",
-   "description": "Live updates from the 4pm kick-off at Turf Moor Seven Championship players to watch | Mail Tim The colour scheme. Burnley are in claret and blue, naturally. West Ham are in their third strip, which is pale, swirly and makes each player look like a box of washing powder. The players are out there and a lot of fists are being bumped. Continue reading...",
-   "category": "News",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-08-16T16:44:20.000Z",
-   "fetched_at": "2026-08-16T16:51:54.914Z",
-   "body": [
-    "Our briefing: Live updates from the 4pm kick-off at Turf Moor Seven Championship players to watch | Mail Tim The colour scheme. Burnley are in claret and blue, naturally. West Ham are…",
-    "Live updates from the 4pm kick-off at Turf Moor Seven Championship players to watch | Mail Tim The colour scheme. Burnley are in claret and blue, naturally. West Ham are in their third strip, which is pale, swirly and makes each player look like a box of washing powder.",
-    "The players are out there and a lot of fists are being bumped. Continue reading...",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/London_Olympic_Stadium_West_Ham.jpg/960px-London_Olympic_Stadium_West_Ham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
-  },
-  {
-   "id": "independent-arsenal-send-out-ominous-title-warning-after-dis",
-   "slug": "arsenal-send-out-ominous-title-warning-after-dismantling-man-r-dis",
-   "title": "Arsenal send out ominous title warning after dismantling Man City to win Community Shield",
-   "dek": "Arsenal 3-0 Manchester City: The Gunners won the Community Shield giving Mikel Arteta an early-season triumph while condemning new City boss Enzo Maresca to defeat in his…",
-   "description": "Arsenal 3-0 Manchester City: The Gunners won the Community Shield giving Mikel Arteta an early-season triumph while condemning new City boss Enzo Maresca to defeat in his first game in charge",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-08-16T16:41:36.000Z",
-   "fetched_at": "2026-08-16T16:51:55.167Z",
-   "body": [
-    "Our briefing: Arsenal 3-0 Manchester City: The Gunners won the Community Shield giving Mikel Arteta an early-season triumph while condemning new City boss Enzo Maresca to defeat in his…",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Manchester_City_v_Arsenal%2C_League_Cup_2004-5_-_geograph.org.uk_-_3841596.jpg/960px-Manchester_City_v_Arsenal%2C_League_Cup_2004-5_-_geograph.org.uk_-_3841596.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Richard Cooke — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-probably-my-last-year-ronaldo-hints-retirement",
-   "slug": "probably-my-last-year-ronaldo-hints-at-retirement-ement",
-   "title": "'Probably my last year' - Ronaldo hints at retirement",
-   "dek": "Cristiano Ronaldo says this season will probably be his last as a player after a glittering football career.",
-   "description": "Cristiano Ronaldo says this season will probably be his last as a player after a glittering football career.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-16T16:33:16.000Z",
-   "fetched_at": "2026-08-17T06:56:02.712Z",
-   "body": [
-    "Our briefing: Cristiano Ronaldo says this season will probably be his last as a player after a glittering football career.",
-    "Cristiano Ronaldo says this season will probably be his last as a player after a glittering football career.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
   }
  ]
 }
