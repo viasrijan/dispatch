@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-17T09:41:46.807Z",
- "updated_utc": "2026-08-17T09:41Z",
- "cycle": 29782661,
+ "generated_at": "2026-08-17T10:32:45.160Z",
+ "updated_utc": "2026-08-17T10:32Z",
+ "cycle": 29782712,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,7 +16,7 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "bbc-signings-impress-but-squad-issues-remain-learnin",
+ "hero_id": "independent-transfer-news-live-liverpool-arsenal-get-barcola",
  "articles": [
   {
    "id": "bbc-what-do-you-think-new-scotland-boss-listen-live",
@@ -40,25 +40,25 @@
    "imageCredit": "John Shorten — CC BY 4.0"
   },
   {
-   "id": "bbc-man-city-advanced-talks-85m-bouaddi-18",
-   "slug": "man-city-in-advanced-talks-for-85m-bouaddi-18-di-18",
-   "title": "Man City in advanced talks for £85m Bouaddi, 18",
-   "dek": "Manchester City are in advanced talks with Lille over a move for Morocco midfielder Ayyoub Bouaddi.",
-   "description": "Manchester City are in advanced talks with Lille over a move for Morocco midfielder Ayyoub Bouaddi.",
+   "id": "bbc-cagliari-s-trepy-intensive-care-after-reported-p",
+   "slug": "cagliari-s-trepy-in-intensive-care-after-reported-pool-incid-ted-p",
+   "title": "Cagliari's Trepy in intensive care after reported pool incident",
+   "dek": "Cagliari striker Yael Trepy is being treated in intensive care after an incident in Sardinia.",
+   "description": "Cagliari striker Yael Trepy is being treated in intensive care after an incident in Sardinia.",
    "category": "News",
-   "league": "Premier League",
+   "league": "Football",
    "source": "bbc",
    "sourceName": "BBC Sport",
-   "published": "2026-08-17T09:23:32.000Z",
-   "fetched_at": "2026-08-17T09:41:41.024Z",
+   "published": "2026-08-17T10:25:57.000Z",
+   "fetched_at": "2026-08-17T10:32:39.547Z",
    "body": [
-    "Our briefing: Manchester City are in advanced talks with Lille over a move for Morocco midfielder Ayyoub Bouaddi.",
-    "Manchester City are in advanced talks with Lille over a move for Morocco midfielder Ayyoub Bouaddi.",
+    "Our briefing: Cagliari striker Yael Trepy is being treated in intensive care after an incident in Sardinia.",
+    "Cagliari striker Yael Trepy is being treated in intensive care after an incident in Sardinia.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Manchester_City_dressing_room_2022.jpg/960px-Manchester_City_dressing_room_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Christian David — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "John Shorten — CC BY 4.0"
   },
   {
    "id": "independent-transfer-news-live-liverpool-arsenal-get-barcola",
@@ -70,8 +70,8 @@
    "league": "Premier League",
    "source": "independent",
    "sourceName": "The Independent",
-   "published": "2026-08-17T09:16:46.000Z",
-   "fetched_at": "2026-08-17T09:41:41.280Z",
+   "published": "2026-08-17T10:23:37.000Z",
+   "fetched_at": "2026-08-17T10:32:39.861Z",
    "body": [
     "Our briefing: Man City will sell Rodri to Barcelona, which could accelerate moves for Ayyoub Bouaddi and Enzo Fernandez",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -79,6 +79,27 @@
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg/960px-Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
+  },
+  {
+   "id": "bbc-man-city-advanced-talks-85m-bouaddi-18",
+   "slug": "man-city-in-advanced-talks-for-85m-bouaddi-18-di-18",
+   "title": "Man City in advanced talks for £85m Bouaddi, 18",
+   "dek": "Manchester City are in advanced talks with Lille over a move for Morocco midfielder Ayyoub Bouaddi.",
+   "description": "Manchester City are in advanced talks with Lille over a move for Morocco midfielder Ayyoub Bouaddi.",
+   "category": "News",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-17T09:23:32.000Z",
+   "fetched_at": "2026-08-17T10:32:39.546Z",
+   "body": [
+    "Our briefing: Manchester City are in advanced talks with Lille over a move for Morocco midfielder Ayyoub Bouaddi.",
+    "Manchester City are in advanced talks with Lille over a move for Morocco midfielder Ayyoub Bouaddi.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Manchester_City_dressing_room_2022.jpg/960px-Manchester_City_dressing_room_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Christian David — CC BY-SA 4.0"
   },
   {
    "id": "bbc-man-city-face-neto-competition-monday-s-gossip",
@@ -91,7 +112,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-17T09:12:54.000Z",
-   "fetched_at": "2026-08-17T09:41:41.024Z",
+   "fetched_at": "2026-08-17T10:32:39.547Z",
    "body": [
     "Our briefing: Manchester City face competition for Pedro Neto, Real Madrid want Martin Zubimendi and Premier League clubs want Liam Delap.",
     "Manchester City face competition for Pedro Neto, Real Madrid want Martin Zubimendi and Premier League clubs want Liam Delap.",
@@ -112,7 +133,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-17T09:05:54.000Z",
-   "fetched_at": "2026-08-17T09:41:41.024Z",
+   "fetched_at": "2026-08-17T10:32:39.546Z",
    "body": [
     "Our briefing: Tottenham accept a loan offer from Juventus for goalkeeper Guglielmo Vicario, which includes an option to buy.",
     "Tottenham accept a loan offer from Juventus for goalkeeper Guglielmo Vicario, which includes an option to buy.",
@@ -133,7 +154,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-17T08:29:10.000Z",
-   "fetched_at": "2026-08-17T09:41:41.024Z",
+   "fetched_at": "2026-08-17T10:32:39.546Z",
    "body": [
     "Our briefing: Positives, negatives and areas to address urgently - how are Michael Carrick's Manchester United shaping up now pre-season is over?",
     "Positives, negatives and areas to address urgently - how are Michael Carrick's Manchester United shaping up now pre-season is over?",
@@ -154,14 +175,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-17T08:13:39.000Z",
-   "fetched_at": "2026-08-17T09:41:41.280Z",
+   "fetched_at": "2026-08-17T10:32:39.861Z",
    "body": [
     "Our briefing: The legendary Portuguese forward is preparing for the new season with Al-Nassr",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "John Shorten — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
   },
   {
    "id": "bbc-bronze-explains-out-character-contract-extension",
@@ -174,7 +195,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-17T08:06:16.000Z",
-   "fetched_at": "2026-08-17T09:41:41.024Z",
+   "fetched_at": "2026-08-17T10:32:39.547Z",
    "body": [
     "Our briefing: England defender Lucy Bronze says she has found a \"really good role\" at a club she is \"comfortable\" with, after signing a rare contract extension with Chelsea.",
     "England defender Lucy Bronze says she has found a \"really good role\" at a club she is \"comfortable\" with, after signing a rare contract extension with Chelsea.",
@@ -195,15 +216,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-17T07:49:52.000Z",
-   "fetched_at": "2026-08-17T09:41:41.024Z",
+   "fetched_at": "2026-08-17T10:32:39.547Z",
    "body": [
     "Our briefing: Our Fantasy Premier League experts pick eight players they think will help you have a successful FPL season.",
     "Our Fantasy Premier League experts pick eight players they think will help you have a successful FPL season.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "guardian-football-transfer-rumours-manchester-city-move-a",
@@ -216,7 +237,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-17T07:42:16.000Z",
-   "fetched_at": "2026-08-17T09:41:41.125Z",
+   "fetched_at": "2026-08-17T10:32:39.605Z",
    "body": [
     "Our briefing: Today’s fluff lacks community spirit After looking a tad silly in the Community Shield loss to Arsenal , with not having a midfield being one problem for Enzo Maresca and…",
     "Today’s fluff lacks community spirit After looking a tad silly in the Community Shield loss to Arsenal , with not having a midfield being one problem for Enzo Maresca and the further blow of Rodri’s departure getting closer, Manchester City really need some new blood. A surprise name linked to them is Alexis Mac Allister of Liverpool, who may receive a bid in the coming days as City aim to ready themselves for the Premier League season. Ibrahim Mbaye has been linked with every club around, so it should come as no shock that Manchester United have held talks over signing the Paris Saint-Germain winger, who was left out of the matchday squad for the French Super Cup on Sunday.",
@@ -238,7 +259,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-17T06:55:27.000Z",
-   "fetched_at": "2026-08-17T09:41:41.026Z",
+   "fetched_at": "2026-08-17T10:32:39.548Z",
    "body": [
     "Our briefing: New Scotland boss to bring in former Premier League winger as assistant, while Hearts lodge a bid for a new striker...",
     "New Scotland boss to bring in former Premier League winger as assistant, while Hearts lodge a bid for a new striker...",
@@ -259,7 +280,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-17T06:41:27.000Z",
-   "fetched_at": "2026-08-17T09:41:41.024Z",
+   "fetched_at": "2026-08-17T10:32:39.547Z",
    "body": [
     "Our briefing: Last season, the Premier League was arguably more competitive than it has been for years. BBC Sport looks at whether that will continue to be the case this time around.",
     "Last season, the Premier League was arguably more competitive than it has been for years. BBC Sport looks at whether that will continue to be the case this time around.",
@@ -280,7 +301,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-17T06:33:15.000Z",
-   "fetched_at": "2026-08-17T09:41:41.280Z",
+   "fetched_at": "2026-08-17T10:32:39.861Z",
    "body": [
     "Our briefing: The former Union Saint-Gilloise and Monaco head coach has signed an initial two-year contract",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -319,7 +340,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-17T06:19:22.000Z",
-   "fetched_at": "2026-08-17T09:41:41.024Z",
+   "fetched_at": "2026-08-17T10:32:39.547Z",
    "body": [
     "Our briefing: Just how close did an Irish consortium come to buying a Premier League team and moving them to Dublin?",
     "Just how close did an Irish consortium come to buying a Premier League team and moving them to Dublin?",
@@ -340,14 +361,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-17T06:10:48.000Z",
-   "fetched_at": "2026-08-17T09:41:41.024Z",
+   "fetched_at": "2026-08-17T10:32:39.547Z",
    "body": [
     "Our briefing: Work out the identity of today's player in as few attempts as possible.",
     "Work out the identity of today's player in as few attempts as possible.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -361,7 +382,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-17T06:04:20.000Z",
-   "fetched_at": "2026-08-17T09:41:41.024Z",
+   "fetched_at": "2026-08-17T10:32:39.547Z",
    "body": [
     "Our briefing: Will you beat the clock by getting all five of today's answers in five minutes?",
     "Will you beat the clock by getting all five of today's answers in five minutes?",
@@ -402,7 +423,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-17T05:00:00.000Z",
-   "fetched_at": "2026-08-17T09:41:41.280Z",
+   "fetched_at": "2026-08-17T10:32:39.861Z",
    "body": [
     "Our briefing: A comprehensive guide of the players to target (and a few more) ahead of the start of the Fantasy Premier League season on Friday",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -422,13 +443,13 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-17T05:00:00.000Z",
-   "fetched_at": "2026-08-17T09:41:41.280Z",
+   "fetched_at": "2026-08-17T10:32:39.862Z",
    "body": [
     "Our briefing: The season kicks off on Friday with Arsenal v Coventry City, but it could be an unpredictable campaign following the World Cup and with so many changes from last year",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -442,14 +463,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-17T04:15:48.000Z",
-   "fetched_at": "2026-08-17T09:41:41.025Z",
+   "fetched_at": "2026-08-17T10:32:39.547Z",
    "body": [
     "Our briefing: Cardiff City's Championship contest with Wrexham on Monday will attract global attention, not just the eyes of those in the north and south of Wales.",
     "Cardiff City's Championship contest with Wrexham on Monday will attract global attention, not just the eyes of those in the north and south of Wales.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -463,7 +484,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-16T23:01:38.000Z",
-   "fetched_at": "2026-08-17T09:41:41.125Z",
+   "fetched_at": "2026-08-17T10:32:39.605Z",
    "body": [
     "Our briefing: Playoff winners are expected to go back down, but their owner is optimistic and is investing in the squad Guardian writers’ predicted position: 20th (NB: this is not…",
     "Playoff winners are expected to go back down, but their owner is optimistic and is investing in the squad Guardian writers’ predicted position: 20th (NB: this is not necessarily Louise Taylor’s prediction but the average of our writers’ tips) Last season’s position: 6th (Championship) Continue reading...",
@@ -504,7 +525,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-16T21:23:49.000Z",
-   "fetched_at": "2026-08-17T09:41:41.024Z",
+   "fetched_at": "2026-08-17T10:32:39.547Z",
    "body": [
     "Our briefing: Marie Ngah Manga scores twice as Cameroon cruise to a 3-0 win over Malawi and claim a first ever Women's Africa Cup of Nations title.",
     "Marie Ngah Manga scores twice as Cameroon cruise to a 3-0 win over Malawi and claim a first ever Women's Africa Cup of Nations title.",
@@ -525,7 +546,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-16T21:23:32.000Z",
-   "fetched_at": "2026-08-17T09:41:41.280Z",
+   "fetched_at": "2026-08-17T10:32:39.862Z",
    "body": [
     "Our briefing: City in race to rebuild midfield before transfer deadline",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -545,15 +566,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-16T20:51:15.000Z",
-   "fetched_at": "2026-08-17T09:41:41.024Z",
+   "fetched_at": "2026-08-17T10:32:39.547Z",
    "body": [
     "Our briefing: BBC Sport takes a look back at the moments that defined Rodri's time at Manchester City, from important goals to injuries and a Ballon d'Or, as the great midfielder takes…",
     "BBC Sport takes a look back at the moments that defined Rodri's time at Manchester City, from important goals to injuries and a Ballon d'Or, as the great midfielder takes his next step in his career.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
    "id": "bbc-watch-best-rodri-s-manchester-city-journey",
@@ -587,7 +608,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-16T20:46:01.000Z",
-   "fetched_at": "2026-08-17T09:41:41.125Z",
+   "fetched_at": "2026-08-17T10:32:39.605Z",
    "body": [
     "Our briefing: 30-year-old said to favour a move back to Spain Maresca chasing Lille’s Bouaddi as replacement Rodri looks set to complete a move to Barcelona after Manchester City…",
     "30-year-old said to favour a move back to Spain Maresca chasing Lille’s Bouaddi as replacement Rodri looks set to complete a move to Barcelona after Manchester City accepted a bid of £65. 4m from the Spanish club. The 30-year-old World Cup winner had entered the final year of his contract at the Etihad Stadium and made it clear he would like the opportunity to move to Barcelona.",
@@ -609,15 +630,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-16T20:25:07.000Z",
-   "fetched_at": "2026-08-17T09:41:41.025Z",
+   "fetched_at": "2026-08-17T10:32:39.547Z",
    "body": [
     "Our briefing: Shifting the playing style, maintaining qualification for major tournaments and refreshing the squad await the new Scotland boss.",
     "Shifting the playing style, maintaining qualification for major tournaments and refreshing the squad await the new Scotland boss.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "independent-transfer-news-live-man-city-sell-rodri-barcelona",
@@ -649,7 +670,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-16T20:04:32.000Z",
-   "fetched_at": "2026-08-17T09:41:41.025Z",
+   "fetched_at": "2026-08-17T10:32:39.547Z",
    "body": [
     "Our briefing: Dan Burn has his sights set on leading a new-look Newcastle back into Europe as the club's captain.",
     "Dan Burn has his sights set on leading a new-look Newcastle back into Europe as the club's captain.",
@@ -670,7 +691,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-16T19:37:55.000Z",
-   "fetched_at": "2026-08-17T09:41:41.024Z",
+   "fetched_at": "2026-08-17T10:32:39.547Z",
    "body": [
     "Our briefing: Did Arsenal show just how far above Manchester City they are with their dominant Community Shield win?",
     "Did Arsenal show just how far above Manchester City they are with their dominant Community Shield win?",
@@ -691,7 +712,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-16T19:37:45.000Z",
-   "fetched_at": "2026-08-17T09:41:41.024Z",
+   "fetched_at": "2026-08-17T10:32:39.547Z",
    "body": [
     "Our briefing: Barcelona agree a deal to sign Spain captain Rodri from Manchester City.",
     "Barcelona agree a deal to sign Spain captain Rodri from Manchester City.",
@@ -754,7 +775,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-16T18:59:27.000Z",
-   "fetched_at": "2026-08-17T09:41:41.025Z",
+   "fetched_at": "2026-08-17T10:32:39.547Z",
    "body": [
     "Our briefing: Christos Tzolis has been a star performer in Arsenal's pre-season and continued that with an impressive performance against Manchester City in the Community Shield.",
     "Christos Tzolis has been a star performer in Arsenal's pre-season and continued that with an impressive performance against Manchester City in the Community Shield.",
@@ -775,7 +796,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-16T18:32:08.000Z",
-   "fetched_at": "2026-08-17T09:41:41.125Z",
+   "fetched_at": "2026-08-17T10:32:39.605Z",
    "body": [
     "Our briefing: Additions of Guimarães and Tzolis, plus re-emergence of Ødegaard, mean champions start clear favourites after Community Shield win If this was a glimpse of the Premier…",
     "Additions of Guimarães and Tzolis, plus re-emergence of Ødegaard, mean champions start clear favourites after Community Shield win If this was a glimpse of the Premier League’s new order then the rest had better watch out. By the time Martin Ødegaard sat Gianluigi Donnarumma down to make it 3-0 to the champions , the Arsenal party was in full swing. “Can we play you every week?",
@@ -823,36 +844,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-16T18:30:55.000Z",
-   "fetched_at": "2026-08-17T09:41:41.024Z",
+   "fetched_at": "2026-08-17T10:32:39.547Z",
    "body": [
     "Our briefing: Jack Grealish made an unexpected return to the Manchester City team on Sunday - so what could his future hold?",
     "Jack Grealish made an unexpected return to the Manchester City team on Sunday - so what could his future hold?",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "bbc-shop-window-or-new-chance-what-next-grealish",
-   "slug": "shop-window-or-new-chance-what-next-for-grealish-alish",
-   "title": "Shop window or new chance - what next for Grealish?",
-   "dek": "Jack Grealish made an unexpected return to the Manchester City team on Sunday - so what could his future hold?",
-   "description": "Jack Grealish made an unexpected return to the Manchester City team on Sunday - so what could his future hold?",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-16T18:30:55.000Z",
-   "fetched_at": "2026-08-17T05:35:17.566Z",
-   "body": [
-    "Our briefing: Jack Grealish made an unexpected return to the Manchester City team on Sunday - so what could his future hold?",
-    "Jack Grealish made an unexpected return to the Manchester City team on Sunday - so what could his future hold?",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Kashima_Soccer_Stadium_6.jpg/960px-Kashima_Soccer_Stadium_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   }
  ]
 }
