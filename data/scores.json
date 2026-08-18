@@ -1,19 +1,6 @@
 {
- "generated_at": "2026-08-18T05:57:55.541Z",
+ "generated_at": "2026-08-18T06:56:33.374Z",
  "matches": [
-  {
-   "league": "Premier League",
-   "home": "Arsenal",
-   "away": "Coventry City",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, August 21st at 3:00 PM EDT",
-   "date": "2026-08-21T19:00Z"
-  },
   {
    "league": "La Liga",
    "home": "Atlético Madrid",
@@ -104,6 +91,19 @@
    "clock": "",
    "time": "Fri, August 21st at 2:45 PM EDT",
    "date": "2026-08-21T18:45Z"
+  },
+  {
+   "league": "Premier League",
+   "home": "Arsenal",
+   "away": "Coventry City",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, August 21st at 3:00 PM EDT",
+   "date": "2026-08-21T19:00Z"
   }
  ]
 }
