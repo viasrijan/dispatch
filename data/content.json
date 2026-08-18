@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-18T08:37:47.678Z",
- "updated_utc": "2026-08-18T08:37Z",
- "cycle": 29784037,
+ "generated_at": "2026-08-18T09:34:22.894Z",
+ "updated_utc": "2026-08-18T09:34Z",
+ "cycle": 29784094,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,28 +16,28 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "independent-transfer-news-live-chelsea-set-new-enzo-price-li",
+ "hero_id": "bbc-newcastle-complete-30m-move-benfica-s-dedic",
  "articles": [
   {
-   "id": "bbc-newcastle-complete-30m-move-benfica-s-dedic",
-   "slug": "newcastle-complete-30m-move-for-benfica-s-dedic-dedic",
-   "title": "Newcastle complete £30m move for Benfica's Dedic",
-   "dek": "Newcastle United sign defender Amar Dedic from Benfica for around £30m.",
-   "description": "Newcastle United sign defender Amar Dedic from Benfica for around £30m.",
-   "category": "News",
+   "id": "independent-why-arsenal-were-so-good-against-man-city",
+   "slug": "why-arsenal-were-so-good-against-man-city--city",
+   "title": "Why Arsenal were so good against Man City",
+   "dek": "Arsenal have beaten Man City to lift the Community Shield for the second time in four years, but what has it taught us? Adam Clery breaks down the key man for Arsenal in…",
+   "description": "Arsenal have beaten Man City to lift the Community Shield for the second time in four years, but what has it taught us? Adam Clery breaks down the key man for Arsenal in this game, and specifically how this player can affect Arsenal's season.",
+   "category": "Tactics & Analysis",
    "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-18T08:33:04.000Z",
-   "fetched_at": "2026-08-18T08:37:38.369Z",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-08-18T08:49:19.000Z",
+   "fetched_at": "2026-08-18T09:34:14.869Z",
    "body": [
-    "Our briefing: Newcastle United sign defender Amar Dedic from Benfica for around £30m.",
-    "Newcastle United sign defender Amar Dedic from Benfica for around £30m.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
+    "Our briefing: Arsenal have beaten Man City to lift the Community Shield for the second time in four years, but what has it taught us? Adam Clery breaks down the key man for Arsenal in…",
+    "Arsenal have beaten Man City to lift the Community Shield for the second time in four years, but what has it taught us? Adam Clery breaks down the key man for Arsenal in this game, and specifically how this player can affect Arsenal's season.",
+    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
+    "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Newcastle_Fans_at_Stadium_of_Light_-_geograph.org.uk_-_7688866.jpg/960px-Newcastle_Fans_at_Stadium_of_Light_-_geograph.org.uk_-_7688866.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Les Hull — CC BY-SA 2.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Arsenal_Stadium_Highbury_east_facade.jpg/960px-Arsenal_Stadium_Highbury_east_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "No machine-readable author provided. Qwghlm~commonswiki assumed (based on copyright claims). — CC BY-SA 3.0"
   },
   {
    "id": "independent-transfer-news-live-chelsea-set-new-enzo-price-li",
@@ -49,8 +49,8 @@
    "league": "Premier League",
    "source": "independent",
    "sourceName": "The Independent",
-   "published": "2026-08-18T08:30:57.000Z",
-   "fetched_at": "2026-08-18T08:37:38.615Z",
+   "published": "2026-08-18T08:48:14.000Z",
+   "fetched_at": "2026-08-18T09:34:14.869Z",
    "body": [
     "Our briefing: Manchester United are to reject an approach for Bruno Fernandez from Galatasaray after they planned to submit a bid to double their captain’s salary",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -58,6 +58,72 @@
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dr_Christian_Pathak_at_Chelsea_%26_Westminster_Hospital.jpg/960px-Dr_Christian_Pathak_at_Chelsea_%26_Westminster_Hospital.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Isselerhof — CC BY-SA 4.0"
+  },
+  {
+   "id": "guardian-guardiola-s-row-walker-manchester-city-revealed-",
+   "slug": "guardiola-s-row-with-walker-at-manchester-city-revealed-in-n-aled-",
+   "title": "Guardiola’s row with Walker at Manchester City revealed in new Amazon documentary",
+   "dek": "Amazon Prime captures strain of manager’s final season Club chair says Spaniard threatened to leave ‘100 times’ Pep Guardiola clashed with his captain and almost broke…",
+   "description": "Amazon Prime captures strain of manager’s final season Club chair says Spaniard threatened to leave ‘100 times’ Pep Guardiola clashed with his captain and almost broke down in tears as he railed at players during his worst run as Manchester City manager. The Spaniard stood down at the end of last season after winning 20 trophies in a glorious 10-year spell at the Etihad Stadium. One of the lowest point of his glittering reign came during a testing run in the autumn of 2024, when City lost nine times and won just once in the space of 13 games. Guardiola outwardly showed signs of strain, notably when he scratched his face after City surrendered a 3-0 lead to draw 3-3 with Feyenoord in the Champions League. Continue reading...",
+   "category": "Transfers & Rumours",
+   "league": "Premier League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-08-18T08:42:05.000Z",
+   "fetched_at": "2026-08-18T09:34:14.763Z",
+   "body": [
+    "Our briefing: Amazon Prime captures strain of manager’s final season Club chair says Spaniard threatened to leave ‘100 times’ Pep Guardiola clashed with his captain and almost broke…",
+    "Amazon Prime captures strain of manager’s final season Club chair says Spaniard threatened to leave ‘100 times’ Pep Guardiola clashed with his captain and almost broke down in tears as he railed at players during his worst run as Manchester City manager. The Spaniard stood down at the end of last season after winning 20 trophies in a glorious 10-year spell at the Etihad Stadium. One of the lowest point of his glittering reign came during a testing run in the autumn of 2024, when City lost nine times and won just once in the space of 13 games.",
+    "Guardiola outwardly showed signs of strain, notably when he scratched his face after City surrendered a 3-0 lead to draw 3-3 with Feyenoord in the Champions League. Continue reading...",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "YHC — CC BY-SA 4.0"
+  },
+  {
+   "id": "guardian-football-transfer-rumours-atl-tico-want-alvarez-",
+   "slug": "transfer-rumours-atl-tico-want-alvarez-to-join-arsenal-over--arez-",
+   "title": "transfer rumours: Atlético want Alvarez to join Arsenal over Barça?",
+   "dek": "Today’s gossip is being advertised in imaginative ways A new Premier League season is just days away, so it stands to reason that a few clubs are getting panicky in the…",
+   "description": "Today’s gossip is being advertised in imaginative ways A new Premier League season is just days away, so it stands to reason that a few clubs are getting panicky in the transfer market. Newcastle are certainly in need of some fresh faces after being raided earlier in the summer so, after being linked with Christopher Nkunku , could move for RB Leipzig midfielder Nicolas Seiwald . The Austria international played under Matthias Jaissle at RB Salzburg. Newcastle have shunned Manchester United’s attempts to snare Lewis Hall, so the Old Trafford club are still in the market for a left-back. Joaquin Seys , 21, of Club Brugge, is said to be a carbon copy of Hall and the Belgian has apparently been shunted to the top of United’s hitlist. Barcelona midfielder Marc Casad ó is also a potential United midfield target with the Catalans ready to move on the 22-year-old after agreeing a deal for Rodri. Continue reading...",
+   "category": "Transfers & Rumours",
+   "league": "Premier League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-08-18T08:35:44.000Z",
+   "fetched_at": "2026-08-18T09:34:14.763Z",
+   "body": [
+    "Our briefing: Today’s gossip is being advertised in imaginative ways A new Premier League season is just days away, so it stands to reason that a few clubs are getting panicky in the…",
+    "Today’s gossip is being advertised in imaginative ways A new Premier League season is just days away, so it stands to reason that a few clubs are getting panicky in the transfer market. Newcastle are certainly in need of some fresh faces after being raided earlier in the summer so, after being linked with Christopher Nkunku , could move for RB Leipzig midfielder Nicolas Seiwald . The Austria international played under Matthias Jaissle at RB Salzburg.",
+    "Newcastle have shunned Manchester United’s attempts to snare Lewis Hall, so the Old Trafford club are still in the market for a left-back. Joaquin Seys , 21, of Club Brugge, is said to be a carbon copy of Hall and the Belgian has apparently been shunted to the top of United’s hitlist. Barcelona midfielder Marc Casad ó is also a potential United midfield target with the Catalans ready to move on the 22-year-old after agreeing a deal for Rodri.",
+    "Continue reading...",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg/960px-Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
+   "id": "bbc-newcastle-complete-30m-move-benfica-s-dedic",
+   "slug": "newcastle-complete-30m-move-for-benfica-s-dedic-dedic",
+   "title": "Newcastle complete £30m move for Benfica's Dedic",
+   "dek": "Newcastle United sign defender Amar Dedic from Benfica for around £30m.",
+   "description": "Newcastle United sign defender Amar Dedic from Benfica for around £30m.",
+   "category": "News",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-18T08:33:04.000Z",
+   "fetched_at": "2026-08-18T09:34:14.613Z",
+   "body": [
+    "Our briefing: Newcastle United sign defender Amar Dedic from Benfica for around £30m.",
+    "Newcastle United sign defender Amar Dedic from Benfica for around £30m.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Newcastle_Fans_at_Stadium_of_Light_-_geograph.org.uk_-_7688866.jpg/960px-Newcastle_Fans_at_Stadium_of_Light_-_geograph.org.uk_-_7688866.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Les Hull — CC BY-SA 2.0"
   },
   {
    "id": "bbc-haaland-worth-price-pick-rogers-or-palmer-five-k",
@@ -70,7 +136,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-18T07:23:59.000Z",
-   "fetched_at": "2026-08-18T08:37:38.370Z",
+   "fetched_at": "2026-08-18T09:34:14.614Z",
    "body": [
     "Our briefing: BBC Sport's team of Fantasy Premier League experts debate some of the new season's big talking points to help you select your team before Friday's deadline.",
     "BBC Sport's team of Fantasy Premier League experts debate some of the new season's big talking points to help you select your team before Friday's deadline.",
@@ -91,15 +157,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-18T07:14:06.000Z",
-   "fetched_at": "2026-08-18T08:37:38.369Z",
+   "fetched_at": "2026-08-18T09:34:14.614Z",
    "body": [
     "Our briefing: The Arsenal captain had a hugely frustrating 2025-26 season despite leading his team to the title - but now appears fit and refreshed.",
     "The Arsenal captain had a hugely frustrating 2025-26 season despite leading his team to the title - but now appears fit and refreshed.",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "YHC — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
   },
   {
    "id": "bbc-ex-man-utd-striker-depay-takes-pay-cut-stay-cori",
@@ -112,7 +178,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-18T07:01:31.000Z",
-   "fetched_at": "2026-08-18T08:37:38.370Z",
+   "fetched_at": "2026-08-18T09:34:14.615Z",
    "body": [
     "Our briefing: Memphis Depay waives a reported fee of nearly £3m days after accusing Corinthians of \"unacceptable behaviour\" over a contract extension.",
     "Memphis Depay waives a reported fee of nearly £3m days after accusing Corinthians of \"unacceptable behaviour\" over a contract extension.",
@@ -133,7 +199,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-18T07:00:17.000Z",
-   "fetched_at": "2026-08-18T08:37:38.502Z",
+   "fetched_at": "2026-08-18T09:34:14.763Z",
    "body": [
     "Our briefing: Director Joe Pearlman says he expected Real Madrid manager to ‘try to manipulate us’ in making of Netflix series Even in the hyperreal world of football, there are few…",
     "Director Joe Pearlman says he expected Real Madrid manager to ‘try to manipulate us’ in making of Netflix series Even in the hyperreal world of football, there are few characters more compelling, more polarising, or more everything than José Mourinho, the best and worst of public him on full display in a new three-part Netflix series . “It reminded me how good he was,” says Joe Pearlman, who directed Mourinho, and the actual Mourinho is, believe it or not, keen to communicate the same. As he puts it in the show: “I look, you look, I see more than you.",
@@ -156,7 +222,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-18T07:00:17.000Z",
-   "fetched_at": "2026-08-18T08:37:38.502Z",
+   "fetched_at": "2026-08-18T09:34:14.763Z",
    "body": [
     "Our briefing: There will be some familiar faces involved in this week’s European qualifiers as a number of smaller clubs have a chance to make their mark Fenerbahce v Lyon, Tuesday 8pm…",
     "There will be some familiar faces involved in this week’s European qualifiers as a number of smaller clubs have a chance to make their mark Fenerbahce v Lyon, Tuesday 8pm Romelu Lukaku is the latest familiar face to rock up at Fenerbahce. The 33-year-old striker is, however, unlikely to be fit for Lyon’s visit to Istanbul on Tuesday – he sat out Saturday’s 2-1 defeat to Genclerbirligi, the club his father played for in the 1990s. “This beautiful country is a second home to me,” Lukaku, who spent part of his childhood in Turkey, said last week.",
@@ -178,7 +244,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-18T06:45:55.000Z",
-   "fetched_at": "2026-08-18T08:37:38.615Z",
+   "fetched_at": "2026-08-18T09:34:14.869Z",
    "body": [
     "Our briefing: Boehly has served as Chelsea’s chairman since June 2022",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -198,7 +264,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-18T06:38:35.000Z",
-   "fetched_at": "2026-08-18T08:37:38.372Z",
+   "fetched_at": "2026-08-18T09:34:14.617Z",
    "body": [
     "Our briefing: Celtic midfielder rejects transfer approaches as Rangers close in on deal for right-back from Premier League...",
     "Celtic midfielder rejects transfer approaches as Rangers close in on deal for right-back from Premier League...",
@@ -238,7 +304,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-18T06:11:55.000Z",
-   "fetched_at": "2026-08-18T08:37:38.369Z",
+   "fetched_at": "2026-08-18T09:34:14.614Z",
    "body": [
     "Our briefing: Erling Haaland will hope for a record-equalling fourth Golden Boot this season - but who could challenge him as the Premier League's top-scorer?",
     "Erling Haaland will hope for a record-equalling fourth Golden Boot this season - but who could challenge him as the Premier League's top-scorer?",
@@ -259,7 +325,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-18T06:04:18.000Z",
-   "fetched_at": "2026-08-18T08:37:38.370Z",
+   "fetched_at": "2026-08-18T09:34:14.615Z",
    "body": [
     "Our briefing: Work out the identity of today's player in as few attempts as possible.",
     "Work out the identity of today's player in as few attempts as possible.",
@@ -280,7 +346,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-18T05:59:57.000Z",
-   "fetched_at": "2026-08-18T08:37:38.370Z",
+   "fetched_at": "2026-08-18T09:34:14.614Z",
    "body": [
     "Our briefing: Will you beat the clock by getting all five of today's answers in five minutes?",
     "Will you beat the clock by getting all five of today's answers in five minutes?",
@@ -301,7 +367,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-18T05:49:00.000Z",
-   "fetched_at": "2026-08-18T08:37:38.369Z",
+   "fetched_at": "2026-08-18T09:34:14.613Z",
    "body": [
     "Our briefing: BBC Sport TV and radio commentators identify the players they think could be the breakout stars of the new Premier League season.",
     "BBC Sport TV and radio commentators identify the players they think could be the breakout stars of the new Premier League season.",
@@ -322,7 +388,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-18T05:30:55.000Z",
-   "fetched_at": "2026-08-18T08:37:38.615Z",
+   "fetched_at": "2026-08-18T09:34:14.869Z",
    "body": [
     "Our briefing: Arsenal’s strength and depth makes them our favourites to defend their title but who will challenge them?",
     "Arsenal’s strength and depth makes them our favourites to defend their title but who will challenge them?",
@@ -343,14 +409,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-18T05:30:15.000Z",
-   "fetched_at": "2026-08-18T08:37:38.615Z",
+   "fetched_at": "2026-08-18T09:34:14.869Z",
    "body": [
     "Our briefing: A comprehensive guide of the players to target (and a few more) ahead of the start of the Fantasy Premier League season on Friday",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Badalik_Szabolcs_Hungarian_beach_soccer_player.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "Badalik Szabolcs — CC BY 4.0"
   },
   {
    "id": "independent-transfer-reality-holding-man-united-back-next-st",
@@ -363,14 +429,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-18T05:00:00.000Z",
-   "fetched_at": "2026-08-18T08:37:38.615Z",
+   "fetched_at": "2026-08-18T09:34:14.869Z",
    "body": [
     "Our briefing: United have missed out on two of their top targets and look short of the firepower to outbid their rivals ahead of a first full campaign under Carrick and the ultimate…",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Badalik_Szabolcs_Hungarian_beach_soccer_player.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "Badalik Szabolcs — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
    "id": "guardian-premier-league-2026-27-preview-no-13-leeds",
@@ -383,7 +449,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-17T23:01:07.000Z",
-   "fetched_at": "2026-08-18T08:37:38.502Z",
+   "fetched_at": "2026-08-18T09:34:14.763Z",
    "body": [
     "Our briefing: After keeping Leeds up last season and reaching an FA Cup semi-final, Daniel Farke has good reason to expect further improvement at Elland Road Guardian writers’…",
     "After keeping Leeds up last season and reaching an FA Cup semi-final, Daniel Farke has good reason to expect further improvement at Elland Road Guardian writers’ predicted position: 12th (NB: this is not necessarily Louise Taylor’s prediction but the average of our writers’ tips) Last season’s position: 14th Continue reading...",
@@ -404,7 +470,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-17T23:01:00.000Z",
-   "fetched_at": "2026-08-18T08:37:38.615Z",
+   "fetched_at": "2026-08-18T09:34:14.869Z",
    "body": [
     "Our briefing: Guardiola drew the ire of his higher-ups after swapping out 10 of his players for Man City’s Champions League defeat to Bayer Leverkusen last season",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -412,26 +478,6 @@
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Final_Manchester_City_Match_at_Maine_Road_-_geograph.org.uk_-_3820257.jpg/960px-Final_Manchester_City_Match_at_Maine_Road_-_geograph.org.uk_-_3820257.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Richard Cooke — CC BY-SA 2.0"
-  },
-  {
-   "id": "independent-what-new-man-city-documentary-reveals-about-end-",
-   "slug": "what-the-new-man-city-documentary-reveals-about-the-end-of-p--end-",
-   "title": "What the new Man City documentary reveals about the end of Pep Guardiola’s reign",
-   "dek": "Guardiola brought the curtain down on a decade of dominance at the end of last season – but a new Prime Video documentary reveals he almost walked away far sooner",
-   "description": "Guardiola brought the curtain down on a decade of dominance at the end of last season – but a new Prime Video documentary reveals he almost walked away far sooner",
-   "category": "News",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-08-17T23:01:00.000Z",
-   "fetched_at": "2026-08-18T08:37:38.615Z",
-   "body": [
-    "Our briefing: Guardiola brought the curtain down on a decade of dominance at the end of last season – but a new Prime Video documentary reveals he almost walked away far sooner",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Manchester_City_dressing_room_2022.jpg/960px-Manchester_City_dressing_room_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Christian David — CC BY-SA 4.0"
   },
   {
    "id": "independent-pep-guardiola-kyle-walker-s-major-feud-captured-",
@@ -444,9 +490,29 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-17T23:01:00.000Z",
-   "fetched_at": "2026-08-18T08:37:38.615Z",
+   "fetched_at": "2026-08-18T09:34:14.869Z",
    "body": [
     "Our briefing: The pair’s relationship broke down during City’s dreadful autumn of 2024, a run of nine losses in 12 games",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Manchester_City_dressing_room_2022.jpg/960px-Manchester_City_dressing_room_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Christian David — CC BY-SA 4.0"
+  },
+  {
+   "id": "independent-what-new-man-city-documentary-reveals-about-end-",
+   "slug": "what-the-new-man-city-documentary-reveals-about-the-end-of-p--end-",
+   "title": "What the new Man City documentary reveals about the end of Pep Guardiola’s reign",
+   "dek": "Guardiola brought the curtain down on a decade of dominance at the end of last season – but a new Prime Video documentary reveals he almost walked away far sooner",
+   "description": "Guardiola brought the curtain down on a decade of dominance at the end of last season – but a new Prime Video documentary reveals he almost walked away far sooner",
+   "category": "News",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-08-17T23:01:00.000Z",
+   "fetched_at": "2026-08-18T09:34:14.869Z",
+   "body": [
+    "Our briefing: Guardiola brought the curtain down on a decade of dominance at the end of last season – but a new Prime Video documentary reveals he almost walked away far sooner",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
@@ -464,14 +530,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-17T23:00:04.000Z",
-   "fetched_at": "2026-08-18T08:37:38.369Z",
+   "fetched_at": "2026-08-18T09:34:14.614Z",
    "body": [
     "Our briefing: A new documentary series about Pep Guardiola's final two seasons at Manchester City reveals the bust-up he had with former captain Kyle Walker.",
     "A new documentary series about Pep Guardiola's final two seasons at Manchester City reveals the bust-up he had with former captain Kyle Walker.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -485,15 +551,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-17T22:54:09.000Z",
-   "fetched_at": "2026-08-18T08:37:38.369Z",
+   "fetched_at": "2026-08-18T09:34:14.614Z",
    "body": [
     "Our briefing: Brian Barry-Murphy toasts substitute Rubin Colwill's impact in Cardiff City's dramatic Welsh derby draw with Wrexham.",
     "Brian Barry-Murphy toasts substitute Rubin Colwill's impact in Cardiff City's dramatic Welsh derby draw with Wrexham.",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   },
   {
    "id": "bbc-former-wolves-captain-bailey-dies-aged-84",
@@ -506,7 +572,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-17T22:43:44.000Z",
-   "fetched_at": "2026-08-18T08:37:38.370Z",
+   "fetched_at": "2026-08-18T09:34:14.616Z",
    "body": [
     "Our briefing: Former Wolverhampton Wanderers captain Mike Bailey dies aged 84 after a long illness.",
     "Former Wolverhampton Wanderers captain Mike Bailey dies aged 84 after a long illness.",
@@ -527,15 +593,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-17T22:30:10.000Z",
-   "fetched_at": "2026-08-18T08:37:38.370Z",
+   "fetched_at": "2026-08-18T09:34:14.615Z",
    "body": [
     "Our briefing: Phil Parkinson bemoans his team's lack of ruthlessness – and the amount of stoppage time at the end – after a 98th-minute equaliser denies Wrexham victory at Cardiff.",
     "Phil Parkinson bemoans his team's lack of ruthlessness – and the amount of stoppage time at the end – after a 98th-minute equaliser denies Wrexham victory at Cardiff.",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "bbc-football-daily",
@@ -548,7 +614,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-17T22:15:00.000Z",
-   "fetched_at": "2026-08-18T08:37:38.370Z",
+   "fetched_at": "2026-08-18T09:34:14.616Z",
    "body": [
     "Our briefing: Joe Hart, Chris Sutton and Adam Crafton join Mark to preview the Premier League season.",
     "Joe Hart, Chris Sutton and Adam Crafton join Mark to preview the Premier League season.",
@@ -569,7 +635,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-17T21:42:19.000Z",
-   "fetched_at": "2026-08-18T08:37:38.370Z",
+   "fetched_at": "2026-08-18T09:34:14.615Z",
    "body": [
     "Our briefing: Manchester City will need to pay more than £120m for Enzo Fernandez, Chelsea winger Pedro Neto has no shortage of suitors, Bruno Fernandes is offered a huge salary…",
     "Manchester City will need to pay more than £120m for Enzo Fernandez, Chelsea winger Pedro Neto has no shortage of suitors, Bruno Fernandes is offered a huge salary increase, plus more.",
@@ -590,15 +656,15 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-17T21:32:53.000Z",
-   "fetched_at": "2026-08-18T08:37:38.502Z",
+   "fetched_at": "2026-08-18T09:34:14.763Z",
    "body": [
     "Our briefing: Rubin Colwill scored a ferocious equaliser with almost the final kick of the match to earn Cardiff a 1-1 Championship draw with Wrexham. Wrexham appeared to have the…",
     "Rubin Colwill scored a ferocious equaliser with almost the final kick of the match to earn Cardiff a 1-1 Championship draw with Wrexham. Wrexham appeared to have the Welsh derby bragging rights sewn up as the contest ticked into the eighth minute of added time at Cardiff City Stadium. Continue reading...",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
    "id": "guardian-colwill-s-last-gasp-free-kick-earns-cardiff-dram",
@@ -631,7 +697,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-17T21:18:49.000Z",
-   "fetched_at": "2026-08-18T08:37:38.370Z",
+   "fetched_at": "2026-08-18T09:34:14.616Z",
    "body": [
     "Our briefing: Chelsea chairman Todd Boehly and director Mark Walter explore selling their stakes in the club to majority owner Clearlake Capital.",
     "Chelsea chairman Todd Boehly and director Mark Walter explore selling their stakes in the club to majority owner Clearlake Capital.",
@@ -652,14 +718,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-17T20:46:08.000Z",
-   "fetched_at": "2026-08-18T08:37:38.369Z",
+   "fetched_at": "2026-08-18T09:34:14.614Z",
    "body": [
     "Our briefing: Senior Fifa figure Kevin Lamour is sacked by football's world governing body three weeks after criticising its president Gianni Infantino.",
     "Senior Fifa figure Kevin Lamour is sacked by football's world governing body three weeks after criticising its president Gianni Infantino.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -673,7 +739,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-17T20:39:42.000Z",
-   "fetched_at": "2026-08-18T08:37:38.371Z",
+   "fetched_at": "2026-08-18T09:34:14.616Z",
    "body": [
     "Our briefing: Brighton reject a £7.5m bid from Rangers for winger Amario Cozier-Duberry.",
     "Brighton reject a £7. 5m bid from Rangers for winger Amario Cozier-Duberry.",
@@ -694,7 +760,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-17T20:25:07.000Z",
-   "fetched_at": "2026-08-18T08:37:38.502Z",
+   "fetched_at": "2026-08-18T09:34:14.763Z",
    "body": [
     "Our briefing: Kevin Lamour said Fifa administration was ‘deceived’ Chief operating officer knew he could lose his job The Fifa chief operating officer, Kevin Lamour, has been sacked…",
     "Kevin Lamour said Fifa administration was ‘deceived’ Chief operating officer knew he could lose his job The Fifa chief operating officer, Kevin Lamour, has been sacked after openly criticising Gianni Infantino’s ill-fated plan to sell parts of the World Cup to private investors. In a significant development at the pinnacle of world football’s deeply troubled governing body, Lamour has departed less than two years after joining from a previous role at Uefa. He had come out strongly against Infantino’s FFE scheme after it was revealed, saying Fifa’s administration had been “deceived” and that the president “believes he embodies Fifa when he is supposed to be at its service”.",
@@ -702,8 +768,8 @@
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Kashima_Soccer_Stadium_6.jpg/960px-Kashima_Soccer_Stadium_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   },
   {
    "id": "bbc-rodri-lands-barcelona-complete-dream-move",
@@ -716,7 +782,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-17T20:02:27.000Z",
-   "fetched_at": "2026-08-18T08:37:38.370Z",
+   "fetched_at": "2026-08-18T09:34:14.615Z",
    "body": [
     "Our briefing: Spain midfielder Rodri says it is his \"dream\" to play for Barcelona as he arrives in the city to complete his move from Manchester City.",
     "Spain midfielder Rodri says it is his \"dream\" to play for Barcelona as he arrives in the city to complete his move from Manchester City.",
@@ -779,7 +845,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-17T19:39:23.000Z",
-   "fetched_at": "2026-08-18T08:37:38.502Z",
+   "fetched_at": "2026-08-18T09:34:14.763Z",
    "body": [
     "Our briefing: Spain midfielder in £65.4m move from Manchester City ‘I’m happy that everything has been resolved’ Rodri has said it is “a dream” to play for Barcelona after landing in…",
     "Spain midfielder in £65. 4m move from Manchester City ‘I’m happy that everything has been resolved’ Rodri has said it is “a dream” to play for Barcelona after landing in Catalonia on Monday to complete his move from Manchester City. Spain’s World Cup-winning captain will have a medical on Tuesday after City accepted Barcelona’s third bid of £65.",
@@ -791,68 +857,6 @@
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/2014._Camp_Nou._M%C3%A9s_que_un_club._Barcelona_B40.jpg/960px-2014._Camp_Nou._M%C3%A9s_que_un_club._Barcelona_B40.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Luis Miguel Bugallo Sánchez (Lmbuga) — CC BY-SA 3.0"
-  },
-  {
-   "id": "independent-fifa-s-chief-operating-officer-leaves-after-scat",
-   "slug": "fifa-s-chief-operating-officer-leaves-after-scathing-critici--scat",
-   "title": "Fifa’s chief operating officer leaves after scathing criticism of Gianni Infantino",
-   "dek": "Kevin Lamour had accused Infantino of ‘deceiving’ Fifa over his now-abandoned World Cup plans",
-   "description": "Kevin Lamour had accused Infantino of ‘deceiving’ Fifa over his now-abandoned World Cup plans",
-   "category": "News",
-   "league": "Football",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-08-17T19:38:47.000Z",
-   "fetched_at": "2026-08-18T08:37:38.615Z",
-   "body": [
-    "Our briefing: Kevin Lamour had accused Infantino of ‘deceiving’ Fifa over his now-abandoned World Cup plans",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
-  },
-  {
-   "id": "guardian-todd-boehly-mark-walter-consider-selling-chelsea",
-   "slug": "todd-boehly-and-mark-walter-consider-selling-chelsea-shares--elsea",
-   "title": "Todd Boehly and Mark Walter consider selling Chelsea shares to Clearlake Capital",
-   "dek": "Chelsea chair Boehly and Walter each own about 13% Sale would give Clearlake effective control of club at 86% The Chelsea chair, Todd Boehly, and director Mark Walter are…",
-   "description": "Chelsea chair Boehly and Walter each own about 13% Sale would give Clearlake effective control of club at 86% The Chelsea chair, Todd Boehly, and director Mark Walter are considering selling their shares in the club to the majority owners, Clearlake Capital, in a deal that would give the private equity company complete control at Stamford Bridge. Clearlake, whose investment is managed by Behdad Eghbali and José E Feliciano, already owns more than 60% of Chelsea, but in an unusual arrangement agreed when buying the club from Roman Abramovich four years ago, they share operational control with a consortium led by Boehly, who along with Walter and Hansjörg Wyss each own about 13%. Continue reading...",
-   "category": "News",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-08-17T18:56:28.000Z",
-   "fetched_at": "2026-08-18T08:37:38.502Z",
-   "body": [
-    "Our briefing: Chelsea chair Boehly and Walter each own about 13% Sale would give Clearlake effective control of club at 86% The Chelsea chair, Todd Boehly, and director Mark Walter are…",
-    "Chelsea chair Boehly and Walter each own about 13% Sale would give Clearlake effective control of club at 86% The Chelsea chair, Todd Boehly, and director Mark Walter are considering selling their shares in the club to the majority owners, Clearlake Capital, in a deal that would give the private equity company complete control at Stamford Bridge. Clearlake, whose investment is managed by Behdad Eghbali and José E Feliciano, already owns more than 60% of Chelsea, but in an unusual arrangement agreed when buying the club from Roman Abramovich four years ago, they share operational control with a consortium led by Boehly, who along with Walter and Hansjörg Wyss each own about 13%. Continue reading...",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Chelsea_Stadium_-_panoramio.jpg/960px-Chelsea_Stadium_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Carlos Cunha — CC BY-SA 3.0"
-  },
-  {
-   "id": "bbc-west-brom-talks-over-permanent-collyer-return",
-   "slug": "west-brom-in-talks-over-permanent-collyer-return-eturn",
-   "title": "West Brom in talks over permanent Collyer return",
-   "dek": "Manchester United midfielder Toby Collyer is in talks with West Bromwich Albion about returning to The Hawthorns on a permanent basis.",
-   "description": "Manchester United midfielder Toby Collyer is in talks with West Bromwich Albion about returning to The Hawthorns on a permanent basis.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-17T18:26:31.000Z",
-   "fetched_at": "2026-08-18T08:37:38.371Z",
-   "body": [
-    "Our briefing: Manchester United midfielder Toby Collyer is in talks with West Bromwich Albion about returning to The Hawthorns on a permanent basis.",
-    "Manchester United midfielder Toby Collyer is in talks with West Bromwich Albion about returning to The Hawthorns on a permanent basis.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Kashima_Soccer_Stadium_6.jpg/960px-Kashima_Soccer_Stadium_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   }
  ]
 }
