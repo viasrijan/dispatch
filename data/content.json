@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-19T10:29:42.121Z",
- "updated_utc": "2026-08-19T10:29Z",
- "cycle": 29785589,
+ "generated_at": "2026-08-19T10:57:44.131Z",
+ "updated_utc": "2026-08-19T10:57Z",
+ "cycle": 29785617,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,8 +16,29 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "bbc-man-utd-close-deal-brighton-s-baleba",
+ "hero_id": "independent-manchester-united-table-bid-carlos-baleba-midfie",
  "articles": [
+  {
+   "id": "bbc-mourinho-told-vinicius-jr-not-worth-leaving-real",
+   "slug": "mourinho-told-vinicius-jr-not-worth-leaving-real--real",
+   "title": "Mourinho told Vinicius Jr 'not worth' leaving Real",
+   "dek": "Jose Mourinho explains how he successfully persuaded Vinicius Jr to remain the Spanish club.",
+   "description": "Jose Mourinho explains how he successfully persuaded Vinicius Jr to remain the Spanish club.",
+   "category": "Tactics & Analysis",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-19T10:54:36.000Z",
+   "fetched_at": "2026-08-19T10:57:36.785Z",
+   "body": [
+    "Our briefing: Jose Mourinho explains how he successfully persuaded Vinicius Jr to remain the Spanish club.",
+    "Jose Mourinho explains how he successfully persuaded Vinicius Jr to remain the Spanish club.",
+    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
+  },
   {
    "id": "bbc-arsenal-preference-nwaneri-leave-loan",
    "slug": "arsenal-preference-is-for-nwaneri-to-leave-on-loan--loan",
@@ -29,7 +50,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-19T10:24:11.000Z",
-   "fetched_at": "2026-08-19T10:29:34.348Z",
+   "fetched_at": "2026-08-19T10:57:36.785Z",
    "body": [
     "Our briefing: Arsenal prioritise loan offers for Ethan Nwaneri with the Premier League champions keen to avoid selling their teenage attacker permanently.",
     "Arsenal prioritise loan offers for Ethan Nwaneri with the Premier League champions keen to avoid selling their teenage attacker permanently.",
@@ -38,6 +59,27 @@
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg/960px-Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
+  },
+  {
+   "id": "bbc-welsh-fa-chief-calls-infantino-step-down",
+   "slug": "welsh-fa-chief-calls-for-infantino-to-step-down--down",
+   "title": "Welsh FA chief calls for Infantino to step down",
+   "dek": "Football Association of Wales chief executive Noel Mooney says Fifa president Gianni Infantino should step down.",
+   "description": "Football Association of Wales chief executive Noel Mooney says Fifa president Gianni Infantino should step down.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-19T10:21:24.000Z",
+   "fetched_at": "2026-08-19T10:57:36.784Z",
+   "body": [
+    "Our briefing: Football Association of Wales chief executive Noel Mooney says Fifa president Gianni Infantino should step down.",
+    "Football Association of Wales chief executive Noel Mooney says Fifa president Gianni Infantino should step down.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "John Shorten — CC BY 4.0"
   },
   {
    "id": "independent-manchester-united-table-bid-carlos-baleba-midfie",
@@ -50,7 +92,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-19T10:08:47.000Z",
-   "fetched_at": "2026-08-19T10:29:34.715Z",
+   "fetched_at": "2026-08-19T10:57:37.130Z",
    "body": [
     "Our briefing: Michael Carrick has already brought in Youri Tielemans and Andrey Santos this summer",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -78,8 +120,7 @@
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": null
+   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   {
    "id": "guardian-turkey-home-savvy-signings-or-new-retirement-lea",
@@ -92,7 +133,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-19T10:00:12.000Z",
-   "fetched_at": "2026-08-19T10:29:34.482Z",
+   "fetched_at": "2026-08-19T10:57:36.883Z",
    "body": [
     "Our briefing: Mohamed Salah’s arrival made a splash, but the Turkish Super Lig will probably become the latest league to end up as a bailout fund for Europe’s powerhouses Mohamed Salah…",
     "Mohamed Salah’s arrival made a splash, but the Turkish Super Lig will probably become the latest league to end up as a bailout fund for Europe’s powerhouses Mohamed Salah plays in Turkey now. So do Romelu Lukaku and Leandro Trossard and Leroy Sané and Nathan Aké. Mason Greenwood and N’Golo Kanté and Dusan Vlahovic, too.",
@@ -114,7 +155,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-19T09:51:10.000Z",
-   "fetched_at": "2026-08-19T10:29:34.715Z",
+   "fetched_at": "2026-08-19T10:57:37.130Z",
    "body": [
     "Our briefing: The World Cup-winning captain completed a move from Manchester City this week",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
@@ -134,7 +175,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-19T09:50:55.000Z",
-   "fetched_at": "2026-08-19T10:29:34.347Z",
+   "fetched_at": "2026-08-19T10:57:36.784Z",
    "body": [
     "Our briefing: Manchester United are in talks to sign Cameroon international Carlos Baleba having reignited their interest in the midfielder.",
     "Manchester United are in talks to sign Cameroon international Carlos Baleba having reignited their interest in the midfielder.",
@@ -155,7 +196,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-19T09:40:24.000Z",
-   "fetched_at": "2026-08-19T10:29:34.715Z",
+   "fetched_at": "2026-08-19T10:57:37.130Z",
    "body": [
     "Our briefing: Manchester United are to reject an approach for Bruno Fernandes from Galatasaray after they planned to submit a bid to double their captain’s salary",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -175,7 +216,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-19T09:25:38.000Z",
-   "fetched_at": "2026-08-19T10:29:34.349Z",
+   "fetched_at": "2026-08-19T10:57:36.785Z",
    "body": [
     "Our briefing: Kosta Nedeljkovic joins Rangers on a season-long loan from Aston Villa, with the Ibrox club holding a \"conditional obligation\" to buy the 20-year-old Serbia defender.",
     "Kosta Nedeljkovic joins Rangers on a season-long loan from Aston Villa, with the Ibrox club holding a \"conditional obligation\" to buy the 20-year-old Serbia defender.",
@@ -196,7 +237,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-19T09:12:22.000Z",
-   "fetched_at": "2026-08-19T10:29:34.349Z",
+   "fetched_at": "2026-08-19T10:57:36.785Z",
    "body": [
     "Our briefing: Former France midfielder Paul Pogba leaves Monaco with his contract terminated after just one season.",
     "Former France midfielder Paul Pogba leaves Monaco with his contract terminated after just one season.",
@@ -236,7 +277,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-19T08:41:10.000Z",
-   "fetched_at": "2026-08-19T10:29:34.482Z",
+   "fetched_at": "2026-08-19T10:57:36.883Z",
    "body": [
     "Our briefing: Today’s gossip is still on the beach It seems the possibility of winning the Ballon d’Or is not the only thing the England captain Harry Kane has been talking about…",
     "Today’s gossip is still on the beach It seems the possibility of winning the Ballon d’Or is not the only thing the England captain Harry Kane has been talking about recently. Well, his representatives at least. It is thought the Bayern Munich striker’s team have been in talks with the Saudi Pro League’s Al-Hilal with Kane reportedly open to a future move.",
@@ -258,7 +299,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-19T08:41:07.000Z",
-   "fetched_at": "2026-08-19T10:29:34.348Z",
+   "fetched_at": "2026-08-19T10:57:36.784Z",
    "body": [
     "Our briefing: Aston Villa confirm the signings of goalkeeper Zion Suzuki and left-back Matteo Ruggeri in deals worth a combined £47m.",
     "Aston Villa confirm the signings of goalkeeper Zion Suzuki and left-back Matteo Ruggeri in deals worth a combined £47m.",
@@ -279,15 +320,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-19T08:22:39.000Z",
-   "fetched_at": "2026-08-19T10:29:34.348Z",
+   "fetched_at": "2026-08-19T10:57:36.785Z",
    "body": [
     "Our briefing: BBC Sport will bring football fans closer to the action across TV, radio, YouTube, website and app.",
     "BBC Sport will bring football fans closer to the action across TV, radio, YouTube, website and app.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "John Shorten — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
   },
   {
    "id": "independent-bbc-announces-four-new-pundits-match-day-this-se",
@@ -300,14 +341,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-19T08:17:12.000Z",
-   "fetched_at": "2026-08-19T10:29:34.715Z",
+   "fetched_at": "2026-08-19T10:57:37.130Z",
    "body": [
     "Our briefing: The BBC will again have highlights of every Premier League game",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "independent-ranking-every-premier-league-team-before-most-un",
@@ -320,14 +361,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-19T08:05:19.000Z",
-   "fetched_at": "2026-08-19T10:29:34.715Z",
+   "fetched_at": "2026-08-19T10:57:37.130Z",
    "body": [
     "Our briefing: Arsenal’s strength and depth makes them our favourites to defend their title but who will challenge them?",
     "Arsenal’s strength and depth makes them our favourites to defend their title but who will challenge them?",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -341,15 +382,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-19T08:01:45.000Z",
-   "fetched_at": "2026-08-19T10:29:34.348Z",
+   "fetched_at": "2026-08-19T10:57:36.785Z",
    "body": [
     "Our briefing: After tumbling from the Champions League to the depths of Spain's semi-professional third tier, Malaga are back in La Liga after almost a decade away.",
     "After tumbling from the Champions League to the depths of Spain's semi-professional third tier, Malaga are back in La Liga after almost a decade away.",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
    "id": "guardian-premier-league-season-preview-arsenal-fulham-foo",
@@ -362,7 +403,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-19T07:58:14.000Z",
-   "fetched_at": "2026-08-19T10:29:34.482Z",
+   "fetched_at": "2026-08-19T10:57:36.883Z",
    "body": [
     "Our briefing: Max Rushden is joined by Barry Glendenning, Jonathan Wilson, Philippe Auclair for the first of our Premier League preview podcasts. Continue reading...",
     "Max Rushden is joined by Barry Glendenning, Jonathan Wilson, Philippe Auclair for the first of our Premier League preview podcasts. Continue reading...",
@@ -383,14 +424,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-19T07:39:41.000Z",
-   "fetched_at": "2026-08-19T10:29:34.716Z",
+   "fetched_at": "2026-08-19T10:57:37.131Z",
    "body": [
     "Our briefing: Musiala fell to the floor after coming on as a substitute on Tuesday, while he also collapsed on the pitch on Saturday",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   },
   {
    "id": "independent-mikel-arteta-made-arsenal-champions-here-s-how-h",
@@ -403,7 +444,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-19T07:37:31.000Z",
-   "fetched_at": "2026-08-19T10:29:34.716Z",
+   "fetched_at": "2026-08-19T10:57:37.131Z",
    "body": [
     "Our briefing: With stability and squad depth the Gunners can capitalise on an unpredictable top-flight season and win back-to-back titles for the first time since 1935 says Miguel…",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
@@ -442,14 +483,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-19T07:11:05.000Z",
-   "fetched_at": "2026-08-19T10:29:34.348Z",
+   "fetched_at": "2026-08-19T10:57:36.785Z",
    "body": [
     "Our briefing: Want to win your Fantasy Premier League mini-league but need some expert advice? Here are some tips from last season's champion Erik Ibsen.",
     "Want to win your Fantasy Premier League mini-league but need some expert advice? Here are some tips from last season's champion Erik Ibsen.",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "imageCredit": null
   },
   {
@@ -463,14 +504,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-19T07:10:48.000Z",
-   "fetched_at": "2026-08-19T10:29:34.350Z",
+   "fetched_at": "2026-08-19T10:57:36.786Z",
    "body": [
     "Our briefing: Northern Ireland goalkeeper Jackie Burns is the number one for her country and has just signed for Burnley - but she is already thinking about her next steps.",
     "Northern Ireland goalkeeper Jackie Burns is the number one for her country and has just signed for Burnley - but she is already thinking about her next steps.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -484,7 +525,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-19T07:00:08.000Z",
-   "fetched_at": "2026-08-19T10:29:34.482Z",
+   "fetched_at": "2026-08-19T10:57:36.883Z",
    "body": [
     "Our briefing: Royal family-backed Johor Darul Ta’zim are on the verge of a world-record 109 league games unbeaten and their former Watford manager is aiming higher Many Watford fans…",
     "Royal family-backed Johor Darul Ta’zim are on the verge of a world-record 109 league games unbeaten and their former Watford manager is aiming higher Many Watford fans felt Xisco Muñoz was dismissed too soon after leading them into the Premier League as Championship runners-up in 2021, only to be ousted less than two months into the new season. He is remembered fondly at Vicarage Road, an emblem of the churn-and-burn of the Gino Pozzo era. But unless you continued to follow the Spaniard’s career closely, you would struggle to guess where he manages now.",
@@ -492,8 +533,8 @@
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
    "id": "guardian-march-may-more-footballers-scoring-months-that-m",
@@ -506,7 +547,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-19T07:00:08.000Z",
-   "fetched_at": "2026-08-19T10:29:34.482Z",
+   "fetched_at": "2026-08-19T10:57:36.883Z",
    "body": [
     "Our briefing: Plus: goalkeepers sent off far from their penalty area, and the fastest spot-kicks ever awarded Mail us with your all of your questions and answers “Birmingham’s August…",
     "Plus: goalkeepers sent off far from their penalty area, and the fastest spot-kicks ever awarded Mail us with your all of your questions and answers “Birmingham’s August Priske scored the only goal at Swansea in the League Cup on 8 August. Can you think of any other examples of players scoring in their namesake months? ” wonders Paul Tiffen.",
@@ -514,7 +555,7 @@
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
   },
   {
@@ -528,7 +569,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-19T07:00:00.000Z",
-   "fetched_at": "2026-08-19T10:29:34.352Z",
+   "fetched_at": "2026-08-19T10:57:36.788Z",
    "body": [
     "Our briefing: Can Celtic overcome LASK and reach the Champions League group stage?",
     "Can Celtic overcome LASK and reach the Champions League group stage?",
@@ -549,7 +590,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-19T06:50:42.000Z",
-   "fetched_at": "2026-08-19T10:29:34.352Z",
+   "fetched_at": "2026-08-19T10:57:36.788Z",
    "body": [
     "Our briefing: Celtic advance in search of a midfielder and goalkeeper as Dundee aim to secure striker on loan...",
     "Celtic advance in search of a midfielder and goalkeeper as Dundee aim to secure striker on loan...",
@@ -570,7 +611,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-19T06:29:26.000Z",
-   "fetched_at": "2026-08-19T10:29:34.348Z",
+   "fetched_at": "2026-08-19T10:57:36.785Z",
    "body": [
     "Our briefing: As Manchester United prepare to start the new Premier League season at Hull on Saturday, BBC Sport examines how Michael Carrick's team will set up tactically.",
     "As Manchester United prepare to start the new Premier League season at Hull on Saturday, BBC Sport examines how Michael Carrick's team will set up tactically.",
@@ -610,15 +651,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-19T05:51:02.000Z",
-   "fetched_at": "2026-08-19T10:29:34.349Z",
+   "fetched_at": "2026-08-19T10:57:36.785Z",
    "body": [
     "Our briefing: Work out the identity of today's player in as few attempts as possible.",
     "Work out the identity of today's player in as few attempts as possible.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/CPSL_2005_semifinals_-_Esther_Shiner_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "Robin Glover — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "bbc-five-five-football-quiz-no-3",
@@ -631,15 +672,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-19T05:37:16.000Z",
-   "fetched_at": "2026-08-19T10:29:34.348Z",
+   "fetched_at": "2026-08-19T10:57:36.785Z",
    "body": [
     "Our briefing: Will you beat the clock by getting all five of today's answers in five minutes?",
     "Will you beat the clock by getting all five of today's answers in five minutes?",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "bbc-how-will-your-club-fare-phil-mcnulty-s-premier-l",
@@ -652,15 +693,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-19T05:21:19.000Z",
-   "fetched_at": "2026-08-19T10:29:34.347Z",
+   "fetched_at": "2026-08-19T10:57:36.784Z",
    "body": [
     "Our briefing: How will your club fare in the 2026-27 Premier League? BBC chief football writer Phil McNulty makes his annual predictions.",
     "How will your club fare in the 2026-27 Premier League? BBC chief football writer Phil McNulty makes his annual predictions.",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Kashima_Soccer_Stadium_6.jpg/960px-Kashima_Soccer_Stadium_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   },
   {
    "id": "independent-four-unsolved-problems-threatening-derail-liverp",
@@ -673,7 +714,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-19T05:00:00.000Z",
-   "fetched_at": "2026-08-19T10:29:34.716Z",
+   "fetched_at": "2026-08-19T10:57:37.131Z",
    "body": [
     "Our briefing: Taking over an unfinished squad and an injury prone defence while tasked with fitting in last year’s expensive signings and replacing Mohamed Salah means Andoni Iraola…",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -693,15 +734,15 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-19T04:03:26.000Z",
-   "fetched_at": "2026-08-19T10:29:34.482Z",
+   "fetched_at": "2026-08-19T10:57:36.884Z",
    "body": [
     "Our briefing: Forward says One Nation leader’s comments made him ‘emotional’ Players upset ‘because there’s so many young blokes that look up to us’ Pauline Hanson’s claims that the…",
     "Forward says One Nation leader’s comments made him ‘emotional’ Players upset ‘because there’s so many young blokes that look up to us’ Pauline Hanson’s claims that the national men’s football team represented a monocultural Australia angered many Socceroos during this year’s World Cup, Nestory Irankunda has said. The One Nation leader’s comments came a week after the team beat Turkey in their opening match of the group stage at the tournament in North America. Continue reading...",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Kashima_Soccer_Stadium_6.jpg/960px-Kashima_Soccer_Stadium_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
    "id": "guardian-premier-league-2026-27-preview-no-15-manchester-",
@@ -714,7 +755,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-18T23:01:03.000Z",
-   "fetched_at": "2026-08-19T10:29:34.482Z",
+   "fetched_at": "2026-08-19T10:57:36.883Z",
    "body": [
     "Our briefing: With the departures of Pep Guardiola and Rodri it looks like the end of an era at City. Will Enzo Maresca be able to sustain their position as a domestic and continental…",
     "With the departures of Pep Guardiola and Rodri it looks like the end of an era at City. Will Enzo Maresca be able to sustain their position as a domestic and continental superpower? Guardian writers’ predicted position: 2nd (NB: this is not necessarily Jamie Jackson’s prediction but the average of our writers’ tips) Last season’s position: 2nd Continue reading...",
@@ -735,7 +776,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-18T22:30:38.000Z",
-   "fetched_at": "2026-08-19T10:29:34.716Z",
+   "fetched_at": "2026-08-19T10:57:37.131Z",
    "body": [
     "Our briefing: Rodri spent seven seasons at City, helping them win the Premier League title on four occasions and scoring the decisive goal as they beat Inter Milan in the 2023…",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -755,14 +796,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-18T21:55:00.000Z",
-   "fetched_at": "2026-08-19T10:29:34.349Z",
+   "fetched_at": "2026-08-19T10:57:36.786Z",
    "body": [
     "Our briefing: Arsenal seek to defend their Premier League title, but how difficult will that be?",
     "Arsenal seek to defend their Premier League title, but how difficult will that be?",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
@@ -776,7 +817,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-18T21:32:42.000Z",
-   "fetched_at": "2026-08-19T10:29:34.483Z",
+   "fetched_at": "2026-08-19T10:57:36.884Z",
    "body": [
     "Our briefing: The 19-year-old US youth international has turned heads in MLS this year, and is on the cusp of a USMNT breakthrough For much of the past year, the story of American…",
     "The 19-year-old US youth international has turned heads in MLS this year, and is on the cusp of a USMNT breakthrough For much of the past year, the story of American starlet Zavier Gozo has been one of realizing potential – even in failure. Speaking with the Guardian the day after he and Real Salt Lake teammate Diego Luna learned they wouldn’t be on Mauricio Pochettino’s squad for this summer’s World Cup, the 19-year-old Gozo admitted the rejection made him realize how close he’d gotten to earning a spot. “I thought I would be less disappointed than I was,” Gozo said in May .",
@@ -798,57 +839,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-18T21:26:12.000Z",
-   "fetched_at": "2026-08-19T10:29:34.349Z",
+   "fetched_at": "2026-08-19T10:57:36.786Z",
    "body": [
     "Our briefing: Crystal Palace sign forward Zavier Gozo from Real Salt Lake for a reported $15m (£11.08m).",
     "Crystal Palace sign forward Zavier Gozo from Real Salt Lake for a reported $15m (£11. 08m).",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-al-hilal-target-england-s-kane-wednesday-s-gossi",
-   "slug": "al-hilal-target-england-s-kane-wednesday-s-gossip-gossi",
-   "title": "Al-Hilal target England's Kane - Wednesday's gossip",
-   "dek": "Al-Hilal in talks with Harry Kane and Ollie Watkins, Newcastle explore move for Manchester City's Nico Gonzalez, Sunderland move for Dayann Methalie in danger of…",
-   "description": "Al-Hilal in talks with Harry Kane and Ollie Watkins, Newcastle explore move for Manchester City's Nico Gonzalez, Sunderland move for Dayann Methalie in danger of collapsing.",
-   "category": "News",
-   "league": "International",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-18T21:02:44.000Z",
-   "fetched_at": "2026-08-19T10:29:34.349Z",
-   "body": [
-    "Our briefing: Al-Hilal in talks with Harry Kane and Ollie Watkins, Newcastle explore move for Manchester City's Nico Gonzalez, Sunderland move for Dayann Methalie in danger of…",
-    "Al-Hilal in talks with Harry Kane and Ollie Watkins, Newcastle explore move for Manchester City's Nico Gonzalez, Sunderland move for Dayann Methalie in danger of collapsing.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Soccer_fans_put_town_in_siege_%28FL62506945%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506945%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "bbc-brighton-sign-canada-striker-david-loan",
-   "slug": "brighton-sign-canada-striker-david-on-loan--loan",
-   "title": "Brighton sign Canada striker David on loan",
-   "dek": "Brighton sign Canada striker Promise David from Royale Union Saint-Gilloise on a season-long loan with an obligation to buy for a reported £22m.",
-   "description": "Brighton sign Canada striker Promise David from Royale Union Saint-Gilloise on a season-long loan with an obligation to buy for a reported £22m.",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-18T20:43:01.000Z",
-   "fetched_at": "2026-08-19T10:29:34.349Z",
-   "body": [
-    "Our briefing: Brighton sign Canada striker Promise David from Royale Union Saint-Gilloise on a season-long loan with an obligation to buy for a reported £22m.",
-    "Brighton sign Canada striker Promise David from Royale Union Saint-Gilloise on a season-long loan with an obligation to buy for a reported £22m.",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/View_of_the_Brighton_and_Hove_Albion_FC_Amex_Stadium_from_The_Drove_-_geograph.org.uk_-_2717285.jpg/960px-View_of_the_Brighton_and_Hove_Albion_FC_Amex_Stadium_from_The_Drove_-_geograph.org.uk_-_2717285.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Robert Lamb — CC BY-SA 2.0"
   }
  ]
 }
