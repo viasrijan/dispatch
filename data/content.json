@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-19T21:29:36.936Z",
- "updated_utc": "2026-08-19T21:29Z",
- "cycle": 29786249,
+ "generated_at": "2026-08-19T21:53:52.176Z",
+ "updated_utc": "2026-08-19T21:53Z",
+ "cycle": 29786273,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,8 +16,153 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "bbc-celtic-take-lead-through-nygren-s-magnificent-st",
+ "hero_id": "bbc-duran-stars-celtic-ease-comfortable-win-over-las",
  "articles": [
+  {
+   "id": "bbc-uefa-champions-league",
+   "slug": "uefa-champions-league-eague",
+   "title": "UEFA Champions League",
+   "dek": "Featuring Celtic v LASK and six more matches",
+   "description": "Featuring Celtic v LASK and six more matches",
+   "category": "News",
+   "league": "Champions League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-19T22:26:45.000Z",
+   "fetched_at": "2026-08-19T21:53:46.051Z",
+   "body": [
+    "Our briefing: Featuring Celtic v LASK and six more matches",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "John Shorten — CC BY 4.0"
+  },
+  {
+   "id": "bbc-hapoel-be-er-sheva-earn-comeback-win-over-sabah",
+   "slug": "hapoel-be-er-sheva-earn-comeback-win-over-sabah-sabah",
+   "title": "Hapoel Be'er Sheva earn comeback win over Sabah",
+   "dek": "Hapoel Be'er Sheva fight back from a goal down to beat Sabah in the first leg of their Champions League play-off.",
+   "description": "Hapoel Be'er Sheva fight back from a goal down to beat Sabah in the first leg of their Champions League play-off.",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-19T21:42:50.000Z",
+   "fetched_at": "2026-08-19T21:53:46.052Z",
+   "body": [
+    "Our briefing: Hapoel Be'er Sheva fight back from a goal down to beat Sabah in the first leg of their Champions League play-off.",
+    "Hapoel Be'er Sheva fight back from a goal down to beat Sabah in the first leg of their Champions League play-off.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": null
+  },
+  {
+   "id": "independent-transfer-news-live-man-utd-make-baleba-breakthro",
+   "slug": "news-live-man-utd-make-baleba-breakthrough-arsenal-agree-kon-kthro",
+   "title": "news LIVE: Man Utd make Baleba breakthrough, Arsenal agree Konsa deal, Spurs eye double Man City raid",
+   "dek": "Manchester United want to make Baleba their third midfield signing of the summer after submitting a £60m offer",
+   "description": "Manchester United want to make Baleba their third midfield signing of the summer after submitting a £60m offer",
+   "category": "Transfers & Rumours",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-08-19T21:37:38.000Z",
+   "fetched_at": "2026-08-19T21:53:46.596Z",
+   "body": [
+    "Our briefing: Manchester United want to make Baleba their third midfield signing of the summer after submitting a £60m offer",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg/960px-Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
+   "id": "bbc-man-city-join-man-utd-kone-race-thursday-s-gossi",
+   "slug": "man-city-join-man-utd-in-kone-race-thursday-s-gossip-gossi",
+   "title": "Man City join Man Utd in Kone race - Thursday's gossip",
+   "dek": "Manchester City look set to rival neighbours Manchester United for Manu Kone, Aston Villa interested in Tosin Adarabioyo and Tottenham in talks over Man City duo.",
+   "description": "Manchester City look set to rival neighbours Manchester United for Manu Kone, Aston Villa interested in Tosin Adarabioyo and Tottenham in talks over Man City duo.",
+   "category": "News",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-19T21:30:46.000Z",
+   "fetched_at": "2026-08-19T21:53:46.052Z",
+   "body": [
+    "Our briefing: Manchester City look set to rival neighbours Manchester United for Manu Kone, Aston Villa interested in Tosin Adarabioyo and Tottenham in talks over Man City duo.",
+    "Manchester City look set to rival neighbours Manchester United for Manu Kone, Aston Villa interested in Tosin Adarabioyo and Tottenham in talks over Man City duo.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Manchester_United_Old_Trafford.jpg/960px-Manchester_United_Old_Trafford.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
+  },
+  {
+   "id": "bbc-bodo-glimt-strong-position-following-first-leg-w",
+   "slug": "bodo-glimt-in-strong-position-following-first-leg-win-at-nec-leg-w",
+   "title": "Bodo/Glimt in strong position following first-leg win at NEC",
+   "dek": "Last season's Champions League fairytale side Bodo/Glimt look set to qualify for this year's edition of the competition after winning 3-1 away at NEC Nijmegen of the…",
+   "description": "Last season's Champions League fairytale side Bodo/Glimt look set to qualify for this year's edition of the competition after winning 3-1 away at NEC Nijmegen of the Netherlands.",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-19T21:29:50.000Z",
+   "fetched_at": "2026-08-19T21:53:46.052Z",
+   "body": [
+    "Our briefing: Last season's Champions League fairytale side Bodo/Glimt look set to qualify for this year's edition of the competition after winning 3-1 away at NEC Nijmegen of the…",
+    "Last season's Champions League fairytale side Bodo/Glimt look set to qualify for this year's edition of the competition after winning 3-1 away at NEC Nijmegen of the Netherlands.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
+   "id": "bbc-duran-stars-celtic-ease-comfortable-win-over-las",
+   "slug": "duran-stars-as-celtic-ease-to-comfortable-win-over-lask-r-las",
+   "title": "Duran stars as Celtic ease to comfortable win over LASK",
+   "dek": "Celtic take a huge step towards the Champions League as two stunning Camilo Duran strikes help carve out a commanding first-leg play-off lead against LASK.",
+   "description": "Celtic take a huge step towards the Champions League as two stunning Camilo Duran strikes help carve out a commanding first-leg play-off lead against LASK.",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-19T21:28:08.000Z",
+   "fetched_at": "2026-08-19T21:53:46.051Z",
+   "body": [
+    "Our briefing: Celtic take a huge step towards the Champions League as two stunning Camilo Duran strikes help carve out a commanding first-leg play-off lead against LASK.",
+    "Celtic take a huge step towards the Champions League as two stunning Camilo Duran strikes help carve out a commanding first-leg play-off lead against LASK.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Match_Day_Celtic_Park_-_geograph.org.uk_-_2596994.jpg/960px-Match_Day_Celtic_Park_-_geograph.org.uk_-_2596994.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "edward mcmaihin — CC BY-SA 2.0"
+  },
+  {
+   "id": "bbc-duran-stars-celtic-open-big-lead-against-lask",
+   "slug": "duran-stars-as-celtic-open-big-lead-against-lask--lask",
+   "title": "Duran stars as Celtic open big lead against LASK",
+   "dek": "Celtic take a huge step towards the Champions League as two stunning Camilo Duran strikes help carve out a commanding first-leg play-off lead against LASK.",
+   "description": "Celtic take a huge step towards the Champions League as two stunning Camilo Duran strikes help carve out a commanding first-leg play-off lead against LASK.",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-19T21:28:08.000Z",
+   "fetched_at": "2026-08-19T21:53:46.054Z",
+   "body": [
+    "Our briefing: Celtic take a huge step towards the Champions League as two stunning Camilo Duran strikes help carve out a commanding first-leg play-off lead against LASK.",
+    "Celtic take a huge step towards the Champions League as two stunning Camilo Duran strikes help carve out a commanding first-leg play-off lead against LASK.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Celtic_Park_during_an_Old_Firm_derby_between_Celtic_FC_and_Rangers_FC.jpg/960px-Celtic_Park_during_an_Old_Firm_derby_between_Celtic_FC_and_Rangers_FC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Vincenzo.togni — CC BY-SA 4.0"
+  },
   {
    "id": "bbc-celje-fight-back-earn-draw-against-slovan-bratis",
    "slug": "celje-fight-back-to-earn-draw-against-slovan-bratislava-ratis",
@@ -29,7 +174,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-19T21:22:24.000Z",
-   "fetched_at": "2026-08-19T21:29:29.024Z",
+   "fetched_at": "2026-08-19T21:53:46.052Z",
    "body": [
     "Our briefing: Slovenia's Celje fight back from a goal down to earn a 1-1 draw away against Slovakian side Slovan Bratislava in the first leg of the Champions League play-offs.",
     "Slovenia's Celje fight back from a goal down to earn a 1-1 draw away against Slovakian side Slovan Bratislava in the first leg of the Champions League play-offs.",
@@ -44,21 +189,42 @@
    "slug": "believe-your-eyes-masters-says-premier-league-s-integrity-ca-ue-s-",
    "title": "‘Believe your eyes’: Masters says Premier League’s integrity cannot be doubted",
    "dek": "CEO says English football is ‘everything that it should be’ Concern over perception following World Cup scandal Richard Masters has sought to reassure fans that the…",
-   "description": "CEO says English football is ‘everything that it should be’ Concern over perception following World Cup scandal Richard Masters has sought to reassure fans that the Premier League remains “everything that it should be” after the Folarin Balogun red-card scandal called the integrity of disciplinary decisions into question. Both Masters, the chief executive of the Premier League, and Howard Webb, the chief refereeing officer for English football, were critical of the process that led to Fifa’s ­disciplinary committee suspending the USA striker’s one-game ban for a year after an intervention by the US president, Donald Trump. Masters went further, calling for a candidate with “a different offer” to run against Gianni Infantino for Fifa president next year. Continue reading...",
+   "description": "CEO says English football is ‘everything that it should be’ Concern over perception following World Cup scandal Richard Masters has sought to reassure fans that the Premier League remains “everything that it should be” after the Folarin Balogun red-card scandal called the integrity of disciplinary decisions into question. Both Masters, the chief executive of the Premier League, and Howard Webb, the chief refereeing officer for English football, were critical of the process that led to Fifa’s ­disciplinary committee suspending the USA striker’s one-game ban for a year after an intervention by the US president , Donald Trump. Masters went further, calling for a candidate with “a different offer” to run against Gianni Infantino for Fifa president next year. Continue reading...",
    "category": "Injuries",
    "league": "Premier League",
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-19T21:08:21.000Z",
-   "fetched_at": "2026-08-19T21:29:29.107Z",
+   "fetched_at": "2026-08-19T21:53:46.173Z",
    "body": [
     "Our briefing: CEO says English football is ‘everything that it should be’ Concern over perception following World Cup scandal Richard Masters has sought to reassure fans that the…",
-    "CEO says English football is ‘everything that it should be’ Concern over perception following World Cup scandal Richard Masters has sought to reassure fans that the Premier League remains “everything that it should be” after the Folarin Balogun red-card scandal called the integrity of disciplinary decisions into question. Both Masters, the chief executive of the Premier League, and Howard Webb, the chief refereeing officer for English football, were critical of the process that led to Fifa’s ­disciplinary committee suspending the USA striker’s one-game ban for a year after an intervention by the US president, Donald Trump. Masters went further, calling for a candidate with “a different offer” to run against Gianni Infantino for Fifa president next year.",
+    "CEO says English football is ‘everything that it should be’ Concern over perception following World Cup scandal Richard Masters has sought to reassure fans that the Premier League remains “everything that it should be” after the Folarin Balogun red-card scandal called the integrity of disciplinary decisions into question. Both Masters, the chief executive of the Premier League, and Howard Webb, the chief refereeing officer for English football, were critical of the process that led to Fifa’s ­disciplinary committee suspending the USA striker’s one-game ban for a year after an intervention by the US president , Donald Trump. Masters went further, calling for a candidate with “a different offer” to run against Gianni Infantino for Fifa president next year.",
     "Continue reading...",
     "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
     "This summary was compiled from reporting published by The Guardian."
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Health_Report-_Soccer_Concussions.webm/500px--Health_Report-_Soccer_Concussions.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "imageCredit": null
+  },
+  {
+   "id": "bbc-levski-sofia-aek-athens-play-out-goalless-first-",
+   "slug": "levski-sofia-and-aek-athens-play-out-goalless-first-leg-irst-",
+   "title": "Levski Sofia and AEK Athens play out goalless first leg",
+   "dek": "Levski Sofia play out a goalless draw with AEK Athens in their Champions League play-off first leg at the Stadion Vasil Levski.",
+   "description": "Levski Sofia play out a goalless draw with AEK Athens in their Champions League play-off first leg at the Stadion Vasil Levski.",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-19T21:07:16.000Z",
+   "fetched_at": "2026-08-19T21:53:46.053Z",
+   "body": [
+    "Our briefing: Levski Sofia play out a goalless draw with AEK Athens in their Champions League play-off first leg at the Stadion Vasil Levski.",
+    "Levski Sofia play out a goalless draw with AEK Athens in their Champions League play-off first leg at the Stadion Vasil Levski.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
   },
   {
@@ -72,15 +238,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-19T21:06:40.000Z",
-   "fetched_at": "2026-08-19T21:29:29.024Z",
+   "fetched_at": "2026-08-19T21:53:46.053Z",
    "body": [
     "Our briefing: Norway's Viking FK complete a comeback from two behind to hold Dinamo Zagreb of Croatia to a 2-2 draw in the first leg of their Champions League play-off.",
     "Norway's Viking FK complete a comeback from two behind to hold Dinamo Zagreb of Croatia to a 2-2 draw in the first leg of their Champions League play-off.",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": null
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
   },
   {
    "id": "bbc-fenerbahce-lyon-play-out-entertaining-first-leg-",
@@ -93,7 +259,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-19T21:05:51.000Z",
-   "fetched_at": "2026-08-19T21:29:29.024Z",
+   "fetched_at": "2026-08-19T21:53:46.053Z",
    "body": [
     "Our briefing: Fenerbahce and Lyon play out an entertaining 1-1 draw in their Uefa Champions League play-off first leg.",
     "Fenerbahce and Lyon play out an entertaining 1-1 draw in their Uefa Champions League play-off first leg.",
@@ -102,26 +268,6 @@
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/20191002_Fu%C3%9Fball%2C_M%C3%A4nner%2C_UEFA_Champions_League%2C_RB_Leipzig_-_Olympique_Lyonnais_by_Stepro_StP_0004-2.jpg/960px-20191002_Fu%C3%9Fball%2C_M%C3%A4nner%2C_UEFA_Champions_League%2C_RB_Leipzig_-_Olympique_Lyonnais_by_Stepro_StP_0004-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Steffen Prößdorf — CC BY-SA 4.0"
-  },
-  {
-   "id": "independent-transfer-news-live-man-utd-make-baleba-breakthro",
-   "slug": "news-live-man-utd-make-baleba-breakthrough-arsenal-agree-kon-kthro",
-   "title": "news LIVE: Man Utd make Baleba breakthrough, Arsenal agree Konsa deal, Spurs eye double Man City raid",
-   "dek": "Manchester United want to make Baleba their third midfield signing of the summer after submitting a £60m offer",
-   "description": "Manchester United want to make Baleba their third midfield signing of the summer after submitting a £60m offer",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-08-19T21:02:11.000Z",
-   "fetched_at": "2026-08-19T21:29:29.372Z",
-   "body": [
-    "Our briefing: Manchester United want to make Baleba their third midfield signing of the summer after submitting a £60m offer",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg/960px-Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
   },
   {
    "id": "bbc-celtic-take-lead-through-nygren-s-magnificent-st",
@@ -134,15 +280,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-19T21:00:45.000Z",
-   "fetched_at": "2026-08-19T21:29:29.024Z",
+   "fetched_at": "2026-08-19T21:53:46.052Z",
    "body": [
     "Our briefing: Celtic take the lead in their Champions League play-off first leg against LASK, as Benjamin Nygren finds the top corner in spectacular fashion from outside of the box.",
     "Celtic take the lead in their Champions League play-off first leg against LASK, as Benjamin Nygren finds the top corner in spectacular fashion from outside of the box.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Celtic_Park_during_an_Old_Firm_derby_between_Celtic_FC_and_Rangers_FC.jpg/960px-Celtic_Park_during_an_Old_Firm_derby_between_Celtic_FC_and_Rangers_FC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Vincenzo.togni — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Celtic_Park_stadium_on_match_day_%28geograph_7857061%29.jpg/960px-Celtic_Park_stadium_on_match_day_%28geograph_7857061%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Thomas Nugent — CC BY-SA 2.0"
   },
   {
    "id": "bbc-duran-s-incredible-double-edges-celtic-closer-ch",
@@ -155,15 +301,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-19T21:00:41.000Z",
-   "fetched_at": "2026-08-19T21:29:29.023Z",
+   "fetched_at": "2026-08-19T21:53:46.052Z",
    "body": [
     "Our briefing: Camilo Duran scores two excellent goals for Celtic in the first leg of their Champions League play-off against Austria's LASK, finding the top corner with a volley and…",
     "Camilo Duran scores two excellent goals for Celtic in the first leg of their Champions League play-off against Austria's LASK, finding the top corner with a volley and curling an effort past Lukas Jungwirth in the visitors' goal.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Celtic_Park_stadium_on_match_day_%28geograph_7857061%29.jpg/960px-Celtic_Park_stadium_on_match_day_%28geograph_7857061%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Thomas Nugent — CC BY-SA 2.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/FC_Salzburg_gegen_Celtic_FC_%284._Oktober_2918_Gruppe_B%2C_7._Spieltag%29.jpg/960px-FC_Salzburg_gegen_Celtic_FC_%284._Oktober_2918_Gruppe_B%2C_7._Spieltag%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Werner100359 — CC BY-SA 4.0"
   },
   {
    "id": "independent-celtic-v-lask-live-special-night-play-offs-has-o",
@@ -196,15 +342,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-19T20:56:50.000Z",
-   "fetched_at": "2026-08-19T21:29:29.023Z",
+   "fetched_at": "2026-08-19T21:53:46.051Z",
    "body": [
     "Our briefing: Marcus Rashford says he would like to play football without his \"name being mentioned every day\" after Gary Neville tried to start a conversation about the Manchester…",
     "Marcus Rashford says he would like to play football without his \"name being mentioned every day\" after Gary Neville tried to start a conversation about the Manchester United forward on a podcast.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "John Shorten — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
   },
   {
    "id": "guardian-manchester-city-target-roma-s-manu-kon-spurs-tal",
@@ -217,7 +363,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-19T20:56:13.000Z",
-   "fetched_at": "2026-08-19T21:29:29.107Z",
+   "fetched_at": "2026-08-19T21:53:46.173Z",
    "body": [
     "Our briefing: France World Cup midfielder could cost £50m Tottenham discussing £150m double deal for forward pair Manchester City have identified Roma’s Manu Koné as a potential target…",
     "France World Cup midfielder could cost £50m Tottenham discussing £150m double deal for forward pair Manchester City have identified Roma’s Manu Koné as a potential target to further strengthen Enzo Maresca’s options in midfield. While City have already bought Elliot Anderson for £116m and are closing in on the £85m signing of Lille’s Ayyoub Bouaddi , Maresca also admires Koné for his dynamic mode of play. He would be expected to cost around £50m.",
@@ -279,7 +425,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-19T19:22:01.000Z",
-   "fetched_at": "2026-08-19T21:29:29.108Z",
+   "fetched_at": "2026-08-19T21:53:46.174Z",
    "body": [
     "Our briefing: Homegrown star has been longstanding target for Italians Jones in the final year of his contract at Anfield Inter have submitted an offer of €30m rising to €35m (£30m)…",
     "Homegrown star has been longstanding target for Italians Jones in the final year of his contract at Anfield Inter have submitted an offer of €30m rising to €35m (£30m) for Curtis Jones, with the Liverpool midfielder expected to leave his boyhood club after a 16-year association. Jones has been a target for Inter since January and was the subject of a failed €25m bid from them in June. Liverpool valued their homegrown midfielder closer to €40m but, with Jones in the final year of his contract and no sign of an agreement over an extension, that figure is unlikely to be reached.",
@@ -321,15 +467,15 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-19T19:04:48.000Z",
-   "fetched_at": "2026-08-19T21:29:29.107Z",
+   "fetched_at": "2026-08-19T21:53:46.173Z",
    "body": [
     "Our briefing: Hungary’s Sandor Csanyi highly critical of Fifa president He cites dismissal of COO Kevin Lamour as ‘final straw’ Gianni Infantino has lost the support of another one of…",
     "Hungary’s Sandor Csanyi highly critical of Fifa president He cites dismissal of COO Kevin Lamour as ‘final straw’ Gianni Infantino has lost the support of another one of Fifa’s vice-presidents, with the Hungarian football federation chief, Sandor Csanyi, criticising the president’s “professional judgment, ethical standards and leadership”. In an explosive letter sent to Infantino on Tuesday, which was first obtained by the news agency Agence France-Presse, Csanyi states that he has “lost the confidence I previously placed in you” and describes the “unexpected dismissal” of Fifa’s chief operating officer, Kevin Lamour, as the “final straw”. Continue reading...",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "independent-celtic-v-lask-live-champions-league-team-news-o-",
@@ -362,7 +508,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-19T18:19:44.000Z",
-   "fetched_at": "2026-08-19T21:29:29.372Z",
+   "fetched_at": "2026-08-19T21:53:46.596Z",
    "body": [
     "Our briefing: Spurs want to sign both Omar Marmoush as well as Savinho as Roberto De Zerbi looks to strengthen his forward line",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -382,14 +528,14 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-19T17:59:24.000Z",
-   "fetched_at": "2026-08-19T21:29:29.107Z",
+   "fetched_at": "2026-08-19T21:53:46.173Z",
    "body": [
     "Our briefing: Steven Rosen’s company liquidated after high court hearing Previous owner claims it is owed fees from 2024 sale The Sheffield United co-chair, Steven Rosen, is facing…",
     "Steven Rosen’s company liquidated after high court hearing Previous owner claims it is owed fees from 2024 sale The Sheffield United co-chair, Steven Rosen, is facing disqualification as a director by the English Football League after the company through which he bought the club two years ago, COH Sports Bidco Limited, was liquidated. The winding-up order issued by the high court in London is the result of a dispute between United’s owners and their predecessor, Prince Abdullah’s United World, which claims it is owed £35m by Rosen and his business partner Helmy Eltoukhy in unpaid fees resulting from the £110m sale of the Championship club in December 2024. Continue reading...",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -445,7 +591,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-19T17:33:32.000Z",
-   "fetched_at": "2026-08-19T21:29:29.107Z",
+   "fetched_at": "2026-08-19T21:53:46.173Z",
    "body": [
     "Our briefing: Tough start awaits for promoted trio, with Premier League matches against last season’s top three and European qualifiers Coventry signed off their previous Premier…",
     "Tough start awaits for promoted trio, with Premier League matches against last season’s top three and European qualifiers Coventry signed off their previous Premier League campaign with a match against Bradford City, the one team to finish below them in 2000-01. They pick up again in the top flight away to Arsenal; last season’s champions , favourites to retain the crown and the No 1-ranked side in the world according to Opta. At least they will have played what should be the hardest fixture of their 38 first.",
@@ -453,7 +599,7 @@
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -467,14 +613,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-19T17:14:38.000Z",
-   "fetched_at": "2026-08-19T21:29:29.024Z",
+   "fetched_at": "2026-08-19T21:53:46.051Z",
    "body": [
     "Our briefing: Harry Kane says \"the itch isn't there as much anymore\" to one day return to England from Germany and try and break the all-time scoring record in the Premier League.",
     "Harry Kane says \"the itch isn't there as much anymore\" to one day return to England from Germany and try and break the all-time scoring record in the Premier League.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -488,7 +634,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-19T17:06:50.000Z",
-   "fetched_at": "2026-08-19T21:29:29.372Z",
+   "fetched_at": "2026-08-19T21:53:46.596Z",
    "body": [
     "Our briefing: The Aston Villa and England defender could bring cover with Arsenal hit by injuries before they begin their Premier League title defence",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -508,15 +654,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-19T17:01:42.000Z",
-   "fetched_at": "2026-08-19T21:29:29.024Z",
+   "fetched_at": "2026-08-19T21:53:46.051Z",
    "body": [
     "Our briefing: Sheffield United could incur a 12-point deduction after the company used to buy the club was placed into liquidation.",
     "Sheffield United could incur a 12-point deduction after the company used to buy the club was placed into liquidation.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
    "id": "bbc-questions-remain-over-vieira-deal-amid-senegal-u",
@@ -529,15 +675,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-19T16:26:06.000Z",
-   "fetched_at": "2026-08-19T21:29:29.025Z",
+   "fetched_at": "2026-08-19T21:53:46.052Z",
    "body": [
     "Our briefing: Questions remain over the appointment of Patrick Vieira as Senegal's new head coach, with the country's football federation riven by off-field issues.",
     "Questions remain over the appointment of Patrick Vieira as Senegal's new head coach, with the country's football federation riven by off-field issues.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   },
   {
    "id": "independent-transfer-news-live-man-utd-make-baleba-breakthro",
@@ -592,7 +738,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-19T16:01:32.000Z",
-   "fetched_at": "2026-08-19T21:29:29.023Z",
+   "fetched_at": "2026-08-19T21:53:46.051Z",
    "body": [
     "Our briefing: Netherlands midfielder Tijjani Reijnders completes a £52m move to Saudi Arabian side Al-Qadsiah from Manchester City.",
     "Netherlands midfielder Tijjani Reijnders completes a £52m move to Saudi Arabian side Al-Qadsiah from Manchester City.",
@@ -613,14 +759,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-19T16:00:43.000Z",
-   "fetched_at": "2026-08-19T21:29:29.372Z",
+   "fetched_at": "2026-08-19T21:53:46.596Z",
    "body": [
     "Our briefing: Howard Webb believes the situation surrounding Folarin Balogun’s red card will create room for conspiracies",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
    "id": "independent-tijjani-reijnders-leaves-man-city-after-just-one",
@@ -633,7 +779,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-19T15:59:05.000Z",
-   "fetched_at": "2026-08-19T21:29:29.372Z",
+   "fetched_at": "2026-08-19T21:53:46.596Z",
    "body": [
     "Our briefing: Tijjani Reijnders has left Manchester City to join Al Qadsiah",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -653,15 +799,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-19T15:58:44.000Z",
-   "fetched_at": "2026-08-19T21:29:29.024Z",
+   "fetched_at": "2026-08-19T21:53:46.052Z",
    "body": [
     "Our briefing: Chelsea have split their players into two training groups at Cobham, involving several players who could move before the transfer window closes, including Liam Delap,…",
     "Chelsea have split their players into two training groups at Cobham, involving several players who could move before the transfer window closes, including Liam Delap, Nicolas Jackson and Mykhailo Mudryk.",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "YHC — CC BY-SA 4.0"
   },
   {
    "id": "bbc-rangers-eye-striker-after-nedeljkovic-joins-vill",
@@ -695,171 +841,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-19T15:37:00.000Z",
-   "fetched_at": "2026-08-19T21:29:29.025Z",
+   "fetched_at": "2026-08-19T21:53:46.053Z",
    "body": [
     "Our briefing: Aaron and Jobi are joined by Bolton's Steven Schumacher and Luton's Jack Wilshere.",
     "Aaron and Jobi are joined by Bolton's Steven Schumacher and Luton's Jack Wilshere.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
-  },
-  {
-   "id": "bbc-two-collapses-four-days-what-s-happening-musiala",
-   "slug": "two-collapses-in-four-days-what-s-happening-to-musiala-siala",
-   "title": "Two collapses in four days - what's happening to Musiala?",
-   "dek": "Jamal Musiala is being treated for a \"neurological dysfunction\" after collapsing twice in four days during Bayern Munich's pre-season friendlies.",
-   "description": "Jamal Musiala is being treated for a \"neurological dysfunction\" after collapsing twice in four days during Bayern Munich's pre-season friendlies.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-19T15:34:38.000Z",
-   "fetched_at": "2026-08-19T21:29:29.024Z",
-   "body": [
-    "Our briefing: Jamal Musiala is being treated for a \"neurological dysfunction\" after collapsing twice in four days during Bayern Munich's pre-season friendlies.",
-    "Jamal Musiala is being treated for a \"neurological dysfunction\" after collapsing twice in four days during Bayern Munich's pre-season friendlies.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
-  },
-  {
-   "id": "guardian-inter-hold-talks-liverpool-over-deal-30m-rated-c",
-   "slug": "inter-hold-talks-with-liverpool-over-deal-for-30m-rated-curt-ted-c",
-   "title": "Inter hold talks with Liverpool over deal for £30m-rated Curtis Jones",
-   "dek": "Midfielder has been a target for Italians since January Jones in the final year of his contract at Anfield Inter are in talks with Liverpool over a deal for Curtis Jones,…",
-   "description": "Midfielder has been a target for Italians since January Jones in the final year of his contract at Anfield Inter are in talks with Liverpool over a deal for Curtis Jones, with the 25-year-old expected to leave his boyhood club should the Italian champions offer around £30m. Jones has been a target for Inter since January and was the subject of a failed €25m bid from them in June. Liverpool valued their homegrown midfielder closer to €40m, but with Jones in the final year of his contract, and no sign of an agreement over an extension, that figure is unlikely to be reached. Continue reading...",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-08-19T15:32:15.000Z",
-   "fetched_at": "2026-08-19T19:26:01.681Z",
-   "body": [
-    "Our briefing: Midfielder has been a target for Italians since January Jones in the final year of his contract at Anfield Inter are in talks with Liverpool over a deal for Curtis Jones,…",
-    "Midfielder has been a target for Italians since January Jones in the final year of his contract at Anfield Inter are in talks with Liverpool over a deal for Curtis Jones, with the 25-year-old expected to leave his boyhood club should the Italian champions offer around £30m. Jones has been a target for Inter since January and was the subject of a failed €25m bid from them in June. Liverpool valued their homegrown midfielder closer to €40m, but with Jones in the final year of his contract, and no sign of an agreement over an extension, that figure is unlikely to be reached.",
-    "Continue reading...",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Magistrates%27_Court%2C_Dale_Street%2C_Liverpool_2018.jpg/960px-Magistrates%27_Court%2C_Dale_Street%2C_Liverpool_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Rodhullandemu — CC BY-SA 4.0"
-  },
-  {
-   "id": "guardian-arsenal-agree-51m-deal-sign-ezri-konsa-aston-vil",
-   "slug": "arsenal-agree-51m-deal-to-sign-ezri-konsa-from-aston-villa-n-vil",
-   "title": "Arsenal agree £51m deal to sign Ezri Konsa from Aston Villa",
-   "dek": "Defender to provide cover for injured Saliba and Timber Villa braced for fresh bid from Al-Hilal for Ollie Watkins Arsenal have agreed a £51m deal to sign Ezri Konsa from…",
-   "description": "Defender to provide cover for injured Saliba and Timber Villa braced for fresh bid from Al-Hilal for Ollie Watkins Arsenal have agreed a £51m deal to sign Ezri Konsa from Aston Villa. The Premier League champions have been keen to find defensive cover for William Saliba and Jurriën Timber, who are out with injuries. They have tracked Konsa throughout the summer and have made a breakthrough in the negotiations. Mikel Arteta hopes Konsa, whose Villa contract has two years to run, can help make light of Saliba’s absence in central defence. The timeframe for the Frenchman’s return is unclear but he is not expected to play before mid-October, having sustained a back injury in France’s World Cup semi-final defeat against Spain. Continue reading...",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-08-19T15:16:00.000Z",
-   "fetched_at": "2026-08-19T21:29:29.107Z",
-   "body": [
-    "Our briefing: Defender to provide cover for injured Saliba and Timber Villa braced for fresh bid from Al-Hilal for Ollie Watkins Arsenal have agreed a £51m deal to sign Ezri Konsa from…",
-    "Defender to provide cover for injured Saliba and Timber Villa braced for fresh bid from Al-Hilal for Ollie Watkins Arsenal have agreed a £51m deal to sign Ezri Konsa from Aston Villa. The Premier League champions have been keen to find defensive cover for William Saliba and Jurriën Timber, who are out with injuries. They have tracked Konsa throughout the summer and have made a breakthrough in the negotiations.",
-    "Mikel Arteta hopes Konsa, whose Villa contract has two years to run, can help make light of Saliba’s absence in central defence. The timeframe for the Frenchman’s return is unclear but he is not expected to play before mid-October, having sustained a back injury in France’s World Cup semi-final defeat against Spain. Continue reading...",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/NDL11904200_Notice_of_Transfer_of_Equipment_Report_%28Shirahama_Arsenal%2C_Osaka_Arsenal%2C_etc.%29_part2.pdf/page1-960px-NDL11904200_Notice_of_Transfer_of_Equipment_Report_%28Shirahama_Arsenal%2C_Osaka_Arsenal%2C_etc.%29_part2.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "guardian-football-daily-sensible-soccer-are-football-club",
-   "slug": "daily-sensible-soccer-are-football-clubs-actually-signing-th--club",
-   "title": "Daily | Sensible soccer: are football clubs actually signing the players they need?",
-   "dek": "Sign up now! Sign up now! Sign up now? Sign up now! In the 1941 RKO Radio Pictures/Mercury repertory theatre production Citizen Kane, Orson Welles essayed a man who began…",
-   "description": "Sign up now! Sign up now! Sign up now? Sign up now! In the 1941 RKO Radio Pictures/Mercury repertory theatre production Citizen Kane, Orson Welles essayed a man who began as a whirlwind of prolific energy, only to spectacularly fizzle out, to the extent that near the end, stubborn pride his only remaining fuel, he could barely move around or achieve anything of note at all. Football Daily isn’t sure how any of this relates to Charles Foster’s namesake Harry, or his recent Geopolitics World Cup campaign; nor are we sure what bit of Welles’ career Harry’s mooted move from Bayern Munich to Al-Hilal would be comparable with. The flawed masterpiece The Magnificent Ambersons, perhaps, or that thing where he loses his mind over Findus peas. Don Revie and his merry henchmen [Tuesday’s Memory Lane, full email edition] getting ready for a night on the lash, as it was back then. Lest we forget: one-club man Jack Charlton once said ‘I cant play football, but I can stop those that can’. Diamond geezer eh?” – Alvin Jordan. It was bewildering to read in Tuesdays’s Football Daily that ‘Kevin Lamour was a lone dissenting voice inside Fifa’s lair when Gianni Infantino’s plot to flog part of the World Cup to private investors – potentially on the cheap – was rumbled’. He was far from lone. Fifa’s secretary-general, Mattias Grafström, called the FFE plans a ‘sad and reproachable series of events’ in an email to staff. Fifa’s chief of global development, someone called Arsène Wenger, pronounced the withdrawal of FFE ‘absolutely necessary and beyond question’. Above all, Infantino’s right-hand man, the Fifa senior advisor Carlos Cordeiro, stated: ‘I cannot stand by while Fifa considers selling a stake in the World Cup. Let me be clear: I had no involvement in this proposal, and I oppose it unequivocally. It is a bad deal for Fifa’s member associations, a bad deal for football, and a bad deal for the long-term future of the game.’ And unlike Lamour, Grafström, or Wenger, Cordeiro put his money where his mouth was and resigned” – Simon Skinner. Talking of players’ wages, my Middlesborough friend who knew Wilf Mannion told me that when he was chosen to play for England at Wembley that they gave him a third-class rail ticket to get there. Unfortunately the train was so crowded that he had to sit on his suitcase in the corridor the whole way to London (not an unusual situation in those days)” – Bob Hopper. This is an extract from our daily football email … Football Daily. To get the full version, just visit this page and follow the instructions . Continue reading...",
-   "category": "Transfers & Rumours",
-   "league": "Football",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-08-19T14:51:57.000Z",
-   "fetched_at": "2026-08-19T21:29:29.107Z",
-   "body": [
-    "Our briefing: Sign up now! Sign up now! Sign up now? Sign up now! In the 1941 RKO Radio Pictures/Mercury repertory theatre production Citizen Kane, Orson Welles essayed a man who began…",
-    "Sign up now! Sign up now! Sign up now?",
-    "Sign up now! In the 1941 RKO Radio Pictures/Mercury repertory theatre production Citizen Kane, Orson Welles essayed a man who began as a whirlwind of prolific energy, only to spectacularly fizzle out, to the extent that near the end, stubborn pride his only remaining fuel, he could barely move around or achieve anything of note at all. Football Daily isn’t sure how any of this relates to Charles Foster’s namesake Harry, or his recent Geopolitics World Cup campaign; nor are we sure what bit of Welles’ career Harry’s mooted move from Bayern Munich to Al-Hilal would be comparable with.",
-    "The flawed masterpiece The Magnificent Ambersons, perhaps, or that thing where he loses his mind over Findus peas. Don Revie and his merry henchmen [Tuesday’s Memory Lane, full email edition] getting ready for a night on the lash, as it was back then. Lest we forget: one-club man Jack Charlton once said ‘I cant play football, but I can stop those that can’.",
-    "Diamond geezer eh? ” – Alvin Jordan. It was bewildering to read in Tuesdays’s Football Daily that ‘Kevin Lamour was a lone dissenting voice inside Fifa’s lair when Gianni Infantino’s plot to flog part of the World Cup to private investors – potentially on the cheap – was rumbled’.",
-    "He was far from lone. Fifa’s secretary-general, Mattias Grafström, called the FFE plans a ‘sad and reproachable series of events’ in an email to staff. Fifa’s chief of global development, someone called Arsène Wenger, pronounced the withdrawal of FFE ‘absolutely necessary and beyond question’.",
-    "Above all, Infantino’s right-hand man, the Fifa senior advisor Carlos Cordeiro, stated: ‘I cannot stand by while Fifa considers selling a stake in the World Cup. Let me be clear: I had no involvement in this proposal, and I oppose it unequivocally. It is a bad deal for Fifa’s member associations, a bad deal for football, and a bad deal for the long-term future of the game.",
-    "’ And unlike Lamour, Grafström, or Wenger, Cordeiro put his money where his mouth was and resigned” – Simon Skinner. Talking of players’ wages, my Middlesborough friend who knew Wilf Mannion told me that when he was chosen to play for England at Wembley that they gave him a third-class rail ticket to get there. Unfortunately the train was so crowded that he had to sit on his suitcase in the corridor the whole way to London (not an unusual situation in those days)” – Bob Hopper.",
-    "This is an extract from our daily football email … Football Daily. To get the full version, just visit this page and follow the instructions . Continue reading...",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "YHC — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-man-utd-s-decision-make-baleba-their-third-midfi",
-   "slug": "man-utd-s-decision-to-make-baleba-their-third-midfielder-midfi",
-   "title": "Man Utd's decision to make Baleba their 'third midfielder'",
-   "dek": "Manchester United are in talks to make Carlos Baleba their 'third midfielder' as the club revamp Michael Carrick's squad.",
-   "description": "Manchester United are in talks to make Carlos Baleba their 'third midfielder' as the club revamp Michael Carrick's squad.",
-   "category": "News",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-19T14:35:36.000Z",
-   "fetched_at": "2026-08-19T21:29:29.023Z",
-   "body": [
-    "Our briefing: Manchester United are in talks to make Carlos Baleba their 'third midfielder' as the club revamp Michael Carrick's squad.",
-    "Manchester United are in talks to make Carlos Baleba their 'third midfielder' as the club revamp Michael Carrick's squad.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Manchester_United_Old_Trafford.jpg/960px-Manchester_United_Old_Trafford.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
-  },
-  {
-   "id": "independent-gianni-infantino-leadership-crisis-deepens-vice-",
-   "slug": "gianni-infantino-leadership-crisis-deepens-as-vice-president-vice-",
-   "title": "Gianni Infantino leadership crisis deepens as vice-president brands Fifa COO sacking ‘the final straw’",
-   "dek": "One of Fifa’s vice-presidents has taken aim at Gianni Infantino following the sacking of Kevin Lamour",
-   "description": "One of Fifa’s vice-presidents has taken aim at Gianni Infantino following the sacking of Kevin Lamour",
-   "category": "News",
-   "league": "Football",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-08-19T14:28:59.000Z",
-   "fetched_at": "2026-08-19T21:29:29.372Z",
-   "body": [
-    "Our briefing: One of Fifa’s vice-presidents has taken aim at Gianni Infantino following the sacking of Kevin Lamour",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
-  },
-  {
-   "id": "guardian-not-just-big-japan-zion-suzuki-has-what-it-takes",
-   "slug": "not-just-big-in-japan-zion-suzuki-has-what-it-takes-to-follo-takes",
-   "title": "Not just big in Japan: Zion Suzuki has what it takes to follow Emiliano Martínez",
-   "dek": "He is replacing a World Cup winner and is his country’s first Premier League keeper, but Villa’s new signing has already dealt with harder challenges In November 2001,…",
-   "description": "He is replacing a World Cup winner and is his country’s first Premier League keeper, but Villa’s new signing has already dealt with harder challenges In November 2001, the first Japanese goalkeeper to play English league football conceded a goal within the first minute of his debut. Yoshikatsu Kawaguchi may have struggled for second-tier Portsmouth, conceding 21 times in his 12 league games after being spotted by the then director of football, Harry Redknapp, but he also produced some world-class saves and had glowing things to say about the Royal Mail. Replaced by a 42-year-old Dave Beasant, Kawaguchi nevertheless remains a cult hero on the south coast , as a standing ovation in his final game demonstrated. Despite going on to play 116 times for Japan, he never made the jump to the Premier League. Now though, finally, Japan has a No 1 in the top flight. Continue reading...",
-   "category": "Transfers & Rumours",
-   "league": "Football",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-08-19T14:23:22.000Z",
-   "fetched_at": "2026-08-19T21:29:29.108Z",
-   "body": [
-    "Our briefing: He is replacing a World Cup winner and is his country’s first Premier League keeper, but Villa’s new signing has already dealt with harder challenges In November 2001,…",
-    "He is replacing a World Cup winner and is his country’s first Premier League keeper, but Villa’s new signing has already dealt with harder challenges In November 2001, the first Japanese goalkeeper to play English league football conceded a goal within the first minute of his debut. Yoshikatsu Kawaguchi may have struggled for second-tier Portsmouth, conceding 21 times in his 12 league games after being spotted by the then director of football, Harry Redknapp, but he also produced some world-class saves and had glowing things to say about the Royal Mail. Replaced by a 42-year-old Dave Beasant, Kawaguchi nevertheless remains a cult hero on the south coast , as a standing ovation in his final game demonstrated.",
-    "Despite going on to play 116 times for Japan, he never made the jump to the Premier League. Now though, finally, Japan has a No 1 in the top flight. Continue reading...",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Badalik_Szabolcs_Hungarian_beach_soccer_player.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "Badalik Szabolcs — CC BY 4.0"
   }
  ]
 }
