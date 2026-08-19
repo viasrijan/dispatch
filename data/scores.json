@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-19T19:51:12.751Z",
+ "generated_at": "2026-08-19T20:28:31.387Z",
  "matches": [
   {
    "league": "Premier League",
@@ -13,19 +13,6 @@
    "clock": "",
    "time": "Fri, August 21st at 3:00 PM EDT",
    "date": "2026-08-21T19:00Z"
-  },
-  {
-   "league": "La Liga",
-   "home": "Atlético Madrid",
-   "away": "Málaga",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/99.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "live",
-   "clock": "43'",
-   "time": "43'",
-   "date": "2026-08-19T19:00Z"
   },
   {
    "league": "Bundesliga",
@@ -91,6 +78,19 @@
    "clock": "",
    "time": "Sat, August 22nd at 2:45 PM EDT",
    "date": "2026-08-22T18:45Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Atlético Madrid",
+   "away": "Málaga",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/99.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "live",
+   "clock": "59'",
+   "time": "59'",
+   "date": "2026-08-19T19:00Z"
   },
   {
    "league": "Ligue 1",
