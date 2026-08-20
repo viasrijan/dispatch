@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-20T19:31:57.010Z",
- "updated_utc": "2026-08-20T19:31Z",
- "cycle": 29787571,
+ "generated_at": "2026-08-20T20:29:16.981Z",
+ "updated_utc": "2026-08-20T20:29Z",
+ "cycle": 29787629,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,8 +16,49 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "bbc-villa-18m-bid-harwood-bellis-rejected-southampto",
+ "hero_id": "bbc-joao-pedro-set-extend-chelsea-deal-2034",
  "articles": [
+  {
+   "id": "bbc-parrott-makes-move-real-betis-az-alkmaar",
+   "slug": "parrott-makes-move-to-real-betis-from-az-alkmaar-kmaar",
+   "title": "Parrott makes move to Real Betis from AZ Alkmaar",
+   "dek": "Republic of Ireland striker Troy Parrott completes his transfer from Dutch team AZ Alkmaar to Spanish side Real Betis.",
+   "description": "Republic of Ireland striker Troy Parrott completes his transfer from Dutch team AZ Alkmaar to Spanish side Real Betis.",
+   "category": "Transfers & Rumours",
+   "league": "La Liga",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-20T20:15:59.000Z",
+   "fetched_at": "2026-08-20T20:29:07.711Z",
+   "body": [
+    "Our briefing: Republic of Ireland striker Troy Parrott completes his transfer from Dutch team AZ Alkmaar to Spanish side Real Betis.",
+    "Republic of Ireland striker Troy Parrott completes his transfer from Dutch team AZ Alkmaar to Spanish side Real Betis.",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "YHC — CC BY-SA 4.0"
+  },
+  {
+   "id": "independent-brighton-held-tromso-conference-league-play-off-",
+   "slug": "brighton-held-at-tromso-in-conference-league-play-off-first---off-",
+   "title": "Brighton held at Tromso in Conference League play-off first leg",
+   "dek": "Tromso 0-0 Brighton: The Seagulls will need to win the second leg if they are to reacht he Conference League proper",
+   "description": "Tromso 0-0 Brighton: The Seagulls will need to win the second leg if they are to reacht he Conference League proper",
+   "category": "News",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-08-20T19:27:53.000Z",
+   "fetched_at": "2026-08-20T20:29:08.100Z",
+   "body": [
+    "Our briefing: Tromso 0-0 Brighton: The Seagulls will need to win the second leg if they are to reacht he Conference League proper",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/View_of_the_Brighton_and_Hove_Albion_FC_Amex_Stadium_from_The_Drove_-_geograph.org.uk_-_2717285.jpg/960px-View_of_the_Brighton_and_Hove_Albion_FC_Amex_Stadium_from_The_Drove_-_geograph.org.uk_-_2717285.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Robert Lamb — CC BY-SA 2.0"
+  },
   {
    "id": "independent-west-brom-star-banned-deception-match-official-a",
    "slug": "west-brom-star-banned-for-deception-of-match-official-after--ial-a",
@@ -29,7 +70,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-20T19:20:19.000Z",
-   "fetched_at": "2026-08-20T19:31:43.751Z",
+   "fetched_at": "2026-08-20T20:29:08.100Z",
    "body": [
     "Our briefing: Aune Heggebo has been punished following last weekend’s incident during West Brom’s win over Norwich",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -49,7 +90,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-20T19:14:08.000Z",
-   "fetched_at": "2026-08-20T19:31:43.578Z",
+   "fetched_at": "2026-08-20T20:29:07.710Z",
    "body": [
     "Our briefing: Aston Villa have bid worth around £18m plus add-ons rejected by Southampton for defender Taylor Harwood-Bellis.",
     "Aston Villa have bid worth around £18m plus add-ons rejected by Southampton for defender Taylor Harwood-Bellis.",
@@ -70,7 +111,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-20T19:09:34.000Z",
-   "fetched_at": "2026-08-20T19:31:43.751Z",
+   "fetched_at": "2026-08-20T20:29:08.100Z",
    "body": [
     "Our briefing: Mikel Arteta is keen to add a left-sided attacker to his squad this summer",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -90,7 +131,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-20T19:06:34.000Z",
-   "fetched_at": "2026-08-20T19:31:43.579Z",
+   "fetched_at": "2026-08-20T20:29:07.710Z",
    "body": [
     "Our briefing: Chelsea are set to renew striker Joao Pedro's contract until 2034 before the start of the Premier League season.",
     "Chelsea are set to renew striker Joao Pedro's contract until 2034 before the start of the Premier League season.",
@@ -105,16 +146,16 @@
    "slug": "gianni-infantino-eyes-junior-tournament-in-dominican-republi-inica",
    "title": "Gianni Infantino eyes junior tournament in Dominican Republic as potential route out of crisis",
    "dek": "Meetings around event seen as chance to lobby for votes Fifa president may meet his most credible challenger Gianni Infantino wants to split the European and North…",
-   "description": "Meetings around event seen as chance to lobby for votes Fifa president may meet his most credible challenger Gianni Infantino wants to split the European and North American coalition that is seeking to oust him by attending a junior tournament in the Dominican Republic this weekend in another gamble to cling on to power from the Fifa president. The Guardian has learned that Infantino has made plans to attend the U14 Boys Challenge competition organised by the Caribbean Football Union (CFU), 21 of whose associations are voting members of Fifa, despite being urged to stay away from the event by senior figures within the regional confederation Concacaf – the Confederation of North, Central America and Caribbean Association Football – which is working with Uefa to remove him. Continue reading...",
+   "description": "Meetings around event seen as chance to lobby for votes Fifa president may meet his most credible challenger Gianni Infantino wants to split the European and North American coalition that is seeking to oust him by attending a junior tournament in the Dominican Republic this weekend in another gamble to cling on to power from the Fifa president. The Guardian has learned that Infantino has made plans to attend the U14 Boys Challenge competition organised by the Caribbean Football Union (CFU), 21 of whose associations are voting members of Fifa, despite being urged to stay away from the event by senior figures within Concacaf – the Confederation of North, Central America and Caribbean Association Football – which is working with Uefa to remove him. Continue reading...",
    "category": "News",
    "league": "Football",
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-20T19:03:08.000Z",
-   "fetched_at": "2026-08-20T19:31:43.685Z",
+   "fetched_at": "2026-08-20T20:29:07.963Z",
    "body": [
     "Our briefing: Meetings around event seen as chance to lobby for votes Fifa president may meet his most credible challenger Gianni Infantino wants to split the European and North…",
-    "Meetings around event seen as chance to lobby for votes Fifa president may meet his most credible challenger Gianni Infantino wants to split the European and North American coalition that is seeking to oust him by attending a junior tournament in the Dominican Republic this weekend in another gamble to cling on to power from the Fifa president. The Guardian has learned that Infantino has made plans to attend the U14 Boys Challenge competition organised by the Caribbean Football Union (CFU), 21 of whose associations are voting members of Fifa, despite being urged to stay away from the event by senior figures within the regional confederation Concacaf – the Confederation of North, Central America and Caribbean Association Football – which is working with Uefa to remove him. Continue reading...",
+    "Meetings around event seen as chance to lobby for votes Fifa president may meet his most credible challenger Gianni Infantino wants to split the European and North American coalition that is seeking to oust him by attending a junior tournament in the Dominican Republic this weekend in another gamble to cling on to power from the Fifa president. The Guardian has learned that Infantino has made plans to attend the U14 Boys Challenge competition organised by the Caribbean Football Union (CFU), 21 of whose associations are voting members of Fifa, despite being urged to stay away from the event by senior figures within Concacaf – the Confederation of North, Central America and Caribbean Association Football – which is working with Uefa to remove him. Continue reading...",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Guardian."
    ],
@@ -132,7 +173,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-20T19:03:06.000Z",
-   "fetched_at": "2026-08-20T19:31:43.579Z",
+   "fetched_at": "2026-08-20T20:29:07.711Z",
    "body": [
     "Our briefing: Watch highlights as Irish Premiership champions Larne defeat 10-man Lincoln Red Imps 2-0 in the first leg of their Uefa Conference League play-off.",
     "Watch highlights as Irish Premiership champions Larne defeat 10-man Lincoln Red Imps 2-0 in the first leg of their Uefa Conference League play-off.",
@@ -153,7 +194,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-20T19:00:13.000Z",
-   "fetched_at": "2026-08-20T19:31:43.685Z",
+   "fetched_at": "2026-08-20T20:29:07.963Z",
    "body": [
     "Our briefing: New managers galore suggest many of the usual suspects will struggle to dethrone the champions, but their own hunger could be the key Mikel Arteta wants to get his…",
     "New managers galore suggest many of the usual suspects will struggle to dethrone the champions, but their own hunger could be the key Mikel Arteta wants to get his messaging absolutely right. According to him, Arsenal are not about to defend their Premier League title. They are set to attack another one.",
@@ -176,7 +217,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-20T18:48:35.000Z",
-   "fetched_at": "2026-08-20T19:31:43.685Z",
+   "fetched_at": "2026-08-20T20:29:07.963Z",
    "body": [
     "Our briefing: German coach says he has ‘full confidence’ in his squad Plans for new £190m training facility also announced Matthias Jaissle has insisted that Newcastle’s new crop of…",
     "German coach says he has ‘full confidence’ in his squad Plans for new £190m training facility also announced Matthias Jaissle has insisted that Newcastle’s new crop of “under pressure” young players command his “full confidence” and hopes that supporters and reporters will start exhibiting similar belief. Eddie Howe’s successor is preparing for his first Premier League game at St James’ Park on Sunday when Liverpool are the visitors. Continue reading...",
@@ -197,13 +238,13 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-20T18:37:34.000Z",
-   "fetched_at": "2026-08-20T19:31:43.751Z",
+   "fetched_at": "2026-08-20T20:29:08.100Z",
    "body": [
     "Our briefing: City are looking to strengthen their forward line and have Palmeiras winger Allan in their sights",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -217,7 +258,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-20T18:26:09.000Z",
-   "fetched_at": "2026-08-20T19:31:43.751Z",
+   "fetched_at": "2026-08-20T20:29:08.100Z",
    "body": [
     "Our briefing: The Reds submitted a £50m offer for the winger who they see as a possible replacement for Mo Salah",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -237,14 +278,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-20T18:13:05.000Z",
-   "fetched_at": "2026-08-20T19:31:43.580Z",
+   "fetched_at": "2026-08-20T20:29:07.711Z",
    "body": [
     "Our briefing: West Bromwich Albion striker Aune Heggebo is banned for two matches by the FA for scoring a goal with his hand against Norwich City.",
     "West Bromwich Albion striker Aune Heggebo is banned for two matches by the FA for scoring a goal with his hand against Norwich City.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -258,7 +299,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-20T17:54:26.000Z",
-   "fetched_at": "2026-08-20T19:31:43.579Z",
+   "fetched_at": "2026-08-20T20:29:07.710Z",
    "body": [
     "Our briefing: The first 10 days of the new Premier League season could tell us a lot about what lies ahead for Manchester United.",
     "The first 10 days of the new Premier League season could tell us a lot about what lies ahead for Manchester United.",
@@ -279,7 +320,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-20T17:53:25.000Z",
-   "fetched_at": "2026-08-20T19:31:43.751Z",
+   "fetched_at": "2026-08-20T20:29:08.100Z",
    "body": [
     "Our briefing: The London-based team condemned the ‘offensive and divisive’ chant at their away game in Burnley last Saturday",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -299,7 +340,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-20T17:48:12.000Z",
-   "fetched_at": "2026-08-20T19:31:43.578Z",
+   "fetched_at": "2026-08-20T20:29:07.710Z",
    "body": [
     "Our briefing: Arsenal have already spent more than £100m this summer as they look to defend their Premier League title - so why do they want Ezri Konsa as well?",
     "Arsenal have already spent more than £100m this summer as they look to defend their Premier League title - so why do they want Ezri Konsa as well?",
@@ -320,7 +361,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-20T17:06:34.000Z",
-   "fetched_at": "2026-08-20T19:31:43.579Z",
+   "fetched_at": "2026-08-20T20:29:07.710Z",
    "body": [
     "Our briefing: Liverpool have a £50m bid rejected by Brighton for their winger Yankuba Minteh.",
     "Liverpool have a £50m bid rejected by Brighton for their winger Yankuba Minteh.",
@@ -367,7 +408,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-20T17:00:27.000Z",
-   "fetched_at": "2026-08-20T19:31:43.686Z",
+   "fetched_at": "2026-08-20T20:29:07.963Z",
    "body": [
     "Our briefing: United face promoted sides Hull and Ipswich ‘It’s not favourable. It’s an easy thing to throw out there’ Michael Carrick has dismissed suggestions that Manchester…",
     "United face promoted sides Hull and Ipswich ‘It’s not favourable. It’s an easy thing to throw out there’ Michael Carrick has dismissed suggestions that Manchester United’s opening two games against Hull and Ipswich represent a favourable start to the season. United travel to Hull for Saturday’s opening match before hosting Ipswich a week on Sunday.",
@@ -412,7 +453,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-20T16:57:26.000Z",
-   "fetched_at": "2026-08-20T19:31:43.751Z",
+   "fetched_at": "2026-08-20T20:29:08.100Z",
    "body": [
     "Our briefing: A Celtic fan was taken ill during Wednesday’s match and he later died in hospital",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -432,14 +473,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-20T16:42:40.000Z",
-   "fetched_at": "2026-08-20T19:31:43.751Z",
+   "fetched_at": "2026-08-20T20:29:08.100Z",
    "body": [
     "Our briefing: The Brighton captain was among a group of players to pay for the ticket costs of supporters making the trip to Tromso",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/View_of_the_Brighton_and_Hove_Albion_FC_Amex_Stadium_from_The_Drove_-_geograph.org.uk_-_2717285.jpg/960px-View_of_the_Brighton_and_Hove_Albion_FC_Amex_Stadium_from_The_Drove_-_geograph.org.uk_-_2717285.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Robert Lamb — CC BY-SA 2.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Opening_of_Amex_Stadium_Brighton_2011_-_BHA_vs_Spurs.jpg/960px-Opening_of_Amex_Stadium_Brighton_2011_-_BHA_vs_Spurs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "James Boyes — CC BY 2.0"
   },
   {
    "id": "independent-tottenham-legend-terry-dyson-dies-aged-91",
@@ -452,7 +493,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-20T16:40:38.000Z",
-   "fetched_at": "2026-08-20T19:31:43.751Z",
+   "fetched_at": "2026-08-20T20:29:08.100Z",
    "body": [
     "Our briefing: Tottenham confirmed Dyson’s passing on Thursday",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -472,7 +513,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-20T16:31:00.000Z",
-   "fetched_at": "2026-08-20T19:31:43.751Z",
+   "fetched_at": "2026-08-20T20:29:08.100Z",
    "body": [
     "Our briefing: United took the most points in the Premier League last season after Carrick’s return to Old Trafford and he admitted a title challenge is possible",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
@@ -513,7 +554,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-20T16:28:25.000Z",
-   "fetched_at": "2026-08-20T19:31:43.686Z",
+   "fetched_at": "2026-08-20T20:29:07.964Z",
    "body": [
     "Our briefing: Tottenham salute ‘key part’ of 1960-61 Double side Winger also won Cup Winners’ Cup in 1963 Tottenham’s 1961 Double-winner Terry Dyson has died at the age of 91. The…",
     "Tottenham salute ‘key part’ of 1960-61 Double side Winger also won Cup Winners’ Cup in 1963 Tottenham’s 1961 Double-winner Terry Dyson has died at the age of 91. The Premier League club confirmed Dyson’s death on Thursday and paid tribute to their former winger, who made 209 appearances and scored 55 goals for Spurs in a 10-year spell. Dyson was part of Bill Nicholson’s 1960-61 side, the first English team in the 20th century to achieve a First Division and FA Cup Double, but one of his finest moments occurred two years later when he scored twice a 5-1 victory over Atlético Madrid to secure the European Cup Winners’ Cup.",
@@ -556,7 +597,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-20T16:06:08.000Z",
-   "fetched_at": "2026-08-20T19:31:43.751Z",
+   "fetched_at": "2026-08-20T20:29:08.100Z",
    "body": [
     "Our briefing: After missing out on Vinicius Jr, Arsenal want another wide forward with Juventus star Kenan Yildiz an option, while Baleba looks to be heading to Manchester United and…",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -576,7 +617,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-20T15:50:12.000Z",
-   "fetched_at": "2026-08-20T19:31:43.686Z",
+   "fetched_at": "2026-08-20T20:29:07.963Z",
    "body": [
     "Our briefing: Midfielder linked with £120m move to Manchester City Chelsea still interested in Bournemouth’s Alex Scott Xabi Alonso has refused to offer any guarantee that Chelsea will…",
     "Midfielder linked with £120m move to Manchester City Chelsea still interested in Bournemouth’s Alex Scott Xabi Alonso has refused to offer any guarantee that Chelsea will hold firm if Manchester City try to sign Enzo Fernández. Fernández’s future remains up in the air and the prospect of him leaving Stamford Bridge has not gone away, even though Chelsea’s unofficial deadline for clubs to make written bids of £120m for the 25-year-old Argentina midfielder has already passed. City, who are also tracking Roma’s Manu Koné , have targeted Fernández as part of their midfield rebuild after Rodri’s move to Barcelona and are weighing up whether to make a move before the transfer window shuts.",
@@ -598,7 +639,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-20T15:40:27.000Z",
-   "fetched_at": "2026-08-20T19:31:43.752Z",
+   "fetched_at": "2026-08-20T20:29:08.100Z",
    "body": [
     "Our briefing: With the new Premier League season on the very immediate horizon, Adam Clery explores Arsenal's chances of retaining their title for the first time since the 1930s. On…",
     "With the new Premier League season on the very immediate horizon, Adam Clery explores Arsenal's chances of retaining their title for the first time since the 1930s. On paper, their squad is deep and, maybe more importantly, they have largely the same players that took them to the Premier League title as they did last season. So what can stop them?",
@@ -620,7 +661,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-20T15:32:38.000Z",
-   "fetched_at": "2026-08-20T19:31:43.580Z",
+   "fetched_at": "2026-08-20T20:29:07.711Z",
    "body": [
     "Our briefing: BBC Sport's Ask Me Anything team explain what is involved in a medical exam when a football player joins a new club.",
     "BBC Sport's Ask Me Anything team explain what is involved in a medical exam when a football player joins a new club.",
@@ -641,7 +682,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-20T15:25:54.000Z",
-   "fetched_at": "2026-08-20T19:31:43.687Z",
+   "fetched_at": "2026-08-20T20:29:07.964Z",
    "body": [
     "Our briefing: Stadium has hosted two men’s World Cup finals Arena Itaquera in São Paulo will host 10 matches The Maracanã in Rio de Janeiro will host the opening game and the final of…",
     "Stadium has hosted two men’s World Cup finals Arena Itaquera in São Paulo will host 10 matches The Maracanã in Rio de Janeiro will host the opening game and the final of next year’s Women’s World Cup. The 78,838-capacity stadium, which hosted the finals of the 1950 and 2014 men’s World Cups as well as the finals of the Olympic football competitions in 2016, will be the venue for Brazil’s opening Group A match on 24 June, before staging the final on 25 July. Fifa released the schedule for all 64 matches for the tournament, which features 32 teams.",
@@ -649,8 +690,8 @@
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
   },
   {
    "id": "bbc-why-are-brighton-hearts-both-allowed-conference-",
@@ -663,14 +704,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-20T15:24:51.000Z",
-   "fetched_at": "2026-08-20T19:31:43.580Z",
+   "fetched_at": "2026-08-20T20:29:07.711Z",
    "body": [
     "Our briefing: Brighton and Hearts, who share an owner in Tony Bloom, could both end up in the Conference League this season",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Opening_of_Amex_Stadium_Brighton_2011_-_BHA_vs_Spurs.jpg/960px-Opening_of_Amex_Stadium_Brighton_2011_-_BHA_vs_Spurs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "James Boyes — CC BY 2.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/WWFC_vs_Brighton_%26_Hove_Albion_4.3.2022.jpg/960px-WWFC_vs_Brighton_%26_Hove_Albion_4.3.2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Bex Walton — CC BY 2.0"
   },
   {
    "id": "independent-transfer-news-live-arsenal-target-vinicius-alter",
@@ -702,14 +743,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-20T15:16:42.000Z",
-   "fetched_at": "2026-08-20T19:31:43.752Z",
+   "fetched_at": "2026-08-20T20:29:08.100Z",
    "body": [
     "Our briefing: After major change and an absence of star names, Miguel Delaney explains how the Premier League’s unique selling point has shone brightly despite an absence of star power",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
    "id": "guardian-arteta-demands-desire-ambition-title-defence-say",
@@ -744,7 +785,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-20T15:03:48.000Z",
-   "fetched_at": "2026-08-20T19:31:43.752Z",
+   "fetched_at": "2026-08-20T20:29:08.100Z",
    "body": [
     "Our briefing: Adam Wharton has been linked with a move away from Crystal Palace this summer",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -764,14 +805,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-20T14:47:37.000Z",
-   "fetched_at": "2026-08-20T19:31:43.752Z",
+   "fetched_at": "2026-08-20T20:29:08.100Z",
    "body": [
     "Our briefing: Gianni Infantino is under mounting pressure and a petition has now been launched by fans demanding his resignation",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/CPSL_2005_semifinals_-_Esther_Shiner_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "Robin Glover — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "bbc-chelsea-happy-fernandez-says-alonso",
@@ -784,7 +825,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-20T14:39:54.000Z",
-   "fetched_at": "2026-08-20T19:31:43.580Z",
+   "fetched_at": "2026-08-20T20:29:07.711Z",
    "body": [
     "Our briefing: Enzo Fernandez has shown a \"really good attitude\" since his return to Chelsea, says head coach Xabi Alonso, as speculation over the midfielder's future continues.",
     "Enzo Fernandez has shown a \"really good attitude\" since his return to Chelsea, says head coach Xabi Alonso, as speculation over the midfielder's future continues.",
@@ -805,57 +846,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-20T14:39:19.000Z",
-   "fetched_at": "2026-08-20T19:31:43.580Z",
+   "fetched_at": "2026-08-20T20:29:07.711Z",
    "body": [
     "Our briefing: Portugal full-back Joao Cancelo rejoins Barcelona on a permanent deal after his contract with Al-Hilal was mutually terminated.",
     "Portugal full-back Joao Cancelo rejoins Barcelona on a permanent deal after his contract with Al-Hilal was mutually terminated.",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "YHC — CC BY-SA 4.0"
-  },
-  {
-   "id": "guardian-robot-building-essien-yirenkyi-s-circuitous-path",
-   "slug": "robot-building-and-essien-yirenkyi-s-circuitous-path-to-prem--path",
-   "title": "Robot building and Essien: Yirenkyi’s circuitous path to Premier League",
-   "dek": "Coventry’s £26m record signing from Nordsjælland, a Right to Dream academy alumnus, can make a top-flight splash It is mid-July in Kössen, an Austrian village on the edge…",
-   "description": "Coventry’s £26m record signing from Nordsjælland, a Right to Dream academy alumnus, can make a top-flight splash It is mid-July in Kössen, an Austrian village on the edge of the Alps, close to the German border, at Nordsjælland’s pre-season camp. The Danish Superliga club’s coaching staff, including Michael Essien, are preparing for the new campaign, the stunning scenery par for the course. Every training session is recorded by a drone. The operator with the joystick in his hands? Well, that would be Caleb Yirenkyi, the Ghana midfielder who returned a week early from his post-World Cup break. He requested to join his teammates in the drills, but after physios told the 20-year-old he required more rest Yirenkyi did the next best thing. It is a story that speaks volumes of his modest character and, a month on, he is poised to make his Premier League debut at Arsenal on Friday after Coventry made him their £26m record signing . Continue reading...",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-08-20T14:29:33.000Z",
-   "fetched_at": "2026-08-20T19:31:43.686Z",
-   "body": [
-    "Our briefing: Coventry’s £26m record signing from Nordsjælland, a Right to Dream academy alumnus, can make a top-flight splash It is mid-July in Kössen, an Austrian village on the edge…",
-    "Coventry’s £26m record signing from Nordsjælland, a Right to Dream academy alumnus, can make a top-flight splash It is mid-July in Kössen, an Austrian village on the edge of the Alps, close to the German border, at Nordsjælland’s pre-season camp. The Danish Superliga club’s coaching staff, including Michael Essien, are preparing for the new campaign, the stunning scenery par for the course. Every training session is recorded by a drone.",
-    "The operator with the joystick in his hands? Well, that would be Caleb Yirenkyi, the Ghana midfielder who returned a week early from his post-World Cup break. He requested to join his teammates in the drills, but after physios told the 20-year-old he required more rest Yirenkyi did the next best thing.",
-    "It is a story that speaks volumes of his modest character and, a month on, he is poised to make his Premier League debut at Arsenal on Friday after Coventry made him their £26m record signing . Continue reading...",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Badalik_Szabolcs_Hungarian_beach_soccer_player.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "imageCredit": "Badalik Szabolcs — CC BY 4.0"
-  },
-  {
-   "id": "independent-transfer-news-live-arsenal-target-vinicius-alter",
-   "slug": "news-live-arsenal-target-vinicius-alternative-man-utd-close--alter",
-   "title": "news LIVE: Arsenal target Vinicius alternative, Man Utd close in on Baleba and Spurs eye double Man City raid",
-   "dek": "After missing out on Vinicius Jr, Arsenal want another wide forward with Juventus star Kenan Yildiz an option, while Baleba looks to be heading to Manchester United and…",
-   "description": "After missing out on Vinicius Jr, Arsenal want another wide forward with Juventus star Kenan Yildiz an option, while Baleba looks to be heading to Manchester United and Spurs pursue Savinho and Omar Marmoush",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-08-20T14:25:12.000Z",
-   "fetched_at": "2026-08-20T14:36:41.239Z",
-   "body": [
-    "Our briefing: After missing out on Vinicius Jr, Arsenal want another wide forward with Juventus star Kenan Yildiz an option, while Baleba looks to be heading to Manchester United and…",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg/960px-Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   }
  ]
 }
