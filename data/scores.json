@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-20T22:57:02.840Z",
+ "generated_at": "2026-08-20T23:31:14.294Z",
  "matches": [
   {
    "league": "Premier League",
@@ -13,6 +13,19 @@
    "clock": "",
    "time": "Fri, August 21st at 3:00 PM EDT",
    "date": "2026-08-21T19:00Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Rayo Vallecano",
+   "away": "Alavés",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
+   "homeScore": 1,
+   "awayScore": 1,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-08-20T19:00Z"
   },
   {
    "league": "Serie A",
@@ -78,19 +91,6 @@
    "clock": "",
    "time": "Fri, August 21st at 2:45 PM EDT",
    "date": "2026-08-21T18:45Z"
-  },
-  {
-   "league": "La Liga",
-   "home": "Rayo Vallecano",
-   "away": "Alavés",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
-   "homeScore": 1,
-   "awayScore": 1,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-08-20T19:00Z"
   },
   {
    "league": "Bundesliga",
