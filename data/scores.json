@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-20T20:58:50.985Z",
+ "generated_at": "2026-08-20T21:35:48.252Z",
  "matches": [
   {
    "league": "La Liga",
@@ -9,9 +9,9 @@
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
    "homeScore": 1,
    "awayScore": 1,
-   "status": "live",
-   "clock": "90'+7'",
-   "time": "90'+7'",
+   "status": "final",
+   "clock": "",
+   "time": "FT",
    "date": "2026-08-20T19:00Z"
   },
   {
@@ -26,6 +26,19 @@
    "clock": "",
    "time": "Fri, August 21st at 3:00 PM EDT",
    "date": "2026-08-21T19:00Z"
+  },
+  {
+   "league": "Bundesliga",
+   "home": "Bayern Munich",
+   "away": "VfB Stuttgart",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, August 28th at 2:30 PM EDT",
+   "date": "2026-08-28T18:30Z"
   },
   {
    "league": "Serie A",
@@ -78,19 +91,6 @@
    "clock": "",
    "time": "Sat, August 22nd at 2:45 PM EDT",
    "date": "2026-08-22T18:45Z"
-  },
-  {
-   "league": "Bundesliga",
-   "home": "Bayern Munich",
-   "away": "VfB Stuttgart",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, August 28th at 2:30 PM EDT",
-   "date": "2026-08-28T18:30Z"
   },
   {
    "league": "Ligue 1",
