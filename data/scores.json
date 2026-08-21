@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-21T21:25:06.423Z",
+ "generated_at": "2026-08-21T21:50:13.907Z",
  "matches": [
   {
    "league": "La Liga",
@@ -8,6 +8,19 @@
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
    "homeScore": 1,
+   "awayScore": 0,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-08-21T19:00Z"
+  },
+  {
+   "league": "Premier League",
+   "home": "Arsenal",
+   "away": "Coventry City",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
+   "homeScore": 3,
    "awayScore": 0,
    "status": "final",
    "clock": "",
@@ -91,19 +104,6 @@
    "clock": "",
    "time": "FT",
    "date": "2026-08-21T18:45Z"
-  },
-  {
-   "league": "Premier League",
-   "home": "Arsenal",
-   "away": "Coventry City",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
-   "homeScore": 3,
-   "awayScore": 0,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-08-21T19:00Z"
   }
  ]
 }
