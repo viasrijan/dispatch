@@ -1,18 +1,31 @@
 {
- "generated_at": "2026-08-21T18:49:39.044Z",
+ "generated_at": "2026-08-21T19:26:20.647Z",
  "matches": [
   {
-   "league": "La Liga",
-   "home": "Real Betis",
-   "away": "Real Sociedad",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
+   "league": "Premier League",
+   "home": "Arsenal",
+   "away": "Coventry City",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
+   "homeScore": 2,
+   "awayScore": 0,
+   "status": "live",
+   "clock": "26'",
+   "time": "26'",
+   "date": "2026-08-21T19:00Z"
+  },
+  {
+   "league": "Bundesliga",
+   "home": "Bayern Munich",
+   "away": "VfB Stuttgart",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
    "homeScore": 0,
    "awayScore": 0,
    "status": "pre",
    "clock": "",
-   "time": "Fri, August 21st at 3:00 PM EDT",
-   "date": "2026-08-21T19:00Z"
+   "time": "Fri, August 28th at 2:30 PM EDT",
+   "date": "2026-08-28T18:30Z"
   },
   {
    "league": "Serie A",
@@ -67,32 +80,6 @@
    "date": "2026-08-22T18:45Z"
   },
   {
-   "league": "Bundesliga",
-   "home": "Bayern Munich",
-   "away": "VfB Stuttgart",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, August 28th at 2:30 PM EDT",
-   "date": "2026-08-28T18:30Z"
-  },
-  {
-   "league": "Premier League",
-   "home": "Arsenal",
-   "away": "Coventry City",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, August 21st at 3:00 PM EDT",
-   "date": "2026-08-21T19:00Z"
-  },
-  {
    "league": "Ligue 1",
    "home": "Marseille",
    "away": "Strasbourg",
@@ -101,9 +88,22 @@
    "homeScore": 0,
    "awayScore": 0,
    "status": "live",
-   "clock": "3'",
-   "time": "3'",
+   "clock": "40'",
+   "time": "40'",
    "date": "2026-08-21T18:45Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Real Betis",
+   "away": "Real Sociedad",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "live",
+   "clock": "24'",
+   "time": "24'",
+   "date": "2026-08-21T19:00Z"
   }
  ]
 }
