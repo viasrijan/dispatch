@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-21T20:51:39.195Z",
+ "generated_at": "2026-08-21T21:25:06.423Z",
  "matches": [
   {
    "league": "La Liga",
@@ -9,9 +9,9 @@
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
    "homeScore": 1,
    "awayScore": 0,
-   "status": "live",
-   "clock": "90'+1'",
-   "time": "90'+1'",
+   "status": "final",
+   "clock": "",
+   "time": "FT",
    "date": "2026-08-21T19:00Z"
   },
   {
@@ -67,19 +67,6 @@
    "date": "2026-08-22T18:45Z"
   },
   {
-   "league": "Premier League",
-   "home": "Arsenal",
-   "away": "Coventry City",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
-   "homeScore": 3,
-   "awayScore": 0,
-   "status": "live",
-   "clock": "90'+4'",
-   "time": "90'+4'",
-   "date": "2026-08-21T19:00Z"
-  },
-  {
    "league": "Bundesliga",
    "home": "Bayern Munich",
    "away": "VfB Stuttgart",
@@ -104,6 +91,19 @@
    "clock": "",
    "time": "FT",
    "date": "2026-08-21T18:45Z"
+  },
+  {
+   "league": "Premier League",
+   "home": "Arsenal",
+   "away": "Coventry City",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
+   "homeScore": 3,
+   "awayScore": 0,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-08-21T19:00Z"
   }
  ]
 }
