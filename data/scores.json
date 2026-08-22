@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-22T14:49:05.246Z",
+ "generated_at": "2026-08-22T15:21:36.131Z",
  "matches": [
   {
    "league": "La Liga",
@@ -8,10 +8,10 @@
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
    "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Sat, August 22nd at 11:00 AM EDT",
+   "awayScore": 1,
+   "status": "live",
+   "clock": "21'",
+   "time": "21'",
    "date": "2026-08-22T15:00Z"
   },
   {
@@ -59,11 +59,11 @@
    "away": "Crystal Palace",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-   "homeScore": 1,
+   "homeScore": 2,
    "awayScore": 0,
    "status": "live",
-   "clock": "45'+4'",
-   "time": "45'+4'",
+   "clock": "60'",
+   "time": "60'",
    "date": "2026-08-22T14:00Z"
   },
   {
@@ -75,8 +75,8 @@
    "homeScore": 1,
    "awayScore": 1,
    "status": "live",
-   "clock": "45'+3'",
-   "time": "HT",
+   "clock": "63'",
+   "time": "63'",
    "date": "2026-08-22T14:00Z"
   },
   {
@@ -88,8 +88,8 @@
    "homeScore": 0,
    "awayScore": 0,
    "status": "live",
-   "clock": "45'+2'",
-   "time": "HT",
+   "clock": "63'",
+   "time": "63'",
    "date": "2026-08-22T14:00Z"
   },
   {
@@ -104,71 +104,6 @@
    "clock": "",
    "time": "Sat, August 22nd at 12:30 PM EDT",
    "date": "2026-08-22T16:30Z"
-  },
-  {
-   "league": "Ligue 1",
-   "home": "Lens",
-   "away": "AJ Auxerre",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/172.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Sat, August 22nd at 11:15 AM EDT",
-   "date": "2026-08-22T15:15Z"
-  },
-  {
-   "league": "Ligue 1",
-   "home": "Le Mans",
-   "away": "Brest",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2697.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Sat, August 22nd at 2:45 PM EDT",
-   "date": "2026-08-22T18:45Z"
-  },
-  {
-   "league": "Ligue 1",
-   "home": "Nice",
-   "away": "Lorient",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Sat, August 22nd at 2:45 PM EDT",
-   "date": "2026-08-22T18:45Z"
-  },
-  {
-   "league": "Ligue 1",
-   "home": "Toulouse",
-   "away": "Lyon",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Sat, August 22nd at 2:45 PM EDT",
-   "date": "2026-08-22T18:45Z"
-  },
-  {
-   "league": "Ligue 1",
-   "home": "Troyes",
-   "away": "Paris FC",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/170.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Sat, August 22nd at 2:45 PM EDT",
-   "date": "2026-08-22T18:45Z"
   },
   {
    "league": "Bundesliga",
@@ -228,6 +163,71 @@
    "away": "Cagliari",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Sat, August 22nd at 2:45 PM EDT",
+   "date": "2026-08-22T18:45Z"
+  },
+  {
+   "league": "Ligue 1",
+   "home": "Lens",
+   "away": "AJ Auxerre",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/172.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "live",
+   "clock": "6'",
+   "time": "6'",
+   "date": "2026-08-22T15:15Z"
+  },
+  {
+   "league": "Ligue 1",
+   "home": "Le Mans",
+   "away": "Brest",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2697.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Sat, August 22nd at 2:45 PM EDT",
+   "date": "2026-08-22T18:45Z"
+  },
+  {
+   "league": "Ligue 1",
+   "home": "Nice",
+   "away": "Lorient",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Sat, August 22nd at 2:45 PM EDT",
+   "date": "2026-08-22T18:45Z"
+  },
+  {
+   "league": "Ligue 1",
+   "home": "Toulouse",
+   "away": "Lyon",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Sat, August 22nd at 2:45 PM EDT",
+   "date": "2026-08-22T18:45Z"
+  },
+  {
+   "league": "Ligue 1",
+   "home": "Troyes",
+   "away": "Paris FC",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/170.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png",
    "homeScore": 0,
    "awayScore": 0,
    "status": "pre",
