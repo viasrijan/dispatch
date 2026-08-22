@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-22T17:21:06.683Z",
- "updated_utc": "2026-08-22T17:21Z",
- "cycle": 29790321,
+ "generated_at": "2026-08-22T17:46:53.652Z",
+ "updated_utc": "2026-08-22T17:46Z",
+ "cycle": 29790346,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,8 +16,73 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "independent-anton-stach-leaves-it-late-fire-leeds-rare-victo",
+ "hero_id": "independent-shambolic-man-united-exposed-familiar-mistake-st",
  "articles": [
+  {
+   "id": "independent-west-brom-devastated-former-player-dies-after-co",
+   "slug": "west-brom-devastated-as-former-player-dies-after-collapsing--er-co",
+   "title": "West Brom ‘devastated’ as former player dies after collapsing on pitch during friendly",
+   "dek": "Quevin Castro collapsed during a game in Portugal",
+   "description": "Quevin Castro collapsed during a game in Portugal",
+   "category": "News",
+   "league": "Football",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-08-22T17:35:57.000Z",
+   "fetched_at": "2026-08-22T17:46:44.968Z",
+   "body": [
+    "Our briefing: Quevin Castro collapsed during a game in Portugal",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "John Shorten — CC BY 4.0"
+  },
+  {
+   "id": "bbc-maybe-people-will-stop-sleeping-us-hull-enjoy-dr",
+   "slug": "maybe-people-will-stop-sleeping-on-us-hull-enjoy-dream-retur-oy-dr",
+   "title": "'Maybe people will stop sleeping on us' - Hull enjoy dream return",
+   "dek": "Relegation favourites Hull City start the season well with a victory over Manchester United as their manager says \"we are trying to prove people wrong\".",
+   "description": "Relegation favourites Hull City start the season well with a victory over Manchester United as their manager says \"we are trying to prove people wrong\".",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-22T17:35:09.000Z",
+   "fetched_at": "2026-08-22T17:46:44.695Z",
+   "body": [
+    "Our briefing: Relegation favourites Hull City start the season well with a victory over Manchester United as their manager says \"we are trying to prove people wrong\".",
+    "Relegation favourites Hull City start the season well with a victory over Manchester United as their manager says \"we are trying to prove people wrong\".",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": null
+  },
+  {
+   "id": "guardian-brentford-v-tottenham-premier-league-live",
+   "slug": "brentford-v-tottenham-premier-league-live--live",
+   "title": "Brentford v Tottenham: Premier League – live",
+   "dek": "⚽ New-look Spurs make short trip to Brentford. 5.30pm (BST) KO ⚽ Today’s scores | Sign up for Football Daily | Mail Scott The teams are out! Brentford wear their red and…",
+   "description": "⚽ New-look Spurs make short trip to Brentford. 5.30pm (BST) KO ⚽ Today’s scores | Sign up for Football Daily | Mail Scott The teams are out! Brentford wear their red and white stripes, while Spurs are in their blue, pink, purple and many more colours away kit. According to the marketing blurb, which presumably took upwards of 30 seconds to write, these are “never-before-seen visuals inspired by never-before-seen destinations”. They haven’t even tried to make anything up. No spurious allusions to local industry, significant figures, bus routes? Proper feet-on-the-desk vibes there. Anyway, we’ll be off in a minute. Roberto De Zerbi speaks to Sky. “We have big confidence because all three [debut defenders] are very important players with experience and qualities … we have no problem with them … [Archie Gray, stand-in captain for the day] is very young but has a big personality … he deserves to be captain today … we do not have the complete squad today … but no excuses … the quality is enough to complete … [Brentford] have a clear style … very strong … we have to adapt … the Premier League is a very tough competition and we have to play in our way.” Continue reading...",
+   "category": "News",
+   "league": "Premier League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-08-22T17:28:33.000Z",
+   "fetched_at": "2026-08-22T17:46:44.870Z",
+   "body": [
+    "Our briefing: ⚽ New-look Spurs make short trip to Brentford. 5.30pm (BST) KO ⚽ Today’s scores | Sign up for Football Daily | Mail Scott The teams are out! Brentford wear their red and…",
+    "⚽ New-look Spurs make short trip to Brentford. 5. 30pm (BST) KO ⚽ Today’s scores | Sign up for Football Daily | Mail Scott The teams are out!",
+    "Brentford wear their red and white stripes, while Spurs are in their blue, pink, purple and many more colours away kit. According to the marketing blurb, which presumably took upwards of 30 seconds to write, these are “never-before-seen visuals inspired by never-before-seen destinations”. They haven’t even tried to make anything up.",
+    "No spurious allusions to local industry, significant figures, bus routes? Proper feet-on-the-desk vibes there. Anyway, we’ll be off in a minute.",
+    "Roberto De Zerbi speaks to Sky. “We have big confidence because all three [debut defenders] are very important players with experience and qualities … we have no problem with them … [Archie Gray, stand-in captain for the day] is very young but has a big personality … he deserves to be captain today … we do not have the complete squad today … but no excuses … the quality is enough to complete … [Brentford] have a clear style … very strong … we have to adapt … the Premier League is a very tough competition and we have to play in our way. ” Continue reading...",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/London_Tottenham_Hotspur_Stadium.jpg/960px-London_Tottenham_Hotspur_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
+  },
   {
    "id": "independent-christos-tzolis-may-have-solved-arsenal-s-bigges",
    "slug": "christos-tzolis-may-have-solved-arsenal-s-biggest-weakness-i-igges",
@@ -28,8 +93,8 @@
    "league": "Premier League",
    "source": "independent",
    "sourceName": "The Independent",
-   "published": "2026-08-22T17:19:54.000Z",
-   "fetched_at": "2026-08-22T17:20:56.835Z",
+   "published": "2026-08-22T17:23:07.000Z",
+   "fetched_at": "2026-08-22T17:46:44.968Z",
    "body": [
     "Our briefing: Arsenal’s Greek winger returned to the scene of his Premier League debut five years ago as a player transformed",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -49,38 +114,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-22T17:08:27.000Z",
-   "fetched_at": "2026-08-22T17:20:56.835Z",
+   "fetched_at": "2026-08-22T17:46:44.968Z",
    "body": [
     "Our briefing: Hull 2-0 Manchester United: Talisman Bruno Fernandes and manager Michael Carrick gave contrasting responses to their disastrous start to the Premier League campaign",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "John Shorten — CC BY 4.0"
-  },
-  {
-   "id": "guardian-brentford-v-tottenham-premier-league-live",
-   "slug": "brentford-v-tottenham-premier-league-live--live",
-   "title": "Brentford v Tottenham: Premier League – live",
-   "dek": "⚽ New-look Spurs make short trip to Brentford. 5.30pm (BST) KO ⚽ Today’s scores | Sign up for Football Daily | Mail Scott The teams are out! Brentford wear their red and…",
-   "description": "⚽ New-look Spurs make short trip to Brentford. 5.30pm (BST) KO ⚽ Today’s scores | Sign up for Football Daily | Mail Scott The teams are out! Brentford wear their red and white stripes, while Spurs are in their blue, pink, purple and many more colours away kit. According to the marketing blurb, which presumably took upwards of 30 seconds to write, these are “never-before-seen visuals inspired by never-before-seen destinations”. They haven’t even tried to make anything up. No spurious allusions to local industry, significant figures, bus routes? Proper feet-on-the-desk vibes there. Anyway, we’ll be off in a minute. Roberto De Zerbi speaks to Sky. “We have big confidence because all three [debut defenders] are very important players with experience and qualities … we have no problem with them … [Archie Gray, stand-in captain for the day] is very young but has a big personality … he deserves to be captain today … we do not have the complete squad today … but no excuses … the quality is enough to complete … [Brentford] have a clear style … very strong … we have to adapt … the Premier League is a very tough competition and we have to play in our way.” Continue reading...",
-   "category": "News",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-08-22T17:04:41.000Z",
-   "fetched_at": "2026-08-22T17:20:56.644Z",
-   "body": [
-    "Our briefing: ⚽ New-look Spurs make short trip to Brentford. 5.30pm (BST) KO ⚽ Today’s scores | Sign up for Football Daily | Mail Scott The teams are out! Brentford wear their red and…",
-    "⚽ New-look Spurs make short trip to Brentford. 5. 30pm (BST) KO ⚽ Today’s scores | Sign up for Football Daily | Mail Scott The teams are out!",
-    "Brentford wear their red and white stripes, while Spurs are in their blue, pink, purple and many more colours away kit. According to the marketing blurb, which presumably took upwards of 30 seconds to write, these are “never-before-seen visuals inspired by never-before-seen destinations”. They haven’t even tried to make anything up.",
-    "No spurious allusions to local industry, significant figures, bus routes? Proper feet-on-the-desk vibes there. Anyway, we’ll be off in a minute.",
-    "Roberto De Zerbi speaks to Sky. “We have big confidence because all three [debut defenders] are very important players with experience and qualities … we have no problem with them … [Archie Gray, stand-in captain for the day] is very young but has a big personality … he deserves to be captain today … we do not have the complete squad today … but no excuses … the quality is enough to complete … [Brentford] have a clear style … very strong … we have to adapt … the Premier League is a very tough competition and we have to play in our way. ” Continue reading...",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/London_Tottenham_Hotspur_Stadium.jpg/960px-London_Tottenham_Hotspur_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
   },
   {
    "id": "independent-anton-stach-leaves-it-late-fire-leeds-rare-victo",
@@ -93,7 +134,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-22T16:59:59.000Z",
-   "fetched_at": "2026-08-22T17:20:56.835Z",
+   "fetched_at": "2026-08-22T17:46:44.968Z",
    "body": [
     "Our briefing: Daniel Farke’s men recorded their first victory at the City Ground since 1972",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -113,15 +154,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-22T16:55:35.000Z",
-   "fetched_at": "2026-08-22T17:20:56.316Z",
+   "fetched_at": "2026-08-22T17:46:44.695Z",
    "body": [
     "Our briefing: Leeds United manager Daniel Farke reacts to his side's 1–0 win against Nottingham Forest, sealed by Anton Stach's free‑kick in the opening game of their 2026-27 Premier…",
     "Leeds United manager Daniel Farke reacts to his side's 1–0 win against Nottingham Forest, sealed by Anton Stach's free‑kick in the opening game of their 2026-27 Premier League season.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "independent-jack-clarke-fires-ipswich-late-victory-over-sund",
@@ -134,14 +175,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-22T16:53:17.000Z",
-   "fetched_at": "2026-08-22T17:20:56.835Z",
+   "fetched_at": "2026-08-22T17:46:44.968Z",
    "body": [
     "Our briefing: Goal in the 90th minute ensures a perfect start to Premier League campaign.",
     "Goal in the 90th minute ensures a perfect start to Premier League campaign.",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
   },
   {
@@ -155,7 +196,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-22T16:50:08.000Z",
-   "fetched_at": "2026-08-22T17:20:56.835Z",
+   "fetched_at": "2026-08-22T17:46:44.968Z",
    "body": [
     "Our briefing: Liverpool have had a £60m bid for Brighton’s Yankuba Minteh turned down, but remain linked to PSG’s Bradley Barcola and now Real Madrid’s Endrick",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -175,7 +216,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-22T16:46:30.000Z",
-   "fetched_at": "2026-08-22T17:20:56.835Z",
+   "fetched_at": "2026-08-22T17:46:44.968Z",
    "body": [
     "Our briefing: Thierno Barry took until December last season to score his maiden goal for the club, but is up and running already, with the prime minister joyous in the stands",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -195,7 +236,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-22T16:36:43.000Z",
-   "fetched_at": "2026-08-22T17:20:56.644Z",
+   "fetched_at": "2026-08-22T17:46:44.871Z",
    "body": [
     "Our briefing: Wolves sink teeth into Preston; Blackburn stun Boro Southampton’s late show leaves Stoke pointless Charlton maintained their perfect start to the Championship season with…",
     "Wolves sink teeth into Preston; Blackburn stun Boro Southampton’s late show leaves Stoke pointless Charlton maintained their perfect start to the Championship season with a 2-1 victory at West Ham in a pulsating London derby to pile more pressure on the Hammers manager Nuno Espírito Santo. Lloyd Jones and Tyreece Campbell put Charlton 2-0 ahead before Joel Piroe, signed on loan from Leeds, marked his first appearance for the east Londoners with a goal that set up a frantic finish. Taty Castellanos then missed a stoppage-time penalty for the hosts that would have salvaged a point.",
@@ -217,7 +258,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-22T16:23:36.000Z",
-   "fetched_at": "2026-08-22T17:20:56.644Z",
+   "fetched_at": "2026-08-22T17:46:44.871Z",
    "body": [
     "Our briefing: It would be fascinating to know what recruitment algorithms or eagle-eyed staff in Ipswich’s recruitment department spotted the potential and capability in Emersonn to…",
     "It would be fascinating to know what recruitment algorithms or eagle-eyed staff in Ipswich’s recruitment department spotted the potential and capability in Emersonn to score the goals to keep them in the Premier League. Thirteen games, no goals and a serious knee injury at the Brazilian side Athletico Paranaense, two league goals in 17 games at the Turkish side Goztepe, then six in 28 at the French side Toulouse. A modest return, for sure, but it doesn’t scream ready to break down doors in the English top flight.",
@@ -225,29 +266,8 @@
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "YHC — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-maybe-people-will-stop-sleeping-us-hull-enjoy-dr",
-   "slug": "maybe-people-will-stop-sleeping-on-us-hull-enjoy-dream-retur-oy-dr",
-   "title": "'Maybe people will stop sleeping on us' - Hull enjoy dream return",
-   "dek": "Relegation favourites Hull City start the season well with a victory over Manchester United as their manager says \"we are trying to prove people wrong\".",
-   "description": "Relegation favourites Hull City start the season well with a victory over Manchester United as their manager says \"we are trying to prove people wrong\".",
-   "category": "Match Reports",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-22T16:17:18.000Z",
-   "fetched_at": "2026-08-22T17:20:56.316Z",
-   "body": [
-    "Our briefing: Relegation favourites Hull City start the season well with a victory over Manchester United as their manager says \"we are trying to prove people wrong\".",
-    "Relegation favourites Hull City start the season well with a victory over Manchester United as their manager says \"we are trying to prove people wrong\".",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
   },
   {
    "id": "guardian-nottm-forest-0-1-leeds-everton-2-0-crystal-palac",
@@ -281,7 +301,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-22T16:13:13.000Z",
-   "fetched_at": "2026-08-22T17:20:56.644Z",
+   "fetched_at": "2026-08-22T17:46:44.871Z",
    "body": [
     "Our briefing: For Nottingham Forest, a few minutes before kick-off and before the curtain went up on another season, a new protagonist emerged from the tunnel. Oliver Glasner, Forest’s…",
     "For Nottingham Forest, a few minutes before kick-off and before the curtain went up on another season, a new protagonist emerged from the tunnel. Oliver Glasner, Forest’s fifth head coach in less than 12 months, surveyed the scene from the home technical area. But the start of the new dawn, this Glasner’s first competitive game in the job, did not go to plan, Anton Stach sneaking a whipped free-kick in at Matz Sels’s near post with a couple of minutes of normal time remaining.",
@@ -304,7 +324,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-22T16:12:46.000Z",
-   "fetched_at": "2026-08-22T17:20:56.644Z",
+   "fetched_at": "2026-08-22T17:46:44.871Z",
    "body": [
     "Our briefing: Andy Burnham was in the posh seats at Hill Dickinson Stadium to witness how his beloved Everton would fare without the key additions to David Moyes’s team that even the…",
     "Andy Burnham was in the posh seats at Hill Dickinson Stadium to witness how his beloved Everton would fare without the key additions to David Moyes’s team that even the Prime Minister had voiced an opinion on. No right-back, no new centre-forward , no problem: Everton capitalised on a wasteful Crystal Palace display to start their season with an ultimately convincing victory. Kiernan Dewsbury-Hall swept any away lingering resentment over how last season ended for Everton with an outstanding finish before Thierno Barry, a man under pressure should a new striker arrive before the deadline, sealed the win with a second half header.",
@@ -348,7 +368,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-22T15:44:28.000Z",
-   "fetched_at": "2026-08-22T17:20:56.315Z",
+   "fetched_at": "2026-08-22T17:46:44.694Z",
    "body": [
     "Our briefing: Manchester United boss Michael Carrick is refusing to panic despite shock loss at newly promoted Hull City.",
     "Manchester United boss Michael Carrick is refusing to panic despite shock loss at newly promoted Hull City.",
@@ -432,7 +452,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-22T14:56:41.000Z",
-   "fetched_at": "2026-08-22T17:20:56.835Z",
+   "fetched_at": "2026-08-22T17:46:44.968Z",
    "body": [
     "Our briefing: Hull 2-0 Manchester United: Hull celebrated their top-flight return with a first Premier League win over their visitors",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -452,7 +472,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-22T14:40:57.000Z",
-   "fetched_at": "2026-08-22T17:20:56.316Z",
+   "fetched_at": "2026-08-22T17:46:44.695Z",
    "body": [
     "Our briefing: Manchester United head coach Michael Carrick says his side 'didn't click' as they suffered a 2-0 defeat at newly promoted Hull City in their first game of the 2026-27…",
     "Manchester United head coach Michael Carrick says his side 'didn't click' as they suffered a 2-0 defeat at newly promoted Hull City in their first game of the 2026-27 Premier League season.",
@@ -473,15 +493,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-22T14:39:46.000Z",
-   "fetched_at": "2026-08-22T17:20:56.317Z",
+   "fetched_at": "2026-08-22T17:46:44.695Z",
    "body": [
     "Our briefing: Aston Villa are close to signing free agent Leon Goretzka, who left Bayern Munich in the summer after eight years.",
     "Aston Villa are close to signing free agent Leon Goretzka, who left Bayern Munich in the summer after eight years.",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "YHC — CC BY-SA 4.0"
   },
   {
    "id": "bbc-can-pocognoli-afford-continue-mcburnie-s-scotlan",
@@ -494,7 +514,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-22T14:34:07.000Z",
-   "fetched_at": "2026-08-22T17:20:56.317Z",
+   "fetched_at": "2026-08-22T17:46:44.695Z",
    "body": [
     "Our briefing: With a fresh face in the Scotland dugout, are excuses running dry about whether Oli McBurnie should feature in Sebastien Pocognoli's first squad next month?",
     "With a fresh face in the Scotland dugout, are excuses running dry about whether Oli McBurnie should feature in Sebastien Pocognoli's first squad next month?",
@@ -515,14 +535,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-22T14:29:55.000Z",
-   "fetched_at": "2026-08-22T17:20:56.317Z",
+   "fetched_at": "2026-08-22T17:46:44.695Z",
    "body": [
     "Our briefing: Gianni Infantino has been asked to stay away from a youth football tournament in the Dominican Republic this weekend by Concacaf president Victor Montagliani.",
     "Gianni Infantino has been asked to stay away from a youth football tournament in the Dominican Republic this weekend by Concacaf president Victor Montagliani.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -536,7 +556,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-22T14:21:18.000Z",
-   "fetched_at": "2026-08-22T17:20:56.835Z",
+   "fetched_at": "2026-08-22T17:46:44.968Z",
    "body": [
     "Our briefing: Cole had laughed off the newly-promoted club’s chances of survival and suggested he’d turned down the chance to be a pundit on the game",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -556,14 +576,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-22T14:17:59.000Z",
-   "fetched_at": "2026-08-22T17:20:56.316Z",
+   "fetched_at": "2026-08-22T17:46:44.695Z",
    "body": [
     "Our briefing: Hull City head coach Sergej Jakirovic praises his side for their approach and sticking to the tactical plan to gain a 2-0 win against Manchester United on the opening…",
     "Hull City head coach Sergej Jakirovic praises his side for their approach and sticking to the tactical plan to gain a 2-0 win against Manchester United on the opening weekend of the Premier League season.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -577,7 +597,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-22T13:36:13.000Z",
-   "fetched_at": "2026-08-22T17:20:56.644Z",
+   "fetched_at": "2026-08-22T17:46:44.871Z",
    "body": [
     "Our briefing: Ever since Sir Alex Ferguson’s retirement 13 years ago, Manchester United have been stuck in football’s equivalent of purgatory and a chastening experience in Hull…",
     "Ever since Sir Alex Ferguson’s retirement 13 years ago, Manchester United have been stuck in football’s equivalent of purgatory and a chastening experience in Hull suggests they could be there a while longer. Michael Carrick’s permanent appointment was supposed to hail a new era at Old Trafford but very little has changed based on this defeat. United were sluggish from start to finish and rightly punished for failing to defend set pieces with any degree of competence.",
@@ -599,14 +619,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-22T13:33:40.000Z",
-   "fetched_at": "2026-08-22T17:20:56.835Z",
+   "fetched_at": "2026-08-22T17:46:44.968Z",
    "body": [
     "Our briefing: Infantino is under pressure to resign after abandoning his controversial plans",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "independent-hull-vs-manchester-united-live-woeful-red-devils",
@@ -639,7 +659,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-22T13:24:59.000Z",
-   "fetched_at": "2026-08-22T17:20:56.317Z",
+   "fetched_at": "2026-08-22T17:46:44.695Z",
    "body": [
     "Our briefing: How Hull City and Manchester United's players rated following their Premier League match.",
     "How Hull City and Manchester United's players rated following their Premier League match.",
@@ -724,7 +744,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-22T12:22:26.000Z",
-   "fetched_at": "2026-08-22T17:20:56.317Z",
+   "fetched_at": "2026-08-22T17:46:44.696Z",
    "body": [
     "Our briefing: Netherlands forward Memphis Depay says having Corinthians HQ, Parque São Jorge, in flames for a music video is \"just art\".",
     "Netherlands forward Memphis Depay says having Corinthians HQ, Parque São Jorge, in flames for a music video is \"just art\".",
@@ -765,7 +785,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-22T12:13:28.000Z",
-   "fetched_at": "2026-08-22T17:20:56.644Z",
+   "fetched_at": "2026-08-22T17:46:44.871Z",
    "body": [
     "Our briefing: PM tells regional mayors during informal discussions he is keen for tournament to return to British Isles Andy Burnham has said he wants to bring the men’s World Cup to…",
     "PM tells regional mayors during informal discussions he is keen for tournament to return to British Isles Andy Burnham has said he wants to bring the men’s World Cup to the UK in 2042, returning the tournament to Britain for the first time in almost eight decades. During informal discussions at No 10 North in Manchester on Friday, the prime minister told regional mayors he was keen for the tournament to be played in the British Isles. Continue reading...",
@@ -786,7 +806,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-22T11:49:08.000Z",
-   "fetched_at": "2026-08-22T17:20:56.316Z",
+   "fetched_at": "2026-08-22T17:46:44.695Z",
    "body": [
     "Our briefing: Ian Wright says Gabriel Martinelli deserves \"more respect\" from Arsenal and questions the way the club have handled the winger's potential exit.",
     "Ian Wright says Gabriel Martinelli deserves \"more respect\" from Arsenal and questions the way the club have handled the winger's potential exit.",
@@ -828,26 +848,6 @@
    "sourceName": "The Independent",
    "published": "2026-08-22T11:41:20.000Z",
    "fetched_at": "2026-08-22T11:45:50.602Z",
-   "body": [
-    "Our briefing: The Red Devils begin their top-flight campaign with a trip across the country to take on Hull",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Manchester_United_Old_Trafford.jpg/960px-Manchester_United_Old_Trafford.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
-  },
-  {
-   "id": "independent-hull-vs-manchester-united-live-carrick-hands-out",
-   "slug": "hull-vs-manchester-united-live-carrick-hands-out-two-debuts--s-out",
-   "title": "Hull vs Manchester United LIVE: Carrick hands out two debuts and Marcus Rashford set for Premier League return",
-   "dek": "The Red Devils begin their top-flight campaign with a trip across the country to take on Hull",
-   "description": "The Red Devils begin their top-flight campaign with a trip across the country to take on Hull",
-   "category": "News",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-08-22T11:08:16.000Z",
-   "fetched_at": "2026-08-22T11:20:49.363Z",
    "body": [
     "Our briefing: The Red Devils begin their top-flight campaign with a trip across the country to take on Hull",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
