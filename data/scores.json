@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-22T02:35:21.180Z",
+ "generated_at": "2026-08-22T03:42:09.764Z",
  "matches": [
+  {
+   "league": "Ligue 1",
+   "home": "Marseille",
+   "away": "Strasbourg",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
+   "homeScore": 4,
+   "awayScore": 0,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-08-21T18:45Z"
+  },
   {
    "league": "La Liga",
    "home": "Real Betis",
@@ -26,19 +39,6 @@
    "clock": "",
    "time": "FT",
    "date": "2026-08-21T19:00Z"
-  },
-  {
-   "league": "Ligue 1",
-   "home": "Marseille",
-   "away": "Strasbourg",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
-   "homeScore": 4,
-   "awayScore": 0,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-08-21T18:45Z"
   },
   {
    "league": "Serie A",
