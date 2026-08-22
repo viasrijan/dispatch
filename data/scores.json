@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-08-22T05:28:14.979Z",
+ "generated_at": "2026-08-22T05:56:02.169Z",
  "matches": [
   {
-   "league": "Bundesliga",
-   "home": "Bayern Munich",
-   "away": "VfB Stuttgart",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
-   "homeScore": 0,
+   "league": "Premier League",
+   "home": "Arsenal",
+   "away": "Coventry City",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
+   "homeScore": 3,
    "awayScore": 0,
-   "status": "pre",
+   "status": "final",
    "clock": "",
-   "time": "Fri, August 28th at 2:30 PM EDT",
-   "date": "2026-08-28T18:30Z"
+   "time": "FT",
+   "date": "2026-08-21T19:00Z"
   },
   {
    "league": "Serie A",
@@ -67,17 +67,17 @@
    "date": "2026-08-22T18:45Z"
   },
   {
-   "league": "La Liga",
-   "home": "Real Betis",
-   "away": "Real Sociedad",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-   "homeScore": 1,
+   "league": "Bundesliga",
+   "home": "Bayern Munich",
+   "away": "VfB Stuttgart",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+   "homeScore": 0,
    "awayScore": 0,
-   "status": "final",
+   "status": "pre",
    "clock": "",
-   "time": "FT",
-   "date": "2026-08-21T19:00Z"
+   "time": "Fri, August 28th at 2:30 PM EDT",
+   "date": "2026-08-28T18:30Z"
   },
   {
    "league": "Ligue 1",
@@ -93,12 +93,12 @@
    "date": "2026-08-21T18:45Z"
   },
   {
-   "league": "Premier League",
-   "home": "Arsenal",
-   "away": "Coventry City",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
-   "homeScore": 3,
+   "league": "La Liga",
+   "home": "Real Betis",
+   "away": "Real Sociedad",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
+   "homeScore": 1,
    "awayScore": 0,
    "status": "final",
    "clock": "",
