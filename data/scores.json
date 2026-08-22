@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-22T19:46:44.838Z",
+ "generated_at": "2026-08-22T20:23:24.709Z",
  "matches": [
   {
    "league": "La Liga",
@@ -33,11 +33,11 @@
    "away": "Real Madrid",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-   "homeScore": 0,
+   "homeScore": 1,
    "awayScore": 1,
    "status": "live",
-   "clock": "15'",
-   "time": "15'",
+   "clock": "45'+4'",
+   "time": "HT",
    "date": "2026-08-22T19:30Z"
   },
   {
@@ -59,11 +59,11 @@
    "away": "Brest",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2697.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
-   "homeScore": 1,
-   "awayScore": 1,
+   "homeScore": 2,
+   "awayScore": 2,
    "status": "live",
-   "clock": "45'+4'",
-   "time": "HT",
+   "clock": "80'",
+   "time": "80'",
    "date": "2026-08-22T18:45Z"
   },
   {
@@ -75,8 +75,8 @@
    "homeScore": 0,
    "awayScore": 0,
    "status": "live",
-   "clock": "45'+2'",
-   "time": "HT",
+   "clock": "81'",
+   "time": "81'",
    "date": "2026-08-22T18:45Z"
   },
   {
@@ -86,10 +86,10 @@
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
    "homeScore": 0,
-   "awayScore": 0,
+   "awayScore": 1,
    "status": "live",
-   "clock": "45'+2'",
-   "time": "HT",
+   "clock": "81'",
+   "time": "81'",
    "date": "2026-08-22T18:45Z"
   },
   {
@@ -101,8 +101,73 @@
    "homeScore": 0,
    "awayScore": 0,
    "status": "live",
-   "clock": "45'+1'",
-   "time": "HT",
+   "clock": "80'",
+   "time": "80'",
+   "date": "2026-08-22T18:45Z"
+  },
+  {
+   "league": "Bundesliga",
+   "home": "Bayern Munich",
+   "away": "VfB Stuttgart",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, August 28th at 2:30 PM EDT",
+   "date": "2026-08-28T18:30Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Internazionale",
+   "away": "Monza",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png",
+   "homeScore": 4,
+   "awayScore": 1,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-08-22T16:30Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Udinese",
+   "away": "Como",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
+   "homeScore": 1,
+   "awayScore": 1,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-08-22T16:30Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Genoa",
+   "away": "Napoli",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "live",
+   "clock": "79'",
+   "time": "79'",
+   "date": "2026-08-22T18:45Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Parma",
+   "away": "Cagliari",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "live",
+   "clock": "78'",
+   "time": "78'",
    "date": "2026-08-22T18:45Z"
   },
   {
@@ -169,71 +234,6 @@
    "clock": "",
    "time": "FT",
    "date": "2026-08-22T16:30Z"
-  },
-  {
-   "league": "Bundesliga",
-   "home": "Bayern Munich",
-   "away": "VfB Stuttgart",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, August 28th at 2:30 PM EDT",
-   "date": "2026-08-28T18:30Z"
-  },
-  {
-   "league": "Serie A",
-   "home": "Internazionale",
-   "away": "Monza",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png",
-   "homeScore": 4,
-   "awayScore": 1,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-08-22T16:30Z"
-  },
-  {
-   "league": "Serie A",
-   "home": "Udinese",
-   "away": "Como",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
-   "homeScore": 1,
-   "awayScore": 1,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-08-22T16:30Z"
-  },
-  {
-   "league": "Serie A",
-   "home": "Genoa",
-   "away": "Napoli",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "live",
-   "clock": "45'+1'",
-   "time": "HT",
-   "date": "2026-08-22T18:45Z"
-  },
-  {
-   "league": "Serie A",
-   "home": "Parma",
-   "away": "Cagliari",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "live",
-   "clock": "45'+4'",
-   "time": "HT",
-   "date": "2026-08-22T18:45Z"
   }
  ]
 }
