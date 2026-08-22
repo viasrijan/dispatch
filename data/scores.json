@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-22T01:15:21.531Z",
+ "generated_at": "2026-08-22T02:35:21.180Z",
  "matches": [
   {
    "league": "La Liga",
@@ -13,6 +13,32 @@
    "clock": "",
    "time": "FT",
    "date": "2026-08-21T19:00Z"
+  },
+  {
+   "league": "Premier League",
+   "home": "Arsenal",
+   "away": "Coventry City",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
+   "homeScore": 3,
+   "awayScore": 0,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-08-21T19:00Z"
+  },
+  {
+   "league": "Ligue 1",
+   "home": "Marseille",
+   "away": "Strasbourg",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
+   "homeScore": 4,
+   "awayScore": 0,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-08-21T18:45Z"
   },
   {
    "league": "Serie A",
@@ -65,32 +91,6 @@
    "clock": "",
    "time": "Sat, August 22nd at 2:45 PM EDT",
    "date": "2026-08-22T18:45Z"
-  },
-  {
-   "league": "Ligue 1",
-   "home": "Marseille",
-   "away": "Strasbourg",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
-   "homeScore": 4,
-   "awayScore": 0,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-08-21T18:45Z"
-  },
-  {
-   "league": "Premier League",
-   "home": "Arsenal",
-   "away": "Coventry City",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
-   "homeScore": 3,
-   "awayScore": 0,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-08-21T19:00Z"
   },
   {
    "league": "Bundesliga",
