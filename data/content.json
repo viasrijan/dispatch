@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-22T04:33:06.183Z",
- "updated_utc": "2026-08-22T04:33Z",
- "cycle": 29789553,
+ "generated_at": "2026-08-22T05:28:14.978Z",
+ "updated_utc": "2026-08-22T05:28Z",
+ "cycle": 29789608,
  "sources_used": [
   {
    "id": "bbc",
@@ -19,6 +19,27 @@
  "hero_id": "guardian-martin-degaard-resumes-his-role-arsenal-s-smooth",
  "articles": [
   {
+   "id": "bbc-my-family-got-me-through-injury-maddison",
+   "slug": "my-family-got-me-through-injury-maddison-dison",
+   "title": "My family got me through injury - Maddison",
+   "dek": "Tottenham midfielder James Maddison discusses life under boss Roberto de Zerbi and how the distraction of having five children under five at home kept him busy while he…",
+   "description": "Tottenham midfielder James Maddison discusses life under boss Roberto de Zerbi and how the distraction of having five children under five at home kept him busy while he was out with a long-term injury.",
+   "category": "Injuries",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-22T05:20:29.000Z",
+   "fetched_at": "2026-08-22T05:28:09.167Z",
+   "body": [
+    "Our briefing: Tottenham midfielder James Maddison discusses life under boss Roberto de Zerbi and how the distraction of having five children under five at home kept him busy while he…",
+    "Tottenham midfielder James Maddison discusses life under boss Roberto de Zerbi and how the distraction of having five children under five at home kept him busy while he was out with a long-term injury.",
+    "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Health_Report-_Soccer_Concussions.webm/500px--Health_Report-_Soccer_Concussions.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "imageCredit": null
+  },
+  {
    "id": "bbc-lessons-learned-but-coventry-s-top-flight-return",
    "slug": "lessons-learned-but-coventry-s-top-flight-return-about-more--eturn",
    "title": "Lessons learned, but Coventry's top-flight return about more than result",
@@ -29,7 +50,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-21T23:13:13.000Z",
-   "fetched_at": "2026-08-22T04:32:59.635Z",
+   "fetched_at": "2026-08-22T05:28:09.166Z",
    "body": [
     "Our briefing: Twenty-five years, 94 days and countless twists later, Coventry City have started life back in the Premier League, but it was a tough baptism of fire with a 3-0 loss at…",
     "Twenty-five years, 94 days and countless twists later, Coventry City have started life back in the Premier League, but it was a tough baptism of fire with a 3-0 loss at defending champions Arsenal.",
@@ -71,7 +92,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-21T22:55:40.000Z",
-   "fetched_at": "2026-08-22T04:32:59.634Z",
+   "fetched_at": "2026-08-22T05:28:09.166Z",
    "body": [
     "Our briefing: Arsenal started last season as nearly men but their title win has given them a swagger - as Coventry discovered on the Premier League's opening night.",
     "Arsenal started last season as nearly men but their title win has given them a swagger - as Coventry discovered on the Premier League's opening night.",
@@ -92,7 +113,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-21T22:43:42.000Z",
-   "fetched_at": "2026-08-22T04:32:59.780Z",
+   "fetched_at": "2026-08-22T05:28:09.407Z",
    "body": [
     "Our briefing: His goal was like something from It’s A Knockout, but the Arsenal captain showed signs of recovery from an injury-wrecked campaign We’re back, baby. Welcome to the…",
     "His goal was like something from It’s A Knockout, but the Arsenal captain showed signs of recovery from an injury-wrecked campaign We’re back, baby. Welcome to the content zone. And yes, we did actually go away for a bit.",
@@ -116,7 +137,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-21T22:18:15.000Z",
-   "fetched_at": "2026-08-22T04:32:59.868Z",
+   "fetched_at": "2026-08-22T05:28:09.548Z",
    "body": [
     "Our briefing: Arsenal’s Greek winger returned to the scene of his Premier League debut five years ago as a player transformed",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -136,7 +157,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-21T22:00:36.000Z",
-   "fetched_at": "2026-08-22T04:32:59.635Z",
+   "fetched_at": "2026-08-22T05:28:09.167Z",
    "body": [
     "Our briefing: Coventry City manager Frank Lampard shares his thoughts on his side's 3-0 defeat by Arsenal in their first game back in the Premier League since 2001.",
     "Coventry City manager Frank Lampard shares his thoughts on his side's 3-0 defeat by Arsenal in their first game back in the Premier League since 2001.",
@@ -157,7 +178,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-21T21:56:44.000Z",
-   "fetched_at": "2026-08-22T04:32:59.635Z",
+   "fetched_at": "2026-08-22T05:28:09.167Z",
    "body": [
     "Our briefing: Arsenal manager Mikel Arteta gives his thoughts on his side's 3-0 win over Coventry City in the opening game of the Premier League season.",
     "Arsenal manager Mikel Arteta gives his thoughts on his side's 3-0 win over Coventry City in the opening game of the Premier League season.",
@@ -178,7 +199,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-21T21:44:58.000Z",
-   "fetched_at": "2026-08-22T04:32:59.868Z",
+   "fetched_at": "2026-08-22T05:28:09.548Z",
    "body": [
     "Our briefing: Michael Carrick has already brought in Youri Tielemans and Andrey Santos this summer",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -198,7 +219,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-21T21:41:53.000Z",
-   "fetched_at": "2026-08-22T04:32:59.868Z",
+   "fetched_at": "2026-08-22T05:28:09.549Z",
    "body": [
     "Our briefing: Arsenal 3-0 Coventry City: Mikel Arteta’s side kicked off their title defence in style with a thorough dismantling of Frank Lampard’s Sky Blues",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -218,7 +239,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-21T21:35:28.000Z",
-   "fetched_at": "2026-08-22T04:32:59.634Z",
+   "fetched_at": "2026-08-22T05:28:09.166Z",
    "body": [
     "Our briefing: Goals from Kai Havertz, Bukayo Saka and Martin Odegaard give champions Arsenal a comfortable 3-0 win over newcomers Coventry City, in the opening game of the Premier…",
     "Goals from Kai Havertz, Bukayo Saka and Martin Odegaard give champions Arsenal a comfortable 3-0 win over newcomers Coventry City, in the opening game of the Premier League campaign at the Emirates Stadium.",
@@ -239,7 +260,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-21T21:30:55.000Z",
-   "fetched_at": "2026-08-22T04:32:59.868Z",
+   "fetched_at": "2026-08-22T05:28:09.549Z",
    "body": [
     "Our briefing: Andrey Santos, Youri Tielemans and, perhaps, Carlos Baleba have arrived at Old Trafford this summer, but will they have the impact needed to raise Man United’s level?",
     "Andrey Santos, Youri Tielemans and, perhaps, Carlos Baleba have arrived at Old Trafford this summer, but will they have the impact needed to raise Man United’s level?",
@@ -260,7 +281,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-21T21:30:45.000Z",
-   "fetched_at": "2026-08-22T04:32:59.778Z",
+   "fetched_at": "2026-08-22T05:28:09.406Z",
    "body": [
     "Our briefing: Brighton midfielder will join Tielemans and Santos Club’s most expensive summer signing at initial £65m Manchester United have agreed a deal worth an initial £65m for…",
     "Brighton midfielder will join Tielemans and Santos Club’s most expensive summer signing at initial £65m Manchester United have agreed a deal worth an initial £65m for Carlos Baleba and the Brighton midfielder will have his medical this weekend in Manchester. If the 22-year-old is signed he will be the third midfielder added to Michael Carrick’s squad in the window. Baleba, a No 6, will join Youri Tielemans, a No 8, and Andrey Santos, who is also a holding player.",
@@ -282,7 +303,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-21T21:30:45.000Z",
-   "fetched_at": "2026-08-22T04:32:59.778Z",
+   "fetched_at": "2026-08-22T05:28:09.406Z",
    "body": [
     "Our briefing: Manager ‘very confident’ in squad despite lack of summer signings, while Emery counts cost of Villa success Continue reading...",
     "Manager ‘very confident’ in squad despite lack of summer signings, while Emery counts cost of Villa success Continue reading...",
@@ -303,7 +324,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-21T21:30:45.000Z",
-   "fetched_at": "2026-08-22T04:32:59.778Z",
+   "fetched_at": "2026-08-22T05:28:09.406Z",
    "body": [
     "Our briefing: Spurs’ outlay expected to pass £300m this summer ‘People don’t love if Tottenham becomes better’ Roberto De Zerbi has claimed every club “wanted to kill” Tottenham last…",
     "Spurs’ outlay expected to pass £300m this summer ‘People don’t love if Tottenham becomes better’ Roberto De Zerbi has claimed every club “wanted to kill” Tottenham last season and has been reminding his players of that throughout the summer as he also defended their heavy spending in the transfer market. Tottenham’s outlay is expected to pass £300m after bringing in a series of high-profile signings, including Sandro Tonali for £92. 5m , Mateus Fernandes for £85m, and Jan Paul van Hecke for £52m.",
@@ -311,8 +332,8 @@
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "YHC — CC BY-SA 4.0"
   },
   {
    "id": "independent-why-charged-reunion-newcastle-could-prove-crucia",
@@ -325,7 +346,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-21T21:30:34.000Z",
-   "fetched_at": "2026-08-22T04:32:59.868Z",
+   "fetched_at": "2026-08-22T05:28:09.549Z",
    "body": [
     "Our briefing: Both Liverpool and Newcastle looked weakened after last summer’s Alexander Isak saga proved costly in more ways than one, but now the Swede must attempt to put that…",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
@@ -345,7 +366,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-21T21:23:29.000Z",
-   "fetched_at": "2026-08-22T04:32:59.635Z",
+   "fetched_at": "2026-08-22T05:28:09.167Z",
    "body": [
     "Our briefing: Inter Milan sign midfielder Curtis Jones from Liverpool in a deal worth £30m.",
     "Inter Milan sign midfielder Curtis Jones from Liverpool in a deal worth £30m.",
@@ -366,7 +387,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-21T21:17:14.000Z",
-   "fetched_at": "2026-08-22T04:32:59.869Z",
+   "fetched_at": "2026-08-22T05:28:09.549Z",
    "body": [
     "Our briefing: Arsenal 3-0 Coventry City: Mikel Arteta’s side kicked off their title defence in style with a thorough dismantling of Frank Lampard’s Sky Blues",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -386,7 +407,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-21T21:07:53.000Z",
-   "fetched_at": "2026-08-22T04:32:59.778Z",
+   "fetched_at": "2026-08-22T05:28:09.406Z",
    "body": [
     "Our briefing: What a difference a title makes. The last time Arsenal played in front of their own supporters, you could cut the nervous tension with a knife as Mikel Arteta’s side…",
     "What a difference a title makes. The last time Arsenal played in front of their own supporters, you could cut the nervous tension with a knife as Mikel Arteta’s side scraped to a 1-0 victory over already relegated Burnley. Ninety five days on and having ended their long wait to be crowned champions the following night when Manchester City slipped up against Bournemouth, Arsenal gave Coventry a rude awakening in their first Premier League game for 25 years.",
@@ -428,7 +449,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-21T20:52:32.000Z",
-   "fetched_at": "2026-08-22T04:32:59.635Z",
+   "fetched_at": "2026-08-22T05:28:09.166Z",
    "body": [
     "Our briefing: How Arsenal and Coventry's players rated following their Premier League match.",
     "How Arsenal and Coventry's players rated following their Premier League match.",
@@ -490,7 +511,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-21T20:42:09.000Z",
-   "fetched_at": "2026-08-22T04:32:59.635Z",
+   "fetched_at": "2026-08-22T05:28:09.167Z",
    "body": [
     "Our briefing: Watch the goals as Alfie Bavidge's late goal earns Inverness Caledonian Thistle a draw against Partick Thistle in the Scottish Championship.",
     "Watch the goals as Alfie Bavidge's late goal earns Inverness Caledonian Thistle a draw against Partick Thistle in the Scottish Championship.",
@@ -532,13 +553,13 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-21T20:17:07.000Z",
-   "fetched_at": "2026-08-22T04:32:59.869Z",
+   "fetched_at": "2026-08-22T05:28:09.549Z",
    "body": [
     "Our briefing: Iraola reiterated that Liverpool need to sign a winger, with a £50m bid for Brighton’s Yankuba Minteh turned down and PSG demanding £145m for Bradley Barcola",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/NDL11904200_Notice_of_Transfer_of_Equipment_Report_%28Shirahama_Arsenal%2C_Osaka_Arsenal%2C_etc.%29_part2.pdf/page1-960px-NDL11904200_Notice_of_Transfer_of_Equipment_Report_%28Shirahama_Arsenal%2C_Osaka_Arsenal%2C_etc.%29_part2.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/NDL11904200_Notice_of_Transfer_of_Equipment_Report_%28Shirahama_Arsenal%2C_Osaka_Arsenal%2C_etc.%29_part1.pdf/page1-960px-NDL11904200_Notice_of_Transfer_of_Equipment_Report_%28Shirahama_Arsenal%2C_Osaka_Arsenal%2C_etc.%29_part1.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
   },
   {
@@ -572,7 +593,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-21T19:58:11.000Z",
-   "fetched_at": "2026-08-22T04:32:59.635Z",
+   "fetched_at": "2026-08-22T05:28:09.167Z",
    "body": [
     "Our briefing: Manchester United agree a fee of up to £70m for Brighton midfielder Carlos Baleba.",
     "Manchester United agree a fee of up to £70m for Brighton midfielder Carlos Baleba.",
@@ -593,14 +614,14 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-21T19:52:06.000Z",
-   "fetched_at": "2026-08-22T04:32:59.779Z",
+   "fetched_at": "2026-08-22T05:28:09.406Z",
    "body": [
     "Our briefing: Bolt’s name appears in Wythenshawe FC squad list Team features several former Premier League stars The sprinting legend Usain Bolt appears set to turn out for a…",
     "Bolt’s name appears in Wythenshawe FC squad list Team features several former Premier League stars The sprinting legend Usain Bolt appears set to turn out for a star-studded Sunday league team in Greater Manchester after his name appeared in their online squad list. The eight-time Olympic champion, who still holds the world records for the 100 metres and 200m, appears on the player list for Wythenshawe FC Veterans on the Football Association’s Full-Time website . Continue reading...",
     "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Health_Report-_Soccer_Concussions.webm/500px--Health_Report-_Soccer_Concussions.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Field_hockey_and_soccer_for_women_%28IA_fieldhockeysocce00fros%29.pdf/page1-960px-Field_hockey_and_soccer_for_women_%28IA_fieldhockeysocce00fros%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
   },
   {
@@ -614,7 +635,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-21T19:48:23.000Z",
-   "fetched_at": "2026-08-22T04:32:59.636Z",
+   "fetched_at": "2026-08-22T05:28:09.167Z",
    "body": [
     "Our briefing: Liverpool make Endrick enquiry, Chelsea brace for a Nicolas Jackson offer and Arsenal make request to Victor Osimhen, plus more.",
     "Liverpool make Endrick enquiry, Chelsea brace for a Nicolas Jackson offer and Arsenal make request to Victor Osimhen, plus more.",
@@ -676,7 +697,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-21T19:30:59.000Z",
-   "fetched_at": "2026-08-22T04:32:59.869Z",
+   "fetched_at": "2026-08-22T05:28:09.549Z",
    "body": [
     "Our briefing: Reds boss Andoni Iraola wanted to keep the 25-year-old midfielder",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -716,7 +737,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-21T18:00:49.000Z",
-   "fetched_at": "2026-08-22T04:32:59.869Z",
+   "fetched_at": "2026-08-22T05:28:09.549Z",
    "body": [
     "Our briefing: A £60m offer was turned down by the Seagulls who have rejected a second bid in as many days from Liverpool",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -736,15 +757,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-21T17:44:55.000Z",
-   "fetched_at": "2026-08-22T04:32:59.636Z",
+   "fetched_at": "2026-08-22T05:28:09.168Z",
    "body": [
     "Our briefing: Mohamed Salah was expected to move to Saudi Arabia or the United States after leaving Liverpool, but Turkish side Trabzonspor pulled off one of the coups of the transfer…",
     "Mohamed Salah was expected to move to Saudi Arabia or the United States after leaving Liverpool, but Turkish side Trabzonspor pulled off one of the coups of the transfer window.",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "YHC — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
   },
   {
    "id": "bbc-brighton-reject-liverpool-s-new-60m-minteh-bid",
@@ -757,7 +778,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-21T17:26:49.000Z",
-   "fetched_at": "2026-08-22T04:32:59.635Z",
+   "fetched_at": "2026-08-22T05:28:09.167Z",
    "body": [
     "Our briefing: Liverpool have an improved bid of £60m for winger Yankuba Minteh rejected by Brighton but talks between the clubs continue.",
     "Liverpool have an improved bid of £60m for winger Yankuba Minteh rejected by Brighton but talks between the clubs continue.",
@@ -778,7 +799,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-21T17:17:08.000Z",
-   "fetched_at": "2026-08-22T04:32:59.637Z",
+   "fetched_at": "2026-08-22T05:28:09.168Z",
    "body": [
     "Our briefing: Chelsea striker Liam Delap has been made available for sale just a year into his Stamford Bridge career. Where will he go and can he bounce back?",
     "Chelsea striker Liam Delap has been made available for sale just a year into his Stamford Bridge career. Where will he go and can he bounce back?",
@@ -799,7 +820,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-21T17:14:32.000Z",
-   "fetched_at": "2026-08-22T04:32:59.636Z",
+   "fetched_at": "2026-08-22T05:28:09.167Z",
    "body": [
     "Our briefing: Eight-time Olympic champion sprinter Usain Bolt has registered to play for a veterans' Sunday league football team in Manchester.",
     "Eight-time Olympic champion sprinter Usain Bolt has registered to play for a veterans' Sunday league football team in Manchester.",
@@ -828,27 +849,6 @@
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Arsenal_Stadium_Highbury_east_facade.jpg/960px-Arsenal_Stadium_Highbury_east_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "No machine-readable author provided. Qwghlm~commonswiki assumed (based on copyright claims). — CC BY-SA 3.0"
-  },
-  {
-   "id": "guardian-konsa-joins-arsenal-shakhtar-play-european-home-",
-   "slug": "konsa-joins-arsenal-shakhtar-to-play-european-home-games-at--home-",
-   "title": "Konsa joins Arsenal; Shakhtar to play European home games at Chelsea; Paredes gets 10-match ban: football –…",
-   "dek": "⚽ All the latest football news, comment and previews ⚽ This weekend’s fixtures | Read Football Daily | Mail Tom Nothing like a bit of exclusive news to kick off the…",
-   "description": "⚽ All the latest football news, comment and previews ⚽ This weekend’s fixtures | Read Football Daily | Mail Tom Nothing like a bit of exclusive news to kick off the shift. Can we keep this momentum going? We shall see! Uefa and Concacaf have begun talks about setting up a combined Nations League tournament featuring all 96 European and North and Central American and Caribbean countries, in another direct challenge to Fifa. Continue reading...",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-08-21T16:22:31.000Z",
-   "fetched_at": "2026-08-21T16:35:00.909Z",
-   "body": [
-    "Our briefing: ⚽ All the latest football news, comment and previews ⚽ This weekend’s fixtures | Read Football Daily | Mail Tom Nothing like a bit of exclusive news to kick off the…",
-    "⚽ All the latest football news, comment and previews ⚽ This weekend’s fixtures | Read Football Daily | Mail Tom Nothing like a bit of exclusive news to kick off the shift. Can we keep this momentum going? We shall see!",
-    "Uefa and Concacaf have begun talks about setting up a combined Nations League tournament featuring all 96 European and North and Central American and Caribbean countries, in another direct challenge to Fifa. Continue reading...",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg/960px-Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   }
  ]
 }
