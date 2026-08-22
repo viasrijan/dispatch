@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-22T09:52:50.630Z",
- "updated_utc": "2026-08-22T09:52Z",
- "cycle": 29789872,
+ "generated_at": "2026-08-22T10:23:58.359Z",
+ "updated_utc": "2026-08-22T10:23Z",
+ "cycle": 29789903,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,8 +16,49 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "independent-brentford-v-tottenham-tv-channel-kick-off-time-h",
+ "hero_id": "independent-hull-vs-manchester-united-live-michael-carrick-s",
  "articles": [
+  {
+   "id": "independent-hull-vs-manchester-united-live-marcus-rashford-s",
+   "slug": "hull-vs-manchester-united-live-marcus-rashford-set-for-premi-ord-s",
+   "title": "Hull vs Manchester United LIVE: Marcus Rashford set for Premier League return against newly-promoted Tigers",
+   "dek": "The Red Devils begin their top-flight campaign with a trip across the country to take on Hull",
+   "description": "The Red Devils begin their top-flight campaign with a trip across the country to take on Hull",
+   "category": "News",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-08-22T10:18:05.000Z",
+   "fetched_at": "2026-08-22T10:23:47.882Z",
+   "body": [
+    "Our briefing: The Red Devils begin their top-flight campaign with a trip across the country to take on Hull",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Manchester_United_Old_Trafford.jpg/960px-Manchester_United_Old_Trafford.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
+  },
+  {
+   "id": "bbc-joao-pedro-extends-chelsea-stay-until-2034",
+   "slug": "joao-pedro-extends-chelsea-stay-until-2034--2034",
+   "title": "Joao Pedro extends Chelsea stay until 2034",
+   "dek": "Chelsea striker Joao Pedro signs a new contract with the club until 2032, with the option of two further years.",
+   "description": "Chelsea striker Joao Pedro signs a new contract with the club until 2032, with the option of two further years.",
+   "category": "Transfers & Rumours",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-22T10:07:37.000Z",
+   "fetched_at": "2026-08-22T10:23:47.675Z",
+   "body": [
+    "Our briefing: Chelsea striker Joao Pedro signs a new contract with the club until 2032, with the option of two further years.",
+    "Chelsea striker Joao Pedro signs a new contract with the club until 2032, with the option of two further years.",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dr_Christian_Pathak_at_Chelsea_%26_Westminster_Hospital.jpg/960px-Dr_Christian_Pathak_at_Chelsea_%26_Westminster_Hospital.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Isselerhof — CC BY-SA 4.0"
+  },
   {
    "id": "guardian-premier-league-buildup-transfers-jo-o-pedro-sign",
    "slug": "premier-league-buildup-transfers-and-jo-o-pedro-signs-new-ch--sign",
@@ -28,8 +69,8 @@
    "league": "Premier League",
    "source": "guardian",
    "sourceName": "The Guardian",
-   "published": "2026-08-22T09:41:56.000Z",
-   "fetched_at": "2026-08-22T09:52:42.476Z",
+   "published": "2026-08-22T10:05:58.000Z",
+   "fetched_at": "2026-08-22T10:23:47.757Z",
    "body": [
     "Our briefing: ⚽ News and buildup as the Premier League returns ⚽ Arsenal sweep Coventry aside | Fixtures | Get in touch On the topic of signings. Mikel Arteta said he was ‘really…",
     "⚽ News and buildup as the Premier League returns ⚽ Arsenal sweep Coventry aside | Fixtures | Get in touch On the topic of signings. Mikel Arteta said he was ‘really happy’ with the squad he’s got at The Emirates, but there’s still talk around whether Atletico Madrid’s Julian Alvarez could be on the way. Tell you what’s a fun rabbit hole to get lost in.",
@@ -37,8 +78,30 @@
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dr_Christian_Pathak_at_Chelsea_%26_Westminster_Hospital.jpg/960px-Dr_Christian_Pathak_at_Chelsea_%26_Westminster_Hospital.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Isselerhof — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Chelsea_Football_Club%2C_Stamford_Bridge_%28Ank_kumar%29_06.jpg/960px-Chelsea_Football_Club%2C_Stamford_Bridge_%28Ank_kumar%29_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ank kumar — CC BY-SA 4.0"
+  },
+  {
+   "id": "guardian-lionel-messi-fined-slapping-opposition-player-ml",
+   "slug": "lionel-messi-fined-for-slapping-opposition-player-in-mls-gam-er-ml",
+   "title": "Lionel Messi fined for slapping opposition player in MLS game",
+   "dek": "Incident happened when Inter Miami met Philadelphia Union Argentinian lashed out at Quinn Sullivan in 2-2 draw Lionel Messi has been fined for slapping an opponent during…",
+   "description": "Incident happened when Inter Miami met Philadelphia Union Argentinian lashed out at Quinn Sullivan in 2-2 draw Lionel Messi has been fined for slapping an opponent during a Major League Soccer game. The 39-year-old Inter Miami forward lashed out at Quinn Sullivan of Philadelphia Union during their match on Wednesday, catching the midfielder around the back of the head. The Argentinian appeared to be angry Sullivan had elbowed him after he had played the ball, with the referee intervening before the situation could escalate. The match at Subaru Park finished 2-2. Continue reading...",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-08-22T09:50:53.000Z",
+   "fetched_at": "2026-08-22T10:23:47.757Z",
+   "body": [
+    "Our briefing: Incident happened when Inter Miami met Philadelphia Union Argentinian lashed out at Quinn Sullivan in 2-2 draw Lionel Messi has been fined for slapping an opponent during…",
+    "Incident happened when Inter Miami met Philadelphia Union Argentinian lashed out at Quinn Sullivan in 2-2 draw Lionel Messi has been fined for slapping an opponent during a Major League Soccer game. The 39-year-old Inter Miami forward lashed out at Quinn Sullivan of Philadelphia Union during their match on Wednesday, catching the midfielder around the back of the head. The Argentinian appeared to be angry Sullivan had elbowed him after he had played the ball, with the referee intervening before the situation could escalate.",
+    "The match at Subaru Park finished 2-2. Continue reading...",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": null
   },
   {
    "id": "bbc-how-liverpool-are-preparing-face-six-new-manager",
@@ -51,7 +114,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-22T09:36:48.000Z",
-   "fetched_at": "2026-08-22T09:52:42.401Z",
+   "fetched_at": "2026-08-22T10:23:47.674Z",
    "body": [
     "Our briefing: For Liverpool and Andoni Iraola, the Premier League schedule means they will face six teams with new managers in their first six matches.",
     "For Liverpool and Andoni Iraola, the Premier League schedule means they will face six teams with new managers in their first six matches.",
@@ -92,7 +155,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-22T09:16:25.000Z",
-   "fetched_at": "2026-08-22T09:52:42.571Z",
+   "fetched_at": "2026-08-22T10:23:47.882Z",
    "body": [
     "Our briefing: Michael Carrick’s Red Devils begin their top-flight campaign against the newly-promoted side",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
@@ -112,7 +175,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-22T09:14:06.000Z",
-   "fetched_at": "2026-08-22T09:52:42.571Z",
+   "fetched_at": "2026-08-22T10:23:47.882Z",
    "body": [
     "Our briefing: The Bees impressed last term under Keith Andrews by finishing ninth and a new-look Spurs visit in the evening kick-off in the Premier League",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
@@ -153,7 +216,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-22T09:09:03.000Z",
-   "fetched_at": "2026-08-22T09:52:42.404Z",
+   "fetched_at": "2026-08-22T10:23:47.679Z",
    "body": [
     "Our briefing: Rangers consider loan striker from France as Celtic home in on Bosnia-Herzegovina star...",
     "Rangers consider loan striker from France as Celtic home in on Bosnia-Herzegovina star...",
@@ -162,6 +225,29 @@
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Queen%27s_Park_Rangers_F.C._Team_coach_in_Trinity_Square_-_geograph.org.uk_-_2406457.jpg/960px-Queen%27s_Park_Rangers_F.C._Team_coach_in_Trinity_Square_-_geograph.org.uk_-_2406457.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Oxyman — CC BY-SA 2.0"
+  },
+  {
+   "id": "guardian-us-soccer-wants-excitement-after-world-cup-open-",
+   "slug": "us-soccer-wants-excitement-after-the-world-cup-the-open-cup--open-",
+   "title": "US soccer wants excitement after the World Cup – the Open Cup provides it",
+   "dek": "MLS wants to build on the momentum of the World Cup. America’s top domestic cup competition is an obvious place to start The new commissioner of Major League Soccer,…",
+   "description": "MLS wants to build on the momentum of the World Cup. America’s top domestic cup competition is an obvious place to start The new commissioner of Major League Soccer, Larry Berg, isn’t keen on the idea of promotion and relegation, but he is a fan of jeopardy. When asked the obligatory pro/rel question in his introductory press conference , Berg responded, “I don’t think it’s appropriate for our league, but I think there are other ways to create jeopardy during the regular season, [and] again in the playoffs.” He referred to this summer’s World Cup, which was co-hosted by the US, and the excitement it provided, adding, “Millions of people across North America experienced that passion firsthand. They fell in love with the drama, the atmosphere, the supporter culture and the emotion that makes soccer unlike anything else. In the World Cup, we all enjoyed knockout games after the group stage. I call those games of consequence or games of jeopardy.” Continue reading...",
+   "category": "Tactics & Analysis",
+   "league": "International",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-08-22T09:00:02.000Z",
+   "fetched_at": "2026-08-22T10:23:47.759Z",
+   "body": [
+    "Our briefing: MLS wants to build on the momentum of the World Cup. America’s top domestic cup competition is an obvious place to start The new commissioner of Major League Soccer,…",
+    "MLS wants to build on the momentum of the World Cup. America’s top domestic cup competition is an obvious place to start The new commissioner of Major League Soccer, Larry Berg, isn’t keen on the idea of promotion and relegation, but he is a fan of jeopardy. When asked the obligatory pro/rel question in his introductory press conference , Berg responded, “I don’t think it’s appropriate for our league, but I think there are other ways to create jeopardy during the regular season, [and] again in the playoffs.",
+    "” He referred to this summer’s World Cup, which was co-hosted by the US, and the excitement it provided, adding, “Millions of people across North America experienced that passion firsthand. They fell in love with the drama, the atmosphere, the supporter culture and the emotion that makes soccer unlike anything else. In the World Cup, we all enjoyed knockout games after the group stage.",
+    "I call those games of consequence or games of jeopardy. ” Continue reading...",
+    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
   },
   {
    "id": "independent-transfer-news-live-liverpool-make-real-madrid-en",
@@ -174,7 +260,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-22T08:51:22.000Z",
-   "fetched_at": "2026-08-22T09:52:42.571Z",
+   "fetched_at": "2026-08-22T10:23:47.882Z",
    "body": [
     "Our briefing: Iraola reiterated that Liverpool need to sign a winger, with a £50m bid for Brighton’s Yankuba Minteh turned down and PSG demanding £145m for Bradley Barcola",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -194,7 +280,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-22T08:44:36.000Z",
-   "fetched_at": "2026-08-22T09:52:42.571Z",
+   "fetched_at": "2026-08-22T10:23:47.882Z",
    "body": [
     "Our briefing: ‘You have a nice haircut,’ the Fifa president told a similarly bald reporter",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -214,15 +300,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-22T08:41:57.000Z",
-   "fetched_at": "2026-08-22T09:52:42.401Z",
+   "fetched_at": "2026-08-22T10:23:47.674Z",
    "body": [
     "Our briefing: Roberto de Zerbi has had time and money over the summer to start creating a new-look Tottenham. So how are they shaping up?",
     "Roberto de Zerbi has had time and money over the summer to start creating a new-look Tottenham. So how are they shaping up?",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
    "id": "guardian-see-you-hairdressers-infantino-s-bizarre-reply-b",
@@ -235,15 +321,15 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-22T08:09:22.000Z",
-   "fetched_at": "2026-08-22T09:52:42.476Z",
+   "fetched_at": "2026-08-22T10:23:47.758Z",
    "body": [
     "Our briefing: Fifa president tells Sky man: ‘You have a nice haircut’ Odd exchange outside a hotel in the Dominican Republic Gianni Infantino told a reporter “I’ll see you at the…",
     "Fifa president tells Sky man: ‘You have a nice haircut’ Odd exchange outside a hotel in the Dominican Republic Gianni Infantino told a reporter “I’ll see you at the hairdressers” after he was asked whether he had betrayed football over his aborted World Cup sell-off plan. The Fifa president was stopped outside a hotel in the Dominican Republic by the Sky News US correspondent, James Matthews, who challenged the under-fire leader of football’s governing body over why he had not resigned, despite calls from across the game for him to step down . Continue reading...",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   },
   {
    "id": "bbc-messi-fined-slapping-opponent-mls-game",
@@ -256,14 +342,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-22T08:05:09.000Z",
-   "fetched_at": "2026-08-22T09:52:42.401Z",
+   "fetched_at": "2026-08-22T10:23:47.674Z",
    "body": [
     "Our briefing: Lionel Messi is fined by Major League Soccer after slapping Philadelphia Union's Quinn during Inter Miami's draw on Wednesday.",
     "Lionel Messi is fined by Major League Soccer after slapping Philadelphia Union's Quinn during Inter Miami's draw on Wednesday.",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
   },
   {
@@ -277,7 +363,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-22T07:44:05.000Z",
-   "fetched_at": "2026-08-22T09:52:42.401Z",
+   "fetched_at": "2026-08-22T10:23:47.675Z",
    "body": [
     "Our briefing: Tyrhys Dolan, who played for Blackburn Rovers for five years before joining Espanyol last summer, says he is ready to take on one of the biggest tests of his career…",
     "Tyrhys Dolan, who played for Blackburn Rovers for five years before joining Espanyol last summer, says he is ready to take on one of the biggest tests of his career against Real Madrid on Saturday.",
@@ -298,7 +384,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-22T07:00:57.000Z",
-   "fetched_at": "2026-08-22T09:52:42.476Z",
+   "fetched_at": "2026-08-22T10:23:47.758Z",
    "body": [
     "Our briefing: African federations sound out Swede over role ‘They think he can group all the continents’ Senior figures in African football have held talks with Fifa’s general…",
     "African federations sound out Swede over role ‘They think he can group all the continents’ Senior figures in African football have held talks with Fifa’s general secretary, Mattias Grafström, to sound out his interest in standing against Gianni Infantino, the Guardian can reveal. As many as 15 federations in Africa are also said to be ready to turn their backs on Infantino when he seeks re-election as Fifa president next year, despite the Confederation of Africa Football (Caf) claiming that its executive committee (exco) had “unanimously reconfirmed” its support for the under-fire 56-year-old. Continue reading...",
@@ -319,7 +405,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-22T07:00:57.000Z",
-   "fetched_at": "2026-08-22T09:52:42.476Z",
+   "fetched_at": "2026-08-22T10:23:47.758Z",
    "body": [
     "Our briefing: Striker must win over new head coach after tough first season at Liverpool – starting on Sunday at an inhospitable St James’ Park When Liverpool’s team bus turns a tight…",
     "Striker must win over new head coach after tough first season at Liverpool – starting on Sunday at an inhospitable St James’ Park When Liverpool’s team bus turns a tight corner and inches down the narrow, covered, access road behind Newcastle’s Milburn Stand on Sunday, Alexander Isak will know there are no hiding places. After that coach pulls up, its occupants must navigate a set of painted steps before reaching the glass-doored sanctuary of the players’ entrance at St James’ Park. It is a short climb but only a handful of portable metal barriers separate visiting sides from congregated Newcastle fans.",
@@ -363,15 +449,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-22T06:19:35.000Z",
-   "fetched_at": "2026-08-22T09:52:42.401Z",
+   "fetched_at": "2026-08-22T10:23:47.674Z",
    "body": [
     "Our briefing: Striker Kevin Ellison, who once signed for Premier League Leicester City, opens up about playing at 47 - and why it's important to talk about mental health.",
     "Striker Kevin Ellison, who once signed for Premier League Leicester City, opens up about playing at 47 - and why it's important to talk about mental health.",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "bbc-flex-your-football-brain-our-daily-quizzes",
@@ -384,7 +470,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-22T06:00:53.000Z",
-   "fetched_at": "2026-08-22T09:52:42.401Z",
+   "fetched_at": "2026-08-22T10:23:47.675Z",
    "body": [
     "Our briefing: Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
     "Test your ball knowledge with today's Who Am I? , Five in Five and Brainteaser.",
@@ -405,15 +491,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-22T05:28:50.000Z",
-   "fetched_at": "2026-08-22T09:52:42.400Z",
+   "fetched_at": "2026-08-22T10:23:47.674Z",
    "body": [
     "Our briefing: Tottenham midfielder James Maddison says having five children aged four and under - including a second set of twins - helpfully distracted him from his ACL injury last…",
     "Tottenham midfielder James Maddison says having five children aged four and under - including a second set of twins - helpfully distracted him from his ACL injury last season.",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
    "id": "bbc-my-family-got-me-through-injury-maddison",
@@ -426,7 +512,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-22T05:20:29.000Z",
-   "fetched_at": "2026-08-22T09:52:42.401Z",
+   "fetched_at": "2026-08-22T10:23:47.675Z",
    "body": [
     "Our briefing: Tottenham midfielder James Maddison discusses life under boss Roberto de Zerbi and how the distraction of having five children under five at home kept him busy while he…",
     "Tottenham midfielder James Maddison discusses life under boss Roberto de Zerbi and how the distraction of having five children under five at home kept him busy while he was out with a long-term injury.",
@@ -447,7 +533,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-22T00:00:00.000Z",
-   "fetched_at": "2026-08-22T09:52:42.402Z",
+   "fetched_at": "2026-08-22T10:23:47.676Z",
    "body": [
     "Our briefing: Kelly Somers speaks to Tottenham midfielder James Maddison.",
     "Kelly Somers speaks to Tottenham midfielder James Maddison.",
@@ -468,7 +554,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-21T23:13:13.000Z",
-   "fetched_at": "2026-08-22T09:52:42.400Z",
+   "fetched_at": "2026-08-22T10:23:47.674Z",
    "body": [
     "Our briefing: Twenty-five years, 94 days and countless twists later, Coventry City have started life back in the Premier League, but it was a tough baptism of fire with a 3-0 loss at…",
     "Twenty-five years, 94 days and countless twists later, Coventry City have started life back in the Premier League, but it was a tough baptism of fire with a 3-0 loss at defending champions Arsenal.",
@@ -510,7 +596,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-21T22:55:40.000Z",
-   "fetched_at": "2026-08-22T09:52:42.400Z",
+   "fetched_at": "2026-08-22T10:23:47.673Z",
    "body": [
     "Our briefing: Arsenal started last season as nearly men but their title win has given them a swagger - as Coventry discovered on the Premier League's opening night.",
     "Arsenal started last season as nearly men but their title win has given them a swagger - as Coventry discovered on the Premier League's opening night.",
@@ -531,7 +617,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-21T22:43:42.000Z",
-   "fetched_at": "2026-08-22T09:52:42.476Z",
+   "fetched_at": "2026-08-22T10:23:47.758Z",
    "body": [
     "Our briefing: His goal was like something from It’s A Knockout, but the Arsenal captain showed signs of recovery from an injury-wrecked campaign We’re back, baby. Welcome to the…",
     "His goal was like something from It’s A Knockout, but the Arsenal captain showed signs of recovery from an injury-wrecked campaign We’re back, baby. Welcome to the content zone. And yes, we did actually go away for a bit.",
@@ -555,7 +641,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-21T22:18:15.000Z",
-   "fetched_at": "2026-08-22T09:52:42.571Z",
+   "fetched_at": "2026-08-22T10:23:47.882Z",
    "body": [
     "Our briefing: Arsenal’s Greek winger returned to the scene of his Premier League debut five years ago as a player transformed",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -575,7 +661,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-21T22:00:36.000Z",
-   "fetched_at": "2026-08-22T09:52:42.401Z",
+   "fetched_at": "2026-08-22T10:23:47.675Z",
    "body": [
     "Our briefing: Coventry City manager Frank Lampard shares his thoughts on his side's 3-0 defeat by Arsenal in their first game back in the Premier League since 2001.",
     "Coventry City manager Frank Lampard shares his thoughts on his side's 3-0 defeat by Arsenal in their first game back in the Premier League since 2001.",
@@ -596,7 +682,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-21T21:56:44.000Z",
-   "fetched_at": "2026-08-22T09:52:42.401Z",
+   "fetched_at": "2026-08-22T10:23:47.675Z",
    "body": [
     "Our briefing: Arsenal manager Mikel Arteta gives his thoughts on his side's 3-0 win over Coventry City in the opening game of the Premier League season.",
     "Arsenal manager Mikel Arteta gives his thoughts on his side's 3-0 win over Coventry City in the opening game of the Premier League season.",
@@ -617,7 +703,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-21T21:44:58.000Z",
-   "fetched_at": "2026-08-22T09:52:42.571Z",
+   "fetched_at": "2026-08-22T10:23:47.882Z",
    "body": [
     "Our briefing: Michael Carrick has already brought in Youri Tielemans and Andrey Santos this summer",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -637,14 +723,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-21T21:41:53.000Z",
-   "fetched_at": "2026-08-22T09:52:42.571Z",
+   "fetched_at": "2026-08-22T10:23:47.882Z",
    "body": [
     "Our briefing: Arsenal 3-0 Coventry City: Mikel Arteta’s side kicked off their title defence in style with a thorough dismantling of Frank Lampard’s Sky Blues",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Former_Arsenal_Stadium_from_Conewood_Street%2C_Highbury_-_geograph.org.uk_-_2001231.jpg/960px-Former_Arsenal_Stadium_from_Conewood_Street%2C_Highbury_-_geograph.org.uk_-_2001231.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Jim Osley — CC BY-SA 2.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Kyiv_Arsenal_Stadium.jpg/960px-Kyiv_Arsenal_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Toronto_guy — CC BY 3.0"
   },
   {
    "id": "bbc-arsenal-start-title-defence-comfortable-win-over",
@@ -657,15 +743,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-21T21:35:28.000Z",
-   "fetched_at": "2026-08-22T09:52:42.400Z",
+   "fetched_at": "2026-08-22T10:23:47.673Z",
    "body": [
     "Our briefing: Goals from Kai Havertz, Bukayo Saka and Martin Odegaard give champions Arsenal a comfortable 3-0 win over newcomers Coventry City, in the opening game of the Premier…",
     "Goals from Kai Havertz, Bukayo Saka and Martin Odegaard give champions Arsenal a comfortable 3-0 win over newcomers Coventry City, in the opening game of the Premier League campaign at the Emirates Stadium.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Kyiv_Arsenal_Stadium.jpg/960px-Kyiv_Arsenal_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Toronto_guy — CC BY 3.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Former_Arsenal_Stadium_from_Conewood_Street%2C_Highbury_-_geograph.org.uk_-_2001231.jpg/960px-Former_Arsenal_Stadium_from_Conewood_Street%2C_Highbury_-_geograph.org.uk_-_2001231.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Jim Osley — CC BY-SA 2.0"
   },
   {
    "id": "independent-how-michael-carrick-rebuilt-manchester-united-s-",
@@ -678,7 +764,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-21T21:30:55.000Z",
-   "fetched_at": "2026-08-22T09:52:42.571Z",
+   "fetched_at": "2026-08-22T10:23:47.882Z",
    "body": [
     "Our briefing: Andrey Santos, Youri Tielemans and, perhaps, Carlos Baleba have arrived at Old Trafford this summer, but will they have the impact needed to raise Man United’s level?",
     "Andrey Santos, Youri Tielemans and, perhaps, Carlos Baleba have arrived at Old Trafford this summer, but will they have the impact needed to raise Man United’s level?",
@@ -699,7 +785,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-21T21:30:45.000Z",
-   "fetched_at": "2026-08-22T09:52:42.476Z",
+   "fetched_at": "2026-08-22T10:23:47.758Z",
    "body": [
     "Our briefing: Brighton midfielder will join Tielemans and Santos Club’s most expensive summer signing at initial £65m Manchester United have agreed a deal worth an initial £65m for…",
     "Brighton midfielder will join Tielemans and Santos Club’s most expensive summer signing at initial £65m Manchester United have agreed a deal worth an initial £65m for Carlos Baleba and the Brighton midfielder will have his medical this weekend in Manchester. If the 22-year-old is signed he will be the third midfielder added to Michael Carrick’s squad in the window. Baleba, a No 6, will join Youri Tielemans, a No 8, and Andrey Santos, who is also a holding player.",
@@ -721,7 +807,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-21T21:30:45.000Z",
-   "fetched_at": "2026-08-22T09:52:42.477Z",
+   "fetched_at": "2026-08-22T10:23:47.758Z",
    "body": [
     "Our briefing: Spurs’ outlay expected to pass £300m this summer ‘People don’t love if Tottenham becomes better’ Roberto De Zerbi has claimed every club “wanted to kill” Tottenham last…",
     "Spurs’ outlay expected to pass £300m this summer ‘People don’t love if Tottenham becomes better’ Roberto De Zerbi has claimed every club “wanted to kill” Tottenham last season and has been reminding his players of that throughout the summer as he also defended their heavy spending in the transfer market. Tottenham’s outlay is expected to pass £300m after bringing in a series of high-profile signings, including Sandro Tonali for £92. 5m , Mateus Fernandes for £85m, and Jan Paul van Hecke for £52m.",
@@ -764,7 +850,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-21T21:30:34.000Z",
-   "fetched_at": "2026-08-22T09:52:42.571Z",
+   "fetched_at": "2026-08-22T10:23:47.882Z",
    "body": [
     "Our briefing: Both Liverpool and Newcastle looked weakened after last summer’s Alexander Isak saga proved costly in more ways than one, but now the Swede must attempt to put that…",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
@@ -772,89 +858,6 @@
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Anfield_Stadium%2C_Liverpool_-_geograph.org.uk_-_5885062.jpg/960px-Anfield_Stadium%2C_Liverpool_-_geograph.org.uk_-_5885062.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Mike Pennington — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-inter-complete-30m-deal-liverpool-s-jones",
-   "slug": "inter-complete-30m-deal-for-liverpool-s-jones-jones",
-   "title": "Inter complete £30m deal for Liverpool's Jones",
-   "dek": "Inter Milan sign midfielder Curtis Jones from Liverpool in a deal worth £30m.",
-   "description": "Inter Milan sign midfielder Curtis Jones from Liverpool in a deal worth £30m.",
-   "category": "News",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-21T21:23:29.000Z",
-   "fetched_at": "2026-08-22T09:52:42.401Z",
-   "body": [
-    "Our briefing: Inter Milan sign midfielder Curtis Jones from Liverpool in a deal worth £30m.",
-    "Inter Milan sign midfielder Curtis Jones from Liverpool in a deal worth £30m.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/The_Kop_at_Anfield_Stadium%2C_Liverpool_-_geograph.org.uk_-_5885064.jpg/960px-The_Kop_at_Anfield_Stadium%2C_Liverpool_-_geograph.org.uk_-_5885064.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Mike Pennington — CC BY-SA 2.0"
-  },
-  {
-   "id": "independent-arsenal-deliver-statement-intent-title-defence-b",
-   "slug": "arsenal-deliver-statement-of-intent-as-title-defence-begins--nce-b",
-   "title": "Arsenal deliver statement of intent as title defence begins - but one key question remains unanswered",
-   "dek": "Arsenal 3-0 Coventry City: Mikel Arteta’s side kicked off their title defence in style with a thorough dismantling of Frank Lampard’s Sky Blues",
-   "description": "Arsenal 3-0 Coventry City: Mikel Arteta’s side kicked off their title defence in style with a thorough dismantling of Frank Lampard’s Sky Blues",
-   "category": "News",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-08-21T21:17:14.000Z",
-   "fetched_at": "2026-08-22T09:52:42.571Z",
-   "body": [
-    "Our briefing: Arsenal 3-0 Coventry City: Mikel Arteta’s side kicked off their title defence in style with a thorough dismantling of Frank Lampard’s Sky Blues",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Arsenal_Soccer_-_20240407.jpg/960px-Arsenal_Soccer_-_20240407.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "guardian-arsenal-sweep-coventry-aside-start-premier-leagu",
-   "slug": "arsenal-sweep-coventry-aside-to-start-premier-league-title-d-leagu",
-   "title": "Arsenal sweep Coventry aside to start Premier League title defence in style",
-   "dek": "What a difference a title makes. The last time Arsenal played in front of their own supporters, you could cut the nervous tension with a knife as Mikel Arteta’s side…",
-   "description": "What a difference a title makes. The last time Arsenal played in front of their own supporters, you could cut the nervous tension with a knife as Mikel Arteta’s side scraped to a 1-0 victory over already relegated Burnley. Ninety five days on and having ended their long wait to be crowned champions the following night when Manchester City slipped up against Bournemouth, Arsenal gave Coventry a rude awakening in their first Premier League game for 25 years. It’s now 46 matches since Arsenal lost at home to a newly promoted side and there was never any doubt about this result as soon as Kai Havertz – who scored the only goal against Burnley that turned out to be priceless – picked up where he left off by giving Arsenal the lead in the 15th minute. A tap-in from Bukayo Saka and captain Martin Ødegaard matching his Premier League tally from last season just after half-time made it almost the perfect start for the reigning champions. Continue reading...",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-08-21T21:07:53.000Z",
-   "fetched_at": "2026-08-22T06:43:17.446Z",
-   "body": [
-    "Our briefing: What a difference a title makes. The last time Arsenal played in front of their own supporters, you could cut the nervous tension with a knife as Mikel Arteta’s side…",
-    "What a difference a title makes. The last time Arsenal played in front of their own supporters, you could cut the nervous tension with a knife as Mikel Arteta’s side scraped to a 1-0 victory over already relegated Burnley. Ninety five days on and having ended their long wait to be crowned champions the following night when Manchester City slipped up against Bournemouth, Arsenal gave Coventry a rude awakening in their first Premier League game for 25 years.",
-    "It’s now 46 matches since Arsenal lost at home to a newly promoted side and there was never any doubt about this result as soon as Kai Havertz – who scored the only goal against Burnley that turned out to be priceless – picked up where he left off by giving Arsenal the lead in the 15th minute. A tap-in from Bukayo Saka and captain Martin Ødegaard matching his Premier League tally from last season just after half-time made it almost the perfect start for the reigning champions. Continue reading...",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Wet_match_day_at_Arsenal_-_geograph.org.uk_-_5657537.jpg/960px-Wet_match_day_at_Arsenal_-_geograph.org.uk_-_5657537.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Jim Osley — CC BY-SA 2.0"
-  },
-  {
-   "id": "independent-arsenal-vs-coventry-live-defending-champions-cru",
-   "slug": "arsenal-vs-coventry-live-defending-champions-cruise-to-victo-s-cru",
-   "title": "Arsenal vs Coventry LIVE: Defending champions cruise to victory on Premier League return",
-   "dek": "Arsenal 3-0 Coventry City: Mikel Arteta’s side kicked off their title defence in style with a thorough dismantling of Frank Lampard’s Sky Blues",
-   "description": "Arsenal 3-0 Coventry City: Mikel Arteta’s side kicked off their title defence in style with a thorough dismantling of Frank Lampard’s Sky Blues",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-08-21T20:57:47.000Z",
-   "fetched_at": "2026-08-21T21:24:59.768Z",
-   "body": [
-    "Our briefing: Mikel Arteta’s side look to kick off their title defence in winning ways when they take on Frank Lampard’s Sky Blues",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Manchester_City_v_Arsenal%2C_League_Cup_2004-5_-_geograph.org.uk_-_3841596.jpg/960px-Manchester_City_v_Arsenal%2C_League_Cup_2004-5_-_geograph.org.uk_-_3841596.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Richard Cooke — CC BY-SA 2.0"
   }
  ]
 }
