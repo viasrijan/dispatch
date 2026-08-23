@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-23T13:32:32.580Z",
+ "generated_at": "2026-08-23T14:23:48.867Z",
  "matches": [
   {
    "league": "La Liga",
@@ -41,6 +41,45 @@
    "date": "2026-08-23T19:30Z"
   },
   {
+   "league": "Ligue 1",
+   "home": "Angers",
+   "away": "Lille",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+   "homeScore": 0,
+   "awayScore": 2,
+   "status": "live",
+   "clock": "66'",
+   "time": "66'",
+   "date": "2026-08-23T13:00Z"
+  },
+  {
+   "league": "Ligue 1",
+   "home": "Le Havre AC",
+   "away": "AS Monaco",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3236.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Sun, August 23rd at 11:15 AM EDT",
+   "date": "2026-08-23T15:15Z"
+  },
+  {
+   "league": "Ligue 1",
+   "home": "Stade Rennais",
+   "away": "Paris Saint-Germain",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Sun, August 23rd at 2:45 PM EDT",
+   "date": "2026-08-23T18:45Z"
+  },
+  {
    "league": "Premier League",
    "home": "Brighton & Hove Albion",
    "away": "Aston Villa",
@@ -49,8 +88,8 @@
    "homeScore": 4,
    "awayScore": 0,
    "status": "live",
-   "clock": "32'",
-   "time": "32'",
+   "clock": "63'",
+   "time": "63'",
    "date": "2026-08-23T13:00Z"
   },
   {
@@ -62,8 +101,8 @@
    "homeScore": 0,
    "awayScore": 1,
    "status": "live",
-   "clock": "29'",
-   "time": "29'",
+   "clock": "63'",
+   "time": "63'",
    "date": "2026-08-23T13:00Z"
   },
   {
@@ -137,45 +176,6 @@
    "away": "AC Milan",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Sun, August 23rd at 2:45 PM EDT",
-   "date": "2026-08-23T18:45Z"
-  },
-  {
-   "league": "Ligue 1",
-   "home": "Angers",
-   "away": "Lille",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-   "homeScore": 0,
-   "awayScore": 2,
-   "status": "live",
-   "clock": "32'",
-   "time": "32'",
-   "date": "2026-08-23T13:00Z"
-  },
-  {
-   "league": "Ligue 1",
-   "home": "Le Havre AC",
-   "away": "AS Monaco",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3236.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Sun, August 23rd at 11:15 AM EDT",
-   "date": "2026-08-23T15:15Z"
-  },
-  {
-   "league": "Ligue 1",
-   "home": "Stade Rennais",
-   "away": "Paris Saint-Germain",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
    "homeScore": 0,
    "awayScore": 0,
    "status": "pre",
