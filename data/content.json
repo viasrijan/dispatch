@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-23T10:24:29.286Z",
- "updated_utc": "2026-08-23T10:24Z",
- "cycle": 29791344,
+ "generated_at": "2026-08-23T10:50:43.496Z",
+ "updated_utc": "2026-08-23T10:50Z",
+ "cycle": 29791370,
  "sources_used": [
   {
    "id": "bbc",
@@ -19,26 +19,6 @@
  "hero_id": "independent-transfer-news-live-arsenal-given-alvarez-green-l",
  "articles": [
   {
-   "id": "independent-transfer-news-live-arsenal-given-alvarez-green-l",
-   "slug": "news-live-arsenal-given-alvarez-green-light-liverpool-receiv-een-l",
-   "title": "news LIVE: Arsenal given Alvarez green light, Liverpool receive another Barcola boost, Man Utd’s new left…",
-   "dek": "Alvarez would welcome a move to Arsenal this summer if he is now allowed to join Barcelona while Liverpool continue to be frustrated in their search for a new winger",
-   "description": "Alvarez would welcome a move to Arsenal this summer if he is now allowed to join Barcelona while Liverpool continue to be frustrated in their search for a new winger",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-08-23T10:16:05.000Z",
-   "fetched_at": "2026-08-23T10:24:20.634Z",
-   "body": [
-    "Our briefing: Alvarez would welcome a move to Arsenal this summer if he is now allowed to join Barcelona while Liverpool continue to be frustrated in their search for a new winger",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg/960px-Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
    "id": "guardian-isak-returns-newcastle-liverpool-premier-league-",
    "slug": "isak-returns-to-newcastle-with-liverpool-premier-league-buil-ague-",
    "title": "Isak returns to Newcastle with Liverpool, Premier League buildup, and more – matchday live",
@@ -48,8 +28,8 @@
    "league": "Premier League",
    "source": "guardian",
    "sourceName": "The Guardian",
-   "published": "2026-08-23T10:13:17.000Z",
-   "fetched_at": "2026-08-23T10:24:20.588Z",
+   "published": "2026-08-23T10:44:40.000Z",
+   "fetched_at": "2026-08-23T10:50:37.087Z",
    "body": [
     "Our briefing: ⚽ Three Premier League matches and much more ahead ⚽ Today’s games | Sign up for Football Daily | Get in touch And last but not least, Leeds snatched a one-nil win away…",
     "⚽ Three Premier League matches and much more ahead ⚽ Today’s games | Sign up for Football Daily | Get in touch And last but not least, Leeds snatched a one-nil win away to Forest. Another match with late drama to kick-off opening weekend. This time the excellently named Anton Stach doing the snatching/statching.",
@@ -62,6 +42,46 @@
    "imageCredit": "Cory Doctorow — CC BY-SA 4.0"
   },
   {
+   "id": "independent-bradley-barcola-left-out-another-psg-squad-amid-",
+   "slug": "bradley-barcola-left-out-of-another-psg-squad-amid-liverpool-amid-",
+   "title": "Bradley Barcola left out of another PSG squad amid Liverpool and Arsenal interest",
+   "dek": "Barcola has been left out of PSG’s squad for the third game in a row as the French champions begin the Ligue 1 season at Rennes",
+   "description": "Barcola has been left out of PSG’s squad for the third game in a row as the French champions begin the Ligue 1 season at Rennes",
+   "category": "News",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-08-23T10:37:53.000Z",
+   "fetched_at": "2026-08-23T10:50:37.127Z",
+   "body": [
+    "Our briefing: Barcola has been left out of PSG’s squad for the third game in a row as the French champions begin the Ligue 1 season at Rennes",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Arsenal_Stadium_Highbury_east_facade.jpg/960px-Arsenal_Stadium_Highbury_east_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "No machine-readable author provided. Qwghlm~commonswiki assumed (based on copyright claims). — CC BY-SA 3.0"
+  },
+  {
+   "id": "independent-transfer-news-live-arsenal-given-alvarez-green-l",
+   "slug": "news-live-arsenal-given-alvarez-green-light-liverpool-receiv-een-l",
+   "title": "news LIVE: Arsenal given Alvarez green light, Liverpool receive another Barcola boost, Man Utd’s new left…",
+   "dek": "Alvarez would welcome a move to Arsenal this summer if he is now allowed to join Barcelona while Liverpool continue to be frustrated in their search for a new winger",
+   "description": "Alvarez would welcome a move to Arsenal this summer if he is now allowed to join Barcelona while Liverpool continue to be frustrated in their search for a new winger",
+   "category": "Transfers & Rumours",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-08-23T10:16:05.000Z",
+   "fetched_at": "2026-08-23T10:50:37.127Z",
+   "body": [
+    "Our briefing: Alvarez would welcome a move to Arsenal this summer if he is now allowed to join Barcelona while Liverpool continue to be frustrated in their search for a new winger",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg/960px-Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
    "id": "bbc-it-hurts-alexander-arnold-reveals-he-still-recei",
    "slug": "it-hurts-alexander-arnold-reveals-he-still-receives-abuse-af-recei",
    "title": "'It hurts' - Alexander-Arnold reveals he still receives abuse after Liverpool exit",
@@ -72,7 +92,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-23T10:05:27.000Z",
-   "fetched_at": "2026-08-23T10:24:20.373Z",
+   "fetched_at": "2026-08-23T10:50:36.994Z",
    "body": [
     "Our briefing: Trent Alexander-Arnold says he still receives abuse from Liverpool fans online after leaving Anfield for Real Madrid 14 months ago.",
     "Trent Alexander-Arnold says he still receives abuse from Liverpool fans online after leaving Anfield for Real Madrid 14 months ago.",
@@ -112,7 +132,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-23T08:58:49.000Z",
-   "fetched_at": "2026-08-23T10:24:20.376Z",
+   "fetched_at": "2026-08-23T10:50:36.996Z",
    "body": [
     "Our briefing: It's been a rocky start to the season for Morton with seven straight defeats, while the fans' group running the Championship club are dealing with a shortfall in funding.",
     "It's been a rocky start to the season for Morton with seven straight defeats, while the fans' group running the Championship club are dealing with a shortfall in funding.",
@@ -133,7 +153,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-23T08:45:19.000Z",
-   "fetched_at": "2026-08-23T10:24:20.634Z",
+   "fetched_at": "2026-08-23T10:50:37.127Z",
    "body": [
     "Our briefing: De Zerbi handed debuts to five of Tottenham’s six summer recruits but said Marcos Senesi, Jan Paul van Hecke and Sandro Tonali were ‘not in the best physical condition’",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -153,7 +173,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-23T08:17:11.000Z",
-   "fetched_at": "2026-08-23T10:24:20.634Z",
+   "fetched_at": "2026-08-23T10:50:37.127Z",
    "body": [
     "Our briefing: United were brought back down to earth following a 2-0 defeat at newly promoted Hull",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -173,7 +193,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-23T08:08:17.000Z",
-   "fetched_at": "2026-08-23T10:24:20.376Z",
+   "fetched_at": "2026-08-23T10:50:36.996Z",
    "body": [
     "Our briefing: Celtic continue their pursuit of midfield options as Rangers prepare for a big name departure...",
     "Celtic continue their pursuit of midfield options as Rangers prepare for a big name departure...",
@@ -194,7 +214,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-23T07:43:38.000Z",
-   "fetched_at": "2026-08-23T10:24:20.373Z",
+   "fetched_at": "2026-08-23T10:50:36.994Z",
    "body": [
     "Our briefing: Does Savinho's £75m move from Manchester City to Tottenham represent a sporting success for the Abu Dhabi-owned club?",
     "Does Savinho's £75m move from Manchester City to Tottenham represent a sporting success for the Abu Dhabi-owned club?",
@@ -215,7 +235,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-23T07:00:26.000Z",
-   "fetched_at": "2026-08-23T10:24:20.588Z",
+   "fetched_at": "2026-08-23T10:50:37.087Z",
    "body": [
     "Our briefing: The Imps have not been at this level since 1961 and even a 3-1 loss to Portsmouth could not spoil the sense of joy There is optimism to be found in almost every corner of…",
     "The Imps have not been at this level since 1961 and even a 3-1 loss to Portsmouth could not spoil the sense of joy There is optimism to be found in almost every corner of the footballing landscape at this time of the year, but you would do well to find anyone without a smile on their face on this sunny Saturday lunchtime in one of Britain’s most picturesque cities. Football may not necessarily be the first thing that springs to mind when you think of Lincoln. After all, Sincil Bank sits in the shadow of the imposing cathedral, high on the hill and a building that symbolically represents the importance of this area stretching back hundreds of years.",
@@ -237,7 +257,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-23T06:31:21.000Z",
-   "fetched_at": "2026-08-23T10:24:20.373Z",
+   "fetched_at": "2026-08-23T10:50:36.993Z",
    "body": [
     "Our briefing: Liverpool are preparing to begin a season without Mohamed Salah for the first time in a decade - but they haven't replaced him yet. This is why.",
     "Liverpool are preparing to begin a season without Mohamed Salah for the first time in a decade - but they haven't replaced him yet. This is why.",
@@ -258,7 +278,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-23T05:59:40.000Z",
-   "fetched_at": "2026-08-23T10:24:20.374Z",
+   "fetched_at": "2026-08-23T10:50:36.994Z",
    "body": [
     "Our briefing: Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
     "Test your ball knowledge with today's Who Am I? , Five in Five and Brainteaser.",
@@ -279,7 +299,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-23T05:17:21.000Z",
-   "fetched_at": "2026-08-23T10:24:20.374Z",
+   "fetched_at": "2026-08-23T10:50:36.994Z",
    "body": [
     "Our briefing: BBC Sport looks back at one of the Premier League's best ever games as Newcastle, then managed by Kevin Keegan, lost a thriller to Liverpool. Both clubs will pay tribute…",
     "BBC Sport looks back at one of the Premier League's best ever games as Newcastle, then managed by Kevin Keegan, lost a thriller to Liverpool. Both clubs will pay tribute to Keegan before their Premier League opener at St James' Park.",
@@ -300,7 +320,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-22T23:21:58.000Z",
-   "fetched_at": "2026-08-23T10:24:20.588Z",
+   "fetched_at": "2026-08-23T10:50:37.088Z",
    "body": [
     "Our briefing: The old master is back at Madrid as he begins with celebrations, frustrations and finally relief at Espanyol José Mourinho says he is calmer now so when the rest of the…",
     "The old master is back at Madrid as he begins with celebrations, frustrations and finally relief at Espanyol José Mourinho says he is calmer now so when the rest of the bench emptied, sprinting down the touchline to celebrate the 90th-minute goal that finally delivered victory on his first game in charge of Real Madrid in 4,380 days, he did not set off with them. Instead, he clenched his fists, got to his feet and walked down the touchline behind the subs, watching them head, shouting, towards Carlos Espí. As they piled on down in the corner, he pulled over his captain Fede Valverde for a word.",
@@ -344,15 +364,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-22T23:13:35.000Z",
-   "fetched_at": "2026-08-23T10:24:20.374Z",
+   "fetched_at": "2026-08-23T10:50:36.995Z",
    "body": [
     "Our briefing: Match of the Day's Mark Chapman, Alan Shearer and Wayne Rooney discuss Arsenal's quality against Coventry City, praising the hosts but stressing that Frank Lampard's side…",
     "Match of the Day's Mark Chapman, Alan Shearer and Wayne Rooney discuss Arsenal's quality against Coventry City, praising the hosts but stressing that Frank Lampard's side shouldn't be judged.",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Arsenal_Stadium_Highbury_east_facade.jpg/960px-Arsenal_Stadium_Highbury_east_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "No machine-readable author provided. Qwghlm~commonswiki assumed (based on copyright claims). — CC BY-SA 3.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Arsenal_Stadium_in_Tula.jpg/960px-Arsenal_Stadium_in_Tula.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "UMNICK — CC BY-SA 3.0"
   },
   {
    "id": "bbc-why-spurs-defeat-brentford-worrying-after-summer",
@@ -365,7 +385,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-22T23:10:45.000Z",
-   "fetched_at": "2026-08-23T10:24:20.375Z",
+   "fetched_at": "2026-08-23T10:50:36.995Z",
    "body": [
     "Our briefing: Match of the Day's Mark Chapman, Alan Shearer and Wayne Rooney discuss how Tottenham Hotspur's heavy loss to Brentford is cause for concern considering how much money…",
     "Match of the Day's Mark Chapman, Alan Shearer and Wayne Rooney discuss how Tottenham Hotspur's heavy loss to Brentford is cause for concern considering how much money they have spent.",
@@ -386,7 +406,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-22T23:06:30.000Z",
-   "fetched_at": "2026-08-23T10:24:20.375Z",
+   "fetched_at": "2026-08-23T10:50:36.995Z",
    "body": [
     "Our briefing: Match of the Day's Wayne Rooney is full of praise for Ipswich Town on their return to the Premier League as they earn a late victory over Sunderland.",
     "Match of the Day's Wayne Rooney is full of praise for Ipswich Town on their return to the Premier League as they earn a late victory over Sunderland.",
@@ -407,7 +427,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-22T23:01:53.000Z",
-   "fetched_at": "2026-08-23T10:24:20.374Z",
+   "fetched_at": "2026-08-23T10:50:36.995Z",
    "body": [
     "Our briefing: Match of the Day pundits Alan Shearer and Wayne Rooney analyse Manchester United's performance in their 2-0 loss on the opening day of the Premier League to newly…",
     "Match of the Day pundits Alan Shearer and Wayne Rooney analyse Manchester United's performance in their 2-0 loss on the opening day of the Premier League to newly promoted Hull City.",
@@ -469,7 +489,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-22T21:30:32.000Z",
-   "fetched_at": "2026-08-23T10:24:20.373Z",
+   "fetched_at": "2026-08-23T10:50:36.994Z",
    "body": [
     "Our briefing: Manchester City will \"try to find the new Rodri\" after the Spain captain left the club earlier this week to join La Liga champions Barcelona, says manager Enzo Maresca.",
     "Manchester City will \"try to find the new Rodri\" after the Spain captain left the club earlier this week to join La Liga champions Barcelona, says manager Enzo Maresca.",
@@ -490,7 +510,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-22T21:30:14.000Z",
-   "fetched_at": "2026-08-23T10:24:20.588Z",
+   "fetched_at": "2026-08-23T10:50:37.088Z",
    "body": [
     "Our briefing: Maresca: ‘You need to be good at recruiting the next one’ City face Bournemouth after Community Shield defeat Enzo Maresca has brushed off the loss of Rodri to Barcelona…",
     "Maresca: ‘You need to be good at recruiting the next one’ City face Bournemouth after Community Shield defeat Enzo Maresca has brushed off the loss of Rodri to Barcelona for £65m by stating Manchester City will search for the “new Rodri” in the same way Sergio Agüero was replaced by Erling Haaland. Rodri’s departure is a sizable blow to the club’s new manager as he embarks on a first season in charge. Yet the Italian is not fazed by the absence of a player considered one of the world’s best No 6s.",
@@ -498,8 +518,8 @@
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "YHC — CC BY-SA 4.0"
   },
   {
    "id": "guardian-european-football-inter-speed-past-monza-bayern-",
@@ -554,7 +574,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-22T20:54:01.000Z",
-   "fetched_at": "2026-08-23T10:24:20.375Z",
+   "fetched_at": "2026-08-23T10:50:36.995Z",
    "body": [
     "Our briefing: Nuno Espirito Santo says West Ham \"let down\" their fans as they lost 2-1 to Charlton in their first Championship home match this season.",
     "Nuno Espirito Santo says West Ham \"let down\" their fans as they lost 2-1 to Charlton in their first Championship home match this season.",
@@ -575,7 +595,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-22T20:39:00.000Z",
-   "fetched_at": "2026-08-23T10:24:20.373Z",
+   "fetched_at": "2026-08-23T10:50:36.994Z",
    "body": [
     "Our briefing: Atletico Madrid forward Julian Alvarez open to Arsenal transfer, Spurs confident on completing Omar Marmoush deal, Ollie Watkins wants Al-Hilal move, plus more.",
     "Atletico Madrid forward Julian Alvarez open to Arsenal transfer, Spurs confident on completing Omar Marmoush deal, Ollie Watkins wants Al-Hilal move, plus more.",
@@ -618,7 +638,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-22T20:20:34.000Z",
-   "fetched_at": "2026-08-23T10:24:20.374Z",
+   "fetched_at": "2026-08-23T10:50:36.994Z",
    "body": [
     "Our briefing: Steven Pressley says he is \"immensely proud\" of his Dundee players as the head coach's redemption arc continues with another derby victory.",
     "Steven Pressley says he is \"immensely proud\" of his Dundee players as the head coach's redemption arc continues with another derby victory.",
@@ -639,7 +659,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-22T20:16:00.000Z",
-   "fetched_at": "2026-08-23T10:24:20.373Z",
+   "fetched_at": "2026-08-23T10:50:36.994Z",
    "body": [
     "Our briefing: Spurs head coach Roberto De Zerbi discovers cash is no cure for a losing mentality as they crash to a heavy defeat at Brentford, says chief football writer Phil McNulty.",
     "Spurs head coach Roberto De Zerbi discovers cash is no cure for a losing mentality as they crash to a heavy defeat at Brentford, says chief football writer Phil McNulty.",
@@ -660,7 +680,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-22T20:10:40.000Z",
-   "fetched_at": "2026-08-23T10:24:20.374Z",
+   "fetched_at": "2026-08-23T10:50:36.994Z",
    "body": [
     "Our briefing: After finding the back of the net in Everton's 2-0 win over Crystal Palace, is Thierno Barry on course to become Everton's main man up front?",
     "After finding the back of the net in Everton's 2-0 win over Crystal Palace, is Thierno Barry on course to become Everton's main man up front?",
@@ -681,7 +701,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-22T20:04:18.000Z",
-   "fetched_at": "2026-08-23T10:24:20.588Z",
+   "fetched_at": "2026-08-23T10:50:37.087Z",
    "body": [
     "Our briefing: Canny Brentford show it will take more than a few new players to restore any sense of stability to Tottenham This was supposed to be New Spurs . Daniel Levy, such a…",
     "Canny Brentford show it will take more than a few new players to restore any sense of stability to Tottenham This was supposed to be New Spurs . Daniel Levy, such a magnet for fan apathy, has been sidelined. Roberto De Zerbi’s recruitment drive has won the transfer market.",
@@ -691,8 +711,8 @@
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "YHC — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
   },
   {
    "id": "guardian-championship-roundup-nuno-admits-west-ham-let-do",
@@ -727,7 +747,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-22T19:23:56.000Z",
-   "fetched_at": "2026-08-23T10:24:20.375Z",
+   "fetched_at": "2026-08-23T10:50:36.995Z",
    "body": [
     "Our briefing: Tottenham Hotspur head coach Roberto Di Zerbi believes his side \"didn't fight in the right way\" in their 3-0 loss to Brentford in the opening match of the 2026-27 Premier…",
     "Tottenham Hotspur head coach Roberto Di Zerbi believes his side \"didn't fight in the right way\" in their 3-0 loss to Brentford in the opening match of the 2026-27 Premier League season.",
@@ -769,7 +789,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-22T19:07:15.000Z",
-   "fetched_at": "2026-08-23T10:24:20.373Z",
+   "fetched_at": "2026-08-23T10:50:36.994Z",
    "body": [
     "Our briefing: Relegation favourites Hull City start the season well with a victory over Manchester United as their manager says \"we are trying to prove people wrong\".",
     "Relegation favourites Hull City start the season well with a victory over Manchester United as their manager says \"we are trying to prove people wrong\".",
@@ -790,7 +810,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-22T19:06:02.000Z",
-   "fetched_at": "2026-08-23T10:24:20.373Z",
+   "fetched_at": "2026-08-23T10:50:36.994Z",
    "body": [
     "Our briefing: Manchester United boss Michael Carrick is refusing to panic despite shock loss at newly promoted Hull City.",
     "Manchester United boss Michael Carrick is refusing to panic despite shock loss at newly promoted Hull City.",
@@ -811,7 +831,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-22T19:02:31.000Z",
-   "fetched_at": "2026-08-23T10:24:20.374Z",
+   "fetched_at": "2026-08-23T10:50:36.994Z",
    "body": [
     "Our briefing: Tottenham Hotspur's Premier League season under Roberto De Zerbi gets off to a dismal start as they lose 3-0 to a dominant Brentford side at the Gtech Community Stadium.",
     "Tottenham Hotspur's Premier League season under Roberto De Zerbi gets off to a dismal start as they lose 3-0 to a dominant Brentford side at the Gtech Community Stadium.",
@@ -832,7 +852,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-22T19:01:50.000Z",
-   "fetched_at": "2026-08-23T10:24:20.374Z",
+   "fetched_at": "2026-08-23T10:50:36.994Z",
    "body": [
     "Our briefing: Ipswich Town beat Sunderland as Jack Clarke scores a 90th minute winner to open their account on their return to the Premier League.",
     "Ipswich Town beat Sunderland as Jack Clarke scores a 90th minute winner to open their account on their return to the Premier League.",
@@ -841,27 +861,6 @@
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
-  },
-  {
-   "id": "bbc-leeds-score-late-winner-silence-forest-fans",
-   "slug": "leeds-score-late-winner-to-silence-forest-fans--fans",
-   "title": "Leeds score late winner to silence Forest fans",
-   "dek": "Anton Stach scores in the 88th minute to give Leeds United a win in Oliver Glasner's first game in charge of Nottingham Forest in the Premier League.",
-   "description": "Anton Stach scores in the 88th minute to give Leeds United a win in Oliver Glasner's first game in charge of Nottingham Forest in the Premier League.",
-   "category": "News",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-22T19:01:04.000Z",
-   "fetched_at": "2026-08-23T10:24:20.374Z",
-   "body": [
-    "Our briefing: Anton Stach scores in the 88th minute to give Leeds United a win in Oliver Glasner's first game in charge of Nottingham Forest in the Premier League.",
-    "Anton Stach scores in the 88th minute to give Leeds United a win in Oliver Glasner's first game in charge of Nottingham Forest in the Premier League.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Leeds_United-Galatasaray_match_in_20_April_2000.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "John Seb Barber from Leeds, UK — CC BY-SA 2.0"
   }
  ]
 }
