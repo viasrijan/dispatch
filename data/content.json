@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-23T16:53:12.793Z",
- "updated_utc": "2026-08-23T16:53Z",
- "cycle": 29791733,
+ "generated_at": "2026-08-23T17:21:02.679Z",
+ "updated_utc": "2026-08-23T17:21Z",
+ "cycle": 29791761,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,27 +16,28 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "independent-newcastle-vs-liverpool-live-elanga-goal-gives-ad",
+ "hero_id": "guardian-call-his-agent-emery-feels-watkins-should-explai",
  "articles": [
   {
-   "id": "independent-newcastle-vs-liverpool-live-substitute-willock-r",
-   "slug": "newcastle-vs-liverpool-live-substitute-willock-restores-lead-ock-r",
-   "title": "Newcastle vs Liverpool LIVE: Substitute Willock restores lead minutes after Gakpo equaliser",
-   "dek": "Both clubs have undergone managerial changes over the summer and kick off their top-flight campaigns at St James’ Park",
-   "description": "Both clubs have undergone managerial changes over the summer and kick off their top-flight campaigns at St James’ Park",
-   "category": "News",
+   "id": "bbc-manchester-utd-midfielder-devaney-joins-hibs-loa",
+   "slug": "manchester-utd-midfielder-devaney-joins-hibs-on-loan-s-loa",
+   "title": "Manchester Utd midfielder Devaney joins Hibs on loan",
+   "dek": "Manchester United teenager Jacob Devaney is joining Hibernian on a season-long loan, with the Edinburgh club holding an option to make the move permanent.",
+   "description": "Manchester United teenager Jacob Devaney is joining Hibernian on a season-long loan, with the Edinburgh club holding an option to make the move permanent.",
+   "category": "Transfers & Rumours",
    "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-08-23T16:46:53.000Z",
-   "fetched_at": "2026-08-23T16:53:05.860Z",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-23T17:19:53.000Z",
+   "fetched_at": "2026-08-23T17:20:52.093Z",
    "body": [
-    "Our briefing: Both clubs have undergone managerial changes over the summer and kick off their top-flight campaigns at St James’ Park",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
+    "Our briefing: Manchester United teenager Jacob Devaney is joining Hibernian on a season-long loan, with the Edinburgh club holding an option to make the move permanent.",
+    "Manchester United teenager Jacob Devaney is joining Hibernian on a season-long loan, with the Edinburgh club holding an option to make the move permanent.",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Liverpool_anfield_road_stadium.jpg/960px-Liverpool_anfield_road_stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "YHC — CC BY-SA 4.0"
   },
   {
    "id": "guardian-newcastle-united-v-liverpool-premier-league-live",
@@ -48,8 +49,8 @@
    "league": "Premier League",
    "source": "guardian",
    "sourceName": "The Guardian",
-   "published": "2026-08-23T16:44:20.000Z",
-   "fetched_at": "2026-08-23T16:53:05.795Z",
+   "published": "2026-08-23T17:16:45.000Z",
+   "fetched_at": "2026-08-23T17:20:52.316Z",
    "body": [
     "Our briefing: ⚽ Premier League updates from the 4.30pm (BST) kick-off ⚽ Live scores | Get the Football Daily email | Drop us a line Delving into the Liverpool XI , there are two…",
     "⚽ Premier League updates from the 4. 30pm (BST) kick-off ⚽ Live scores | Get the Football Daily email | Drop us a line Delving into the Liverpool XI , there are two eye-catching selections. Firstly, Rio Ngumoha: the 17-year-old looks like he is lining up on the right wing, with Cody Gakpo on the left.",
@@ -63,6 +64,131 @@
    "imageCredit": "Rodhullandemu — CC BY-SA 4.0"
   },
   {
+   "id": "independent-unai-emery-says-it-up-ollie-watkins-explain-his-",
+   "slug": "unai-emery-says-it-is-up-to-ollie-watkins-to-explain-his-abs--his-",
+   "title": "Unai Emery says it is up to Ollie Watkins to explain his absence from Aston Villa side",
+   "dek": "‘I can’t answer,’ Emery said when asked about Watkins’ omission from the team against Brighton",
+   "description": "‘I can’t answer,’ Emery said when asked about Watkins’ omission from the team against Brighton",
+   "category": "Tactics & Analysis",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-08-23T17:07:25.000Z",
+   "fetched_at": "2026-08-23T17:20:52.600Z",
+   "body": [
+    "Our briefing: ‘I can’t answer,’ Emery said when asked about Watkins’ omission from the team against Brighton",
+    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/20140211_Cardiff_City_v_Aston_Villa%2C_Cardiff_City_Stadium%2C_Cardiff%2C_Wales.jpg/960px-20140211_Cardiff_City_v_Aston_Villa%2C_Cardiff_City_Stadium%2C_Cardiff%2C_Wales.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Jon Candy — CC BY-SA 2.0"
+  },
+  {
+   "id": "guardian-call-his-agent-emery-feels-watkins-should-explai",
+   "slug": "call-his-agent-emery-feels-watkins-should-explain-absence-fr-xplai",
+   "title": "‘Call his agent’: Emery feels Watkins should explain absence from Villa’s rout by Brighton",
+   "dek": "England forward is considering move to Al-Hilal ‘This question is for him … I answer only with silence’ Unai Emery did nothing to deny that Ollie Watkins had refused to…",
+   "description": "England forward is considering move to Al-Hilal ‘This question is for him … I answer only with silence’ Unai Emery did nothing to deny that Ollie Watkins had refused to play for Aston Villa in their sobering 4-0 defeat by Brighton at the Amex on Sunday. The head coach had a selection crisis up front with Brian Madjo and Tammy Abraham injured. However, he did not include Watkins in the matchday squad as the England striker considers a move to Al-Hilal in Saudi Arabia. Emery was forced to rely on the attacking midfielder, Emiliano Buendía, as an emergency No 9 and his team disappeared without trace on the south coast. They were 4-0 down after 31 minutes and had their new signing, João Gomes, sent off on his debut in the 40th minute. Gomes kicked up and out at the Brighton striker Georginio Rutter after being dispossessed by him. Continue reading...",
+   "category": "Transfers & Rumours",
+   "league": "Premier League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-08-23T17:04:17.000Z",
+   "fetched_at": "2026-08-23T17:20:52.316Z",
+   "body": [
+    "Our briefing: England forward is considering move to Al-Hilal ‘This question is for him … I answer only with silence’ Unai Emery did nothing to deny that Ollie Watkins had refused to…",
+    "England forward is considering move to Al-Hilal ‘This question is for him … I answer only with silence’ Unai Emery did nothing to deny that Ollie Watkins had refused to play for Aston Villa in their sobering 4-0 defeat by Brighton at the Amex on Sunday. The head coach had a selection crisis up front with Brian Madjo and Tammy Abraham injured. However, he did not include Watkins in the matchday squad as the England striker considers a move to Al-Hilal in Saudi Arabia.",
+    "Emery was forced to rely on the attacking midfielder, Emiliano Buendía, as an emergency No 9 and his team disappeared without trace on the south coast. They were 4-0 down after 31 minutes and had their new signing, João Gomes, sent off on his debut in the 40th minute. Gomes kicked up and out at the Brighton striker Georginio Rutter after being dispossessed by him.",
+    "Continue reading...",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/View_of_the_Brighton_and_Hove_Albion_FC_Amex_Stadium_from_The_Drove_-_geograph.org.uk_-_2717285.jpg/960px-View_of_the_Brighton_and_Hove_Albion_FC_Amex_Stadium_from_The_Drove_-_geograph.org.uk_-_2717285.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Robert Lamb — CC BY-SA 2.0"
+  },
+  {
+   "id": "independent-worst-start-premier-league-history-aston-villa-c",
+   "slug": "worst-start-in-premier-league-history-aston-villa-collapse-a-lla-c",
+   "title": "Worst start in Premier League history? Aston Villa collapse against Brighton after summer of upheaval",
+   "dek": "Brighton 4-0 Aston Villa: There were empty seats in the Villa end after they went into half-time down to 10 men as Unai Emery’s side started the season in calamitous…",
+   "description": "Brighton 4-0 Aston Villa: There were empty seats in the Villa end after they went into half-time down to 10 men as Unai Emery’s side started the season in calamitous fashion",
+   "category": "News",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-08-23T17:02:40.000Z",
+   "fetched_at": "2026-08-23T17:20:52.600Z",
+   "body": [
+    "Our briefing: Brighton 4-0 Aston Villa: There were empty seats in the Villa end after they went into half-time down to 10 men as Unai Emery’s side started the season in calamitous…",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/20140211_Cardiff_City_v_Aston_Villa%2C_Cardiff_City_Stadium%2C_Cardiff%2C_Wales_%282%29.jpg/960px-20140211_Cardiff_City_v_Aston_Villa%2C_Cardiff_City_Stadium%2C_Cardiff%2C_Wales_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Jon Candy — CC BY-SA 2.0"
+  },
+  {
+   "id": "bbc-watkins-absence-brighton-question-him-emery",
+   "slug": "watkins-absence-at-brighton-a-question-for-him-emery-emery",
+   "title": "Watkins' absence at Brighton a question for him - Emery",
+   "dek": "Ollie Watkins' absence in Aston Villa's thrashing at Brighton is a question for the striker, says boss Unai Emery.",
+   "description": "Ollie Watkins' absence in Aston Villa's thrashing at Brighton is a question for the striker, says boss Unai Emery.",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-23T16:57:02.000Z",
+   "fetched_at": "2026-08-23T17:20:52.091Z",
+   "body": [
+    "Our briefing: Ollie Watkins' absence in Aston Villa's thrashing at Brighton is a question for the striker, says boss Unai Emery.",
+    "Ollie Watkins' absence in Aston Villa's thrashing at Brighton is a question for the striker, says boss Unai Emery.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Fulham_vs_Brighton_%26_Hove_Albion_24012026_%283%29.jpg/960px-Fulham_vs_Brighton_%26_Hove_Albion_24012026_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
+   "id": "independent-newcastle-vs-liverpool-live-substitute-willock-r",
+   "slug": "newcastle-vs-liverpool-live-substitute-willock-restores-lead-ock-r",
+   "title": "Newcastle vs Liverpool LIVE: Substitute Willock restores lead minutes after Gakpo equaliser",
+   "dek": "Both clubs have undergone managerial changes over the summer and kick off their top-flight campaigns at St James’ Park",
+   "description": "Both clubs have undergone managerial changes over the summer and kick off their top-flight campaigns at St James’ Park",
+   "category": "News",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-08-23T16:54:18.000Z",
+   "fetched_at": "2026-08-23T17:20:52.600Z",
+   "body": [
+    "Our briefing: Both clubs have undergone managerial changes over the summer and kick off their top-flight campaigns at St James’ Park",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Liverpool_anfield_road_stadium.jpg/960px-Liverpool_anfield_road_stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
+  },
+  {
+   "id": "bbc-podcast-dundee-derby-reaction-scotland-serie",
+   "slug": "podcast-dundee-derby-reaction-scotland-serie-a-serie",
+   "title": "Podcast: Dundee derby reaction, Scotland & Serie A",
+   "dek": "The Dundee derby, the Scotland manager, Scots playing in Italy, and Edinburgh Fringe.",
+   "description": "The Dundee derby, the Scotland manager, Scots playing in Italy, and Edinburgh Fringe.",
+   "category": "News",
+   "league": "Serie A",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-23T16:27:00.000Z",
+   "fetched_at": "2026-08-23T17:20:52.093Z",
+   "body": [
+    "Our briefing: The Dundee derby, the Scotland manager, Scots playing in Italy, and Edinburgh Fringe.",
+    "The Dundee derby, the Scotland manager, Scots playing in Italy, and Edinburgh Fringe.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "John Shorten — CC BY 4.0"
+  },
+  {
    "id": "bbc-up-front-next-week-guehi-proves-maresca-s-midfie",
    "slug": "up-front-next-week-guehi-proves-maresca-s-midfield-masterstr-idfie",
    "title": "'Up front next week?' Guehi proves Maresca's midfield masterstroke",
@@ -73,15 +199,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-23T16:26:44.000Z",
-   "fetched_at": "2026-08-23T16:53:05.731Z",
+   "fetched_at": "2026-08-23T17:20:52.091Z",
    "body": [
     "Our briefing: Rather than playing safe in selecting his Manchester City side for the first time in the Premier League, Enzo Maresca made a bold choice in midfield. Ultimately, it paid…",
     "Rather than playing safe in selecting his Manchester City side for the first time in the Premier League, Enzo Maresca made a bold choice in midfield. Ultimately, it paid off.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "John Shorten — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
   },
   {
    "id": "independent-dramatic-comeback-earns-enzo-maresca-first-premi",
@@ -94,7 +220,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-23T16:23:40.000Z",
-   "fetched_at": "2026-08-23T16:53:05.860Z",
+   "fetched_at": "2026-08-23T17:20:52.600Z",
    "body": [
     "Our briefing: Manchester City 2-1 Bournemouth: Marc Guehi and Josko Gvardiol netted after Marcus Tavernier had given the visitors the lead",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -114,7 +240,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-23T16:20:57.000Z",
-   "fetched_at": "2026-08-23T16:53:05.731Z",
+   "fetched_at": "2026-08-23T17:20:52.091Z",
    "body": [
     "Our briefing: Aston Villa manager Unai Emery reacts to a difficult opening day after a thrashing at the hands of Brighton, having conceding four goals in the first half.",
     "Aston Villa manager Unai Emery reacts to a difficult opening day after a thrashing at the hands of Brighton, having conceding four goals in the first half.",
@@ -155,7 +281,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-23T16:11:33.000Z",
-   "fetched_at": "2026-08-23T16:53:05.860Z",
+   "fetched_at": "2026-08-23T17:20:52.600Z",
    "body": [
     "Our briefing: Newcastle fans directed X-rated chants at their former striker who made his first comeback to St James’ Park since his messy exit to Liverpool last summer",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -175,7 +301,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-23T16:00:40.000Z",
-   "fetched_at": "2026-08-23T16:53:05.860Z",
+   "fetched_at": "2026-08-23T17:20:52.600Z",
    "body": [
     "Our briefing: Alvarez would welcome a move to Arsenal this summer if he is now allowed to join Barcelona while Liverpool continue to be frustrated in their search for a new winger",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -195,7 +321,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-23T15:54:17.000Z",
-   "fetched_at": "2026-08-23T16:53:05.860Z",
+   "fetched_at": "2026-08-23T17:20:52.600Z",
    "body": [
     "Our briefing: Bouaddi, who excelled in this summer’s World Cup, becomes the third most expensive player in City’s history",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -215,7 +341,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-23T15:53:38.000Z",
-   "fetched_at": "2026-08-23T16:53:05.730Z",
+   "fetched_at": "2026-08-23T17:20:52.091Z",
    "body": [
     "Our briefing: Both Newcastle and Liverpool pay tribute to their legendary player on the opening weekend of the Premier League season.",
     "Both Newcastle and Liverpool pay tribute to their legendary player on the opening weekend of the Premier League season.",
@@ -236,7 +362,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-23T15:52:45.000Z",
-   "fetched_at": "2026-08-23T16:53:05.731Z",
+   "fetched_at": "2026-08-23T17:20:52.091Z",
    "body": [
     "Our briefing: Enzo Maresca marks his first Premier League game as Manchester City manager with a dramatic late comeback against Bournemouth, making a winning start to the 2026–27…",
     "Enzo Maresca marks his first Premier League game as Manchester City manager with a dramatic late comeback against Bournemouth, making a winning start to the 2026–27 season.",
@@ -257,7 +383,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-23T15:42:41.000Z",
-   "fetched_at": "2026-08-23T16:53:05.860Z",
+   "fetched_at": "2026-08-23T17:20:52.600Z",
    "body": [
     "Our briefing: Fans collaborated to display a stunning ‘Keegan 7’ mural before kick-off in their Premier League curtain-raiser",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -297,31 +423,31 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-23T15:35:33.000Z",
-   "fetched_at": "2026-08-23T16:53:05.731Z",
+   "fetched_at": "2026-08-23T17:20:52.091Z",
    "body": [
     "Our briefing: Over the past decade, Sevilla's number nine jersey has been adorned by internationals from Spain, France, Argentina, Mexico and the Netherlands. Now, it is an uncapped…",
     "Over the past decade, Sevilla's number nine jersey has been adorned by internationals from Spain, France, Argentina, Mexico and the Netherlands. Now, it is an uncapped Scotsman.",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Partido_M%C3%A1laga_-_Sevilla_23-5-2015_%2817468629643%29.jpg/960px-Partido_M%C3%A1laga_-_Sevilla_23-5-2015_%2817468629643%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Samuel Cuenca — CC BY-SA 2.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Eibar_vs_Sevilla_2016-17.jpg/960px-Eibar_vs_Sevilla_2016-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Gartxoak — CC BY-SA 4.0"
   },
   {
    "id": "guardian-gu-hi-gvardiol-late-show-earns-manchester-city-d",
    "slug": "gu-hi-and-gvardiol-late-show-earns-manchester-city-dramatic--ity-d",
    "title": "Guéhi and Gvardiol late show earns Manchester City dramatic win against Bournemouth",
    "dek": "“WELCOME BACK ENZO” read the tifo beforehand and by the breathless close this was a joyous return for Manchester City’s new manager, Enzo Maresca, as a damaging defeat…",
-   "description": "“WELCOME BACK ENZO” read the tifo beforehand and by the breathless close this was a joyous return for Manchester City’s new manager, Enzo Maresca, as a damaging defeat became a memorable win due to Marc Guéhi’s 84th-minute equaliser and Josko Gvardiol’s added-time winner. Until then, Marco Rose had been closing in on leading Bournemouth to a first ever away victory at City. But two lapses in defence and suddenly City were the ruthless proposition they were not before. Continue reading...",
+   "description": "“WELCOME BACK ENZO” read the tifo beforehand and by the breathless close this was a joyous return for Manchester City’s new manager, Enzo Maresca, as a damaging defeat became a memorable win due to Marc Guéhi’s 84th-minute equaliser and Josko Gvardiol’s added-time winner. Until then, Marco Rose had been closing in on leading Bournemouth to a first away victory at City. But two lapses in defence and suddenly City were the ruthless proposition they were not before. Continue reading...",
    "category": "Match Reports",
    "league": "Premier League",
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-23T15:14:19.000Z",
-   "fetched_at": "2026-08-23T16:53:05.795Z",
+   "fetched_at": "2026-08-23T17:20:52.316Z",
    "body": [
     "Our briefing: “WELCOME BACK ENZO” read the tifo beforehand and by the breathless close this was a joyous return for Manchester City’s new manager, Enzo Maresca, as a damaging defeat…",
-    "“WELCOME BACK ENZO” read the tifo beforehand and by the breathless close this was a joyous return for Manchester City’s new manager, Enzo Maresca, as a damaging defeat became a memorable win due to Marc Guéhi’s 84th-minute equaliser and Josko Gvardiol’s added-time winner. Until then, Marco Rose had been closing in on leading Bournemouth to a first ever away victory at City. But two lapses in defence and suddenly City were the ruthless proposition they were not before.",
+    "“WELCOME BACK ENZO” read the tifo beforehand and by the breathless close this was a joyous return for Manchester City’s new manager, Enzo Maresca, as a damaging defeat became a memorable win due to Marc Guéhi’s 84th-minute equaliser and Josko Gvardiol’s added-time winner. Until then, Marco Rose had been closing in on leading Bournemouth to a first away victory at City. But two lapses in defence and suddenly City were the ruthless proposition they were not before.",
     "Continue reading...",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
@@ -351,26 +477,6 @@
    "imageCredit": "Egghead06 — CC BY-SA 4.0"
   },
   {
-   "id": "independent-worst-start-premier-league-history-aston-villa-c",
-   "slug": "worst-start-in-premier-league-history-aston-villa-collapse-a-lla-c",
-   "title": "Worst start in Premier League history? Aston Villa collapse against Brighton after summer of upheaval",
-   "dek": "Brighton 4-0 Aston Villa: There were empty seats in the Villa end after they went into half time down to 10 men as Unai Emery’s side started the season in calamitous…",
-   "description": "Brighton 4-0 Aston Villa: There were empty seats in the Villa end after they went into half time down to 10 men as Unai Emery’s side started the season in calamitous fashion",
-   "category": "News",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-08-23T15:10:19.000Z",
-   "fetched_at": "2026-08-23T16:53:05.860Z",
-   "body": [
-    "Our briefing: Brighton 4-0 Aston Villa: There were empty seats in the Villa end after they went into half time down to 10 men as Unai Emery’s side started the season in calamitous…",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/20140211_Cardiff_City_v_Aston_Villa%2C_Cardiff_City_Stadium%2C_Cardiff%2C_Wales.jpg/960px-20140211_Cardiff_City_v_Aston_Villa%2C_Cardiff_City_Stadium%2C_Cardiff%2C_Wales.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Jon Candy — CC BY-SA 2.0"
-  },
-  {
    "id": "guardian-hull-punished-united-defence-victory-but-carrick",
    "slug": "hull-punished-united-defence-in-victory-but-carrick-s-attack-rrick",
    "title": "Hull punished United defence in victory but Carrick’s attack is bigger area of concern | Andrew Beasley",
@@ -381,7 +487,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-23T15:07:39.000Z",
-   "fetched_at": "2026-08-23T16:53:05.795Z",
+   "fetched_at": "2026-08-23T17:20:52.316Z",
    "body": [
     "Our briefing: Manchester United again struggled against a back five as the promoted hosts exploited a set-piece weakness Hull scored nine league goals from set plays last season, the…",
     "Manchester United again struggled against a back five as the promoted hosts exploited a set-piece weakness Hull scored nine league goals from set plays last season, the joint-fewest in the Championship. Yet two in 21 minutes earned them a famous victory over Manchester United on Saturday. It was a disastrous start to the campaign for the visitors.",
@@ -424,7 +530,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-23T15:05:14.000Z",
-   "fetched_at": "2026-08-23T16:53:05.731Z",
+   "fetched_at": "2026-08-23T17:20:52.091Z",
    "body": [
     "Our briefing: How Man City and Bournemouth players rated following their Premier League match.",
     "How Man City and Bournemouth players rated following their Premier League match.",
@@ -454,27 +560,6 @@
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Manchester_City_dressing_room_2022.jpg/960px-Manchester_City_dressing_room_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Christian David — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-manchester-utd-midfielder-devaney-joins-hibs-loa",
-   "slug": "manchester-utd-midfielder-devaney-joins-hibs-on-loan-s-loa",
-   "title": "Manchester Utd midfielder Devaney joins Hibs on loan",
-   "dek": "Manchester United teenager Jacob Devaney is joining Hibernian on a season-long loan, with the Edinburgh club holding an option to make the move permanent.",
-   "description": "Manchester United teenager Jacob Devaney is joining Hibernian on a season-long loan, with the Edinburgh club holding an option to make the move permanent.",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-23T15:01:52.000Z",
-   "fetched_at": "2026-08-23T16:53:05.733Z",
-   "body": [
-    "Our briefing: Manchester United teenager Jacob Devaney is joining Hibernian on a season-long loan, with the Edinburgh club holding an option to make the move permanent.",
-    "Manchester United teenager Jacob Devaney is joining Hibernian on a season-long loan, with the Edinburgh club holding an option to make the move permanent.",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
   },
   {
    "id": "bbc-man-city-strike-twice-late-beat-bournemouth",
@@ -591,15 +676,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-23T14:16:55.000Z",
-   "fetched_at": "2026-08-23T16:53:05.731Z",
+   "fetched_at": "2026-08-23T17:20:52.091Z",
    "body": [
     "Our briefing: Harry Kane has been voted 2026 German footballer of the year, becoming the first Englishman to win the award.",
     "Harry Kane has been voted 2026 German footballer of the year, becoming the first Englishman to win the award.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "guardian-european-football-bayern-munich-s-harry-kane-nam",
@@ -612,7 +697,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-23T14:12:28.000Z",
-   "fetched_at": "2026-08-23T16:53:05.795Z",
+   "fetched_at": "2026-08-23T17:20:52.316Z",
    "body": [
     "Our briefing: Striker becomes first Englishman to win the award Teammate Michael Olise finishes second Bayern Munich striker Harry Kane was voted the 2026 player of the year in Germany…",
     "Striker becomes first Englishman to win the award Teammate Michael Olise finishes second Bayern Munich striker Harry Kane was voted the 2026 player of the year in Germany by an association of sports journalists on Sunday, finishing ahead of teammate Michael Olise. Kicker magazine revealed the results of its yearly polls of members of the Association of German Sports Journalists. Kane, the England captain, won the award after a stellar season in which he won the Bundesliga and German Cup while Bayern also reached the Champions League semi-finals.",
@@ -655,7 +740,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-23T13:24:14.000Z",
-   "fetched_at": "2026-08-23T16:53:05.795Z",
+   "fetched_at": "2026-08-23T17:20:52.316Z",
    "body": [
     "Our briefing: West Brom’s head coach, James Morrison, insisted his side must “stay humble” after Isaac Price inspired them to a 3-1 comeback win against promotion favourites Burnley in…",
     "West Brom’s head coach, James Morrison, insisted his side must “stay humble” after Isaac Price inspired them to a 3-1 comeback win against promotion favourites Burnley in the Championship at the Hawthorns. The Northern Ireland international scored twice in the second half after setting up Harry Whitwell’s equaliser to cancel out Callum Styles’s early own goal. “I felt it was a top performance.",
@@ -663,8 +748,8 @@
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "YHC — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
   },
   {
    "id": "independent-man-city-vs-bournemouth-live-haaland-wastes-grea",
@@ -697,14 +782,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-23T13:18:49.000Z",
-   "fetched_at": "2026-08-23T16:53:05.860Z",
+   "fetched_at": "2026-08-23T17:20:52.600Z",
    "body": [
     "Our briefing: Watkins is being heavily linked with a move to Saudi Arabia while Martinez, who misses out due to a lack of match fitness, could also leave",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Group_photo_of_Aston_Villa_F.C.%2C_1895%E2%80%9396_Football_League_champions.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": null
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aston_Villa_team_vs_FH_August_2008.jpg/960px-Aston_Villa_team_vs_FH_August_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Dagur Brynjólfsson from Hafnarfjordur, Iceland — CC BY-SA 2.0"
   },
   {
    "id": "independent-erling-haaland-stuns-man-city-team-mates-new-loo",
@@ -717,7 +802,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-23T13:09:17.000Z",
-   "fetched_at": "2026-08-23T16:53:05.860Z",
+   "fetched_at": "2026-08-23T17:20:52.600Z",
    "body": [
     "Our briefing: ‘Time to let it go’ Haaland said as he chopped off his iconic flowing blond hair before the start of the new Premier League season",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -758,7 +843,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-23T12:54:14.000Z",
-   "fetched_at": "2026-08-23T16:53:05.860Z",
+   "fetched_at": "2026-08-23T17:20:52.600Z",
    "body": [
     "Our briefing: Alexander-Arnold has now spent a year on the wrong side of Liverpool fans after ending a 20-year spell at his boyhood club to join Real Madrid",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -766,89 +851,6 @@
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/The_Liverpool_Football_Club_Stadium%2C_Anfield_Road_-_geograph.org.uk_-_5541901.jpg/960px-The_Liverpool_Football_Club_Stadium%2C_Anfield_Road_-_geograph.org.uk_-_5541901.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Humphrey Bolton — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-maths-whizz-turned-86m-teenage-star-heading-man-",
-   "slug": "the-maths-whizz-turned-86m-teenage-star-heading-to-man-city--man-",
-   "title": "The maths whizz turned £86m teenage star heading to Man City",
-   "dek": "Manchester City have agreed a deal in principle with Lille to sign midfielder Ayyoub Bouaddi - what makes him such a highly rated talent?",
-   "description": "Manchester City have agreed a deal in principle with Lille to sign midfielder Ayyoub Bouaddi - what makes him such a highly rated talent?",
-   "category": "News",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-23T12:44:36.000Z",
-   "fetched_at": "2026-08-23T16:53:05.731Z",
-   "body": [
-    "Our briefing: Manchester City have agreed a deal in principle with Lille to sign midfielder Ayyoub Bouaddi - what makes him such a highly rated talent?",
-    "Manchester City have agreed a deal in principle with Lille to sign midfielder Ayyoub Bouaddi - what makes him such a highly rated talent?",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Waiting_for_Manchester_City_football_club_open-top_bus%2C_Oxford_Road%2C_Manchester_02.jpg/960px-Waiting_for_Manchester_City_football_club_open-top_bus%2C_Oxford_Road%2C_Manchester_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "bbc-man-city-agree-86m-deal-teen-midfielder-bouaddi",
-   "slug": "man-city-agree-86m-deal-for-teen-midfielder-bouaddi-uaddi",
-   "title": "Man City agree £86m deal for teen midfielder Bouaddi",
-   "dek": "Manchester City agree a deal in principle for 18-year-old Lille midfielder Ayyoub Bouaddi worth 100m euros (£86m).",
-   "description": "Manchester City agree a deal in principle for 18-year-old Lille midfielder Ayyoub Bouaddi worth 100m euros (£86m).",
-   "category": "News",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-23T12:41:05.000Z",
-   "fetched_at": "2026-08-23T16:53:05.732Z",
-   "body": [
-    "Our briefing: Manchester City agree a deal in principle for 18-year-old Lille midfielder Ayyoub Bouaddi worth 100m euros (£86m).",
-    "Manchester City agree a deal in principle for 18-year-old Lille midfielder Ayyoub Bouaddi worth 100m euros (£86m).",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Waiting_for_Manchester_City_football_club_open-top_bus%2C_Oxford_Road%2C_Manchester_01.jpg/960px-Waiting_for_Manchester_City_football_club_open-top_bus%2C_Oxford_Road%2C_Manchester_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "independent-man-city-vs-bournemouth-live-enzo-maresca-takes-",
-   "slug": "man-city-vs-bournemouth-live-enzo-maresca-takes-charge-of-fi-akes-",
-   "title": "Man City vs Bournemouth LIVE: Enzo Maresca takes charge of first Premier League game as campaign begins",
-   "dek": "The first Super Sunday game of the season sees Enzo Maresca and Marco Rose begin new eras at Manchester City and Bournemouth",
-   "description": "The first Super Sunday game of the season sees Enzo Maresca and Marco Rose begin new eras at Manchester City and Bournemouth",
-   "category": "News",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-08-23T12:38:49.000Z",
-   "fetched_at": "2026-08-23T12:40:31.435Z",
-   "body": [
-    "Our briefing: The first Super Sunday game of the season sees Enzo Maresca and Marco Rose begin new eras at Manchester City and Bournemouth",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Manchester_City_dressing_room_2022.jpg/960px-Manchester_City_dressing_room_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Christian David — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-new-season-new-trim-haaland-reveals-buzzcut",
-   "slug": "new-season-new-trim-haaland-reveals-buzzcut-zzcut",
-   "title": "'New season, new trim' - Haaland reveals buzzcut",
-   "dek": "Manchester City striker Erling Haaland reveals his new buzz cut on social media.",
-   "description": "Manchester City striker Erling Haaland reveals his new buzz cut on social media.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-23T12:36:54.000Z",
-   "fetched_at": "2026-08-23T16:53:05.731Z",
-   "body": [
-    "Our briefing: Manchester City striker Erling Haaland reveals his new buzz cut on social media.",
-    "Manchester City striker Erling Haaland reveals his new buzz cut on social media.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   }
  ]
 }

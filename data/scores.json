@@ -1,45 +1,6 @@
 {
- "generated_at": "2026-08-23T16:53:12.794Z",
+ "generated_at": "2026-08-23T17:21:02.680Z",
  "matches": [
-  {
-   "league": "La Liga",
-   "home": "Atlético Madrid",
-   "away": "Villarreal",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
-   "homeScore": 2,
-   "awayScore": 2,
-   "status": "live",
-   "clock": "88'",
-   "time": "88'",
-   "date": "2026-08-23T15:00Z"
-  },
-  {
-   "league": "La Liga",
-   "home": "Getafe",
-   "away": "Racing Santander",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Sun, August 23rd at 1:30 PM EDT",
-   "date": "2026-08-23T17:30Z"
-  },
-  {
-   "league": "La Liga",
-   "home": "Elche",
-   "away": "Barcelona",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Sun, August 23rd at 3:30 PM EDT",
-   "date": "2026-08-23T19:30Z"
-  },
   {
    "league": "Premier League",
    "home": "Brighton & Hove Albion",
@@ -75,22 +36,48 @@
    "homeScore": 2,
    "awayScore": 1,
    "status": "live",
-   "clock": "64'",
-   "time": "64'",
+   "clock": "90'+2'",
+   "time": "90'+2'",
    "date": "2026-08-23T15:30Z"
   },
   {
-   "league": "Bundesliga",
-   "home": "Bayern Munich",
-   "away": "VfB Stuttgart",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+   "league": "La Liga",
+   "home": "Atlético Madrid",
+   "away": "Villarreal",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+   "homeScore": 2,
+   "awayScore": 2,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-08-23T15:00Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Getafe",
+   "away": "Racing Santander",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png",
    "homeScore": 0,
    "awayScore": 0,
    "status": "pre",
    "clock": "",
-   "time": "Fri, August 28th at 2:30 PM EDT",
-   "date": "2026-08-28T18:30Z"
+   "time": "Sun, August 23rd at 1:30 PM EDT",
+   "date": "2026-08-23T17:30Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Elche",
+   "away": "Barcelona",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Sun, August 23rd at 3:30 PM EDT",
+   "date": "2026-08-23T19:30Z"
   },
   {
    "league": "Serie A",
@@ -99,10 +86,10 @@
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
    "homeScore": 0,
-   "awayScore": 0,
+   "awayScore": 1,
    "status": "live",
-   "clock": "20'",
-   "time": "20'",
+   "clock": "45'+3'",
+   "time": "45'+3'",
    "date": "2026-08-23T16:30Z"
   },
   {
@@ -114,8 +101,8 @@
    "homeScore": 0,
    "awayScore": 0,
    "status": "live",
-   "clock": "20'",
-   "time": "20'",
+   "clock": "45'+3'",
+   "time": "45'+3'",
    "date": "2026-08-23T16:30Z"
   },
   {
@@ -165,9 +152,9 @@
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
    "homeScore": 0,
    "awayScore": 1,
-   "status": "live",
-   "clock": "77'",
-   "time": "77'",
+   "status": "final",
+   "clock": "",
+   "time": "FT",
    "date": "2026-08-23T15:15Z"
   },
   {
@@ -182,6 +169,19 @@
    "clock": "",
    "time": "Sun, August 23rd at 2:45 PM EDT",
    "date": "2026-08-23T18:45Z"
+  },
+  {
+   "league": "Bundesliga",
+   "home": "Bayern Munich",
+   "away": "VfB Stuttgart",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, August 28th at 2:30 PM EDT",
+   "date": "2026-08-28T18:30Z"
   }
  ]
 }
