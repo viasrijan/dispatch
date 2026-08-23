@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-23T17:21:02.680Z",
+ "generated_at": "2026-08-23T17:46:19.095Z",
  "matches": [
+  {
+   "league": "Bundesliga",
+   "home": "Bayern Munich",
+   "away": "VfB Stuttgart",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, August 28th at 2:30 PM EDT",
+   "date": "2026-08-28T18:30Z"
+  },
   {
    "league": "Premier League",
    "home": "Brighton & Hove Albion",
@@ -34,10 +47,10 @@
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
    "homeScore": 2,
-   "awayScore": 1,
-   "status": "live",
-   "clock": "90'+2'",
-   "time": "90'+2'",
+   "awayScore": 2,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
    "date": "2026-08-23T15:30Z"
   },
   {
@@ -61,9 +74,9 @@
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png",
    "homeScore": 0,
    "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Sun, August 23rd at 1:30 PM EDT",
+   "status": "live",
+   "clock": "13'",
+   "time": "13'",
    "date": "2026-08-23T17:30Z"
   },
   {
@@ -88,8 +101,8 @@
    "homeScore": 0,
    "awayScore": 1,
    "status": "live",
-   "clock": "45'+3'",
-   "time": "45'+3'",
+   "clock": "53'",
+   "time": "53'",
    "date": "2026-08-23T16:30Z"
   },
   {
@@ -99,10 +112,10 @@
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png",
    "homeScore": 0,
-   "awayScore": 0,
+   "awayScore": 1,
    "status": "live",
-   "clock": "45'+3'",
-   "time": "45'+3'",
+   "clock": "53'",
+   "time": "53'",
    "date": "2026-08-23T16:30Z"
   },
   {
@@ -169,19 +182,6 @@
    "clock": "",
    "time": "Sun, August 23rd at 2:45 PM EDT",
    "date": "2026-08-23T18:45Z"
-  },
-  {
-   "league": "Bundesliga",
-   "home": "Bayern Munich",
-   "away": "VfB Stuttgart",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, August 28th at 2:30 PM EDT",
-   "date": "2026-08-28T18:30Z"
   }
  ]
 }
