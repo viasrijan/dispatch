@@ -1,45 +1,6 @@
 {
- "generated_at": "2026-08-23T02:45:19.423Z",
+ "generated_at": "2026-08-23T03:51:12.306Z",
  "matches": [
-  {
-   "league": "La Liga",
-   "home": "Athletic Club",
-   "away": "Sevilla",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
-   "homeScore": 1,
-   "awayScore": 3,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-08-22T15:00Z"
-  },
-  {
-   "league": "La Liga",
-   "home": "Valencia",
-   "away": "Celta Vigo",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-08-22T17:30Z"
-  },
-  {
-   "league": "La Liga",
-   "home": "Espanyol",
-   "away": "Real Madrid",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-   "homeScore": 1,
-   "awayScore": 2,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-08-22T19:30Z"
-  },
   {
    "league": "Premier League",
    "home": "Hull City",
@@ -104,6 +65,45 @@
    "clock": "",
    "time": "FT",
    "date": "2026-08-22T16:30Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Athletic Club",
+   "away": "Sevilla",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
+   "homeScore": 1,
+   "awayScore": 3,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-08-22T15:00Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Valencia",
+   "away": "Celta Vigo",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-08-22T17:30Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Espanyol",
+   "away": "Real Madrid",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+   "homeScore": 1,
+   "awayScore": 2,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-08-22T19:30Z"
   },
   {
    "league": "Bundesliga",
