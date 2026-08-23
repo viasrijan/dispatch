@@ -1,6 +1,45 @@
 {
- "generated_at": "2026-08-23T16:26:38.708Z",
+ "generated_at": "2026-08-23T16:53:12.794Z",
  "matches": [
+  {
+   "league": "La Liga",
+   "home": "Atlético Madrid",
+   "away": "Villarreal",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+   "homeScore": 2,
+   "awayScore": 2,
+   "status": "live",
+   "clock": "88'",
+   "time": "88'",
+   "date": "2026-08-23T15:00Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Getafe",
+   "away": "Racing Santander",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Sun, August 23rd at 1:30 PM EDT",
+   "date": "2026-08-23T17:30Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Elche",
+   "away": "Barcelona",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Sun, August 23rd at 3:30 PM EDT",
+   "date": "2026-08-23T19:30Z"
+  },
   {
    "league": "Premier League",
    "home": "Brighton & Hove Albion",
@@ -33,11 +72,11 @@
    "away": "Liverpool",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-   "homeScore": 1,
-   "awayScore": 0,
+   "homeScore": 2,
+   "awayScore": 1,
    "status": "live",
-   "clock": "45'+2'",
-   "time": "HT",
+   "clock": "64'",
+   "time": "64'",
    "date": "2026-08-23T15:30Z"
   },
   {
@@ -61,9 +100,9 @@
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
    "homeScore": 0,
    "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Sun, August 23rd at 12:30 PM EDT",
+   "status": "live",
+   "clock": "20'",
+   "time": "20'",
    "date": "2026-08-23T16:30Z"
   },
   {
@@ -74,9 +113,9 @@
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png",
    "homeScore": 0,
    "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Sun, August 23rd at 12:30 PM EDT",
+   "status": "live",
+   "clock": "20'",
+   "time": "20'",
    "date": "2026-08-23T16:30Z"
   },
   {
@@ -127,8 +166,8 @@
    "homeScore": 0,
    "awayScore": 1,
    "status": "live",
-   "clock": "51'",
-   "time": "51'",
+   "clock": "77'",
+   "time": "77'",
    "date": "2026-08-23T15:15Z"
   },
   {
@@ -143,45 +182,6 @@
    "clock": "",
    "time": "Sun, August 23rd at 2:45 PM EDT",
    "date": "2026-08-23T18:45Z"
-  },
-  {
-   "league": "La Liga",
-   "home": "Atlético Madrid",
-   "away": "Villarreal",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
-   "homeScore": 1,
-   "awayScore": 0,
-   "status": "live",
-   "clock": "61'",
-   "time": "61'",
-   "date": "2026-08-23T15:00Z"
-  },
-  {
-   "league": "La Liga",
-   "home": "Getafe",
-   "away": "Racing Santander",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Sun, August 23rd at 1:30 PM EDT",
-   "date": "2026-08-23T17:30Z"
-  },
-  {
-   "league": "La Liga",
-   "home": "Elche",
-   "away": "Barcelona",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Sun, August 23rd at 3:30 PM EDT",
-   "date": "2026-08-23T19:30Z"
   }
  ]
 }
