@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-24T08:01:42.143Z",
- "updated_utc": "2026-08-24T08:01Z",
- "cycle": 29792641,
+ "generated_at": "2026-08-24T09:23:31.052Z",
+ "updated_utc": "2026-08-24T09:23Z",
+ "cycle": 29792723,
  "sources_used": [
   {
    "id": "bbc",
@@ -19,6 +19,88 @@
  "hero_id": "bbc-what-does-your-premiership-club-need-final-11-da",
  "articles": [
   {
+   "id": "independent-liverpool-discover-yankuba-minteh-price-after-br",
+   "slug": "liverpool-discover-yankuba-minteh-price-after-brighton-rejec-er-br",
+   "title": "Liverpool discover Yankuba Minteh price after Brighton reject two bids for winger",
+   "dek": "The Reds have seen two bids, with the highest £60m, rejected for the Brighton winger as Andoni Iraola assembles his squad for a debut campaign after an opening weekend…",
+   "description": "The Reds have seen two bids, with the highest £60m, rejected for the Brighton winger as Andoni Iraola assembles his squad for a debut campaign after an opening weekend draw at Newcastle",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-08-24T09:06:00.000Z",
+   "fetched_at": "2026-08-24T09:23:24.467Z",
+   "body": [
+    "Our briefing: The Reds have seen two bids, with the highest £60m, rejected for the Brighton winger as Andoni Iraola assembles his squad for a debut campaign after an opening weekend…",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Galatasaray_Liverpool_CL_2006.jpg/960px-Galatasaray_Liverpool_CL_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "tekinim — CC BY 2.0"
+  },
+  {
+   "id": "bbc-premier-league-review-hull-glorious-spurs-dismal",
+   "slug": "premier-league-review-hull-glorious-spurs-dismal-ismal",
+   "title": "Premier League review: Hull glorious & Spurs dismal",
+   "dek": "Rick Edwards, Luke Edwards, Charlie Austin & Dean Holden discuss the opening weekend.",
+   "description": "Rick Edwards, Luke Edwards, Charlie Austin & Dean Holden discuss the opening weekend.",
+   "category": "News",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-24T08:59:00.000Z",
+   "fetched_at": "2026-08-24T09:23:24.188Z",
+   "body": [
+    "Our briefing: Rick Edwards, Luke Edwards, Charlie Austin & Dean Holden discuss the opening weekend.",
+    "Rick Edwards, Luke Edwards, Charlie Austin & Dean Holden discuss the opening weekend.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "John Shorten — CC BY 4.0"
+  },
+  {
+   "id": "independent-diego-maradona-s-hand-god-ball-sells-2-5m",
+   "slug": "diego-maradona-s-hand-of-god-ball-sells-for-2-5m--2-5m",
+   "title": "Diego Maradona’s ‘Hand of God’ ball sells for £2.5m",
+   "dek": "Maradona scored a controversial goal against England in the 1986 World Cup",
+   "description": "Maradona scored a controversial goal against England in the 1986 World Cup",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-08-24T08:14:59.000Z",
+   "fetched_at": "2026-08-24T09:23:24.467Z",
+   "body": [
+    "Our briefing: Maradona scored a controversial goal against England in the 1986 World Cup",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": null
+  },
+  {
+   "id": "bbc-mateta-s-contract-claim-leaves-palace-transfer-d",
+   "slug": "mateta-s-contract-claim-leaves-palace-with-transfer-decision-fer-d",
+   "title": "Mateta's contract claim leaves Palace with transfer decision",
+   "dek": "Following a dispute over the length of his contract, will Jean-Philippe Mateta stay at Crystal Palace beyond the transfer window?",
+   "description": "Following a dispute over the length of his contract, will Jean-Philippe Mateta stay at Crystal Palace beyond the transfer window?",
+   "category": "Transfers & Rumours",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-24T08:06:26.000Z",
+   "fetched_at": "2026-08-24T09:23:24.188Z",
+   "body": [
+    "Our briefing: Following a dispute over the length of his contract, will Jean-Philippe Mateta stay at Crystal Palace beyond the transfer window?",
+    "Following a dispute over the length of his contract, will Jean-Philippe Mateta stay at Crystal Palace beyond the transfer window?",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "YHC — CC BY-SA 4.0"
+  },
+  {
    "id": "independent-transfer-news-live-arsenal-learn-alvarez-price-m",
    "slug": "news-live-arsenal-learn-alvarez-price-man-utd-medical-barcol-ice-m",
    "title": "news LIVE: Arsenal learn Alvarez price, Man Utd medical, Barcola to Liverpool latest",
@@ -29,7 +111,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-24T07:46:09.000Z",
-   "fetched_at": "2026-08-24T08:01:35.459Z",
+   "fetched_at": "2026-08-24T09:23:24.467Z",
    "body": [
     "Our briefing: Alvarez was met with jeers by Atletico fans amid rumours over a move to Arsenal while Liverpool continue their pursuit of a new winger",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -49,15 +131,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-24T07:41:49.000Z",
-   "fetched_at": "2026-08-24T08:01:35.268Z",
+   "fetched_at": "2026-08-24T09:23:24.188Z",
    "body": [
     "Our briefing: BBC Scotland assesses the 12 top-flight clubs' needs as the transfer deadline approaches.",
     "BBC Scotland assesses the 12 top-flight clubs' needs as the transfer deadline approaches.",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "YHC — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
   },
   {
    "id": "guardian-football-transfer-rumours-alvarez-set-arsenal-af",
@@ -70,7 +152,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-24T07:23:45.000Z",
-   "fetched_at": "2026-08-24T08:01:35.416Z",
+   "fetched_at": "2026-08-24T09:23:24.324Z",
    "body": [
     "Our briefing: Today’s rumours laugh off heartburn Booing Julián Alvarez during Atlético Madrid’s draw with Villarreal on Sunday has seemingly convinced the Argentinian forward to…",
     "Today’s rumours laugh off heartburn Booing Julián Alvarez during Atlético Madrid’s draw with Villarreal on Sunday has seemingly convinced the Argentinian forward to consider joining Arsenal in the window. The former Manchester City man has been kept out of the reaches of Barcelona, who may not have the funds to complete the signing, whereas the Gunners have plenty of cash to splash. Alejandro Balde was left out of the Barcelona squad as they roared past Elche, as the Catalan club open the door for a move to Manchester United.",
@@ -78,7 +160,7 @@
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/NDL11904200_Notice_of_Transfer_of_Equipment_Report_%28Shirahama_Arsenal%2C_Osaka_Arsenal%2C_etc.%29_part2.pdf/page1-960px-NDL11904200_Notice_of_Transfer_of_Equipment_Report_%28Shirahama_Arsenal%2C_Osaka_Arsenal%2C_etc.%29_part2.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/NDL11904200_Notice_of_Transfer_of_Equipment_Report_%28Shirahama_Arsenal%2C_Osaka_Arsenal%2C_etc.%29_part1.pdf/page1-960px-NDL11904200_Notice_of_Transfer_of_Equipment_Report_%28Shirahama_Arsenal%2C_Osaka_Arsenal%2C_etc.%29_part1.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
   },
   {
@@ -92,36 +174,36 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-24T07:11:43.000Z",
-   "fetched_at": "2026-08-24T08:01:35.459Z",
+   "fetched_at": "2026-08-24T09:23:24.467Z",
    "body": [
     "Our briefing: Ceferin has issued an ultimatum to his Fifa counterpart",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "John Shorten — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
   },
   {
    "id": "guardian-premier-league-10-talking-points-opening-weekend",
    "slug": "premier-league-10-talking-points-from-opening-weekend-of-the-ekend",
    "title": "Premier League: 10 talking points from opening weekend of the season",
    "dek": "Manchester United’s under-powered attack, Brentford’s £39m bargain and Dewsbury-Hall delivers for Everton Arsenal’s treatment of Gabriel Martinelli has been questioned by…",
-   "description": "Manchester United’s under-powered attack, Brentford’s £39m bargain and Dewsbury-Hall delivers for Everton Arsenal’s treatment of Gabriel Martinelli has been questioned by Ian Wright after the Brazil forward was left out of their squad for Friday’s opening game against Coventry. Martinelli turned down a move to Galatasaray last week after Arsenal had agreed a fee with the Turkish club and the former striker Wright revealed on Sky Sports after the Coventry game that no one at the club has spoken to the 25-year-old to discuss his future. “I know they might want him out, and a lot of people might say, ‘yeah, it’s time for him to move him on’. But there’s ways of doing that and it should suit him as well, how he wants to leave,” said Wright. “He’s done enough with this squad to be treated with a little bit more respect than he’s being treated with at the moment.” Ed Aarons Match report: Arsenal 3-0 Coventry Match report: Brighton 4-0 Aston Villa Continue reading...",
+   "description": "Manchester United’s under-powered attack, Brentford’s £39m bargain and Dewsbury-Hall delivers for Everton Arsenal’s treatment of Gabriel Martinelli has been questioned by Ian Wright after the Brazil forward was left out of their squad for Friday’s opening game against Coventry. Martinelli turned down a move to Galatasaray last week after Arsenal had agreed a fee with the Turkish club and the former striker Wright revealed on Sky Sports after the Coventry game that no one at the club has spoken to the 25-year-old to discuss his future. “I know they might want him out, and a lot of people might say: ‘Yeah, it’s time for him to move him on.’ But there’s ways of doing that and it should suit him as well, how he wants to leave,” said Wright. “He’s done enough with this squad to be treated with a little bit more respect than he’s being treated with at the moment.” Ed Aarons Match report: Arsenal 3-0 Coventry Match report: Brighton 4-0 Aston Villa Continue reading...",
    "category": "Transfers & Rumours",
    "league": "Premier League",
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-24T07:00:54.000Z",
-   "fetched_at": "2026-08-24T08:01:35.416Z",
+   "fetched_at": "2026-08-24T09:23:24.324Z",
    "body": [
     "Our briefing: Manchester United’s under-powered attack, Brentford’s £39m bargain and Dewsbury-Hall delivers for Everton Arsenal’s treatment of Gabriel Martinelli has been questioned by…",
-    "Manchester United’s under-powered attack, Brentford’s £39m bargain and Dewsbury-Hall delivers for Everton Arsenal’s treatment of Gabriel Martinelli has been questioned by Ian Wright after the Brazil forward was left out of their squad for Friday’s opening game against Coventry. Martinelli turned down a move to Galatasaray last week after Arsenal had agreed a fee with the Turkish club and the former striker Wright revealed on Sky Sports after the Coventry game that no one at the club has spoken to the 25-year-old to discuss his future. “I know they might want him out, and a lot of people might say, ‘yeah, it’s time for him to move him on’.",
-    "But there’s ways of doing that and it should suit him as well, how he wants to leave,” said Wright. “He’s done enough with this squad to be treated with a little bit more respect than he’s being treated with at the moment. ” Ed Aarons Match report: Arsenal 3-0 Coventry Match report: Brighton 4-0 Aston Villa Continue reading...",
+    "Manchester United’s under-powered attack, Brentford’s £39m bargain and Dewsbury-Hall delivers for Everton Arsenal’s treatment of Gabriel Martinelli has been questioned by Ian Wright after the Brazil forward was left out of their squad for Friday’s opening game against Coventry. Martinelli turned down a move to Galatasaray last week after Arsenal had agreed a fee with the Turkish club and the former striker Wright revealed on Sky Sports after the Coventry game that no one at the club has spoken to the 25-year-old to discuss his future. “I know they might want him out, and a lot of people might say: ‘Yeah, it’s time for him to move him on.",
+    "’ But there’s ways of doing that and it should suit him as well, how he wants to leave,” said Wright. “He’s done enough with this squad to be treated with a little bit more respect than he’s being treated with at the moment. ” Ed Aarons Match report: Arsenal 3-0 Coventry Match report: Brighton 4-0 Aston Villa Continue reading...",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Badalik_Szabolcs_Hungarian_beach_soccer_player.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "Badalik Szabolcs — CC BY 4.0"
   },
   {
    "id": "bbc-podcast-derby-win-new-championship-leader-who-wi",
@@ -134,15 +216,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-24T07:00:00.000Z",
-   "fetched_at": "2026-08-24T08:01:35.270Z",
+   "fetched_at": "2026-08-24T09:23:24.189Z",
    "body": [
     "Our briefing: Dundee Derby drama, transfer talk and a changing Championship picture.",
     "Dundee Derby drama, transfer talk and a changing Championship picture.",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Badalik_Szabolcs_Hungarian_beach_soccer_player.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "Badalik Szabolcs — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "bbc-arbeloa-v-alonso-benitez-his-former-players-turn",
@@ -155,15 +237,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-24T06:59:58.000Z",
-   "fetched_at": "2026-08-24T08:01:35.267Z",
+   "fetched_at": "2026-08-24T09:23:24.187Z",
    "body": [
     "Our briefing: Former Liverpool manager Rafael Benitez on his former players Xabi Alonso and Alvaro Arbeloa who face each other as managers on Monday when Fulham host Chelsea.",
     "Former Liverpool manager Rafael Benitez on his former players Xabi Alonso and Alvaro Arbeloa who face each other as managers on Monday when Fulham host Chelsea.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "bbc-maradona-s-hand-god-ball-sells-2-5m",
@@ -176,14 +258,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-24T06:55:06.000Z",
-   "fetched_at": "2026-08-24T08:01:35.267Z",
+   "fetched_at": "2026-08-24T09:23:24.187Z",
    "body": [
     "Our briefing: The football with which Diego Maradona scored his famous 'hand of God' goal in the 1986 World Cup quarter-final victory over England is sold at auction.",
     "The football with which Diego Maradona scored his famous 'hand of God' goal in the 1986 World Cup quarter-final victory over England is sold at auction.",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
   },
   {
@@ -197,7 +279,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-24T06:51:10.000Z",
-   "fetched_at": "2026-08-24T08:01:35.268Z",
+   "fetched_at": "2026-08-24T09:23:24.188Z",
    "body": [
     "Our briefing: The Premier League used to feature a host of top Australians. Now there is just one player from the country in the competition, but it's a very different story in the…",
     "The Premier League used to feature a host of top Australians. Now there is just one player from the country in the competition, but it's a very different story in the WSL.",
@@ -218,7 +300,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-24T06:38:50.000Z",
-   "fetched_at": "2026-08-24T08:01:35.270Z",
+   "fetched_at": "2026-08-24T09:23:24.189Z",
    "body": [
     "Our briefing: Celtic step up midfielder chase as squad told to stay off social media.",
     "Celtic step up midfielder chase as squad told to stay off social media.",
@@ -278,7 +360,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-24T05:50:50.000Z",
-   "fetched_at": "2026-08-24T08:01:35.268Z",
+   "fetched_at": "2026-08-24T09:23:24.188Z",
    "body": [
     "Our briefing: Erling Haaland shaved off his flowing blond locks before the new Premier League season - but do you recognise these other footballers from their haircuts?",
     "Erling Haaland shaved off his flowing blond locks before the new Premier League season - but do you recognise these other footballers from their haircuts?",
@@ -299,14 +381,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-24T05:35:37.000Z",
-   "fetched_at": "2026-08-24T08:01:35.268Z",
+   "fetched_at": "2026-08-24T09:23:24.188Z",
    "body": [
     "Our briefing: Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
     "Test your ball knowledge with today's Who Am I? , Five in Five and Brainteaser.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -320,15 +402,36 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-24T05:00:00.000Z",
-   "fetched_at": "2026-08-24T08:01:35.459Z",
+   "fetched_at": "2026-08-24T09:23:24.467Z",
    "body": [
     "Our briefing: Carrick’s calm and measured approach was just what United needed last season after the chaos of Ruben Amorim. After the insipid opening day defeat at Hull, the question…",
     "Carrick’s calm and measured approach was just what United needed last season after the chaos of Ruben Amorim.",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-opening-win-was-beyond-anyone-s-dreams-hull-assi",
+   "slug": "opening-win-was-beyond-anyone-s-dreams-hull-assistant-holden--assi",
+   "title": "Opening win was beyond anyone's dreams - Hull assistant Holden",
+   "dek": "Following their huge win against Manchester United, Hull City assistant head coach Dean Holden joins Gabby Logan, Danny Murphy and Joe Hart in the Match of the Day…",
+   "description": "Following their huge win against Manchester United, Hull City assistant head coach Dean Holden joins Gabby Logan, Danny Murphy and Joe Hart in the Match of the Day studio.",
+   "category": "Transfers & Rumours",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-23T23:37:29.000Z",
+   "fetched_at": "2026-08-24T09:23:24.188Z",
+   "body": [
+    "Our briefing: Following their huge win against Manchester United, Hull City assistant head coach Dean Holden joins Gabby Logan, Danny Murphy and Joe Hart in the Match of the Day…",
+    "Following their huge win against Manchester United, Hull City assistant head coach Dean Holden joins Gabby Logan, Danny Murphy and Joe Hart in the Match of the Day studio.",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   },
   {
    "id": "bbc-win-home-first-game-was-beyond-anyone-s-dreams-h",
@@ -348,8 +451,7 @@
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
    "id": "bbc-uefa-chief-ceferin-rules-out-fifa-presidency-bid",
@@ -362,7 +464,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-23T23:20:31.000Z",
-   "fetched_at": "2026-08-24T08:01:35.267Z",
+   "fetched_at": "2026-08-24T09:23:24.187Z",
    "body": [
     "Our briefing: Uefa president Aleksander Ceferin rules himself out of the running to replace Gianni Infantino, but expects a candidate to challenge the Fifa president's leadership in…",
     "Uefa president Aleksander Ceferin rules himself out of the running to replace Gianni Infantino, but expects a candidate to challenge the Fifa president's leadership in March.",
@@ -383,7 +485,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-23T23:12:00.000Z",
-   "fetched_at": "2026-08-24T08:01:35.268Z",
+   "fetched_at": "2026-08-24T09:23:24.188Z",
    "body": [
     "Our briefing: Hull City boss Sergej Jakirovic kept his plan to topple Manchester United on their Premier League return under wraps for weeks, assistant head coach Dean Holden tells…",
     "Hull City boss Sergej Jakirovic kept his plan to topple Manchester United on their Premier League return under wraps for weeks, assistant head coach Dean Holden tells Match of the Day.",
@@ -404,7 +506,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-23T23:03:23.000Z",
-   "fetched_at": "2026-08-24T08:01:35.268Z",
+   "fetched_at": "2026-08-24T09:23:24.188Z",
    "body": [
     "Our briefing: Match of the Day's Danny Murphy, Gabby Logan and Joe Hart analyse Aston Villa's \"woeful\" performance against Brighton, which saw them lose 4-0.",
     "Match of the Day's Danny Murphy, Gabby Logan and Joe Hart analyse Aston Villa's \"woeful\" performance against Brighton, which saw them lose 4-0.",
@@ -425,15 +527,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-23T23:02:43.000Z",
-   "fetched_at": "2026-08-24T08:01:35.268Z",
+   "fetched_at": "2026-08-24T09:23:24.188Z",
    "body": [
     "Our briefing: Match of the Day's Joe Hart discusses Manchester City's Marc Guehi and his performance in midfield, with plenty of praise for the centre half in a different position…",
     "Match of the Day's Joe Hart discusses Manchester City's Marc Guehi and his performance in midfield, with plenty of praise for the centre half in a different position against Bournemouth.",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "bbc-energy-pace-passion-newcastle-s-dynamic-performa",
@@ -446,7 +548,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-23T23:01:50.000Z",
-   "fetched_at": "2026-08-24T08:01:35.268Z",
+   "fetched_at": "2026-08-24T09:23:24.188Z",
    "body": [
     "Our briefing: Match of the Day's Joe Hart, Danny Murphy and Gabby Logan analyse Newcastle's energetic performance in their Premier League opener against Liverpool.",
     "Match of the Day's Joe Hart, Danny Murphy and Gabby Logan analyse Newcastle's energetic performance in their Premier League opener against Liverpool.",
@@ -467,7 +569,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-23T22:39:24.000Z",
-   "fetched_at": "2026-08-24T08:01:35.268Z",
+   "fetched_at": "2026-08-24T09:23:24.188Z",
    "body": [
     "Our briefing: After being left out of Aston Villa's match-day squad against Brighton, Match of the Day's Gabby Logan, Danny Murphy and Joe Hart consider if Ollie Watkins is on the…",
     "After being left out of Aston Villa's match-day squad against Brighton, Match of the Day's Gabby Logan, Danny Murphy and Joe Hart consider if Ollie Watkins is on the verge of leaving the club for Al Hilal.",
@@ -503,16 +605,16 @@
    "slug": "european-football-torres-double-rescues-psg-point-after-renn--poin",
    "title": "European football: Torres double rescues PSG point after Rennes threaten shock win",
    "dek": "Atlético’s Alvarez booed by own fans in home draw Salah scores first goals in Trabzonspor victory Ferran Torres came off the bench to score a late double ⁠on his debut as…",
-   "description": "Atlético’s Alvarez booed by own fans in home draw Salah scores first goals in Trabzonspor victory Ferran Torres came off the bench to score a late double ⁠on his debut as Paris Saint-Germain rallied from two goals down to draw ⁠2-2 with ⁠hosts Rennes in their Ligue 1 season opener on Sunday. Sebastian Szymanski and Esteban Lepaul gave ⁠the home side a 2-0 lead at half-time but PSG piled on the pressure in ⁠the second period and were rewarded with a point. Rennes led ​inside nine minutes as ‌Szymanski’s shot went ‌in off the post to provide the perfect start ‌to the season for the hosts. Désiré Doué thought he had levelled for PSG, but his effort was ruled out for offside, and the home side made it 2-0 seven minutes before the break. Przemyslaw Frankowski found space ‌on the right wing and his low cross into the box was turned into the ​net by Lepaul. Continue reading...",
+   "description": "Atlético’s Alvarez booed by own fans in home draw Salah scores first goals in Trabzonspor victory Ferran Torres came off the bench to score a late double ⁠on his debut as Paris Saint-Germain rallied from two goals down to draw ⁠2-2 at Rennes in their Ligue 1 season opener on Sunday. Sebastian Szymanski and Esteban Lepaul gave ⁠the home side a 2-0 lead at half-time but PSG piled on the pressure in ⁠the second period and were rewarded with a point. Rennes led ​inside nine minutes as ‌Szymanski’s shot went ‌in off the post to provide the perfect start ‌to the season for the hosts. Désiré Doué thought he had levelled for PSG, but his effort was ruled out for offside, and the home side made it 2-0 seven minutes before the break. Przemyslaw Frankowski found space ‌on the right wing and his low cross into the box was turned into the ​net by Lepaul. Continue reading...",
    "category": "Match Reports",
    "league": "Ligue 1",
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-23T21:48:22.000Z",
-   "fetched_at": "2026-08-24T08:01:35.416Z",
+   "fetched_at": "2026-08-24T09:23:24.324Z",
    "body": [
     "Our briefing: Atlético’s Alvarez booed by own fans in home draw Salah scores first goals in Trabzonspor victory Ferran Torres came off the bench to score a late double ⁠on his debut as…",
-    "Atlético’s Alvarez booed by own fans in home draw Salah scores first goals in Trabzonspor victory Ferran Torres came off the bench to score a late double ⁠on his debut as Paris Saint-Germain rallied from two goals down to draw ⁠2-2 with ⁠hosts Rennes in their Ligue 1 season opener on Sunday. Sebastian Szymanski and Esteban Lepaul gave ⁠the home side a 2-0 lead at half-time but PSG piled on the pressure in ⁠the second period and were rewarded with a point. Rennes led ​inside nine minutes as ‌Szymanski’s shot went ‌in off the post to provide the perfect start ‌to the season for the hosts.",
+    "Atlético’s Alvarez booed by own fans in home draw Salah scores first goals in Trabzonspor victory Ferran Torres came off the bench to score a late double ⁠on his debut as Paris Saint-Germain rallied from two goals down to draw ⁠2-2 at Rennes in their Ligue 1 season opener on Sunday. Sebastian Szymanski and Esteban Lepaul gave ⁠the home side a 2-0 lead at half-time but PSG piled on the pressure in ⁠the second period and were rewarded with a point. Rennes led ​inside nine minutes as ‌Szymanski’s shot went ‌in off the post to provide the perfect start ‌to the season for the hosts.",
     "Désiré Doué thought he had levelled for PSG, but his effort was ruled out for offside, and the home side made it 2-0 seven minutes before the break. Przemyslaw Frankowski found space ‌on the right wing and his low cross into the box was turned into the ​net by Lepaul. Continue reading...",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
@@ -553,7 +655,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-23T20:38:18.000Z",
-   "fetched_at": "2026-08-24T08:01:35.268Z",
+   "fetched_at": "2026-08-24T09:23:24.188Z",
    "body": [
     "Our briefing: Newcastle United were predicted to struggle from the off by some pundits, but head coach Matthias Jaissle will take encouragement from aspects of their display even after…",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -573,7 +675,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-23T20:36:34.000Z",
-   "fetched_at": "2026-08-24T08:01:35.268Z",
+   "fetched_at": "2026-08-24T09:23:24.188Z",
    "body": [
     "Our briefing: Manchester City are ready to make Enzo Fernandez move, Liverpool consider a third bid for Yankuba Minteh, and a Barcelona full-back pushes to join Manchester United.",
     "Manchester City are ready to make Enzo Fernandez move, Liverpool consider a third bid for Yankuba Minteh, and a Barcelona full-back pushes to join Manchester United.",
@@ -609,23 +711,24 @@
    "slug": "newcastle-and-liverpool-crank-up-the-entertainment-for-emoti-emoti",
    "title": "Newcastle and Liverpool crank up the entertainment for emotional send-off | Sam Dalling",
    "dek": "While the teams produced more promise than polish, this thrilling encounter gave an emotional send-off to a legend of both clubs It’s 4.35pm on Tyneside. William Osula…",
-   "description": "While the teams produced more promise than polish, this thrilling encounter gave an emotional send-off to a legend of both clubs It’s 4.35pm on Tyneside. William Osula sets Anthony Elanga away, slightly right of centre and just short of 50,000 draw collective breaths. Pace is no issue; Elanga has no shortage of that, and Milos Kerkez won’t catch him. But Newcastle fans have seen this clip before and remember the ending. Muscles tighten, cheeks clench, as they brace themselves for it to start again like it carried on before. (Yet) another memeable‑moment inbound. Continue reading...",
+   "description": "While the teams produced more promise than polish, this thrilling encounter gave an emotional send-off to a legend of both clubs It’s 4.35pm on Tyneside. William Osula sets Anthony Elanga away, slightly right of centre and just short of 50,000 draw collective breaths. Pace is no issue; Elanga has no shortage of that, and Milos Kerkez won’t catch him. But Newcastle fans have seen this clip before and remember the ending. Muscles tighten, cheeks clench, as they brace themselves for it to start again like it carried on before. (Yet) another memeable‑moment inbound. A tiny part of each of them, though, thinks: “Wait, hang on, this is a new season, a fresh start.” The slate is not just clean but has been entirely replaced and is now AI-operated. Continue reading...",
    "category": "Match Reports",
    "league": "Premier League",
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-23T20:29:59.000Z",
-   "fetched_at": "2026-08-24T08:01:35.416Z",
+   "fetched_at": "2026-08-24T09:23:24.324Z",
    "body": [
     "Our briefing: While the teams produced more promise than polish, this thrilling encounter gave an emotional send-off to a legend of both clubs It’s 4.35pm on Tyneside. William Osula…",
     "While the teams produced more promise than polish, this thrilling encounter gave an emotional send-off to a legend of both clubs It’s 4. 35pm on Tyneside. William Osula sets Anthony Elanga away, slightly right of centre and just short of 50,000 draw collective breaths.",
     "Pace is no issue; Elanga has no shortage of that, and Milos Kerkez won’t catch him. But Newcastle fans have seen this clip before and remember the ending. Muscles tighten, cheeks clench, as they brace themselves for it to start again like it carried on before.",
-    "(Yet) another memeable‑moment inbound. Continue reading...",
+    "(Yet) another memeable‑moment inbound. A tiny part of each of them, though, thinks: “Wait, hang on, this is a new season, a fresh start. ” The slate is not just clean but has been entirely replaced and is now AI-operated.",
+    "Continue reading...",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Galatasaray_Liverpool_CL_2006.jpg/960px-Galatasaray_Liverpool_CL_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "tekinim — CC BY 2.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liverpool_FC_-_FC_Utrecht.jpg/960px-Liverpool_FC_-_FC_Utrecht.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Vincent Teeuwen from Vianen, The Netherlands — CC BY 2.0"
   },
   {
    "id": "bbc-pre-season-optimism-quickly-fades-some-fans",
@@ -638,15 +741,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-23T20:03:14.000Z",
-   "fetched_at": "2026-08-24T08:01:35.269Z",
+   "fetched_at": "2026-08-24T09:23:24.189Z",
    "body": [
     "Our briefing: Pre-season optimism is already fading for Manchester United, Tottenham, West Ham and Rangers fans.",
     "Pre-season optimism is already fading for Manchester United, Tottenham, West Ham and Rangers fans.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
    "id": "independent-why-liverpool-newcastle-s-latest-thriller-was-fi",
@@ -659,7 +762,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-23T19:41:32.000Z",
-   "fetched_at": "2026-08-24T08:01:35.459Z",
+   "fetched_at": "2026-08-24T09:23:24.467Z",
    "body": [
     "Our briefing: Newcastle 2-2 Liverpool: Dominik Szoboszlai’s late penalty salvaged a point for Andoni Iraola’s side on a day that was all about ‘King Kev’",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
@@ -679,14 +782,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-23T19:38:46.000Z",
-   "fetched_at": "2026-08-24T08:01:35.459Z",
+   "fetched_at": "2026-08-24T09:23:24.467Z",
    "body": [
     "Our briefing: A 99th-minute penalty from the Hungarian meant Liverpool snatched a draw from the jaws of defeat at St James’ Park",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liverpool_FC_-_FC_Utrecht.jpg/960px-Liverpool_FC_-_FC_Utrecht.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Vincent Teeuwen from Vianen, The Netherlands — CC BY 2.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Elftal_van_Liverpool%2C_Bestanddeelnr_919-7002.jpg/960px-Elftal_van_Liverpool%2C_Bestanddeelnr_919-7002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "bbc-relief-iraola-but-liverpool-have-work-do",
@@ -699,7 +802,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-23T19:27:12.000Z",
-   "fetched_at": "2026-08-24T08:01:35.267Z",
+   "fetched_at": "2026-08-24T09:23:24.187Z",
    "body": [
     "Our briefing: Dominik Szoboszlai's injury-time penalty rescues a point at the start of the Andoni Iraola era - but Liverpool need to improve after below-par display.",
     "Dominik Szoboszlai's injury-time penalty rescues a point at the start of the Andoni Iraola era - but Liverpool need to improve after below-par display.",
@@ -741,7 +844,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-23T19:17:27.000Z",
-   "fetched_at": "2026-08-24T08:01:35.269Z",
+   "fetched_at": "2026-08-24T09:23:24.188Z",
    "body": [
     "Our briefing: How Man City and Bournemouth players rated following their Premier League match.",
     "How Man City and Bournemouth players rated following their Premier League match.",
@@ -750,109 +853,6 @@
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Manchester_City_dressing_room_2022.jpg/960px-Manchester_City_dressing_room_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Christian David — CC BY-SA 4.0"
-  },
-  {
-   "id": "independent-newcastle-vs-liverpool-live-szoboszlai-rescues-p",
-   "slug": "newcastle-vs-liverpool-live-szoboszlai-rescues-point-for-red-ues-p",
-   "title": "Newcastle vs Liverpool LIVE: Szoboszlai rescues point for Reds but questions over Isak remain",
-   "dek": "Newcastle 2-2 Liverpool: The points were shared in an exciting contest following emotional tributes to Kevin Keegan",
-   "description": "Newcastle 2-2 Liverpool: The points were shared in an exciting contest following emotional tributes to Kevin Keegan",
-   "category": "News",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-08-23T19:13:29.000Z",
-   "fetched_at": "2026-08-24T08:01:35.459Z",
-   "body": [
-    "Our briefing: Newcastle 2-2 Liverpool: The points were shared in an exciting contest following emotional tributes to Kevin Keegan",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/The_Liverpool_Football_Club_Stadium%2C_Anfield_Road_-_geograph.org.uk_-_5541901.jpg/960px-The_Liverpool_Football_Club_Stadium%2C_Anfield_Road_-_geograph.org.uk_-_5541901.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Humphrey Bolton — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-up-front-next-week-maresca-s-guehi-gamble-pays-o",
-   "slug": "up-front-next-week-maresca-s-guehi-gamble-pays-off-ays-o",
-   "title": "'Up front next week?' Maresca's Guehi gamble pays off",
-   "dek": "Rather than playing safe in selecting his Manchester City side for the first time in the Premier League, Enzo Maresca made a bold choice in midfield. Ultimately, it paid…",
-   "description": "Rather than playing safe in selecting his Manchester City side for the first time in the Premier League, Enzo Maresca made a bold choice in midfield. Ultimately, it paid off.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-23T19:13:12.000Z",
-   "fetched_at": "2026-08-24T08:01:35.267Z",
-   "body": [
-    "Our briefing: Rather than playing safe in selecting his Manchester City side for the first time in the Premier League, Enzo Maresca made a bold choice in midfield. Ultimately, it paid…",
-    "Rather than playing safe in selecting his Manchester City side for the first time in the Premier League, Enzo Maresca made a bold choice in midfield. Ultimately, it paid off.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-watkins-absence-brighton-question-him-emery",
-   "slug": "watkins-absence-at-brighton-a-question-for-him-emery-emery",
-   "title": "Watkins' absence at Brighton a question for him - Emery",
-   "dek": "Ollie Watkins' absence in Aston Villa's thrashing at Brighton is a question for the striker, says boss Unai Emery.",
-   "description": "Ollie Watkins' absence in Aston Villa's thrashing at Brighton is a question for the striker, says boss Unai Emery.",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-23T19:07:55.000Z",
-   "fetched_at": "2026-08-24T08:01:35.268Z",
-   "body": [
-    "Our briefing: Ollie Watkins' absence in Aston Villa's thrashing at Brighton is a question for the striker, says boss Unai Emery.",
-    "Ollie Watkins' absence in Aston Villa's thrashing at Brighton is a question for the striker, says boss Unai Emery.",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Fulham_vs_Brighton_%26_Hove_Albion_24012026_%283%29.jpg/960px-Fulham_vs_Brighton_%26_Hove_Albion_24012026_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "bbc-maresca-s-man-city-reign-begins-dramatic-comebac",
-   "slug": "maresca-s-man-city-reign-begins-with-dramatic-comeback-again-mebac",
-   "title": "Maresca's Man City reign begins with dramatic comeback against Bournemouth",
-   "dek": "Two managers in charge of new clubs face off with Manchester City under Enzo Maresca and Bournemouth under Marco Rose, as the hosts stage a late comeback to kick the new…",
-   "description": "Two managers in charge of new clubs face off with Manchester City under Enzo Maresca and Bournemouth under Marco Rose, as the hosts stage a late comeback to kick the new Premier League season off in dramatic fashion.",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-23T19:03:31.000Z",
-   "fetched_at": "2026-08-24T08:01:35.268Z",
-   "body": [
-    "Our briefing: Two managers in charge of new clubs face off with Manchester City under Enzo Maresca and Bournemouth under Marco Rose, as the hosts stage a late comeback to kick the new…",
-    "Two managers in charge of new clubs face off with Manchester City under Enzo Maresca and Bournemouth under Marco Rose, as the hosts stage a late comeback to kick the new Premier League season off in dramatic fashion.",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Final_Manchester_City_Match_at_Maine_Road_-_geograph.org.uk_-_3820257.jpg/960px-Final_Manchester_City_Match_at_Maine_Road_-_geograph.org.uk_-_3820257.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Richard Cooke — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-maresca-s-manchester-city-reign-begins-dramatic-",
-   "slug": "maresca-s-manchester-city-reign-begins-with-dramatic-comebac-atic-",
-   "title": "Maresca's Manchester City reign begins with dramatic comeback against Bournemouth",
-   "dek": "Two managers in charge of new clubs face off with Manchester City under Enzo Maresca and Bournemouth under Marco Rose, as the hosts stage a late comeback to kick the new…",
-   "description": "Two managers in charge of new clubs face off with Manchester City under Enzo Maresca and Bournemouth under Marco Rose, as the hosts stage a late comeback to kick the new Premier League season off in dramatic fashion.",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-23T19:03:31.000Z",
-   "fetched_at": "2026-08-24T06:59:06.462Z",
-   "body": [
-    "Our briefing: Two managers in charge of new clubs face off with Manchester City under Enzo Maresca and Bournemouth under Marco Rose, as the hosts stage a late comeback to kick the new…",
-    "Two managers in charge of new clubs face off with Manchester City under Enzo Maresca and Bournemouth under Marco Rose, as the hosts stage a late comeback to kick the new Premier League season off in dramatic fashion.",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Fulham_v_AFC_Bournemouth_09052026_%284%29.jpg/960px-Fulham_v_AFC_Bournemouth_09052026_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   }
  ]
 }
