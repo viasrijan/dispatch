@@ -1,19 +1,6 @@
 {
- "generated_at": "2026-08-24T18:40:47.035Z",
+ "generated_at": "2026-08-24T19:30:03.298Z",
  "matches": [
-  {
-   "league": "Premier League",
-   "home": "Fulham",
-   "away": "Chelsea",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Mon, August 24th at 3:00 PM EDT",
-   "date": "2026-08-24T19:00Z"
-  },
   {
    "league": "La Liga",
    "home": "Osasuna",
@@ -22,9 +9,9 @@
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
    "homeScore": 0,
    "awayScore": 0,
-   "status": "live",
-   "clock": "53'",
-   "time": "53'",
+   "status": "final",
+   "clock": "",
+   "time": "FT",
    "date": "2026-08-24T17:30Z"
   },
   {
@@ -41,43 +28,17 @@
    "date": "2026-08-24T19:30Z"
   },
   {
-   "league": "Bundesliga",
-   "home": "Bayern Munich",
-   "away": "VfB Stuttgart",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, August 28th at 2:30 PM EDT",
-   "date": "2026-08-28T18:30Z"
-  },
-  {
-   "league": "Serie A",
-   "home": "Bologna",
-   "away": "Lazio",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
-   "homeScore": 0,
+   "league": "Premier League",
+   "home": "Fulham",
+   "away": "Chelsea",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
+   "homeScore": 1,
    "awayScore": 1,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-08-24T16:30Z"
-  },
-  {
-   "league": "Serie A",
-   "home": "AS Roma",
-   "away": "Fiorentina",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Mon, August 24th at 2:45 PM EDT",
-   "date": "2026-08-24T18:45Z"
+   "status": "live",
+   "clock": "29'",
+   "time": "29'",
+   "date": "2026-08-24T19:00Z"
   },
   {
    "league": "Ligue 1",
@@ -117,6 +78,45 @@
    "clock": "",
    "time": "FT",
    "date": "2026-08-23T18:45Z"
+  },
+  {
+   "league": "Bundesliga",
+   "home": "Bayern Munich",
+   "away": "VfB Stuttgart",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, August 28th at 2:30 PM EDT",
+   "date": "2026-08-28T18:30Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Bologna",
+   "away": "Lazio",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
+   "homeScore": 0,
+   "awayScore": 1,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-08-24T16:30Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "AS Roma",
+   "away": "Fiorentina",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
+   "homeScore": 1,
+   "awayScore": 0,
+   "status": "live",
+   "clock": "43'",
+   "time": "43'",
+   "date": "2026-08-24T18:45Z"
   }
  ]
 }
