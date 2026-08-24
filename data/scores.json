@@ -1,45 +1,6 @@
 {
- "generated_at": "2026-08-24T04:45:13.340Z",
+ "generated_at": "2026-08-24T05:38:36.046Z",
  "matches": [
-  {
-   "league": "La Liga",
-   "home": "Atlético Madrid",
-   "away": "Villarreal",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
-   "homeScore": 2,
-   "awayScore": 2,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-08-23T15:00Z"
-  },
-  {
-   "league": "La Liga",
-   "home": "Getafe",
-   "away": "Racing Santander",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png",
-   "homeScore": 1,
-   "awayScore": 0,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-08-23T17:30Z"
-  },
-  {
-   "league": "La Liga",
-   "home": "Elche",
-   "away": "Barcelona",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-   "homeScore": 0,
-   "awayScore": 5,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-08-23T19:30Z"
-  },
   {
    "league": "Premier League",
    "home": "Brighton & Hove Albion",
@@ -78,6 +39,45 @@
    "clock": "",
    "time": "FT",
    "date": "2026-08-23T15:30Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Atlético Madrid",
+   "away": "Villarreal",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+   "homeScore": 2,
+   "awayScore": 2,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-08-23T15:00Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Getafe",
+   "away": "Racing Santander",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png",
+   "homeScore": 1,
+   "awayScore": 0,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-08-23T17:30Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Elche",
+   "away": "Barcelona",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+   "homeScore": 0,
+   "awayScore": 5,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-08-23T19:30Z"
   },
   {
    "league": "Bundesliga",
