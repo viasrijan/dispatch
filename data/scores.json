@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-08-24T21:56:22.712Z",
+ "generated_at": "2026-08-24T22:30:03.575Z",
  "matches": [
+  {
+   "league": "Premier League",
+   "home": "Fulham",
+   "away": "Chelsea",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
+   "homeScore": 2,
+   "awayScore": 3,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-08-24T19:00Z"
+  },
   {
    "league": "La Liga",
    "home": "Osasuna",
@@ -26,19 +39,6 @@
    "clock": "",
    "time": "FT",
    "date": "2026-08-24T19:30Z"
-  },
-  {
-   "league": "Premier League",
-   "home": "Fulham",
-   "away": "Chelsea",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-   "homeScore": 2,
-   "awayScore": 3,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-08-24T19:00Z"
   },
   {
    "league": "Serie A",
