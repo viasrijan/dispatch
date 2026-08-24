@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-24T16:38:25.022Z",
- "updated_utc": "2026-08-24T16:38Z",
- "cycle": 29793158,
+ "generated_at": "2026-08-24T17:31:38.215Z",
+ "updated_utc": "2026-08-24T17:31Z",
+ "cycle": 29793211,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,27 +16,110 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "guardian-san-francisco-49ers-owner-jed-york-pleads-no-con",
+ "hero_id": "independent-fulham-vs-chelsea-live-team-news-xabi-alonso-kic",
  "articles": [
+  {
+   "id": "bbc-celtic-have-little-look-defenders-johnston-out-u",
+   "slug": "celtic-to-have-a-little-look-at-defenders-with-johnston-out--out-u",
+   "title": "Celtic to 'have a little look' at defenders with Johnston out until October",
+   "dek": "Celtic full-back Alistair Johnston will be out of action until October, manager Martin O'Neill confirms.",
+   "description": "Celtic full-back Alistair Johnston will be out of action until October, manager Martin O'Neill confirms.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-24T17:28:40.000Z",
+   "fetched_at": "2026-08-24T17:31:31.930Z",
+   "body": [
+    "Our briefing: Celtic full-back Alistair Johnston will be out of action until October, manager Martin O'Neill confirms.",
+    "Celtic full-back Alistair Johnston will be out of action until October, manager Martin O'Neill confirms.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Celtic_Park_during_an_Old_Firm_derby_between_Celtic_FC_and_Rangers_FC.jpg/960px-Celtic_Park_during_an_Old_Firm_derby_between_Celtic_FC_and_Rangers_FC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Vincenzo.togni — CC BY-SA 4.0"
+  },
+  {
+   "id": "independent-fulham-vs-chelsea-live-team-news-xabi-alonso-kic",
+   "slug": "fulham-vs-chelsea-live-team-news-as-xabi-alonso-kicks-off-te-o-kic",
+   "title": "Fulham vs Chelsea LIVE: Team news as Xabi Alonso kicks off tenure as Blues manager",
+   "dek": "Xabi Alonso and Alvaro Arbeloa make their Premier League managerial debuts as Chelsea visit Fulham",
+   "description": "Xabi Alonso and Alvaro Arbeloa make their Premier League managerial debuts as Chelsea visit Fulham",
+   "category": "Previews",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-08-24T17:27:38.000Z",
+   "fetched_at": "2026-08-24T17:31:32.060Z",
+   "body": [
+    "Our briefing: Xabi Alonso and Alvaro Arbeloa make their Premier League managerial debuts as Chelsea visit Fulham",
+    "Team news can change right up to kick-off. Bookmark this story for the final line-ups and confirmed sides.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Chelsea_vs_union_1929.jpg/960px-Chelsea_vs_union_1929.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
   {
    "id": "independent-liverpool-s-alarming-weakness-clear-signing-new-",
    "slug": "liverpool-s-alarming-weakness-is-clear-and-signing-a-new-win--new-",
    "title": "Liverpool’s alarming weakness is clear and signing a new winger won’t solve it",
-   "dek": "The Reds drew 2-2 at Newcastle on Sunday, but Andoni Iraola is struggling for midfield balance, with Ryan Gravenberch’s role uncertain after struggling at St James’ Park",
-   "description": "The Reds drew 2-2 at Newcastle on Sunday, but Andoni Iraola is struggling for midfield balance, with Ryan Gravenberch’s role uncertain after struggling at St James’ Park",
+   "dek": "The Reds drew 2-2 at Newcastle on Sunday, but Andoni Iraola is struggling for midfield balance, with Ryan Gravenberch’s role uncertain after a mixed performance at St…",
+   "description": "The Reds drew 2-2 at Newcastle on Sunday, but Andoni Iraola is struggling for midfield balance, with Ryan Gravenberch’s role uncertain after a mixed performance at St James’ Park",
    "category": "Transfers & Rumours",
    "league": "Premier League",
    "source": "independent",
    "sourceName": "The Independent",
-   "published": "2026-08-24T16:33:22.000Z",
-   "fetched_at": "2026-08-24T16:38:17.217Z",
+   "published": "2026-08-24T17:01:52.000Z",
+   "fetched_at": "2026-08-24T17:31:32.060Z",
    "body": [
-    "Our briefing: The Reds drew 2-2 at Newcastle on Sunday, but Andoni Iraola is struggling for midfield balance, with Ryan Gravenberch’s role uncertain after struggling at St James’ Park",
+    "Our briefing: The Reds drew 2-2 at Newcastle on Sunday, but Andoni Iraola is struggling for midfield balance, with Ryan Gravenberch’s role uncertain after a mixed performance at St…",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Independent."
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Magistrates%27_Court%2C_Dale_Street%2C_Liverpool_2018.jpg/960px-Magistrates%27_Court%2C_Dale_Street%2C_Liverpool_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Rodhullandemu — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-sunderland-sign-ahoka-royal-antwerp",
+   "slug": "sunderland-sign-ahoka-from-royal-antwerp-twerp",
+   "title": "Sunderland sign Ahoka from Royal Antwerp",
+   "dek": "Sunderland confirm the signing of midfielder Jules Ahoka for a 10m euros (£8.6m) fee.",
+   "description": "Sunderland confirm the signing of midfielder Jules Ahoka for a 10m euros (£8.6m) fee.",
+   "category": "Transfers & Rumours",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-24T16:50:16.000Z",
+   "fetched_at": "2026-08-24T17:31:31.928Z",
+   "body": [
+    "Our briefing: Sunderland confirm the signing of midfielder Jules Ahoka for a 10m euros (£8.6m) fee.",
+    "Sunderland confirm the signing of midfielder Jules Ahoka for a 10m euros (£8. 6m) fee.",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "YHC — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-watkins-departure-would-cut-deepest-villa-did-no",
+   "slug": "watkins-departure-would-cut-deepest-and-villa-did-not-see-it-id-no",
+   "title": "Watkins' departure would cut deepest - and Villa did not see it coming",
+   "dek": "Ollie Watkins has been an Aston Villa legend but it appears his time at the club is nearing a painful end amid interest from Saudi Arabia.",
+   "description": "Ollie Watkins has been an Aston Villa legend but it appears his time at the club is nearing a painful end amid interest from Saudi Arabia.",
+   "category": "Transfers & Rumours",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-24T16:43:58.000Z",
+   "fetched_at": "2026-08-24T17:31:31.927Z",
+   "body": [
+    "Our briefing: Ollie Watkins has been an Aston Villa legend but it appears his time at the club is nearing a painful end amid interest from Saudi Arabia.",
+    "Ollie Watkins has been an Aston Villa legend but it appears his time at the club is nearing a painful end amid interest from Saudi Arabia.",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
   },
   {
    "id": "independent-fulham-vs-chelsea-team-news-xabi-alonso-kicks-of",
@@ -55,24 +138,23 @@
     "Team news can change right up to kick-off. Bookmark this story for the final line-ups and confirmed sides.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Chelsea_vs_union_1929.jpg/960px-Chelsea_vs_union_1929.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Chelsea_vs_union_1929.jpg/960px-Chelsea_vs_union_1929.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
    "id": "guardian-san-francisco-49ers-owner-jed-york-pleads-no-con",
    "slug": "san-francisco-49ers-owner-jed-york-pleads-no-contest-after-a-o-con",
    "title": "San Francisco 49ers owner Jed York pleads no contest after arrest at Ohio trailer park",
    "dek": "46-year-old charged with possessing criminal tools York fined and sentenced to two days in jail 49ers CEO also owns stake in Leeds United The San Francisco 49ers owner…",
-   "description": "46-year-old charged with possessing criminal tools York fined and sentenced to two days in jail 49ers CEO also owns stake in Leeds United The San Francisco 49ers owner Jed York has pleaded no contest to two criminal charges after being arrested in Ohio over the weekend. KRON4 News in San Francisco reported that York was initially arrested on suspicion of engaging in prostitution but that count was amended to a charge of disorderly conduct. He was also charged with possessing criminal tools. Continue reading...",
+   "description": "46-year-old charged with possessing criminal tools York fined and sentenced to two days in jail 49ers CEO also owns stake in Leeds United The San Francisco 49ers owner Jed York has pleaded no contest to two criminal charges after being arrested at an Ohio trailer park over the weekend. KRON4 News in San Francisco reported that York was initially arrested on suspicion of engaging in prostitution but that count was amended to a charge of disorderly conduct. He was also charged with possessing criminal tools. Continue reading...",
    "category": "News",
    "league": "Football",
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-24T16:21:22.000Z",
-   "fetched_at": "2026-08-24T16:38:16.977Z",
+   "fetched_at": "2026-08-24T17:31:32.020Z",
    "body": [
     "Our briefing: 46-year-old charged with possessing criminal tools York fined and sentenced to two days in jail 49ers CEO also owns stake in Leeds United The San Francisco 49ers owner…",
-    "46-year-old charged with possessing criminal tools York fined and sentenced to two days in jail 49ers CEO also owns stake in Leeds United The San Francisco 49ers owner Jed York has pleaded no contest to two criminal charges after being arrested in Ohio over the weekend. KRON4 News in San Francisco reported that York was initially arrested on suspicion of engaging in prostitution but that count was amended to a charge of disorderly conduct. He was also charged with possessing criminal tools.",
+    "46-year-old charged with possessing criminal tools York fined and sentenced to two days in jail 49ers CEO also owns stake in Leeds United The San Francisco 49ers owner Jed York has pleaded no contest to two criminal charges after being arrested at an Ohio trailer park over the weekend. KRON4 News in San Francisco reported that York was initially arrested on suspicion of engaging in prostitution but that count was amended to a charge of disorderly conduct. He was also charged with possessing criminal tools.",
     "Continue reading...",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Guardian."
@@ -91,7 +173,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-24T16:11:28.000Z",
-   "fetched_at": "2026-08-24T16:38:17.217Z",
+   "fetched_at": "2026-08-24T17:31:32.060Z",
    "body": [
     "Our briefing: The draw for the 2026/27 Champions League 36-team league phase will take place on Thursday, 27 August",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -111,7 +193,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-24T16:07:06.000Z",
-   "fetched_at": "2026-08-24T16:38:16.811Z",
+   "fetched_at": "2026-08-24T17:31:31.927Z",
    "body": [
     "Our briefing: An analysis of Julian Alvarez's future with the transfer window closing on 1 September - and the Argentine's chances of a move from Atletico Madrid to Arsenal.",
     "An analysis of Julian Alvarez's future with the transfer window closing on 1 September - and the Argentine's chances of a move from Atletico Madrid to Arsenal.",
@@ -132,7 +214,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-24T15:57:52.000Z",
-   "fetched_at": "2026-08-24T16:38:17.217Z",
+   "fetched_at": "2026-08-24T17:31:32.060Z",
    "body": [
     "Our briefing: Gianni Infantino is facing fresh calls to resign from his role as Fifa president",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -152,7 +234,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-24T15:42:44.000Z",
-   "fetched_at": "2026-08-24T16:38:16.977Z",
+   "fetched_at": "2026-08-24T17:31:32.020Z",
    "body": [
     "Our briefing: Sunday’s draw with Newcastle shows Andoni Iraola’s new ideas as manager will need to overcome the squad’s lack of balance Sign up for our free newsletter here The good…",
     "Sunday’s draw with Newcastle shows Andoni Iraola’s new ideas as manager will need to overcome the squad’s lack of balance Sign up for our free newsletter here The good news for Liverpool is that, Arsenal aside, every other team with vague title aspirations who played over the weekend looked undercooked, and that Andoni Iraola’s men did, in the end, come away from Newcastle with a point . But the vulnerability to the counter that undermined them so often last season has not gone away, and nor have they suddenly found a new creativity under Iraola. The main theme of the first three days of the new season was the value of stability.",
@@ -176,7 +258,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-24T15:34:31.000Z",
-   "fetched_at": "2026-08-24T16:38:17.217Z",
+   "fetched_at": "2026-08-24T17:31:32.060Z",
    "body": [
     "Our briefing: Alvarez was met with jeers by Atletico fans amid rumours over a move to Arsenal while Liverpool continue their pursuit of a new winger",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -196,7 +278,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-24T15:33:02.000Z",
-   "fetched_at": "2026-08-24T16:38:16.814Z",
+   "fetched_at": "2026-08-24T17:31:31.930Z",
    "body": [
     "Our briefing: Tony Docherty is named Scotland Under-21 head coach, with Steven Naismith as assistant.",
     "Tony Docherty is named Scotland Under-21 head coach, with Steven Naismith as assistant.",
@@ -217,7 +299,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-24T15:14:22.000Z",
-   "fetched_at": "2026-08-24T16:38:16.812Z",
+   "fetched_at": "2026-08-24T17:31:31.928Z",
    "body": [
     "Our briefing: Barcelona accuse police of using \"disproportionate force\" against their fans before Sunday's 5-0 win away at Elche.",
     "Barcelona accuse police of using \"disproportionate force\" against their fans before Sunday's 5-0 win away at Elche.",
@@ -238,7 +320,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-24T15:13:24.000Z",
-   "fetched_at": "2026-08-24T16:38:16.977Z",
+   "fetched_at": "2026-08-24T17:31:32.020Z",
    "body": [
     "Our briefing: Barcelona target left exposed after draw with Villarreal as supporters vented their fury at his ‘dream’ to leave Julián Alvarez entered a long, dark tunnel on his own.…",
     "Barcelona target left exposed after draw with Villarreal as supporters vented their fury at his ‘dream’ to leave Julián Alvarez entered a long, dark tunnel on his own. “We’re stronger together,” Giuliano Simeone said but that wasn’t the way it went. At the end of their first home game of the season, a 2-2 draw with Villarreal, all of Atlético Madrid’s players gathered by the centre circle, shook hands with their opponents and each other, then headed towards the south end of the Metropolitano.",
@@ -249,8 +331,8 @@
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Badalik_Szabolcs_Hungarian_beach_soccer_player.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "Badalik Szabolcs — CC BY 4.0"
   },
   {
    "id": "bbc-does-elliott-have-liverpool-future-after-latest-",
@@ -263,7 +345,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-24T14:23:54.000Z",
-   "fetched_at": "2026-08-24T16:38:16.811Z",
+   "fetched_at": "2026-08-24T17:31:31.927Z",
    "body": [
     "Our briefing: Harvey Elliott's position at Liverpool looks uncertain following his absence from the matchday squad at Newcastle on the opening weekend of the Premier League season.",
     "Harvey Elliott's position at Liverpool looks uncertain following his absence from the matchday squad at Newcastle on the opening weekend of the Premier League season.",
@@ -284,7 +366,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-24T14:15:19.000Z",
-   "fetched_at": "2026-08-24T16:38:16.812Z",
+   "fetched_at": "2026-08-24T17:31:31.927Z",
    "body": [
     "Our briefing: Derek McInnes could be in the stand for his first Old Firm match as Rangers manager after a hearing date of 31 August was set for his appeal against a touchline ban.",
     "Derek McInnes could be in the stand for his first Old Firm match as Rangers manager after a hearing date of 31 August was set for his appeal against a touchline ban.",
@@ -305,7 +387,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-24T14:03:52.000Z",
-   "fetched_at": "2026-08-24T16:38:16.977Z",
+   "fetched_at": "2026-08-24T17:31:32.020Z",
    "body": [
     "Our briefing: PSG flexed their muscles, bringing Ferran Torres off the bench to save the day, but only because Rennes made them By Get French Football News On the scale of expressions…",
     "PSG flexed their muscles, bringing Ferran Torres off the bench to save the day, but only because Rennes made them By Get French Football News On the scale of expressions of prowess and power, Paris Saint-Germain bringing almost €150m worth of attacking talent off the bench – including the man who scored the winning goal in the World Cup final last month – ranks only a couple of rungs below the level of the extravagant aggression of a military parade. Imposing, dominating, reasserting, this wasn’t about expression but necessity as the reigning European champions initially floundered against a Rennes team that lived up to their billing as the best of the rest in Ligue 1. PSG were forced into rolling out their new attacking arsenal early.",
@@ -327,7 +409,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-24T13:55:16.000Z",
-   "fetched_at": "2026-08-24T16:38:16.977Z",
+   "fetched_at": "2026-08-24T17:31:32.020Z",
    "body": [
     "Our briefing: Sign up now! Sign up now! Sign up now? Sign up now! While the opening round of Premier League fixtures hasn’t yet concluded, Football Daily can’t be alone in having…",
     "Sign up now! Sign up now! Sign up now?",
@@ -354,7 +436,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-24T13:29:22.000Z",
-   "fetched_at": "2026-08-24T16:38:16.814Z",
+   "fetched_at": "2026-08-24T17:31:31.930Z",
    "body": [
     "Our briefing: Girona winger Kim Min-Su is expected to arrive in Glasgow in the next 48 hours before a prospective move to Rangers.",
     "Girona winger Kim Min-Su is expected to arrive in Glasgow in the next 48 hours before a prospective move to Rangers.",
@@ -375,7 +457,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-24T13:25:55.000Z",
-   "fetched_at": "2026-08-24T16:38:16.978Z",
+   "fetched_at": "2026-08-24T17:31:32.021Z",
    "body": [
     "Our briefing: Max Rushden is joined by Barry Glendenning , Lars Sivertsen and Sam Dalling as United and Spurs have dismal starts to their seasons Continue reading...",
     "Max Rushden is joined by Barry Glendenning , Lars Sivertsen and Sam Dalling as United and Spurs have dismal starts to their seasons Continue reading...",
@@ -396,7 +478,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-24T13:09:40.000Z",
-   "fetched_at": "2026-08-24T16:38:17.217Z",
+   "fetched_at": "2026-08-24T17:31:32.060Z",
    "body": [
     "Our briefing: Florian Wirtz and Alexander Isak struggled to make an impression against Newcastle on Sunday",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -416,7 +498,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-24T13:02:05.000Z",
-   "fetched_at": "2026-08-24T16:38:16.812Z",
+   "fetched_at": "2026-08-24T17:31:31.927Z",
    "body": [
     "Our briefing: West Bromwich Albion head coach James Morrison says the FA have \"opened a can of worms\" over Aune Heggebo's two-match ban for deception.",
     "West Bromwich Albion head coach James Morrison says the FA have \"opened a can of worms\" over Aune Heggebo's two-match ban for deception.",
@@ -479,7 +561,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-24T11:19:32.000Z",
-   "fetched_at": "2026-08-24T16:38:16.977Z",
+   "fetched_at": "2026-08-24T17:31:32.020Z",
    "body": [
     "Our briefing: Rossoneri overcome fascinating first challenge at Torino as teams across Serie A give homegrown talent a chance “I love Cissè. I love Cissè.” Ruben Amorim had not yet…",
     "Rossoneri overcome fascinating first challenge at Torino as teams across Serie A give homegrown talent a chance “I love Cissè. I love Cissè. ” Ruben Amorim had not yet taken charge of his first competitive game as Milan head coach but already he was furnishing journalists with soundbites and supporters with memes, clippable moments that you just knew we were destined to revisit.",
@@ -502,7 +584,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-24T11:13:53.000Z",
-   "fetched_at": "2026-08-24T16:38:16.812Z",
+   "fetched_at": "2026-08-24T17:31:31.928Z",
    "body": [
     "Our briefing: Dutch side SC Cambuur says fans were left with \"burns, hearing damage and eye injuries\" after Feyenoord supporters threw fireworks during Sunday's Eredivisie match.",
     "Dutch side SC Cambuur says fans were left with \"burns, hearing damage and eye injuries\" after Feyenoord supporters threw fireworks during Sunday's Eredivisie match.",
@@ -523,7 +605,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-24T11:10:34.000Z",
-   "fetched_at": "2026-08-24T16:38:17.217Z",
+   "fetched_at": "2026-08-24T17:31:32.060Z",
    "body": [
     "Our briefing: The current Reds captain believes Szoboszlai has the qualities to replace him as Liverpool’s leader",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -543,7 +625,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-24T10:53:58.000Z",
-   "fetched_at": "2026-08-24T16:38:17.217Z",
+   "fetched_at": "2026-08-24T17:31:32.060Z",
    "body": [
     "Our briefing: The Argentina forward had been thought to prefer a switch to Barcelona, but tension between the Spanish clubs could alter things ahead of next week’s deadline",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -563,7 +645,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-24T10:43:41.000Z",
-   "fetched_at": "2026-08-24T16:38:16.978Z",
+   "fetched_at": "2026-08-24T17:31:32.021Z",
    "body": [
     "Our briefing: Leagues stopped rights packages in Russia in 2022 They are considering legal action against Football TV The English Football League and Scottish Professional Football…",
     "Leagues stopped rights packages in Russia in 2022 They are considering legal action against Football TV The English Football League and Scottish Professional Football League have launched investigations and are considering legal action after discovering that television coverage of their matches has been broadcast in Russia this season. Football TV, a Russian subscription and streaming service, has broadcast numerous games from the opening two rounds of the EFL, as well as Scottish Premiership matches featuring Celtic, Rangers and Hearts. Continue reading...",
@@ -584,7 +666,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-24T09:45:04.000Z",
-   "fetched_at": "2026-08-24T16:38:17.217Z",
+   "fetched_at": "2026-08-24T17:31:32.060Z",
    "body": [
     "Our briefing: Play had to be halted for around 20 minutes during the first half of Sunday’s top-flight match in the Netherlands",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -604,7 +686,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-24T09:06:00.000Z",
-   "fetched_at": "2026-08-24T16:38:17.217Z",
+   "fetched_at": "2026-08-24T17:31:32.060Z",
    "body": [
     "Our briefing: The Reds have seen two bids, with the highest £60m, rejected for the Brighton winger as Andoni Iraola assembles his squad for a debut campaign after an opening weekend…",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -624,7 +706,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-24T08:59:00.000Z",
-   "fetched_at": "2026-08-24T16:38:16.812Z",
+   "fetched_at": "2026-08-24T17:31:31.928Z",
    "body": [
     "Our briefing: Rick Edwards, Luke Edwards, Charlie Austin & Dean Holden discuss the opening weekend.",
     "Rick Edwards, Luke Edwards, Charlie Austin & Dean Holden discuss the opening weekend.",
@@ -645,7 +727,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-24T08:14:59.000Z",
-   "fetched_at": "2026-08-24T16:38:17.217Z",
+   "fetched_at": "2026-08-24T17:31:32.060Z",
    "body": [
     "Our briefing: Maradona scored a controversial goal against England in the 1986 World Cup",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -665,15 +747,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-24T08:06:26.000Z",
-   "fetched_at": "2026-08-24T16:38:16.812Z",
+   "fetched_at": "2026-08-24T17:31:31.928Z",
    "body": [
     "Our briefing: Following a dispute over the length of his contract, will Jean-Philippe Mateta stay at Crystal Palace beyond the transfer window?",
     "Following a dispute over the length of his contract, will Jean-Philippe Mateta stay at Crystal Palace beyond the transfer window?",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "YHC — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   },
   {
    "id": "bbc-what-does-your-premiership-club-need-final-11-da",
@@ -686,15 +768,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-24T07:41:49.000Z",
-   "fetched_at": "2026-08-24T16:38:16.812Z",
+   "fetched_at": "2026-08-24T17:31:31.928Z",
    "body": [
     "Our briefing: BBC Scotland assesses the 12 top-flight clubs' needs as the transfer deadline approaches.",
     "BBC Scotland assesses the 12 top-flight clubs' needs as the transfer deadline approaches.",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Badalik_Szabolcs_Hungarian_beach_soccer_player.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "Badalik Szabolcs — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
    "id": "guardian-football-transfer-rumours-alvarez-set-arsenal-af",
@@ -707,7 +789,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-24T07:23:45.000Z",
-   "fetched_at": "2026-08-24T16:38:16.979Z",
+   "fetched_at": "2026-08-24T17:31:32.022Z",
    "body": [
     "Our briefing: Today’s rumours laugh off heartburn Booing Julián Alvarez during Atlético Madrid’s draw with Villarreal on Sunday has seemingly convinced the Argentina forward to…",
     "Today’s rumours laugh off heartburn Booing Julián Alvarez during Atlético Madrid’s draw with Villarreal on Sunday has seemingly convinced the Argentina forward to consider joining Arsenal in the window. The former Manchester City man has been kept out of the reaches of Barcelona, who may not have the funds to complete the signing, whereas the Gunners have plenty of cash to splash. Alejandro Balde was left out of the Barcelona squad as they roared past Elche, as the Catalan club open the door for a move to Manchester United.",
@@ -729,14 +811,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-24T07:11:43.000Z",
-   "fetched_at": "2026-08-24T16:38:17.217Z",
+   "fetched_at": "2026-08-24T17:31:32.060Z",
    "body": [
     "Our briefing: Ceferin has issued an ultimatum to his Fifa counterpart",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "guardian-premier-league-10-talking-points-opening-weekend",
@@ -749,7 +831,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-24T07:00:54.000Z",
-   "fetched_at": "2026-08-24T16:38:16.978Z",
+   "fetched_at": "2026-08-24T17:31:32.021Z",
    "body": [
     "Our briefing: Manchester United’s under-powered attack, Brentford’s £39m bargain and Dewsbury-Hall delivers for Everton Arsenal’s treatment of Gabriel Martinelli has been questioned by…",
     "Manchester United’s under-powered attack, Brentford’s £39m bargain and Dewsbury-Hall delivers for Everton Arsenal’s treatment of Gabriel Martinelli has been questioned by Ian Wright after the Brazil forward was left out of their squad for Friday’s opening game against Coventry. Martinelli turned down a move to Galatasaray last week after Arsenal had agreed a fee with the Turkish club and the former striker Wright revealed on Sky Sports after the Coventry game that no one at the club has spoken to the 25-year-old to discuss his future. “I know they might want him out, and a lot of people might say: ‘Yeah, it’s time for him to move him on.",
@@ -757,8 +839,8 @@
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Kashima_Soccer_Stadium_6.jpg/960px-Kashima_Soccer_Stadium_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   },
   {
    "id": "bbc-podcast-derby-win-new-championship-leader-who-wi",
@@ -771,99 +853,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-24T07:00:00.000Z",
-   "fetched_at": "2026-08-24T16:38:16.814Z",
+   "fetched_at": "2026-08-24T17:31:31.931Z",
    "body": [
     "Our briefing: Dundee Derby drama, transfer talk and a changing Championship picture.",
     "Dundee Derby drama, transfer talk and a changing Championship picture.",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "bbc-arbeloa-v-alonso-benitez-his-former-players-turn",
-   "slug": "arbeloa-v-alonso-benitez-on-his-former-players-turned-manage--turn",
-   "title": "Arbeloa v Alonso: Benitez on his former players turned managers",
-   "dek": "Former Liverpool manager Rafael Benitez on his former players Xabi Alonso and Alvaro Arbeloa who face each other as managers on Monday when Fulham host Chelsea.",
-   "description": "Former Liverpool manager Rafael Benitez on his former players Xabi Alonso and Alvaro Arbeloa who face each other as managers on Monday when Fulham host Chelsea.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-24T06:59:58.000Z",
-   "fetched_at": "2026-08-24T16:38:16.812Z",
-   "body": [
-    "Our briefing: Former Liverpool manager Rafael Benitez on his former players Xabi Alonso and Alvaro Arbeloa who face each other as managers on Monday when Fulham host Chelsea.",
-    "Former Liverpool manager Rafael Benitez on his former players Xabi Alonso and Alvaro Arbeloa who face each other as managers on Monday when Fulham host Chelsea.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Kashima_Soccer_Stadium_6.jpg/960px-Kashima_Soccer_Stadium_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-maradona-s-hand-god-ball-sells-2-5m",
-   "slug": "maradona-s-hand-of-god-ball-sells-for-2-5m--2-5m",
-   "title": "Maradona's 'Hand of God' ball sells for £2.5m",
-   "dek": "The football with which Diego Maradona scored his famous 'hand of God' goal in the 1986 World Cup quarter-final victory over England is sold at auction.",
-   "description": "The football with which Diego Maradona scored his famous 'hand of God' goal in the 1986 World Cup quarter-final victory over England is sold at auction.",
-   "category": "Match Reports",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-24T06:55:06.000Z",
-   "fetched_at": "2026-08-24T16:38:16.813Z",
-   "body": [
-    "Our briefing: The football with which Diego Maradona scored his famous 'hand of God' goal in the 1986 World Cup quarter-final victory over England is sold at auction.",
-    "The football with which Diego Maradona scored his famous 'hand of God' goal in the 1986 World Cup quarter-final victory over England is sold at auction.",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "bbc-why-are-australians-thriving-wsl-but-not-premier",
-   "slug": "why-are-australians-thriving-in-wsl-but-not-premier-league-emier",
-   "title": "Why are Australians thriving in WSL but not Premier League?",
-   "dek": "The Premier League used to feature a host of top Australians. Now there is just one player from the country in the competition, but it's a very different story in the…",
-   "description": "The Premier League used to feature a host of top Australians. Now there is just one player from the country in the competition, but it's a very different story in the WSL.",
-   "category": "Tactics & Analysis",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-24T06:51:10.000Z",
-   "fetched_at": "2026-08-24T16:38:16.813Z",
-   "body": [
-    "Our briefing: The Premier League used to feature a host of top Australians. Now there is just one player from the country in the competition, but it's a very different story in the…",
-    "The Premier League used to feature a host of top Australians. Now there is just one player from the country in the competition, but it's a very different story in the WSL.",
-    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Soccer_fans_put_town_in_siege_%28FL62506613%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506613%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "bbc-celtic-intensify-pursuit-torino-s-gineitis-gossi",
-   "slug": "celtic-intensify-pursuit-of-torino-s-gineitis-gossip-gossi",
-   "title": "Celtic intensify pursuit of Torino's Gineitis - gossip",
-   "dek": "Celtic step up midfielder chase as squad told to stay off social media.",
-   "description": "Celtic step up midfielder chase as squad told to stay off social media.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-24T06:38:50.000Z",
-   "fetched_at": "2026-08-24T13:52:10.076Z",
-   "body": [
-    "Our briefing: Celtic step up midfielder chase as squad told to stay off social media.",
-    "Celtic step up midfielder chase as squad told to stay off social media.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Celtic_Park_during_an_Old_Firm_derby_between_Celtic_FC_and_Rangers_FC.jpg/960px-Celtic_Park_during_an_Old_Firm_derby_between_Celtic_FC_and_Rangers_FC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Vincenzo.togni — CC BY-SA 4.0"
   }
  ]
 }
