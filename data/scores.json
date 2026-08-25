@@ -1,19 +1,6 @@
 {
- "generated_at": "2026-08-25T20:29:44.739Z",
+ "generated_at": "2026-08-25T20:58:09.223Z",
  "matches": [
-  {
-   "league": "La Liga",
-   "home": "Valencia",
-   "away": "Real Betis",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "live",
-   "clock": "68'",
-   "time": "68'",
-   "date": "2026-08-25T19:00Z"
-  },
   {
    "league": "Premier League",
    "home": "Crystal Palace",
@@ -26,19 +13,6 @@
    "clock": "",
    "time": "Fri, August 28th at 3:00 PM EDT",
    "date": "2026-08-28T19:00Z"
-  },
-  {
-   "league": "Serie A",
-   "home": "AC Milan",
-   "away": "Venezia",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, August 28th at 2:45 PM EDT",
-   "date": "2026-08-28T18:45Z"
   },
   {
    "league": "Bundesliga",
@@ -54,11 +28,37 @@
    "date": "2026-08-28T18:30Z"
   },
   {
+   "league": "La Liga",
+   "home": "Valencia",
+   "away": "Real Betis",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
+   "homeScore": 0,
+   "awayScore": 1,
+   "status": "live",
+   "clock": "90'+6'",
+   "time": "90'+6'",
+   "date": "2026-08-25T19:00Z"
+  },
+  {
    "league": "Ligue 1",
    "home": "Lille",
    "away": "Paris Saint-Germain",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, August 28th at 2:45 PM EDT",
+   "date": "2026-08-28T18:45Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "AC Milan",
+   "away": "Venezia",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png",
    "homeScore": 0,
    "awayScore": 0,
    "status": "pre",
