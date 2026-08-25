@@ -1,32 +1,6 @@
 {
- "generated_at": "2026-08-25T06:49:30.501Z",
+ "generated_at": "2026-08-25T07:43:48.938Z",
  "matches": [
-  {
-   "league": "La Liga",
-   "home": "Osasuna",
-   "away": "Levante",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-08-24T17:30Z"
-  },
-  {
-   "league": "La Liga",
-   "home": "Málaga",
-   "away": "Deportivo",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/99.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/90.png",
-   "homeScore": 1,
-   "awayScore": 1,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-08-24T19:30Z"
-  },
   {
    "league": "Premier League",
    "home": "Crystal Palace",
@@ -39,6 +13,19 @@
    "clock": "",
    "time": "Fri, August 28th at 3:00 PM EDT",
    "date": "2026-08-28T19:00Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Valencia",
+   "away": "Real Betis",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Tue, August 25th at 3:00 PM EDT",
+   "date": "2026-08-25T19:00Z"
   },
   {
    "league": "Bundesliga",
@@ -54,11 +41,11 @@
    "date": "2026-08-28T18:30Z"
   },
   {
-   "league": "Ligue 1",
-   "home": "Lille",
-   "away": "Paris Saint-Germain",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+   "league": "Serie A",
+   "home": "AC Milan",
+   "away": "Venezia",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png",
    "homeScore": 0,
    "awayScore": 0,
    "status": "pre",
@@ -67,11 +54,11 @@
    "date": "2026-08-28T18:45Z"
   },
   {
-   "league": "Serie A",
-   "home": "AC Milan",
-   "away": "Venezia",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png",
+   "league": "Ligue 1",
+   "home": "Lille",
+   "away": "Paris Saint-Germain",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
    "homeScore": 0,
    "awayScore": 0,
    "status": "pre",
