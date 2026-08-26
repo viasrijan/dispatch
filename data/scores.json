@@ -1,19 +1,6 @@
 {
- "generated_at": "2026-08-26T07:47:12.045Z",
+ "generated_at": "2026-08-26T08:43:56.786Z",
  "matches": [
-  {
-   "league": "Premier League",
-   "home": "Crystal Palace",
-   "away": "Manchester City",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, August 28th at 3:00 PM EDT",
-   "date": "2026-08-28T19:00Z"
-  },
   {
    "league": "La Liga",
    "home": "Real Madrid",
@@ -28,17 +15,30 @@
    "date": "2026-08-26T19:00Z"
   },
   {
-   "league": "Serie A",
-   "home": "AC Milan",
-   "away": "Venezia",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png",
+   "league": "Bundesliga",
+   "home": "Bayern Munich",
+   "away": "VfB Stuttgart",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
    "homeScore": 0,
    "awayScore": 0,
    "status": "pre",
    "clock": "",
-   "time": "Fri, August 28th at 2:45 PM EDT",
-   "date": "2026-08-28T18:45Z"
+   "time": "Fri, August 28th at 2:30 PM EDT",
+   "date": "2026-08-28T18:30Z"
+  },
+  {
+   "league": "Premier League",
+   "home": "Crystal Palace",
+   "away": "Manchester City",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, August 28th at 3:00 PM EDT",
+   "date": "2026-08-28T19:00Z"
   },
   {
    "league": "Ligue 1",
@@ -54,17 +54,17 @@
    "date": "2026-08-28T18:45Z"
   },
   {
-   "league": "Bundesliga",
-   "home": "Bayern Munich",
-   "away": "VfB Stuttgart",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+   "league": "Serie A",
+   "home": "AC Milan",
+   "away": "Venezia",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png",
    "homeScore": 0,
    "awayScore": 0,
    "status": "pre",
    "clock": "",
-   "time": "Fri, August 28th at 2:30 PM EDT",
-   "date": "2026-08-28T18:30Z"
+   "time": "Fri, August 28th at 2:45 PM EDT",
+   "date": "2026-08-28T18:45Z"
   }
  ]
 }
