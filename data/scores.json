@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-26T04:40:06.053Z",
+ "generated_at": "2026-08-26T05:35:13.065Z",
  "matches": [
   {
    "league": "Premier League",
@@ -41,19 +41,6 @@
    "date": "2026-08-28T18:45Z"
   },
   {
-   "league": "Ligue 1",
-   "home": "Lille",
-   "away": "Paris Saint-Germain",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, August 28th at 2:45 PM EDT",
-   "date": "2026-08-28T18:45Z"
-  },
-  {
    "league": "Bundesliga",
    "home": "Bayern Munich",
    "away": "VfB Stuttgart",
@@ -65,6 +52,19 @@
    "clock": "",
    "time": "Fri, August 28th at 2:30 PM EDT",
    "date": "2026-08-28T18:30Z"
+  },
+  {
+   "league": "Ligue 1",
+   "home": "Lille",
+   "away": "Paris Saint-Germain",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, August 28th at 2:45 PM EDT",
+   "date": "2026-08-28T18:45Z"
   }
  ]
 }
