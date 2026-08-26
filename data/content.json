@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-26T11:30:45.554Z",
- "updated_utc": "2026-08-26T11:30Z",
- "cycle": 29795730,
+ "generated_at": "2026-08-26T12:53:19.794Z",
+ "updated_utc": "2026-08-26T12:53Z",
+ "cycle": 29795813,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,8 +16,69 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "guardian-uefa-poised-lift-boycott-threat-after-fifa-promi",
+ "hero_id": "independent-man-city-complete-record-86m-deal-rodri-replacem",
  "articles": [
+  {
+   "id": "independent-transfer-news-live-liverpool-make-new-50m-bid-al",
+   "slug": "news-live-liverpool-make-new-50m-bid-alvarez-misses-training-id-al",
+   "title": "news LIVE: Liverpool make new £50m bid, Alvarez misses training amid Arsenal deadline, Chelsea saga twist",
+   "dek": "Barcola is expected to leave the French champions with Liverpool interested while Arsenal are pursuing a move for Atletico’s Alvarez",
+   "description": "Barcola is expected to leave the French champions with Liverpool interested while Arsenal are pursuing a move for Atletico’s Alvarez",
+   "category": "Transfers & Rumours",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-08-26T12:27:35.000Z",
+   "fetched_at": "2026-08-26T12:53:11.379Z",
+   "body": [
+    "Our briefing: Barcola is expected to leave the French champions with Liverpool interested while Arsenal are pursuing a move for Atletico’s Alvarez",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg/960px-Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
+   "id": "bbc-wrexham-close-ekomie-kabore-deals",
+   "slug": "wrexham-close-in-on-ekomie-and-kabore-deals-deals",
+   "title": "Wrexham close in on Ekomie and Kabore deals",
+   "dek": "Manchester City's Issa Kabore is poised to seal a permanent switch to Championship club Wrexham, who are also close to signing left-back Jacques Ekomie from French side…",
+   "description": "Manchester City's Issa Kabore is poised to seal a permanent switch to Championship club Wrexham, who are also close to signing left-back Jacques Ekomie from French side Angers.",
+   "category": "Transfers & Rumours",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-26T12:25:08.000Z",
+   "fetched_at": "2026-08-26T12:53:11.077Z",
+   "body": [
+    "Our briefing: Manchester City's Issa Kabore is poised to seal a permanent switch to Championship club Wrexham, who are also close to signing left-back Jacques Ekomie from French side…",
+    "Manchester City's Issa Kabore is poised to seal a permanent switch to Championship club Wrexham, who are also close to signing left-back Jacques Ekomie from French side Angers.",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "YHC — CC BY-SA 4.0"
+  },
+  {
+   "id": "independent-when-does-premier-league-summer-transfer-window-",
+   "slug": "when-does-premier-league-summer-transfer-window-close-and-wh-ndow-",
+   "title": "When does Premier League summer transfer window close and what time is the deadline?",
+   "dek": "Premier League clubs continue to spend lavishly with a number of big-money deals set to go to the wire",
+   "description": "Premier League clubs continue to spend lavishly with a number of big-money deals set to go to the wire",
+   "category": "Transfers & Rumours",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-08-26T11:44:17.000Z",
+   "fetched_at": "2026-08-26T12:53:11.379Z",
+   "body": [
+    "Our briefing: Premier League clubs continue to spend lavishly with a number of big-money deals set to go to the wire",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
+  },
   {
    "id": "guardian-uefa-poised-lift-boycott-threat-after-fifa-promi",
    "slug": "uefa-poised-to-lift-boycott-threat-after-fifa-promises-no-wo-promi",
@@ -29,7 +90,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-26T11:16:27.000Z",
-   "fetched_at": "2026-08-26T11:30:36.420Z",
+   "fetched_at": "2026-08-26T12:53:11.219Z",
    "body": [
     "Our briefing: Uefa has received guarantees after ill-fated Infantino plan European teams likely to go to under-20 Women’s World Cup Uefa is poised to drop its threatened boycott of…",
     "Uefa has received guarantees after ill-fated Infantino plan European teams likely to go to under-20 Women’s World Cup Uefa is poised to drop its threatened boycott of Fifa competitions after receiving concrete guarantees that the global governing body will never attempt a repeat of Gianni Infantino’s plan to sell stakes in the World Cup. The Guardian understands European teams are likely to be cleared for participation in the upcoming under-20 Women’s World Cup, along with subsequent tournaments, after Fifa provided the binding assurances that no equivalent of its president’s ill-fated scheme will be put on the table. Continue reading...",
@@ -50,7 +111,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-26T10:57:29.000Z",
-   "fetched_at": "2026-08-26T11:30:36.568Z",
+   "fetched_at": "2026-08-26T12:53:11.379Z",
    "body": [
     "Our briefing: Everything you need to know about the draw for the next round of the League Cup",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -70,7 +131,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-26T10:53:12.000Z",
-   "fetched_at": "2026-08-26T11:30:36.568Z",
+   "fetched_at": "2026-08-26T12:53:11.379Z",
    "body": [
     "Our briefing: The Morocco international shone for Lille last term and continued his impressive run of form at the World Cup, with the 18-year-old now a key piece in the City rebuild…",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -90,7 +151,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-26T10:53:01.000Z",
-   "fetched_at": "2026-08-26T11:30:36.568Z",
+   "fetched_at": "2026-08-26T12:53:11.379Z",
    "body": [
     "Our briefing: Nico O’Reilly picked up the PFA Young Player of the Year award on Tuesday after his breakthrough season at Manchester City",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -98,26 +159,6 @@
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Gates of Ale — CC BY-SA 3.0"
-  },
-  {
-   "id": "independent-when-does-premier-league-summer-transfer-window-",
-   "slug": "when-does-premier-league-summer-transfer-window-close-and-wh-ndow-",
-   "title": "When does Premier League summer transfer window close and what time is the deadline?",
-   "dek": "Premier League clubs continue to spend lavishly before the end",
-   "description": "Premier League clubs continue to spend lavishly before the end",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-08-26T10:51:53.000Z",
-   "fetched_at": "2026-08-26T11:30:36.568Z",
-   "body": [
-    "Our briefing: Premier League clubs continue to spend lavishly before the end",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
   },
   {
    "id": "independent-why-liverpool-can-t-host-real-madrid-champions-l",
@@ -130,7 +171,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-26T10:43:00.000Z",
-   "fetched_at": "2026-08-26T11:30:36.568Z",
+   "fetched_at": "2026-08-26T12:53:11.379Z",
    "body": [
     "Our briefing: Liverpool can still be drawn away at the Bernabeu but will not be able to host Real at Anfield this year",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
@@ -156,8 +197,7 @@
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg/960px-Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg/960px-Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
    "id": "bbc-postecoglou-subs-off-ronaldo-spark-dramatic-al-n",
@@ -170,7 +210,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-26T10:33:42.000Z",
-   "fetched_at": "2026-08-26T11:30:36.287Z",
+   "fetched_at": "2026-08-26T12:53:11.077Z",
    "body": [
     "Our briefing: Cristiano Ronaldo is taken off at half-time with his 10-man Al-Nassr side 2-0 down - but they fight back to seal a dramatic win over Al-Ettifaq.",
     "Cristiano Ronaldo is taken off at half-time with his 10-man Al-Nassr side 2-0 down - but they fight back to seal a dramatic win over Al-Ettifaq.",
@@ -191,7 +231,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-26T10:30:52.000Z",
-   "fetched_at": "2026-08-26T11:30:36.287Z",
+   "fetched_at": "2026-08-26T12:53:11.076Z",
    "body": [
     "Our briefing: Manchester City complete the signing of Morocco midfielder Ayyoub Bouaddi from Lille in a £85.6m deal on a five-year contract.",
     "Manchester City complete the signing of Morocco midfielder Ayyoub Bouaddi from Lille in a £85. 6m deal on a five-year contract.",
@@ -233,7 +273,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-26T10:29:34.000Z",
-   "fetched_at": "2026-08-26T11:30:36.568Z",
+   "fetched_at": "2026-08-26T12:53:11.380Z",
    "body": [
     "Our briefing: Infantino is continuing to cling on as Fifa president amid calls for him to resign",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -292,7 +332,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-26T10:15:43.000Z",
-   "fetched_at": "2026-08-26T11:30:36.420Z",
+   "fetched_at": "2026-08-26T12:53:11.219Z",
    "body": [
     "Our briefing: Spurs to take Marmoush on loan with obligation to buy City agree £52m Nico González sale to Newcastle Manchester City have confirmed the signing of Ayyoub Bouaddi from…",
     "Spurs to take Marmoush on loan with obligation to buy City agree £52m Nico González sale to Newcastle Manchester City have confirmed the signing of Ayyoub Bouaddi from Lille for €95m (£81. 4m) plus €5m, with the 18-year-old midfielder agreeing a five-year contract. Bouaddi’s arrival comes after City struck deals to loan Omar Marmoush to Tottenham for the season, with an obligation to buy for an initial £50m, and sell Nico González to Newcastle for £52m.",
@@ -300,8 +340,8 @@
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "YHC — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Badalik_Szabolcs_Hungarian_beach_soccer_player.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "Badalik Szabolcs — CC BY 4.0"
   },
   {
    "id": "bbc-man-city-make-offer-120m-rated-fernandez",
@@ -314,7 +354,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-26T09:55:42.000Z",
-   "fetched_at": "2026-08-26T11:30:36.287Z",
+   "fetched_at": "2026-08-26T12:53:11.076Z",
    "body": [
     "Our briefing: Manchester City are set to make an opening offer for priority midfield target Enzo Fernandez.",
     "Manchester City are set to make an opening offer for priority midfield target Enzo Fernandez.",
@@ -335,7 +375,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-26T09:31:13.000Z",
-   "fetched_at": "2026-08-26T11:30:36.568Z",
+   "fetched_at": "2026-08-26T12:53:11.380Z",
    "body": [
     "Our briefing: Marmoush is set to join his former Man City teammate Savio in north London",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -355,14 +395,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-26T09:21:47.000Z",
-   "fetched_at": "2026-08-26T11:30:36.289Z",
+   "fetched_at": "2026-08-26T12:53:11.078Z",
    "body": [
     "Our briefing: BBC Sport's Ask Me Anything team explains when the league phase draw for the 2026-27 Champions League is, as well as looking at who is in each pot",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "independent-atletico-madrid-set-julian-alvarez-transfer-dead",
@@ -375,7 +415,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-26T09:19:16.000Z",
-   "fetched_at": "2026-08-26T11:30:36.568Z",
+   "fetched_at": "2026-08-26T12:53:11.380Z",
    "body": [
     "Our briefing: The Gunners are still hopeful that the situation could tilt in their favour as we get closer to the end of the window",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -395,15 +435,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-26T09:07:26.000Z",
-   "fetched_at": "2026-08-26T11:30:36.288Z",
+   "fetched_at": "2026-08-26T12:53:11.077Z",
    "body": [
     "Our briefing: Aston Villa make a move for Jean-Philippe Mateta and Nicolas Jackson, Manchester United eye a promising defender, and Manchester City aren't ready to give up on signing…",
     "Aston Villa make a move for Jean-Philippe Mateta and Nicolas Jackson, Manchester United eye a promising defender, and Manchester City aren't ready to give up on signing Enzo Fernandez.",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Badalik_Szabolcs_Hungarian_beach_soccer_player.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "Badalik Szabolcs — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
   },
   {
    "id": "bbc-no-major-damage-forfar-player-after-game-abandon",
@@ -416,7 +456,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-26T08:57:38.000Z",
-   "fetched_at": "2026-08-26T11:30:36.289Z",
+   "fetched_at": "2026-08-26T12:53:11.078Z",
    "body": [
     "Our briefing: Forfar Athletic say Adam Livingstone has not suffered any major damage after Tuesday's Challenge Cup match against Formartine United was abandoned because of a neck…",
     "Forfar Athletic say Adam Livingstone has not suffered any major damage after Tuesday's Challenge Cup match against Formartine United was abandoned because of a neck injury suffered by the defender.",
@@ -437,7 +477,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-26T08:34:29.000Z",
-   "fetched_at": "2026-08-26T11:30:36.420Z",
+   "fetched_at": "2026-08-26T12:53:11.219Z",
    "body": [
     "Our briefing: Former England forward crashed on M3 in late May Sterling is also accused of failing to provide a specimen The former England forward Raheem Sterling has been charged…",
     "Former England forward crashed on M3 in late May Sterling is also accused of failing to provide a specimen The former England forward Raheem Sterling has been charged with dangerous driving and possession of nitrous oxide after a crash involving a Lamborghini on the motorway, police have said. Hampshire and Isle of Wight constabulary said the charges followed a single-vehicle collision on the M3 southbound, near Minley interchange, on 28 May. The 31-year-old is accused of dangerous driving, possession of nitrous oxide for wrongful inhalation and failing to provide a specimen.",
@@ -459,7 +499,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-26T08:18:41.000Z",
-   "fetched_at": "2026-08-26T11:30:36.287Z",
+   "fetched_at": "2026-08-26T12:53:11.077Z",
    "body": [
     "Our briefing: Tottenham agree a loan deal to sign Manchester City forward Omar Marmoush, with an obligation to make the deal permanent for £60m next summer.",
     "Tottenham agree a loan deal to sign Manchester City forward Omar Marmoush, with an obligation to make the deal permanent for £60m next summer.",
@@ -480,7 +520,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-26T08:13:30.000Z",
-   "fetched_at": "2026-08-26T11:30:36.420Z",
+   "fetched_at": "2026-08-26T12:53:11.219Z",
    "body": [
     "Our briefing: Today’s fluff is splashing out regardless Liam Delap may not have broken any records during his time with Chelsea but he is setting one on his way out the door. The…",
     "Today’s fluff is splashing out regardless Liam Delap may not have broken any records during his time with Chelsea but he is setting one on his way out the door. The England youth international is thought to be breaking Nottingham Forest’s transfer fee record with Oliver Glasner bringing him in for an expected £50m . The fee comes despite a disappointing 2025-26 season with the 23-year-old striker scoring only one Premier League goal.",
@@ -502,14 +542,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-26T07:59:50.000Z",
-   "fetched_at": "2026-08-26T11:30:36.287Z",
+   "fetched_at": "2026-08-26T12:53:11.077Z",
    "body": [
     "Our briefing: Newcastle United agree a deal worth up to £52m for Manchester City midfielder Nico Gonzalez.",
     "Newcastle United agree a deal worth up to £52m for Manchester City midfielder Nico Gonzalez.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Waiting_for_Manchester_City_football_club_open-top_bus%2C_Oxford_Road%2C_Manchester_01.jpg/960px-Waiting_for_Manchester_City_football_club_open-top_bus%2C_Oxford_Road%2C_Manchester_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Waiting_for_Manchester_City_football_club_open-top_bus%2C_Oxford_Road%2C_Manchester_02.jpg/960px-Waiting_for_Manchester_City_football_club_open-top_bus%2C_Oxford_Road%2C_Manchester_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
   },
   {
@@ -542,15 +582,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-26T07:42:51.000Z",
-   "fetched_at": "2026-08-26T11:30:36.287Z",
+   "fetched_at": "2026-08-26T12:53:11.077Z",
    "body": [
     "Our briefing: Raheem Sterling will appear in court next month to face charges of dangerous driving after crashing his car into motorway barriers in May.",
     "Raheem Sterling will appear in court next month to face charges of dangerous driving after crashing his car into motorway barriers in May.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/CPSL_2005_semifinals_-_Esther_Shiner_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "Robin Glover — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "bbc-celtic-face-competition-bosnia-star-gossip",
@@ -563,7 +603,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-26T07:41:21.000Z",
-   "fetched_at": "2026-08-26T11:30:36.289Z",
+   "fetched_at": "2026-08-26T12:53:11.078Z",
    "body": [
     "Our briefing: PAOK emerge as contenders for Celtic-linked midfielder, while Falkirk close in on another loan deal.",
     "PAOK emerge as contenders for Celtic-linked midfielder, while Falkirk close in on another loan deal.",
@@ -603,7 +643,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-26T07:37:56.000Z",
-   "fetched_at": "2026-08-26T11:30:36.420Z",
+   "fetched_at": "2026-08-26T12:53:11.219Z",
    "body": [
     "Our briefing: Celtic lose against Lask in qualifier from 4-0 up on aggregate ‘That’s my team and that’s my responsibility,’ O’Neill says Martin O’Neill has admitted that Celtic’s…",
     "Celtic lose against Lask in qualifier from 4-0 up on aggregate ‘That’s my team and that’s my responsibility,’ O’Neill says Martin O’Neill has admitted that Celtic’s Champions League qualifying collapse from 4-0 up ranks as one of his most painful nights as the club’s manager. Celtic held a four-goal aggregate lead against Lask on Tuesday when Callum McGregor scored in the 21st minute in Austria, building on a 3-0 first-leg victory , and appeared to be cruising into the league stage. But they lost 5-1 on the night after extra time to go out in extraordinary fashion.",
@@ -625,15 +665,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-26T07:26:26.000Z",
-   "fetched_at": "2026-08-26T11:30:36.287Z",
+   "fetched_at": "2026-08-26T12:53:11.077Z",
    "body": [
     "Our briefing: From changing culture to investment and criticism, BBC Sport NI examines the Irish League's ever-changing relationship with gambling.",
     "From changing culture to investment and criticism, BBC Sport NI examines the Irish League's ever-changing relationship with gambling.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/CPSL_2005_semifinals_-_Esther_Shiner_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "Robin Glover — CC BY 4.0"
   },
   {
    "id": "independent-pressure-problem-behind-liverpool-s-transfer-puz",
@@ -646,7 +686,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-26T07:19:44.000Z",
-   "fetched_at": "2026-08-26T11:30:36.568Z",
+   "fetched_at": "2026-08-26T12:53:11.380Z",
    "body": [
     "Our briefing: Reinforcements are needed if Andoni Iraola’s football is to be a success at Anfield – but, Miguel Delaney explains, choosing where to invest is not easy",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -666,7 +706,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-26T07:00:36.000Z",
-   "fetched_at": "2026-08-26T11:30:36.420Z",
+   "fetched_at": "2026-08-26T12:53:11.219Z",
    "body": [
     "Our briefing: Plus: player-managers earning international caps, out-of-position goalkeepers sent off and footballers called up to jury service Mail us with your all of your questions…",
     "Plus: player-managers earning international caps, out-of-position goalkeepers sent off and footballers called up to jury service Mail us with your all of your questions and answers “After watching Dom Ballard’s backheel volley for Bristol City against Birmingham in game week two of the Championship, it begs the question: what’s the earliest in a season a goal has gone on to win goal of the season? ” asks Ricardio Sentulio. There is no doubting Dom Ballard’s outrageous flick for Bristol City at Birmingham City should be a Puskás contender, especially with his finish kissing the crossbar on its way in, and has a very good chance of being the best goal scored in the 2026-27 Championship season, even though there is a long way to go.",
@@ -709,7 +749,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-26T06:52:56.000Z",
-   "fetched_at": "2026-08-26T11:30:36.287Z",
+   "fetched_at": "2026-08-26T12:53:11.077Z",
    "body": [
     "Our briefing: When Callum McGregor eviscerated his own team-mates in the wake of Celtic's stupefying Champions League collapse against LASK, he delivered their one coherent moment of a…",
     "When Callum McGregor eviscerated his own team-mates in the wake of Celtic's stupefying Champions League collapse against LASK, he delivered their one coherent moment of a spineless night, writes Tom English.",
@@ -730,7 +770,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-26T06:33:23.000Z",
-   "fetched_at": "2026-08-26T11:30:36.568Z",
+   "fetched_at": "2026-08-26T12:53:11.380Z",
    "body": [
     "Our briefing: Celtic were 4-0 up on aggregate against LASK but went on to lose 5-1 to shockingly miss out on Champions League qualification",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -750,7 +790,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-26T06:04:34.000Z",
-   "fetched_at": "2026-08-26T11:30:36.287Z",
+   "fetched_at": "2026-08-26T12:53:11.077Z",
    "body": [
     "Our briefing: Liverpool's draw at Newcastle emphasised once again their midfield fragility but will they act in the market and bring in a defensive-minded player?",
     "Liverpool's draw at Newcastle emphasised once again their midfield fragility but will they act in the market and bring in a defensive-minded player?",
@@ -771,7 +811,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-26T05:41:12.000Z",
-   "fetched_at": "2026-08-26T11:30:36.288Z",
+   "fetched_at": "2026-08-26T12:53:11.077Z",
    "body": [
     "Our briefing: Joao Pedro took just 31 seconds to score his opening goal of the season - will the new number nine reach the 20 he scored last season while wearing the number 20 shirt?",
     "Joao Pedro took just 31 seconds to score his opening goal of the season - will the new number nine reach the 20 he scored last season while wearing the number 20 shirt?",
@@ -792,7 +832,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-26T05:17:10.000Z",
-   "fetched_at": "2026-08-26T11:30:36.288Z",
+   "fetched_at": "2026-08-26T12:53:11.077Z",
    "body": [
     "Our briefing: Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
     "Test your ball knowledge with today's Who Am I? , Five in Five and Brainteaser.",
@@ -801,48 +841,6 @@
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-taekwondo-stats-1m-record-rise-arsenal-striker-s",
-   "slug": "taekwondo-stats-and-1m-record-the-rise-of-arsenal-striker-sm-ker-s",
-   "title": "Taekwondo, stats and £1m record - the rise of Arsenal striker Smith",
-   "dek": "Olivia Smith's career has been in the limelight since she was 15 - but she had been preparing herself for it even before she was a professional footballer.",
-   "description": "Olivia Smith's career has been in the limelight since she was 15 - but she had been preparing herself for it even before she was a professional footballer.",
-   "category": "News",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-26T05:16:06.000Z",
-   "fetched_at": "2026-08-26T11:30:36.288Z",
-   "body": [
-    "Our briefing: Olivia Smith's career has been in the limelight since she was 15 - but she had been preparing herself for it even before she was a professional footballer.",
-    "Olivia Smith's career has been in the limelight since she was 15 - but she had been preparing herself for it even before she was a professional footballer.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Arsenal_Stadium_Highbury_east_facade.jpg/960px-Arsenal_Stadium_Highbury_east_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "No machine-readable author provided. Qwghlm~commonswiki assumed (based on copyright claims). — CC BY-SA 3.0"
-  },
-  {
-   "id": "bbc-taekwondo-stats-painful-goodbyes-how-smith-becam",
-   "slug": "taekwondo-stats-painful-goodbyes-how-smith-became-women-s-fi-becam",
-   "title": "Taekwondo, stats, painful goodbyes - how Smith became women's first £1m player",
-   "dek": "Olivia Smith's career has been in the limelight since she was 15 - but she had been preparing herself for it even before she was a professional footballer.",
-   "description": "Olivia Smith's career has been in the limelight since she was 15 - but she had been preparing herself for it even before she was a professional footballer.",
-   "category": "Tactics & Analysis",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-26T05:16:06.000Z",
-   "fetched_at": "2026-08-26T05:35:07.169Z",
-   "body": [
-    "Our briefing: Olivia Smith's career has been in the limelight since she was 15 - but she had been preparing herself for it even before she was a professional footballer.",
-    "Olivia Smith's career has been in the limelight since she was 15 - but she had been preparing herself for it even before she was a professional footballer.",
-    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
   }
  ]
 }
