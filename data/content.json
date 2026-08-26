@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-26T08:43:56.785Z",
- "updated_utc": "2026-08-26T08:43Z",
- "cycle": 29795563,
+ "generated_at": "2026-08-26T09:41:59.470Z",
+ "updated_utc": "2026-08-26T09:41Z",
+ "cycle": 29795621,
  "sources_used": [
   {
    "id": "bbc",
@@ -10,10 +10,98 @@
   {
    "id": "guardian",
    "name": "The Guardian"
+  },
+  {
+   "id": "independent",
+   "name": "The Independent"
   }
  ],
  "hero_id": "guardian-football-transfer-rumours-jean-philippe-mateta-a",
  "articles": [
+  {
+   "id": "bbc-when-champions-league-draw-who-each-pot",
+   "slug": "when-is-the-champions-league-draw-and-who-is-in-each-pot-h-pot",
+   "title": "When is the Champions League draw and who is in each pot?",
+   "dek": "BBC Sport's Ask Me Anything team explains when the league phase draw for the 2026-27 Champions League is, as well as looking at who is in each pot",
+   "description": "BBC Sport's Ask Me Anything team explains when the league phase draw for the 2026-27 Champions League is, as well as looking at who is in each pot",
+   "category": "Match Reports",
+   "league": "Champions League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-26T09:21:47.000Z",
+   "fetched_at": "2026-08-26T09:41:44.680Z",
+   "body": [
+    "Our briefing: BBC Sport's Ask Me Anything team explains when the league phase draw for the 2026-27 Champions League is, as well as looking at who is in each pot",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": null
+  },
+  {
+   "id": "bbc-villa-make-offer-mateta-wednesday-s-gossip",
+   "slug": "villa-make-offer-for-mateta-wednesday-s-gossip-ossip",
+   "title": "Villa make offer for Mateta - Wednesday's gossip",
+   "dek": "Aston Villa make a move for Jean-Philippe Mateta and Nicolas Jackson, Manchester United eye a promising defender, and Manchester City aren't ready to give up on signing…",
+   "description": "Aston Villa make a move for Jean-Philippe Mateta and Nicolas Jackson, Manchester United eye a promising defender, and Manchester City aren't ready to give up on signing Enzo Fernandez.",
+   "category": "Transfers & Rumours",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-26T09:07:26.000Z",
+   "fetched_at": "2026-08-26T09:41:44.678Z",
+   "body": [
+    "Our briefing: Aston Villa make a move for Jean-Philippe Mateta and Nicolas Jackson, Manchester United eye a promising defender, and Manchester City aren't ready to give up on signing…",
+    "Aston Villa make a move for Jean-Philippe Mateta and Nicolas Jackson, Manchester United eye a promising defender, and Manchester City aren't ready to give up on signing Enzo Fernandez.",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
+  },
+  {
+   "id": "bbc-no-major-damage-forfar-player-after-game-abandon",
+   "slug": "no-major-damage-for-forfar-player-after-game-abandoned-for-n-andon",
+   "title": "'No major damage' for Forfar player after game abandoned for neck injury",
+   "dek": "Forfar Athletic say Adam Livingstone has not suffered any major damage after Tuesday's Challenge Cup match against Formartine United was abandoned because of a neck…",
+   "description": "Forfar Athletic say Adam Livingstone has not suffered any major damage after Tuesday's Challenge Cup match against Formartine United was abandoned because of a neck injury suffered by the defender.",
+   "category": "Injuries",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-26T08:57:38.000Z",
+   "fetched_at": "2026-08-26T09:41:44.680Z",
+   "body": [
+    "Our briefing: Forfar Athletic say Adam Livingstone has not suffered any major damage after Tuesday's Challenge Cup match against Formartine United was abandoned because of a neck…",
+    "Forfar Athletic say Adam Livingstone has not suffered any major damage after Tuesday's Challenge Cup match against Formartine United was abandoned because of a neck injury suffered by the defender.",
+    "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Health_Report-_Soccer_Concussions.webm/500px--Health_Report-_Soccer_Concussions.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "imageCredit": null
+  },
+  {
+   "id": "guardian-raheem-sterling-charged-dangerous-driving-nitrou",
+   "slug": "raheem-sterling-charged-with-dangerous-driving-and-nitrous-o-itrou",
+   "title": "Raheem Sterling charged with dangerous driving and nitrous oxide possession",
+   "dek": "Former England forward crashed on M3 in late May Sterling is also accused of failing to provide a specimen The former England forward Raheem Sterling has been charged…",
+   "description": "Former England forward crashed on M3 in late May Sterling is also accused of failing to provide a specimen The former England forward Raheem Sterling has been charged with dangerous driving and possession of nitrous oxide after a crash involving a Lamborghini on the motorway, police have said. Hampshire and Isle of Wight constabulary said the charges followed a single-vehicle collision on the M3 southbound, near Minley interchange, on 28 May. The 31-year-old is accused of dangerous driving, possession of nitrous oxide for wrongful inhalation and failing to provide a specimen. Continue reading...",
+   "category": "News",
+   "league": "Football",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-08-26T08:34:29.000Z",
+   "fetched_at": "2026-08-26T09:41:44.880Z",
+   "body": [
+    "Our briefing: Former England forward crashed on M3 in late May Sterling is also accused of failing to provide a specimen The former England forward Raheem Sterling has been charged…",
+    "Former England forward crashed on M3 in late May Sterling is also accused of failing to provide a specimen The former England forward Raheem Sterling has been charged with dangerous driving and possession of nitrous oxide after a crash involving a Lamborghini on the motorway, police have said. Hampshire and Isle of Wight constabulary said the charges followed a single-vehicle collision on the M3 southbound, near Minley interchange, on 28 May. The 31-year-old is accused of dangerous driving, possession of nitrous oxide for wrongful inhalation and failing to provide a specimen.",
+    "Continue reading...",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "John Shorten — CC BY 4.0"
+  },
   {
    "id": "bbc-tottenham-agree-loan-man-city-s-marmoush",
    "slug": "tottenham-agree-loan-for-man-city-s-marmoush-moush",
@@ -25,7 +113,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-26T08:18:41.000Z",
-   "fetched_at": "2026-08-26T08:43:35.197Z",
+   "fetched_at": "2026-08-26T09:41:44.678Z",
    "body": [
     "Our briefing: Tottenham agree a loan deal to sign Manchester City forward Omar Marmoush, with an obligation to make the deal permanent for £60m next summer.",
     "Tottenham agree a loan deal to sign Manchester City forward Omar Marmoush, with an obligation to make the deal permanent for £60m next summer.",
@@ -46,7 +134,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-26T08:13:30.000Z",
-   "fetched_at": "2026-08-26T08:43:35.293Z",
+   "fetched_at": "2026-08-26T09:41:44.880Z",
    "body": [
     "Our briefing: Today’s fluff is splashing out regardless Liam Delap may not have broken any records during his time with Chelsea but he is setting one on his way out the door. The…",
     "Today’s fluff is splashing out regardless Liam Delap may not have broken any records during his time with Chelsea but he is setting one on his way out the door. The England youth international is thought to be breaking Nottingham Forest’s transfer fee record with Oliver Glasner bringing him in for an expected £50m . The fee comes despite a disappointing 2025-26 season with the 23-year-old striker scoring only one Premier League goal.",
@@ -68,7 +156,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-26T07:59:50.000Z",
-   "fetched_at": "2026-08-26T08:43:35.197Z",
+   "fetched_at": "2026-08-26T09:41:44.678Z",
    "body": [
     "Our briefing: Newcastle United agree a deal worth up to £52m for Manchester City midfielder Nico Gonzalez.",
     "Newcastle United agree a deal worth up to £52m for Manchester City midfielder Nico Gonzalez.",
@@ -77,6 +165,26 @@
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Manchester_City_dressing_room_2022.jpg/960px-Manchester_City_dressing_room_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Christian David — CC BY-SA 4.0"
+  },
+  {
+   "id": "independent-transfer-news-live-liverpool-get-barcola-boost-a",
+   "slug": "news-live-liverpool-get-barcola-boost-alvarez-to-arsenal-lat-ost-a",
+   "title": "news LIVE: Liverpool get Barcola boost, Alvarez to Arsenal latest, Enzo saga takes twist",
+   "dek": "Barcola is expected to leave the French champions with Liverpool interested while Arsenal are pursuing a move for Atletico’s Alvarez",
+   "description": "Barcola is expected to leave the French champions with Liverpool interested while Arsenal are pursuing a move for Atletico’s Alvarez",
+   "category": "Transfers & Rumours",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-08-26T07:55:35.000Z",
+   "fetched_at": "2026-08-26T09:41:45.076Z",
+   "body": [
+    "Our briefing: Barcola is expected to leave the French champions with Liverpool interested while Arsenal are pursuing a move for Atletico’s Alvarez",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg/960px-Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "bbc-sterling-charged-dangerous-driving-after-crash",
@@ -89,15 +197,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-26T07:42:51.000Z",
-   "fetched_at": "2026-08-26T08:43:35.197Z",
+   "fetched_at": "2026-08-26T09:41:44.678Z",
    "body": [
     "Our briefing: Raheem Sterling will appear in court next month to face charges of dangerous driving after crashing his car into motorway barriers in May.",
     "Raheem Sterling will appear in court next month to face charges of dangerous driving after crashing his car into motorway barriers in May.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "John Shorten — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
   },
   {
    "id": "bbc-celtic-face-competition-bosnia-star-gossip",
@@ -110,7 +218,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-26T07:41:21.000Z",
-   "fetched_at": "2026-08-26T08:43:35.201Z",
+   "fetched_at": "2026-08-26T09:41:44.680Z",
    "body": [
     "Our briefing: PAOK emerge as contenders for Celtic-linked midfielder, while Falkirk close in on another loan deal.",
     "PAOK emerge as contenders for Celtic-linked midfielder, while Falkirk close in on another loan deal.",
@@ -119,6 +227,48 @@
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Seville_celtic_fans.jpg/960px-Seville_celtic_fans.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Vintagekits at English Wikipedia — CC BY 2.5"
+  },
+  {
+   "id": "independent-when-carabao-cup-third-round-draw-date-start-tim",
+   "slug": "when-is-the-carabao-cup-third-round-draw-date-start-time-and-t-tim",
+   "title": "When is the Carabao Cup third-round draw? Date, start time and how to watch",
+   "dek": "Everything you need to know about the draw for the next round of the League Cup",
+   "description": "Everything you need to know about the draw for the next round of the League Cup",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-08-26T07:37:57.000Z",
+   "fetched_at": "2026-08-26T09:41:45.076Z",
+   "body": [
+    "Our briefing: Everything you need to know about the draw for the next round of the League Cup",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
+   "id": "guardian-martin-o-neill-puts-champions-league-collapse-am",
+   "slug": "martin-o-neill-puts-champions-league-collapse-among-most-pai-se-am",
+   "title": "Martin O’Neill puts Champions League collapse among most painful Celtic nights",
+   "dek": "Celtic lose to Lask in qualifier from 4-0 up on aggregate ‘That’s my team and that’s my responsibility,’ O’Neill says Martin O’Neill has admitted Celtic’s Champions…",
+   "description": "Celtic lose to Lask in qualifier from 4-0 up on aggregate ‘That’s my team and that’s my responsibility,’ O’Neill says Martin O’Neill has admitted Celtic’s Champions League qualifying collapse from 4-0 up ranks as one of his most painful nights as the club’s manager. Celtic held a four-goal aggregate lead against Lask on Tuesday when Callum McGregor scored in the 21st minute in Austria, building on a 3-0 first-leg victory , and appeared to be cruising into the league stage. But they lost 5-1 on the night after extra time to go out in extraordinary fashion. Continue reading...",
+   "category": "Match Reports",
+   "league": "Champions League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-08-26T07:37:56.000Z",
+   "fetched_at": "2026-08-26T09:41:44.879Z",
+   "body": [
+    "Our briefing: Celtic lose to Lask in qualifier from 4-0 up on aggregate ‘That’s my team and that’s my responsibility,’ O’Neill says Martin O’Neill has admitted Celtic’s Champions…",
+    "Celtic lose to Lask in qualifier from 4-0 up on aggregate ‘That’s my team and that’s my responsibility,’ O’Neill says Martin O’Neill has admitted Celtic’s Champions League qualifying collapse from 4-0 up ranks as one of his most painful nights as the club’s manager. Celtic held a four-goal aggregate lead against Lask on Tuesday when Callum McGregor scored in the 21st minute in Austria, building on a 3-0 first-leg victory , and appeared to be cruising into the league stage. But they lost 5-1 on the night after extra time to go out in extraordinary fashion.",
+    "Continue reading...",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Match_Day_Celtic_Park_-_geograph.org.uk_-_2596994.jpg/960px-Match_Day_Celtic_Park_-_geograph.org.uk_-_2596994.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "edward mcmaihin — CC BY-SA 2.0"
   },
   {
    "id": "bbc-relationship-between-irish-league-gambling",
@@ -131,15 +281,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-26T07:26:26.000Z",
-   "fetched_at": "2026-08-26T08:43:35.198Z",
+   "fetched_at": "2026-08-26T09:41:44.678Z",
    "body": [
     "Our briefing: From changing culture to investment and criticism, BBC Sport NI examines the Irish League's ever-changing relationship with gambling.",
     "From changing culture to investment and criticism, BBC Sport NI examines the Irish League's ever-changing relationship with gambling.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "independent-pressure-problem-behind-liverpool-s-transfer-puz",
@@ -152,7 +302,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-26T07:19:44.000Z",
-   "fetched_at": "2026-08-26T07:47:05.346Z",
+   "fetched_at": "2026-08-26T09:41:45.076Z",
    "body": [
     "Our briefing: Reinforcements are needed if Andoni Iraola’s football is to be a success at Anfield – but, Miguel Delaney explains, choosing where to invest is not easy",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -160,44 +310,6 @@
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Magistrates%27_Court%2C_Dale_Street%2C_Liverpool_2018.jpg/960px-Magistrates%27_Court%2C_Dale_Street%2C_Liverpool_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Rodhullandemu — CC BY-SA 4.0"
-  },
-  {
-   "id": "independent-when-carabao-cup-third-round-draw-date-start-tim",
-   "slug": "when-is-the-carabao-cup-third-round-draw-date-start-time-and-t-tim",
-   "title": "When is the Carabao Cup third-round draw? Date, start time and how to watch",
-   "dek": "Everything you need to know about the draw for the next round of the League Cup",
-   "description": "Everything you need to know about the draw for the next round of the League Cup",
-   "category": "Match Reports",
-   "league": "Football",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-08-26T07:13:08.000Z",
-   "fetched_at": "2026-08-26T07:47:05.346Z",
-   "body": [
-    "Our briefing: Everything you need to know about the draw for the next round of the League Cup",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-  },
-  {
-   "id": "independent-transfer-news-live-liverpool-get-barcola-boost-a",
-   "slug": "news-live-liverpool-get-barcola-boost-alvarez-to-arsenal-lat-ost-a",
-   "title": "news LIVE: Liverpool get Barcola boost, Alvarez to Arsenal latest, Enzo saga takes twist",
-   "dek": "Barcola is expected to leave the French champions with Liverpool interested while Arsenal are pursuing a move for Atletico’s Alvarez",
-   "description": "Barcola is expected to leave the French champions with Liverpool interested while Arsenal are pursuing a move for Atletico’s Alvarez",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-08-26T07:09:36.000Z",
-   "fetched_at": "2026-08-26T07:47:05.346Z",
-   "body": [
-    "Our briefing: Barcola is expected to leave the French champions with Liverpool interested while Arsenal are pursuing a move for Atletico’s Alvarez",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg/960px-Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
    "id": "guardian-after-dom-ballard-s-backheel-what-earliest-goal-",
@@ -210,7 +322,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-26T07:00:36.000Z",
-   "fetched_at": "2026-08-26T08:43:35.292Z",
+   "fetched_at": "2026-08-26T09:41:44.880Z",
    "body": [
     "Our briefing: Plus: player-managers earning international caps, out-of-position goalkeepers sent off and footballers called up to jury service Mail us with your all of your questions…",
     "Plus: player-managers earning international caps, out-of-position goalkeepers sent off and footballers called up to jury service Mail us with your all of your questions and answers “After watching Dom Ballard’s backheel volley for Bristol City against Birmingham in game week two of the Championship, it begs the question: what’s the earliest in a season a goal has gone on to win goal of the season? ” asks Ricardio Sentulio. There is no doubting Dom Ballard’s outrageous flick for Bristol City at Birmingham City should be a Puskás contender, especially with his finish kissing the crossbar on its way in, and has a very good chance of being the best goal scored in the 2026-27 Championship season, even though there is a long way to go.",
@@ -218,8 +330,8 @@
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": null
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
   },
   {
    "id": "bbc-scottish-football-podcast",
@@ -253,7 +365,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-26T06:52:56.000Z",
-   "fetched_at": "2026-08-26T08:43:35.197Z",
+   "fetched_at": "2026-08-26T09:41:44.678Z",
    "body": [
     "Our briefing: When Callum McGregor eviscerated his own team-mates in the wake of Celtic's stupefying Champions League collapse against LASK, he delivered their one coherent moment of a…",
     "When Callum McGregor eviscerated his own team-mates in the wake of Celtic's stupefying Champions League collapse against LASK, he delivered their one coherent moment of a spineless night, writes Tom English.",
@@ -274,7 +386,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-26T06:33:23.000Z",
-   "fetched_at": "2026-08-26T07:47:05.346Z",
+   "fetched_at": "2026-08-26T09:41:45.076Z",
    "body": [
     "Our briefing: Celtic were 4-0 up on aggregate against LASK but went on to lose 5-1 to shockingly miss out on Champions League qualification",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -294,7 +406,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-26T06:04:34.000Z",
-   "fetched_at": "2026-08-26T08:43:35.198Z",
+   "fetched_at": "2026-08-26T09:41:44.678Z",
    "body": [
     "Our briefing: Liverpool's draw at Newcastle emphasised once again their midfield fragility but will they act in the market and bring in a defensive-minded player?",
     "Liverpool's draw at Newcastle emphasised once again their midfield fragility but will they act in the market and bring in a defensive-minded player?",
@@ -315,7 +427,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-26T05:41:12.000Z",
-   "fetched_at": "2026-08-26T08:43:35.198Z",
+   "fetched_at": "2026-08-26T09:41:44.678Z",
    "body": [
     "Our briefing: Joao Pedro took just 31 seconds to score his opening goal of the season - will the new number nine reach the 20 he scored last season while wearing the number 20 shirt?",
     "Joao Pedro took just 31 seconds to score his opening goal of the season - will the new number nine reach the 20 he scored last season while wearing the number 20 shirt?",
@@ -336,14 +448,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-26T05:17:10.000Z",
-   "fetched_at": "2026-08-26T08:43:35.198Z",
+   "fetched_at": "2026-08-26T09:41:44.678Z",
    "body": [
     "Our briefing: Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
     "Test your ball knowledge with today's Who Am I? , Five in Five and Brainteaser.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -357,7 +469,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-26T05:16:06.000Z",
-   "fetched_at": "2026-08-26T08:43:35.198Z",
+   "fetched_at": "2026-08-26T09:41:44.678Z",
    "body": [
     "Our briefing: Olivia Smith's career has been in the limelight since she was 15 - but she had been preparing herself for it even before she was a professional footballer.",
     "Olivia Smith's career has been in the limelight since she was 15 - but she had been preparing herself for it even before she was a professional footballer.",
@@ -399,7 +511,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-26T05:00:00.000Z",
-   "fetched_at": "2026-08-26T07:47:05.346Z",
+   "fetched_at": "2026-08-26T09:41:45.076Z",
    "body": [
     "Our briefing: After a goodbye to the greats, Richard Jolly writes, has come a ruthless cull of recent poorer purchases – showing the difficulty in maintaining even a supreme squad",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -419,15 +531,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-25T23:35:46.000Z",
-   "fetched_at": "2026-08-26T08:43:35.198Z",
+   "fetched_at": "2026-08-26T09:41:44.678Z",
    "body": [
     "Our briefing: Celtic throw away a four-goal aggregate lead as they suffer a 5-4 defeat by Austrian side LASK to miss out on the Champions League for the second year in a row.",
     "Celtic throw away a four-goal aggregate lead as they suffer a 5-4 defeat by Austrian side LASK to miss out on the Champions League for the second year in a row.",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Match_Day_Celtic_Park_-_geograph.org.uk_-_2596994.jpg/960px-Match_Day_Celtic_Park_-_geograph.org.uk_-_2596994.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "edward mcmaihin — CC BY-SA 2.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Celtic_FC-FK_Sarajevo.png/960px-Celtic_FC-FK_Sarajevo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "PeppermintSA — CC BY-SA 4.0"
   },
   {
    "id": "bbc-o-neill-takes-responsibility-nowhere-hide-celtic",
@@ -461,15 +573,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-25T23:12:09.000Z",
-   "fetched_at": "2026-08-26T08:43:35.199Z",
+   "fetched_at": "2026-08-26T09:41:44.679Z",
    "body": [
     "Our briefing: BBC Scotland guides you through the timeline in Celtic's Champions League reverse in Austria.",
     "BBC Scotland guides you through the timeline in Celtic's Champions League reverse in Austria.",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Celtic_Park_stadium_on_match_day_%28geograph_7857061%29.jpg/960px-Celtic_Park_stadium_on_match_day_%28geograph_7857061%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Thomas Nugent — CC BY-SA 2.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FC_Salzburg_gegen_Celtic_FC_%284._Oktober_2918_Gruppe_B%2C_49._Spieltag%29.jpg/960px-FC_Salzburg_gegen_Celtic_FC_%284._Oktober_2918_Gruppe_B%2C_49._Spieltag%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Werner100359 — CC BY-SA 4.0"
   },
   {
    "id": "bbc-super-proud-smith-wins-consecutive-pfa-young-pla",
@@ -482,15 +594,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-25T23:06:50.000Z",
-   "fetched_at": "2026-08-26T08:43:35.201Z",
+   "fetched_at": "2026-08-26T09:41:44.680Z",
    "body": [
     "Our briefing: Arsenal's Olivia Smith wants to \"keep setting standards high\" as she receives her second consecutive PFA young player of the year award.",
     "Arsenal's Olivia Smith wants to \"keep setting standards high\" as she receives her second consecutive PFA young player of the year award.",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
    "id": "guardian-carabao-cup-roundup-leeds-beat-forest-again-bren",
@@ -547,15 +659,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-25T22:12:35.000Z",
-   "fetched_at": "2026-08-26T08:43:35.198Z",
+   "fetched_at": "2026-08-26T09:41:44.679Z",
    "body": [
     "Our briefing: Manchester City forward Khadija Shaw reacts to winning her second PFA player of the year award in three seasons.",
     "Manchester City forward Khadija Shaw reacts to winning her second PFA player of the year award in three seasons.",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   },
   {
    "id": "independent-celtic-let-four-goal-lead-slip-crash-out-champio",
@@ -568,7 +680,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-25T21:55:29.000Z",
-   "fetched_at": "2026-08-26T07:47:05.346Z",
+   "fetched_at": "2026-08-26T09:41:45.076Z",
    "body": [
     "Our briefing: LASK 5-1 Celtic a.e.t (5-4 agg.): Celtic missed out on a place in the league phase after a remarkable result in Austria",
     "LASK 5-1 Celtic a. e. t (5-4 agg.",
@@ -589,15 +701,15 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-25T21:50:00.000Z",
-   "fetched_at": "2026-08-26T08:43:35.293Z",
+   "fetched_at": "2026-08-26T09:41:44.880Z",
    "body": [
     "Our briefing: Fellow players pick Manchester United and Manchester City stars Nico O’Reilly and Olivia Smith collect young players’ honours Manchester United’s captain Bruno Fernandes…",
     "Fellow players pick Manchester United and Manchester City stars Nico O’Reilly and Olivia Smith collect young players’ honours Manchester United’s captain Bruno Fernandes has been crowned Professional Footballers’ Association Player of the Year as Manchester City’s Khadija Shaw won the women’s award for the second time. Playmaker Fernandes broke the record for Premier League assists during an outstanding 2025-26 campaign, setting up 21 goals as he surpassed Thierry Henry and Kevin De Bruyne. Continue reading...",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
    "id": "independent-champions-league-draw-date-start-time-teams-how-",
@@ -610,7 +722,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-25T21:43:05.000Z",
-   "fetched_at": "2026-08-26T07:47:05.346Z",
+   "fetched_at": "2026-08-26T09:41:45.076Z",
    "body": [
     "Our briefing: The draw for the 2026/27 Champions League 36-team league phase will take place on Thursday, 27 August",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -652,7 +764,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-25T21:30:25.000Z",
-   "fetched_at": "2026-08-26T08:43:35.292Z",
+   "fetched_at": "2026-08-26T09:41:44.880Z",
    "body": [
     "Our briefing: After an unacceptable performance against Brentford, head coach still believes they can avoid sinking feeling this season What’s in a name? Quite a bit, judging by the…",
     "After an unacceptable performance against Brentford, head coach still believes they can avoid sinking feeling this season What’s in a name? Quite a bit, judging by the discussion at Roberto De Zerbi’s Tottenham press conference on Tuesday, shortly after the club had completed the £75m signing of Savinho from Manchester City and the Brazil winger had let everybody know that he wanted to be called Sávio from now on. He will have that name on his Spurs shirt above his No 17, which he has taken over from Cristian Romero, the former captain who has moved to Atlético Madrid.",
@@ -661,8 +773,8 @@
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "YHC — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Badalik_Szabolcs_Hungarian_beach_soccer_player.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "Badalik Szabolcs — CC BY 4.0"
   },
   {
    "id": "bbc-i-m-very-proud-this-fernandes-wins-pfa-player-ye",
@@ -675,15 +787,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-25T21:29:08.000Z",
-   "fetched_at": "2026-08-26T08:43:35.198Z",
+   "fetched_at": "2026-08-26T09:41:44.679Z",
    "body": [
     "Our briefing: Manchester United captain Bruno Fernandes reacts to winning the men's 2026 PFA player of the year award.",
     "Manchester United captain Bruno Fernandes reacts to winning the men's 2026 PFA player of the year award.",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "bbc-cardiff-s-anyadike-15-sets-new-efl-cup-record-yo",
@@ -696,14 +808,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-25T21:17:12.000Z",
-   "fetched_at": "2026-08-26T08:43:35.198Z",
+   "fetched_at": "2026-08-26T09:41:44.678Z",
    "body": [
     "Our briefing: Cardiff City's Noah Anyadike, 15, becomes the youngest player in EFL Cup history after starting their second-round defeat against Norwich City.",
     "Cardiff City's Noah Anyadike, 15, becomes the youngest player in EFL Cup history after starting their second-round defeat against Norwich City.",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Kashima_Soccer_Stadium_6.jpg/960px-Kashima_Soccer_Stadium_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   },
   {
@@ -717,14 +829,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-25T21:02:32.000Z",
-   "fetched_at": "2026-08-26T08:43:35.198Z",
+   "fetched_at": "2026-08-26T09:41:44.679Z",
    "body": [
     "Our briefing: Manchester City and England full-back Nico O'Reilly says \"it feels amazing\" after receiving the 2026 PFA young player of the year award.",
     "Manchester City and England full-back Nico O'Reilly says \"it feels amazing\" after receiving the 2026 PFA young player of the year award.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -738,7 +850,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-25T20:59:03.000Z",
-   "fetched_at": "2026-08-26T08:43:35.293Z",
+   "fetched_at": "2026-08-26T09:41:44.880Z",
    "body": [
     "Our briefing: A midweek jaunt to Devon always had the makings of a tricky trip for a Coventry team focused on Premier League survival. Such feelings quickly evaporated when Frank…",
     "A midweek jaunt to Devon always had the makings of a tricky trip for a Coventry team focused on Premier League survival. Such feelings quickly evaporated when Frank Lampard’s side raced into a two-goal lead with just four minutes and six seconds on the clock, Taiwo Awoniyi opening his account for his new club before Jack Rudoni doubled Coventry’s advantage. But, ultimately, Coventry were made to toil before chalking up a welcome first victory of the season.",
@@ -747,114 +859,8 @@
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-villa-make-offer-mateta-wednesday-s-gossip",
-   "slug": "villa-make-offer-for-mateta-wednesday-s-gossip-ossip",
-   "title": "Villa make offer for Mateta - Wednesday's gossip",
-   "dek": "Aston Villa make a move for Jean-Philippe Mateta and Nicolas Jackson, Manchester United eye a promising defender, and Manchester City aren't ready to give up on signing…",
-   "description": "Aston Villa make a move for Jean-Philippe Mateta and Nicolas Jackson, Manchester United eye a promising defender, and Manchester City aren't ready to give up on signing Enzo Fernandez.",
-   "category": "Transfers & Rumours",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-25T20:12:19.000Z",
-   "fetched_at": "2026-08-26T08:43:35.198Z",
-   "body": [
-    "Our briefing: Aston Villa make a move for Jean-Philippe Mateta and Nicolas Jackson, Manchester United eye a promising defender, and Manchester City aren't ready to give up on signing…",
-    "Aston Villa make a move for Jean-Philippe Mateta and Nicolas Jackson, Manchester United eye a promising defender, and Manchester City aren't ready to give up on signing Enzo Fernandez.",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
-  },
-  {
-   "id": "bbc-wednesday-s-gossip-villa-make-offer-palace-strik",
-   "slug": "wednesday-s-gossip-villa-make-offer-for-palace-striker-matet-strik",
-   "title": "Wednesday's gossip: Villa make offer for Palace striker Mateta",
-   "dek": "Aston Villa make a move for Jean-Philippe Mateta and Nicolas Jackson, Manchester United eye a promising defender, and Manchester City aren't ready to give up on signing…",
-   "description": "Aston Villa make a move for Jean-Philippe Mateta and Nicolas Jackson, Manchester United eye a promising defender, and Manchester City aren't ready to give up on signing Enzo Fernandez.",
-   "category": "Transfers & Rumours",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-25T20:12:19.000Z",
-   "fetched_at": "2026-08-25T21:36:04.711Z",
-   "body": [
-    "Our briefing: Aston Villa make a move for Jean-Philippe Mateta and Nicolas Jackson, Manchester United eye a promising defender, and Manchester City aren't ready to give up on signing…",
-    "Aston Villa make a move for Jean-Philippe Mateta and Nicolas Jackson, Manchester United eye a promising defender, and Manchester City aren't ready to give up on signing Enzo Fernandez.",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "YHC — CC BY-SA 4.0"
-  },
-  {
-   "id": "guardian-xavi-hopes-time-university-football-will-end-dut",
-   "slug": "xavi-hopes-time-at-the-university-of-football-will-end-with--d-dut",
-   "title": "Xavi hopes time at the ‘university of football’ will end with Dutch success",
-   "dek": "Barcelona legend wants to emulate Johan Cruyff’s total football philosophy after taking over as the Netherlands head coach “My feeling today is that I’m going to the…",
-   "description": "Barcelona legend wants to emulate Johan Cruyff’s total football philosophy after taking over as the Netherlands head coach “My feeling today is that I’m going to the university of football.” Those were Xavi Hernández’s opening words at his presentation as the Netherlands coach on Tuesday. “I learned a lot from this university of football during my career as a player and as a coach. I have many connections with this country.” Those connections date back to when Xavi was drafted as a youngster into La Masia, the famed Barcelona academy whose fundamentals are rooted in Dutch total football, inspired by Rinus Michels and Johan Cruyff. Xavi’s first-team debut came under Louis van Gaal, and he spent many years under Frank Rijkaard before becoming one of the main pillars of the dream team under Pep Guardiola, who was hugely inspired by Cruyff. Continue reading...",
-   "category": "Match Reports",
-   "league": "Football",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-08-25T19:58:37.000Z",
-   "fetched_at": "2026-08-26T08:43:35.293Z",
-   "body": [
-    "Our briefing: Barcelona legend wants to emulate Johan Cruyff’s total football philosophy after taking over as the Netherlands head coach “My feeling today is that I’m going to the…",
-    "Barcelona legend wants to emulate Johan Cruyff’s total football philosophy after taking over as the Netherlands head coach “My feeling today is that I’m going to the university of football. ” Those were Xavi Hernández’s opening words at his presentation as the Netherlands coach on Tuesday. “I learned a lot from this university of football during my career as a player and as a coach.",
-    "I have many connections with this country. ” Those connections date back to when Xavi was drafted as a youngster into La Masia, the famed Barcelona academy whose fundamentals are rooted in Dutch total football, inspired by Rinus Michels and Johan Cruyff. Xavi’s first-team debut came under Louis van Gaal, and he spent many years under Frank Rijkaard before becoming one of the main pillars of the dream team under Pep Guardiola, who was hugely inspired by Cruyff.",
-    "Continue reading...",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "independent-bruno-fernandes-wins-pfa-player-year-manchester-",
-   "slug": "bruno-fernandes-wins-pfa-player-of-the-year-as-manchester-un-ster-",
-   "title": "Bruno Fernandes wins PFA Player of the Year as Manchester United captain rewarded for assists record",
-   "dek": "Portugal star given more individual recognition for his record-breaking 2025/26 campaign",
-   "description": "Portugal star given more individual recognition for his record-breaking 2025/26 campaign",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-08-25T19:56:20.000Z",
-   "fetched_at": "2026-08-26T07:47:05.346Z",
-   "body": [
-    "Our briefing: Portugal star given more individual recognition for his record-breaking 2025/26 campaign",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Manchester_United_v_Manchester_City%2C_6_November_2021_%2815%29.jpg/960px-Manchester_United_v_Manchester_City%2C_6_November_2021_%2815%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ardfern — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-fernandes-shaw-win-pfa-player-year-awards",
-   "slug": "fernandes-and-shaw-win-pfa-player-of-the-year-awards-wards",
-   "title": "Fernandes and Shaw win PFA player of the year awards",
-   "dek": "Manchester United captain Bruno Fernandes and Manchester City forward Khadija Shaw win the Professional Footballers' Associations men's and women's player of the year…",
-   "description": "Manchester United captain Bruno Fernandes and Manchester City forward Khadija Shaw win the Professional Footballers' Associations men's and women's player of the year awards.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-25T19:47:35.000Z",
-   "fetched_at": "2026-08-26T08:43:35.198Z",
-   "body": [
-    "Our briefing: Manchester United captain Bruno Fernandes and Manchester City forward Khadija Shaw win the Professional Footballers' Associations men's and women's player of the year…",
-    "Manchester United captain Bruno Fernandes and Manchester City forward Khadija Shaw win the Professional Footballers' Associations men's and women's player of the year awards.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "IPPA photographer — CC BY 4.0"
   }
  ]
 }
