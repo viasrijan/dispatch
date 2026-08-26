@@ -1,18 +1,31 @@
 {
- "generated_at": "2026-08-26T06:50:46.770Z",
+ "generated_at": "2026-08-26T07:47:12.045Z",
  "matches": [
   {
-   "league": "La Liga",
-   "home": "Valencia",
-   "away": "Real Betis",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
+   "league": "Premier League",
+   "home": "Crystal Palace",
+   "away": "Manchester City",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
    "homeScore": 0,
-   "awayScore": 1,
-   "status": "final",
+   "awayScore": 0,
+   "status": "pre",
    "clock": "",
-   "time": "FT",
-   "date": "2026-08-25T19:00Z"
+   "time": "Fri, August 28th at 3:00 PM EDT",
+   "date": "2026-08-28T19:00Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Real Madrid",
+   "away": "Real Sociedad",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Wed, August 26th at 3:00 PM EDT",
+   "date": "2026-08-26T19:00Z"
   },
   {
    "league": "Serie A",
@@ -28,17 +41,17 @@
    "date": "2026-08-28T18:45Z"
   },
   {
-   "league": "Premier League",
-   "home": "Crystal Palace",
-   "away": "Manchester City",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+   "league": "Ligue 1",
+   "home": "Lille",
+   "away": "Paris Saint-Germain",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
    "homeScore": 0,
    "awayScore": 0,
    "status": "pre",
    "clock": "",
-   "time": "Fri, August 28th at 3:00 PM EDT",
-   "date": "2026-08-28T19:00Z"
+   "time": "Fri, August 28th at 2:45 PM EDT",
+   "date": "2026-08-28T18:45Z"
   },
   {
    "league": "Bundesliga",
@@ -52,19 +65,6 @@
    "clock": "",
    "time": "Fri, August 28th at 2:30 PM EDT",
    "date": "2026-08-28T18:30Z"
-  },
-  {
-   "league": "Ligue 1",
-   "home": "Lille",
-   "away": "Paris Saint-Germain",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, August 28th at 2:45 PM EDT",
-   "date": "2026-08-28T18:45Z"
   }
  ]
 }
