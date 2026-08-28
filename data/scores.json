@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-08-28T05:08:30.179Z",
+ "generated_at": "2026-08-28T17:37:29.035Z",
  "matches": [
+  {
+   "league": "La Liga",
+   "home": "Racing Santander",
+   "away": "Elche",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
+   "homeScore": 3,
+   "awayScore": 0,
+   "status": "live",
+   "clock": "37'",
+   "time": "37'",
+   "date": "2026-08-28T17:00Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Alavés",
+   "away": "Villarreal",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, August 28th at 3:30 PM EDT",
+   "date": "2026-08-28T19:30Z"
+  },
   {
    "league": "Premier League",
    "home": "Crystal Palace",
@@ -13,32 +39,6 @@
    "clock": "",
    "time": "Fri, August 28th at 3:00 PM EDT",
    "date": "2026-08-28T19:00Z"
-  },
-  {
-   "league": "La Liga",
-   "home": "Celta Vigo",
-   "away": "Osasuna",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
-   "homeScore": 1,
-   "awayScore": 2,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-08-27T18:30Z"
-  },
-  {
-   "league": "La Liga",
-   "home": "Barcelona",
-   "away": "Athletic Club",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
-   "homeScore": 2,
-   "awayScore": 0,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-08-27T19:00Z"
   },
   {
    "league": "Serie A",
