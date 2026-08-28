@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-27T20:42:00.132Z",
- "updated_utc": "2026-08-27T20:42Z",
- "cycle": 29797722,
+ "generated_at": "2026-08-28T05:08:30.177Z",
+ "updated_utc": "2026-08-28T05:08Z",
+ "cycle": 29798228,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,8 +16,29 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "independent-transfer-news-live-alvarez-arsenal-boost-barcola",
+ "hero_id": "independent-chelsea-outline-new-enzo-fernandez-stance-amid-m",
  "articles": [
+  {
+   "id": "bbc-kane-ballon-d-or-hopes",
+   "slug": "kane-on-ballon-d-or-hopes-hopes",
+   "title": "Kane on Ballon d'Or hopes",
+   "dek": "Harry Kane discusses potential Ballon d'Or hopes after becoming the first Englishman to win Germany's footballer of the year award for the 2025-26 season.",
+   "description": "Harry Kane discusses potential Ballon d'Or hopes after becoming the first Englishman to win Germany's footballer of the year award for the 2025-26 season.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-28T05:05:59.000Z",
+   "fetched_at": "2026-08-28T05:08:07.299Z",
+   "body": [
+    "Our briefing: Harry Kane discusses potential Ballon d'Or hopes after becoming the first Englishman to win Germany's footballer of the year award for the 2025-26 season.",
+    "Harry Kane discusses potential Ballon d'Or hopes after becoming the first Englishman to win Germany's footballer of the year award for the 2025-26 season.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "John Shorten — CC BY 4.0"
+  },
   {
    "id": "independent-transfer-news-live-alvarez-arsenal-boost-barcola",
    "slug": "news-live-alvarez-to-arsenal-boost-barcola-set-for-liverpool-rcola",
@@ -28,8 +49,8 @@
    "league": "Premier League",
    "source": "independent",
    "sourceName": "The Independent",
-   "published": "2026-08-27T20:31:12.000Z",
-   "fetched_at": "2026-08-27T20:41:48.061Z",
+   "published": "2026-08-27T23:10:04.000Z",
+   "fetched_at": "2026-08-28T05:08:07.695Z",
    "body": [
     "Our briefing: Liverpool still want to sign another winger after agreeing a £100m fee, with £20m in add-ons, for top transfer target Bradley Barcola",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -37,6 +58,421 @@
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg/960px-Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
+  },
+  {
+   "id": "independent-chelsea-outline-new-enzo-fernandez-stance-amid-m",
+   "slug": "chelsea-outline-new-enzo-fernandez-stance-amid-man-city-inte-mid-m",
+   "title": "Chelsea outline new Enzo Fernandez stance amid Man City interest",
+   "dek": "Man City are expected to go with a late offer for the Argentina international",
+   "description": "Man City are expected to go with a late offer for the Argentina international",
+   "category": "News",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-08-27T23:07:58.000Z",
+   "fetched_at": "2026-08-28T05:08:07.695Z",
+   "body": [
+    "Our briefing: Man City are expected to go with a late offer for the Argentina international",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Stadium_Street%2C_Chelsea_-_geograph.org.uk_-_4585241.jpg/960px-Stadium_Street%2C_Chelsea_-_geograph.org.uk_-_4585241.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Chris Whippet — CC BY-SA 2.0"
+  },
+  {
+   "id": "guardian-premier-league-10-things-look-out-this-weekend",
+   "slug": "premier-league-10-things-to-look-out-for-this-weekend-ekend",
+   "title": "Premier League: 10 things to look out for this weekend",
+   "dek": "Liverpool need midfield nous, Michael Carrick is already under pressure and Villa can bid farewell to Enzi Konsa Enzo Maresca has a shiny new £85m midfielder he could…",
+   "description": "Liverpool need midfield nous, Michael Carrick is already under pressure and Villa can bid farewell to Enzi Konsa Enzo Maresca has a shiny new £85m midfielder he could select for a debut but, at 18 years old, he may want Ayyoub Bouaddi to have a bit of time watching on from the bench to learn about the Premier League from his elders. The Moroccan may not have anticipated one of those to be a centre-back by trade. Marc Guéhi will be eager to make a triumphant return to Crystal Palace and may well have the opportunity to do so from central midfield, where he played last weekend in the victory over Bournemouth, scoring the equaliser. The centre-back was a surprise selection in the blocker role next to Elliot Anderson, but equipped himself admirably and was not limited to the dirty work, often being found in more advanced positions in open play and happy to have the ball at his feet. His long-term future is unlikely to be outside of defence but further proof of Guéhi’s adaptability will be a positive for Maresca, as a long season awaits. Will Unwin Crystal Palace v Manchester City, Friday 8pm (all times BST) Liverpool v Nottingham Forest, Saturday 12.30pm Bournemouth v Everton, Saturday 3pm Coventry v Hull, Saturday 3pm Tottenham v Newcastle, Saturday 5.30pm Continue reading...",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-08-27T23:01:41.000Z",
+   "fetched_at": "2026-08-28T05:08:07.550Z",
+   "body": [
+    "Our briefing: Liverpool need midfield nous, Michael Carrick is already under pressure and Villa can bid farewell to Enzi Konsa Enzo Maresca has a shiny new £85m midfielder he could…",
+    "Liverpool need midfield nous, Michael Carrick is already under pressure and Villa can bid farewell to Enzi Konsa Enzo Maresca has a shiny new £85m midfielder he could select for a debut but, at 18 years old, he may want Ayyoub Bouaddi to have a bit of time watching on from the bench to learn about the Premier League from his elders. The Moroccan may not have anticipated one of those to be a centre-back by trade. Marc Guéhi will be eager to make a triumphant return to Crystal Palace and may well have the opportunity to do so from central midfield, where he played last weekend in the victory over Bournemouth, scoring the equaliser.",
+    "The centre-back was a surprise selection in the blocker role next to Elliot Anderson, but equipped himself admirably and was not limited to the dirty work, often being found in more advanced positions in open play and happy to have the ball at his feet. His long-term future is unlikely to be outside of defence but further proof of Guéhi’s adaptability will be a positive for Maresca, as a long season awaits. Will Unwin Crystal Palace v Manchester City, Friday 8pm (all times BST) Liverpool v Nottingham Forest, Saturday 12.",
+    "30pm Bournemouth v Everton, Saturday 3pm Coventry v Hull, Saturday 3pm Tottenham v Newcastle, Saturday 5. 30pm Continue reading...",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": null
+  },
+  {
+   "id": "bbc-have-expensively-assembled-rangers-improved-all-",
+   "slug": "have-expensively-assembled-rangers-improved-at-all-under-mci--all-",
+   "title": "Have expensively-assembled Rangers improved at all under McInnes?",
+   "dek": "After crashing out of the Conference League, questions are mounting for Derek McInnes at Rangers, writes Tom English.",
+   "description": "After crashing out of the Conference League, questions are mounting for Derek McInnes at Rangers, writes Tom English.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-27T22:48:29.000Z",
+   "fetched_at": "2026-08-28T05:08:07.298Z",
+   "body": [
+    "Our briefing: After crashing out of the Conference League, questions are mounting for Derek McInnes at Rangers, writes Tom English.",
+    "After crashing out of the Conference League, questions are mounting for Derek McInnes at Rangers, writes Tom English.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ibrox_Stadium%2C_Rangers_FC.jpg/960px-Ibrox_Stadium%2C_Rangers_FC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Lesterhobbes764 — CC BY-SA 4.0"
+  },
+  {
+   "id": "independent-liverpool-continue-pursuit-ismaila-sarr-crystal-",
+   "slug": "liverpool-continue-pursuit-of-ismaila-sarr-from-crystal-pala-stal-",
+   "title": "Liverpool continue pursuit of Ismaila Sarr from Crystal Palace with Cody Gakpo’s future in doubt",
+   "dek": "Andoni Iraola wants to bring in three new players before the transfer deadline",
+   "description": "Andoni Iraola wants to bring in three new players before the transfer deadline",
+   "category": "Transfers & Rumours",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-08-27T22:17:10.000Z",
+   "fetched_at": "2026-08-28T05:08:07.695Z",
+   "body": [
+    "Our briefing: Andoni Iraola wants to bring in three new players before the transfer deadline",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Magistrates%27_Court%2C_Dale_Street%2C_Liverpool_2018.jpg/960px-Magistrates%27_Court%2C_Dale_Street%2C_Liverpool_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Rodhullandemu — CC BY-SA 4.0"
+  },
+  {
+   "id": "guardian-atl-tico-madrid-chief-insists-j-lian-alvarez-wil",
+   "slug": "atl-tico-madrid-chief-insists-j-lian-alvarez-will-never-ever-z-wil",
+   "title": "Atlético Madrid chief insists Júlian Alvarez will ‘never, ever’ be sold to Barcelona",
+   "dek": "Miguel Ángel Gil Marín accuses Barça of ‘dishonesty’ Arsenal have also been linked with Argentina forward Atlético Madrid’s chief executive appeared to slam the door on…",
+   "description": "Miguel Ángel Gil Marín accuses Barça of ‘dishonesty’ Arsenal have also been linked with Argentina forward Atlético Madrid’s chief executive appeared to slam the door on Barcelona’s pursuit of Júlian Alvarez on Thursday. Miguel Ángel Gil Marín accused the Catalan club of dishonesty and insisted the Argentina forward would “never, ever” be sold to them. Speaking to Spanish broadcaster Movistar Plus, Gil Marín delivered a blistering response to ⁠Barcelona’s president, Joan Laporta, who had said on Wednesday that ​his club remained “very interested” in signing Alvarez. Continue reading...",
+   "category": "Transfers & Rumours",
+   "league": "La Liga",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-08-27T22:16:23.000Z",
+   "fetched_at": "2026-08-28T05:08:07.550Z",
+   "body": [
+    "Our briefing: Miguel Ángel Gil Marín accuses Barça of ‘dishonesty’ Arsenal have also been linked with Argentina forward Atlético Madrid’s chief executive appeared to slam the door on…",
+    "Miguel Ángel Gil Marín accuses Barça of ‘dishonesty’ Arsenal have also been linked with Argentina forward Atlético Madrid’s chief executive appeared to slam the door on Barcelona’s pursuit of Júlian Alvarez on Thursday. Miguel Ángel Gil Marín accused the Catalan club of dishonesty and insisted the Argentina forward would “never, ever” be sold to them. Speaking to Spanish broadcaster Movistar Plus, Gil Marín delivered a blistering response to ⁠Barcelona’s president, Joan Laporta, who had said on Wednesday that ​his club remained “very interested” in signing Alvarez.",
+    "Continue reading...",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Futbolmania_barcelona_area.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "Jaume Meneses — CC BY-SA 2.0"
+  },
+  {
+   "id": "guardian-rangers-crash-out-conference-league-shootout-los",
+   "slug": "rangers-crash-out-of-conference-league-in-shootout-loss-to-c-t-los",
+   "title": "Rangers crash out of Conference League in shootout loss to Czech side Jablonec",
+   "dek": "McInnes ‘mortified’ by early European exit Brighton rout Tromsø 4-0 to reach league phase Rangers crashed out of the Uefa Conference League playoffs with a 4-3 penalty…",
+   "description": "McInnes ‘mortified’ by early European exit Brighton rout Tromsø 4-0 to reach league phase Rangers crashed out of the Uefa Conference League playoffs with a 4-3 penalty shootout defeat by Jablonec. Leading 1-0 from the first leg at Ibrox last week, Derek McInnes’s side turned in a turgid performance in Czechia which lacked creativity and invention. It proved costly as they fell to a 1-0 defeat at Stadion Strelnice, drawing 1-1 on aggregate after extra time to set up the final shootout. Continue reading...",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-08-27T21:49:59.000Z",
+   "fetched_at": "2026-08-28T05:08:07.550Z",
+   "body": [
+    "Our briefing: McInnes ‘mortified’ by early European exit Brighton rout Tromsø 4-0 to reach league phase Rangers crashed out of the Uefa Conference League playoffs with a 4-3 penalty…",
+    "McInnes ‘mortified’ by early European exit Brighton rout Tromsø 4-0 to reach league phase Rangers crashed out of the Uefa Conference League playoffs with a 4-3 penalty shootout defeat by Jablonec. Leading 1-0 from the first leg at Ibrox last week, Derek McInnes’s side turned in a turgid performance in Czechia which lacked creativity and invention. It proved costly as they fell to a 1-0 defeat at Stadion Strelnice, drawing 1-1 on aggregate after extra time to set up the final shootout.",
+    "Continue reading...",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Celtic_Park_during_an_Old_Firm_derby_between_Celtic_FC_and_Rangers_FC.jpg/960px-Celtic_Park_during_an_Old_Firm_derby_between_Celtic_FC_and_Rangers_FC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Vincenzo.togni — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-who-conference-league-draw-who-each-pot",
+   "slug": "who-is-in-the-conference-league-draw-and-who-is-in-each-pot-h-pot",
+   "title": "Who is in the Conference League draw and who is in each pot?",
+   "dek": "Our Ask Me Anything team explains the details for Friday's league phase draw for the 2026-27 Conference League",
+   "description": "Our Ask Me Anything team explains the details for Friday's league phase draw for the 2026-27 Conference League",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-27T21:37:41.000Z",
+   "fetched_at": "2026-08-28T05:08:07.299Z",
+   "body": [
+    "Our briefing: Our Ask Me Anything team explains the details for Friday's league phase draw for the 2026-27 Conference League",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
+   "id": "bbc-what-awaits-hearts-conference-league",
+   "slug": "what-awaits-hearts-in-conference-league-eague",
+   "title": "What awaits Hearts in Conference League?",
+   "dek": "Our Ask Me Anything team explains the details for Friday's league phase draw for the 2026-27 Conference League",
+   "description": "Our Ask Me Anything team explains the details for Friday's league phase draw for the 2026-27 Conference League",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-27T21:37:41.000Z",
+   "fetched_at": "2026-08-28T05:08:07.300Z",
+   "body": [
+    "Our briefing: Our Ask Me Anything team explains the details for Friday's league phase draw for the 2026-27 Conference League",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-arsenal-continue-alvarez-pursuit-friday-s-gossip",
+   "slug": "arsenal-continue-alvarez-pursuit-friday-s-gossip-ossip",
+   "title": "Arsenal continue Alvarez pursuit - Friday's gossip",
+   "dek": "Arsenal continue pursuit to sign Julian Alvarez, Manchester City target Everton's Iliman Ndiaye and Aston Villa make direct contact to sign Rafael Leao.",
+   "description": "Arsenal continue pursuit to sign Julian Alvarez, Manchester City target Everton's Iliman Ndiaye and Aston Villa make direct contact to sign Rafael Leao.",
+   "category": "News",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-27T21:33:44.000Z",
+   "fetched_at": "2026-08-28T05:08:07.298Z",
+   "body": [
+    "Our briefing: Arsenal continue pursuit to sign Julian Alvarez, Manchester City target Everton's Iliman Ndiaye and Aston Villa make direct contact to sign Rafael Leao.",
+    "Arsenal continue pursuit to sign Julian Alvarez, Manchester City target Everton's Iliman Ndiaye and Aston Villa make direct contact to sign Rafael Leao.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Arsenal_Stadium_Highbury_east_facade.jpg/960px-Arsenal_Stadium_Highbury_east_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "No machine-readable author provided. Qwghlm~commonswiki assumed (based on copyright claims). — CC BY-SA 3.0"
+  },
+  {
+   "id": "independent-why-bradley-barcola-should-be-perfect-fit-andoni",
+   "slug": "why-bradley-barcola-should-be-the-perfect-fit-for-andoni-ira-ndoni",
+   "title": "Why Bradley Barcola should be the ‘perfect’ fit for Andoni Iraola’s Liverpool",
+   "dek": "Liverpool have been forced to wait until days before the deadline but Iraola has a specific type of winger crucial to his system and therefore his success at Anfield",
+   "description": "Liverpool have been forced to wait until days before the deadline but Iraola has a specific type of winger crucial to his system and therefore his success at Anfield",
+   "category": "Tactics & Analysis",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-08-27T21:30:58.000Z",
+   "fetched_at": "2026-08-28T05:08:07.695Z",
+   "body": [
+    "Our briefing: Liverpool have been forced to wait until days before the deadline but Iraola has a specific type of winger crucial to his system and therefore his success at Anfield",
+    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Liverpool_anfield_road_stadium.jpg/960px-Liverpool_anfield_road_stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
+  },
+  {
+   "id": "independent-derek-mcinnes-embarrassed-mortified-rangers-exit",
+   "slug": "derek-mcinnes-embarrassed-and-mortified-as-rangers-exit-conf--exit",
+   "title": "Derek McInnes ’embarrassed and mortified’ as Rangers exit Conference League",
+   "dek": "Rangers lost on penalties to Jablonec and will be without European football this season",
+   "description": "Rangers lost on penalties to Jablonec and will be without European football this season",
+   "category": "News",
+   "league": "Football",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-08-27T21:29:04.000Z",
+   "fetched_at": "2026-08-28T05:08:07.695Z",
+   "body": [
+    "Our briefing: Rangers lost on penalties to Jablonec and will be without European football this season",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ibrox_Stadium%2C_Rangers_FC_%28cropped%29.jpg/960px-Ibrox_Stadium%2C_Rangers_FC_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Lesterhobbes764 — CC BY-SA 4.0"
+  },
+  {
+   "id": "independent-uefa-consider-opening-criminal-proceedings-again",
+   "slug": "uefa-consider-opening-criminal-proceedings-against-gianni-in-again",
+   "title": "Uefa consider opening criminal proceedings against Gianni Infantino over World Cup sell-off plan",
+   "dek": "The Fifa president is accused of ‘criminal mismanagement’ following his failed plan to sell off commercial stakes in the World Cup",
+   "description": "The Fifa president is accused of ‘criminal mismanagement’ following his failed plan to sell off commercial stakes in the World Cup",
+   "category": "News",
+   "league": "International",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-08-27T21:27:42.000Z",
+   "fetched_at": "2026-08-28T05:08:07.696Z",
+   "body": [
+    "Our briefing: The Fifa president is accused of ‘criminal mismanagement’ following his failed plan to sell off commercial stakes in the World Cup",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+  },
+  {
+   "id": "independent-chelsea-agree-deal-sign-goalkeeper-emiliano-mart",
+   "slug": "chelsea-agree-deal-to-sign-goalkeeper-emiliano-martinez-from--mart",
+   "title": "Chelsea agree deal to sign goalkeeper Emiliano Martinez from Aston Villa",
+   "dek": "The 33-year-old will move to Stamford Bridge on a two-year deal bringing to an end his six-year stay at Villa",
+   "description": "The 33-year-old will move to Stamford Bridge on a two-year deal bringing to an end his six-year stay at Villa",
+   "category": "Transfers & Rumours",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-08-27T21:14:55.000Z",
+   "fetched_at": "2026-08-28T05:08:07.696Z",
+   "body": [
+    "Our briefing: The 33-year-old will move to Stamford Bridge on a two-year deal bringing to an end his six-year stay at Villa",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dr_Christian_Pathak_at_Chelsea_%26_Westminster_Hospital.jpg/960px-Dr_Christian_Pathak_at_Chelsea_%26_Westminster_Hospital.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Isselerhof — CC BY-SA 4.0"
+  },
+  {
+   "id": "independent-danny-welbeck-opens-goalscoring-account-chelsea-",
+   "slug": "danny-welbeck-opens-goalscoring-account-as-chelsea-see-off-l-lsea-",
+   "title": "Danny Welbeck opens goalscoring account as Chelsea see off Luton in Carabao Cup",
+   "dek": "The Blues fielded a strong line-up against the League One side, though there were noteworthy absences such as Enzo Fernandez",
+   "description": "The Blues fielded a strong line-up against the League One side, though there were noteworthy absences such as Enzo Fernandez",
+   "category": "Previews",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-08-27T21:12:48.000Z",
+   "fetched_at": "2026-08-28T05:08:07.696Z",
+   "body": [
+    "Our briefing: The Blues fielded a strong line-up against the League One side, though there were noteworthy absences such as Enzo Fernandez",
+    "Team news can change right up to kick-off. Bookmark this story for the final line-ups and confirmed sides.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Chelsea_vs_union_1929.jpg/960px-Chelsea_vs_union_1929.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
+   "id": "independent-brighton-cruise-into-conference-league-after-win",
+   "slug": "brighton-cruise-into-conference-league-after-win-over-tromso-r-win",
+   "title": "Brighton cruise into Conference League after win over Tromso",
+   "dek": "Fabian Hurzeler’s Seagulls were ruthless on home soil",
+   "description": "Fabian Hurzeler’s Seagulls were ruthless on home soil",
+   "category": "News",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-08-27T21:11:51.000Z",
+   "fetched_at": "2026-08-28T05:08:07.696Z",
+   "body": [
+    "Our briefing: Fabian Hurzeler’s Seagulls were ruthless on home soil",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/View_of_the_Brighton_and_Hove_Albion_FC_Amex_Stadium_from_The_Drove_-_geograph.org.uk_-_2717285.jpg/960px-View_of_the_Brighton_and_Hove_Albion_FC_Amex_Stadium_from_The_Drove_-_geograph.org.uk_-_2717285.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Robert Lamb — CC BY-SA 2.0"
+  },
+  {
+   "id": "guardian-struggling-inter-miami-hire-kily-gonz-lez-new-he",
+   "slug": "struggling-inter-miami-hire-kily-gonz-lez-as-new-head-coach-ew-he",
+   "title": "Struggling Inter Miami hire Kily González as new head coach",
+   "dek": "MLS club mired in five-match winless run González to replace interim coach Guillermo Hoyos Inter Miami have hired former Argentina international Cristian “Kily” González…",
+   "description": "MLS club mired in five-match winless run González to replace interim coach Guillermo Hoyos Inter Miami have hired former Argentina international Cristian “Kily” González as the club’s new head coach, according to two sources familiar with negotiations. César Luis Merlo was first to report the news. The hiring will spell the end of interim manager Guillermo Hoyos’ time in charge of the South Florida club. In fact, he may have already coached his last game; MLS announced on Thursday that Hoyos had been suspended for one game for the club’s “repeated violations” of the late kickoff policy. (Inter Miami have become known throughout the league for delaying their return from half-time.) Continue reading...",
+   "category": "News",
+   "league": "Serie A",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-08-27T21:04:11.000Z",
+   "fetched_at": "2026-08-28T05:08:07.551Z",
+   "body": [
+    "Our briefing: MLS club mired in five-match winless run González to replace interim coach Guillermo Hoyos Inter Miami have hired former Argentina international Cristian “Kily” González…",
+    "MLS club mired in five-match winless run González to replace interim coach Guillermo Hoyos Inter Miami have hired former Argentina international Cristian “Kily” González as the club’s new head coach, according to two sources familiar with negotiations. César Luis Merlo was first to report the news. The hiring will spell the end of interim manager Guillermo Hoyos’ time in charge of the South Florida club.",
+    "In fact, he may have already coached his last game; MLS announced on Thursday that Hoyos had been suspended for one game for the club’s “repeated violations” of the late kickoff policy. (Inter Miami have become known throughout the league for delaying their return from half-time. ) Continue reading...",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Stadio_Giuseppe_Meazza_inter_vs_ac_milan_tifo.jpg/960px-Stadio_Giuseppe_Meazza_inter_vs_ac_milan_tifo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Vincenzo.togni — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-ipswich-sign-argentina-world-cup-winner-palacios",
+   "slug": "ipswich-sign-argentina-world-cup-winner-palacios-acios",
+   "title": "Ipswich sign Argentina World Cup winner Palacios",
+   "dek": "Argentina midfielder Exequiel Palacios becomes the first World Cup winner to sign for Ipswich Town after joining from Bayer Leverkusen.",
+   "description": "Argentina midfielder Exequiel Palacios becomes the first World Cup winner to sign for Ipswich Town after joining from Bayer Leverkusen.",
+   "category": "News",
+   "league": "International",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-27T20:54:31.000Z",
+   "fetched_at": "2026-08-28T05:08:07.298Z",
+   "body": [
+    "Our briefing: Argentina midfielder Exequiel Palacios becomes the first World Cup winner to sign for Ipswich Town after joining from Bayer Leverkusen.",
+    "Argentina midfielder Exequiel Palacios becomes the first World Cup winner to sign for Ipswich Town after joining from Bayer Leverkusen.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+  },
+  {
+   "id": "bbc-who-europa-league-draw-who-each-pot",
+   "slug": "who-is-in-the-europa-league-draw-and-who-is-in-each-pot-h-pot",
+   "title": "Who is in the Europa League draw and who is in each pot?",
+   "dek": "Our Ask Me Anything team explains who will enter Friday's league phase draw for the 2026-27 Europa League draw",
+   "description": "Our Ask Me Anything team explains who will enter Friday's league phase draw for the 2026-27 Europa League draw",
+   "category": "Match Reports",
+   "league": "Europa League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-27T20:48:03.000Z",
+   "fetched_at": "2026-08-28T05:08:07.299Z",
+   "body": [
+    "Our briefing: Our Ask Me Anything team explains who will enter Friday's league phase draw for the 2026-27 Europa League draw",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-who-might-celtic-get-europa-league-draw",
+   "slug": "who-might-celtic-get-in-europa-league-draw--draw",
+   "title": "Who might Celtic get in Europa League draw?",
+   "dek": "Our Ask Me Anything team explains who will enter Friday's league phase draw for the 2026-27 Europa League draw",
+   "description": "Our Ask Me Anything team explains who will enter Friday's league phase draw for the 2026-27 Europa League draw",
+   "category": "Match Reports",
+   "league": "Europa League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-08-27T20:48:03.000Z",
+   "fetched_at": "2026-08-28T05:08:07.300Z",
+   "body": [
+    "Our briefing: Our Ask Me Anything team explains who will enter Friday's league phase draw for the 2026-27 Europa League draw",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Match_Day_Celtic_Park_-_geograph.org.uk_-_2596994.jpg/960px-Match_Day_Celtic_Park_-_geograph.org.uk_-_2596994.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "edward mcmaihin — CC BY-SA 2.0"
+  },
+  {
+   "id": "guardian-danny-welbeck-leads-chelsea-past-luton-but-enzo-",
+   "slug": "danny-welbeck-leads-chelsea-past-luton-but-enzo-fern-ndez-mi-enzo-",
+   "title": "Danny Welbeck leads Chelsea past Luton but Enzo Fernández misses Carabao Cup tie",
+   "dek": "Emiliano Martínez is on his way but another high-profile Argentinian is likely to be wearing a different shade of blue soon. Chelsea have dealt with their biggest…",
+   "description": "Emiliano Martínez is on his way but another high-profile Argentinian is likely to be wearing a different shade of blue soon. Chelsea have dealt with their biggest weakness, satisfying Xabi Alonso’s wish for a new goalkeeper by agreeing a £7.5m deal to sign Martínez from Aston Villa, and it will surely not be long before they have put an end to the Enzo Fernández saga. Fernández was the most notable absentee as Chelsea eased into the third round of the Carabao Cup with a 2-0 win over Luton. There is a desire to move on from the circus. Manchester City are poised to bid for Fernández and, with the noise around the midfielder becoming a distraction, Alonso and the club decided to leave out Chelsea’s supposed vice-captain. Continue reading...",
+   "category": "Transfers & Rumours",
+   "league": "Premier League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-08-27T20:40:13.000Z",
+   "fetched_at": "2026-08-28T05:08:07.550Z",
+   "body": [
+    "Our briefing: Emiliano Martínez is on his way but another high-profile Argentinian is likely to be wearing a different shade of blue soon. Chelsea have dealt with their biggest…",
+    "Emiliano Martínez is on his way but another high-profile Argentinian is likely to be wearing a different shade of blue soon. Chelsea have dealt with their biggest weakness, satisfying Xabi Alonso’s wish for a new goalkeeper by agreeing a £7. 5m deal to sign Martínez from Aston Villa, and it will surely not be long before they have put an end to the Enzo Fernández saga.",
+    "Fernández was the most notable absentee as Chelsea eased into the third round of the Carabao Cup with a 2-0 win over Luton. There is a desire to move on from the circus. Manchester City are poised to bid for Fernández and, with the noise around the midfielder becoming a distraction, Alonso and the club decided to leave out Chelsea’s supposed vice-captain.",
+    "Continue reading...",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Chelsea_Football_Club%2C_Stamford_Bridge_%28Ank_kumar%29_06.jpg/960px-Chelsea_Football_Club%2C_Stamford_Bridge_%28Ank_kumar%29_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ank kumar — CC BY-SA 4.0"
   },
   {
    "id": "independent-chelsea-v-luton-live-enzo-fernandez-close-120m-e",
@@ -55,29 +491,28 @@
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Chelsea_vs_union_1929.jpg/960px-Chelsea_vs_union_1929.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Chelsea_vs_union_1929.jpg/960px-Chelsea_vs_union_1929.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
    "id": "bbc-mortified-mcinnes-takes-responsibility-rangers-e",
    "slug": "mortified-mcinnes-takes-responsibility-for-rangers-european--ers-e",
    "title": "'Mortified' McInnes takes responsibility for Rangers' European exit",
-   "dek": "Manager Derek McInnes says he take \"full responsibility\" for Rangers' \"embarrassing\" Conference League exit at the hands of Jablonec.",
-   "description": "Manager Derek McInnes says he take \"full responsibility\" for Rangers' \"embarrassing\" Conference League exit at the hands of Jablonec.",
+   "dek": "Manager Derek McInnes says he takes \"full responsibility\" for Rangers' \"embarrassing\" Conference League exit at the hands of Jablonec.",
+   "description": "Manager Derek McInnes says he takes \"full responsibility\" for Rangers' \"embarrassing\" Conference League exit at the hands of Jablonec.",
    "category": "News",
    "league": "Football",
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-27T20:23:59.000Z",
-   "fetched_at": "2026-08-27T20:41:47.894Z",
+   "fetched_at": "2026-08-28T05:08:07.298Z",
    "body": [
-    "Our briefing: Manager Derek McInnes says he take \"full responsibility\" for Rangers' \"embarrassing\" Conference League exit at the hands of Jablonec.",
-    "Manager Derek McInnes says he take \"full responsibility\" for Rangers' \"embarrassing\" Conference League exit at the hands of Jablonec.",
+    "Our briefing: Manager Derek McInnes says he takes \"full responsibility\" for Rangers' \"embarrassing\" Conference League exit at the hands of Jablonec.",
+    "Manager Derek McInnes says he takes \"full responsibility\" for Rangers' \"embarrassing\" Conference League exit at the hands of Jablonec.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ibrox_Stadium%2C_Rangers_FC.jpg/960px-Ibrox_Stadium%2C_Rangers_FC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Lesterhobbes764 — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Balmoral_Stadium_-_home_of_Cove_Rangers_FC_%28geograph_6062102%29.jpg/960px-Balmoral_Stadium_-_home_of_Cove_Rangers_FC_%28geograph_6062102%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Peter Moore — CC BY-SA 2.0"
   },
   {
    "id": "independent-enzo-fernandez-close-120m-man-city-move-after-ab",
@@ -110,55 +545,35 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-27T19:58:55.000Z",
-   "fetched_at": "2026-08-27T20:41:48.061Z",
+   "fetched_at": "2026-08-28T05:08:07.696Z",
    "body": [
     "Our briefing: Atletico Madrid chief executive Miguel Angel Gil Marin launched a blistering attack on Barcelona, calling their rivals ‘dishonest’ and confirming that they will not…",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Arsenal_Stadium_Highbury_east_facade.jpg/960px-Arsenal_Stadium_Highbury_east_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "No machine-readable author provided. Qwghlm~commonswiki assumed (based on copyright claims). — CC BY-SA 3.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Arsenal_Stadium_in_Tula.jpg/960px-Arsenal_Stadium_in_Tula.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "UMNICK — CC BY-SA 3.0"
   },
   {
    "id": "guardian-uefa-raises-stakes-criminal-complaint-battle-uns",
    "slug": "uefa-raises-stakes-with-criminal-complaint-in-battle-to-unse-e-uns",
    "title": "Uefa raises stakes with criminal complaint in battle to unseat Infantino | Matt Hughes",
-   "dek": "Uefa has begun a legal process against the embattled Fifa president in a dramatic new development Anyone who interpreted Uefa’s decision to withdraw a proposed boycott of…",
-   "description": "Uefa has begun a legal process against the embattled Fifa president in a dramatic new development Anyone who interpreted Uefa’s decision to withdraw a proposed boycott of Fifa competitions, revealed by the Guardian on Wednesday, as a backward step in the attempt to remove Gianni Infantino as Fifa’s president has been quickly disabused of that notion. In a stunning development that overshadowed one of the biggest days in the European football calendar as national football federation and club executives gathered for the Champions League draw in Monte Carlo, Uefa announced it was preparing to make a legal complaint against Infantino in Switzerland alleging “criminal mismanagement” for his role in the failed World Cup sell-off plan. Continue reading...",
+   "dek": "Uefa has begun a legal process against the embattled Fifa president but it will still be an uphill struggle to remove him Anyone who interpreted Uefa’s decision to…",
+   "description": "Uefa has begun a legal process against the embattled Fifa president but it will still be an uphill struggle to remove him Anyone who interpreted Uefa’s decision to withdraw a proposed boycott of Fifa competitions, revealed by the Guardian on Wednesday , as a backward step in the attempt to remove Gianni Infantino as Fifa’s president has been quickly disabused of that notion. In a stunning development that overshadowed one of the biggest days in the European football calendar as national football federation and club executives gathered for the Champions League draw in Monte Carlo, Uefa announced it was preparing to make a legal complaint against Infantino in Switzerland alleging “criminal mismanagement” for his role in the failed World Cup sell-off plan. Continue reading...",
    "category": "Match Reports",
    "league": "Football",
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-27T19:00:36.000Z",
-   "fetched_at": "2026-08-27T20:41:48.001Z",
+   "fetched_at": "2026-08-28T05:08:07.550Z",
    "body": [
-    "Our briefing: Uefa has begun a legal process against the embattled Fifa president in a dramatic new development Anyone who interpreted Uefa’s decision to withdraw a proposed boycott of…",
-    "Uefa has begun a legal process against the embattled Fifa president in a dramatic new development Anyone who interpreted Uefa’s decision to withdraw a proposed boycott of Fifa competitions, revealed by the Guardian on Wednesday, as a backward step in the attempt to remove Gianni Infantino as Fifa’s president has been quickly disabused of that notion. In a stunning development that overshadowed one of the biggest days in the European football calendar as national football federation and club executives gathered for the Champions League draw in Monte Carlo, Uefa announced it was preparing to make a legal complaint against Infantino in Switzerland alleging “criminal mismanagement” for his role in the failed World Cup sell-off plan. Continue reading...",
+    "Our briefing: Uefa has begun a legal process against the embattled Fifa president but it will still be an uphill struggle to remove him Anyone who interpreted Uefa’s decision to…",
+    "Uefa has begun a legal process against the embattled Fifa president but it will still be an uphill struggle to remove him Anyone who interpreted Uefa’s decision to withdraw a proposed boycott of Fifa competitions, revealed by the Guardian on Wednesday , as a backward step in the attempt to remove Gianni Infantino as Fifa’s president has been quickly disabused of that notion. In a stunning development that overshadowed one of the biggest days in the European football calendar as national football federation and club executives gathered for the Champions League draw in Monte Carlo, Uefa announced it was preparing to make a legal complaint against Infantino in Switzerland alleging “criminal mismanagement” for his role in the failed World Cup sell-off plan. Continue reading...",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": null
-  },
-  {
-   "id": "independent-liverpool-continue-pursuit-ismaila-sarr-crystal-",
-   "slug": "liverpool-continue-pursuit-of-ismaila-sarr-from-crystal-pala-stal-",
-   "title": "Liverpool continue pursuit of Ismaila Sarr from Crystal Palace with Cody Gakpo’s future in doubt",
-   "dek": "Andoni Iraola wants to bring in three new attacking players before the transfer deadline",
-   "description": "Andoni Iraola wants to bring in three new attacking players before the transfer deadline",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-08-27T18:58:32.000Z",
-   "fetched_at": "2026-08-27T20:41:48.061Z",
-   "body": [
-    "Our briefing: Andoni Iraola wants to bring in three new attacking players before the transfer deadline",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Magistrates%27_Court%2C_Dale_Street%2C_Liverpool_2018.jpg/960px-Magistrates%27_Court%2C_Dale_Street%2C_Liverpool_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Rodhullandemu — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   },
   {
    "id": "independent-liverpool-agree-huge-fee-psg-france-winger-bradl",
@@ -171,7 +586,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-27T18:56:53.000Z",
-   "fetched_at": "2026-08-27T20:41:48.061Z",
+   "fetched_at": "2026-08-28T05:08:07.696Z",
    "body": [
     "Our briefing: Barcola is poised to join Liverpool in a transfer worth at least £100m",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -179,26 +594,6 @@
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/2022-07-21_Fu%C3%9Fball%2C_M%C3%A4nner%2CFreundschaftsspiel%2C_RB_Leipzig_-_FC_Liverpool_1DX_2224_by_Stepro.jpg/960px-2022-07-21_Fu%C3%9Fball%2C_M%C3%A4nner%2CFreundschaftsspiel%2C_RB_Leipzig_-_FC_Liverpool_1DX_2224_by_Stepro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Steffen Prößdorf — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-who-conference-league-draw-who-each-pot",
-   "slug": "who-is-in-the-conference-league-draw-and-who-is-in-each-pot-h-pot",
-   "title": "Who is in the Conference League draw and who is in each pot?",
-   "dek": "Our Ask Me Anything team explains the details for Friday's league phase draw for the 2026-27 Conference League",
-   "description": "Our Ask Me Anything team explains the details for Friday's league phase draw for the 2026-27 Conference League",
-   "category": "Match Reports",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-27T18:48:37.000Z",
-   "fetched_at": "2026-08-27T20:41:47.896Z",
-   "body": [
-    "Our briefing: Our Ask Me Anything team explains the details for Friday's league phase draw for the 2026-27 Conference League",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
   },
   {
    "id": "bbc-chelsea-agree-7-5m-fee-villa-s-martinez",
@@ -211,77 +606,37 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-27T18:28:09.000Z",
-   "fetched_at": "2026-08-27T20:41:47.894Z",
+   "fetched_at": "2026-08-28T05:08:07.298Z",
    "body": [
     "Our briefing: Chelsea agree a £7.5m fee to sign Aston Villa goalkeeper Emiliano Martinez.",
     "Chelsea agree a £7. 5m fee to sign Aston Villa goalkeeper Emiliano Martinez.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Stadium_Street%2C_Chelsea_-_geograph.org.uk_-_4585241.jpg/960px-Stadium_Street%2C_Chelsea_-_geograph.org.uk_-_4585241.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Chris Whippet — CC BY-SA 2.0"
-  },
-  {
-   "id": "independent-uefa-consider-opening-criminal-proceedings-again",
-   "slug": "uefa-consider-opening-criminal-proceedings-against-gianni-in-again",
-   "title": "Uefa consider opening criminal proceedings against Gianni Infantino over World Cup sell-off plan",
-   "dek": "The Fifa president is accused of ‘criminal mismanagement’ following his failed plan to sell off commercial stakes in the World Cup",
-   "description": "The Fifa president is accused of ‘criminal mismanagement’ following his failed plan to sell off commercial stakes in the World Cup",
-   "category": "News",
-   "league": "International",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-08-27T18:26:06.000Z",
-   "fetched_at": "2026-08-27T20:41:48.061Z",
-   "body": [
-    "Our briefing: The Fifa president is accused of ‘criminal mismanagement’ following his failed plan to sell off commercial stakes in the World Cup",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "John Shorten — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Inside_Stamford_Bridge_Stadium_-_Chelsea_v_Peterborough_-_geograph.org.uk_-_5253336.jpg/960px-Inside_Stamford_Bridge_Stadium_-_Chelsea_v_Peterborough_-_geograph.org.uk_-_5253336.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Richard Humphrey — CC BY-SA 2.0"
   },
   {
    "id": "guardian-chelsea-agree-7-5m-deal-sign-emiliano-mart-nez-a",
    "slug": "chelsea-agree-7-5m-deal-to-sign-emiliano-mart-nez-from-aston-nez-a",
    "title": "Chelsea agree £7.5m deal to sign Emiliano Martínez from Aston Villa",
-   "dek": "Wantaway Enzo Fernández left out of Carabao Cup tie Villa sign Germany midfielder Leon Goretzka on free Chelsea have agreed a £7.5m deal to sign the Aston Villa…",
-   "description": "Wantaway Enzo Fernández left out of Carabao Cup tie Villa sign Germany midfielder Leon Goretzka on free Chelsea have agreed a £7.5m deal to sign the Aston Villa goalkeeper ­Emiliano Martínez and are expecting Manchester City to make an offer for Enzo Fernández in the next 48 hours. Xabi Alonso identified the ­signing of a goalkeeper as a priority after ­Robert Sánchez struggled against Fulham on Monday and the deal for Martínez has gone through quickly. The Argentina international is out of favour at Villa after their acquisition of Zion Suzuki and is due to sign a two-year contract with the option of a further year. Continue reading...",
+   "dek": "Enzo Fernández left out of Luton Carabao Cup tie Villa sign Germany midfielder Leon Goretzka on free Chelsea have agreed a £7.5m deal to sign the Aston Villa goalkeeper…",
+   "description": "Enzo Fernández left out of Luton Carabao Cup tie Villa sign Germany midfielder Leon Goretzka on free Chelsea have agreed a £7.5m deal to sign the Aston Villa goalkeeper Emiliano Martínez and are expecting Manchester City to make an offer for Enzo Fernández in the next 48 hours. Xabi Alonso identified the signing of a goalkeeper as a priority after Robert Sánchez struggled against Fulham on Monday and the deal for Martínez has gone through quickly. The Argentina international is out of favour at Villa after their acquisition of Zion Suzuki and is due to sign a two-year contract with the option of a further year. Continue reading...",
    "category": "Transfers & Rumours",
    "league": "Premier League",
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-27T18:19:59.000Z",
-   "fetched_at": "2026-08-27T20:41:48.001Z",
+   "fetched_at": "2026-08-28T05:08:07.550Z",
    "body": [
-    "Our briefing: Wantaway Enzo Fernández left out of Carabao Cup tie Villa sign Germany midfielder Leon Goretzka on free Chelsea have agreed a £7.5m deal to sign the Aston Villa…",
-    "Wantaway Enzo Fernández left out of Carabao Cup tie Villa sign Germany midfielder Leon Goretzka on free Chelsea have agreed a £7. 5m deal to sign the Aston Villa goalkeeper ­Emiliano Martínez and are expecting Manchester City to make an offer for Enzo Fernández in the next 48 hours. Xabi Alonso identified the ­signing of a goalkeeper as a priority after ­Robert Sánchez struggled against Fulham on Monday and the deal for Martínez has gone through quickly.",
+    "Our briefing: Enzo Fernández left out of Luton Carabao Cup tie Villa sign Germany midfielder Leon Goretzka on free Chelsea have agreed a £7.5m deal to sign the Aston Villa goalkeeper…",
+    "Enzo Fernández left out of Luton Carabao Cup tie Villa sign Germany midfielder Leon Goretzka on free Chelsea have agreed a £7. 5m deal to sign the Aston Villa goalkeeper Emiliano Martínez and are expecting Manchester City to make an offer for Enzo Fernández in the next 48 hours. Xabi Alonso identified the signing of a goalkeeper as a priority after Robert Sánchez struggled against Fulham on Monday and the deal for Martínez has gone through quickly.",
     "The Argentina international is out of favour at Villa after their acquisition of Zion Suzuki and is due to sign a two-year contract with the option of a further year. Continue reading...",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Chelsea_Football_Club%2C_Stamford_Bridge_%28Ank_kumar%29_06.jpg/960px-Chelsea_Football_Club%2C_Stamford_Bridge_%28Ank_kumar%29_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chelsea_Football_Club%2C_Stamford_Bridge_%28Ank_kumar%29_08.jpg/960px-Chelsea_Football_Club%2C_Stamford_Bridge_%28Ank_kumar%29_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ank kumar — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-who-europa-league-draw-who-each-pot",
-   "slug": "who-is-in-the-europa-league-draw-and-who-is-in-each-pot-h-pot",
-   "title": "Who is in the Europa League draw and who is in each pot?",
-   "dek": "Our Ask Me Anything team explains who will enter Friday's league phase draw for the 2026-27 Europa League draw",
-   "description": "Our Ask Me Anything team explains who will enter Friday's league phase draw for the 2026-27 Europa League draw",
-   "category": "Match Reports",
-   "league": "Europa League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-27T18:11:03.000Z",
-   "fetched_at": "2026-08-27T20:41:47.896Z",
-   "body": [
-    "Our briefing: Our Ask Me Anything team explains who will enter Friday's league phase draw for the 2026-27 Europa League draw",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
   },
   {
    "id": "independent-champions-league-draw-live-arsenal-man-utd-liver",
@@ -314,7 +669,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-27T17:44:25.000Z",
-   "fetched_at": "2026-08-27T20:41:48.001Z",
+   "fetched_at": "2026-08-28T05:08:07.550Z",
    "body": [
     "Our briefing: Manchester United will host Bayern Munich Aston Villa welcome PSG; Liverpool go to Inter Arsenal face mouthwatering assignments against Real Madrid and Bayern Munich as…",
     "Manchester United will host Bayern Munich Aston Villa welcome PSG; Liverpool go to Inter Arsenal face mouthwatering assignments against Real Madrid and Bayern Munich as they bid to go one better than last season’s agonising near miss and win a first Champions League title. Mikel Arteta’s side were pipped on penalties by Paris Saint-Germain in the final three months ago and will be expected to cruise through this season’s league phase. The bulk of their draw appears kind but they are tasked with a visit to the Allianz Arena to play Bayern, whom they beat 3-1 at the Emirates Stadium last November , and host Real, who are once again under the charge of José Mourinho.",
@@ -322,8 +677,8 @@
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Wet_match_day_at_Arsenal_-_geograph.org.uk_-_5657537.jpg/960px-Wet_match_day_at_Arsenal_-_geograph.org.uk_-_5657537.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Jim Osley — CC BY-SA 2.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Manchester_City_v_Arsenal%2C_League_Cup_2004-5_-_geograph.org.uk_-_3841596.jpg/960px-Manchester_City_v_Arsenal%2C_League_Cup_2004-5_-_geograph.org.uk_-_3841596.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Richard Cooke — CC BY-SA 2.0"
   },
   {
    "id": "bbc-man-city-aston-villa-face-champions-psg",
@@ -336,7 +691,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-27T17:32:55.000Z",
-   "fetched_at": "2026-08-27T20:41:47.894Z",
+   "fetched_at": "2026-08-28T05:08:07.298Z",
    "body": [
     "Our briefing: European champions Paris St-Germain will face Premier League duo Manchester City and Aston Villa in the league phase of this season's Champions League.",
     "European champions Paris St-Germain will face Premier League duo Manchester City and Aston Villa in the league phase of this season's Champions League.",
@@ -357,7 +712,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-27T16:54:27.000Z",
-   "fetched_at": "2026-08-27T20:41:48.061Z",
+   "fetched_at": "2026-08-28T05:08:07.696Z",
    "body": [
     "Our briefing: Michael Carrick’s side are back in Europe’s top competition and face the likes of Bayern Munich and Atletico Madrid",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -377,14 +732,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-27T16:49:47.000Z",
-   "fetched_at": "2026-08-27T20:41:48.061Z",
+   "fetched_at": "2026-08-28T05:08:07.696Z",
    "body": [
     "Our briefing: Mikel Arteta’s side are eyeing a second consecutive final, after their penalty-shootout heartbreak against PSG",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Arsenal_Stadium_in_Tula.jpg/960px-Arsenal_Stadium_in_Tula.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "UMNICK — CC BY-SA 3.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/West_Stand_entrance%2C_Arsenal_Stadium%2C_Highbury_-_geograph.org.uk_-_1967580.jpg/960px-West_Stand_entrance%2C_Arsenal_Stadium%2C_Highbury_-_geograph.org.uk_-_1967580.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Julian Osley — CC BY-SA 2.0"
   },
   {
    "id": "independent-liverpool-2026-27-champions-league-fixtures-leag",
@@ -397,14 +752,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-08-27T16:47:40.000Z",
-   "fetched_at": "2026-08-27T20:41:48.061Z",
+   "fetched_at": "2026-08-28T05:08:07.696Z",
    "body": [
     "Our briefing: The Reds have discovered their eight opponents for the league phase of the Champions League this season",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Liverpool_anfield_road_stadium.jpg/960px-Liverpool_anfield_road_stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Anfield_Stadium%2C_Liverpool_-_geograph.org.uk_-_5885062.jpg/960px-Anfield_Stadium%2C_Liverpool_-_geograph.org.uk_-_5885062.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Mike Pennington — CC BY-SA 2.0"
   },
   {
    "id": "guardian-nbc-s-premier-league-coverage-us-too-english-lea",
@@ -417,7 +772,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-08-27T16:36:39.000Z",
-   "fetched_at": "2026-08-27T20:41:48.002Z",
+   "fetched_at": "2026-08-28T05:08:07.550Z",
    "body": [
     "Our briefing: One wonders when, if ever, a US broadcast can win the same plaudits presenting the English league with a more American voice There they were again, signaling with their…",
     "One wonders when, if ever, a US broadcast can win the same plaudits presenting the English league with a more American voice There they were again, signaling with their unchanging faces and voices and their unchanging studio backdrop that another Premier League season had begun. On Friday afternoon, and again on Saturday and Sunday morning, Rebecca Lowe welcomed American viewers to what is somehow already the 14th season of the world’s most popular sporting circuit to air on NBC. She was flanked, as ever, by her merry band of pundits, her gang of fellow British expats.",
@@ -427,8 +782,8 @@
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "bbc-dundee-utd-s-spencer-bids-embarrassing-falkirk-b",
@@ -462,14 +817,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-27T16:04:56.000Z",
-   "fetched_at": "2026-08-27T20:41:47.895Z",
+   "fetched_at": "2026-08-28T05:08:07.298Z",
    "body": [
     "Our briefing: BBC Sport football expert Chris Sutton takes on Royal Blood drummer Ben Thatcher, plus the BBC readers and AI with his predictions for this weekend's Premier League…",
     "BBC Sport football expert Chris Sutton takes on Royal Blood drummer Ben Thatcher, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -483,7 +838,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-08-27T16:02:36.000Z",
-   "fetched_at": "2026-08-27T20:41:47.895Z",
+   "fetched_at": "2026-08-28T05:08:07.299Z",
    "body": [
     "Our briefing: The president, general secretary and executive committee of the Nigeria Football Federation all resign, leaving a leadership vacuum.",
     "The president, general secretary and executive committee of the Nigeria Football Federation all resign, leaving a leadership vacuum.",
@@ -492,367 +847,6 @@
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "imageCredit": "YHC — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-forward-cho-becomes-hull-s-12th-summer-signing",
-   "slug": "forward-cho-becomes-hull-s-12th-summer-signing-gning",
-   "title": "Forward Cho becomes Hull's 12th summer signing",
-   "dek": "Hull City sign French forward Mohamed-Ali Cho from Ligue 1 side Nice on a five-year contract.",
-   "description": "Hull City sign French forward Mohamed-Ali Cho from Ligue 1 side Nice on a five-year contract.",
-   "category": "Transfers & Rumours",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-27T15:56:30.000Z",
-   "fetched_at": "2026-08-27T20:41:47.896Z",
-   "body": [
-    "Our briefing: Hull City sign French forward Mohamed-Ali Cho from Ligue 1 side Nice on a five-year contract.",
-    "Hull City sign French forward Mohamed-Ali Cho from Ligue 1 side Nice on a five-year contract.",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
-  },
-  {
-   "id": "guardian-i-can-t-wait-liam-delap-seals-45m-nottingham-for",
-   "slug": "i-can-t-wait-liam-delap-seals-45m-nottingham-forest-move-fro-m-for",
-   "title": "‘I can’t wait’: Liam Delap seals £45m Nottingham Forest move from Chelsea",
-   "dek": "Chelsea agree to sign 18-year-old Ahanor for £40m Aston Villa land Goretzka after Bayern exit Nottingham Forest have completed the signing of the Chelsea striker Liam…",
-   "description": "Chelsea agree to sign 18-year-old Ahanor for £40m Aston Villa land Goretzka after Bayern exit Nottingham Forest have completed the signing of the Chelsea striker Liam Delap in a club-record £45m deal. The 23-year-old has a five-year contract at Forest, his third club in three seasons after he was told he was not part of Xabi Alonso’s plans. Forest’s new manager, Oliver Glasner, made him a priority during the transfer window and Delap said: “I really can’t wait to get started. This is a massive club with a big history. I spoke to the manager and I like his way, I think he can be the one to really help me develop and make that next step and hopefully I can bring goals here.” Continue reading...",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-08-27T15:52:27.000Z",
-   "fetched_at": "2026-08-27T20:41:48.002Z",
-   "body": [
-    "Our briefing: Chelsea agree to sign 18-year-old Ahanor for £40m Aston Villa land Goretzka after Bayern exit Nottingham Forest have completed the signing of the Chelsea striker Liam…",
-    "Chelsea agree to sign 18-year-old Ahanor for £40m Aston Villa land Goretzka after Bayern exit Nottingham Forest have completed the signing of the Chelsea striker Liam Delap in a club-record £45m deal. The 23-year-old has a five-year contract at Forest, his third club in three seasons after he was told he was not part of Xabi Alonso’s plans. Forest’s new manager, Oliver Glasner, made him a priority during the transfer window and Delap said: “I really can’t wait to get started.",
-    "This is a massive club with a big history. I spoke to the manager and I like his way, I think he can be the one to really help me develop and make that next step and hopefully I can bring goals here. ” Continue reading...",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chelsea_Football_Club%2C_Stamford_Bridge_%28Ank_kumar%29_08.jpg/960px-Chelsea_Football_Club%2C_Stamford_Bridge_%28Ank_kumar%29_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ank kumar — CC BY-SA 4.0"
-  },
-  {
-   "id": "independent-copa-independent-transfer-window-special-100m-do",
-   "slug": "copa-independent-transfer-window-special-100m-dominoes-villa-0m-do",
-   "title": "Copa Independent | Transfer window special: £100m dominoes, Villa’s woes and the incoming deadline day frenzy",
-   "dek": "The transfer window has been more frenzied than ever this summer, with wild £100m sums being exchanged between Premier League clubs. Who distorted the market, and are…",
-   "description": "The transfer window has been more frenzied than ever this summer, with wild £100m sums being exchanged between Premier League clubs. Who distorted the market, and are clubs overpaying for new recruits?",
-   "category": "Transfers & Rumours",
-   "league": "Football",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-08-27T15:47:16.000Z",
-   "fetched_at": "2026-08-27T20:41:48.061Z",
-   "body": [
-    "Our briefing: The transfer window has been more frenzied than ever this summer, with wild £100m sums being exchanged between Premier League clubs. Who distorted the market, and are…",
-    "The transfer window has been more frenzied than ever this summer, with wild £100m sums being exchanged between Premier League clubs. Who distorted the market, and are clubs overpaying for new recruits?",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Badalik_Szabolcs_Hungarian_beach_soccer_player.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "Badalik Szabolcs — CC BY 4.0"
-  },
-  {
-   "id": "bbc-villa-sign-goretzka-what-went-wrong-bayern-what-",
-   "slug": "villa-sign-goretzka-what-went-wrong-at-bayern-and-what-will--what-",
-   "title": "Villa sign Goretzka - what went wrong at Bayern and what will he bring?",
-   "dek": "Aston Villa complete the signing of former Bayern Munich midfielder Leon Goretzka on a free transfer.",
-   "description": "Aston Villa complete the signing of former Bayern Munich midfielder Leon Goretzka on a free transfer.",
-   "category": "Transfers & Rumours",
-   "league": "Bundesliga",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-27T15:39:49.000Z",
-   "fetched_at": "2026-08-27T20:41:47.894Z",
-   "body": [
-    "Our briefing: Aston Villa complete the signing of former Bayern Munich midfielder Leon Goretzka on a free transfer.",
-    "Aston Villa complete the signing of former Bayern Munich midfielder Leon Goretzka on a free transfer.",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Allianz_Arena_Bayern_Munich_soccer-stadion_%28450603187%29.jpg/960px-Allianz_Arena_Bayern_Munich_soccer-stadion_%28450603187%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Depeche Mode *wrong* — CC BY 2.0"
-  },
-  {
-   "id": "bbc-fiorentina-talks-man-united-over-zirkzee-loan",
-   "slug": "fiorentina-in-talks-with-man-united-over-zirkzee-loan--loan",
-   "title": "Fiorentina in talks with Man United over Zirkzee loan",
-   "dek": "Fiorentina are in talks with Manchester United over an initial loan move for striker Joshua Zirkzee.",
-   "description": "Fiorentina are in talks with Manchester United over an initial loan move for striker Joshua Zirkzee.",
-   "category": "Transfers & Rumours",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-27T15:34:22.000Z",
-   "fetched_at": "2026-08-27T20:41:47.895Z",
-   "body": [
-    "Our briefing: Fiorentina are in talks with Manchester United over an initial loan move for striker Joshua Zirkzee.",
-    "Fiorentina are in talks with Manchester United over an initial loan move for striker Joshua Zirkzee.",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
-  },
-  {
-   "id": "independent-man-united-forward-nears-old-trafford-exit-serie",
-   "slug": "man-united-forward-nears-old-trafford-exit-as-serie-a-club-e-serie",
-   "title": "Man United forward nears Old Trafford exit as Serie A club eyes late transfer swoop",
-   "dek": "Joshua Zirkzee has struggled for game time at Old Trafford under Michael Carrick",
-   "description": "Joshua Zirkzee has struggled for game time at Old Trafford under Michael Carrick",
-   "category": "Transfers & Rumours",
-   "league": "Serie A",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-08-27T15:31:46.000Z",
-   "fetched_at": "2026-08-27T20:41:48.061Z",
-   "body": [
-    "Our briefing: Joshua Zirkzee has struggled for game time at Old Trafford under Michael Carrick",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
-  },
-  {
-   "id": "guardian-spurs-paying-price-world-cup-pre-season-trip-aus",
-   "slug": "spurs-paying-price-for-world-cup-and-pre-season-trip-to-aust-p-aus",
-   "title": "Spurs paying price for World Cup and pre-season trip to Australia",
-   "dek": "Too many players are off the pace and Roberto De Zerbi has had no hesitation in naming names Jan Paul van Hecke was among those given an unwanted name-check by Roberto De…",
-   "description": "Too many players are off the pace and Roberto De Zerbi has had no hesitation in naming names Jan Paul van Hecke was among those given an unwanted name-check by Roberto De Zerbi after Tottenham’s 3-0 defeat at Brentford on Saturday . Not at the right level physically, was the gist of the manager’s comments. De Zerbi also mentioned Marcos Senesi and Sandro Tonali, two more of the club’s new signings. Their condition had to come as no surprise. It certainly did not to De Zerbi. Continue reading...",
-   "category": "Transfers & Rumours",
-   "league": "International",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-08-27T15:27:04.000Z",
-   "fetched_at": "2026-08-27T20:41:48.001Z",
-   "body": [
-    "Our briefing: Too many players are off the pace and Roberto De Zerbi has had no hesitation in naming names Jan Paul van Hecke was among those given an unwanted name-check by Roberto De…",
-    "Too many players are off the pace and Roberto De Zerbi has had no hesitation in naming names Jan Paul van Hecke was among those given an unwanted name-check by Roberto De Zerbi after Tottenham’s 3-0 defeat at Brentford on Saturday . Not at the right level physically, was the gist of the manager’s comments. De Zerbi also mentioned Marcos Senesi and Sandro Tonali, two more of the club’s new signings.",
-    "Their condition had to come as no surprise. It certainly did not to De Zerbi. Continue reading...",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
-  },
-  {
-   "id": "independent-manchester-city-consider-everton-winger-replacem",
-   "slug": "manchester-city-consider-everton-winger-as-replacement-for-d-lacem",
-   "title": "Manchester City consider Everton winger as replacement for departed duo",
-   "dek": "Omar Marmoush and Savio have left for Tottenham, with Iliman Ndiaye now a target",
-   "description": "Omar Marmoush and Savio have left for Tottenham, with Iliman Ndiaye now a target",
-   "category": "News",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-08-27T15:05:53.000Z",
-   "fetched_at": "2026-08-27T20:41:48.061Z",
-   "body": [
-    "Our briefing: Omar Marmoush and Savio have left for Tottenham, with Iliman Ndiaye now a target",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Victoria_Tower_and_construction_of_the_new_Everton_Stadium_%28geograph_7449307%29.jpg/960px-Victoria_Tower_and_construction_of_the_new_Everton_Stadium_%28geograph_7449307%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "James T M Towill — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-sunderland-defender-seelt-joins-swansea-loan",
-   "slug": "sunderland-defender-seelt-joins-swansea-on-loan--loan",
-   "title": "Sunderland defender Seelt joins Swansea on loan",
-   "dek": "Swansea City sign Sunderland defender Jenson Seelt on loan for the remainder of the season.",
-   "description": "Swansea City sign Sunderland defender Jenson Seelt on loan for the remainder of the season.",
-   "category": "Transfers & Rumours",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-27T15:04:59.000Z",
-   "fetched_at": "2026-08-27T20:41:47.896Z",
-   "body": [
-    "Our briefing: Swansea City sign Sunderland defender Jenson Seelt on loan for the remainder of the season.",
-    "Swansea City sign Sunderland defender Jenson Seelt on loan for the remainder of the season.",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "guardian-football-daily-why-transfer-window-actually-larg",
-   "slug": "daily-why-the-transfer-window-is-actually-a-large-collection--larg",
-   "title": "Daily | Why the transfer window is actually a large collection of different windows",
-   "dek": "Sign up now! Sign up now! Sign up now? Sign up now! The transfer window isn’t an actual window, of course. In reality, it’s a large collection of different windows, with…",
-   "description": "Sign up now! Sign up now! Sign up now? Sign up now! The transfer window isn’t an actual window, of course. In reality, it’s a large collection of different windows, with each club having one of their own, through which they peer longingly, occasionally flinging large quantities of cash money out of them like half-cut sailors on a ship coming into dock, and they’re all in various states of disrepair. For example, Tottenham have only recently prised theirs open – the previous occupant, Mr Levy, had deliberately painted over the seals – and all summer it’s been flapping in the breeze like the screen door of a haunted house. Manchester City meanwhile have removed the glass from their frames altogether, allowing the free movement of large expensive items safely through it in both directions. There are some officious-looking gentlemen with clipboards currently double-checking the structural integrity of that one. They say they’ll get back to us. I see that after disappointing at Man City, Savinho changed his name to Sávio, and then scored on his debut for Spurs. In the hope that the same trick works for me, in terms of improving my strike rate in getting letters to Football Daily published, I’m changing my name to Noble Francis” – Phil Taverner. One of my very favourite things in modern football is to see players for billion-dollar teams in billion-dollar stadiums ‘giving it large’ after scoring against lower-league opposition , following a humiliating loss in a derby game (yes, I know it’s Brentford, but it still counts as a derby) – Noble Francis. This is an extract from our daily football email … Football Daily. To get the full version, just visit this page and follow the instructions . Continue reading...",
-   "category": "Transfers & Rumours",
-   "league": "Football",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-08-27T14:50:59.000Z",
-   "fetched_at": "2026-08-27T20:41:48.002Z",
-   "body": [
-    "Our briefing: Sign up now! Sign up now! Sign up now? Sign up now! The transfer window isn’t an actual window, of course. In reality, it’s a large collection of different windows, with…",
-    "Sign up now! Sign up now! Sign up now?",
-    "Sign up now! The transfer window isn’t an actual window, of course. In reality, it’s a large collection of different windows, with each club having one of their own, through which they peer longingly, occasionally flinging large quantities of cash money out of them like half-cut sailors on a ship coming into dock, and they’re all in various states of disrepair.",
-    "For example, Tottenham have only recently prised theirs open – the previous occupant, Mr Levy, had deliberately painted over the seals – and all summer it’s been flapping in the breeze like the screen door of a haunted house. Manchester City meanwhile have removed the glass from their frames altogether, allowing the free movement of large expensive items safely through it in both directions. There are some officious-looking gentlemen with clipboards currently double-checking the structural integrity of that one.",
-    "They say they’ll get back to us. I see that after disappointing at Man City, Savinho changed his name to Sávio, and then scored on his debut for Spurs. In the hope that the same trick works for me, in terms of improving my strike rate in getting letters to Football Daily published, I’m changing my name to Noble Francis” – Phil Taverner.",
-    "One of my very favourite things in modern football is to see players for billion-dollar teams in billion-dollar stadiums ‘giving it large’ after scoring against lower-league opposition , following a humiliating loss in a derby game (yes, I know it’s Brentford, but it still counts as a derby) – Noble Francis. This is an extract from our daily football email … Football Daily. To get the full version, just visit this page and follow the instructions .",
-    "Continue reading...",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Kashima_Soccer_Stadium_6.jpg/960px-Kashima_Soccer_Stadium_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
-  },
-  {
-   "id": "independent-tottenham-confirm-omar-marmoush-signing-complete",
-   "slug": "tottenham-confirm-omar-marmoush-signing-to-complete-double-m-plete",
-   "title": "Tottenham confirm Omar Marmoush signing to complete double Man City raid",
-   "dek": "Tottenham announced the signing of Omar Marmoush on Thursday afternoon",
-   "description": "Tottenham announced the signing of Omar Marmoush on Thursday afternoon",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-08-27T14:43:50.000Z",
-   "fetched_at": "2026-08-27T20:41:48.061Z",
-   "body": [
-    "Our briefing: Tottenham announced the signing of Omar Marmoush on Thursday afternoon",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/A_Bus_in_Manchester_City_Centre_-_geograph.org.uk_-_2876841.jpg/960px-A_Bus_in_Manchester_City_Centre_-_geograph.org.uk_-_2876841.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "David Hillas — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-uefa-preparing-criminal-legal-action-against-inf",
-   "slug": "uefa-preparing-criminal-legal-action-against-infantino-t-inf",
-   "title": "Uefa preparing criminal legal action against Infantino",
-   "dek": "Uefa is pursuing criminal proceedings against Fifa president Gianni Infantino over the scrapped plan to sell off stakes in the World Cup.",
-   "description": "Uefa is pursuing criminal proceedings against Fifa president Gianni Infantino over the scrapped plan to sell off stakes in the World Cup.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-27T14:42:09.000Z",
-   "fetched_at": "2026-08-27T20:41:47.894Z",
-   "body": [
-    "Our briefing: Uefa is pursuing criminal proceedings against Fifa president Gianni Infantino over the scrapped plan to sell off stakes in the World Cup.",
-    "Uefa is pursuing criminal proceedings against Fifa president Gianni Infantino over the scrapped plan to sell off stakes in the World Cup.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
-  },
-  {
-   "id": "independent-barcelona-cancel-planned-celebration-world-cup-w",
-   "slug": "barcelona-cancel-planned-celebration-for-world-cup-winning-p-cup-w",
-   "title": "Barcelona cancel planned celebration for World Cup winning players after police clash with fans",
-   "dek": "Barcelona president Joan Laporta has confirmed instead confirmed the club will hold a ‘demonstration of the Catalan flag of independence’",
-   "description": "Barcelona president Joan Laporta has confirmed instead confirmed the club will hold a ‘demonstration of the Catalan flag of independence’",
-   "category": "News",
-   "league": "La Liga",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-08-27T14:39:23.000Z",
-   "fetched_at": "2026-08-27T20:41:48.062Z",
-   "body": [
-    "Our briefing: Barcelona president Joan Laporta has confirmed instead confirmed the club will hold a ‘demonstration of the Catalan flag of independence’",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/LFP_-_Barcelona_vs_Mallorca_pre-match_-_Oct_3rd_2010.jpg/960px-LFP_-_Barcelona_vs_Mallorca_pre-match_-_Oct_3rd_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Paolo Costa Baldi — CC BY-SA 3.0"
-  },
-  {
-   "id": "bbc-tottenham-sign-man-city-s-marmoush-loan",
-   "slug": "tottenham-sign-man-city-s-marmoush-on-loan--loan",
-   "title": "Tottenham sign Man City's Marmoush on loan",
-   "dek": "Tottenham sign Manchester City forward Omar Marmoush on loan until the end of the season, with an obligation to make the deal permanent for £60m next summer.",
-   "description": "Tottenham sign Manchester City forward Omar Marmoush on loan until the end of the season, with an obligation to make the deal permanent for £60m next summer.",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-27T14:34:14.000Z",
-   "fetched_at": "2026-08-27T20:41:47.895Z",
-   "body": [
-    "Our briefing: Tottenham sign Manchester City forward Omar Marmoush on loan until the end of the season, with an obligation to make the deal permanent for £60m next summer.",
-    "Tottenham sign Manchester City forward Omar Marmoush on loan until the end of the season, with an obligation to make the deal permanent for £60m next summer.",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Manchester_City_Skyline.jpg/960px-Manchester_City_Skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "guardian-jamie-carragher-hit-hmrc-bankruptcy-petition-ove",
-   "slug": "jamie-carragher-hit-with-hmrc-bankruptcy-petition-over-unpai-n-ove",
-   "title": "Jamie Carragher hit with HMRC bankruptcy petition over unpaid tax bill",
-   "dek": "High court proceedings issued against former player ‘Matter resolved imminently,’ says representative Jamie Carragher could face bankruptcy after HM Revenue and Customs…",
-   "description": "High court proceedings issued against former player ‘Matter resolved imminently,’ says representative Jamie Carragher could face bankruptcy after HM Revenue and Customs (HMRC) issued a bankruptcy petition against him. Court records show HMRC issued the petition against the former Liverpool defender on Wednesday afternoon over an unpaid tax bill. No further details of the case are available. An HMRC spokesperson said: “We take a supportive approach to dealing with customers who have tax debts and do everything we can to help those who engage with us to get out of debt, such as offering instalment plans. We only petition for bankruptcy as a last resort.” Continue reading...",
-   "category": "Tactics & Analysis",
-   "league": "Football",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-08-27T14:23:17.000Z",
-   "fetched_at": "2026-08-27T20:41:48.002Z",
-   "body": [
-    "Our briefing: High court proceedings issued against former player ‘Matter resolved imminently,’ says representative Jamie Carragher could face bankruptcy after HM Revenue and Customs…",
-    "High court proceedings issued against former player ‘Matter resolved imminently,’ says representative Jamie Carragher could face bankruptcy after HM Revenue and Customs (HMRC) issued a bankruptcy petition against him. Court records show HMRC issued the petition against the former Liverpool defender on Wednesday afternoon over an unpaid tax bill. No further details of the case are available.",
-    "An HMRC spokesperson said: “We take a supportive approach to dealing with customers who have tax debts and do everything we can to help those who engage with us to get out of debt, such as offering instalment plans. We only petition for bankruptcy as a last resort. ” Continue reading...",
-    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "bbc-arsenal-only-likely-exit-alvarez-striker-skips-t",
-   "slug": "arsenal-only-likely-exit-for-alvarez-as-striker-skips-traini-ips-t",
-   "title": "Arsenal only likely exit for Alvarez as striker skips training",
-   "dek": "Julian Alvarez has not attended Atletico Madrid training since being told privately that the club would not sell him to Barcelona.",
-   "description": "Julian Alvarez has not attended Atletico Madrid training since being told privately that the club would not sell him to Barcelona.",
-   "category": "News",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-27T14:18:57.000Z",
-   "fetched_at": "2026-08-27T20:41:47.895Z",
-   "body": [
-    "Our briefing: Julian Alvarez has not attended Atletico Madrid training since being told privately that the club would not sell him to Barcelona.",
-    "Julian Alvarez has not attended Atletico Madrid training since being told privately that the club would not sell him to Barcelona.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/West_Stand_entrance%2C_Arsenal_Stadium%2C_Highbury_-_geograph.org.uk_-_1967580.jpg/960px-West_Stand_entrance%2C_Arsenal_Stadium%2C_Highbury_-_geograph.org.uk_-_1967580.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Julian Osley — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-leyton-orient-criticise-badge-new-wrexham-kit",
-   "slug": "leyton-orient-criticise-badge-on-new-wrexham-kit-m-kit",
-   "title": "Leyton Orient criticise badge on new Wrexham kit",
-   "dek": "Leyton Orient criticise Wrexham and their celebrity owners, Ryan Reynolds and Rob Mac, for putting a badge on their new kit that mirrors their own.",
-   "description": "Leyton Orient criticise Wrexham and their celebrity owners, Ryan Reynolds and Rob Mac, for putting a badge on their new kit that mirrors their own.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-08-27T14:12:51.000Z",
-   "fetched_at": "2026-08-27T20:41:47.895Z",
-   "body": [
-    "Our briefing: Leyton Orient criticise Wrexham and their celebrity owners, Ryan Reynolds and Rob Mac, for putting a badge on their new kit that mirrors their own.",
-    "Leyton Orient criticise Wrexham and their celebrity owners, Ryan Reynolds and Rob Mac, for putting a badge on their new kit that mirrors their own.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   }
  ]
 }
