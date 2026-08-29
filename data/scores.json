@@ -1,45 +1,6 @@
 {
- "generated_at": "2026-08-29T20:31:27.932Z",
+ "generated_at": "2026-08-29T23:00:47.018Z",
  "matches": [
-  {
-   "league": "La Liga",
-   "home": "Levante",
-   "away": "Real Betis",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-   "homeScore": 5,
-   "awayScore": 2,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-08-29T15:00Z"
-  },
-  {
-   "league": "La Liga",
-   "home": "Real Sociedad",
-   "away": "Espanyol",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png",
-   "homeScore": 2,
-   "awayScore": 1,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-08-29T17:00Z"
-  },
-  {
-   "league": "La Liga",
-   "home": "Sevilla",
-   "away": "Atlético Madrid",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-   "homeScore": 0,
-   "awayScore": 3,
-   "status": "live",
-   "clock": "45'+7'",
-   "time": "HT",
-   "date": "2026-08-29T19:30Z"
-  },
   {
    "league": "Premier League",
    "home": "Liverpool",
@@ -91,6 +52,97 @@
    "clock": "",
    "time": "FT",
    "date": "2026-08-29T16:30Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Fiorentina",
+   "away": "Frosinone",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png",
+   "homeScore": 0,
+   "awayScore": 3,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-08-29T16:30Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Monza",
+   "away": "Udinese",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
+   "homeScore": 2,
+   "awayScore": 3,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-08-29T16:30Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Sassuolo",
+   "away": "Torino",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
+   "homeScore": 2,
+   "awayScore": 1,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-08-29T16:30Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Juventus",
+   "away": "Parma",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
+   "homeScore": 2,
+   "awayScore": 0,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-08-29T18:45Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Levante",
+   "away": "Real Betis",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
+   "homeScore": 5,
+   "awayScore": 2,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-08-29T15:00Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Real Sociedad",
+   "away": "Espanyol",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png",
+   "homeScore": 2,
+   "awayScore": 1,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-08-29T17:00Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Sevilla",
+   "away": "Atlético Madrid",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+   "homeScore": 1,
+   "awayScore": 3,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-08-29T19:30Z"
   },
   {
    "league": "Bundesliga",
@@ -171,58 +223,6 @@
    "date": "2026-08-29T16:30Z"
   },
   {
-   "league": "Serie A",
-   "home": "Fiorentina",
-   "away": "Frosinone",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png",
-   "homeScore": 0,
-   "awayScore": 3,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-08-29T16:30Z"
-  },
-  {
-   "league": "Serie A",
-   "home": "Monza",
-   "away": "Udinese",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
-   "homeScore": 2,
-   "awayScore": 3,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-08-29T16:30Z"
-  },
-  {
-   "league": "Serie A",
-   "home": "Sassuolo",
-   "away": "Torino",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
-   "homeScore": 2,
-   "awayScore": 1,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-08-29T16:30Z"
-  },
-  {
-   "league": "Serie A",
-   "home": "Juventus",
-   "away": "Parma",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
-   "homeScore": 1,
-   "awayScore": 0,
-   "status": "live",
-   "clock": "83'",
-   "time": "83'",
-   "date": "2026-08-29T18:45Z"
-  },
-  {
    "league": "Ligue 1",
    "home": "Strasbourg",
    "away": "Lens",
@@ -243,9 +243,9 @@
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
    "homeScore": 1,
    "awayScore": 3,
-   "status": "live",
-   "clock": "87'",
-   "time": "87'",
+   "status": "final",
+   "clock": "",
+   "time": "FT",
    "date": "2026-08-29T18:45Z"
   },
   {
@@ -254,11 +254,11 @@
    "away": "Toulouse",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png",
-   "homeScore": 1,
+   "homeScore": 2,
    "awayScore": 2,
-   "status": "live",
-   "clock": "87'",
-   "time": "87'",
+   "status": "final",
+   "clock": "",
+   "time": "FT",
    "date": "2026-08-29T18:45Z"
   },
   {
@@ -269,9 +269,9 @@
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/170.png",
    "homeScore": 1,
    "awayScore": 2,
-   "status": "live",
-   "clock": "88'",
-   "time": "88'",
+   "status": "final",
+   "clock": "",
+   "time": "FT",
    "date": "2026-08-29T18:45Z"
   },
   {
@@ -282,9 +282,9 @@
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3236.png",
    "homeScore": 1,
    "awayScore": 1,
-   "status": "live",
-   "clock": "90'",
-   "time": "90'",
+   "status": "final",
+   "clock": "",
+   "time": "FT",
    "date": "2026-08-29T18:45Z"
   }
  ]
