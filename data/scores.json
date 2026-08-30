@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-30T13:08:58.682Z",
+ "generated_at": "2026-08-30T17:41:27.689Z",
  "matches": [
   {
    "league": "La Liga",
@@ -7,11 +7,11 @@
    "away": "Málaga",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/99.png",
-   "homeScore": 0,
+   "homeScore": 4,
    "awayScore": 0,
-   "status": "pre",
+   "status": "final",
    "clock": "",
-   "time": "Sun, August 30th at 11:00 AM EDT",
+   "time": "FT",
    "date": "2026-08-30T15:00Z"
   },
   {
@@ -22,9 +22,9 @@
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
    "homeScore": 0,
    "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Sun, August 30th at 1:30 PM EDT",
+   "status": "live",
+   "clock": "9'",
+   "time": "9'",
    "date": "2026-08-30T17:30Z"
   },
   {
@@ -41,94 +41,16 @@
    "date": "2026-08-30T19:30Z"
   },
   {
-   "league": "Premier League",
-   "home": "Chelsea",
-   "away": "Brighton & Hove Albion",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
-   "homeScore": 1,
-   "awayScore": 0,
-   "status": "live",
-   "clock": "8'",
-   "time": "8'",
-   "date": "2026-08-30T13:00Z"
-  },
-  {
-   "league": "Premier League",
-   "home": "Leeds United",
-   "away": "Brentford",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "live",
-   "clock": "8'",
-   "time": "8'",
-   "date": "2026-08-30T13:00Z"
-  },
-  {
-   "league": "Premier League",
-   "home": "Sunderland",
-   "away": "Fulham",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "live",
-   "clock": "9'",
-   "time": "9'",
-   "date": "2026-08-30T13:00Z"
-  },
-  {
-   "league": "Premier League",
-   "home": "Manchester United",
-   "away": "Ipswich Town",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Sun, August 30th at 11:30 AM EDT",
-   "date": "2026-08-30T15:30Z"
-  },
-  {
-   "league": "Bundesliga",
-   "home": "SC Freiburg",
-   "away": "Werder Bremen",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Sun, August 30th at 9:30 AM EDT",
-   "date": "2026-08-30T13:30Z"
-  },
-  {
-   "league": "Bundesliga",
-   "home": "FC Augsburg",
-   "away": "Schalke 04",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Sun, August 30th at 11:30 AM EDT",
-   "date": "2026-08-30T15:30Z"
-  },
-  {
    "league": "Serie A",
    "home": "Napoli",
    "away": "Como",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Sun, August 30th at 12:30 PM EDT",
+   "homeScore": 1,
+   "awayScore": 2,
+   "status": "live",
+   "clock": "47'",
+   "time": "47'",
    "date": "2026-08-30T16:30Z"
   },
   {
@@ -158,16 +80,68 @@
    "date": "2026-08-30T18:45Z"
   },
   {
+   "league": "Premier League",
+   "home": "Chelsea",
+   "away": "Brighton & Hove Albion",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
+   "homeScore": 4,
+   "awayScore": 3,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-08-30T13:00Z"
+  },
+  {
+   "league": "Premier League",
+   "home": "Leeds United",
+   "away": "Brentford",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png",
+   "homeScore": 1,
+   "awayScore": 1,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-08-30T13:00Z"
+  },
+  {
+   "league": "Premier League",
+   "home": "Sunderland",
+   "away": "Fulham",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
+   "homeScore": 1,
+   "awayScore": 0,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-08-30T13:00Z"
+  },
+  {
+   "league": "Premier League",
+   "home": "Manchester United",
+   "away": "Ipswich Town",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
+   "homeScore": 5,
+   "awayScore": 2,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-08-30T15:30Z"
+  },
+  {
    "league": "Ligue 1",
    "home": "Paris FC",
    "away": "Nice",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
-   "homeScore": 0,
+   "homeScore": 3,
    "awayScore": 0,
-   "status": "live",
-   "clock": "9'",
-   "time": "9'",
+   "status": "final",
+   "clock": "",
+   "time": "FT",
    "date": "2026-08-30T13:00Z"
   },
   {
@@ -176,11 +150,11 @@
    "away": "Le Mans",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2697.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
+   "homeScore": 3,
+   "awayScore": 2,
+   "status": "final",
    "clock": "",
-   "time": "Sun, August 30th at 11:15 AM EDT",
+   "time": "FT",
    "date": "2026-08-30T15:15Z"
   },
   {
@@ -195,6 +169,32 @@
    "clock": "",
    "time": "Sun, August 30th at 2:45 PM EDT",
    "date": "2026-08-30T18:45Z"
+  },
+  {
+   "league": "Bundesliga",
+   "home": "SC Freiburg",
+   "away": "Werder Bremen",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
+   "homeScore": 4,
+   "awayScore": 1,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-08-30T13:30Z"
+  },
+  {
+   "league": "Bundesliga",
+   "home": "FC Augsburg",
+   "away": "Schalke 04",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png",
+   "homeScore": 3,
+   "awayScore": 0,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-08-30T15:30Z"
   }
  ]
 }
