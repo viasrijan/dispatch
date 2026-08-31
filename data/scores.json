@@ -1,19 +1,6 @@
 {
- "generated_at": "2026-08-31T07:32:51.774Z",
+ "generated_at": "2026-08-31T15:54:35.382Z",
  "matches": [
-  {
-   "league": "Premier League",
-   "home": "Aston Villa",
-   "away": "Arsenal",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Mon, August 31st at 3:00 PM EDT",
-   "date": "2026-08-31T19:00Z"
-  },
   {
    "league": "La Liga",
    "home": "Osasuna",
@@ -39,6 +26,32 @@
    "clock": "",
    "time": "Mon, August 31st at 3:30 PM EDT",
    "date": "2026-08-31T19:30Z"
+  },
+  {
+   "league": "Premier League",
+   "home": "Aston Villa",
+   "away": "Arsenal",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Mon, August 31st at 3:00 PM EDT",
+   "date": "2026-08-31T19:00Z"
+  },
+  {
+   "league": "Ligue 1",
+   "home": "Toulouse",
+   "away": "Lille",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Thu, September 3rd at 2:45 PM EDT",
+   "date": "2026-09-03T18:45Z"
   },
   {
    "league": "Serie A",
@@ -91,19 +104,6 @@
    "clock": "",
    "time": "FT",
    "date": "2026-08-30T15:30Z"
-  },
-  {
-   "league": "Ligue 1",
-   "home": "Toulouse",
-   "away": "Lille",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Thu, September 3rd at 2:45 PM EDT",
-   "date": "2026-09-03T18:45Z"
   }
  ]
 }
