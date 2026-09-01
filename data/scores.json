@@ -1,18 +1,57 @@
 {
- "generated_at": "2026-09-01T00:43:45.522Z",
+ "generated_at": "2026-09-01T06:04:05.447Z",
  "matches": [
   {
-   "league": "Premier League",
-   "home": "Aston Villa",
-   "away": "Arsenal",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+   "league": "La Liga",
+   "home": "Real Sociedad",
+   "away": "Celta Vigo",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
    "homeScore": 0,
-   "awayScore": 1,
-   "status": "final",
+   "awayScore": 0,
+   "status": "pre",
    "clock": "",
-   "time": "FT",
-   "date": "2026-08-31T19:00Z"
+   "time": "Thu, September 3rd at 3:00 PM EDT",
+   "date": "2026-09-03T19:00Z"
+  },
+  {
+   "league": "Premier League",
+   "home": "Ipswich Town",
+   "away": "Liverpool",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, September 4th at 3:00 PM EDT",
+   "date": "2026-09-04T19:00Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Genoa",
+   "away": "Como",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, September 4th at 2:45 PM EDT",
+   "date": "2026-09-04T18:45Z"
+  },
+  {
+   "league": "Bundesliga",
+   "home": "VfB Stuttgart",
+   "away": "FC Cologne",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, September 4th at 2:30 PM EDT",
+   "date": "2026-09-04T18:30Z"
   },
   {
    "league": "Ligue 1",
@@ -26,84 +65,6 @@
    "clock": "",
    "time": "Thu, September 3rd at 2:45 PM EDT",
    "date": "2026-09-03T18:45Z"
-  },
-  {
-   "league": "Bundesliga",
-   "home": "SC Freiburg",
-   "away": "Werder Bremen",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
-   "homeScore": 4,
-   "awayScore": 1,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-08-30T13:30Z"
-  },
-  {
-   "league": "Bundesliga",
-   "home": "FC Augsburg",
-   "away": "Schalke 04",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png",
-   "homeScore": 3,
-   "awayScore": 0,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-08-30T15:30Z"
-  },
-  {
-   "league": "Serie A",
-   "home": "Lecce",
-   "away": "AS Roma",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-   "homeScore": 0,
-   "awayScore": 4,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-08-31T16:30Z"
-  },
-  {
-   "league": "Serie A",
-   "home": "Atalanta",
-   "away": "Bologna",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
-   "homeScore": 1,
-   "awayScore": 0,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-08-31T18:45Z"
-  },
-  {
-   "league": "La Liga",
-   "home": "Osasuna",
-   "away": "Getafe",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
-   "homeScore": 1,
-   "awayScore": 0,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-08-31T17:30Z"
-  },
-  {
-   "league": "La Liga",
-   "home": "Barcelona",
-   "away": "Rayo Vallecano",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png",
-   "homeScore": 5,
-   "awayScore": 2,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-08-31T19:30Z"
   }
  ]
 }
