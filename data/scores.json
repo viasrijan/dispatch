@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-09-01T21:57:00.519Z",
+ "generated_at": "2026-09-01T23:54:01.229Z",
  "matches": [
+  {
+   "league": "La Liga",
+   "home": "Real Sociedad",
+   "away": "Celta Vigo",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Thu, September 3rd at 3:00 PM EDT",
+   "date": "2026-09-03T19:00Z"
+  },
   {
    "league": "Premier League",
    "home": "Ipswich Town",
@@ -15,17 +28,17 @@
    "date": "2026-09-04T19:00Z"
   },
   {
-   "league": "La Liga",
-   "home": "Real Sociedad",
-   "away": "Celta Vigo",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
+   "league": "Serie A",
+   "home": "Genoa",
+   "away": "Como",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
    "homeScore": 0,
    "awayScore": 0,
    "status": "pre",
    "clock": "",
-   "time": "Thu, September 3rd at 3:00 PM EDT",
-   "date": "2026-09-03T19:00Z"
+   "time": "Fri, September 4th at 2:45 PM EDT",
+   "date": "2026-09-04T18:45Z"
   },
   {
    "league": "Bundesliga",
@@ -52,19 +65,6 @@
    "clock": "",
    "time": "Thu, September 3rd at 2:45 PM EDT",
    "date": "2026-09-03T18:45Z"
-  },
-  {
-   "league": "Serie A",
-   "home": "Genoa",
-   "away": "Como",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, September 4th at 2:45 PM EDT",
-   "date": "2026-09-04T18:45Z"
   }
  ]
 }
