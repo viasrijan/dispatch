@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T21:20:48.398Z",
+ "generated_at": "2026-09-01T00:43:45.522Z",
  "matches": [
   {
    "league": "Premier League",
@@ -13,6 +13,45 @@
    "clock": "",
    "time": "FT",
    "date": "2026-08-31T19:00Z"
+  },
+  {
+   "league": "Ligue 1",
+   "home": "Toulouse",
+   "away": "Lille",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Thu, September 3rd at 2:45 PM EDT",
+   "date": "2026-09-03T18:45Z"
+  },
+  {
+   "league": "Bundesliga",
+   "home": "SC Freiburg",
+   "away": "Werder Bremen",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
+   "homeScore": 4,
+   "awayScore": 1,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-08-30T13:30Z"
+  },
+  {
+   "league": "Bundesliga",
+   "home": "FC Augsburg",
+   "away": "Schalke 04",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png",
+   "homeScore": 3,
+   "awayScore": 0,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-08-30T15:30Z"
   },
   {
    "league": "Serie A",
@@ -41,19 +80,6 @@
    "date": "2026-08-31T18:45Z"
   },
   {
-   "league": "Ligue 1",
-   "home": "Toulouse",
-   "away": "Lille",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Thu, September 3rd at 2:45 PM EDT",
-   "date": "2026-09-03T18:45Z"
-  },
-  {
    "league": "La Liga",
    "home": "Osasuna",
    "away": "Getafe",
@@ -72,38 +98,12 @@
    "away": "Rayo Vallecano",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png",
-   "homeScore": 4,
+   "homeScore": 5,
    "awayScore": 2,
-   "status": "live",
-   "clock": "86'",
-   "time": "86'",
+   "status": "final",
+   "clock": "",
+   "time": "FT",
    "date": "2026-08-31T19:30Z"
-  },
-  {
-   "league": "Bundesliga",
-   "home": "SC Freiburg",
-   "away": "Werder Bremen",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
-   "homeScore": 4,
-   "awayScore": 1,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-08-30T13:30Z"
-  },
-  {
-   "league": "Bundesliga",
-   "home": "FC Augsburg",
-   "away": "Schalke 04",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png",
-   "homeScore": 3,
-   "awayScore": 0,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-08-30T15:30Z"
   }
  ]
 }
