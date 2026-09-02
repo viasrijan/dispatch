@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T03:19:02.115Z",
+ "generated_at": "2026-09-02T08:04:03.953Z",
  "matches": [
   {
    "league": "La Liga",
@@ -28,6 +28,19 @@
    "date": "2026-09-04T18:45Z"
   },
   {
+   "league": "Premier League",
+   "home": "Ipswich Town",
+   "away": "Liverpool",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, September 4th at 3:00 PM EDT",
+   "date": "2026-09-04T19:00Z"
+  },
+  {
    "league": "Bundesliga",
    "home": "VfB Stuttgart",
    "away": "FC Cologne",
@@ -52,19 +65,6 @@
    "clock": "",
    "time": "Thu, September 3rd at 2:45 PM EDT",
    "date": "2026-09-03T18:45Z"
-  },
-  {
-   "league": "Premier League",
-   "home": "Ipswich Town",
-   "away": "Liverpool",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, September 4th at 3:00 PM EDT",
-   "date": "2026-09-04T19:00Z"
   }
  ]
 }
