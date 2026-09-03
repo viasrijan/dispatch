@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T21:13:25.343Z",
+ "generated_at": "2026-09-03T23:26:08.340Z",
  "matches": [
   {
    "league": "Premier League",
@@ -15,17 +15,17 @@
    "date": "2026-09-04T19:00Z"
   },
   {
-   "league": "Serie A",
-   "home": "Genoa",
-   "away": "Como",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
+   "league": "Ligue 1",
+   "home": "Toulouse",
+   "away": "Lille",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
    "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
+   "awayScore": 1,
+   "status": "final",
    "clock": "",
-   "time": "Fri, September 4th at 2:45 PM EDT",
-   "date": "2026-09-04T18:45Z"
+   "time": "FT",
+   "date": "2026-09-03T18:45Z"
   },
   {
    "league": "La Liga",
@@ -41,19 +41,6 @@
    "date": "2026-09-03T19:00Z"
   },
   {
-   "league": "Ligue 1",
-   "home": "Toulouse",
-   "away": "Lille",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-   "homeScore": 0,
-   "awayScore": 1,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-09-03T18:45Z"
-  },
-  {
    "league": "Bundesliga",
    "home": "VfB Stuttgart",
    "away": "FC Cologne",
@@ -65,6 +52,19 @@
    "clock": "",
    "time": "Fri, September 4th at 2:30 PM EDT",
    "date": "2026-09-04T18:30Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Genoa",
+   "away": "Como",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, September 4th at 2:45 PM EDT",
+   "date": "2026-09-04T18:45Z"
   }
  ]
 }
