@@ -1,25 +1,25 @@
 {
- "generated_at": "2026-09-04T06:19:32.321Z",
+ "generated_at": "2026-09-04T11:34:58.000Z",
  "matches": [
-  {
-   "league": "La Liga",
-   "home": "Real Sociedad",
-   "away": "Celta Vigo",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-09-03T19:00Z"
-  },
   {
    "league": "Premier League",
    "home": "Ipswich Town",
    "away": "Liverpool",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, September 4th at 3:00 PM EDT",
+   "date": "2026-09-04T19:00Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Real Betis",
+   "away": "Real Madrid",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
    "homeScore": 0,
    "awayScore": 0,
    "status": "pre",
@@ -55,16 +55,29 @@
   },
   {
    "league": "Ligue 1",
-   "home": "Toulouse",
-   "away": "Lille",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+   "home": "Lyon",
+   "away": "AJ Auxerre",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/172.png",
    "homeScore": 0,
-   "awayScore": 1,
-   "status": "final",
+   "awayScore": 0,
+   "status": "pre",
    "clock": "",
-   "time": "FT",
-   "date": "2026-09-03T18:45Z"
+   "time": "Fri, September 4th at 1:00 PM EDT",
+   "date": "2026-09-04T17:00Z"
+  },
+  {
+   "league": "Ligue 1",
+   "home": "Paris Saint-Germain",
+   "away": "AS Monaco",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, September 4th at 3:05 PM EDT",
+   "date": "2026-09-04T19:05Z"
   }
  ]
 }
