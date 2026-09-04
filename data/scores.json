@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T18:51:41.882Z",
+ "generated_at": "2026-09-04T21:17:15.338Z",
  "matches": [
   {
    "league": "La Liga",
@@ -7,25 +7,12 @@
    "away": "Real Madrid",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-   "homeScore": 0,
+   "homeScore": 1,
    "awayScore": 0,
-   "status": "pre",
+   "status": "final",
    "clock": "",
-   "time": "Fri, September 4th at 3:00 PM EDT",
+   "time": "FT",
    "date": "2026-09-04T19:00Z"
-  },
-  {
-   "league": "Serie A",
-   "home": "Genoa",
-   "away": "Como",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "live",
-   "clock": "4'",
-   "time": "4'",
-   "date": "2026-09-04T18:45Z"
   },
   {
    "league": "Premier League",
@@ -34,11 +21,24 @@
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
    "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
+   "awayScore": 2,
+   "status": "final",
    "clock": "",
-   "time": "Fri, September 4th at 3:00 PM EDT",
+   "time": "FT",
    "date": "2026-09-04T19:00Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Genoa",
+   "away": "Como",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
+   "homeScore": 1,
+   "awayScore": 4,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-09-04T18:45Z"
   },
   {
    "league": "Bundesliga",
@@ -46,11 +46,11 @@
    "away": "FC Cologne",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "live",
-   "clock": "19'",
-   "time": "19'",
+   "homeScore": 4,
+   "awayScore": 1,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
    "date": "2026-09-04T18:30Z"
   },
   {
@@ -61,9 +61,9 @@
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/172.png",
    "homeScore": 3,
    "awayScore": 1,
-   "status": "live",
-   "clock": "90'",
-   "time": "90'",
+   "status": "final",
+   "clock": "",
+   "time": "FT",
    "date": "2026-09-04T17:00Z"
   },
   {
@@ -72,11 +72,11 @@
    "away": "AS Monaco",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
+   "homeScore": 1,
+   "awayScore": 2,
+   "status": "final",
    "clock": "",
-   "time": "Fri, September 4th at 3:05 PM EDT",
+   "time": "FT",
    "date": "2026-09-04T19:05Z"
   }
  ]
