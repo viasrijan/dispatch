@@ -1,31 +1,18 @@
 {
- "generated_at": "2026-09-04T21:17:15.338Z",
+ "generated_at": "2026-09-04T23:10:42.552Z",
  "matches": [
   {
-   "league": "La Liga",
-   "home": "Real Betis",
-   "away": "Real Madrid",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-   "homeScore": 1,
-   "awayScore": 0,
+   "league": "Bundesliga",
+   "home": "VfB Stuttgart",
+   "away": "FC Cologne",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
+   "homeScore": 4,
+   "awayScore": 1,
    "status": "final",
    "clock": "",
    "time": "FT",
-   "date": "2026-09-04T19:00Z"
-  },
-  {
-   "league": "Premier League",
-   "home": "Ipswich Town",
-   "away": "Liverpool",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-   "homeScore": 0,
-   "awayScore": 2,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-09-04T19:00Z"
+   "date": "2026-09-04T18:30Z"
   },
   {
    "league": "Serie A",
@@ -41,17 +28,30 @@
    "date": "2026-09-04T18:45Z"
   },
   {
-   "league": "Bundesliga",
-   "home": "VfB Stuttgart",
-   "away": "FC Cologne",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
-   "homeScore": 4,
-   "awayScore": 1,
+   "league": "Premier League",
+   "home": "Ipswich Town",
+   "away": "Liverpool",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+   "homeScore": 0,
+   "awayScore": 2,
    "status": "final",
    "clock": "",
    "time": "FT",
-   "date": "2026-09-04T18:30Z"
+   "date": "2026-09-04T19:00Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Real Betis",
+   "away": "Real Madrid",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+   "homeScore": 1,
+   "awayScore": 0,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-09-04T19:00Z"
   },
   {
    "league": "Ligue 1",
