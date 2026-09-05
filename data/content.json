@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-05T01:16:23.248Z",
- "updated_utc": "2026-09-05T01:16Z",
- "cycle": 29809516,
+ "generated_at": "2026-09-05T06:08:00.611Z",
+ "updated_utc": "2026-09-05T06:08Z",
+ "cycle": 29809808,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,8 +16,71 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "bbc-first-win-liverpool-boss-feels-good-iraola",
+ "hero_id": "independent-inside-reality-man-united-s-budget-rebuild-quest",
  "articles": [
+  {
+   "id": "bbc-flex-your-football-brain-our-daily-quizzes",
+   "slug": "flex-your-football-brain-with-our-daily-quizzes-izzes",
+   "title": "Flex your football brain with our daily quizzes",
+   "dek": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-09-05T06:01:41.000Z",
+   "fetched_at": "2026-09-05T06:07:52.629Z",
+   "body": [
+    "Our briefing: Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+    "Test your ball knowledge against today's Who Am I? , Five in Five and Brainteaser.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "John Shorten — CC BY 4.0"
+  },
+  {
+   "id": "bbc-man-utd-made-midfield-recruitment-summer-priorit",
+   "slug": "man-utd-made-midfield-recruitment-summer-priority-what-happe-iorit",
+   "title": "Man Utd made midfield recruitment summer priority - what happens now?",
+   "dek": "Michael Carrick says Manchester United have balance in their midfield following a £150m summer recruitment campaign - so who plays?",
+   "description": "Michael Carrick says Manchester United have balance in their midfield following a £150m summer recruitment campaign - so who plays?",
+   "category": "News",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-09-05T05:56:59.000Z",
+   "fetched_at": "2026-09-05T06:07:52.629Z",
+   "body": [
+    "Our briefing: Michael Carrick says Manchester United have balance in their midfield following a £150m summer recruitment campaign - so who plays?",
+    "Michael Carrick says Manchester United have balance in their midfield following a £150m summer recruitment campaign - so who plays?",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Manchester_United_Old_Trafford.jpg/960px-Manchester_United_Old_Trafford.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
+  },
+  {
+   "id": "independent-inside-reality-man-united-s-budget-rebuild-quest",
+   "slug": "inside-the-reality-of-man-united-s-budget-rebuild-and-the-qu-quest",
+   "title": "Inside the reality of Man United’s budget rebuild – and the question it asks of Michael Carrick",
+   "dek": "A host of factors coalesced for United to finish the transfer window having been outspent by their rivals, despite the need to upgrade, writes Richard Jolly . It may…",
+   "description": "A host of factors coalesced for United to finish the transfer window having been outspent by their rivals, despite the need to upgrade, writes Richard Jolly . It may force Carrick to adapt, challenging a relatively unproven coach to improve the players at his disposal",
+   "category": "Transfers & Rumours",
+   "league": "Football",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-09-05T05:00:00.000Z",
+   "fetched_at": "2026-09-05T06:07:52.957Z",
+   "body": [
+    "Our briefing: A host of factors coalesced for United to finish the transfer window having been outspent by their rivals, despite the need to upgrade, writes Richard Jolly . It may…",
+    "A host of factors coalesced for United to finish the transfer window having been outspent by their rivals, despite the need to upgrade, writes Richard Jolly .",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
+  },
   {
    "id": "bbc-isak-finally-arrives-gakpo-proves-value-liverpoo",
    "slug": "isak-finally-arrives-as-gakpo-proves-value-to-liverpool-erpoo",
@@ -29,7 +92,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-04T22:37:16.000Z",
-   "fetched_at": "2026-09-05T01:16:11.783Z",
+   "fetched_at": "2026-09-05T06:07:52.629Z",
    "body": [
     "Our briefing: Has the real Alexander Isak finally arrived at Liverpool after his two-goal display in their Premier League win at Ipswich Town, asks chief football writer Phil McNulty?",
     "Has the real Alexander Isak finally arrived at Liverpool after his two-goal display in their Premier League win at Ipswich Town, asks chief football writer Phil McNulty?",
@@ -50,15 +113,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-04T22:33:13.000Z",
-   "fetched_at": "2026-09-05T01:16:11.784Z",
+   "fetched_at": "2026-09-05T06:07:52.630Z",
    "body": [
     "Our briefing: Tottenham Hotspur manager Roberto de Zerbi says it was not his decision to leave Richarlison out of the club's Premier League squad.",
     "Tottenham Hotspur manager Roberto de Zerbi says it was not his decision to leave Richarlison out of the club's Premier League squad.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "John Shorten — CC BY 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
   },
   {
    "id": "guardian-jos-mourinho-sick-parrott-real-madrid-sunk-real-",
@@ -71,7 +134,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-04T22:11:10.000Z",
-   "fetched_at": "2026-09-05T01:16:11.849Z",
+   "fetched_at": "2026-09-05T06:07:52.708Z",
    "body": [
     "Our briefing: Mbappé sees late penalty saved by Valles PSG are beaten by league leaders Monaco Real Madrid’s perfect start in La Liga ⁠ended on Friday when Real Betis beat them 1-0,…",
     "Mbappé sees late penalty saved by Valles PSG are beaten by league leaders Monaco Real Madrid’s perfect start in La Liga ⁠ended on Friday when Real Betis beat them 1-0, with the ⁠substitute Troy Parrott ⁠scoring ​nine minutes from time and goalkeeper Álvaro Valles saving a stoppage-time ⁠penalty from Kylian Mbappé. The clash began at a high tempo but the pace ⁠dropped after the interval in the heat in ​Seville. The Republic of Ireland star Parrott, introduced ‌in the 68th ‌minute, broke the deadlock in the 81st when ‌he reacted quickly after Thibaut Courtois parried a header into his path.",
@@ -93,7 +156,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-04T22:07:56.000Z",
-   "fetched_at": "2026-09-05T01:16:11.784Z",
+   "fetched_at": "2026-09-05T06:07:52.631Z",
    "body": [
     "Our briefing: Troy Parrott scores the only goal of the game and Kylian Mbappe misses an injury-time penalty as Real Betis beat Real Madrid 1-0 in La Liga.",
     "Troy Parrott scores the only goal of the game and Kylian Mbappe misses an injury-time penalty as Real Betis beat Real Madrid 1-0 in La Liga.",
@@ -114,7 +177,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-04T21:48:52.000Z",
-   "fetched_at": "2026-09-05T01:16:11.784Z",
+   "fetched_at": "2026-09-05T06:07:52.631Z",
    "body": [
     "Our briefing: Liverpool head coach Andoni Iraola said it \"feels good\" to pick up his first victory in charge as his side beat Ipswich 2-0 at Portman Road.",
     "Liverpool head coach Andoni Iraola said it \"feels good\" to pick up his first victory in charge as his side beat Ipswich 2-0 at Portman Road.",
@@ -135,7 +198,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-04T21:47:02.000Z",
-   "fetched_at": "2026-09-05T01:16:11.784Z",
+   "fetched_at": "2026-09-05T06:07:52.631Z",
    "body": [
     "Our briefing: Ipswich Town manager Gary O'Neil describes his team's performance as \"excellent\" despite their 2-0 defeat to Liverpool at Portman Road.",
     "Ipswich Town manager Gary O'Neil describes his team's performance as \"excellent\" despite their 2-0 defeat to Liverpool at Portman Road.",
@@ -156,7 +219,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-04T21:31:56.000Z",
-   "fetched_at": "2026-09-05T01:16:11.784Z",
+   "fetched_at": "2026-09-05T06:07:52.631Z",
    "body": [
     "Our briefing: Alexander Isak scores twice in the opening ten minutes as Liverpool pick up their first win of the season with a 2-0 victory at Ipswich.",
     "Alexander Isak scores twice in the opening ten minutes as Liverpool pick up their first win of the season with a 2-0 victory at Ipswich.",
@@ -177,15 +240,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-04T21:30:31.000Z",
-   "fetched_at": "2026-09-05T01:16:11.786Z",
+   "fetched_at": "2026-09-05T06:07:52.635Z",
    "body": [
     "Our briefing: Andrew Shinnie scores the only goal against his former club as Stenhousemuir win away to Livingston and extend their surprise lead at the top of the Championship.",
     "Andrew Shinnie scores the only goal against his former club as Stenhousemuir win away to Livingston and extend their surprise lead at the top of the Championship.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "guardian-moyes-reveals-he-has-never-spoken-everton-owner-",
@@ -198,7 +261,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-04T21:30:17.000Z",
-   "fetched_at": "2026-09-05T01:16:11.849Z",
+   "fetched_at": "2026-09-05T06:07:52.708Z",
    "body": [
     "Our briefing: Friedkin Group under scrutiny after summer of sales Moyes hopes for ‘something special’ with weaker squad David Moyes has not spoken to the Everton owner and chair, Dan…",
     "Friedkin Group under scrutiny after summer of sales Moyes hopes for ‘something special’ with weaker squad David Moyes has not spoken to the Everton owner and chair, Dan Friedkin, in the 20 months since he returned to the club as manager. Moyes also issued a defiant response on Friday to Everton’s calamitous end to the transfer window , claiming it could galvanise players and fans to achieve “something special” this season. Moyes exposed an astonishing disconnect at the club when confirming he has had no contact with Friedkin, founder and chief executive of The Friedkin Group, since replacing Sean Dyche as manager in January 2025.",
@@ -220,7 +283,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-04T21:30:00.000Z",
-   "fetched_at": "2026-09-05T01:16:11.849Z",
+   "fetched_at": "2026-09-05T06:07:52.708Z",
    "body": [
     "Our briefing: Tottenham manager Roberto De Zerbi insists his wantaway Brazilian striker ‘decided everything, not me’ Continue reading...",
     "Tottenham manager Roberto De Zerbi insists his wantaway Brazilian striker ‘decided everything, not me’ Continue reading...",
@@ -241,14 +304,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-04T21:28:23.000Z",
-   "fetched_at": "2026-09-05T01:16:11.783Z",
+   "fetched_at": "2026-09-05T06:07:52.629Z",
    "body": [
     "Our briefing: The Football Association's review into England's World Cup campaign will canvass the opinions of players involved in the tournament.",
     "The Football Association's review into England's World Cup campaign will canvass the opinions of players involved in the tournament.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -262,7 +325,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-04T21:08:53.000Z",
-   "fetched_at": "2026-09-05T01:16:11.785Z",
+   "fetched_at": "2026-09-05T06:07:52.632Z",
    "body": [
     "Our briefing: After Harrison Biggins' 70-yard goal, BBC Sport Wales recalls some of the best long-range strikes over the years.",
     "After Harrison Biggins' 70-yard goal, BBC Sport Wales recalls some of the best long-range strikes over the years.",
@@ -283,7 +346,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-04T21:07:54.000Z",
-   "fetched_at": "2026-09-05T01:16:11.849Z",
+   "fetched_at": "2026-09-05T06:07:52.708Z",
    "body": [
     "Our briefing: A first win for Andoni Iraola’s Liverpool, the introduction of the latest star signing in Bradley Barcola making for a successful Friday night. Better yet, continuing…",
     "A first win for Andoni Iraola’s Liverpool, the introduction of the latest star signing in Bradley Barcola making for a successful Friday night. Better yet, continuing signs that Alexander Isak, last year’s model, is coming back to life, his two, well-taken early goals securing the three points. That Cody Gakpo, Isak’s supplier, might have been at Manchester City or Tottenham had the transfer runes been right, added further to a sense of renewal.",
@@ -306,7 +369,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-04T21:07:33.000Z",
-   "fetched_at": "2026-09-05T01:16:11.783Z",
+   "fetched_at": "2026-09-05T06:07:52.630Z",
    "body": [
     "Our briefing: Chelsea were offered ex-Tottenham midfielder Yves Bissouma, Manchester City and Chelsea showed interest in Crystal Palace's Adam Wharton, Arsenal are considering move for…",
     "Chelsea were offered ex-Tottenham midfielder Yves Bissouma, Manchester City and Chelsea showed interest in Crystal Palace's Adam Wharton, Arsenal are considering move for Barcelona's Raphinha, plus more.",
@@ -351,7 +414,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-04T21:02:47.000Z",
-   "fetched_at": "2026-09-05T01:16:12.025Z",
+   "fetched_at": "2026-09-05T06:07:52.957Z",
    "body": [
     "Our briefing: Ipswich 0-2 Liverpool: Andoni Iraola earned his first competitive win as Reds manager, with his leading No 9 finally arriving in a Liverpool shirt on a night where…",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -391,7 +454,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-04T20:54:30.000Z",
-   "fetched_at": "2026-09-05T01:16:11.783Z",
+   "fetched_at": "2026-09-05T06:07:52.629Z",
    "body": [
     "Our briefing: How Liverpool and Ipswich Town's players rated following their Premier League match.",
     "How Liverpool and Ipswich Town's players rated following their Premier League match.",
@@ -412,7 +475,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-04T19:43:26.000Z",
-   "fetched_at": "2026-09-05T01:16:11.784Z",
+   "fetched_at": "2026-09-05T06:07:52.631Z",
    "body": [
     "Our briefing: Paris St-Germain manager Luis Enrique agrees a three-year contract extension that will keep him at the club until 2030.",
     "Paris St-Germain manager Luis Enrique agrees a three-year contract extension that will keep him at the club until 2030.",
@@ -433,14 +496,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-04T19:24:48.000Z",
-   "fetched_at": "2026-09-05T01:16:11.783Z",
+   "fetched_at": "2026-09-05T06:07:52.630Z",
    "body": [
     "Our briefing: Fenerbahce midfielder Matteo Guendouzi gets a four-match European ban and is fined 50,000 euros after a brawl following the Champions League play-off win at Lyon.",
     "Fenerbahce midfielder Matteo Guendouzi gets a four-match European ban and is fined 50,000 euros after a brawl following the Champions League play-off win at Lyon.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -454,7 +517,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-04T19:00:14.000Z",
-   "fetched_at": "2026-09-05T01:16:11.849Z",
+   "fetched_at": "2026-09-05T06:07:52.708Z",
    "body": [
     "Our briefing: The Gunners will have a look at what they could have won when the former Villa man lines up against them, having made a flying start for Xabi Alonso’s team Chelsea…",
     "The Gunners will have a look at what they could have won when the former Villa man lines up against them, having made a flying start for Xabi Alonso’s team Chelsea thought they had little chance of signing Morgan Rogers at the start of the summer. Xabi Alonso and the club’s recruitment team had the England international as a priority target but a deal seemed unlikely. Chelsea had endured a disappointing season, missing out on European football after finishing 10th, and their expectation was that Rogers would leave Aston Villa for Arsenal.",
@@ -496,14 +559,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-04T18:33:30.000Z",
-   "fetched_at": "2026-09-05T01:16:11.783Z",
+   "fetched_at": "2026-09-05T06:07:52.630Z",
    "body": [
     "Our briefing: Is there any evidence that former Premier League referee Mike Dean used to play mini-games during matches? BBC Sport has taken a look at the evidence.",
     "Is there any evidence that former Premier League referee Mike Dean used to play mini-games during matches? BBC Sport has taken a look at the evidence.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -538,14 +601,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-04T16:13:56.000Z",
-   "fetched_at": "2026-09-05T01:16:12.025Z",
+   "fetched_at": "2026-09-05T06:07:52.957Z",
    "body": [
     "Our briefing: The former Premier League referee caused a furore after comments that he would play mini-games while refereeing ‘as a laugh’",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/CPSL_2005_semifinals_-_Esther_Shiner_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "Robin Glover — CC BY 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "bbc-takeover-collapse-took-wind-out-derby-s-sails",
@@ -558,14 +621,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-04T16:02:33.000Z",
-   "fetched_at": "2026-09-05T01:16:11.785Z",
+   "fetched_at": "2026-09-05T06:07:52.632Z",
    "body": [
     "Our briefing: Owner David Clowes remains committed to financing Derby despite having been an hour away from selling the club, says Rams CEO Stephen Pearce.",
     "Owner David Clowes remains committed to financing Derby despite having been an hour away from selling the club, says Rams CEO Stephen Pearce.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
   },
   {
@@ -579,7 +642,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-04T15:57:36.000Z",
-   "fetched_at": "2026-09-05T01:16:11.786Z",
+   "fetched_at": "2026-09-05T06:07:52.635Z",
    "body": [
     "Our briefing: BBC Sport's Ask Me Anything team explains why after more than seven years, Tottenham Hotspur are yet to agree a stadium sponsorship deal.",
     "BBC Sport's Ask Me Anything team explains why after more than seven years, Tottenham Hotspur are yet to agree a stadium sponsorship deal.",
@@ -600,15 +663,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-04T15:41:55.000Z",
-   "fetched_at": "2026-09-05T01:16:11.786Z",
+   "fetched_at": "2026-09-05T06:07:52.635Z",
    "body": [
     "Our briefing: The Scottish FA is proposing financial incentives - and penalties - in a bid to get more homegrown talent playing, with clubs to vote on three initiatives aimed at…",
     "The Scottish FA is proposing financial incentives - and penalties - in a bid to get more homegrown talent playing, with clubs to vote on three initiatives aimed at increased game-time for under-21s.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
   },
   {
    "id": "independent-emi-martinez-makes-unique-gesture-chelsea-fans-a",
@@ -621,7 +684,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-04T15:34:20.000Z",
-   "fetched_at": "2026-09-05T01:16:12.025Z",
+   "fetched_at": "2026-09-05T06:07:52.957Z",
    "body": [
     "Our briefing: The Argentine goalkeeper initially took the No 26, after a conversation with Blues legend John Terry, but after Robert Sanchez’s departure, he has opted to switch to the…",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -641,7 +704,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-04T15:23:41.000Z",
-   "fetched_at": "2026-09-05T01:16:12.025Z",
+   "fetched_at": "2026-09-05T06:07:52.957Z",
    "body": [
     "Our briefing: The footballer, who represented himself at the hearing, told the court ‘I made a serious mistake’",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -661,7 +724,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-04T15:06:04.000Z",
-   "fetched_at": "2026-09-05T01:16:11.785Z",
+   "fetched_at": "2026-09-05T06:07:52.632Z",
    "body": [
     "Our briefing: Daniel Kretinsky says West Ham have been provided with much-needed certainty after it was confirmed he will become the club's largest shareholder.",
     "Daniel Kretinsky says West Ham have been provided with much-needed certainty after it was confirmed he will become the club's largest shareholder.",
@@ -702,15 +765,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-04T14:51:00.000Z",
-   "fetched_at": "2026-09-05T01:16:11.785Z",
+   "fetched_at": "2026-09-05T06:07:52.632Z",
    "body": [
     "Our briefing: John Murray, Ian Dennis & Ali Bruce-Ball discuss life as football commentators.",
     "John Murray, Ian Dennis & Ali Bruce-Ball discuss life as football commentators.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
    "id": "bbc-villa-leave-harwood-bellis-out-champions-league-",
@@ -723,15 +786,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-04T14:37:09.000Z",
-   "fetched_at": "2026-09-05T01:16:11.785Z",
+   "fetched_at": "2026-09-05T06:07:52.632Z",
    "body": [
     "Our briefing: Aston Villa leave new signing Taylor Harwood-Bellis and teenage striker Brian Madjo out of their squad for the league stage of the Champions League.",
     "Aston Villa leave new signing Taylor Harwood-Bellis and teenage striker Brian Madjo out of their squad for the league stage of the Champions League.",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Badalik_Szabolcs_Hungarian_beach_soccer_player.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "Badalik Szabolcs — CC BY 4.0"
   },
   {
    "id": "independent-anderson-fernandez-rogers-can-player-ever-be-wor",
@@ -744,15 +807,15 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-04T14:34:07.000Z",
-   "fetched_at": "2026-09-05T01:16:12.025Z",
+   "fetched_at": "2026-09-05T06:07:52.957Z",
    "body": [
     "Our briefing: A wild summer window saw the market explode so that nine-figure sums are the new normal, writes Lawrence Ostlere. So are £100m fees ever justified or entirely detached…",
     "A wild summer window saw the market explode so that nine-figure sums are the new normal, writes Lawrence Ostlere. So are £100m fees ever justified or entirely detached from reality?",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   },
   {
    "id": "bbc-coventry-sign-winger-gboho-cousin-psg-s-doue",
@@ -765,7 +828,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-04T14:32:38.000Z",
-   "fetched_at": "2026-09-05T01:16:11.785Z",
+   "fetched_at": "2026-09-05T06:07:52.633Z",
    "body": [
     "Our briefing: Coventry City confirm the signing of Toulouse winger Yann Gboho - the cousin of PSG and France forward Desire Doue.",
     "Coventry City confirm the signing of Toulouse winger Yann Gboho - the cousin of PSG and France forward Desire Doue.",
@@ -786,73 +849,11 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-04T14:03:39.000Z",
-   "fetched_at": "2026-09-05T01:16:11.785Z",
+   "fetched_at": "2026-09-05T06:07:52.632Z",
    "body": [
     "Our briefing: Everton manager David Moyes accepts he has \"to live with disappointments\" after admitting he wanted to do more business on transfer deadline day.",
     "Everton manager David Moyes accepts he has \"to live with disappointments\" after admitting he wanted to do more business on transfer deadline day.",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Badalik_Szabolcs_Hungarian_beach_soccer_player.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "Badalik Szabolcs — CC BY 4.0"
-  },
-  {
-   "id": "bbc-several-players-wanted-fernandez-updates-maresca",
-   "slug": "several-players-wanted-fernandez-updates-maresca-resca",
-   "title": "Several players wanted Fernandez updates - Maresca",
-   "dek": "Several Manchester City players wanted to know if Enzo Fernandez would join in the last days of the transfer window, says manager Enzo Maresca.",
-   "description": "Several Manchester City players wanted to know if Enzo Fernandez would join in the last days of the transfer window, says manager Enzo Maresca.",
-   "category": "Transfers & Rumours",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-09-04T13:35:28.000Z",
-   "fetched_at": "2026-09-05T01:16:11.785Z",
-   "body": [
-    "Our briefing: Several Manchester City players wanted to know if Enzo Fernandez would join in the last days of the transfer window, says manager Enzo Maresca.",
-    "Several Manchester City players wanted to know if Enzo Fernandez would join in the last days of the transfer window, says manager Enzo Maresca.",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
-  },
-  {
-   "id": "independent-enzo-maresca-clarifies-whether-enzo-fernandez-pa",
-   "slug": "enzo-maresca-clarifies-whether-enzo-fernandez-is-part-of-man-ez-pa",
-   "title": "Enzo Maresca clarifies whether Enzo Fernandez is part of Man City’s leadership group",
-   "dek": "Maresca also confirmed that Enzo Fernandez is ready to make his debut against Coventry on Saturday",
-   "description": "Maresca also confirmed that Enzo Fernandez is ready to make his debut against Coventry on Saturday",
-   "category": "News",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-09-04T13:26:44.000Z",
-   "fetched_at": "2026-09-05T01:16:12.025Z",
-   "body": [
-    "Our briefing: Maresca also confirmed that Enzo Fernandez is ready to make his debut against Coventry on Saturday",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Manchester_City_dressing_room_2022.jpg/960px-Manchester_City_dressing_room_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Christian David — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-surprise-pacesetters-resurgent-runs-five-things-",
-   "slug": "surprise-pacesetters-resurgent-runs-five-things-to-watch-in--ings-",
-   "title": "Surprise pacesetters & resurgent runs - five things to watch in the EFL",
-   "dek": "Here are five key talking points before the weekend's Championship, League One and League Two action.",
-   "description": "Here are five key talking points before the weekend's Championship, League One and League Two action.",
-   "category": "Tactics & Analysis",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-09-04T13:07:13.000Z",
-   "fetched_at": "2026-09-05T01:16:11.784Z",
-   "body": [
-    "Our briefing: Here are five key talking points before the weekend's Championship, League One and League Two action.",
-    "Here are five key talking points before the weekend's Championship, League One and League Two action.",
-    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",

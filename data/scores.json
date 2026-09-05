@@ -1,31 +1,18 @@
 {
- "generated_at": "2026-09-05T01:16:23.250Z",
+ "generated_at": "2026-09-05T06:08:00.612Z",
  "matches": [
   {
-   "league": "Premier League",
-   "home": "Ipswich Town",
-   "away": "Liverpool",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-   "homeScore": 0,
-   "awayScore": 2,
+   "league": "La Liga",
+   "home": "Real Betis",
+   "away": "Real Madrid",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+   "homeScore": 1,
+   "awayScore": 0,
    "status": "final",
    "clock": "",
    "time": "FT",
    "date": "2026-09-04T19:00Z"
-  },
-  {
-   "league": "Serie A",
-   "home": "Genoa",
-   "away": "Como",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
-   "homeScore": 1,
-   "awayScore": 4,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-09-04T18:45Z"
   },
   {
    "league": "Bundesliga",
@@ -39,19 +26,6 @@
    "clock": "",
    "time": "FT",
    "date": "2026-09-04T18:30Z"
-  },
-  {
-   "league": "La Liga",
-   "home": "Real Betis",
-   "away": "Real Madrid",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-   "homeScore": 1,
-   "awayScore": 0,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-09-04T19:00Z"
   },
   {
    "league": "Ligue 1",
@@ -78,6 +52,32 @@
    "clock": "",
    "time": "FT",
    "date": "2026-09-04T19:05Z"
+  },
+  {
+   "league": "Premier League",
+   "home": "Ipswich Town",
+   "away": "Liverpool",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+   "homeScore": 0,
+   "awayScore": 2,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-09-04T19:00Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Genoa",
+   "away": "Como",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
+   "homeScore": 1,
+   "awayScore": 4,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-09-04T18:45Z"
   }
  ]
 }
