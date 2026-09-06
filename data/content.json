@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-06T05:35:03.054Z",
- "updated_utc": "2026-09-06T05:35Z",
- "cycle": 29811215,
+ "generated_at": "2026-09-06T10:25:51.604Z",
+ "updated_utc": "2026-09-06T10:25Z",
+ "cycle": 29811505,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,28 +16,71 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "bbc-how-man-utd-plan-compete-top-richer-rivals",
+ "hero_id": "bbc-bain-course-be-scotland-s-number-one",
  "articles": [
   {
-   "id": "independent-old-friends-arteta-alonso-rekindle-premier-leagu",
-   "slug": "old-friends-arteta-and-alonso-rekindle-premier-league-rivalr-leagu",
-   "title": "Old friends Arteta and Alonso rekindle Premier League rivalry as Arsenal meet Chelsea",
-   "dek": "Arteta and Alonso grew up living just minutes apart in San Sebastian and played for the same local team. On Sunday they clash as managers of two rival title contenders",
-   "description": "Arteta and Alonso grew up living just minutes apart in San Sebastian and played for the same local team. On Sunday they clash as managers of two rival title contenders",
-   "category": "News",
+   "id": "guardian-premier-league-buildup-arsenal-v-chelsea-plus-ev",
+   "slug": "premier-league-buildup-to-arsenal-v-chelsea-plus-everton-v-m-us-ev",
+   "title": "Premier League buildup to Arsenal v Chelsea, plus Everton v Manchester United and WSL – matchday live",
+   "dek": "Buildup, news and discussion before Sunday’s games This weekend’s fixtures | Mail us with your thoughts Dave Estherby gets in touch: “Not sure about the pile-on for…",
+   "description": "Buildup, news and discussion before Sunday’s games This weekend’s fixtures | Mail us with your thoughts Dave Estherby gets in touch: “Not sure about the pile-on for Russell Martin - it takes a very select set of skills to make three teams in succession worse. Love to know the odds on him being the next Tottenham manager.” Trouble at Fulham? Crystal Palace made it three defeats in three in the Premier League. Continue reading...",
+   "category": "Match Reports",
    "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-09-06T05:00:00.000Z",
-   "fetched_at": "2026-09-06T05:34:55.153Z",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-09-06T09:57:21.000Z",
+   "fetched_at": "2026-09-06T10:25:41.337Z",
    "body": [
-    "Our briefing: Arteta and Alonso grew up living just minutes apart in San Sebastian and played for the same local team. On Sunday they clash as managers of two rival title contenders",
-    "Arteta and Alonso grew up living just minutes apart in San Sebastian and played for the same local team.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
+    "Our briefing: Buildup, news and discussion before Sunday’s games This weekend’s fixtures | Mail us with your thoughts Dave Estherby gets in touch: “Not sure about the pile-on for…",
+    "Buildup, news and discussion before Sunday’s games This weekend’s fixtures | Mail us with your thoughts Dave Estherby gets in touch: “Not sure about the pile-on for Russell Martin - it takes a very select set of skills to make three teams in succession worse. Love to know the odds on him being the next Tottenham manager. ” Trouble at Fulham?",
+    "Crystal Palace made it three defeats in three in the Premier League. Continue reading...",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Arsenal_Stadium_Highbury_east_facade.jpg/960px-Arsenal_Stadium_Highbury_east_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "No machine-readable author provided. Qwghlm~commonswiki assumed (based on copyright claims). — CC BY-SA 3.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Manchester_City_v_Arsenal%2C_League_Cup_2004-5_-_geograph.org.uk_-_3841596.jpg/960px-Manchester_City_v_Arsenal%2C_League_Cup_2004-5_-_geograph.org.uk_-_3841596.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Richard Cooke — CC BY-SA 2.0"
+  },
+  {
+   "id": "bbc-bain-course-be-scotland-s-number-one",
+   "slug": "is-bain-on-course-to-be-scotland-s-number-one-r-one",
+   "title": "Is Bain on course to be Scotland's number one?",
+   "dek": "With Sebastien Pocognoli looking to change the way Scotland play, might Scott Bain be the answer to his goalkeeping problems?",
+   "description": "With Sebastien Pocognoli looking to change the way Scotland play, might Scott Bain be the answer to his goalkeeping problems?",
+   "category": "News",
+   "league": "International",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-09-06T07:56:52.000Z",
+   "fetched_at": "2026-09-06T10:25:41.261Z",
+   "body": [
+    "Our briefing: With Sebastien Pocognoli looking to change the way Scotland play, might Scott Bain be the answer to his goalkeeping problems?",
+    "With Sebastien Pocognoli looking to change the way Scotland play, might Scott Bain be the answer to his goalkeeping problems?",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "John Shorten — CC BY 4.0"
+  },
+  {
+   "id": "bbc-aberdeen-could-move-former-rangers-midfielder-go",
+   "slug": "aberdeen-could-move-for-former-rangers-midfielder-gossip-er-go",
+   "title": "Aberdeen could move for former Rangers midfielder - gossip",
+   "dek": "Aberdeen are reportedly targeting free agents, with former Rangers midfielder Greg Doherty a possibility.",
+   "description": "Aberdeen are reportedly targeting free agents, with former Rangers midfielder Greg Doherty a possibility.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-09-06T07:50:27.000Z",
+   "fetched_at": "2026-09-06T10:25:41.264Z",
+   "body": [
+    "Our briefing: Aberdeen are reportedly targeting free agents, with former Rangers midfielder Greg Doherty a possibility.",
+    "Aberdeen are reportedly targeting free agents, with former Rangers midfielder Greg Doherty a possibility.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Ibrox_Stadium%2C_Rangers_FC.jpg/960px-Ibrox_Stadium%2C_Rangers_FC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Lesterhobbes764 — CC BY-SA 4.0"
   },
   {
    "id": "independent-liverpool-spent-670m-under-richard-hughes-only-g",
@@ -49,8 +92,8 @@
    "league": "Premier League",
    "source": "independent",
    "sourceName": "The Independent",
-   "published": "2026-09-06T05:00:00.000Z",
-   "fetched_at": "2026-09-06T05:34:55.153Z",
+   "published": "2026-09-06T07:13:50.000Z",
+   "fetched_at": "2026-09-06T10:25:41.391Z",
    "body": [
     "Our briefing: Liverpool’s departing sporting director won the Premier League with Arne Slot but his task of rebuilding Jurgen Klopp’s old team remains unfinished despite spending…",
     "Liverpool’s departing sporting director won the Premier League with Arne Slot but his task of rebuilding Jurgen Klopp’s old team remains unfinished despite spending two-thirds of a billion.",
@@ -59,6 +102,48 @@
    ],
    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Galatasaray_Liverpool_CL_2006.jpg/960px-Galatasaray_Liverpool_CL_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "tekinim — CC BY 2.0"
+  },
+  {
+   "id": "bbc-flex-your-football-brain-our-daily-quizzes",
+   "slug": "flex-your-football-brain-with-our-daily-quizzes-izzes",
+   "title": "Flex your football brain with our daily quizzes",
+   "dek": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-09-06T06:02:35.000Z",
+   "fetched_at": "2026-09-06T10:25:41.261Z",
+   "body": [
+    "Our briefing: Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+    "Test your ball knowledge against today's Who Am I? , Five in Five and Brainteaser.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+  },
+  {
+   "id": "independent-old-friends-arteta-alonso-rekindle-premier-leagu",
+   "slug": "old-friends-arteta-and-alonso-rekindle-premier-league-rivalr-leagu",
+   "title": "Old friends Arteta and Alonso rekindle Premier League rivalry as Arsenal meet Chelsea",
+   "dek": "Arteta and Alonso grew up living just minutes apart in San Sebastian and played for the same local team. On Sunday they clash as managers of two rival title contenders",
+   "description": "Arteta and Alonso grew up living just minutes apart in San Sebastian and played for the same local team. On Sunday they clash as managers of two rival title contenders",
+   "category": "News",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-09-06T05:00:00.000Z",
+   "fetched_at": "2026-09-06T10:25:41.391Z",
+   "body": [
+    "Our briefing: Arteta and Alonso grew up living just minutes apart in San Sebastian and played for the same local team. On Sunday they clash as managers of two rival title contenders",
+    "Arteta and Alonso grew up living just minutes apart in San Sebastian and played for the same local team.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Arsenal_Stadium_Highbury_east_facade.jpg/960px-Arsenal_Stadium_Highbury_east_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "No machine-readable author provided. Qwghlm~commonswiki assumed (based on copyright claims). — CC BY-SA 3.0"
   },
   {
    "id": "bbc-how-crystal-palace-exposed-fulham-s-defence",
@@ -71,7 +156,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-05T23:03:57.000Z",
-   "fetched_at": "2026-09-06T05:34:54.874Z",
+   "fetched_at": "2026-09-06T10:25:41.262Z",
    "body": [
     "Our briefing: BBC pundit and ex-Fulham midfielder Danny Murphy gives his analysis on Fulham's performance against Crystal Palace at Craven Cottage.",
     "BBC pundit and ex-Fulham midfielder Danny Murphy gives his analysis on Fulham's performance against Crystal Palace at Craven Cottage.",
@@ -113,14 +198,35 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-05T22:18:56.000Z",
-   "fetched_at": "2026-09-06T05:34:54.873Z",
+   "fetched_at": "2026-09-06T10:25:41.261Z",
    "body": [
     "Our briefing: The Wrexham boss claimed the Wales international's challenge on Callum O'Hare was a 'leg-breaker'",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "John Shorten — CC BY 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+  },
+  {
+   "id": "bbc-how-man-utd-plan-compete-top-big-spending-rivals",
+   "slug": "how-man-utd-plan-to-compete-at-top-with-big-spending-rivals-ivals",
+   "title": "How Man Utd plan to compete at top with big-spending rivals",
+   "dek": "Manager Michael Carrick and chief executive Omar Berrada are united in their viewthat Manchester United can be successful despite the club's relatively low summer…",
+   "description": "Manager Michael Carrick and chief executive Omar Berrada are united in their viewthat Manchester United can be successful despite the club's relatively low summer spending.",
+   "category": "Tactics & Analysis",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-09-05T21:57:48.000Z",
+   "fetched_at": "2026-09-06T10:25:41.261Z",
+   "body": [
+    "Our briefing: Manager Michael Carrick and chief executive Omar Berrada are united in their viewthat Manchester United can be successful despite the club's relatively low summer…",
+    "Manager Michael Carrick and chief executive Omar Berrada are united in their viewthat Manchester United can be successful despite the club's relatively low summer spending.",
+    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Manchester_United_Old_Trafford.jpg/960px-Manchester_United_Old_Trafford.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
   },
   {
    "id": "bbc-how-man-utd-plan-compete-top-richer-rivals",
@@ -154,7 +260,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-05T21:36:26.000Z",
-   "fetched_at": "2026-09-06T05:34:55.001Z",
+   "fetched_at": "2026-09-06T10:25:41.337Z",
    "body": [
     "Our briefing: Celtic come from behind to win 2-1 at St Mirren Rangers beat Motherwell 1-0 but lose Shankland to injury Yang Hyun-jun scored the winner as Celtic came from behind to…",
     "Celtic come from behind to win 2-1 at St Mirren Rangers beat Motherwell 1-0 but lose Shankland to injury Yang Hyun-jun scored the winner as Celtic came from behind to beat an impressive St Mirren side 2-1. St Mirren were heading for the top of the Premiership when Nikolas Agrafiotis netted from the spot midway through the first half. Liam Scales conceded the penalty with a handball but made amends when he headed home six minutes after the break.",
@@ -176,14 +282,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-05T21:30:00.000Z",
-   "fetched_at": "2026-09-06T05:34:55.153Z",
+   "fetched_at": "2026-09-06T10:25:41.391Z",
    "body": [
     "Our briefing: Carrick is pleased with the business done during the summer transfer window",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "YHC — CC BY-SA 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
   },
   {
    "id": "bbc-seven-points-three-games-are-hull-track-avoid-re",
@@ -196,15 +302,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-05T20:56:25.000Z",
-   "fetched_at": "2026-09-06T05:34:54.873Z",
+   "fetched_at": "2026-09-06T10:25:41.261Z",
    "body": [
     "Our briefing: It might be too early to settle survival talk, but newly promoted Hull City have given themselves the perfect platform to build on in the Premier League.",
     "It might be too early to settle survival talk, but newly promoted Hull City have given themselves the perfect platform to build on in the Premier League.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "bbc-liverpool-may-make-january-move-sarr-sunday-s-go",
@@ -217,7 +323,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-05T20:24:26.000Z",
-   "fetched_at": "2026-09-06T05:34:54.873Z",
+   "fetched_at": "2026-09-06T10:25:41.262Z",
    "body": [
     "Our briefing: Liverpool may make another move for Crystal Palace winger Ismaila Sarr in January and Tottenham's Richarlison may look for a Saudi switch.",
     "Liverpool may make another move for Crystal Palace winger Ismaila Sarr in January and Tottenham's Richarlison may look for a Saudi switch.",
@@ -238,7 +344,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-05T20:23:01.000Z",
-   "fetched_at": "2026-09-06T05:34:54.873Z",
+   "fetched_at": "2026-09-06T10:25:41.261Z",
    "body": [
     "Our briefing: Leicester, Millwall, Swindon, Stoke and Burnley are among the talking points from this weekend's EFL matches.",
     "Leicester, Millwall, Swindon, Stoke and Burnley are among the talking points from this weekend's EFL matches.",
@@ -259,7 +365,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-05T19:50:21.000Z",
-   "fetched_at": "2026-09-06T05:34:55.001Z",
+   "fetched_at": "2026-09-06T10:25:41.337Z",
    "body": [
     "Our briefing: Champions Inter and Roma pull off stunning comebacks Schalke 0-0 Bayern Munich; Hoffenheim 2-3 Dortmund Lautaro Martínez scored in the 91st minute as Inter rallied from…",
     "Champions Inter and Roma pull off stunning comebacks Schalke 0-0 Bayern Munich; Hoffenheim 2-3 Dortmund Lautaro Martínez scored in the 91st minute as Inter rallied from two goals down ⁠to secure a stunning 3-2 home victory over Napoli , continuing their 100% start to their ⁠Serie A title defence. Napoli looked ⁠to be ​on course for victory when Matteo Politano and Rasmus Højlund put them 2-0 up after 53 minutes, but Martínez’s ⁠first goal halved the deficit and Marcus Thuram equalised eight minutes from the end. Both sides had excellent chances to win ⁠it after that but it was Inter who took theirs when the Argentinian stabbed ​home the ball at the back ‌post from a corner.",
@@ -281,7 +387,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-05T19:31:31.000Z",
-   "fetched_at": "2026-09-06T05:34:54.873Z",
+   "fetched_at": "2026-09-06T10:25:41.261Z",
    "body": [
     "Our briefing: Enzo le Fee scored a late penalty to rescue a point for Sunderland in a hard-fought draw with Brentford.",
     "Enzo le Fee scored a late penalty to rescue a point for Sunderland in a hard-fought draw with Brentford.",
@@ -302,7 +408,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-05T19:22:17.000Z",
-   "fetched_at": "2026-09-06T05:34:54.873Z",
+   "fetched_at": "2026-09-06T10:25:41.261Z",
    "body": [
     "Our briefing: Ben Chilwell scored on his Crystal Palace return as the Eagles came from behind twice to earn a 3-2 win at Fulham.",
     "Ben Chilwell scored on his Crystal Palace return as the Eagles came from behind twice to earn a 3-2 win at Fulham.",
@@ -323,7 +429,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-05T19:17:29.000Z",
-   "fetched_at": "2026-09-06T05:34:54.873Z",
+   "fetched_at": "2026-09-06T10:25:41.262Z",
    "body": [
     "Our briefing: Tipped for a turnaround in fortunes, the Foxes and their boss continue to falter in the third tier.",
     "Tipped for a turnaround in fortunes, the Foxes and their boss continue to falter in the third tier.",
@@ -344,7 +450,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-05T19:17:00.000Z",
-   "fetched_at": "2026-09-06T05:34:54.873Z",
+   "fetched_at": "2026-09-06T10:25:41.262Z",
    "body": [
     "Our briefing: Aston Villa remain winless three games into the new Premier League season after they were held to a goalless draw by newly promoted Hull City.",
     "Aston Villa remain winless three games into the new Premier League season after they were held to a goalless draw by newly promoted Hull City.",
@@ -365,15 +471,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-05T19:08:30.000Z",
-   "fetched_at": "2026-09-06T05:34:54.873Z",
+   "fetched_at": "2026-09-06T10:25:41.260Z",
    "body": [
     "Our briefing: Senior football correspondent Sami Mokbel goes inside Arsenal's bid to capitalise on their Premier League title and strengthen their squad this summer.",
     "Senior football correspondent Sami Mokbel goes inside Arsenal's bid to capitalise on their Premier League title and strengthen their squad this summer.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Kyiv_Arsenal_Stadium.jpg/960px-Kyiv_Arsenal_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Toronto_guy — CC BY 3.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Arsenal_Stadium_in_Tula.jpg/960px-Arsenal_Stadium_in_Tula.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "UMNICK — CC BY-SA 3.0"
   },
   {
    "id": "bbc-ramsey-strikes-late-newcastle-salvage-bournemout",
@@ -386,7 +492,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-05T19:00:52.000Z",
-   "fetched_at": "2026-09-06T05:34:54.873Z",
+   "fetched_at": "2026-09-06T10:25:41.261Z",
    "body": [
     "Our briefing: Newcastle fought back from 2-0 down to earn a hard-fought Premier League point at home to Bournemouth thanks to Jacob Ramsey's 88th minute equaliser.",
     "Newcastle fought back from 2-0 down to earn a hard-fought Premier League point at home to Bournemouth thanks to Jacob Ramsey's 88th minute equaliser.",
@@ -407,7 +513,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-05T19:00:44.000Z",
-   "fetched_at": "2026-09-06T05:34:55.001Z",
+   "fetched_at": "2026-09-06T10:25:41.337Z",
    "body": [
     "Our briefing: Mikel Arteta and Xabi Alonso prepare for an intriguing tactical battle in the first Premier League meeting between old friends Control v chaos. On the one hand, the…",
     "Mikel Arteta and Xabi Alonso prepare for an intriguing tactical battle in the first Premier League meeting between old friends Control v chaos. On the one hand, the forces of order, regimented, playing in precise patterns and, on the other, something darker, more visceral, a method that acknowledges the imperfection of the human soul, the unknowability of football in all its randomness; better, that second way says, to attempt to ride the fury than to believe it might be harnessed. When it began, a decade ago, that’s how the Pep Guardiola v Jürgen Klopp rivalry appeared.",
@@ -430,7 +536,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-05T19:00:39.000Z",
-   "fetched_at": "2026-09-06T05:34:54.873Z",
+   "fetched_at": "2026-09-06T10:25:41.261Z",
    "body": [
     "Our briefing: Manchester City highlighted their early season credentials by maintaining their 100% winning record after three Premier League games, but had to cling on to leave newly…",
     "Manchester City highlighted their early season credentials by maintaining their 100% winning record after three Premier League games, but had to cling on to leave newly promoted Coventry still searching for their first point of the campaign.",
@@ -451,7 +557,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-05T19:00:36.000Z",
-   "fetched_at": "2026-09-06T05:34:54.873Z",
+   "fetched_at": "2026-09-06T10:25:41.261Z",
    "body": [
     "Our briefing: Tottenham are still waiting for their first Premier League win of the season after a scrappy draw at Nottingham Forest.",
     "Tottenham are still waiting for their first Premier League win of the season after a scrappy draw at Nottingham Forest.",
@@ -472,7 +578,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-05T19:00:32.000Z",
-   "fetched_at": "2026-09-06T05:34:54.873Z",
+   "fetched_at": "2026-09-06T10:25:41.261Z",
    "body": [
     "Our briefing: Leeds were denied a first Premier League win at American Express Stadium as Brighton came from behind to earn a share of the spoils.",
     "Leeds were denied a first Premier League win at American Express Stadium as Brighton came from behind to earn a share of the spoils.",
@@ -493,7 +599,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-05T18:55:16.000Z",
-   "fetched_at": "2026-09-06T05:34:55.153Z",
+   "fetched_at": "2026-09-06T10:25:41.391Z",
    "body": [
     "Our briefing: Mohamed Belloumi hit the crossbar for the home side, who moved up to second overall",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -513,7 +619,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-05T18:49:30.000Z",
-   "fetched_at": "2026-09-06T05:34:54.873Z",
+   "fetched_at": "2026-09-06T10:25:41.262Z",
    "body": [
     "Our briefing: Rangers captain Lawrence Shankland is set for a spell on the sidelines after picking up a \"significant\" hamstring injury in Saturday's Scottish Premiership victory over…",
     "Rangers captain Lawrence Shankland is set for a spell on the sidelines after picking up a \"significant\" hamstring injury in Saturday's Scottish Premiership victory over Motherwell.",
@@ -534,7 +640,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-05T18:36:28.000Z",
-   "fetched_at": "2026-09-06T05:34:54.873Z",
+   "fetched_at": "2026-09-06T10:25:41.261Z",
    "body": [
     "Our briefing: Nottingham Forest manager Oliver Glasner and Neco Williams believe VAR should not have ruled out defender's goal against Tottenham.",
     "Nottingham Forest manager Oliver Glasner and Neco Williams believe VAR should not have ruled out defender's goal against Tottenham.",
@@ -555,7 +661,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-05T18:34:27.000Z",
-   "fetched_at": "2026-09-06T05:34:54.874Z",
+   "fetched_at": "2026-09-06T10:25:41.262Z",
    "body": [
     "Our briefing: Nottingham Forest manager Oliver Glasner says his side \"lost two points\" following their goalless draw against Tottenham Hotspur. The Austrian insists and says Neco…",
     "Nottingham Forest manager Oliver Glasner says his side \"lost two points\" following their goalless draw against Tottenham Hotspur. The Austrian insists and says Neco Williams' second-half disallowed goal should have stood.",
@@ -576,14 +682,14 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-05T18:28:55.000Z",
-   "fetched_at": "2026-09-06T05:34:55.001Z",
+   "fetched_at": "2026-09-06T10:25:41.337Z",
    "body": [
     "Our briefing: It’s never dull in Hull, as the saying goes in these parts, and after just three games the Premier League is proving to be quite some ride for Hull City supporters.…",
     "It’s never dull in Hull, as the saying goes in these parts, and after just three games the Premier League is proving to be quite some ride for Hull City supporters. Having embarrassed Manchester United here on the opening day and won at Coventry last weekend , this deserved point and third successive clean sheet merely reinforced Sergej Jakirovic’s belief that his men can beat the drop. Continue reading...",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Aston_Villa_prepare_1_%2815801571073%29.jpg/960px-Aston_Villa_prepare_1_%2815801571073%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Aston_Villa_prepare_2_%2816419857901%29.jpg/960px-Aston_Villa_prepare_2_%2816419857901%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ronnie Macdonald from Chelmsford and Largs, United Kingdom — CC BY 2.0"
   },
   {
@@ -617,7 +723,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-05T18:28:00.000Z",
-   "fetched_at": "2026-09-06T05:34:54.873Z",
+   "fetched_at": "2026-09-06T10:25:41.262Z",
    "body": [
     "Our briefing: Fulham arebooed off by some supporters following the 3-2 Premier League defeat by Crystal Palace at Craven Cottage.",
     "Fulham arebooed off by some supporters following the 3-2 Premier League defeat by Crystal Palace at Craven Cottage.",
@@ -638,7 +744,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-05T18:04:38.000Z",
-   "fetched_at": "2026-09-06T05:34:54.873Z",
+   "fetched_at": "2026-09-06T10:25:41.261Z",
    "body": [
     "Our briefing: Manchester City gave £185m of deadline-day talent their Premier League debuts in the win over Coventry - and manager Enzo Maresca will have enjoyed what he saw.",
     "Manchester City gave £185m of deadline-day talent their Premier League debuts in the win over Coventry - and manager Enzo Maresca will have enjoyed what he saw.",
@@ -659,7 +765,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-05T18:04:16.000Z",
-   "fetched_at": "2026-09-06T05:34:54.874Z",
+   "fetched_at": "2026-09-06T10:25:41.262Z",
    "body": [
     "Our briefing: Sunderland manager Regis Le Bris claims his side played \"one of their best halves\" in the Premier League, but rued the opportunity to take all three points following…",
     "Sunderland manager Regis Le Bris claims his side played \"one of their best halves\" in the Premier League, but rued the opportunity to take all three points following their 1-1 draw at Brentford.",
@@ -701,14 +807,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-05T17:59:27.000Z",
-   "fetched_at": "2026-09-06T05:34:54.874Z",
+   "fetched_at": "2026-09-06T10:25:41.262Z",
    "body": [
     "Our briefing: Brentford manager Keith Andrews reacts to Brentford's 1-1 draw at home to Sunderland at the Gtech Community Stadium.",
     "Brentford manager Keith Andrews reacts to Brentford's 1-1 draw at home to Sunderland at the Gtech Community Stadium.",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Brentford_Players_29112025_%282%29.jpg/960px-Brentford_Players_29112025_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Brentford_Players_29112025_%281%29.jpg/960px-Brentford_Players_29112025_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
   },
   {
@@ -722,7 +828,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-05T17:59:25.000Z",
-   "fetched_at": "2026-09-06T05:34:55.001Z",
+   "fetched_at": "2026-09-06T10:25:41.337Z",
    "body": [
     "Our briefing: Oliver Glasner argued there was insufficient evidence to disallow Neco Williams’s goal against Tottenham, accusing the video assistant referee Peter Bankes of guessing…",
     "Oliver Glasner argued there was insufficient evidence to disallow Neco Williams’s goal against Tottenham, accusing the video assistant referee Peter Bankes of guessing that the Nottingham Forest defender handled and said ruling it out weakens the officials’ authority. Midway through the second half, Williams stooped to head in on the goalline as Sandro Tonali attempted to hook the ball clear after Morgan Gibbs-White’s deflected effort bobbled towards the net. Glasner conceded at least one angle showed Williams appeared to handle the ball, seemingly to protect himself as Tonali went to clear the ball with his left boot, but said the footage was too unclear to disallow the goal.",
@@ -745,116 +851,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-05T17:56:55.000Z",
-   "fetched_at": "2026-09-06T05:34:54.873Z",
+   "fetched_at": "2026-09-06T10:25:41.261Z",
    "body": [
     "Our briefing: Tottenham have failed to score in their opening three Premier League games and manager Roberto de Zerbi says it will take time to build his expensive squad into a team.",
     "Tottenham have failed to score in their opening three Premier League games and manager Roberto de Zerbi says it will take time to build his expensive squad into a team.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
-  },
-  {
-   "id": "independent-how-cheaper-buys-outshone-125m-enzo-fernandez-ma",
-   "slug": "how-cheaper-buys-outshone-125m-enzo-fernandez-on-manchester--ez-ma",
-   "title": "How cheaper buys outshone £125m Enzo Fernandez on Manchester City bow",
-   "dek": "Man City 1-0 Coventry: Erling Haaland’s header earned the hosts all three points but the Championship winners went close to claiming a shock draw",
-   "description": "Man City 1-0 Coventry: Erling Haaland’s header earned the hosts all three points but the Championship winners went close to claiming a shock draw",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-09-05T17:44:34.000Z",
-   "fetched_at": "2026-09-06T05:34:55.153Z",
-   "body": [
-    "Our briefing: Man City 1-0 Coventry: Erling Haaland’s header earned the hosts all three points but the Championship winners went close to claiming a shock draw",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "bbc-pompey-boss-apologises-cardiff-s-bielik-clashes-",
-   "slug": "pompey-boss-apologises-as-cardiff-s-bielik-clashes-with-fan-shes-",
-   "title": "Pompey boss apologises as Cardiff's Bielik clashes with fan",
-   "dek": "Portsmouth head coach John Mousinho apologises to Cardiff City players after an incident involving home fans at Fratton Park during their Championship match.",
-   "description": "Portsmouth head coach John Mousinho apologises to Cardiff City players after an incident involving home fans at Fratton Park during their Championship match.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-09-05T17:33:25.000Z",
-   "fetched_at": "2026-09-06T05:34:54.873Z",
-   "body": [
-    "Our briefing: Portsmouth head coach John Mousinho apologises to Cardiff City players after an incident involving home fans at Fratton Park during their Championship match.",
-    "Portsmouth head coach John Mousinho apologises to Cardiff City players after an incident involving home fans at Fratton Park during their Championship match.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
-  },
-  {
-   "id": "independent-why-was-nottingham-forest-s-goal-against-tottenh",
-   "slug": "why-was-nottingham-forest-s-goal-against-tottenham-disallowe-ttenh",
-   "title": "Why was Nottingham Forest’s goal against Tottenham disallowed?",
-   "dek": "The 0-0 draw at the City Ground left both teams without a Premier League win this season",
-   "description": "The 0-0 draw at the City Ground left both teams without a Premier League win this season",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-09-05T17:30:56.000Z",
-   "fetched_at": "2026-09-06T05:34:55.153Z",
-   "body": [
-    "Our briefing: The 0-0 draw at the City Ground left both teams without a Premier League win this season",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Tottenham_v_Vitesse_Europa_Conference_League_at_Tottenham_Hotspur_Stadium.jpg/960px-Tottenham_v_Vitesse_Europa_Conference_League_at_Tottenham_Hotspur_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Daniel (photos · photo sets) — CC BY 2.0"
-  },
-  {
-   "id": "independent-ben-chilwell-grabs-heroic-crystal-palace-winner-",
-   "slug": "ben-chilwell-grabs-heroic-crystal-palace-winner-to-deepen-fu-nner-",
-   "title": "Ben Chilwell grabs heroic Crystal Palace winner to deepen Fulham misery",
-   "dek": "Fulham 2-3 Crystal Palace: Tyrick Mitchell also struck twice for the vistors to seal their first win for new boss Pierre Sage",
-   "description": "Fulham 2-3 Crystal Palace: Tyrick Mitchell also struck twice for the vistors to seal their first win for new boss Pierre Sage",
-   "category": "News",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-09-05T17:21:48.000Z",
-   "fetched_at": "2026-09-06T05:34:55.153Z",
-   "body": [
-    "Our briefing: Fulham 2-3 Crystal Palace: Tyrick Mitchell also struck twice for the vistors to seal their first win for new boss Pierre Sage",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Fredrikstad_Fotballklubb_v_Crystal_Palace_FC%2C_28_August_2025_A06.jpg/960px-Fredrikstad_Fotballklubb_v_Crystal_Palace_FC%2C_28_August_2025_A06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "MichaelEmilio — CC BY 4.0"
-  },
-  {
-   "id": "independent-tottenham-off-mark-point-nottingham-forest-but-f",
-   "slug": "tottenham-off-the-mark-with-a-point-at-nottingham-forest-but-but-f",
-   "title": "Tottenham off the mark with a point at Nottingham Forest but frustrations remain",
-   "dek": "Nottingham Forest 0-0 Tottenham: Roberto De Zerbi’s new-look side remain without a win this season after a summer spend of almost £400m",
-   "description": "Nottingham Forest 0-0 Tottenham: Roberto De Zerbi’s new-look side remain without a win this season after a summer spend of almost £400m",
-   "category": "News",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-09-05T17:21:38.000Z",
-   "fetched_at": "2026-09-06T05:34:55.153Z",
-   "body": [
-    "Our briefing: Nottingham Forest 0-0 Tottenham: Roberto De Zerbi’s new-look side remain without a win this season after a summer spend of almost £400m",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/London_Tottenham_Hotspur_Stadium.jpg/960px-London_Tottenham_Hotspur_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
   }
  ]
 }
