@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-07T20:43:21.212Z",
+ "generated_at": "2026-09-07T23:18:55.775Z",
  "matches": [
   {
    "league": "Premier League",
@@ -28,32 +28,6 @@
    "date": "2026-09-06T15:30Z"
   },
   {
-   "league": "Serie A",
-   "home": "Cagliari",
-   "away": "Lecce",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png",
-   "homeScore": 1,
-   "awayScore": 0,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-09-07T16:30Z"
-  },
-  {
-   "league": "Serie A",
-   "home": "Udinese",
-   "away": "Lazio",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
-   "homeScore": 1,
-   "awayScore": 2,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-09-07T18:45Z"
-  },
-  {
    "league": "La Liga",
    "home": "Getafe",
    "away": "Celta Vigo",
@@ -72,11 +46,11 @@
    "away": "Real Sociedad",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-   "homeScore": 0,
-   "awayScore": 2,
-   "status": "live",
-   "clock": "53'",
-   "time": "53'",
+   "homeScore": 2,
+   "awayScore": 3,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
    "date": "2026-09-07T19:30Z"
   },
   {
@@ -143,6 +117,32 @@
    "clock": "",
    "time": "FT",
    "date": "2026-09-06T18:45Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Cagliari",
+   "away": "Lecce",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png",
+   "homeScore": 1,
+   "awayScore": 0,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-09-07T16:30Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Udinese",
+   "away": "Lazio",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
+   "homeScore": 1,
+   "awayScore": 2,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-09-07T18:45Z"
   }
  ]
 }
