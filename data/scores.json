@@ -1,32 +1,6 @@
 {
- "generated_at": "2026-09-07T11:47:15.743Z",
+ "generated_at": "2026-09-07T17:24:46.447Z",
  "matches": [
-  {
-   "league": "La Liga",
-   "home": "Getafe",
-   "away": "Celta Vigo",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Mon, September 7th at 1:00 PM EDT",
-   "date": "2026-09-07T17:00Z"
-  },
-  {
-   "league": "La Liga",
-   "home": "Elche",
-   "away": "Real Sociedad",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Mon, September 7th at 3:30 PM EDT",
-   "date": "2026-09-07T19:30Z"
-  },
   {
    "league": "Premier League",
    "home": "Everton",
@@ -54,30 +28,56 @@
    "date": "2026-09-06T15:30Z"
   },
   {
-   "league": "Serie A",
-   "home": "Cagliari",
-   "away": "Lecce",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png",
-   "homeScore": 0,
+   "league": "La Liga",
+   "home": "Getafe",
+   "away": "Celta Vigo",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
+   "homeScore": 1,
    "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Mon, September 7th at 12:30 PM EDT",
-   "date": "2026-09-07T16:30Z"
+   "status": "live",
+   "clock": "23'",
+   "time": "23'",
+   "date": "2026-09-07T17:00Z"
   },
   {
-   "league": "Serie A",
-   "home": "Udinese",
-   "away": "Lazio",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
+   "league": "La Liga",
+   "home": "Elche",
+   "away": "Real Sociedad",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
    "homeScore": 0,
    "awayScore": 0,
    "status": "pre",
    "clock": "",
-   "time": "Mon, September 7th at 2:45 PM EDT",
-   "date": "2026-09-07T18:45Z"
+   "time": "Mon, September 7th at 3:30 PM EDT",
+   "date": "2026-09-07T19:30Z"
+  },
+  {
+   "league": "Bundesliga",
+   "home": "Hamburg SV",
+   "away": "Mainz",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
+   "homeScore": 0,
+   "awayScore": 5,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-09-06T13:30Z"
+  },
+  {
+   "league": "Bundesliga",
+   "home": "Eintracht Frankfurt",
+   "away": "FC Augsburg",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
+   "homeScore": 1,
+   "awayScore": 4,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-09-06T15:30Z"
   },
   {
    "league": "Ligue 1",
@@ -119,30 +119,30 @@
    "date": "2026-09-06T18:45Z"
   },
   {
-   "league": "Bundesliga",
-   "home": "Hamburg SV",
-   "away": "Mainz",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
-   "homeScore": 0,
-   "awayScore": 5,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-09-06T13:30Z"
+   "league": "Serie A",
+   "home": "Cagliari",
+   "away": "Lecce",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png",
+   "homeScore": 1,
+   "awayScore": 0,
+   "status": "live",
+   "clock": "45'+2'",
+   "time": "HT",
+   "date": "2026-09-07T16:30Z"
   },
   {
-   "league": "Bundesliga",
-   "home": "Eintracht Frankfurt",
-   "away": "FC Augsburg",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
-   "homeScore": 1,
-   "awayScore": 4,
-   "status": "final",
+   "league": "Serie A",
+   "home": "Udinese",
+   "away": "Lazio",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
    "clock": "",
-   "time": "FT",
-   "date": "2026-09-06T15:30Z"
+   "time": "Mon, September 7th at 2:45 PM EDT",
+   "date": "2026-09-07T18:45Z"
   }
  ]
 }
