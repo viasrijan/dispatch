@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-09-07T23:18:55.775Z",
+ "generated_at": "2026-09-08T01:18:46.351Z",
  "matches": [
+  {
+   "league": "Serie A",
+   "home": "Cagliari",
+   "away": "Lecce",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png",
+   "homeScore": 1,
+   "awayScore": 0,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-09-07T16:30Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Udinese",
+   "away": "Lazio",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
+   "homeScore": 1,
+   "awayScore": 2,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-09-07T18:45Z"
+  },
   {
    "league": "Premier League",
    "home": "Everton",
@@ -26,6 +52,45 @@
    "clock": "",
    "time": "FT",
    "date": "2026-09-06T15:30Z"
+  },
+  {
+   "league": "Ligue 1",
+   "home": "Troyes",
+   "away": "Strasbourg",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/170.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
+   "homeScore": 2,
+   "awayScore": 6,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-09-06T13:00Z"
+  },
+  {
+   "league": "Ligue 1",
+   "home": "Angers",
+   "away": "Stade Rennais",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
+   "homeScore": 1,
+   "awayScore": 2,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-09-06T15:15Z"
+  },
+  {
+   "league": "Ligue 1",
+   "home": "Marseille",
+   "away": "Paris FC",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png",
+   "homeScore": 2,
+   "awayScore": 3,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-09-06T18:45Z"
   },
   {
    "league": "La Liga",
@@ -78,71 +143,6 @@
    "clock": "",
    "time": "FT",
    "date": "2026-09-06T15:30Z"
-  },
-  {
-   "league": "Ligue 1",
-   "home": "Troyes",
-   "away": "Strasbourg",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/170.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
-   "homeScore": 2,
-   "awayScore": 6,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-09-06T13:00Z"
-  },
-  {
-   "league": "Ligue 1",
-   "home": "Angers",
-   "away": "Stade Rennais",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
-   "homeScore": 1,
-   "awayScore": 2,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-09-06T15:15Z"
-  },
-  {
-   "league": "Ligue 1",
-   "home": "Marseille",
-   "away": "Paris FC",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png",
-   "homeScore": 2,
-   "awayScore": 3,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-09-06T18:45Z"
-  },
-  {
-   "league": "Serie A",
-   "home": "Cagliari",
-   "away": "Lecce",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png",
-   "homeScore": 1,
-   "awayScore": 0,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-09-07T16:30Z"
-  },
-  {
-   "league": "Serie A",
-   "home": "Udinese",
-   "away": "Lazio",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
-   "homeScore": 1,
-   "awayScore": 2,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-09-07T18:45Z"
   }
  ]
 }
