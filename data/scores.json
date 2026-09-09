@@ -1,19 +1,6 @@
 {
- "generated_at": "2026-09-09T14:44:06.810Z",
+ "generated_at": "2026-09-09T18:20:43.485Z",
  "matches": [
-  {
-   "league": "Serie A",
-   "home": "Venezia",
-   "away": "Fiorentina",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, September 11th at 2:45 PM EDT",
-   "date": "2026-09-11T18:45Z"
-  },
   {
    "league": "La Liga",
    "home": "Sevilla",
@@ -119,11 +106,11 @@
    "date": "2026-09-12T19:00Z"
   },
   {
-   "league": "Ligue 1",
-   "home": "Stade Rennais",
-   "away": "Marseille",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
+   "league": "Serie A",
+   "home": "Venezia",
+   "away": "Fiorentina",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
    "homeScore": 0,
    "awayScore": 0,
    "status": "pre",
@@ -143,6 +130,19 @@
    "clock": "",
    "time": "Fri, September 11th at 2:30 PM EDT",
    "date": "2026-09-11T18:30Z"
+  },
+  {
+   "league": "Ligue 1",
+   "home": "Stade Rennais",
+   "away": "Marseille",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, September 11th at 2:45 PM EDT",
+   "date": "2026-09-11T18:45Z"
   }
  ]
 }
