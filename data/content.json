@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-09T00:03:57.215Z",
- "updated_utc": "2026-09-09T00:03Z",
- "cycle": 29815203,
+ "generated_at": "2026-09-09T05:00:48.889Z",
+ "updated_utc": "2026-09-09T05:00Z",
+ "cycle": 29815500,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,8 +16,28 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "independent-troy-parrott-scores-winner-champions-league-debu",
+ "hero_id": "independent-erling-haaland-strikes-after-half-time-bust-up-m",
  "articles": [
+  {
+   "id": "independent-erling-haaland-strikes-after-half-time-bust-up-m",
+   "slug": "erling-haaland-strikes-after-half-time-bust-up-as-manchester--up-m",
+   "title": "Erling Haaland strikes after half-time bust-up as Manchester City survive tricky trip to Porto",
+   "dek": "Porto 0-2 Manchester City: Tempers flared throughout a hard-fought contest but the visitors’ quality eventually shone through",
+   "description": "Porto 0-2 Manchester City: Tempers flared throughout a hard-fought contest but the visitors’ quality eventually shone through",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-09-09T03:53:13.000Z",
+   "fetched_at": "2026-09-09T05:00:37.100Z",
+   "body": [
+    "Our briefing: Porto 0-2 Manchester City: Tempers flared throughout a hard-fought contest but the visitors’ quality eventually shone through",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/FC_Porto_vs._Vitoria_Setubal_05.jpg/960px-FC_Porto_vs._Vitoria_Setubal_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Werner100359 — CC BY-SA 4.0"
+  },
   {
    "id": "bbc-middle-again-but-mourinho-says-alexander-arnold-",
    "slug": "in-the-middle-again-but-mourinho-says-alexander-arnold-not-a-nold-",
@@ -29,7 +49,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-08T23:14:36.000Z",
-   "fetched_at": "2026-09-09T00:03:49.811Z",
+   "fetched_at": "2026-09-09T05:00:36.776Z",
    "body": [
     "Our briefing: Trent Alexander-Arnold started in midfield for Real Madrid's win over Inter - but Jose Mourinho says it is not his best position.",
     "Trent Alexander-Arnold started in midfield for Real Madrid's win over Inter - but Jose Mourinho says it is not his best position.",
@@ -50,7 +70,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-08T22:38:58.000Z",
-   "fetched_at": "2026-09-09T00:03:49.811Z",
+   "fetched_at": "2026-09-09T05:00:36.776Z",
    "body": [
     "Our briefing: Three wins in a row, top of the table, unity at the club - are West Ham ready to leave the past behind on and off the pitch?",
     "Three wins in a row, top of the table, unity at the club - are West Ham ready to leave the past behind on and off the pitch?",
@@ -71,7 +91,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-08T22:09:47.000Z",
-   "fetched_at": "2026-09-09T00:03:49.811Z",
+   "fetched_at": "2026-09-09T05:00:36.776Z",
    "body": [
     "Our briefing: Ayyoub Bouaddi belies his age with a mature Champions League performance on his first Manchester City start to showcase why the club were so intent on signing the…",
     "Ayyoub Bouaddi belies his age with a mature Champions League performance on his first Manchester City start to showcase why the club were so intent on signing the 18-year-old.",
@@ -92,7 +112,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-08T21:50:36.000Z",
-   "fetched_at": "2026-09-09T00:03:50.074Z",
+   "fetched_at": "2026-09-09T05:00:37.100Z",
    "body": [
     "Our briefing: The Republic of Ireland striker scored the winner at Lille just four days after also scoring the winner in a 1-0 victory over Real Madrid",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -112,7 +132,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-08T21:40:50.000Z",
-   "fetched_at": "2026-09-09T00:03:50.074Z",
+   "fetched_at": "2026-09-09T05:00:37.100Z",
    "body": [
     "Our briefing: Porto 0-2 Manchester City: Enzo Maresca’s side came through a tricky trip to Portugal to open with three points",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -132,7 +152,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-08T21:40:32.000Z",
-   "fetched_at": "2026-09-09T00:03:49.882Z",
+   "fetched_at": "2026-09-09T05:00:36.853Z",
    "body": [
     "Our briefing: England forward scores twice in 3-2 victory Southampton 3-1 Swansea; Watford 2-1 Preston Captain Jarrod Bowen scored twice as West Ham ’s 3-2 win over Bolton took them…",
     "England forward scores twice in 3-2 victory Southampton 3-1 Swansea; Watford 2-1 Preston Captain Jarrod Bowen scored twice as West Ham ’s 3-2 win over Bolton took them top of the Championship on goal difference. The England international opened the scoring after 13 minutes and earned his side a first win at Bolton for 31 years with his second 13 minutes from time. In between, Wanderers, beaten for a fourth successive outing, equalised through midfielder Ethan Erhahon’s maiden goal for the club and they looked on course for a ninth successive league victory over the Hammers when Ruben Rodrigues converted a 27th-minute penalty.",
@@ -142,26 +162,6 @@
    ],
    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Hertha_BSC_vs._West_Ham_United_20190731_%28066%29_Marko_Gruji%C4%87.jpg/960px-Hertha_BSC_vs._West_Ham_United_20190731_%28066%29_Marko_Gruji%C4%87.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "--Steindy (talk) 15:45, 29 August 2019 (UTC) — CC BY-SA 4.0"
-  },
-  {
-   "id": "independent-erling-haaland-strikes-after-half-time-bust-up-m",
-   "slug": "erling-haaland-strikes-after-half-time-bust-up-as-manchester--up-m",
-   "title": "Erling Haaland strikes after half-time bust-up as Manchester City survive tricky trip to Porto",
-   "dek": "Porto 0-2 Manchester City: Tempers flared throughout a hard-fought contest but the visitors’ quality eventually shone through",
-   "description": "Porto 0-2 Manchester City: Tempers flared throughout a hard-fought contest but the visitors’ quality eventually shone through",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-09-08T21:28:55.000Z",
-   "fetched_at": "2026-09-09T00:03:50.075Z",
-   "body": [
-    "Our briefing: Porto 0-2 Manchester City: Tempers flared throughout a hard-fought contest but the visitors’ quality eventually shone through",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/FC_Porto_vs._Vitoria_Setubal_04.jpg/960px-FC_Porto_vs._Vitoria_Setubal_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Werner100359 — CC BY-SA 4.0"
   },
   {
    "id": "independent-joe-willock-steers-newcastle-past-millwall-avoid",
@@ -174,7 +174,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-08T21:26:06.000Z",
-   "fetched_at": "2026-09-09T00:03:50.075Z",
+   "fetched_at": "2026-09-09T05:00:37.100Z",
    "body": [
     "Our briefing: Crystal Palace, Bournemouth, Sunderland and Bradford also advanced into the fourth round",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -194,7 +194,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-08T21:18:12.000Z",
-   "fetched_at": "2026-09-09T00:03:49.882Z",
+   "fetched_at": "2026-09-09T05:00:36.853Z",
    "body": [
     "Our briefing: Sometimes football is silly, sometimes it doesn’t make much sense, and sometimes it’s fun for it. On a night when there were 37 shots and the goalkeepers shared 13…",
     "Sometimes football is silly, sometimes it doesn’t make much sense, and sometimes it’s fun for it. On a night when there were 37 shots and the goalkeepers shared 13 occasionally absurd saves between them, José Mourinho’s current side beat his former team Inter on his Champions League return to Real Madrid. Just don’t ask exactly how.",
@@ -243,14 +243,14 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-08T21:08:19.000Z",
-   "fetched_at": "2026-09-09T00:03:49.882Z",
+   "fetched_at": "2026-09-09T05:00:36.853Z",
    "body": [
     "Our briefing: Enzo Maresca admitted a liking for the “boom-boom” of house music in the buildup to this match, then enjoyed the sweet notes of victory having overseen a gritty…",
     "Enzo Maresca admitted a liking for the “boom-boom” of house music in the buildup to this match, then enjoyed the sweet notes of victory having overseen a gritty performance from his Manchester City side in incessant rain. City had lost six of their past nine away games in the competition, and been beaten in the 2021 Champions League final at this venue, so to beat Porto and claim three points is a fillip for the manager’s nascent project. Continue reading...",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/FC_Porto_vs._Vitoria_Setubal_05.jpg/960px-FC_Porto_vs._Vitoria_Setubal_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/FC_Porto_vs._Vitoria_Setubal_03.jpg/960px-FC_Porto_vs._Vitoria_Setubal_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Werner100359 — CC BY-SA 4.0"
   },
   {
@@ -264,7 +264,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-08T21:07:57.000Z",
-   "fetched_at": "2026-09-09T00:03:49.882Z",
+   "fetched_at": "2026-09-09T05:00:36.853Z",
    "body": [
     "Our briefing: Newcastle did just enough in south-east London to progress to the next round of the Carabao Cup. Joe Willock scored the only goal of this boisterous, fun, slightly vague…",
     "Newcastle did just enough in south-east London to progress to the next round of the Carabao Cup. Joe Willock scored the only goal of this boisterous, fun, slightly vague cup tie against a spirited Millwall team that was not so much down to the bare bones, as the bones beneath the bones. By the end there was a sense both sets of fans were more or less happy.",
@@ -286,7 +286,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-08T20:55:18.000Z",
-   "fetched_at": "2026-09-09T00:03:49.811Z",
+   "fetched_at": "2026-09-09T05:00:36.776Z",
    "body": [
     "Our briefing: Aston Villa finally found their shooting boots with three goals at Club Brugge - but their win was not straightforward.",
     "Aston Villa finally found their shooting boots with three goals at Club Brugge - but their win was not straightforward.",
@@ -307,7 +307,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-08T20:45:07.000Z",
-   "fetched_at": "2026-09-09T00:03:49.811Z",
+   "fetched_at": "2026-09-09T05:00:36.777Z",
    "body": [
     "Our briefing: Germany defender Malick Thiaw is being looked at by Liverpool, Manchester United, Fulham want to lock down Calvin Bassey and James Rodriguez is in Serie B talks.",
     "Germany defender Malick Thiaw is being looked at by Liverpool, Manchester United, Fulham want to lock down Calvin Bassey and James Rodriguez is in Serie B talks.",
@@ -412,7 +412,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-08T19:15:22.000Z",
-   "fetched_at": "2026-09-09T00:03:50.076Z",
+   "fetched_at": "2026-09-09T05:00:37.100Z",
    "body": [
     "Our briefing: Club Brugge 2-3 Aston Villa: McGinn, Buendia and Jackson were on the scoresheet as Villa put their goalscoring woes behind them",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -432,7 +432,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-08T18:54:02.000Z",
-   "fetched_at": "2026-09-09T00:03:49.882Z",
+   "fetched_at": "2026-09-09T05:00:36.853Z",
    "body": [
     "Our briefing: Aston Villa were 3-1 up after 43 minutes but were made to sweat for their first win of the season, emerging victorious from an entertaining Champions League opener with…",
     "Aston Villa were 3-1 up after 43 minutes but were made to sweat for their first win of the season, emerging victorious from an entertaining Champions League opener with Club Brugge. John McGinn, who struck the only goal when Villa belatedly got their season up and running last September against Bologna , opened the scoring before Emi Buendía and a first goal for Nicolas Jackson in claret and blue appeared to put Villa out of sight at half-time. The Belgian side have become familiar foes since Villa returned to the big time, the glitziest club competition of them all; a freakish Tyrone Mings handball gifted the hosts a penalty, and subsequently victory , in 2024-25 and on this occasion Aaron Wan-Bissaka conceded a second-half penalty to plunge a seesawing contest back into the balance.",
@@ -454,7 +454,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-08T18:45:13.000Z",
-   "fetched_at": "2026-09-09T00:03:50.076Z",
+   "fetched_at": "2026-09-09T05:00:37.100Z",
    "body": [
     "Our briefing: Gunners manager Mikel Arteta had been due to speak to journalists in Italy on Tuesday evening.",
     "Gunners manager Mikel Arteta had been due to speak to journalists in Italy on Tuesday evening.",
@@ -475,7 +475,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-08T18:38:24.000Z",
-   "fetched_at": "2026-09-09T00:03:49.882Z",
+   "fetched_at": "2026-09-09T05:00:36.853Z",
    "body": [
     "Our briefing: Team arriving late at their hotel in southern Italy Jurriën Timber in squad for first time since May Arsenal’s preparations for their opening Champions League game…",
     "Team arriving late at their hotel in southern Italy Jurriën Timber in squad for first time since May Arsenal’s preparations for their opening Champions League game against Napoli have been disrupted after they were caught up in the travel chaos that affected airports across the UK. Mikel Arteta was forced to cancel his pre-match press conference at the Stadio Diego Armando Maradona on Tuesday after Arsenal’s flight was severely delayed by an air-traffic control issue. The Arsenal manager and his players are understood to have remained at the club’s training ground in Hertfordshire as they waited for the delay to pass after completing their morning session as usual.",
@@ -497,7 +497,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-08T18:11:41.000Z",
-   "fetched_at": "2026-09-09T00:03:50.076Z",
+   "fetched_at": "2026-09-09T05:00:37.100Z",
    "body": [
     "Our briefing: Atletico Madrid will face Andoni Iraola’s Liverpool at Anfield on Wednesday night",
     "Team news can change right up to kick-off. Bookmark this story for the final line-ups and confirmed sides.",
@@ -538,7 +538,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-08T17:03:35.000Z",
-   "fetched_at": "2026-09-09T00:03:49.811Z",
+   "fetched_at": "2026-09-09T05:00:36.777Z",
    "body": [
     "Our briefing: A goalkeeper from an amateur team in South East London could become king of a Ugandan region after the death of his cousin.",
     "A goalkeeper from an amateur team in South East London could become king of a Ugandan region after the death of his cousin.",
@@ -559,7 +559,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-08T17:00:44.000Z",
-   "fetched_at": "2026-09-09T00:03:49.883Z",
+   "fetched_at": "2026-09-09T05:00:36.855Z",
    "body": [
     "Our briefing: Summer spending across the league’s 30 clubs has ballooned. Here are three takeaways from the league’s transfer window With the shadow of the 2026 World Cup hanging over…",
     "Summer spending across the league’s 30 clubs has ballooned. Here are three takeaways from the league’s transfer window With the shadow of the 2026 World Cup hanging over the league and a potential set of rule changes looming, Major League Soccer’s summer transfer window was one defined by uncertainty, diverse strategies and record spending. It was the fourth transfer window since MLS allowed clubs to purchase players from other clubs using traditional transfer fees rather than general allocation money (GAM), the intraleague currency system.",
@@ -568,8 +568,8 @@
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Badalik_Szabolcs_Hungarian_beach_soccer_player.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "Badalik Szabolcs — CC BY 4.0"
   },
   {
    "id": "guardian-newcastle-admit-they-started-planning-eddie-howe",
@@ -582,7 +582,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-08T16:36:26.000Z",
-   "fetched_at": "2026-09-09T00:03:49.882Z",
+   "fetched_at": "2026-09-09T05:00:36.854Z",
    "body": [
     "Our briefing: Sporting director disappointed to lose Bruno Guimarães Manchester United target Lewis Hall agrees new contract Newcastle’s sporting director, Ross Wilson, has revealed he…",
     "Sporting director disappointed to lose Bruno Guimarães Manchester United target Lewis Hall agrees new contract Newcastle’s sporting director, Ross Wilson, has revealed he began planning at the start of this year for Eddie Howe’s departure . Howe stepped down as manager in late July and the club turned to Matthias Jaissle, who had been identified as the preferred successor. Continue reading...",
@@ -603,7 +603,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-08T16:11:38.000Z",
-   "fetched_at": "2026-09-09T00:03:49.882Z",
+   "fetched_at": "2026-09-09T05:00:36.853Z",
    "body": [
     "Our briefing: Bellingham, Rice and Alex Greenwood also nominated Ceremony to move from Paris to London for 2026 awards Harry Kane, Jude Bellingham and Declan Rice have been nominated…",
     "Bellingham, Rice and Alex Greenwood also nominated Ceremony to move from Paris to London for 2026 awards Harry Kane, Jude Bellingham and Declan Rice have been nominated for this year’s men’s Ballon d’Or with Alessia Russo and Alex Greenwood nominated for the women’s award. The 30 men’s and 30 women’s nominees were revealed by France Football magazine on Tuesday, with the winners to be announced at a ceremony in London on 26 October. Ousmane Dembélé, who won the men’s award last year, has been nominated again, as has his France teammate Kylian Mbappé , who made history when he overtook Lionel Messi for all-time World Cup goals (22) at this summer’s tournament.",
@@ -669,7 +669,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-08T15:30:39.000Z",
-   "fetched_at": "2026-09-09T00:03:50.076Z",
+   "fetched_at": "2026-09-09T05:00:37.100Z",
    "body": [
     "Our briefing: Gianni Infantino has been accused of abuse of power and failing to remain politically neutral",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -689,7 +689,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-08T15:27:09.000Z",
-   "fetched_at": "2026-09-09T00:03:49.811Z",
+   "fetched_at": "2026-09-09T05:00:36.777Z",
    "body": [
     "Our briefing: Bayern Munich striker Harry Kane is one of three England players nominated for the 2026 Ballon d'Or alongside Jude Bellingham and Declan Rice.",
     "Bayern Munich striker Harry Kane is one of three England players nominated for the 2026 Ballon d'Or alongside Jude Bellingham and Declan Rice.",
@@ -710,7 +710,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-08T15:23:56.000Z",
-   "fetched_at": "2026-09-09T00:03:49.812Z",
+   "fetched_at": "2026-09-09T05:00:36.778Z",
    "body": [
     "Our briefing: The fourth-round draw of the EFL Cup takes place on Wednesday, 16 September.",
     "The fourth-round draw of the EFL Cup takes place on Wednesday, 16 September.",
@@ -731,7 +731,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-08T15:19:48.000Z",
-   "fetched_at": "2026-09-09T00:03:50.076Z",
+   "fetched_at": "2026-09-09T05:00:37.101Z",
    "body": [
     "Our briefing: Harry Kane, Kylian Mbappe, Rodri and Khvicha Kvaratskhelia are among the top contenders for the men’s award",
     "Team news can change right up to kick-off. Bookmark this story for the final line-ups and confirmed sides.",
@@ -751,15 +751,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-08T15:16:25.000Z",
-   "fetched_at": "2026-09-09T00:03:49.812Z",
+   "fetched_at": "2026-09-09T05:00:36.778Z",
    "body": [
     "Our briefing: Wycombe Wanderers sack Michael Duff and his assistant Alex Morris just five games into the League One season.",
     "Wycombe Wanderers sack Michael Duff and his assistant Alex Morris just five games into the League One season.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/CPSL_2005_semifinals_-_Esther_Shiner_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "Robin Glover — CC BY 4.0"
   },
   {
    "id": "bbc-russo-greenwood-nominated-ballon-d-or",
@@ -772,7 +772,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-08T14:40:01.000Z",
-   "fetched_at": "2026-09-09T00:03:49.811Z",
+   "fetched_at": "2026-09-09T05:00:36.777Z",
    "body": [
     "Our briefing: England stars Alessia Russo and Alex Greenwood are among 30 players nominated for the women's Ballon d'Or.",
     "England stars Alessia Russo and Alex Greenwood are among 30 players nominated for the women's Ballon d'Or.",
@@ -793,7 +793,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-08T14:40:01.000Z",
-   "fetched_at": "2026-09-09T00:03:49.813Z",
+   "fetched_at": "2026-09-09T05:00:36.779Z",
    "body": [
     "Our briefing: Scotland captain and Lyon midfielder is among 30 players nominated for the women's Ballon d'Or.",
     "Scotland captain and Lyon midfielder is among 30 players nominated for the women's Ballon d'Or.",
@@ -814,7 +814,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-08T14:32:55.000Z",
-   "fetched_at": "2026-09-09T00:03:49.812Z",
+   "fetched_at": "2026-09-09T05:00:36.778Z",
    "body": [
     "Our briefing: Manager Martin O'Neill confirms Celtic duo Kasper Hogh and Kieran Tierney could play a part in Wednesday's Scottish Premiership match at St Johnstone.",
     "Manager Martin O'Neill confirms Celtic duo Kasper Hogh and Kieran Tierney could play a part in Wednesday's Scottish Premiership match at St Johnstone.",
@@ -835,7 +835,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-08T14:15:44.000Z",
-   "fetched_at": "2026-09-09T00:03:49.882Z",
+   "fetched_at": "2026-09-09T05:00:36.854Z",
    "body": [
     "Our briefing: Ten clubs could lose tens of millions of pounds next year Ladbrokes owner highlights PM’s position as Everton fan Half of the Premier League’s 20 clubs have sponsorship…",
     "Ten clubs could lose tens of millions of pounds next year Ladbrokes owner highlights PM’s position as Everton fan Half of the Premier League’s 20 clubs have sponsorship or advertising deals with unlicensed gambling companies that could be illegal next year under plans being developed by the government. An eight-week consultation on proposals to ban sponsorship from gambling companies not licensed in the UK closes on Wednesday, with licensed operators such as Ladbrokes and William Hill pitted against the Premier League in a battle that could cost clubs tens of millions of pounds. Continue reading...",
