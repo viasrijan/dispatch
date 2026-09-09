@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-09T18:20:43.484Z",
- "updated_utc": "2026-09-09T18:20Z",
- "cycle": 29816300,
+ "generated_at": "2026-09-09T21:04:47.746Z",
+ "updated_utc": "2026-09-09T21:04Z",
+ "cycle": 29816464,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,8 +16,136 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "independent-liverpool-v-atletico-madrid-live-bradley-barcola",
+ "hero_id": "guardian-champions-league-roundup-raphinha-shines-barcelo",
  "articles": [
+  {
+   "id": "independent-liverpool-v-atletico-madrid-live-mac-allister-st",
+   "slug": "liverpool-v-atletico-madrid-live-mac-allister-stunner-seals--er-st",
+   "title": "Liverpool v Atletico Madrid LIVE: Mac Allister stunner seals comeback win for Reds in Champions League opener",
+   "dek": "Liverpool 2-1 Atletico Madrid: Reds begin their quest for a seventh European title with comeback win over Diego Simeone’s side",
+   "description": "Liverpool 2-1 Atletico Madrid: Reds begin their quest for a seventh European title with comeback win over Diego Simeone’s side",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-09-09T21:03:09.000Z",
+   "fetched_at": "2026-09-09T21:04:38.569Z",
+   "body": [
+    "Our briefing: Liverpool 2-1 Atletico Madrid: Reds begin their quest for a seventh European title with comeback win over Diego Simeone’s side",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Galatasaray_Liverpool_CL_2006.jpg/960px-Galatasaray_Liverpool_CL_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "tekinim — CC BY 2.0"
+  },
+  {
+   "id": "independent-napoli-v-arsenal-live-odegaard-hero-gunners-grin",
+   "slug": "napoli-v-arsenal-live-odegaard-the-hero-as-gunners-grind-the--grin",
+   "title": "Napoli v Arsenal LIVE: Odegaard the hero as Gunners grind their way to opening Champions League win",
+   "dek": "Napoli 0-1 Arsenal: Odegaard finally broke the deadlock on 75 minutes as the Gunners spurned numerous other chances but did take all three points",
+   "description": "Napoli 0-1 Arsenal: Odegaard finally broke the deadlock on 75 minutes as the Gunners spurned numerous other chances but did take all three points",
+   "category": "News",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-09-09T21:01:45.000Z",
+   "fetched_at": "2026-09-09T21:04:38.570Z",
+   "body": [
+    "Our briefing: Napoli 0-1 Arsenal: Odegaard finally broke the deadlock on 75 minutes as the Gunners spurned numerous other chances but did take all three points",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Arsenal_Stadium_Highbury_east_facade.jpg/960px-Arsenal_Stadium_Highbury_east_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "No machine-readable author provided. Qwghlm~commonswiki assumed (based on copyright claims). — CC BY-SA 3.0"
+  },
+  {
+   "id": "guardian-liverpool-v-atl-tico-madrid-psg-v-slovan-bratisl",
+   "slug": "liverpool-v-atl-tico-madrid-psg-v-slovan-bratislava-chelsea--atisl",
+   "title": "Liverpool v Atlético Madrid, PSG v Slovan Bratislava, Chelsea v Leeds United – live",
+   "dek": "⚽ Champions League and Carabao Cup match updates ⚽ Live scoreboard | Read Football Daily | And mail Daniel In Barcelona, by the way, Shaqueel van Persie has come on for…",
+   "description": "⚽ Champions League and Carabao Cup match updates ⚽ Live scoreboard | Read Football Daily | And mail Daniel In Barcelona, by the way, Shaqueel van Persie has come on for Feyenoord, making his European debut . Any idea who his old fella is? On which point, have you seen Liam van Nistelrooy’s running gait? Continue reading...",
+   "category": "News",
+   "league": "Premier League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-09-09T20:49:23.000Z",
+   "fetched_at": "2026-09-09T21:04:38.289Z",
+   "body": [
+    "Our briefing: ⚽ Champions League and Carabao Cup match updates ⚽ Live scoreboard | Read Football Daily | And mail Daniel In Barcelona, by the way, Shaqueel van Persie has come on for…",
+    "⚽ Champions League and Carabao Cup match updates ⚽ Live scoreboard | Read Football Daily | And mail Daniel In Barcelona, by the way, Shaqueel van Persie has come on for Feyenoord, making his European debut . Any idea who his old fella is? On which point, have you seen Liam van Nistelrooy’s running gait?",
+    "Continue reading...",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Stadium_Street%2C_Chelsea_-_geograph.org.uk_-_4585241.jpg/960px-Stadium_Street%2C_Chelsea_-_geograph.org.uk_-_4585241.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Chris Whippet — CC BY-SA 2.0"
+  },
+  {
+   "id": "guardian-napoli-v-arsenal-champions-league-live",
+   "slug": "napoli-v-arsenal-champions-league-live--live",
+   "title": "Napoli v Arsenal: Champions League – live",
+   "dek": "⚽ Champions League updates from the 8pm BST kick-off ⚽ Live scoreboard | Read Football Daily | And email Scott 2 min: Arsenal are wearing red shorts. Full marks for…",
+   "description": "⚽ Champions League updates from the 8pm BST kick-off ⚽ Live scoreboard | Read Football Daily | And email Scott 2 min: Arsenal are wearing red shorts. Full marks for considering those with colour blindness, and acting with compassion. It doesn’t look good, mind. It’s just not Arsenal. After a moment to remember the victims of the devastating floods in Nepal, Arsenal get the ball rolling. A blistering atmosphere at the Stadio Diego Armando Maradona; did anyone expect anything else? Continue reading...",
+   "category": "News",
+   "league": "Premier League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-09-09T20:49:09.000Z",
+   "fetched_at": "2026-09-09T21:04:38.289Z",
+   "body": [
+    "Our briefing: ⚽ Champions League updates from the 8pm BST kick-off ⚽ Live scoreboard | Read Football Daily | And email Scott 2 min: Arsenal are wearing red shorts. Full marks for…",
+    "⚽ Champions League updates from the 8pm BST kick-off ⚽ Live scoreboard | Read Football Daily | And email Scott 2 min: Arsenal are wearing red shorts. Full marks for considering those with colour blindness, and acting with compassion. It doesn’t look good, mind.",
+    "It’s just not Arsenal. After a moment to remember the victims of the devastating floods in Nepal, Arsenal get the ball rolling. A blistering atmosphere at the Stadio Diego Armando Maradona; did anyone expect anything else?",
+    "Continue reading...",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Kyiv_Arsenal_Stadium.jpg/960px-Kyiv_Arsenal_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Toronto_guy — CC BY 3.0"
+  },
+  {
+   "id": "guardian-champions-league-roundup-raphinha-shines-barcelo",
+   "slug": "champions-league-roundup-raphinha-shines-as-barcelona-thrash-rcelo",
+   "title": "Champions League roundup: Raphinha shines as Barcelona thrash Feyenoord",
+   "dek": "Brazilian scores twice in 5-1 victory at the Camp Nou Demirovic scores hat-trick as Stuttgart beat Viking Raphinha let his goals do the talking after being omitted from…",
+   "description": "Brazilian scores twice in 5-1 victory at the Camp Nou Demirovic scores hat-trick as Stuttgart beat Viking Raphinha let his goals do the talking after being omitted from the Ballon d’Or shortlist, striking twice as Barcelona eased to a 5-1 win over Feyenoord in the Champions League. The Brazilian was a surprise omission from this week’s 30-strong list of candidates for the prestigious award but brushed any disappointment aside to continue his early season hot streak at a rain-soaked Camp Nou. The forward finished brilliantly in the third minute and added a second just before the hour mark to down the Eredivisie side and take his tally to eight goals in six outings at the start of the campaign. This report will be updated. Continue reading...",
+   "category": "Match Reports",
+   "league": "Champions League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-09-09T20:06:05.000Z",
+   "fetched_at": "2026-09-09T21:04:38.289Z",
+   "body": [
+    "Our briefing: Brazilian scores twice in 5-1 victory at the Camp Nou Demirovic scores hat-trick as Stuttgart beat Viking Raphinha let his goals do the talking after being omitted from…",
+    "Brazilian scores twice in 5-1 victory at the Camp Nou Demirovic scores hat-trick as Stuttgart beat Viking Raphinha let his goals do the talking after being omitted from the Ballon d’Or shortlist, striking twice as Barcelona eased to a 5-1 win over Feyenoord in the Champions League. The Brazilian was a surprise omission from this week’s 30-strong list of candidates for the prestigious award but brushed any disappointment aside to continue his early season hot streak at a rain-soaked Camp Nou. The forward finished brilliantly in the third minute and added a second just before the hour mark to down the Eredivisie side and take his tally to eight goals in six outings at the start of the campaign.",
+    "This report will be updated. Continue reading...",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/LFP_-_Barcelona_vs_Mallorca_pre-match_-_Oct_3rd_2010.jpg/960px-LFP_-_Barcelona_vs_Mallorca_pre-match_-_Oct_3rd_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Paolo Costa Baldi — CC BY-SA 3.0"
+  },
+  {
+   "id": "bbc-scottish-clubs-face-tougher-europa-league-route",
+   "slug": "scottish-clubs-face-tougher-europa-league-route-route",
+   "title": "Scottish clubs face tougher Europa League route",
+   "dek": "Uefa have made changes to the qualifying rounds of the Europa League from next season.",
+   "description": "Uefa have made changes to the qualifying rounds of the Europa League from next season.",
+   "category": "News",
+   "league": "Europa League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-09-09T19:30:57.000Z",
+   "fetched_at": "2026-09-09T21:04:38.136Z",
+   "body": [
+    "Our briefing: Uefa have made changes to the qualifying rounds of the Europa League from next season.",
+    "Uefa have made changes to the qualifying rounds of the Europa League from next season.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "John Shorten — CC BY 4.0"
+  },
   {
    "id": "independent-napoli-v-arsenal-live-arteta-s-side-begin-champi",
    "slug": "napoli-v-arsenal-live-arteta-s-side-begin-champions-league-q-hampi",
@@ -38,27 +166,6 @@
    ],
    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Arsenal_Stadium_Highbury_east_facade.jpg/960px-Arsenal_Stadium_Highbury_east_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "No machine-readable author provided. Qwghlm~commonswiki assumed (based on copyright claims). — CC BY-SA 3.0"
-  },
-  {
-   "id": "guardian-liverpool-v-atl-tico-madrid-psg-v-slovan-bratisl",
-   "slug": "liverpool-v-atl-tico-madrid-psg-v-slovan-bratislava-chelsea--atisl",
-   "title": "Liverpool v Atlético Madrid, PSG v Slovan Bratislava, Chelsea v Leeds United – live",
-   "dek": "⚽ Champions League and Carabao Cup match updates ⚽ Live scoreboard | Read Football Daily | And mail Daniel Nope, the Feyenoord goal has been chalked off for offside,…",
-   "description": "⚽ Champions League and Carabao Cup match updates ⚽ Live scoreboard | Read Football Daily | And mail Daniel Nope, the Feyenoord goal has been chalked off for offside, early in the move. Right, let’s get the teams in our 8pm games – though Feyenoord have just pulled a goal back. Continue reading...",
-   "category": "News",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-09-09T18:07:15.000Z",
-   "fetched_at": "2026-09-09T18:20:29.963Z",
-   "body": [
-    "Our briefing: ⚽ Champions League and Carabao Cup match updates ⚽ Live scoreboard | Read Football Daily | And mail Daniel Nope, the Feyenoord goal has been chalked off for offside,…",
-    "⚽ Champions League and Carabao Cup match updates ⚽ Live scoreboard | Read Football Daily | And mail Daniel Nope, the Feyenoord goal has been chalked off for offside, early in the move. Right, let’s get the teams in our 8pm games – though Feyenoord have just pulled a goal back. Continue reading...",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Stadium_Street%2C_Chelsea_-_geograph.org.uk_-_4585241.jpg/960px-Stadium_Street%2C_Chelsea_-_geograph.org.uk_-_4585241.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Chris Whippet — CC BY-SA 2.0"
   },
   {
    "id": "independent-liverpool-v-atletico-madrid-live-bradley-barcola",
@@ -91,7 +198,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-09T17:17:23.000Z",
-   "fetched_at": "2026-09-09T18:20:29.963Z",
+   "fetched_at": "2026-09-09T21:04:38.289Z",
    "body": [
     "Our briefing: Critics view Fernandes job as move to shore up position Fifa says change is designed to make sport ‘truly global’ Gianni Infantino has separated Fifa’s management of the…",
     "Critics view Fernandes job as move to shore up position Fifa says change is designed to make sport ‘truly global’ Gianni Infantino has separated Fifa’s management of the Caribbean countries from the rest of Concacaf in a move widely regarded by his opponents as an attempt to split the alliance to remove him from office. Concacaf covers North and Central America as well as the Caribbean and was previously managed as one bloc. But the Guardian has learned that the former Switzerland midfielder Gelson Fernandes, an Infantino loyalist, has been appointed as the director of member associations for the Caribbean, in addition to his position looking after Fifa’s African members.",
@@ -99,8 +206,8 @@
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Badalik_Szabolcs_Hungarian_beach_soccer_player.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "Badalik Szabolcs — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "YHC — CC BY-SA 4.0"
   },
   {
    "id": "independent-non-league-club-reports-mystery-individual-imper",
@@ -113,14 +220,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-09T16:50:27.000Z",
-   "fetched_at": "2026-09-09T18:20:30.116Z",
+   "fetched_at": "2026-09-09T21:04:38.570Z",
    "body": [
     "Our briefing: Gainsborough Trinity play in the seventh tier of English football",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "John Shorten — CC BY 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
   },
   {
    "id": "independent-why-michael-carrick-dreaming-big-man-united-s-ch",
@@ -133,7 +240,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-09T16:26:10.000Z",
-   "fetched_at": "2026-09-09T18:20:30.116Z",
+   "fetched_at": "2026-09-09T21:04:38.570Z",
    "body": [
     "Our briefing: United to return to European football’s top table after more than 1,000 days away with a clash against Azeri champions Sabah. And Carrick is now the link between old and…",
     "United to return to European football’s top table after more than 1,000 days away with a clash against Azeri champions Sabah.",
@@ -154,15 +261,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-09T16:00:46.000Z",
-   "fetched_at": "2026-09-09T18:20:29.722Z",
+   "fetched_at": "2026-09-09T21:04:38.137Z",
    "body": [
     "Our briefing: The original sign from Liverpool's stadium tunnel fetched almost eight times its estimated guide price.",
     "The original sign from Liverpool's stadium tunnel fetched almost eight times its estimated guide price.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "bbc-spoke-brilliantly-but-liverpool-fans-torn-mac-al",
@@ -175,7 +282,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-09T15:07:17.000Z",
-   "fetched_at": "2026-09-09T18:20:29.721Z",
+   "fetched_at": "2026-09-09T21:04:38.136Z",
    "body": [
     "Our briefing: Alexis Mac Allister splits opinion on his public comments regarding his contract at Liverpool, as fans and BBC Sport pundit Pat Nevin share opinions.",
     "Alexis Mac Allister splits opinion on his public comments regarding his contract at Liverpool, as fans and BBC Sport pundit Pat Nevin share opinions.",
@@ -196,7 +303,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-09T14:56:47.000Z",
-   "fetched_at": "2026-09-09T18:20:29.964Z",
+   "fetched_at": "2026-09-09T21:04:38.289Z",
    "body": [
     "Our briefing: United play Sabah, then Manchester City on Sunday ‘To win the Champions League was the ultimate’ Michael Carrick is excited to lead Manchester United on their return to…",
     "United play Sabah, then Manchester City on Sunday ‘To win the Champions League was the ultimate’ Michael Carrick is excited to lead Manchester United on their return to the “magical” Champions League but admitted playing on Thursday night was “not ideal” with the derby on Sunday. United welcome Sabah to Old Trafford after a two-year Champions League absence. The Azerbaijani club are making their debut among Europe’s elite, having been in existence for less than a decade.",
@@ -204,7 +311,7 @@
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -218,7 +325,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-09T14:52:15.000Z",
-   "fetched_at": "2026-09-09T18:20:30.116Z",
+   "fetched_at": "2026-09-09T21:04:38.570Z",
    "body": [
     "Our briefing: Haaland and Pablo Rosario were involved in a dispute shortly after the Norwegian striker scored his second goal on Tuesday night",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -238,7 +345,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-09T14:42:55.000Z",
-   "fetched_at": "2026-09-09T18:20:29.963Z",
+   "fetched_at": "2026-09-09T21:04:38.289Z",
    "body": [
     "Our briefing: Forward says incident was ‘a little interesting’ Heading practice with Alf Inge helped with opener Erling Haaland has claimed Pablo Rosario “grabbed my bottom” during…",
     "Forward says incident was ‘a little interesting’ Heading practice with Alf Inge helped with opener Erling Haaland has claimed Pablo Rosario “grabbed my bottom” during Manchester City’s 2-0 win at Porto on Tuesday. The incident occurred in the 92nd minute, with Haaland having scored City’s goals. The forward and midfielder grappled, went to ground and were booked after being separated.",
@@ -261,7 +368,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-09T14:41:38.000Z",
-   "fetched_at": "2026-09-09T18:20:29.722Z",
+   "fetched_at": "2026-09-09T21:04:38.137Z",
    "body": [
     "Our briefing: Rwanda forward Joy-Lance Mickels has helped Azerbaijan's Sabah reach the Champions League proper on their competition debut, and is now looking to down the team he…",
     "Rwanda forward Joy-Lance Mickels has helped Azerbaijan's Sabah reach the Champions League proper on their competition debut, and is now looking to down the team he supports.",
@@ -282,15 +389,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-09T14:39:26.000Z",
-   "fetched_at": "2026-09-09T18:20:29.722Z",
+   "fetched_at": "2026-09-09T21:04:38.136Z",
    "body": [
     "Our briefing: Everton assistant Alan Irvine will continue as part of a refreshed Scotland coaching staff under new boss Sebastien Pocognoli.",
     "Everton assistant Alan Irvine will continue as part of a refreshed Scotland coaching staff under new boss Sebastien Pocognoli.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/CPSL_2005_semifinals_-_Esther_Shiner_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "Robin Glover — CC BY 4.0"
   },
   {
    "id": "guardian-football-daily-troy-parrott-enjoys-big-week-afte",
@@ -303,7 +410,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-09T14:11:20.000Z",
-   "fetched_at": "2026-09-09T18:20:29.964Z",
+   "fetched_at": "2026-09-09T21:04:38.289Z",
    "body": [
     "Our briefing: Sign up now! Sign up now! Sign up now? Sign up now! There are, you suspect, quite a few folk with links to the London postcode of N17 who would be thoroughly grateful if…",
     "Sign up now! Sign up now! Sign up now?",
@@ -337,7 +444,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-09T13:45:00.000Z",
-   "fetched_at": "2026-09-09T18:20:29.964Z",
+   "fetched_at": "2026-09-09T21:04:38.289Z",
    "body": [
     "Our briefing: Through the loss of one franchise, name controversies and stadium changes, Legacy supporters have created an environment of advocacy and belonging More than two years of…",
     "Through the loss of one franchise, name controversies and stadium changes, Legacy supporters have created an environment of advocacy and belonging More than two years of work had led to this moment for the Boston Independent Supporters’ Association (ISA). Even before Boston’s new NWSL team had a name, a mascot or a roster, there were fans organizing, ready and waiting to embrace the franchise. On 14 March 2026, it finally paid off.",
@@ -359,7 +466,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-09T13:30:22.000Z",
-   "fetched_at": "2026-09-09T18:20:30.117Z",
+   "fetched_at": "2026-09-09T21:04:38.570Z",
    "body": [
     "Our briefing: Carrick’s side return to the competition for the first time since 2023",
     "Team news can change right up to kick-off. Bookmark this story for the final line-ups and confirmed sides.",
@@ -379,7 +486,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-09T13:04:35.000Z",
-   "fetched_at": "2026-09-09T18:20:29.964Z",
+   "fetched_at": "2026-09-09T21:04:38.289Z",
    "body": [
     "Our briefing: We assess the standing of the players on the shortlist for the award before the winner is announced in October 1) Harry Kane (England/Bayern Munich) Even adjusting for…",
     "We assess the standing of the players on the shortlist for the award before the winner is announced in October 1) Harry Kane (England/Bayern Munich) Even adjusting for the goal-drunken Bundesliga, his 61 goals in 51 matches for Bayern last season undersells his all-around impact, considering his playmaking and hold-up skills. Kane was gameplanned out of England’s later games at the World Cup, but he was unstoppable through the last 16 to close out the finest year of his career to date. If not now, when?",
@@ -401,15 +508,15 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-09T12:09:07.000Z",
-   "fetched_at": "2026-09-09T18:20:29.965Z",
+   "fetched_at": "2026-09-09T21:04:38.290Z",
    "body": [
     "Our briefing: Max Rushden is joined by Barry Glendenning , Nicky Bandini and Archie Rhind-Tutt to discuss the return of the Champions League Continue reading...",
     "Max Rushden is joined by Barry Glendenning , Nicky Bandini and Archie Rhind-Tutt to discuss the return of the Champions League Continue reading...",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/CPSL_2005_semifinals_-_Esther_Shiner_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "Robin Glover — CC BY 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "independent-ex-arsenal-star-marc-overmars-leaves-royal-antwe",
@@ -422,14 +529,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-09T12:08:05.000Z",
-   "fetched_at": "2026-09-09T18:20:30.117Z",
+   "fetched_at": "2026-09-09T21:04:38.570Z",
    "body": [
     "Our briefing: Marc Overmars announced his decision to step down as sporting director at Royal Antwerp on Wednesday",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Kyiv_Arsenal_Stadium.jpg/960px-Kyiv_Arsenal_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Toronto_guy — CC BY 3.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Arsenal_Stadium_in_Tula.jpg/960px-Arsenal_Stadium_in_Tula.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "UMNICK — CC BY-SA 3.0"
   },
   {
    "id": "bbc-who-are-record-champions-league-goalscorers",
@@ -442,15 +549,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-09T12:02:30.000Z",
-   "fetched_at": "2026-09-09T18:20:29.722Z",
+   "fetched_at": "2026-09-09T21:04:38.137Z",
    "body": [
     "Our briefing: Our Ask Me Anything team looks at which players have scored the most goals in the Champions League.",
     "Our Ask Me Anything team looks at which players have scored the most goals in the Champions League.",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
    "id": "independent-lionel-messi-set-buy-second-spanish-football-clu",
@@ -463,14 +570,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-09T12:02:21.000Z",
-   "fetched_at": "2026-09-09T18:20:30.117Z",
+   "fetched_at": "2026-09-09T21:04:38.570Z",
    "body": [
     "Our briefing: Eldense ‌have risen to ​the second tier of ‌Spanish football after years ​spent in the regional divisions",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   },
   {
    "id": "bbc-messi-agrees-buy-second-spanish-club",
@@ -483,15 +590,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-09T11:56:09.000Z",
-   "fetched_at": "2026-09-09T18:20:29.722Z",
+   "fetched_at": "2026-09-09T21:04:38.136Z",
    "body": [
     "Our briefing: Spanish second-division side Eldense say Argentina great Lionel Messi has reached a \"preliminary agreement\" to become the club's majority shareholder.",
     "Spanish second-division side Eldense say Argentina great Lionel Messi has reached a \"preliminary agreement\" to become the club's majority shareholder.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
    "id": "bbc-after-717-days-nine-career-over-diagnoses-player",
@@ -504,7 +611,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-09T11:42:10.000Z",
-   "fetched_at": "2026-09-09T18:20:29.722Z",
+   "fetched_at": "2026-09-09T21:04:38.137Z",
    "body": [
     "Our briefing: Aldershot Town defender Ollie Harfield talks about his return to action after a serious knee injury.",
     "Aldershot Town defender Ollie Harfield talks about his return to action after a serious knee injury.",
@@ -525,7 +632,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-09T10:58:38.000Z",
-   "fetched_at": "2026-09-09T18:20:29.722Z",
+   "fetched_at": "2026-09-09T21:04:38.136Z",
    "body": [
     "Our briefing: Fifteen-year-old JJ Gabriel has scored two magnificent goals in two Premier League 2 appearances for Manchester United - is he ready to make his senior debut",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -545,14 +652,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-09T09:54:43.000Z",
-   "fetched_at": "2026-09-09T18:20:30.117Z",
+   "fetched_at": "2026-09-09T21:04:38.570Z",
    "body": [
     "Our briefing: Manchester United’s second goal against Ipswich was allowed to stand despite an apparent handball by Harry Maguire in the build-up",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "guardian-revitalised-degaard-s-forward-thinking-gives-ars",
@@ -586,14 +693,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-09T08:50:47.000Z",
-   "fetched_at": "2026-09-09T18:20:30.117Z",
+   "fetched_at": "2026-09-09T21:04:38.570Z",
    "body": [
     "Our briefing: Haaland struck twice as Manchester City beat Porto 2-0 in their Champions League opener",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Kashima_Soccer_Stadium_6.jpg/960px-Kashima_Soccer_Stadium_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   },
   {
    "id": "independent-copa-independent-why-premier-league-s-financial-",
@@ -606,15 +713,15 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-09T08:43:01.000Z",
-   "fetched_at": "2026-09-09T18:20:30.117Z",
+   "fetched_at": "2026-09-09T21:04:38.570Z",
    "body": [
     "Our briefing: As the Champions League begins once again, Lawrence Ostlere is joined by Miguel Delaney and Richard Jolly to debate the reduced jeopardy in the league phase, the value of…",
     "As the Champions League begins once again, Lawrence Ostlere is joined by Miguel Delaney and Richard Jolly to debate the reduced jeopardy in the league phase, the value of finishing in the top eight, and how the format can benefit smaller clubs while packing the calendar.",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Kashima_Soccer_Stadium_6.jpg/960px-Kashima_Soccer_Stadium_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
    "id": "bbc-rangers-eye-second-place-celtic-set-pace",
@@ -669,7 +776,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-09T08:26:24.000Z",
-   "fetched_at": "2026-09-09T18:20:30.117Z",
+   "fetched_at": "2026-09-09T21:04:38.570Z",
    "body": [
     "Our briefing: Madrid won their opening Champions League game of the league phase with Alexander-Arnold deployed in midfield",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -689,7 +796,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-09T07:00:16.000Z",
-   "fetched_at": "2026-09-09T18:20:29.722Z",
+   "fetched_at": "2026-09-09T21:04:38.137Z",
    "body": [
     "Our briefing: A look at where Estevao Willian could feature for Chelsea this season after the reminder of his quality in his cameo against Arsenal.",
     "A look at where Estevao Willian could feature for Chelsea this season after the reminder of his quality in his cameo against Arsenal.",
@@ -698,6 +805,29 @@
    ],
    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Inside_Stamford_Bridge_Stadium_-_Chelsea_v_Peterborough_-_geograph.org.uk_-_5253336.jpg/960px-Inside_Stamford_Bridge_Stadium_-_Chelsea_v_Peterborough_-_geograph.org.uk_-_5253336.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Richard Humphrey — CC BY-SA 2.0"
+  },
+  {
+   "id": "guardian-football-s-most-damaging-red-cards-brief-history",
+   "slug": "football-s-most-damaging-red-cards-a-brief-history-of-collap-story",
+   "title": "Football’s most damaging red cards: a brief history of collapses and turnarounds | The Knowledge",
+   "dek": "Plus: clubs with multiple £100m players on their books and more trophy-laden footballers Mail us with your all of your questions and answers “The Saturday before last,…",
+   "description": "Plus: clubs with multiple £100m players on their books and more trophy-laden footballers Mail us with your all of your questions and answers “The Saturday before last, Clyde were winning 3-0 at The Spartans after an hour when Logan Dunachie was sent off. Twenty-eight minutes later, the score was 3-3. What is the biggest turnaround in a game following a red card/most quantitative blame that can be thrown at a player for getting sent off?” asks Jamie Wills. At Knowledge Towers, we usually receive questions about the greatest comebacks with 10 men. We covered that in 2021 , so it’s a nice change to look at teams who went to seed after having a player sent off. Continue reading...",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-09-09T07:00:02.000Z",
+   "fetched_at": "2026-09-09T21:04:38.289Z",
+   "body": [
+    "Our briefing: Plus: clubs with multiple £100m players on their books and more trophy-laden footballers Mail us with your all of your questions and answers “The Saturday before last,…",
+    "Plus: clubs with multiple £100m players on their books and more trophy-laden footballers Mail us with your all of your questions and answers “The Saturday before last, Clyde were winning 3-0 at The Spartans after an hour when Logan Dunachie was sent off. Twenty-eight minutes later, the score was 3-3. What is the biggest turnaround in a game following a red card/most quantitative blame that can be thrown at a player for getting sent off?",
+    "” asks Jamie Wills. At Knowledge Towers, we usually receive questions about the greatest comebacks with 10 men. We covered that in 2021 , so it’s a nice change to look at teams who went to seed after having a player sent off.",
+    "Continue reading...",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
    "id": "guardian-dani-olmo-winning-world-cup-changes-you-it-chang",
@@ -721,31 +851,7 @@
     "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Field_hockey_and_soccer_for_women_%28IA_fieldhockeysocce00fros%29.pdf/page1-960px-Field_hockey_and_soccer_for_women_%28IA_fieldhockeysocce00fros%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "guardian-football-s-most-damaging-red-cards-brief-history",
-   "slug": "football-s-most-damaging-red-cards-a-brief-history-of-collap-story",
-   "title": "Football’s most damaging red cards: a brief history of collapses and turnarounds | The Knowledge",
-   "dek": "Plus: clubs with multiple £100m players on their books and more trophy-laden footballers Mail us with your all of your questions and answers “The Saturday before last,…",
-   "description": "Plus: clubs with multiple £100m players on their books and more trophy-laden footballers Mail us with your all of your questions and answers “The Saturday before last, Clyde were winning 3-0 at The Spartans after an hour when Logan Dunachie was sent off. Twenty-eight minutes later, the score was 3-3. What is the biggest turnaround in a game following a red card/most quantitative blame that can be thrown at a player for getting sent off?” asks Jamie Wills. At Knowledge Towers, we usually receive questions about the greatest comebacks with 10 men. We covered that in 2021 , so it’s a nice change to look at teams who went to seed after having a player sent off. Continue reading...",
-   "category": "Match Reports",
-   "league": "Football",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-09-09T07:00:02.000Z",
-   "fetched_at": "2026-09-09T18:20:29.964Z",
-   "body": [
-    "Our briefing: Plus: clubs with multiple £100m players on their books and more trophy-laden footballers Mail us with your all of your questions and answers “The Saturday before last,…",
-    "Plus: clubs with multiple £100m players on their books and more trophy-laden footballers Mail us with your all of your questions and answers “The Saturday before last, Clyde were winning 3-0 at The Spartans after an hour when Logan Dunachie was sent off. Twenty-eight minutes later, the score was 3-3. What is the biggest turnaround in a game following a red card/most quantitative blame that can be thrown at a player for getting sent off?",
-    "” asks Jamie Wills. At Knowledge Towers, we usually receive questions about the greatest comebacks with 10 men. We covered that in 2021 , so it’s a nice change to look at teams who went to seed after having a player sent off.",
-    "Continue reading...",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Field_hockey_and_soccer_for_women_%28IA_fieldhockeysocce00fros%29.pdf/page1-960px-Field_hockey_and_soccer_for_women_%28IA_fieldhockeysocce00fros%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
    "id": "bbc-scottish-football-podcast",
@@ -767,109 +873,6 @@
    ],
    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "John Shorten — CC BY 4.0"
-  },
-  {
-   "id": "bbc-rangers-target-ferguson-would-cost-15m-january-g",
-   "slug": "rangers-target-ferguson-would-cost-15m-in-january-gossip-ary-g",
-   "title": "Rangers target Ferguson would cost £15m in January - gossip",
-   "dek": "Bologna and Scotland midfielder Lewis Ferguson would reportedly cost a pretty penny in January, while Dutch investors resume Morton rescue talks.",
-   "description": "Bologna and Scotland midfielder Lewis Ferguson would reportedly cost a pretty penny in January, while Dutch investors resume Morton rescue talks.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-09-09T06:57:47.000Z",
-   "fetched_at": "2026-09-09T18:20:29.723Z",
-   "body": [
-    "Our briefing: Bologna and Scotland midfielder Lewis Ferguson would reportedly cost a pretty penny in January, while Dutch investors resume Morton rescue talks.",
-    "Bologna and Scotland midfielder Lewis Ferguson would reportedly cost a pretty penny in January, while Dutch investors resume Morton rescue talks.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Ibrox_Stadium%2C_Rangers_FC.jpg/960px-Ibrox_Stadium%2C_Rangers_FC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Lesterhobbes764 — CC BY-SA 4.0"
-  },
-  {
-   "id": "independent-man-united-v-sabah-tv-how-watch-champions-league",
-   "slug": "is-man-united-v-sabah-on-tv-how-to-watch-champions-league-fi-eague",
-   "title": "Is Man United v Sabah on TV? How to watch Champions League fixtures",
-   "dek": "Man United have endured a tough start to the season after defeat to Hull and conceding a late equaliser at Everton, but a return to Champions League nights at Old…",
-   "description": "Man United have endured a tough start to the season after defeat to Hull and conceding a late equaliser at Everton, but a return to Champions League nights at Old Trafford brings excitement for Michael Carrick’s side",
-   "category": "Match Reports",
-   "league": "Champions League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-09-09T06:16:53.000Z",
-   "fetched_at": "2026-09-09T18:20:30.117Z",
-   "body": [
-    "Our briefing: Man United have endured a tough start to the season after defeat to Hull and conceding a late equaliser at Everton, but a return to Champions League nights at Old…",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "independent-if-alexis-mac-allister-wants-new-contract-liverp",
-   "slug": "if-alexis-mac-allister-wants-a-new-contract-at-liverpool-he--iverp",
-   "title": "If Alexis Mac Allister wants a new contract at Liverpool, he’s got to earn it",
-   "dek": "The midfielder said he was ‘very sad’ to have not received an offer for new deal over the summer, yet the truth is that the 29-year-old’s form last year scarcely merited…",
-   "description": "The midfielder said he was ‘very sad’ to have not received an offer for new deal over the summer, yet the truth is that the 29-year-old’s form last year scarcely merited one",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-09-09T06:12:42.000Z",
-   "fetched_at": "2026-09-09T18:20:30.117Z",
-   "body": [
-    "Our briefing: The midfielder said he was ‘very sad’ to have not received an offer for new deal over the summer, yet the truth is that the 29-year-old’s form last year scarcely merited…",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/2022-07-21_Fu%C3%9Fball%2C_M%C3%A4nner%2CFreundschaftsspiel%2C_RB_Leipzig_-_FC_Liverpool_1DX_2224_by_Stepro.jpg/960px-2022-07-21_Fu%C3%9Fball%2C_M%C3%A4nner%2CFreundschaftsspiel%2C_RB_Leipzig_-_FC_Liverpool_1DX_2224_by_Stepro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Steffen Prößdorf — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-real-madrid-ajax-liverpool-ranking-europe-s-grea",
-   "slug": "real-madrid-ajax-liverpool-ranking-europe-s-greatest-footbal--grea",
-   "title": "Real Madrid? Ajax? Liverpool? Ranking Europe's greatest football dynasties",
-   "dek": "Paris St-Germain are eyeing a third successive Champions League crown, but where do they rank against Europe's most dominant clubs?",
-   "description": "Paris St-Germain are eyeing a third successive Champions League crown, but where do they rank against Europe's most dominant clubs?",
-   "category": "News",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-09-09T05:30:53.000Z",
-   "fetched_at": "2026-09-09T18:20:29.721Z",
-   "body": [
-    "Our briefing: Paris St-Germain are eyeing a third successive Champions League crown, but where do they rank against Europe's most dominant clubs?",
-    "Paris St-Germain are eyeing a third successive Champions League crown, but where do they rank against Europe's most dominant clubs?",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Anfield_Stadium%2C_Liverpool_-_geograph.org.uk_-_5885062.jpg/960px-Anfield_Stadium%2C_Liverpool_-_geograph.org.uk_-_5885062.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Mike Pennington — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-where-do-psg-rank-among-europe-s-greatest-footba",
-   "slug": "where-do-psg-rank-among-europe-s-greatest-football-dynasties-ootba",
-   "title": "Where do PSG rank among Europe's greatest football dynasties?",
-   "dek": "Paris St-Germain are eyeing a third successive Champions League crown, but where do they rank against Europe's most dominant clubs?",
-   "description": "Paris St-Germain are eyeing a third successive Champions League crown, but where do they rank against Europe's most dominant clubs?",
-   "category": "News",
-   "league": "Ligue 1",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-09-09T05:30:53.000Z",
-   "fetched_at": "2026-09-09T10:00:23.003Z",
-   "body": [
-    "Our briefing: Paris St-Germain are eyeing a third successive Champions League crown, but where do they rank against Europe's most dominant clubs?",
-    "Paris St-Germain are eyeing a third successive Champions League crown, but where do they rank against Europe's most dominant clubs?",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/World_Football_Challenge_-_Chelsea_FC_vs_Paris_Saint-Germain_FC.jpg/960px-World_Football_Challenge_-_Chelsea_FC_vs_Paris_Saint-Germain_FC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Shinya Suzuki — CC BY 2.0"
   }
  ]
 }
