@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-10T11:41:07.993Z",
- "updated_utc": "2026-09-10T11:41Z",
- "cycle": 29817341,
+ "generated_at": "2026-09-10T15:57:40.907Z",
+ "updated_utc": "2026-09-10T15:57Z",
+ "cycle": 29817597,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,27 +16,89 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "independent-liverpool-have-stumbled-across-solution-one-ando",
+ "hero_id": "independent-hull-boss-sergej-jakirovic-jokes-about-simple-pl",
  "articles": [
   {
-   "id": "independent-cole-palmer-reveals-xabi-alonso-half-time-messag",
-   "slug": "cole-palmer-reveals-xabi-alonso-half-time-message-that-spark-essag",
-   "title": "Cole Palmer reveals Xabi Alonso half-time message that sparked Chelsea’s Carabao Cup comeback",
-   "dek": "Cole Palmer scored twice after coming off the bench in Chelsea’s 6-3 win over Leeds",
-   "description": "Cole Palmer scored twice after coming off the bench in Chelsea’s 6-3 win over Leeds",
-   "category": "Match Reports",
+   "id": "bbc-jaissle-questions-booking-compared-rival-manager",
+   "slug": "jaissle-questions-booking-compared-to-rival-managers-nager",
+   "title": "Jaissle questions booking compared to rival managers",
+   "dek": "Newcastle United head coach Matthias Jaissle has questioned why he was booked for his touchline behaviour after he felt some other animated managers were not.",
+   "description": "Newcastle United head coach Matthias Jaissle has questioned why he was booked for his touchline behaviour after he felt some other animated managers were not.",
+   "category": "Tactics & Analysis",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-09-10T15:38:44.000Z",
+   "fetched_at": "2026-09-10T15:57:25.650Z",
+   "body": [
+    "Our briefing: Newcastle United head coach Matthias Jaissle has questioned why he was booked for his touchline behaviour after he felt some other animated managers were not.",
+    "Newcastle United head coach Matthias Jaissle has questioned why he was booked for his touchline behaviour after he felt some other animated managers were not.",
+    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-why-have-premier-league-announced-christmas-fixt",
+   "slug": "why-have-the-premier-league-announced-christmas-fixtures-ear--fixt",
+   "title": "Why have the Premier League announced Christmas fixtures early?",
+   "dek": "BBC Sport's Ask Me Anything team explain why this season's Christmas fixtures have been announced more than a month earlier than scheduled",
+   "description": "BBC Sport's Ask Me Anything team explain why this season's Christmas fixtures have been announced more than a month earlier than scheduled",
+   "category": "Tactics & Analysis",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-09-10T15:30:57.000Z",
+   "fetched_at": "2026-09-10T15:57:25.651Z",
+   "body": [
+    "Our briefing: BBC Sport's Ask Me Anything team explain why this season's Christmas fixtures have been announced more than a month earlier than scheduled",
+    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-gordon-better-fit-barca-than-rashford-deco",
+   "slug": "gordon-a-better-fit-for-barca-than-rashford-deco--deco",
+   "title": "Gordon a better fit for Barca than Rashford - Deco",
+   "dek": "Barcelona sporting director Deco says Anthony Gordon's style was a better fit for Hansi Flick's side than Marcus Rashford's as the club strengthened their squad this…",
+   "description": "Barcelona sporting director Deco says Anthony Gordon's style was a better fit for Hansi Flick's side than Marcus Rashford's as the club strengthened their squad this summer.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-09-10T15:30:53.000Z",
+   "fetched_at": "2026-09-10T15:57:25.650Z",
+   "body": [
+    "Our briefing: Barcelona sporting director Deco says Anthony Gordon's style was a better fit for Hansi Flick's side than Marcus Rashford's as the club strengthened their squad this…",
+    "Barcelona sporting director Deco says Anthony Gordon's style was a better fit for Hansi Flick's side than Marcus Rashford's as the club strengthened their squad this summer.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "John Shorten — CC BY 4.0"
+  },
+  {
+   "id": "independent-hull-boss-sergej-jakirovic-jokes-about-simple-pl",
+   "slug": "hull-boss-sergej-jakirovic-jokes-about-simple-plan-to-stop-f-le-pl",
+   "title": "Hull boss Sergej Jakirovic jokes about simple plan to stop free-scoring Chelsea",
+   "dek": "Hull are yet to concede a goal since returning to the Premier League",
+   "description": "Hull are yet to concede a goal since returning to the Premier League",
+   "category": "News",
    "league": "Premier League",
    "source": "independent",
    "sourceName": "The Independent",
-   "published": "2026-09-10T11:36:29.000Z",
-   "fetched_at": "2026-09-10T11:40:57.838Z",
+   "published": "2026-09-10T15:22:44.000Z",
+   "fetched_at": "2026-09-10T15:57:25.803Z",
    "body": [
-    "Our briefing: Cole Palmer scored twice after coming off the bench in Chelsea’s 6-3 win over Leeds",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "Our briefing: Hull are yet to concede a goal since returning to the Premier League",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Chelsea_vs_union_1929.jpg/960px-Chelsea_vs_union_1929.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Stadium_Street%2C_Chelsea_-_geograph.org.uk_-_4585241.jpg/960px-Stadium_Street%2C_Chelsea_-_geograph.org.uk_-_4585241.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Chris Whippet — CC BY-SA 2.0"
   },
   {
    "id": "bbc-get-life-non-league-club-condemn-man-impersonati",
@@ -48,16 +110,333 @@
    "league": "Football",
    "source": "bbc",
    "sourceName": "BBC Sport",
-   "published": "2026-09-10T11:06:31.000Z",
-   "fetched_at": "2026-09-10T11:40:57.279Z",
+   "published": "2026-09-10T15:22:16.000Z",
+   "fetched_at": "2026-09-10T15:57:25.650Z",
    "body": [
     "Our briefing: Gainsborough Trinity condemn a person who has been approaching players while falsely claiming to be their manager.",
     "Gainsborough Trinity condemn a person who has been approaching players while falsely claiming to be their manager.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "John Shorten — CC BY 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+  },
+  {
+   "id": "bbc-hearts-have-be-above-emotions-big-favourites-cup",
+   "slug": "hearts-have-to-be-above-emotions-as-big-favourites-in-cup-s-cup",
+   "title": "Hearts 'have to be above emotions' as big favourites in cup",
+   "dek": "Hearts head coach Wouter Vrancken insists there can be no excuses as his side prepare to face Stenhousemuir at Ochilview on Friday with a place in the Premier Sports Cup…",
+   "description": "Hearts head coach Wouter Vrancken insists there can be no excuses as his side prepare to face Stenhousemuir at Ochilview on Friday with a place in the Premier Sports Cup semi-finals at stake.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-09-10T15:05:59.000Z",
+   "fetched_at": "2026-09-10T15:57:25.653Z",
+   "body": [
+    "Our briefing: Hearts head coach Wouter Vrancken insists there can be no excuses as his side prepare to face Stenhousemuir at Ochilview on Friday with a place in the Premier Sports Cup…",
+    "Hearts head coach Wouter Vrancken insists there can be no excuses as his side prepare to face Stenhousemuir at Ochilview on Friday with a place in the Premier Sports Cup semi-finals at stake.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+  },
+  {
+   "id": "guardian-why-david-beckham-will-have-my-vote-us-soccer-ha",
+   "slug": "why-david-beckham-will-have-my-vote-for-the-us-soccer-hall-o-er-ha",
+   "title": "Why David Beckham will have my vote for the US Soccer Hall of Fame | Pablo Iglesias Maurer",
+   "dek": "The Englishman has gotten no shortage of recognition, but his contributions to the American game deserve an official title Sign up for our free newsletter here Next…",
+   "description": "The Englishman has gotten no shortage of recognition, but his contributions to the American game deserve an official title Sign up for our free newsletter here Next spring, when the US Soccer Hall of Fame welcomes its newest class, there will be pomp and circumstance. The hall, which sits in a corner of Toyota Stadium, home of Major League Soccer’s FC Dallas, will feature the enshrineds’ signature red jackets. There will be glad-handing and speeches from players and coaches, misty-eyed reflections on their upbringings and their careers. Many involved will be American-born soccer legends, of course. Yet every once in a while, a player whose footprint extends well beyond the borders of the United States graces the stage. Such may be the case next year when the hall potentially welcomes English legend David Beckham into the fold. Continue reading...",
+   "category": "Transfers & Rumours",
+   "league": "Football",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-09-10T14:54:07.000Z",
+   "fetched_at": "2026-09-10T15:57:25.723Z",
+   "body": [
+    "Our briefing: The Englishman has gotten no shortage of recognition, but his contributions to the American game deserve an official title Sign up for our free newsletter here Next…",
+    "The Englishman has gotten no shortage of recognition, but his contributions to the American game deserve an official title Sign up for our free newsletter here Next spring, when the US Soccer Hall of Fame welcomes its newest class, there will be pomp and circumstance. The hall, which sits in a corner of Toyota Stadium, home of Major League Soccer’s FC Dallas, will feature the enshrineds’ signature red jackets. There will be glad-handing and speeches from players and coaches, misty-eyed reflections on their upbringings and their careers.",
+    "Many involved will be American-born soccer legends, of course. Yet every once in a while, a player whose footprint extends well beyond the borders of the United States graces the stage. Such may be the case next year when the hall potentially welcomes English legend David Beckham into the fold.",
+    "Continue reading...",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
+  },
+  {
+   "id": "bbc-real-bond-can-drive-rangers-success-says-mcinnes",
+   "slug": "real-bond-can-drive-rangers-to-success-says-mcinnes-innes",
+   "title": "'Real bond' can drive Rangers to success, says McInnes",
+   "dek": "Derek McInnes is encouraged by the growing spirit at Rangers before a double-header with Celtic in the League Cup and Scottish Premiership.",
+   "description": "Derek McInnes is encouraged by the growing spirit at Rangers before a double-header with Celtic in the League Cup and Scottish Premiership.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-09-10T14:50:50.000Z",
+   "fetched_at": "2026-09-10T15:57:25.653Z",
+   "body": [
+    "Our briefing: Derek McInnes is encouraged by the growing spirit at Rangers before a double-header with Celtic in the League Cup and Scottish Premiership.",
+    "Derek McInnes is encouraged by the growing spirit at Rangers before a double-header with Celtic in the League Cup and Scottish Premiership.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Ibrox_Stadium%2C_Rangers_FC.jpg/960px-Ibrox_Stadium%2C_Rangers_FC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Lesterhobbes764 — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-leeds-okafor-says-he-won-t-play-swiss-again-unde",
+   "slug": "leeds-okafor-says-he-won-t-play-for-swiss-again-under-yakin--unde",
+   "title": "Leeds' Okafor says he won't play for Swiss again under Yakin",
+   "dek": "Leeds United forward Noah Okafor says he will not play for Switzerland again while Murat Yakin remains as head coach.",
+   "description": "Leeds United forward Noah Okafor says he will not play for Switzerland again while Murat Yakin remains as head coach.",
+   "category": "News",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-09-10T14:35:31.000Z",
+   "fetched_at": "2026-09-10T15:57:25.651Z",
+   "body": [
+    "Our briefing: Leeds United forward Noah Okafor says he will not play for Switzerland again while Murat Yakin remains as head coach.",
+    "Leeds United forward Noah Okafor says he will not play for Switzerland again while Murat Yakin remains as head coach.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Leeds_United-Galatasaray_match_in_20_April_2000.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "John Seb Barber from Leeds, UK — CC BY-SA 2.0"
+  },
+  {
+   "id": "bbc-arsenal-close-finalising-new-contract-arteta",
+   "slug": "arsenal-close-to-finalising-new-contract-for-arteta-rteta",
+   "title": "Arsenal close to finalising new contract for Arteta",
+   "dek": "Mikel Arteta is believed to be close to finalising a new contract with Premier League champions Arsenal.",
+   "description": "Mikel Arteta is believed to be close to finalising a new contract with Premier League champions Arsenal.",
+   "category": "Transfers & Rumours",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-09-10T14:16:06.000Z",
+   "fetched_at": "2026-09-10T15:57:25.650Z",
+   "body": [
+    "Our briefing: Mikel Arteta is believed to be close to finalising a new contract with Premier League champions Arsenal.",
+    "Mikel Arteta is believed to be close to finalising a new contract with Premier League champions Arsenal.",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg/960px-Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
+   "id": "independent-liverpool-have-stumbled-across-solution-one-ando",
+   "slug": "liverpool-have-stumbled-across-a-solution-to-one-of-andoni-i--ando",
+   "title": "Liverpool have stumbled across a solution to one of Andoni Iraola’s big problems",
+   "dek": "Ronald Araujo’s impressive start to life at Anfield suggests Liverpool’s new makeshift right-back can bring added steel in defence as well as a surprising threat in…",
+   "description": "Ronald Araujo’s impressive start to life at Anfield suggests Liverpool’s new makeshift right-back can bring added steel in defence as well as a surprising threat in attack",
+   "category": "News",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-09-10T14:00:58.000Z",
+   "fetched_at": "2026-09-10T15:57:25.803Z",
+   "body": [
+    "Our briefing: Ronald Araujo’s impressive start to life at Anfield suggests Liverpool’s new makeshift right-back can bring added steel in defence as well as a surprising threat in…",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Liverpool_anfield_road_stadium.jpg/960px-Liverpool_anfield_road_stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
+  },
+  {
+   "id": "independent-moroccan-football-chief-claims-casablanca-will-s",
+   "slug": "moroccan-football-chief-claims-casablanca-will-stage-2030-wo-ill-s",
+   "title": "Moroccan football chief claims Casablanca will stage 2030 World Cup final amid Spain hosting row",
+   "dek": "Morocco and Spain are currently battling to earn the hosting rights for the 2030 World Cup final",
+   "description": "Morocco and Spain are currently battling to earn the hosting rights for the 2030 World Cup final",
+   "category": "News",
+   "league": "International",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-09-10T13:59:38.000Z",
+   "fetched_at": "2026-09-10T15:57:25.804Z",
+   "body": [
+    "Our briefing: Morocco and Spain are currently battling to earn the hosting rights for the 2030 World Cup final",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+  },
+  {
+   "id": "bbc-can-you-make-case-chelsea-being-stripped-2016-17",
+   "slug": "can-you-make-a-case-for-chelsea-being-stripped-of-2016-17-ti-16-17",
+   "title": "Can you make a case for Chelsea being stripped of 2016-17 title?",
+   "dek": "Does Mauricio Pochettino have a case that Tottenham should be retrospectively crowned Premier League champions?",
+   "description": "Does Mauricio Pochettino have a case that Tottenham should be retrospectively crowned Premier League champions?",
+   "category": "News",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-09-10T13:55:43.000Z",
+   "fetched_at": "2026-09-10T15:57:25.650Z",
+   "body": [
+    "Our briefing: Does Mauricio Pochettino have a case that Tottenham should be retrospectively crowned Premier League champions?",
+    "Does Mauricio Pochettino have a case that Tottenham should be retrospectively crowned Premier League champions?",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Inside_Stamford_Bridge_Stadium_-_Chelsea_v_Peterborough_-_geograph.org.uk_-_5253336.jpg/960px-Inside_Stamford_Bridge_Stadium_-_Chelsea_v_Peterborough_-_geograph.org.uk_-_5253336.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Richard Humphrey — CC BY-SA 2.0"
+  },
+  {
+   "id": "guardian-football-daily-mauricio-pochettino-tottenham-s-g",
+   "slug": "daily-mauricio-pochettino-tottenham-s-game-of-thrones-and-re-m-s-g",
+   "title": "Daily | Mauricio Pochettino, Tottenham’s game of thrones and retrospective action",
+   "dek": "Sign up now! Sign up now! Sign up now? Sign up now! State-sanctioned execution of spouses and allies (Henry VIII), the Marian persecutions (Mary I), and enslavement and…",
+   "description": "Sign up now! Sign up now! Sign up now? Sign up now! State-sanctioned execution of spouses and allies (Henry VIII), the Marian persecutions (Mary I), and enslavement and branding of the unemployed (Edward VI). During the 15th and 16th centuries, assorted monarchs from the House of Tudor were responsible for visiting no end of dread and terror on their subjects but it is the 44-day reign of one of their more contemporary counterparts at Tottenham that local subjects found truly unforgivable. Enthroned last February to secure Spurs’ safety following the dismissal of Thomas Frank, Igor Tudor took just one point from 15 available in his five top-flight games in charge. His subsequent deposition heralded the arrival of Roberto De Zerbi and ultimately last-day Premier League survival, but may also have denied the club’s fans a reunion with Mauricio Pochettino, a comparatively beloved former monarch who was tasked with focusing on other conquests in the Americas at the time. Given that Mauricio Pochettino believes the Premier League title shouldn’t go to the club that finished first in the table, he truly is a Spurs manager at heart. And, given he also says that if he were Chelsea manager at the time, he’d admit that ‘we don’t deserve the title because we broke the rules’, it also conclusively proves he was the completely wrong man for Chelsea” – Noble Francis. Just because Amazon now co-owns Liverpool FC doesn’t mean it can command Alexa Alexis to score a match-winning goal in European competition, does it?!” – Peter Oh. This is an extract from our daily football email … Football Daily. To get the full version, just visit this page and follow the instructions . Continue reading...",
+   "category": "News",
+   "league": "Premier League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-09-10T13:27:36.000Z",
+   "fetched_at": "2026-09-10T15:57:25.725Z",
+   "body": [
+    "Our briefing: Sign up now! Sign up now! Sign up now? Sign up now! State-sanctioned execution of spouses and allies (Henry VIII), the Marian persecutions (Mary I), and enslavement and…",
+    "Sign up now! Sign up now! Sign up now?",
+    "Sign up now! State-sanctioned execution of spouses and allies (Henry VIII), the Marian persecutions (Mary I), and enslavement and branding of the unemployed (Edward VI). During the 15th and 16th centuries, assorted monarchs from the House of Tudor were responsible for visiting no end of dread and terror on their subjects but it is the 44-day reign of one of their more contemporary counterparts at Tottenham that local subjects found truly unforgivable.",
+    "Enthroned last February to secure Spurs’ safety following the dismissal of Thomas Frank, Igor Tudor took just one point from 15 available in his five top-flight games in charge. His subsequent deposition heralded the arrival of Roberto De Zerbi and ultimately last-day Premier League survival, but may also have denied the club’s fans a reunion with Mauricio Pochettino, a comparatively beloved former monarch who was tasked with focusing on other conquests in the Americas at the time. Given that Mauricio Pochettino believes the Premier League title shouldn’t go to the club that finished first in the table, he truly is a Spurs manager at heart.",
+    "And, given he also says that if he were Chelsea manager at the time, he’d admit that ‘we don’t deserve the title because we broke the rules’, it also conclusively proves he was the completely wrong man for Chelsea” – Noble Francis. Just because Amazon now co-owns Liverpool FC doesn’t mean it can command Alexa Alexis to score a match-winning goal in European competition, does it?! ” – Peter Oh.",
+    "This is an extract from our daily football email … Football Daily. To get the full version, just visit this page and follow the instructions . Continue reading...",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/London_Tottenham_Hotspur_Stadium.jpg/960px-London_Tottenham_Hotspur_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
+  },
+  {
+   "id": "independent-how-martin-odegaard-rediscovered-his-edge-take-a",
+   "slug": "how-martin-odegaard-rediscovered-his-edge-to-take-arsenal-to-ake-a",
+   "title": "How Martin Odegaard rediscovered his edge to take Arsenal to the next level",
+   "dek": "The Norwegian has recaptured his best form after a long spell struggling with the lasting effect of injuries, but, as Miguel Delaney writes, his style gives Arsenal a new…",
+   "description": "The Norwegian has recaptured his best form after a long spell struggling with the lasting effect of injuries, but, as Miguel Delaney writes, his style gives Arsenal a new dimension and lifts their ceiling under Mikel Arteta",
+   "category": "Tactics & Analysis",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-09-10T13:13:41.000Z",
+   "fetched_at": "2026-09-10T15:57:25.804Z",
+   "body": [
+    "Our briefing: The Norwegian has recaptured his best form after a long spell struggling with the lasting effect of injuries, but, as Miguel Delaney writes, his style gives Arsenal a new…",
+    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Arsenal_Stadium_Highbury_east_facade.jpg/960px-Arsenal_Stadium_Highbury_east_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "No machine-readable author provided. Qwghlm~commonswiki assumed (based on copyright claims). — CC BY-SA 3.0"
+  },
+  {
+   "id": "bbc-france-wants-transform-fifa-after-withdrawing-in",
+   "slug": "france-wants-to-transform-fifa-after-withdrawing-infantino-s-ng-in",
+   "title": "France wants to transform Fifa after withdrawing Infantino support",
+   "dek": "French football leaders have proposed to seek ways to transform how Fifa is run after the country's football body became the latest to withdraw support for Gianni…",
+   "description": "French football leaders have proposed to seek ways to transform how Fifa is run after the country's football body became the latest to withdraw support for Gianni Infantino's presidency.",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-09-10T13:04:31.000Z",
+   "fetched_at": "2026-09-10T15:57:25.650Z",
+   "body": [
+    "Our briefing: French football leaders have proposed to seek ways to transform how Fifa is run after the country's football body became the latest to withdraw support for Gianni…",
+    "French football leaders have proposed to seek ways to transform how Fifa is run after the country's football body became the latest to withdraw support for Gianni Infantino's presidency.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": null
+  },
+  {
+   "id": "guardian-why-kai-havertz-s-dummy-was-perhaps-more-pleasin",
+   "slug": "why-kai-havertz-s-dummy-was-perhaps-more-pleasing-than-a-lio-easin",
+   "title": "Why Kai Havertz’s dummy was perhaps more pleasing than a Lionel Messi waltz | Max Rushden",
+   "dek": "The Arsenal striker reminded us grace can exist in the non-stop pace of football with his involuntary noise-provoking act During Covid, when sport was back but behind…",
+   "description": "The Arsenal striker reminded us grace can exist in the non-stop pace of football with his involuntary noise-provoking act During Covid, when sport was back but behind closed doors, I hosted a number of strange online shows to fill the void of real life. The highlight was chatting to Darren Gough about a lifesize bronze rhinoceros for 45 minutes to 15 small boxes on a Zoom call. I don’t recall who it was for and where the rhinoceros came from – but it might be in his garden. I ended up doing virtual pre-match corporate Zoom calls for Heineken before Europa League games. It was the wifi version of Club Wembley: a Q&A happening on stage between a generic host and some random ex-pro while you’re trying to chat to your mate and eat an unidentified square of meat with some dauphinoise potatoes. Continue reading...",
+   "category": "Tactics & Analysis",
+   "league": "Football",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-09-10T13:00:36.000Z",
+   "fetched_at": "2026-09-10T15:57:25.723Z",
+   "body": [
+    "Our briefing: The Arsenal striker reminded us grace can exist in the non-stop pace of football with his involuntary noise-provoking act During Covid, when sport was back but behind…",
+    "The Arsenal striker reminded us grace can exist in the non-stop pace of football with his involuntary noise-provoking act During Covid, when sport was back but behind closed doors, I hosted a number of strange online shows to fill the void of real life. The highlight was chatting to Darren Gough about a lifesize bronze rhinoceros for 45 minutes to 15 small boxes on a Zoom call. I don’t recall who it was for and where the rhinoceros came from – but it might be in his garden.",
+    "I ended up doing virtual pre-match corporate Zoom calls for Heineken before Europa League games. It was the wifi version of Club Wembley: a Q&A happening on stage between a generic host and some random ex-pro while you’re trying to chat to your mate and eat an unidentified square of meat with some dauphinoise potatoes. Continue reading...",
+    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
+  },
+  {
+   "id": "independent-gianni-infantino-suffers-fresh-blow-france-withd",
+   "slug": "gianni-infantino-suffers-fresh-blow-as-france-withdraws-supp-withd",
+   "title": "Gianni Infantino suffers fresh blow as France withdraws support for Fifa re-election",
+   "dek": "France have joined the home nations in withdrawing support for Infantino",
+   "description": "France have joined the home nations in withdrawing support for Infantino",
+   "category": "Injuries",
+   "league": "Football",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-09-10T12:17:18.000Z",
+   "fetched_at": "2026-09-10T15:57:25.804Z",
+   "body": [
+    "Our briefing: France have joined the home nations in withdrawing support for Infantino",
+    "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Health_Report-_Soccer_Concussions.webm/500px--Health_Report-_Soccer_Concussions.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "imageCredit": null
+  },
+  {
+   "id": "bbc-martindale-insists-livingston-mission-short-term",
+   "slug": "martindale-insists-livingston-mission-is-short-term--term",
+   "title": "Martindale insists Livingston mission is short-term",
+   "dek": "David Martindale admits to missing coaching but is \"crystal clear\" that his return to the Livingston dugout is only temporary.",
+   "description": "David Martindale admits to missing coaching but is \"crystal clear\" that his return to the Livingston dugout is only temporary.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-09-10T12:13:03.000Z",
+   "fetched_at": "2026-09-10T15:57:25.653Z",
+   "body": [
+    "Our briefing: David Martindale admits to missing coaching but is \"crystal clear\" that his return to the Livingston dugout is only temporary.",
+    "David Martindale admits to missing coaching but is \"crystal clear\" that his return to the Livingston dugout is only temporary.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+  },
+  {
+   "id": "independent-cole-palmer-reveals-xabi-alonso-half-time-messag",
+   "slug": "cole-palmer-reveals-xabi-alonso-half-time-message-that-spark-essag",
+   "title": "Cole Palmer reveals Xabi Alonso half-time message that sparked Chelsea’s Carabao Cup comeback",
+   "dek": "Cole Palmer scored twice after coming off the bench in Chelsea’s 6-3 win over Leeds",
+   "description": "Cole Palmer scored twice after coming off the bench in Chelsea’s 6-3 win over Leeds",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-09-10T11:36:29.000Z",
+   "fetched_at": "2026-09-10T15:57:25.804Z",
+   "body": [
+    "Our briefing: Cole Palmer scored twice after coming off the bench in Chelsea’s 6-3 win over Leeds",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Chelsea_vs_union_1929.jpg/960px-Chelsea_vs_union_1929.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "independent-declan-rice-hands-arsenal-boost-after-ending-fit",
@@ -70,13 +449,13 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-10T11:00:37.000Z",
-   "fetched_at": "2026-09-10T11:40:57.838Z",
+   "fetched_at": "2026-09-10T15:57:25.804Z",
    "body": [
     "Our briefing: Rice is seeking redemption in the Champions League after an agonising penalty shoot-out loss for Arsenal in last season’s final to PSG",
     "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Rocky_Mountain_Arsenal_National_Wildlife_Refuge%E2%80%99s_Amphitheater_%287495500328%29.jpg/960px-Rocky_Mountain_Arsenal_National_Wildlife_Refuge%E2%80%99s_Amphitheater_%287495500328%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Rocky_Mountain_Arsenal_National_Wildlife_Refuge%E2%80%99s_Amphitheater_%287495499128%29.jpg/960px-Rocky_Mountain_Arsenal_National_Wildlife_Refuge%E2%80%99s_Amphitheater_%287495499128%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
   },
   {
@@ -98,8 +477,7 @@
     "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Rocky_Mountain_Arsenal_National_Wildlife_Refuge%E2%80%99s_Amphitheater_%287495500124%29.jpg/960px-Rocky_Mountain_Arsenal_National_Wildlife_Refuge%E2%80%99s_Amphitheater_%287495500124%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Rocky_Mountain_Arsenal_National_Wildlife_Refuge%E2%80%99s_Amphitheater_%287495500124%29.jpg/960px-Rocky_Mountain_Arsenal_National_Wildlife_Refuge%E2%80%99s_Amphitheater_%287495500124%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
    "id": "independent-dominik-szoboszlai-hails-family-connection-inspi",
@@ -112,29 +490,9 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-10T11:00:00.000Z",
-   "fetched_at": "2026-09-10T11:40:57.838Z",
+   "fetched_at": "2026-09-10T15:57:25.804Z",
    "body": [
     "Our briefing: The Hungarian and the Argentinian midfielders chipped in with goals to down Atletico on Wednesday night and kick-start the Reds’ Champions League campaign with a win",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Liverpool_anfield_road_stadium.jpg/960px-Liverpool_anfield_road_stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
-  },
-  {
-   "id": "independent-liverpool-have-stumbled-across-solution-one-ando",
-   "slug": "liverpool-have-stumbled-across-a-solution-to-one-of-andoni-i--ando",
-   "title": "Liverpool have stumbled across a solution to one of Andoni Iraola’s big problems",
-   "dek": "Ronald Araujo’s impressive start to life at Anfield suggests Liverpool’s new makeshift right-back can bring added steel in defence as well as a surprising threat in…",
-   "description": "Ronald Araujo’s impressive start to life at Anfield suggests Liverpool’s new makeshift right-back can bring added steel in defence as well as a surprising threat in attack",
-   "category": "News",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-09-10T10:59:01.000Z",
-   "fetched_at": "2026-09-10T11:40:57.838Z",
-   "body": [
-    "Our briefing: Ronald Araujo’s impressive start to life at Anfield suggests Liverpool’s new makeshift right-back can bring added steel in defence as well as a surprising threat in…",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
@@ -152,15 +510,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-10T10:58:42.000Z",
-   "fetched_at": "2026-09-10T11:40:57.281Z",
+   "fetched_at": "2026-09-10T15:57:25.652Z",
    "body": [
     "Our briefing: Our Ask Me Anything team explains how to follow matches from week three of the Premier League season on the BBC this weekend.",
     "Our Ask Me Anything team explains how to follow matches from week three of the Premier League season on the BBC this weekend.",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
    "id": "guardian-football-saved-dad-s-life-meet-coach-england-wom",
@@ -173,7 +531,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-10T10:53:38.000Z",
-   "fetched_at": "2026-09-10T11:40:57.560Z",
+   "fetched_at": "2026-09-10T15:57:25.723Z",
    "body": [
     "Our briefing: It began with getting her dad into walking football after his diagnosis – now Gemma Darvill is taking a national team on tour to Canada When Gemma Darvill’s dad, Les, was…",
     "It began with getting her dad into walking football after his diagnosis – now Gemma Darvill is taking a national team on tour to Canada When Gemma Darvill’s dad, Les, was diagnosed with Parkinson’s disease aged 58, joining a walking football team stopped him from confining himself to his own home, and she believes the game saved his life. What she could never have foreseen was that, eight years later, she would find herself coaching the first England women’s Parkinson’s team , helping transform the lives of women with the disease from all across the country. She is set to embark on a journey to Toronto to help spread awareness of the ways in which walking football can help put the brakes on the progression of Parkinson’s symptoms.",
@@ -181,7 +539,7 @@
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
   },
   {
@@ -195,14 +553,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-10T10:34:47.000Z",
-   "fetched_at": "2026-09-10T11:40:57.838Z",
+   "fetched_at": "2026-09-10T15:57:25.804Z",
    "body": [
     "Our briefing: Jones has a history of bizarre rants, and has now hit out at officials twice in a matter of days",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/CPSL_2005_semifinals_-_Esther_Shiner_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "Robin Glover — CC BY 4.0"
   },
   {
    "id": "bbc-why-are-there-champions-league-games-thursday",
@@ -215,15 +573,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-10T10:21:26.000Z",
-   "fetched_at": "2026-09-10T11:40:57.281Z",
+   "fetched_at": "2026-09-10T15:57:25.652Z",
    "body": [
     "Our briefing: Our Ask Me Anything team look at why some Champions League games are taking place on Thursday.",
     "Our Ask Me Anything team look at why some Champions League games are taking place on Thursday.",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "independent-ryan-giggs-reveals-why-manchester-united-ignored",
@@ -236,7 +594,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-10T10:14:09.000Z",
-   "fetched_at": "2026-09-10T11:40:57.838Z",
+   "fetched_at": "2026-09-10T15:57:25.804Z",
    "body": [
     "Our briefing: Mbappe was watched by a Manchester United scout while a teenage talent",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -256,15 +614,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-10T10:10:05.000Z",
-   "fetched_at": "2026-09-10T11:40:57.280Z",
+   "fetched_at": "2026-09-10T15:57:25.651Z",
    "body": [
     "Our briefing: Portsmouth boss John Mousinho is \"absolutely furious\" at the position he says he was put in over an incident involving Cardiff's Krystian Bielik and a fan.",
     "Portsmouth boss John Mousinho is \"absolutely furious\" at the position he says he was put in over an incident involving Cardiff's Krystian Bielik and a fan.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "guardian-saloons-school-specialty-coffee-nwsl-players-enj",
@@ -277,7 +635,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-10T10:00:24.000Z",
-   "fetched_at": "2026-09-10T11:40:57.561Z",
+   "fetched_at": "2026-09-10T15:57:25.724Z",
    "body": [
     "Our briefing: Five years ago, stars in the league packed Amazon boxes or drove for DoorDash to make ends meet on meager salaries. A new CBA opened doors for off-field pursuits in line…",
     "Five years ago, stars in the league packed Amazon boxes or drove for DoorDash to make ends meet on meager salaries. A new CBA opened doors for off-field pursuits in line with their passions On a cold winter night in Ketchum, Idaho, Chicago Stars midfielder Bea Franklin was pulling off a different sort of physical feat than what she usually does on the soccer field. Under the eyes of taxidermied animals at the Pioneer Saloon, she deftly balanced martinis as a cocktail waitress, wearing cowgirl boots and ensuring the olives didn’t drip when she walked down stairs.",
@@ -285,8 +643,8 @@
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Kashima_Soccer_Stadium_6.jpg/960px-Kashima_Soccer_Stadium_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   },
   {
    "id": "bbc-winning-725-game-show-facing-man-utd-europe",
@@ -299,7 +657,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-10T09:40:39.000Z",
-   "fetched_at": "2026-09-10T11:40:57.279Z",
+   "fetched_at": "2026-09-10T15:57:25.650Z",
    "body": [
     "Our briefing: Lithuanian coach Valdas Dambrauskas cut his teeth in English football, and now returns in the Champions League with Sabah.",
     "Lithuanian coach Valdas Dambrauskas cut his teeth in English football, and now returns in the Champions League with Sabah.",
@@ -320,13 +678,13 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-10T09:22:53.000Z",
-   "fetched_at": "2026-09-10T11:40:57.839Z",
+   "fetched_at": "2026-09-10T15:57:25.804Z",
    "body": [
     "Our briefing: Mauricio Pochettino has claimed Chelsea ‘didn’t compete with the same rules’ and argued Tottenham should have been awarded the 2016-17 title",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Chelsea_Randall_at_Adelaide%E2%80%93Sydney_AFLW_Round_1_match_%28028A9959%29.jpg/960px-Chelsea_Randall_at_Adelaide%E2%80%93Sydney_AFLW_Round_1_match_%28028A9959%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Chelsea_Randall_at_Adelaide%E2%80%93Sydney_AFLW_Round_1_match_%28028A9957%29.jpg/960px-Chelsea_Randall_at_Adelaide%E2%80%93Sydney_AFLW_Round_1_match_%28028A9957%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Yu Chu Chin — CC BY-SA 4.0"
   },
   {
@@ -340,14 +698,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-10T09:20:24.000Z",
-   "fetched_at": "2026-09-10T11:40:57.839Z",
+   "fetched_at": "2026-09-10T15:57:25.804Z",
    "body": [
     "Our briefing: Spurs missed out on the 2016-17 title to their London rivals, who have since been punished",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Stadium_Street%2C_Chelsea_-_geograph.org.uk_-_4585241.jpg/960px-Stadium_Street%2C_Chelsea_-_geograph.org.uk_-_4585241.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Chris Whippet — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Chelsea_Stadium_-_panoramio.jpg/960px-Chelsea_Stadium_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Carlos Cunha — CC BY-SA 3.0"
   },
   {
    "id": "independent-when-ballon-d-or-2026-ceremony-date-contenders-h",
@@ -360,14 +718,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-10T09:17:57.000Z",
-   "fetched_at": "2026-09-10T11:40:57.839Z",
+   "fetched_at": "2026-09-10T15:57:25.805Z",
    "body": [
     "Our briefing: Harry Kane, Kylian Mbappe, Rodri and Khvicha Kvaratskhelia are among the top contenders for the men’s award",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
    "id": "bbc-spurs-should-be-awarded-2016-17-title-pochettino",
@@ -380,15 +738,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-10T08:08:21.000Z",
-   "fetched_at": "2026-09-10T11:40:57.279Z",
+   "fetched_at": "2026-09-10T15:57:25.651Z",
    "body": [
     "Our briefing: Mauricio Pochettino believes Chelsea should be stripped of the Premier League title for 2016-17, when his Tottenham team finished runners-up.",
     "Mauricio Pochettino believes Chelsea should be stripped of the Premier League title for 2016-17, when his Tottenham team finished runners-up.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
    "id": "bbc-late-goal-keeps-rangers-track-old-firm-double-he",
@@ -401,15 +759,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-10T07:55:36.000Z",
-   "fetched_at": "2026-09-10T11:40:57.280Z",
+   "fetched_at": "2026-09-10T15:57:25.651Z",
    "body": [
     "Our briefing: Rangers celebrated wildly after a stoppage-time strike against St Mirren maintains momentum going into two games with rivals Celtic.",
     "Rangers celebrated wildly after a stoppage-time strike against St Mirren maintains momentum going into two games with rivals Celtic.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Ibrox_Stadium%2C_Rangers_FC.jpg/960px-Ibrox_Stadium%2C_Rangers_FC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Lesterhobbes764 — CC BY-SA 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Balmoral_Stadium_-_home_of_Cove_Rangers_FC_%28geograph_6062102%29.jpg/960px-Balmoral_Stadium_-_home_of_Cove_Rangers_FC_%28geograph_6062102%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Peter Moore — CC BY-SA 2.0"
   },
   {
    "id": "bbc-o-neill-not-sure-what-make-celtic-so-what-are-is",
@@ -422,7 +780,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-10T07:39:05.000Z",
-   "fetched_at": "2026-09-10T11:40:57.280Z",
+   "fetched_at": "2026-09-10T15:57:25.651Z",
    "body": [
     "Our briefing: What did manager Martin O'Neill learn about his Celtic squad after a much-changed side earned a narrow 1-0 victory away to St Johnstone?",
     "What did manager Martin O'Neill learn about his Celtic squad after a much-changed side earned a narrow 1-0 victory away to St Johnstone?",
@@ -443,7 +801,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-10T07:27:34.000Z",
-   "fetched_at": "2026-09-10T11:40:57.280Z",
+   "fetched_at": "2026-09-10T15:57:25.651Z",
    "body": [
     "Our briefing: Barcelona midfielder Rodri says he has apologised to the entire Valencia squad after television cameras appeared to catch him describing the La Liga strugglers as \"very…",
     "Barcelona midfielder Rodri says he has apologised to the entire Valencia squad after television cameras appeared to catch him describing the La Liga strugglers as \"very weak\".",
@@ -464,14 +822,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-10T07:08:39.000Z",
-   "fetched_at": "2026-09-10T11:40:57.839Z",
+   "fetched_at": "2026-09-10T15:57:25.805Z",
    "body": [
     "Our briefing: Here’s how the top 10 contenders rank in the race to lift the Ballon d’Or in October",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
    "id": "bbc-gossip-johnstone-keep-celtic-place-old-firm-cup-",
@@ -493,367 +851,6 @@
    ],
    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Celtic_Park_during_an_Old_Firm_derby_between_Celtic_FC_and_Rangers_FC.jpg/960px-Celtic_Park_during_an_Old_Firm_derby_between_Celtic_FC_and_Rangers_FC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Vincenzo.togni — CC BY-SA 4.0"
-  },
-  {
-   "id": "guardian-that-s-how-it-started-dambrauskas-journey-who-wa",
-   "slug": "that-s-how-it-started-dambrauskas-journey-from-who-wants-to--ho-wa",
-   "title": "‘That’s how it started’: Dambrauskas’ journey from Who Wants to Be a Millionaire to Champions League",
-   "dek": "Valdas Dambrauskas takes Sabah to Manchester United after journeying from Lithuania and a game show win, via London pub work Valdas Dambrauskas can reel off the questions…",
-   "description": "Valdas Dambrauskas takes Sabah to Manchester United after journeying from Lithuania and a game show win, via London pub work Valdas Dambrauskas can reel off the questions and answers without a moment’s pause. Who won the first Academy Award for best actor in 1929? It was Emil Jannings, even if someone else might have been tempted to go with Charlie Chaplin. Which country publishes the highest number of daily newspapers? India was the clear winner. Can you name the nation that produces the most electricity per capita in the world? His family, watching back home, clasped heads in hands but he was right: back then, in 2002, the answer was his native Lithuania. It was enough to win Dambrauskas about £725 in his appearance on Six Zeros – A Million, the Lithuanian version of Who Wants to Be a Millionaire? “At that time it was quite big money,” he says. “I could have bought a flat in my home town; it was a very difficult period there and they were almost free. But my plan was to go to England and follow my dream to become a coach, and that’s how it started.” Continue reading...",
-   "category": "Match Reports",
-   "league": "Champions League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-09-10T06:00:19.000Z",
-   "fetched_at": "2026-09-10T11:40:57.560Z",
-   "body": [
-    "Our briefing: Valdas Dambrauskas takes Sabah to Manchester United after journeying from Lithuania and a game show win, via London pub work Valdas Dambrauskas can reel off the questions…",
-    "Valdas Dambrauskas takes Sabah to Manchester United after journeying from Lithuania and a game show win, via London pub work Valdas Dambrauskas can reel off the questions and answers without a moment’s pause. Who won the first Academy Award for best actor in 1929? It was Emil Jannings, even if someone else might have been tempted to go with Charlie Chaplin.",
-    "Which country publishes the highest number of daily newspapers? India was the clear winner. Can you name the nation that produces the most electricity per capita in the world?",
-    "His family, watching back home, clasped heads in hands but he was right: back then, in 2002, the answer was his native Lithuania. It was enough to win Dambrauskas about £725 in his appearance on Six Zeros – A Million, the Lithuanian version of Who Wants to Be a Millionaire? “At that time it was quite big money,” he says.",
-    "“I could have bought a flat in my home town; it was a very difficult period there and they were almost free. But my plan was to go to England and follow my dream to become a coach, and that’s how it started. ” Continue reading...",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "guardian-chelsea-s-2016-17-premier-league-title-should-be",
-   "slug": "chelsea-s-2016-17-premier-league-title-should-be-given-to-sp-ld-be",
-   "title": "Chelsea’s 2016-17 Premier League title should be given to Spurs, says Pochettino",
-   "dek": "Former manager says Chelsea should be stripped of title ‘The title should be for the team that was second’ Mauricio Pochettino says Chelsea should be stripped of their…",
-   "description": "Former manager says Chelsea should be stripped of title ‘The title should be for the team that was second’ Mauricio Pochettino says Chelsea should be stripped of their 2016-17 Premier League title for financial rule breaches and the honour retrospectively awarded to Tottenham, who he led to second place that season. Chelsea were fined £10m by the Football Association in July and given a suspended two-window transfer ban for multiple violations of the rules during the Roman Abramovich era. They were also fined £10.75m by the Premier League in March. Continue reading...",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-09-10T06:00:18.000Z",
-   "fetched_at": "2026-09-10T11:40:57.560Z",
-   "body": [
-    "Our briefing: Former manager says Chelsea should be stripped of title ‘The title should be for the team that was second’ Mauricio Pochettino says Chelsea should be stripped of their…",
-    "Former manager says Chelsea should be stripped of title ‘The title should be for the team that was second’ Mauricio Pochettino says Chelsea should be stripped of their 2016-17 Premier League title for financial rule breaches and the honour retrospectively awarded to Tottenham, who he led to second place that season. Chelsea were fined £10m by the Football Association in July and given a suspended two-window transfer ban for multiple violations of the rules during the Roman Abramovich era. They were also fined £10.",
-    "75m by the Premier League in March. Continue reading...",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Dr_Christian_Pathak_at_Chelsea_%26_Westminster_Hospital.jpg/960px-Dr_Christian_Pathak_at_Chelsea_%26_Westminster_Hospital.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Isselerhof — CC BY-SA 4.0"
-  },
-  {
-   "id": "guardian-mauricio-pochettino-i-am-always-open-help-totten",
-   "slug": "mauricio-pochettino-i-am-always-open-to-help-tottenham-in-wh-otten",
-   "title": "Mauricio Pochettino: ‘I am always open to help Tottenham. In whatever division’",
-   "dek": "Manager is excited by new US deal but might have returned to Spurs if the stars had aligned and does not rule out taking England job one day If things had worked out…",
-   "description": "Manager is excited by new US deal but might have returned to Spurs if the stars had aligned and does not rule out taking England job one day If things had worked out differently, Mauricio Pochettino would have gone back to his beloved Tottenham over the summer. They had put in the call and it stirred him. Nothing was going to put him off – not even the possibility of the club being in the Championship. Seriously, Mauricio? After a World Cup campaign with the United States and top jobs with Chelsea and Paris Saint-Germain before that, he would have been willing to start a new chapter in the second tier of English football? “Yes, of course,” Pochettino says. “Tottenham … it’s the only club that always I am open to help. In whatever division.” Continue reading...",
-   "category": "News",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-09-10T06:00:18.000Z",
-   "fetched_at": "2026-09-10T11:40:57.560Z",
-   "body": [
-    "Our briefing: Manager is excited by new US deal but might have returned to Spurs if the stars had aligned and does not rule out taking England job one day If things had worked out…",
-    "Manager is excited by new US deal but might have returned to Spurs if the stars had aligned and does not rule out taking England job one day If things had worked out differently, Mauricio Pochettino would have gone back to his beloved Tottenham over the summer. They had put in the call and it stirred him. Nothing was going to put him off – not even the possibility of the club being in the Championship.",
-    "Seriously, Mauricio? After a World Cup campaign with the United States and top jobs with Chelsea and Paris Saint-Germain before that, he would have been willing to start a new chapter in the second tier of English football? “Yes, of course,” Pochettino says.",
-    "“Tottenham … it’s the only club that always I am open to help. In whatever division. ” Continue reading...",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/London_Tottenham_Hotspur_Stadium.jpg/960px-London_Tottenham_Hotspur_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
-  },
-  {
-   "id": "independent-mauricio-pochettino-balogun-scandal-england-job-",
-   "slug": "mauricio-pochettino-on-the-balogun-scandal-the-england-job-a--job-",
-   "title": "Mauricio Pochettino on the Balogun scandal, the England job and the problem with club football",
-   "dek": "Mauricio Pochettino tells Miguel Delaney why he has chosen to stay on as manager of the USA beyond the World Cup despite offers from the club game",
-   "description": "Mauricio Pochettino tells Miguel Delaney why he has chosen to stay on as manager of the USA beyond the World Cup despite offers from the club game",
-   "category": "Tactics & Analysis",
-   "league": "International",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-09-10T06:00:00.000Z",
-   "fetched_at": "2026-09-10T11:40:57.839Z",
-   "body": [
-    "Our briefing: Mauricio Pochettino tells Miguel Delaney why he has chosen to stay on as manager of the USA beyond the World Cup despite offers from the club game",
-    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "bbc-flex-your-football-brain-our-daily-quizzes",
-   "slug": "flex-your-football-brain-with-our-daily-quizzes-izzes",
-   "title": "Flex your football brain with our daily quizzes",
-   "dek": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-   "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-09-10T05:42:43.000Z",
-   "fetched_at": "2026-09-10T11:40:57.280Z",
-   "body": [
-    "Our briefing: Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-    "Test your ball knowledge against today's Who Am I? , Five in Five and Brainteaser.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-star-subs-rescue-chelsea-alonso-takes-blame",
-   "slug": "star-subs-rescue-chelsea-as-alonso-takes-blame-blame",
-   "title": "Star subs rescue Chelsea as Alonso 'takes blame'",
-   "dek": "Chelsea get the better of Leeds in a cup thriller, but Blues boss Xabi Alonso has food for thought after needing rescue act from his star substitutes.",
-   "description": "Chelsea get the better of Leeds in a cup thriller, but Blues boss Xabi Alonso has food for thought after needing rescue act from his star substitutes.",
-   "category": "News",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-09-09T23:25:38.000Z",
-   "fetched_at": "2026-09-10T11:40:57.280Z",
-   "body": [
-    "Our briefing: Chelsea get the better of Leeds in a cup thriller, but Blues boss Xabi Alonso has food for thought after needing rescue act from his star substitutes.",
-    "Chelsea get the better of Leeds in a cup thriller, but Blues boss Xabi Alonso has food for thought after needing rescue act from his star substitutes.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Inside_Stamford_Bridge_Stadium_-_Chelsea_v_Peterborough_-_geograph.org.uk_-_5253336.jpg/960px-Inside_Stamford_Bridge_Stadium_-_Chelsea_v_Peterborough_-_geograph.org.uk_-_5253336.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Richard Humphrey — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-liverpool-will-reward-mac-allister-if-he-lets-hi",
-   "slug": "liverpool-will-reward-mac-allister-if-he-lets-his-football-d-ts-hi",
-   "title": "Liverpool will reward Mac Allister if he lets his football do talking",
-   "dek": "After saying he was \"very sad\" at the lack of a contract offer from Liverpool, Alexis Mac Allister proved his worth against Atletico Madrid.",
-   "description": "After saying he was \"very sad\" at the lack of a contract offer from Liverpool, Alexis Mac Allister proved his worth against Atletico Madrid.",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-09-09T23:12:27.000Z",
-   "fetched_at": "2026-09-10T11:40:57.279Z",
-   "body": [
-    "Our briefing: After saying he was \"very sad\" at the lack of a contract offer from Liverpool, Alexis Mac Allister proved his worth against Atletico Madrid.",
-    "After saying he was \"very sad\" at the lack of a contract offer from Liverpool, Alexis Mac Allister proved his worth against Atletico Madrid.",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Magistrates%27_Court%2C_Dale_Street%2C_Liverpool_2018.jpg/960px-Magistrates%27_Court%2C_Dale_Street%2C_Liverpool_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Rodhullandemu — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-prince-william-launches-sport-mental-health-tool",
-   "slug": "prince-william-launches-sport-mental-health-toolkit--tool",
-   "title": "Prince William launches sport mental health toolkit",
-   "dek": "Prince William urges sport at every level to make suicide prevention part of its culture through a new nationwide toolkit called On Your Side.",
-   "description": "Prince William urges sport at every level to make suicide prevention part of its culture through a new nationwide toolkit called On Your Side.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-09-09T23:01:49.000Z",
-   "fetched_at": "2026-09-10T11:40:57.280Z",
-   "body": [
-    "Our briefing: Prince William urges sport at every level to make suicide prevention part of its culture through a new nationwide toolkit called On Your Side.",
-    "Prince William urges sport at every level to make suicide prevention part of its culture through a new nationwide toolkit called On Your Side.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Kashima_Soccer_Stadium_6.jpg/960px-Kashima_Soccer_Stadium_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-odegaard-artist-this-whole-side-onuoha",
-   "slug": "odegaard-is-an-artist-for-this-whole-side-onuoha-nuoha",
-   "title": "Odegaard is an 'artist for this whole side' - Onuoha",
-   "dek": "Match of the Day pundits Nedum Onuoha and Rory Smith discuss Martin Odegaard's performance in Arsenal's Champions League match against Napoli as well as his prospects for…",
-   "description": "Match of the Day pundits Nedum Onuoha and Rory Smith discuss Martin Odegaard's performance in Arsenal's Champions League match against Napoli as well as his prospects for the season.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-09-09T22:40:37.000Z",
-   "fetched_at": "2026-09-10T11:40:57.280Z",
-   "body": [
-    "Our briefing: Match of the Day pundits Nedum Onuoha and Rory Smith discuss Martin Odegaard's performance in Arsenal's Champions League match against Napoli as well as his prospects for…",
-    "Match of the Day pundits Nedum Onuoha and Rory Smith discuss Martin Odegaard's performance in Arsenal's Champions League match against Napoli as well as his prospects for the season.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "bbc-arsenal-are-passing-every-test-odegaard-form-his",
-   "slug": "arsenal-are-passing-every-test-and-odegaard-is-in-form-of-hi-m-his",
-   "title": "Arsenal are passing every test - and Odegaard is in form of his life",
-   "dek": "Another Arsenal win, another Martin Odegaard goal - the Gunners captain looks back to his best, writes Phil McNulty.",
-   "description": "Another Arsenal win, another Martin Odegaard goal - the Gunners captain looks back to his best, writes Phil McNulty.",
-   "category": "News",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-09-09T22:35:51.000Z",
-   "fetched_at": "2026-09-10T11:40:57.279Z",
-   "body": [
-    "Our briefing: Another Arsenal win, another Martin Odegaard goal - the Gunners captain looks back to his best, writes Phil McNulty.",
-    "Another Arsenal win, another Martin Odegaard goal - the Gunners captain looks back to his best, writes Phil McNulty.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Arsenal_Stadium_Highbury_east_facade.jpg/960px-Arsenal_Stadium_Highbury_east_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "No machine-readable author provided. Qwghlm~commonswiki assumed (based on copyright claims). — CC BY-SA 3.0"
-  },
-  {
-   "id": "bbc-newcastle-still-open-hall-sale-thursday-s-gossip",
-   "slug": "newcastle-still-open-to-hall-sale-thursday-s-gossip-ossip",
-   "title": "Newcastle still open to Hall sale - Thursday's gossip",
-   "dek": "Lewis Hall could still leave Newcastle despite new contract, Yasin Ayari close to committing to Brighton but Kaoru Mitoma set for exit, and Chelsea to go back for Manu…",
-   "description": "Lewis Hall could still leave Newcastle despite new contract, Yasin Ayari close to committing to Brighton but Kaoru Mitoma set for exit, and Chelsea to go back for Manu Kone in midfielder search.",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-09-09T22:32:51.000Z",
-   "fetched_at": "2026-09-10T11:40:57.280Z",
-   "body": [
-    "Our briefing: Lewis Hall could still leave Newcastle despite new contract, Yasin Ayari close to committing to Brighton but Kaoru Mitoma set for exit, and Chelsea to go back for Manu…",
-    "Lewis Hall could still leave Newcastle despite new contract, Yasin Ayari close to committing to Brighton but Kaoru Mitoma set for exit, and Chelsea to go back for Manu Kone in midfielder search.",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Outside_Newcastle_Central_Station_-_geograph.org.uk_-_2661040.jpg/960px-Outside_Newcastle_Central_Station_-_geograph.org.uk_-_2661040.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "David Hillas — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-sportscene-narrow-wins-celtic-rangers",
-   "slug": "sportscene-narrow-wins-for-celtic-rangers-ngers",
-   "title": "Sportscene: Narrow wins for Celtic & Rangers",
-   "dek": "Midweek action as Rangers take on St Mirren and Celtic face St Johnstone.",
-   "description": "Midweek action as Rangers take on St Mirren and Celtic face St Johnstone.",
-   "category": "Match Reports",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-09-09T22:27:15.000Z",
-   "fetched_at": "2026-09-10T06:24:25.205Z",
-   "body": [
-    "Our briefing: Midweek action as Rangers take on St Mirren and Celtic face St Johnstone.",
-    "Midweek action as Rangers take on St Mirren and Celtic face St Johnstone.",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Match_Day_Celtic_Park_-_geograph.org.uk_-_2596994.jpg/960px-Match_Day_Celtic_Park_-_geograph.org.uk_-_2596994.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "edward mcmaihin — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-watch-highlights-narrow-wins-celtic-rangers",
-   "slug": "watch-highlights-from-narrow-wins-for-celtic-rangers-ngers",
-   "title": "Watch: Highlights from narrow wins for Celtic & Rangers",
-   "dek": "Midweek action as Rangers take on St Mirren and Celtic face St Johnstone.",
-   "description": "Midweek action as Rangers take on St Mirren and Celtic face St Johnstone.",
-   "category": "Match Reports",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-09-09T22:25:15.000Z",
-   "fetched_at": "2026-09-10T11:40:57.282Z",
-   "body": [
-    "Our briefing: Midweek action as Rangers take on St Mirren and Celtic face St Johnstone.",
-    "Midweek action as Rangers take on St Mirren and Celtic face St Johnstone.",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Celtic_FC-FK_Sarajevo.png/960px-Celtic_FC-FK_Sarajevo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "PeppermintSA — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-how-mac-allister-let-his-feet-do-talking-warnock",
-   "slug": "how-mac-allister-let-his-feet-do-the-talking-warnock-rnock",
-   "title": "How Mac Allister 'let his feet do the talking' - Warnock",
-   "dek": "Match of the Day pundit Stephen Warnock praises an \"exceptional\" Alexis Mac Allister as the Argentinian midfielder scores a brilliant winner in Liverpool's 2-1 Champions…",
-   "description": "Match of the Day pundit Stephen Warnock praises an \"exceptional\" Alexis Mac Allister as the Argentinian midfielder scores a brilliant winner in Liverpool's 2-1 Champions League win over Atletico Madrid at Anfield.",
-   "category": "Tactics & Analysis",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-09-09T22:21:42.000Z",
-   "fetched_at": "2026-09-10T11:40:57.280Z",
-   "body": [
-    "Our briefing: Match of the Day pundit Stephen Warnock praises an \"exceptional\" Alexis Mac Allister as the Argentinian midfielder scores a brilliant winner in Liverpool's 2-1 Champions…",
-    "Match of the Day pundit Stephen Warnock praises an \"exceptional\" Alexis Mac Allister as the Argentinian midfielder scores a brilliant winner in Liverpool's 2-1 Champions League win over Atletico Madrid at Anfield.",
-    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "independent-chelsea-blitz-leeds-second-half-comeback-carabao",
-   "slug": "chelsea-blitz-leeds-with-second-half-comeback-in-carabao-cup-rabao",
-   "title": "Chelsea blitz Leeds with second-half comeback in Carabao Cup thriller",
-   "dek": "Chelsea 6-3 Leeds: Chelsea trailed 2-0 but Xabi Alonso’s substitutes sparked a revival in a nine-goal thriller",
-   "description": "Chelsea 6-3 Leeds: Chelsea trailed 2-0 but Xabi Alonso’s substitutes sparked a revival in a nine-goal thriller",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-09-09T22:20:48.000Z",
-   "fetched_at": "2026-09-10T11:40:57.839Z",
-   "body": [
-    "Our briefing: Chelsea 6-3 Leeds: Chelsea trailed 2-0 but Xabi Alonso’s substitutes sparked a revival in a nine-goal thriller",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Chelsea_Randall_at_Adelaide%E2%80%93Sydney_AFLW_Round_1_match_%28028A9957%29.jpg/960px-Chelsea_Randall_at_Adelaide%E2%80%93Sydney_AFLW_Round_1_match_%28028A9957%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Yu Chu Chin — CC BY-SA 4.0"
-  },
-  {
-   "id": "guardian-champions-league-roundup-raphinha-shines-barcelo",
-   "slug": "champions-league-roundup-raphinha-shines-as-barcelona-thrash-rcelo",
-   "title": "Champions League roundup: Raphinha shines as Barcelona thrash Feyenoord",
-   "dek": "Brazilian scores twice in 5-1 victory at Camp Nou Torres scores hat-trick as PSG thump Slovan Bratislava Raphinha let his goals do the talking after being omitted from…",
-   "description": "Brazilian scores twice in 5-1 victory at Camp Nou Torres scores hat-trick as PSG thump Slovan Bratislava Raphinha let his goals do the talking after being omitted from the Ballon d’Or shortlist, striking twice as Barcelona eased to a 5-1 win over Feyenoord in the Champions League. The Brazilian was a surprise omission from this week’s 30-strong list of candidates for the prestigious award but brushed any disappointment aside to continue his early season hot streak at a rain-soaked Camp Nou. The forward finished brilliantly in the third minute and added a second just before the hour mark to down the Eredivisie side and take his tally to eight goals in six outings at the start of the campaign. Continue reading...",
-   "category": "Match Reports",
-   "league": "Champions League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-09-09T22:08:45.000Z",
-   "fetched_at": "2026-09-10T11:40:57.560Z",
-   "body": [
-    "Our briefing: Brazilian scores twice in 5-1 victory at Camp Nou Torres scores hat-trick as PSG thump Slovan Bratislava Raphinha let his goals do the talking after being omitted from…",
-    "Brazilian scores twice in 5-1 victory at Camp Nou Torres scores hat-trick as PSG thump Slovan Bratislava Raphinha let his goals do the talking after being omitted from the Ballon d’Or shortlist, striking twice as Barcelona eased to a 5-1 win over Feyenoord in the Champions League. The Brazilian was a surprise omission from this week’s 30-strong list of candidates for the prestigious award but brushed any disappointment aside to continue his early season hot streak at a rain-soaked Camp Nou. The forward finished brilliantly in the third minute and added a second just before the hour mark to down the Eredivisie side and take his tally to eight goals in six outings at the start of the campaign.",
-    "Continue reading...",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/LFP_-_Barcelona_vs_Mallorca_pre-match_-_Oct_3rd_2010.jpg/960px-LFP_-_Barcelona_vs_Mallorca_pre-match_-_Oct_3rd_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Paolo Costa Baldi — CC BY-SA 3.0"
-  },
-  {
-   "id": "independent-mac-allister-winner-answers-contract-questions-b",
-   "slug": "mac-allister-winner-answers-contract-questions-but-worrying--ons-b",
-   "title": "Mac Allister winner answers contract questions but worrying Liverpool trend emerges",
-   "dek": "Liverpool 2-1 Atletico Madrid: The Reds began their quest for a seventh European title with a comeback win over Diego Simeone’s side",
-   "description": "Liverpool 2-1 Atletico Madrid: The Reds began their quest for a seventh European title with a comeback win over Diego Simeone’s side",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-09-09T21:59:03.000Z",
-   "fetched_at": "2026-09-10T11:40:57.839Z",
-   "body": [
-    "Our briefing: Liverpool 2-1 Atletico Madrid: The Reds began their quest for a seventh European title with a comeback win over Diego Simeone’s side",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/2022-07-21_Fu%C3%9Fball%2C_M%C3%A4nner%2CFreundschaftsspiel%2C_RB_Leipzig_-_FC_Liverpool_1DX_2224_by_Stepro.jpg/960px-2022-07-21_Fu%C3%9Fball%2C_M%C3%A4nner%2CFreundschaftsspiel%2C_RB_Leipzig_-_FC_Liverpool_1DX_2224_by_Stepro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Steffen Prößdorf — CC BY-SA 4.0"
   }
  ]
 }
