@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-09T23:26:22.141Z",
- "updated_utc": "2026-09-09T23:26Z",
- "cycle": 29816606,
+ "generated_at": "2026-09-10T01:19:43.541Z",
+ "updated_utc": "2026-09-10T01:19Z",
+ "cycle": 29816719,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,8 +16,29 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "bbc-odegaard-artist-this-whole-side-onuoha",
+ "hero_id": "bbc-liverpool-will-reward-mac-allister-if-he-lets-hi",
  "articles": [
+  {
+   "id": "bbc-star-subs-rescue-chelsea-alonso-takes-blame",
+   "slug": "star-subs-rescue-chelsea-as-alonso-takes-blame-blame",
+   "title": "Star subs rescue Chelsea as Alonso 'takes blame'",
+   "dek": "Chelsea get the better of Leeds in a cup thriller, but Blues boss Xabi Alonso has food for thought after needing rescue act from his star substitutes.",
+   "description": "Chelsea get the better of Leeds in a cup thriller, but Blues boss Xabi Alonso has food for thought after needing rescue act from his star substitutes.",
+   "category": "News",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-09-09T23:25:38.000Z",
+   "fetched_at": "2026-09-10T01:19:33.035Z",
+   "body": [
+    "Our briefing: Chelsea get the better of Leeds in a cup thriller, but Blues boss Xabi Alonso has food for thought after needing rescue act from his star substitutes.",
+    "Chelsea get the better of Leeds in a cup thriller, but Blues boss Xabi Alonso has food for thought after needing rescue act from his star substitutes.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Stadium_Street%2C_Chelsea_-_geograph.org.uk_-_4585241.jpg/960px-Stadium_Street%2C_Chelsea_-_geograph.org.uk_-_4585241.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Chris Whippet — CC BY-SA 2.0"
+  },
   {
    "id": "bbc-liverpool-will-reward-mac-allister-if-he-lets-hi",
    "slug": "liverpool-will-reward-mac-allister-if-he-lets-his-football-d-ts-hi",
@@ -29,7 +50,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-09T23:12:27.000Z",
-   "fetched_at": "2026-09-09T23:26:09.662Z",
+   "fetched_at": "2026-09-10T01:19:33.034Z",
    "body": [
     "Our briefing: After saying he was \"very sad\" at the lack of a contract offer from Liverpool, Alexis Mac Allister proved his worth against Atletico Madrid.",
     "After saying he was \"very sad\" at the lack of a contract offer from Liverpool, Alexis Mac Allister proved his worth against Atletico Madrid.",
@@ -50,7 +71,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-09T23:01:49.000Z",
-   "fetched_at": "2026-09-09T23:26:09.662Z",
+   "fetched_at": "2026-09-10T01:19:33.035Z",
    "body": [
     "Our briefing: Prince William urges sport at every level to make suicide prevention part of its culture through a new nationwide toolkit called On Your Side.",
     "Prince William urges sport at every level to make suicide prevention part of its culture through a new nationwide toolkit called On Your Side.",
@@ -71,7 +92,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-09T22:40:37.000Z",
-   "fetched_at": "2026-09-09T23:26:09.662Z",
+   "fetched_at": "2026-09-10T01:19:33.036Z",
    "body": [
     "Our briefing: Match of the Day pundits Nedum Onuoha and Rory Smith discuss Martin Odegaard's performance in Arsenal's Champions League match against Napoli as well as his prospects for…",
     "Match of the Day pundits Nedum Onuoha and Rory Smith discuss Martin Odegaard's performance in Arsenal's Champions League match against Napoli as well as his prospects for the season.",
@@ -92,7 +113,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-09T22:35:51.000Z",
-   "fetched_at": "2026-09-09T23:26:09.662Z",
+   "fetched_at": "2026-09-10T01:19:33.034Z",
    "body": [
     "Our briefing: Another Arsenal win, another Martin Odegaard goal - the Gunners captain looks back to his best, writes Phil McNulty.",
     "Another Arsenal win, another Martin Odegaard goal - the Gunners captain looks back to his best, writes Phil McNulty.",
@@ -113,7 +134,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-09T22:32:51.000Z",
-   "fetched_at": "2026-09-09T23:26:09.662Z",
+   "fetched_at": "2026-09-10T01:19:33.035Z",
    "body": [
     "Our briefing: Lewis Hall could still leave Newcastle despite new contract, Yasin Ayari close to committing to Brighton but Kaoru Mitoma set for exit, and Chelsea to go back for Manu…",
     "Lewis Hall could still leave Newcastle despite new contract, Yasin Ayari close to committing to Brighton but Kaoru Mitoma set for exit, and Chelsea to go back for Manu Kone in midfielder search.",
@@ -134,7 +155,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-09T22:21:42.000Z",
-   "fetched_at": "2026-09-09T23:26:09.662Z",
+   "fetched_at": "2026-09-10T01:19:33.036Z",
    "body": [
     "Our briefing: Match of the Day pundit Stephen Warnock praises an \"exceptional\" Alexis Mac Allister as the Argentinian midfielder scores a brilliant winner in Liverpool's 2-1 Champions…",
     "Match of the Day pundit Stephen Warnock praises an \"exceptional\" Alexis Mac Allister as the Argentinian midfielder scores a brilliant winner in Liverpool's 2-1 Champions League win over Atletico Madrid at Anfield.",
@@ -155,7 +176,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-09T22:20:48.000Z",
-   "fetched_at": "2026-09-09T23:26:09.890Z",
+   "fetched_at": "2026-09-10T01:19:33.428Z",
    "body": [
     "Our briefing: Chelsea 6-3 Leeds: Chelsea trailed 2-0 but Xabi Alonso’s substitutes sparked a revival in a nine-goal thriller",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -175,7 +196,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-09T22:08:45.000Z",
-   "fetched_at": "2026-09-09T23:26:09.823Z",
+   "fetched_at": "2026-09-10T01:19:33.171Z",
    "body": [
     "Our briefing: Brazilian scores twice in 5-1 victory at Camp Nou Torres scores hat-trick as PSG thump Slovan Bratislava Raphinha let his goals do the talking after being omitted from…",
     "Brazilian scores twice in 5-1 victory at Camp Nou Torres scores hat-trick as PSG thump Slovan Bratislava Raphinha let his goals do the talking after being omitted from the Ballon d’Or shortlist, striking twice as Barcelona eased to a 5-1 win over Feyenoord in the Champions League. The Brazilian was a surprise omission from this week’s 30-strong list of candidates for the prestigious award but brushed any disappointment aside to continue his early season hot streak at a rain-soaked Camp Nou. The forward finished brilliantly in the third minute and added a second just before the hour mark to down the Eredivisie side and take his tally to eight goals in six outings at the start of the campaign.",
@@ -197,7 +218,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-09T21:59:03.000Z",
-   "fetched_at": "2026-09-09T23:26:09.890Z",
+   "fetched_at": "2026-09-10T01:19:33.428Z",
    "body": [
     "Our briefing: Liverpool 2-1 Atletico Madrid: The Reds began their quest for a seventh European title with a comeback win over Diego Simeone’s side",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -217,7 +238,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-09T21:54:41.000Z",
-   "fetched_at": "2026-09-09T23:26:09.890Z",
+   "fetched_at": "2026-09-10T01:19:33.428Z",
    "body": [
     "Our briefing: Barcelona, Sporting and VfB Stuttgart were among the other Wednesday winners in Europe’s premier competition",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -237,7 +258,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-09T21:43:24.000Z",
-   "fetched_at": "2026-09-09T23:26:09.662Z",
+   "fetched_at": "2026-09-10T01:19:33.036Z",
    "body": [
     "Our briefing: Sporting began their Champions League campaign by coming from behind to claim a 3-1 victory over Turkish Super Lig side Galatasaray.",
     "Sporting began their Champions League campaign by coming from behind to claim a 3-1 victory over Turkish Super Lig side Galatasaray.",
@@ -258,7 +279,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-09T21:41:19.000Z",
-   "fetched_at": "2026-09-09T23:26:09.662Z",
+   "fetched_at": "2026-09-10T01:19:33.035Z",
    "body": [
     "Our briefing: Ferran Torres scores a hat-trick as Paris St-Germain get their Champions League title defence off to a winning start against Slovan Bratislava.",
     "Ferran Torres scores a hat-trick as Paris St-Germain get their Champions League title defence off to a winning start against Slovan Bratislava.",
@@ -279,7 +300,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-09T21:38:38.000Z",
-   "fetched_at": "2026-09-09T23:26:09.823Z",
+   "fetched_at": "2026-09-10T01:19:33.171Z",
    "body": [
     "Our briefing: Rangers beat St Mirren 1-0 at Ibrox Celtic also narrow winners at St Johnstone A dramatic last-gasp strike from substitute Bojan Miovski gave Rangers a 1-0 Premiership…",
     "Rangers beat St Mirren 1-0 at Ibrox Celtic also narrow winners at St Johnstone A dramatic last-gasp strike from substitute Bojan Miovski gave Rangers a 1-0 Premiership win over St Mirren at Ibrox. Back in the technical area after a two-game touchline suspension, Derek McInnes watched St Mirren’s Australian goalkeeper Jacob Chapman keep the home side at bay in the first half with a string of saves, albeit helped by some poor finishing. Continue reading...",
@@ -300,7 +321,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-09T21:35:16.000Z",
-   "fetched_at": "2026-09-09T23:26:09.890Z",
+   "fetched_at": "2026-09-10T01:19:33.428Z",
    "body": [
     "Our briefing: Napoli 0-1 Arsenal: Odegaard finally broke the deadlock on 75 minutes as the Gunners spurned numerous other chances but did take all three points",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -320,7 +341,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-09T21:34:51.000Z",
-   "fetched_at": "2026-09-09T23:26:09.662Z",
+   "fetched_at": "2026-09-10T01:19:33.035Z",
    "body": [
     "Our briefing: Martin Odegaard's excellent start to the season continues as the Arsenal captain scores the only goal of the match against Napoli in Naples.",
     "Martin Odegaard's excellent start to the season continues as the Arsenal captain scores the only goal of the match against Napoli in Naples.",
@@ -341,7 +362,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-09T21:28:08.000Z",
-   "fetched_at": "2026-09-09T23:26:09.890Z",
+   "fetched_at": "2026-09-10T01:19:33.428Z",
    "body": [
     "Our briefing: Liverpool 2-1 Atletico Madrid: The Reds began their quest for a seventh European title with a comeback win over Diego Simeone’s side",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -361,7 +382,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-09T21:24:04.000Z",
-   "fetched_at": "2026-09-09T23:26:09.890Z",
+   "fetched_at": "2026-09-10T01:19:33.428Z",
    "body": [
     "Our briefing: Napoli 0-1 Arsenal: Mikel Arteta’s side spurned a huge number of chances in Naples but Martin Odegaard came through to kick off their Champions League campaign with a win",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -381,7 +402,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-09T21:18:55.000Z",
-   "fetched_at": "2026-09-09T23:26:09.823Z",
+   "fetched_at": "2026-09-10T01:19:33.171Z",
    "body": [
     "Our briefing: Where’s the fun in doing it the easy way? Chelsea remain chaotic at the back but can drag their opponents into horrible places. It helps, mind you, to have some…",
     "Where’s the fun in doing it the easy way? Chelsea remain chaotic at the back but can drag their opponents into horrible places. It helps, mind you, to have some assistance from the referee.",
@@ -390,7 +411,7 @@
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Chelsea_Randall_at_Adelaide%E2%80%93Sydney_AFLW_Round_1_match_%28028A9957%29.jpg/960px-Chelsea_Randall_at_Adelaide%E2%80%93Sydney_AFLW_Round_1_match_%28028A9957%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Chelsea_Randall_at_Adelaide%E2%80%93Sydney_AFLW_Round_1_match_%28028A9959%29.jpg/960px-Chelsea_Randall_at_Adelaide%E2%80%93Sydney_AFLW_Round_1_match_%28028A9959%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Yu Chu Chin — CC BY-SA 4.0"
   },
   {
@@ -404,7 +425,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-09T21:07:13.000Z",
-   "fetched_at": "2026-09-09T23:26:09.662Z",
+   "fetched_at": "2026-09-10T01:19:33.035Z",
    "body": [
     "Our briefing: Alexis Mac Allister scores an emphatic winner as Liverpool began their Champions League campaign with a win over Atletico Madrid at Anfield.",
     "Alexis Mac Allister scores an emphatic winner as Liverpool began their Champions League campaign with a win over Atletico Madrid at Anfield.",
@@ -425,7 +446,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-09T21:04:17.000Z",
-   "fetched_at": "2026-09-09T23:26:09.823Z",
+   "fetched_at": "2026-09-10T01:19:33.170Z",
    "body": [
     "Our briefing: It was the time and place for Alexis Mac Allister to do his talking on the pitch and the disgruntled Liverpool midfielder delivered on cue. “Very sad” over Liverpool’s…",
     "It was the time and place for Alexis Mac Allister to do his talking on the pitch and the disgruntled Liverpool midfielder delivered on cue. “Very sad” over Liverpool’s refusal to offer him a new contract, while Dominik Szoboszlai and Ryan Gravenberch were getting theirs, Mac Allister made Anfield very happy with a match-winning display against Atlético Madrid. The Argentina international, one of five World Cup finalists involved in an absorbing, delicately-poised contest, vented his frustrations in the best possible and most professional way – from behind an immaculate 20-yard strike into Jan Oblak’s goal rather than a microphone.",
@@ -467,7 +488,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-09T21:02:33.000Z",
-   "fetched_at": "2026-09-09T23:26:09.823Z",
+   "fetched_at": "2026-09-10T01:19:33.171Z",
    "body": [
     "Our briefing: After their record-breaking feats last year in the Champions League, Arsenal are at it again. But having been delayed along with hundreds of travelling supporters by…",
     "After their record-breaking feats last year in the Champions League, Arsenal are at it again. But having been delayed along with hundreds of travelling supporters by travel chaos on Tuesday, Mikel Arteta’s side had to bide their time against Napoli until Martin Ødegaard continued his rich vein of goalscoring with the crucial strike 15 minutes from full time. Perhaps it was the fact that, at Uefa’s insistence, they were forced to wear red shorts for the first time since a Premier League game against Watford in 2022 that Arsenal were not quite at their flowing best here and missed a hatful of chances.",
@@ -489,7 +510,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-09T21:00:42.000Z",
-   "fetched_at": "2026-09-09T23:26:09.663Z",
+   "fetched_at": "2026-09-10T01:19:33.036Z",
    "body": [
     "Our briefing: Razvan Marin's stunning free-kick earns AEK Athens a 1-0 win over LASK, securing their first Champions League points of the season.",
     "Razvan Marin's stunning free-kick earns AEK Athens a 1-0 win over LASK, securing their first Champions League points of the season.",
@@ -510,7 +531,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-09T21:00:27.000Z",
-   "fetched_at": "2026-09-09T23:26:09.663Z",
+   "fetched_at": "2026-09-10T01:19:33.036Z",
    "body": [
     "Our briefing: Aston Villa launch their Champions League campaign with a 3-2 victory over Club Brugge in Belgium, ending their early-season goal drought.",
     "Aston Villa launch their Champions League campaign with a 3-2 victory over Club Brugge in Belgium, ending their early-season goal drought.",
@@ -531,7 +552,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-09T21:00:19.000Z",
-   "fetched_at": "2026-09-09T23:26:09.663Z",
+   "fetched_at": "2026-09-10T01:19:33.036Z",
    "body": [
     "Our briefing: Borussia Dortmund's Serhou Guirassy scores a second-half double to secure all three points against Villarreal, despite the forward netting a late own goal to set up a…",
     "Borussia Dortmund's Serhou Guirassy scores a second-half double to secure all three points against Villarreal, despite the forward netting a late own goal to set up a nervous finish at Signal Iduna Park.",
@@ -552,7 +573,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-09T21:00:15.000Z",
-   "fetched_at": "2026-09-09T23:26:09.663Z",
+   "fetched_at": "2026-09-10T01:19:33.036Z",
    "body": [
     "Our briefing: The Republic of Ireland's Troy Parrott scores the winning goal as Real Betis fought back from behind to mark their Champions League return with a thrilling victory at…",
     "The Republic of Ireland's Troy Parrott scores the winning goal as Real Betis fought back from behind to mark their Champions League return with a thrilling victory at Lille.",
@@ -573,7 +594,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-09T21:00:12.000Z",
-   "fetched_at": "2026-09-09T23:26:09.662Z",
+   "fetched_at": "2026-09-10T01:19:33.036Z",
    "body": [
     "Our briefing: Erling Haaland scores twice as Manchester City open their Champions League campaign with a comfortable 2-0 victory away to Porto.",
     "Erling Haaland scores twice as Manchester City open their Champions League campaign with a comfortable 2-0 victory away to Porto.",
@@ -594,7 +615,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-09T21:00:06.000Z",
-   "fetched_at": "2026-09-09T23:26:09.662Z",
+   "fetched_at": "2026-09-10T01:19:33.036Z",
    "body": [
     "Our briefing: Kylian Mbappe and Federico Valverde were both on the scoresheet as Real Madrid opened their Champions League campaign with a 2-1 win over Inter Milan.",
     "Kylian Mbappe and Federico Valverde were both on the scoresheet as Real Madrid opened their Champions League campaign with a 2-1 win over Inter Milan.",
@@ -615,7 +636,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-09T20:59:56.000Z",
-   "fetched_at": "2026-09-09T23:26:09.662Z",
+   "fetched_at": "2026-09-10T01:19:33.036Z",
    "body": [
     "Our briefing: Raphinha continued his remarkable goalscoring start to the season with another double as Barcelona turn on the style against Feyenoord in the Champions League.",
     "Raphinha continued his remarkable goalscoring start to the season with another double as Barcelona turn on the style against Feyenoord in the Champions League.",
@@ -636,7 +657,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-09T20:59:20.000Z",
-   "fetched_at": "2026-09-09T23:26:09.662Z",
+   "fetched_at": "2026-09-10T01:19:33.035Z",
    "body": [
     "Our briefing: The ball falls to Alexis Mac Allister on the edge of the box who hits it first time past Jan Oblak to give Liverpool the lead.",
     "The ball falls to Alexis Mac Allister on the edge of the box who hits it first time past Jan Oblak to give Liverpool the lead.",
@@ -702,7 +723,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-09T20:46:31.000Z",
-   "fetched_at": "2026-09-09T23:26:09.662Z",
+   "fetched_at": "2026-09-10T01:19:33.035Z",
    "body": [
     "Our briefing: Dominik Szoboszlai equalises for Liverpool against Atletico Madrid after a brilliant assist from Ronald Araujo.",
     "Dominik Szoboszlai equalises for Liverpool against Atletico Madrid after a brilliant assist from Ronald Araujo.",
@@ -723,7 +744,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-09T19:30:57.000Z",
-   "fetched_at": "2026-09-09T23:26:09.662Z",
+   "fetched_at": "2026-09-10T01:19:33.035Z",
    "body": [
     "Our briefing: Uefa have made changes to the qualifying rounds of the Europa League from next season.",
     "Uefa have made changes to the qualifying rounds of the Europa League from next season.",
@@ -785,7 +806,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-09T17:17:23.000Z",
-   "fetched_at": "2026-09-09T23:26:09.823Z",
+   "fetched_at": "2026-09-10T01:19:33.171Z",
    "body": [
     "Our briefing: Critics view Fernandes job as move to shore up position Fifa says change is designed to make sport ‘truly global’ Gianni Infantino has separated Fifa’s management of the…",
     "Critics view Fernandes job as move to shore up position Fifa says change is designed to make sport ‘truly global’ Gianni Infantino has separated Fifa’s management of the Caribbean countries from the rest of Concacaf in a move widely regarded by his opponents as an attempt to split the alliance to remove him from office. Concacaf covers North and Central America as well as the Caribbean and was previously managed as one bloc. But the Guardian has learned that the former Switzerland midfielder Gelson Fernandes, an Infantino loyalist, has been appointed as the director of member associations for the Caribbean, in addition to his position looking after Fifa’s African members.",
@@ -807,7 +828,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-09T16:50:27.000Z",
-   "fetched_at": "2026-09-09T23:26:09.890Z",
+   "fetched_at": "2026-09-10T01:19:33.428Z",
    "body": [
     "Our briefing: Gainsborough Trinity play in the seventh tier of English football",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -827,7 +848,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-09T16:26:10.000Z",
-   "fetched_at": "2026-09-09T23:26:09.890Z",
+   "fetched_at": "2026-09-10T01:19:33.428Z",
    "body": [
     "Our briefing: United to return to European football’s top table after more than 1,000 days away with a clash against Azeri champions Sabah. And Carrick is now the link between old and…",
     "United to return to European football’s top table after more than 1,000 days away with a clash against Azeri champions Sabah.",
@@ -836,27 +857,6 @@
    ],
    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Kiran891 — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-this-anfield-sign-fetches-115k-auction",
-   "slug": "this-is-anfield-sign-fetches-115k-at-auction-ction",
-   "title": "'This Is Anfield' sign fetches £115k at auction",
-   "dek": "The original sign from Liverpool's stadium tunnel fetched almost eight times its estimated guide price.",
-   "description": "The original sign from Liverpool's stadium tunnel fetched almost eight times its estimated guide price.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-09-09T16:00:46.000Z",
-   "fetched_at": "2026-09-09T23:26:09.663Z",
-   "body": [
-    "Our briefing: The original sign from Liverpool's stadium tunnel fetched almost eight times its estimated guide price.",
-    "The original sign from Liverpool's stadium tunnel fetched almost eight times its estimated guide price.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   }
  ]
 }
