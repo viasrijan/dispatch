@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-11T03:26:34.402Z",
- "updated_utc": "2026-09-11T03:26Z",
- "cycle": 29818286,
+ "generated_at": "2026-09-11T08:15:07.862Z",
+ "updated_utc": "2026-09-11T08:15Z",
+ "cycle": 29818575,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,44 +16,295 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "guardian-mickels-miss-turning-point-latest-stop-sabah-s-o",
+ "hero_id": "bbc-podcast-focus-league-cup-quarter-finals",
  "articles": [
   {
-   "id": "independent-manchester-united-enjoy-triumphant-return-champi",
-   "slug": "manchester-united-enjoy-triumphant-return-to-champions-leagu-hampi",
-   "title": "Manchester United enjoy triumphant return to Champions League but far sterner tests await",
-   "dek": "Manchester United 4-0 Sabah: Michael Carrick and his side enjoyed a triumphant return to Europe’s top tier against the champions of Azerbaijan",
-   "description": "Manchester United 4-0 Sabah: Michael Carrick and his side enjoyed a triumphant return to Europe’s top tier against the champions of Azerbaijan",
+   "id": "bbc-fenerbahce-boss-stuns-club-quitting-after-roma-d",
+   "slug": "fenerbahce-boss-stuns-club-by-quitting-after-roma-draw-oma-d",
+   "title": "Fenerbahce boss stuns club by quitting after Roma draw",
+   "dek": "Ismail Kartal resigns as Fenerbahce's head coach just minutes after the Turkish side's 1-1 draw with Roma in the Champions League.",
+   "description": "Ismail Kartal resigns as Fenerbahce's head coach just minutes after the Turkish side's 1-1 draw with Roma in the Champions League.",
+   "category": "Transfers & Rumours",
+   "league": "Serie A",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-09-11T08:06:08.000Z",
+   "fetched_at": "2026-09-11T08:14:51.942Z",
+   "body": [
+    "Our briefing: Ismail Kartal resigns as Fenerbahce's head coach just minutes after the Turkish side's 1-1 draw with Roma in the Champions League.",
+    "Ismail Kartal resigns as Fenerbahce's head coach just minutes after the Turkish side's 1-1 draw with Roma in the Champions League.",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/AS_Roma_family_tree.svg/960px-AS_Roma_family_tree.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "File:AS Roma family tree.gif: Me medesimo derivative work: Fulvio314 — CC BY-SA 3.0"
+  },
+  {
+   "id": "bbc-hall-signs-new-contract-newcastle-until-2031",
+   "slug": "hall-signs-new-contract-with-newcastle-until-2031--2031",
+   "title": "Hall signs new contract with Newcastle until 2031",
+   "dek": "Newcastle United defender Lewis Hall signs a new contract with the club that runs until 2031.",
+   "description": "Newcastle United defender Lewis Hall signs a new contract with the club that runs until 2031.",
+   "category": "Transfers & Rumours",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-09-11T08:00:07.000Z",
+   "fetched_at": "2026-09-11T08:14:51.941Z",
+   "body": [
+    "Our briefing: Newcastle United defender Lewis Hall signs a new contract with the club that runs until 2031.",
+    "Newcastle United defender Lewis Hall signs a new contract with the club that runs until 2031.",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Outside_Newcastle_Central_Station_-_geograph.org.uk_-_2661040.jpg/960px-Outside_Newcastle_Central_Station_-_geograph.org.uk_-_2661040.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "David Hillas — CC BY-SA 2.0"
+  },
+  {
+   "id": "bbc-just-like-riding-bike-five-things-watch-efl",
+   "slug": "just-like-riding-a-bike-five-things-to-watch-in-the-efl-h-efl",
+   "title": "Just like riding a bike - five things to watch in the EFL",
+   "dek": "BBC Sport looks at five key talking points before the weekend's Championship, League One and League Two action.",
+   "description": "BBC Sport looks at five key talking points before the weekend's Championship, League One and League Two action.",
+   "category": "Tactics & Analysis",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-09-11T07:27:38.000Z",
+   "fetched_at": "2026-09-11T08:14:51.942Z",
+   "body": [
+    "Our briefing: BBC Sport looks at five key talking points before the weekend's Championship, League One and League Two action.",
+    "BBC Sport looks at five key talking points before the weekend's Championship, League One and League Two action.",
+    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-podcast-focus-league-cup-quarter-finals",
+   "slug": "podcast-focus-on-league-cup-quarter-finals-inals",
+   "title": "Podcast: Focus on League Cup quarter-finals",
+   "dek": "Can Stenhousemuir stun Hearts and will Rangers finally deliver against Celtic?",
+   "description": "Can Stenhousemuir stun Hearts and will Rangers finally deliver against Celtic?",
    "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-09-11T07:00:00.000Z",
+   "fetched_at": "2026-09-11T08:14:51.944Z",
+   "body": [
+    "Our briefing: Can Stenhousemuir stun Hearts and will Rangers finally deliver against Celtic?",
+    "Can Stenhousemuir stun Hearts and will Rangers finally deliver against Celtic?",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "John Shorten — CC BY 4.0"
+  },
+  {
+   "id": "independent-fenerbahce-coach-stuns-players-resigning-after-c",
+   "slug": "fenerbahce-coach-stuns-players-by-resigning-after-champions--ter-c",
+   "title": "Fenerbahce coach stuns players by resigning after Champions League draw",
+   "dek": "Ismail Kartal’s decision to quit caught many of his players by surprise, including goalscorer Archie Brown",
+   "description": "Ismail Kartal’s decision to quit caught many of his players by surprise, including goalscorer Archie Brown",
+   "category": "Transfers & Rumours",
+   "league": "Champions League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-09-11T06:58:49.000Z",
+   "fetched_at": "2026-09-11T08:14:52.216Z",
+   "body": [
+    "Our briefing: Ismail Kartal’s decision to quit caught many of his players by surprise, including goalscorer Archie Brown",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Fenerbah%C3%A7e_-_Cagliari_Calcio_20170807_%28215%29.jpg/960px-Fenerbah%C3%A7e_-_Cagliari_Calcio_20170807_%28215%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Sakhalinio — CC BY-SA 3.0"
+  },
+  {
+   "id": "bbc-triple-chelsea-attack-worth-it-fpl-gameweek-four",
+   "slug": "is-triple-chelsea-attack-worth-it-fpl-gameweek-four-dilemmas--four",
+   "title": "Is triple Chelsea attack worth it? FPL gameweek four dilemmas",
+   "dek": "BBC Sport FPL expert Holly Shand looks at some of the biggest dilemmas facing FPL managers heading into gameweek four, including whether to captain Erling Haaland or a…",
+   "description": "BBC Sport FPL expert Holly Shand looks at some of the biggest dilemmas facing FPL managers heading into gameweek four, including whether to captain Erling Haaland or a Chelsea player.",
+   "category": "News",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-09-11T06:28:38.000Z",
+   "fetched_at": "2026-09-11T08:14:51.941Z",
+   "body": [
+    "Our briefing: BBC Sport FPL expert Holly Shand looks at some of the biggest dilemmas facing FPL managers heading into gameweek four, including whether to captain Erling Haaland or a…",
+    "BBC Sport FPL expert Holly Shand looks at some of the biggest dilemmas facing FPL managers heading into gameweek four, including whether to captain Erling Haaland or a Chelsea player.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Stadium_Street%2C_Chelsea_-_geograph.org.uk_-_4585241.jpg/960px-Stadium_Street%2C_Chelsea_-_geograph.org.uk_-_4585241.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Chris Whippet — CC BY-SA 2.0"
+  },
+  {
+   "id": "bbc-rangers-souttar-set-switch-greece-gossip",
+   "slug": "rangers-souttar-set-for-switch-to-greece-gossip-ossip",
+   "title": "Rangers' Souttar set for switch to Greece - gossip",
+   "dek": "Frozen out Rangers defender set for move to Greece, with Hibs pair set for loans to Championship club.",
+   "description": "Frozen out Rangers defender set for move to Greece, with Hibs pair set for loans to Championship club.",
+   "category": "Transfers & Rumours",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-09-11T06:27:31.000Z",
+   "fetched_at": "2026-09-11T08:14:51.944Z",
+   "body": [
+    "Our briefing: Frozen out Rangers defender set for move to Greece, with Hibs pair set for loans to Championship club.",
+    "Frozen out Rangers defender set for move to Greece, with Hibs pair set for loans to Championship club.",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Queen%27s_Park_Rangers_F.C._Team_coach_in_Trinity_Square_-_geograph.org.uk_-_2406457.jpg/960px-Queen%27s_Park_Rangers_F.C._Team_coach_in_Trinity_Square_-_geograph.org.uk_-_2406457.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Oxyman — CC BY-SA 2.0"
+  },
+  {
+   "id": "independent-how-morgan-rogers-became-unicorn-forward-complet",
+   "slug": "how-morgan-rogers-became-the-unicorn-forward-to-complete-che-mplet",
+   "title": "How Morgan Rogers became the unicorn forward to complete Chelsea’s terrifying attack",
+   "dek": "Morgan Rogers has a rare blend of poise and power that makes him unique in world football, and Hull must find a way to stop his creative output at Stamford Bridge on…",
+   "description": "Morgan Rogers has a rare blend of poise and power that makes him unique in world football, and Hull must find a way to stop his creative output at Stamford Bridge on Saturday",
+   "category": "Tactics & Analysis",
    "league": "Premier League",
    "source": "independent",
    "sourceName": "The Independent",
-   "published": "2026-09-11T03:20:27.000Z",
-   "fetched_at": "2026-09-11T03:26:22.712Z",
+   "published": "2026-09-11T06:00:44.000Z",
+   "fetched_at": "2026-09-11T08:14:52.216Z",
    "body": [
-    "Our briefing: Manchester United 4-0 Sabah: Michael Carrick and his side enjoyed a triumphant return to Europe’s top tier against the champions of Azerbaijan",
+    "Our briefing: Morgan Rogers has a rare blend of poise and power that makes him unique in world football, and Hull must find a way to stop his creative output at Stamford Bridge on…",
+    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Inside_Stamford_Bridge_Stadium_-_Chelsea_v_Peterborough_-_geograph.org.uk_-_5253336.jpg/960px-Inside_Stamford_Bridge_Stadium_-_Chelsea_v_Peterborough_-_geograph.org.uk_-_5253336.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Richard Humphrey — CC BY-SA 2.0"
+  },
+  {
+   "id": "bbc-leeds-want-boss-farke-stay-long-term",
+   "slug": "leeds-want-boss-farke-to-stay-long-term--term",
+   "title": "Leeds want boss Farke to stay 'long-term'",
+   "dek": "Leeds United managing director Robbie Evans says the club and boss Daniel Farke are \"on the same page\" as they look to agree a new contract.",
+   "description": "Leeds United managing director Robbie Evans says the club and boss Daniel Farke are \"on the same page\" as they look to agree a new contract.",
+   "category": "Transfers & Rumours",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-09-11T06:00:35.000Z",
+   "fetched_at": "2026-09-11T08:14:51.941Z",
+   "body": [
+    "Our briefing: Leeds United managing director Robbie Evans says the club and boss Daniel Farke are \"on the same page\" as they look to agree a new contract.",
+    "Leeds United managing director Robbie Evans says the club and boss Daniel Farke are \"on the same page\" as they look to agree a new contract.",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Leeds_United-Galatasaray_match_in_20_April_2000.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "John Seb Barber from Leeds, UK — CC BY-SA 2.0"
+  },
+  {
+   "id": "bbc-i-want-play-mum-arsenal-s-cooney-cross",
+   "slug": "i-want-to-play-for-mum-arsenal-s-cooney-cross-cross",
+   "title": "'I want to play for mum' – Arsenal's Cooney-Cross",
+   "dek": "Arsenal's Kyra Cooney-Cross is preparing to play at Emirates Stadium for the first time since losing her mum Jess to cancer, and explains how she has been facing up to…",
+   "description": "Arsenal's Kyra Cooney-Cross is preparing to play at Emirates Stadium for the first time since losing her mum Jess to cancer, and explains how she has been facing up to her bereavement \"one day at a time\".",
+   "category": "Tactics & Analysis",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-09-11T05:52:56.000Z",
+   "fetched_at": "2026-09-11T08:14:51.941Z",
+   "body": [
+    "Our briefing: Arsenal's Kyra Cooney-Cross is preparing to play at Emirates Stadium for the first time since losing her mum Jess to cancer, and explains how she has been facing up to…",
+    "Arsenal's Kyra Cooney-Cross is preparing to play at Emirates Stadium for the first time since losing her mum Jess to cancer, and explains how she has been facing up to her bereavement \"one day at a time\".",
+    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Arsenal_Stadium_Highbury_east_facade.jpg/960px-Arsenal_Stadium_Highbury_east_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "No machine-readable author provided. Qwghlm~commonswiki assumed (based on copyright claims). — CC BY-SA 3.0"
+  },
+  {
+   "id": "bbc-flex-your-football-brain-our-daily-quizzes",
+   "slug": "flex-your-football-brain-with-our-daily-quizzes-izzes",
+   "title": "Flex your football brain with our daily quizzes",
+   "dek": "Test your ball knowledge against Who Am I?, Five in Five and Brainteaser.",
+   "description": "Test your ball knowledge against Who Am I?, Five in Five and Brainteaser.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-09-11T05:52:39.000Z",
+   "fetched_at": "2026-09-11T08:14:51.942Z",
+   "body": [
+    "Our briefing: Test your ball knowledge against Who Am I?, Five in Five and Brainteaser.",
+    "Test your ball knowledge against Who Am I? , Five in Five and Brainteaser.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+  },
+  {
+   "id": "bbc-saint-maximin-speaking-out-after-his-children-we",
+   "slug": "saint-maximin-on-speaking-out-after-his-children-were-racial-en-we",
+   "title": "Saint-Maximin on speaking out after his children were racially abused",
+   "dek": "Former Newcastle winger Allan Saint-Maximin says he felt it was important to speak out after his children were racially abused earlier this year in Mexico.",
+   "description": "Former Newcastle winger Allan Saint-Maximin says he felt it was important to speak out after his children were racially abused earlier this year in Mexico.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-09-11T05:23:22.000Z",
+   "fetched_at": "2026-09-11T08:14:51.942Z",
+   "body": [
+    "Our briefing: Former Newcastle winger Allan Saint-Maximin says he felt it was important to speak out after his children were racially abused earlier this year in Mexico.",
+    "Former Newcastle winger Allan Saint-Maximin says he felt it was important to speak out after his children were racially abused earlier this year in Mexico.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+  },
+  {
+   "id": "independent-champions-league-power-rankings-who-leads-our-st",
+   "slug": "champions-league-power-rankings-who-leads-our-standings-afte-ur-st",
+   "title": "Champions League power rankings: Who leads our standings after opening week?",
+   "dek": "Unsurprisingly, holders Paris Saint-Germain take top spot after the first week, but who are their closest challengers?",
+   "description": "Unsurprisingly, holders Paris Saint-Germain take top spot after the first week, but who are their closest challengers?",
+   "category": "News",
+   "league": "Champions League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-09-11T05:00:00.000Z",
+   "fetched_at": "2026-09-11T08:14:52.216Z",
+   "body": [
+    "Our briefing: Unsurprisingly, holders Paris Saint-Germain take top spot after the first week, but who are their closest challengers?",
+    "Unsurprisingly, holders Paris Saint-Germain take top spot after the first week, but who are their closest challengers?",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Manchester_United_Old_Trafford.jpg/960px-Manchester_United_Old_Trafford.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "guardian-premier-league-10-things-look-out-this-weekend",
    "slug": "premier-league-10-things-to-look-out-for-this-weekend-ekend",
    "title": "Premier League: 10 things to look out for this weekend",
    "dek": "Nicolas Jackson is ready to impress, Spurs are scrambled and the 199th Manchester derby takes place at Old Trafford Premier League top scorers 2026-27: who is leading…",
-   "description": "Nicolas Jackson is ready to impress, Spurs are scrambled and the 199th Manchester derby takes place at Old Trafford Premier League top scorers 2026-27: who is leading race for the golden boot? With 10 top-flight goal contributions between them across three games already this season, the Chelsea trio of Morgan Rogers, João Pedro and Cole Palmer are the early pace-setters for the Premier League’s most prolific, fluid and high octane attacking unit. But on the occasion of his 100th Premier League appearance, a scruffier and more ungainly unit will be hoping to steal their thunder, as high-flying Hull try to register a top-flight win against Chelsea for the very first time. Yet to score this season but with a couple of near-misses to his name, what Oli McBurnie has thus far lacked in goal contributions he has more than made up for with selfless graft and off-the-ball grunt work, making a total mockery of Steve Clarke’s decision not to include him in Scotland’s World Cup squad. The Hull striker ought to prove a real handful for a decidedly porous home defence, and a goal would be a fitting way to mark a century of Premier League appearances. Chelsea have not won any of their past four league matches against promoted opposition and given Hull’s blistering start to the season, victory on Saturday seems anything but a foregone conclusion. Barry Glendenning Chelsea v Hull, Saturday 3pm (all times BST) Liverpool v Fulham, Saturday 3pm Crystal Palace v Ipswich, Saturday 3pm Continue reading...",
+   "description": "Nicolas Jackson is ready to impress, Spurs are scrambled and the 199th Manchester derby takes place at Old Trafford Premier League top scorers 2026-27: who is leading race for the golden boot? With 10 top-flight goal contributions between them across three games already this season, the Chelsea trio of Morgan Rogers, João Pedro and Cole Palmer are the early pace-setters for the Premier League’s most prolific, fluid and high-octane attacking unit. But on the occasion of his 100th Premier League appearance, a scruffier and more ungainly unit will be hoping to steal their thunder, as high-flying Hull try to register a top-flight win against Chelsea for the very first time. Yet to score this season but with a couple of near misses to his name, what Oli McBurnie has thus far lacked in goal contributions he has more than made up for with selfless graft and off-the-ball grunt work, making a total mockery of Steve Clarke’s decision not to include him in Scotland’s World Cup squad. The Hull striker ought to prove a real handful for a decidedly porous home defence, and a goal would be a fitting way to mark a century of Premier League appearances. Chelsea have not won any of their past four league matches against promoted opposition and, given Hull’s blistering start to the season, victory on Saturday seems anything but a foregone conclusion. Barry Glendenning Chelsea v Hull, Saturday 3pm (all times BST) Liverpool v Fulham, Saturday 3pm Crystal Palace v Ipswich, Saturday 3pm Continue reading...",
    "category": "Match Reports",
    "league": "Premier League",
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-10T23:01:48.000Z",
-   "fetched_at": "2026-09-11T03:26:22.512Z",
+   "fetched_at": "2026-09-11T08:14:52.125Z",
    "body": [
     "Our briefing: Nicolas Jackson is ready to impress, Spurs are scrambled and the 199th Manchester derby takes place at Old Trafford Premier League top scorers 2026-27: who is leading…",
-    "Nicolas Jackson is ready to impress, Spurs are scrambled and the 199th Manchester derby takes place at Old Trafford Premier League top scorers 2026-27: who is leading race for the golden boot? With 10 top-flight goal contributions between them across three games already this season, the Chelsea trio of Morgan Rogers, João Pedro and Cole Palmer are the early pace-setters for the Premier League’s most prolific, fluid and high octane attacking unit. But on the occasion of his 100th Premier League appearance, a scruffier and more ungainly unit will be hoping to steal their thunder, as high-flying Hull try to register a top-flight win against Chelsea for the very first time.",
-    "Yet to score this season but with a couple of near-misses to his name, what Oli McBurnie has thus far lacked in goal contributions he has more than made up for with selfless graft and off-the-ball grunt work, making a total mockery of Steve Clarke’s decision not to include him in Scotland’s World Cup squad. The Hull striker ought to prove a real handful for a decidedly porous home defence, and a goal would be a fitting way to mark a century of Premier League appearances. Chelsea have not won any of their past four league matches against promoted opposition and given Hull’s blistering start to the season, victory on Saturday seems anything but a foregone conclusion.",
+    "Nicolas Jackson is ready to impress, Spurs are scrambled and the 199th Manchester derby takes place at Old Trafford Premier League top scorers 2026-27: who is leading race for the golden boot? With 10 top-flight goal contributions between them across three games already this season, the Chelsea trio of Morgan Rogers, João Pedro and Cole Palmer are the early pace-setters for the Premier League’s most prolific, fluid and high-octane attacking unit. But on the occasion of his 100th Premier League appearance, a scruffier and more ungainly unit will be hoping to steal their thunder, as high-flying Hull try to register a top-flight win against Chelsea for the very first time.",
+    "Yet to score this season but with a couple of near misses to his name, what Oli McBurnie has thus far lacked in goal contributions he has more than made up for with selfless graft and off-the-ball grunt work, making a total mockery of Steve Clarke’s decision not to include him in Scotland’s World Cup squad. The Hull striker ought to prove a real handful for a decidedly porous home defence, and a goal would be a fitting way to mark a century of Premier League appearances. Chelsea have not won any of their past four league matches against promoted opposition and, given Hull’s blistering start to the season, victory on Saturday seems anything but a foregone conclusion.",
     "Barry Glendenning Chelsea v Hull, Saturday 3pm (all times BST) Liverpool v Fulham, Saturday 3pm Crystal Palace v Ipswich, Saturday 3pm Continue reading...",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
@@ -72,7 +323,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-10T22:56:27.000Z",
-   "fetched_at": "2026-09-11T03:26:22.513Z",
+   "fetched_at": "2026-09-11T08:14:52.125Z",
    "body": [
     "Our briefing: Forward’s spurned opportunity to level the match proved decisive in the Champions League newcomers’ loss to Manchester United Football – like much of life – can be a…",
     "Forward’s spurned opportunity to level the match proved decisive in the Champions League newcomers’ loss to Manchester United Football – like much of life – can be a story of what might have been, and on 39 minutes Joy-Lance Mickels had an experience that was a sliding doors moment for the centre-forward and Sabah that may haunt a long time. Azerbaijan’s champions were trailing to Matheus Cunha’s opener when Kaheem Parris spiralled the ball up to the far post of Manchester United’s goal. The lurking Mickels had a gilded chance, unmarked and close-in, yet when the delivery dropped, the 32-year-old snatched at his header and the ball fell wide.",
@@ -80,8 +331,8 @@
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "John Shorten — CC BY 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "bbc-two-goals-two-games-sesko-gives-man-utd-differen",
@@ -94,7 +345,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-10T22:41:17.000Z",
-   "fetched_at": "2026-09-11T03:26:22.378Z",
+   "fetched_at": "2026-09-11T08:14:51.941Z",
    "body": [
     "Our briefing: Benjamin Sesko's return to Manchester United's starting line-up is well timed ahead of Sunday's Premier League encounter with Manchester City",
     "Team news can change right up to kick-off. Bookmark this story for the final line-ups and confirmed sides.",
@@ -114,14 +365,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-10T22:25:00.000Z",
-   "fetched_at": "2026-09-11T03:26:22.379Z",
+   "fetched_at": "2026-09-11T08:14:51.942Z",
    "body": [
     "Our briefing: The Ballon D'or shortlist, the dominance of Spanish coaches and a shock resignation",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "bbc-dorgu-answer-left-back-man-utd",
@@ -134,14 +385,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-10T22:24:15.000Z",
-   "fetched_at": "2026-09-11T03:26:22.379Z",
+   "fetched_at": "2026-09-11T08:14:51.942Z",
    "body": [
     "Our briefing: Champions League analyst Stephen Warnock and European football journalist Julien Laurens look at the performance of Patrick Dorgu during Manchester United's 4-0 win over…",
     "Champions League analyst Stephen Warnock and European football journalist Julien Laurens look at the performance of Patrick Dorgu during Manchester United's 4-0 win over Sabah at Old Trafford.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Manchester_United_Old_Trafford_%28cropped%29.jpg/960px-Manchester_United_Old_Trafford_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Manchester_United_Old_Trafford.jpg/960px-Manchester_United_Old_Trafford.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
   },
   {
@@ -155,7 +406,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-10T22:20:11.000Z",
-   "fetched_at": "2026-09-11T03:26:22.512Z",
+   "fetched_at": "2026-09-11T08:14:52.125Z",
    "body": [
     "Our briefing: Ismail Kartal tells reporters he will leave ‘never to return’ Club president: ‘I am his senior, I told him to continue’ The Fenerbahce head coach, Ismail Kartal,…",
     "Ismail Kartal tells reporters he will leave ‘never to return’ Club president: ‘I am his senior, I told him to continue’ The Fenerbahce head coach, Ismail Kartal, announced his resignation on Thursday after ⁠his team drew 1-1 at home to Roma in the Champions League – but minutes ⁠later, the club ⁠president ​said Kartal would stay in the job. Kartal shocked the post-match press conference by claiming he was ⁠leaving Fenerbahce “never to return”. The 65-year-old added that he was taking the drastic decision “to clear the way for the club” – but the Fenerbahce president, Aziz Yildrim, quickly moved to play down his manager’s remarks.",
@@ -163,8 +414,8 @@
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/AS_Roma_family_tree.svg/960px-AS_Roma_family_tree.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "File:AS Roma family tree.gif: Me medesimo derivative work: Fulvio314 — CC BY-SA 3.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Silverstone_2010_-_AS_Roma_team_truck.jpg/960px-Silverstone_2010_-_AS_Roma_team_truck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Officially Mr X at English Wikipedia — CC BY 3.0"
   },
   {
    "id": "bbc-late-drama-lens-fight-back-beat-10-man-slavia-pr",
@@ -177,7 +428,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-10T22:07:09.000Z",
-   "fetched_at": "2026-09-11T03:26:22.379Z",
+   "fetched_at": "2026-09-11T08:14:51.942Z",
    "body": [
     "Our briefing: Lens score two goals in stoppage time as they come from behind twice to beat 10-man Slavia Prague at the Fortuna Arena.",
     "Lens score two goals in stoppage time as they come from behind twice to beat 10-man Slavia Prague at the Fortuna Arena.",
@@ -198,7 +449,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-10T21:57:25.000Z",
-   "fetched_at": "2026-09-11T03:26:22.512Z",
+   "fetched_at": "2026-09-11T08:14:52.125Z",
    "body": [
     "Our briefing: Bayern Munich 5-0 Bodø/Glimt, Como 4-1 Leipzig Lens win 3-2 at Slavia Prague with last-gasp double Bayern Munich opened their Champions League campaign with a 5-0…",
     "Bayern Munich 5-0 Bodø/Glimt, Como 4-1 Leipzig Lens win 3-2 at Slavia Prague with last-gasp double Bayern Munich opened their Champions League campaign with a 5-0 thrashing of Norway’s Bodo/Glimt . The six-times winners were frustrated before half-time by Bodo/Glimt but cruised once Jamal Musiala smashed in the opener two minutes into the second period and the floodgates opened. Continue reading...",
@@ -219,7 +470,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-10T21:50:13.000Z",
-   "fetched_at": "2026-09-11T03:26:22.378Z",
+   "fetched_at": "2026-09-11T08:14:51.941Z",
    "body": [
     "Our briefing: England captain Harry Kane scores his 55th Champions League goal and Michael Olise strikes twice as Bayern Munich begin their campaign by comfortably beating Bodo/Glimt.",
     "England captain Harry Kane scores his 55th Champions League goal and Michael Olise strikes twice as Bayern Munich begin their campaign by comfortably beating Bodo/Glimt.",
@@ -240,7 +491,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-10T21:45:10.000Z",
-   "fetched_at": "2026-09-11T03:26:22.379Z",
+   "fetched_at": "2026-09-11T08:14:51.942Z",
    "body": [
     "Our briefing: Como made an impressive Champions League debut by defeating visitors RB Leipzig 4-1 in their opening league-phase outing at Stadio Giuseppe Sinigaglia.",
     "Como made an impressive Champions League debut by defeating visitors RB Leipzig 4-1 in their opening league-phase outing at Stadio Giuseppe Sinigaglia.",
@@ -249,27 +500,6 @@
    ],
    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/2022-07-21_Fu%C3%9Fball%2C_M%C3%A4nner%2CFreundschaftsspiel%2C_RB_Leipzig_-_FC_Liverpool_1DX_2029_by_Stepro.jpg/960px-2022-07-21_Fu%C3%9Fball%2C_M%C3%A4nner%2CFreundschaftsspiel%2C_RB_Leipzig_-_FC_Liverpool_1DX_2029_by_Stepro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Steffen Prößdorf — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-fenerbahce-boss-stuns-club-quitting-after-roma-d",
-   "slug": "fenerbahce-boss-stuns-club-by-quitting-after-roma-draw-oma-d",
-   "title": "Fenerbahce boss stuns club by quitting after Roma draw",
-   "dek": "Ismail Kartal resigns as Fenerbahce's head coach just minutes after the Turkish side's 1-1 draw with Roma in the Champions League.",
-   "description": "Ismail Kartal resigns as Fenerbahce's head coach just minutes after the Turkish side's 1-1 draw with Roma in the Champions League.",
-   "category": "Transfers & Rumours",
-   "league": "Serie A",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-09-10T21:42:26.000Z",
-   "fetched_at": "2026-09-11T03:26:22.378Z",
-   "body": [
-    "Our briefing: Ismail Kartal resigns as Fenerbahce's head coach just minutes after the Turkish side's 1-1 draw with Roma in the Champions League.",
-    "Ismail Kartal resigns as Fenerbahce's head coach just minutes after the Turkish side's 1-1 draw with Roma in the Champions League.",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Silverstone_2010_-_AS_Roma_team_truck.jpg/960px-Silverstone_2010_-_AS_Roma_team_truck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Officially Mr X at English Wikipedia — CC BY 3.0"
   },
   {
    "id": "bbc-fenerbahce-boss-shock-resignation-after-roma-dra",
@@ -303,7 +533,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-10T21:36:32.000Z",
-   "fetched_at": "2026-09-11T03:26:22.712Z",
+   "fetched_at": "2026-09-11T08:14:52.216Z",
    "body": [
     "Our briefing: There were wins for Como and Bayern Munich on their first night of Champions League action while Fenerbahce were held to a draw",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -343,7 +573,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-10T21:05:24.000Z",
-   "fetched_at": "2026-09-11T03:26:22.512Z",
+   "fetched_at": "2026-09-11T08:14:52.125Z",
    "body": [
     "Our briefing: It was a night for romance given the astonishing story that Sabah brought with them to Old Trafford for their Champions League debut. This is a club that did not even…",
     "It was a night for romance given the astonishing story that Sabah brought with them to Old Trafford for their Champions League debut. This is a club that did not even exist a decade ago and nobody saw their bolt to the title in Azerbaijan coming last season; in 2024-25, they had finished 41 points off the top. The job that their manager, Valdas Dambrauskas, has done since taking over in the summer of last year is extraordinary.",
@@ -366,7 +596,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-10T21:05:17.000Z",
-   "fetched_at": "2026-09-11T03:26:22.379Z",
+   "fetched_at": "2026-09-11T08:14:51.942Z",
    "body": [
     "Our briefing: Englishman Archie Brown scores as Fenerbahce begin their return to Champions League football by holding Roma to a draw.",
     "Englishman Archie Brown scores as Fenerbahce begin their return to Champions League football by holding Roma to a draw.",
@@ -375,6 +605,26 @@
    ],
    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/The_Stadio_Olimpico_di_Roma_before_the_match_AS_Roma_vs_HJK_Helsinki_%282022%29.jpg/960px-The_Stadio_Olimpico_di_Roma_before_the_match_AS_Roma_vs_HJK_Helsinki_%282022%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Vincenzo.togni — CC BY-SA 4.0"
+  },
+  {
+   "id": "independent-manchester-united-enjoy-triumphant-return-champi",
+   "slug": "manchester-united-enjoy-triumphant-return-to-champions-leagu-hampi",
+   "title": "Manchester United enjoy triumphant return to Champions League but far sterner tests await",
+   "dek": "Manchester United 4-0 Sabah: Michael Carrick and his side enjoyed a triumphant return to Europe’s top tier against the champions of Azerbaijan",
+   "description": "Manchester United 4-0 Sabah: Michael Carrick and his side enjoyed a triumphant return to Europe’s top tier against the champions of Azerbaijan",
+   "category": "News",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-09-10T21:04:33.000Z",
+   "fetched_at": "2026-09-11T08:14:52.216Z",
+   "body": [
+    "Our briefing: Manchester United 4-0 Sabah: Michael Carrick and his side enjoyed a triumphant return to Europe’s top tier against the champions of Azerbaijan",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Manchester_United_Old_Trafford_%28cropped%29.jpg/960px-Manchester_United_Old_Trafford_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
   },
   {
    "id": "bbc-man-utd-put-four-past-sabah-champions-league-ret",
@@ -387,7 +637,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-10T21:01:24.000Z",
-   "fetched_at": "2026-09-11T03:26:22.378Z",
+   "fetched_at": "2026-09-11T08:14:51.941Z",
    "body": [
     "Our briefing: Manchester United recorded their biggest Champions League victory since 2020 as they swept Sabah FK aside at Old Trafford.",
     "Manchester United recorded their biggest Champions League victory since 2020 as they swept Sabah FK aside at Old Trafford.",
@@ -429,7 +679,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-10T21:00:29.000Z",
-   "fetched_at": "2026-09-11T03:26:22.379Z",
+   "fetched_at": "2026-09-11T08:14:51.942Z",
    "body": [
     "Our briefing: PSV Eindhoven and Shakhtar Donetsk played out a 1-1 draw to open their Champions League campaign at Philips Stadion.",
     "PSV Eindhoven and Shakhtar Donetsk played out a 1-1 draw to open their Champions League campaign at Philips Stadion.",
@@ -450,7 +700,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-10T20:59:52.000Z",
-   "fetched_at": "2026-09-11T03:26:22.379Z",
+   "fetched_at": "2026-09-11T08:14:51.942Z",
    "body": [
     "Our briefing: Manchester United captain Bruno Fernandes rounds off a brilliant team move to double his side's lead over Sabah at Old Trafford.",
     "Manchester United captain Bruno Fernandes rounds off a brilliant team move to double his side's lead over Sabah at Old Trafford.",
@@ -471,15 +721,15 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-10T20:49:39.000Z",
-   "fetched_at": "2026-09-11T03:26:22.512Z",
+   "fetched_at": "2026-09-11T08:14:52.125Z",
    "body": [
     "Our briefing: Deal would value club at around £5bn Walter is seeking to raise funds to pay off insurers Chelsea’s majority owners, Clearlake Capital, are closing in on an agreement to…",
     "Deal would value club at around £5bn Walter is seeking to raise funds to pay off insurers Chelsea’s majority owners, Clearlake Capital, are closing in on an agreement to buy out co-owners Todd Boehly and Mark Walter in a deal that would see the pair make a profit on their investment and value the club at around £5bn. On-off discussions between the two ownership groups over a potential sale have been taking place for the last two years, but intensified last month as a result of Mark Walter seeking to raise funds to pay off insurers following a US federal investigation over alleged tax fraud. Continue reading...",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Stadium_Street%2C_Chelsea_-_geograph.org.uk_-_4585241.jpg/960px-Stadium_Street%2C_Chelsea_-_geograph.org.uk_-_4585241.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Chris Whippet — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Chelsea_Stadium_-_panoramio.jpg/960px-Chelsea_Stadium_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Carlos Cunha — CC BY-SA 3.0"
   },
   {
    "id": "bbc-chelsea-real-madrid-keen-arsenal-s-zubimendi-fri",
@@ -492,15 +742,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-10T20:13:27.000Z",
-   "fetched_at": "2026-09-11T03:26:22.379Z",
+   "fetched_at": "2026-09-11T08:14:51.942Z",
    "body": [
     "Our briefing: Martin Zubimendi may seek to leave Arsenal in January, Mauro Icardi open to Everton move while Toffees play down move for Anthony Martial.",
     "Martin Zubimendi may seek to leave Arsenal in January, Mauro Icardi open to Everton move while Toffees play down move for Anthony Martial.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Arsenal_Stadium_Highbury_east_facade.jpg/960px-Arsenal_Stadium_Highbury_east_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "No machine-readable author provided. Qwghlm~commonswiki assumed (based on copyright claims). — CC BY-SA 3.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Arsenal_Stadium_in_Tula.jpg/960px-Arsenal_Stadium_in_Tula.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "UMNICK — CC BY-SA 3.0"
   },
   {
    "id": "guardian-manchester-united-v-sabah-champions-league-live",
@@ -535,7 +785,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-10T18:48:12.000Z",
-   "fetched_at": "2026-09-11T03:26:22.378Z",
+   "fetched_at": "2026-09-11T08:14:51.942Z",
    "body": [
     "Our briefing: Tottenham and their forward Richarlison are in dispute over the remaining nine months on his contract.",
     "Tottenham and their forward Richarlison are in dispute over the remaining nine months on his contract.",
@@ -556,15 +806,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-10T18:47:34.000Z",
-   "fetched_at": "2026-09-11T03:26:22.378Z",
+   "fetched_at": "2026-09-11T08:14:51.941Z",
    "body": [
     "Our briefing: BBC Sport football expert Chris Sutton takes on Dorking Wanderers manager Marc White, plus the BBC readers and AI with his predictions for this weekend's Premier League…",
     "BBC Sport football expert Chris Sutton takes on Dorking Wanderers manager Marc White, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "independent-man-united-v-sabah-live-michael-carrick-s-side-m",
@@ -597,7 +847,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-10T17:03:47.000Z",
-   "fetched_at": "2026-09-11T03:26:22.512Z",
+   "fetched_at": "2026-09-11T08:14:52.125Z",
    "body": [
     "Our briefing: ‘Image and unity’ of game affected, FFF president says It will consult sacked former Fifa official Kevin Lamour The French Football Federation’s president, Philippe…",
     "‘Image and unity’ of game affected, FFF president says It will consult sacked former Fifa official Kevin Lamour The French Football Federation’s president, Philippe Diallo, said Gianni Infantino had “seriously damaged the image and the unity of football” as he announced the end of France’s support for the Fifa president’s re-election. The FFF’s executive committee unanimously voted on Thursday to withdraw its backing, which had been formalised at the end of June. Diallo referred to “events during the World Cup” which had “flagrantly gone against the way we believe our sport should be run” and to Infantino’s World Cup sell-off plan, which was revealed in July and scrapped after a widespread backlash.",
@@ -607,258 +857,6 @@
    ],
    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Kiran891 — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-washington-spirit-sign-luvanga-but-it-record-dea",
-   "slug": "washington-spirit-sign-luvanga-but-is-it-a-record-deal-d-dea",
-   "title": "Washington Spirit sign Luvanga - but is it a record deal?",
-   "dek": "Tanzanian striker Clara Luvanga has joined Washington Spirit from Al-Nassr in a deal believed to be one of the most costly in the history of women's football - and…",
-   "description": "Tanzanian striker Clara Luvanga has joined Washington Spirit from Al-Nassr in a deal believed to be one of the most costly in the history of women's football - and possibly one that sets a world record.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-09-10T16:10:00.000Z",
-   "fetched_at": "2026-09-11T03:26:22.379Z",
-   "body": [
-    "Our briefing: Tanzanian striker Clara Luvanga has joined Washington Spirit from Al-Nassr in a deal believed to be one of the most costly in the history of women's football - and…",
-    "Tanzanian striker Clara Luvanga has joined Washington Spirit from Al-Nassr in a deal believed to be one of the most costly in the history of women's football - and possibly one that sets a world record.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-doncaster-boss-mccann-reveals-skin-cancer-treatm",
-   "slug": "doncaster-boss-mccann-reveals-skin-cancer-treatment-reatm",
-   "title": "Doncaster boss McCann reveals skin cancer treatment",
-   "dek": "Doncaster Rovers boss Grant McCann reveals he was diagnosed with skin cancer last year but is \"ok now\".",
-   "description": "Doncaster Rovers boss Grant McCann reveals he was diagnosed with skin cancer last year but is \"ok now\".",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-09-10T16:08:22.000Z",
-   "fetched_at": "2026-09-11T03:26:22.380Z",
-   "body": [
-    "Our briefing: Doncaster Rovers boss Grant McCann reveals he was diagnosed with skin cancer last year but is \"ok now\".",
-    "Doncaster Rovers boss Grant McCann reveals he was diagnosed with skin cancer last year but is \"ok now\".",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-jaissle-questions-booking-compared-rival-manager",
-   "slug": "jaissle-questions-booking-compared-to-rival-managers-nager",
-   "title": "Jaissle questions booking compared to rival managers",
-   "dek": "Newcastle United head coach Matthias Jaissle has questioned why he was booked for his touchline behaviour after he felt some other animated managers were not.",
-   "description": "Newcastle United head coach Matthias Jaissle has questioned why he was booked for his touchline behaviour after he felt some other animated managers were not.",
-   "category": "Tactics & Analysis",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-09-10T15:38:44.000Z",
-   "fetched_at": "2026-09-11T03:26:22.380Z",
-   "body": [
-    "Our briefing: Newcastle United head coach Matthias Jaissle has questioned why he was booked for his touchline behaviour after he felt some other animated managers were not.",
-    "Newcastle United head coach Matthias Jaissle has questioned why he was booked for his touchline behaviour after he felt some other animated managers were not.",
-    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-why-have-premier-league-announced-christmas-fixt",
-   "slug": "why-have-the-premier-league-announced-christmas-fixtures-ear--fixt",
-   "title": "Why have the Premier League announced Christmas fixtures early?",
-   "dek": "BBC Sport's Ask Me Anything team explain why this season's Christmas fixtures have been announced more than a month earlier than scheduled",
-   "description": "BBC Sport's Ask Me Anything team explain why this season's Christmas fixtures have been announced more than a month earlier than scheduled",
-   "category": "Tactics & Analysis",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-09-10T15:30:57.000Z",
-   "fetched_at": "2026-09-11T03:26:22.380Z",
-   "body": [
-    "Our briefing: BBC Sport's Ask Me Anything team explain why this season's Christmas fixtures have been announced more than a month earlier than scheduled",
-    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-gordon-better-fit-barca-than-rashford-deco",
-   "slug": "gordon-a-better-fit-for-barca-than-rashford-deco--deco",
-   "title": "Gordon a better fit for Barca than Rashford - Deco",
-   "dek": "Barcelona sporting director Deco says Anthony Gordon's style was a better fit for Hansi Flick's side than Marcus Rashford's as the club strengthened their squad in the…",
-   "description": "Barcelona sporting director Deco says Anthony Gordon's style was a better fit for Hansi Flick's side than Marcus Rashford's as the club strengthened their squad in the summer.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-09-10T15:30:53.000Z",
-   "fetched_at": "2026-09-11T03:26:22.378Z",
-   "body": [
-    "Our briefing: Barcelona sporting director Deco says Anthony Gordon's style was a better fit for Hansi Flick's side than Marcus Rashford's as the club strengthened their squad in the…",
-    "Barcelona sporting director Deco says Anthony Gordon's style was a better fit for Hansi Flick's side than Marcus Rashford's as the club strengthened their squad in the summer.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
-  },
-  {
-   "id": "independent-hull-boss-sergej-jakirovic-jokes-about-simple-pl",
-   "slug": "hull-boss-sergej-jakirovic-jokes-about-simple-plan-to-stop-f-le-pl",
-   "title": "Hull boss Sergej Jakirovic jokes about simple plan to stop free-scoring Chelsea",
-   "dek": "Hull are yet to concede a goal since returning to the Premier League",
-   "description": "Hull are yet to concede a goal since returning to the Premier League",
-   "category": "News",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-09-10T15:22:44.000Z",
-   "fetched_at": "2026-09-11T03:26:22.712Z",
-   "body": [
-    "Our briefing: Hull are yet to concede a goal since returning to the Premier League",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Inside_Stamford_Bridge_Stadium_-_Chelsea_v_Peterborough_-_geograph.org.uk_-_5253336.jpg/960px-Inside_Stamford_Bridge_Stadium_-_Chelsea_v_Peterborough_-_geograph.org.uk_-_5253336.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Richard Humphrey — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-get-life-non-league-club-condemn-man-impersonati",
-   "slug": "get-a-life-non-league-club-condemn-man-impersonating-manager-onati",
-   "title": "'Get a life' - non-league club condemn man impersonating manager",
-   "dek": "Gainsborough Trinity condemn a person who has been approaching players while falsely claiming to be their manager.",
-   "description": "Gainsborough Trinity condemn a person who has been approaching players while falsely claiming to be their manager.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-09-10T15:22:16.000Z",
-   "fetched_at": "2026-09-11T03:26:22.379Z",
-   "body": [
-    "Our briefing: Gainsborough Trinity condemn a person who has been approaching players while falsely claiming to be their manager.",
-    "Gainsborough Trinity condemn a person who has been approaching players while falsely claiming to be their manager.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "bbc-hearts-have-be-above-emotions-big-favourites",
-   "slug": "hearts-have-to-be-above-emotions-as-big-favourites-rites",
-   "title": "Hearts 'have to be above emotions' as big favourites",
-   "dek": "Hearts head coach Wouter Vrancken insists there can be no excuses as his side prepare to face Stenhousemuir at Ochilview on Friday with a place in the Premier Sports Cup…",
-   "description": "Hearts head coach Wouter Vrancken insists there can be no excuses as his side prepare to face Stenhousemuir at Ochilview on Friday with a place in the Premier Sports Cup semi-finals at stake.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-09-10T15:05:59.000Z",
-   "fetched_at": "2026-09-11T03:26:22.380Z",
-   "body": [
-    "Our briefing: Hearts head coach Wouter Vrancken insists there can be no excuses as his side prepare to face Stenhousemuir at Ochilview on Friday with a place in the Premier Sports Cup…",
-    "Hearts head coach Wouter Vrancken insists there can be no excuses as his side prepare to face Stenhousemuir at Ochilview on Friday with a place in the Premier Sports Cup semi-finals at stake.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Kashima_Soccer_Stadium_6.jpg/960px-Kashima_Soccer_Stadium_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-hearts-have-be-above-emotions-big-favourites-cup",
-   "slug": "hearts-have-to-be-above-emotions-as-big-favourites-in-cup-s-cup",
-   "title": "Hearts 'have to be above emotions' as big favourites in cup",
-   "dek": "Hearts head coach Wouter Vrancken insists there can be no excuses as his side prepare to face Stenhousemuir at Ochilview on Friday with a place in the Premier Sports Cup…",
-   "description": "Hearts head coach Wouter Vrancken insists there can be no excuses as his side prepare to face Stenhousemuir at Ochilview on Friday with a place in the Premier Sports Cup semi-finals at stake.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-09-10T15:05:59.000Z",
-   "fetched_at": "2026-09-11T03:26:22.381Z",
-   "body": [
-    "Our briefing: Hearts head coach Wouter Vrancken insists there can be no excuses as his side prepare to face Stenhousemuir at Ochilview on Friday with a place in the Premier Sports Cup…",
-    "Hearts head coach Wouter Vrancken insists there can be no excuses as his side prepare to face Stenhousemuir at Ochilview on Friday with a place in the Premier Sports Cup semi-finals at stake.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "guardian-why-david-beckham-will-have-my-vote-us-soccer-ha",
-   "slug": "why-david-beckham-will-have-my-vote-for-the-us-soccer-hall-o-er-ha",
-   "title": "Why David Beckham will have my vote for the US Soccer Hall of Fame | Pablo Iglesias Maurer",
-   "dek": "The Englishman has gotten no shortage of recognition, but his contributions to the American game deserve an official title Sign up for our free newsletter here Next…",
-   "description": "The Englishman has gotten no shortage of recognition, but his contributions to the American game deserve an official title Sign up for our free newsletter here Next spring, when the US Soccer Hall of Fame welcomes its newest class, there will be pomp and circumstance. The hall, which sits in a corner of Toyota Stadium, home of Major League Soccer’s FC Dallas, will feature the enshrineds’ signature red jackets. There will be glad-handing and speeches from players and coaches, misty-eyed reflections on their upbringings and their careers. Many involved will be American-born soccer legends, of course. Yet every once in a while, a player whose footprint extends well beyond the borders of the United States graces the stage. Such may be the case next year when the hall potentially welcomes English legend David Beckham into the fold. Continue reading...",
-   "category": "Transfers & Rumours",
-   "league": "Football",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-09-10T14:54:07.000Z",
-   "fetched_at": "2026-09-11T03:26:22.513Z",
-   "body": [
-    "Our briefing: The Englishman has gotten no shortage of recognition, but his contributions to the American game deserve an official title Sign up for our free newsletter here Next…",
-    "The Englishman has gotten no shortage of recognition, but his contributions to the American game deserve an official title Sign up for our free newsletter here Next spring, when the US Soccer Hall of Fame welcomes its newest class, there will be pomp and circumstance. The hall, which sits in a corner of Toyota Stadium, home of Major League Soccer’s FC Dallas, will feature the enshrineds’ signature red jackets. There will be glad-handing and speeches from players and coaches, misty-eyed reflections on their upbringings and their careers.",
-    "Many involved will be American-born soccer legends, of course. Yet every once in a while, a player whose footprint extends well beyond the borders of the United States graces the stage. Such may be the case next year when the hall potentially welcomes English legend David Beckham into the fold.",
-    "Continue reading...",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
-  },
-  {
-   "id": "bbc-real-bond-can-drive-rangers-success-says-mcinnes",
-   "slug": "real-bond-can-drive-rangers-to-success-says-mcinnes-innes",
-   "title": "'Real bond' can drive Rangers to success, says McInnes",
-   "dek": "Derek McInnes is encouraged by the growing spirit at Rangers before a double-header with Celtic in the League Cup and Scottish Premiership.",
-   "description": "Derek McInnes is encouraged by the growing spirit at Rangers before a double-header with Celtic in the League Cup and Scottish Premiership.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-09-10T14:50:50.000Z",
-   "fetched_at": "2026-09-11T03:26:22.380Z",
-   "body": [
-    "Our briefing: Derek McInnes is encouraged by the growing spirit at Rangers before a double-header with Celtic in the League Cup and Scottish Premiership.",
-    "Derek McInnes is encouraged by the growing spirit at Rangers before a double-header with Celtic in the League Cup and Scottish Premiership.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Ibrox_Stadium%2C_Rangers_FC.jpg/960px-Ibrox_Stadium%2C_Rangers_FC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Lesterhobbes764 — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-leeds-okafor-says-he-won-t-play-swiss-again-unde",
-   "slug": "leeds-okafor-says-he-won-t-play-for-swiss-again-under-yakin--unde",
-   "title": "Leeds' Okafor says he won't play for Swiss again under Yakin",
-   "dek": "Leeds United forward Noah Okafor says he will not play for Switzerland again while Murat Yakin remains as head coach.",
-   "description": "Leeds United forward Noah Okafor says he will not play for Switzerland again while Murat Yakin remains as head coach.",
-   "category": "News",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-09-10T14:35:31.000Z",
-   "fetched_at": "2026-09-11T03:26:22.379Z",
-   "body": [
-    "Our briefing: Leeds United forward Noah Okafor says he will not play for Switzerland again while Murat Yakin remains as head coach.",
-    "Leeds United forward Noah Okafor says he will not play for Switzerland again while Murat Yakin remains as head coach.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Leeds_United-Galatasaray_match_in_20_April_2000.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "John Seb Barber from Leeds, UK — CC BY-SA 2.0"
   }
  ]
 }
