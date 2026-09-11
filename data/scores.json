@@ -1,45 +1,6 @@
 {
- "generated_at": "2026-09-11T19:32:22.515Z",
+ "generated_at": "2026-09-11T22:18:16.541Z",
  "matches": [
-  {
-   "league": "La Liga",
-   "home": "Sevilla",
-   "away": "Valencia",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "live",
-   "clock": "29'",
-   "time": "29'",
-   "date": "2026-09-11T19:00Z"
-  },
-  {
-   "league": "Bundesliga",
-   "home": "1. FC Union Berlin",
-   "away": "Schalke 04",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png",
-   "homeScore": 0,
-   "awayScore": 1,
-   "status": "live",
-   "clock": "45'+3'",
-   "time": "HT",
-   "date": "2026-09-11T18:30Z"
-  },
-  {
-   "league": "Serie A",
-   "home": "Venezia",
-   "away": "Fiorentina",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
-   "homeScore": 1,
-   "awayScore": 2,
-   "status": "live",
-   "clock": "45'+1'",
-   "time": "45'+1'",
-   "date": "2026-09-11T18:45Z"
-  },
   {
    "league": "Premier League",
    "home": "AFC Bournemouth",
@@ -132,16 +93,55 @@
    "date": "2026-09-12T19:00Z"
   },
   {
+   "league": "La Liga",
+   "home": "Sevilla",
+   "away": "Valencia",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
+   "homeScore": 1,
+   "awayScore": 0,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-09-11T19:00Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Venezia",
+   "away": "Fiorentina",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
+   "homeScore": 2,
+   "awayScore": 4,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-09-11T18:45Z"
+  },
+  {
+   "league": "Bundesliga",
+   "home": "1. FC Union Berlin",
+   "away": "Schalke 04",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png",
+   "homeScore": 1,
+   "awayScore": 3,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-09-11T18:30Z"
+  },
+  {
    "league": "Ligue 1",
    "home": "Stade Rennais",
    "away": "Marseille",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
-   "homeScore": 0,
+   "homeScore": 1,
    "awayScore": 0,
-   "status": "live",
-   "clock": "45'+1'",
-   "time": "HT",
+   "status": "final",
+   "clock": "",
+   "time": "FT",
    "date": "2026-09-11T18:45Z"
   }
  ]
