@@ -1,19 +1,6 @@
 {
- "generated_at": "2026-09-12T00:28:17.445Z",
+ "generated_at": "2026-09-12T04:55:46.442Z",
  "matches": [
-  {
-   "league": "La Liga",
-   "home": "Sevilla",
-   "away": "Valencia",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
-   "homeScore": 1,
-   "awayScore": 0,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-09-11T19:00Z"
-  },
   {
    "league": "Premier League",
    "home": "AFC Bournemouth",
@@ -106,19 +93,6 @@
    "date": "2026-09-12T19:00Z"
   },
   {
-   "league": "Ligue 1",
-   "home": "Stade Rennais",
-   "away": "Marseille",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
-   "homeScore": 1,
-   "awayScore": 0,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-09-11T18:45Z"
-  },
-  {
    "league": "Serie A",
    "home": "Venezia",
    "away": "Fiorentina",
@@ -143,6 +117,32 @@
    "clock": "",
    "time": "FT",
    "date": "2026-09-11T18:30Z"
+  },
+  {
+   "league": "Ligue 1",
+   "home": "Stade Rennais",
+   "away": "Marseille",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
+   "homeScore": 1,
+   "awayScore": 0,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-09-11T18:45Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Sevilla",
+   "away": "Valencia",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
+   "homeScore": 1,
+   "awayScore": 0,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-09-11T19:00Z"
   }
  ]
 }
