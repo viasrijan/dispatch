@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-11T22:18:16.540Z",
- "updated_utc": "2026-09-11T22:18Z",
- "cycle": 29819418,
+ "generated_at": "2026-09-12T00:28:17.444Z",
+ "updated_utc": "2026-09-12T00:28Z",
+ "cycle": 29819548,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,8 +16,29 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "bbc-bergvall-signs-new-spurs-deal-after-uncertain-fu",
+ "hero_id": "independent-richarlison-set-remain-tottenham-after-vasco-da-",
  "articles": [
+  {
+   "id": "bbc-richarlison-could-still-leave-spurs-saturday-s-g",
+   "slug": "richarlison-could-still-leave-spurs-saturday-s-gossip-y-s-g",
+   "title": "Richarlison could still leave Spurs - Saturday's gossip",
+   "dek": "Interest in Richarlison, Philippe Coutinho agrees Santos deal and Manchester United monitoring Adrien Truffert.",
+   "description": "Interest in Richarlison, Philippe Coutinho agrees Santos deal and Manchester United monitoring Adrien Truffert.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-09-11T22:18:17.000Z",
+   "fetched_at": "2026-09-12T00:28:08.991Z",
+   "body": [
+    "Our briefing: Interest in Richarlison, Philippe Coutinho agrees Santos deal and Manchester United monitoring Adrien Truffert.",
+    "Interest in Richarlison, Philippe Coutinho agrees Santos deal and Manchester United monitoring Adrien Truffert.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "John Shorten — CC BY 4.0"
+  },
   {
    "id": "bbc-bergvall-signs-new-spurs-deal-after-uncertain-fu",
    "slug": "bergvall-signs-new-spurs-deal-after-uncertain-future-in-fu",
@@ -29,15 +50,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-11T21:40:56.000Z",
-   "fetched_at": "2026-09-11T22:18:07.028Z",
+   "fetched_at": "2026-09-12T00:28:08.990Z",
    "body": [
     "Our briefing: Lucas Bergvall signs a new contract at Tottenham after telling the club he wanted to leave in the summer.",
     "Lucas Bergvall signs a new contract at Tottenham after telling the club he wanted to leave in the summer.",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "YHC — CC BY-SA 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
   },
   {
    "id": "bbc-like-benzema-good-haaland-alonso-joao-pedro",
@@ -50,31 +71,31 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-11T21:30:23.000Z",
-   "fetched_at": "2026-09-11T22:18:07.028Z",
+   "fetched_at": "2026-09-12T00:28:08.990Z",
    "body": [
     "Our briefing: Chelsea manager Xabi Alonso says striker Joao Pedro is similar stylistically to his former Real Madrid team-mate Karim Benzema and is at a comparable level to Manchester…",
     "Chelsea manager Xabi Alonso says striker Joao Pedro is similar stylistically to his former Real Madrid team-mate Karim Benzema and is at a comparable level to Manchester City's Erling Haaland.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "John Shorten — CC BY 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
   },
   {
    "id": "guardian-west-ham-cut-loose-hit-wrexham-six-go-top-champi",
    "slug": "west-ham-cut-loose-to-hit-wrexham-for-six-and-go-top-of-cham-hampi",
    "title": "West Ham cut loose to hit Wrexham for six and go top of Championship",
    "dek": "West Ham secured their fourth league win in a row as they returned to the top of the Championship with a thumping 6-0 win over Wrexham at the London Stadium. It was a…",
-   "description": "West Ham secured their fourth league win in a row as they returned to the top of the Championship with a thumping 6-0 win over Wrexham at the London Stadium. It was a marvellous display of attacking football from Nuno Espírito Santo’s side, who swept to victory with room to spare and with six different scorers. Jarrod Bowen got the ball rolling after 28 minutes, Joël Piroe made it two before the break, then Konstantinos Mavropanos, Taty Castellanos, Mohamadou Kanté and Manor Solomon all scored in the second half as the Welsh side were dealt a hiding. The performance was further evidence the Hammers are finding their feet in the second tier after failing to win any of their first three games following Premier League relegation. Continue reading...",
+   "description": "West Ham secured their fourth league win in a row as they returned to the top of the Championship with a thumping 6-0 win over Wrexham at the London Stadium. It was a marvellous display of attacking football from Nuno Espírito Santo’s side, who swept to victory with room to spare and six different scorers. Jarrod Bowen got the ball rolling after 28 minutes, Joël Piroe made it two before the break, then Konstantinos Mavropanos, Taty Castellanos, Mohamadou Kanté and Manor Solomon all scored in the second half as the Welsh side were dealt a hiding. The performance was further evidence the Hammers are finding their feet in the second tier after failing to win any of their first three games following Premier League relegation. Continue reading...",
    "category": "Match Reports",
    "league": "Premier League",
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-11T21:24:21.000Z",
-   "fetched_at": "2026-09-11T22:18:07.137Z",
+   "fetched_at": "2026-09-12T00:28:09.162Z",
    "body": [
     "Our briefing: West Ham secured their fourth league win in a row as they returned to the top of the Championship with a thumping 6-0 win over Wrexham at the London Stadium. It was a…",
-    "West Ham secured their fourth league win in a row as they returned to the top of the Championship with a thumping 6-0 win over Wrexham at the London Stadium. It was a marvellous display of attacking football from Nuno Espírito Santo’s side, who swept to victory with room to spare and with six different scorers. Jarrod Bowen got the ball rolling after 28 minutes, Joël Piroe made it two before the break, then Konstantinos Mavropanos, Taty Castellanos, Mohamadou Kanté and Manor Solomon all scored in the second half as the Welsh side were dealt a hiding.",
+    "West Ham secured their fourth league win in a row as they returned to the top of the Championship with a thumping 6-0 win over Wrexham at the London Stadium. It was a marvellous display of attacking football from Nuno Espírito Santo’s side, who swept to victory with room to spare and six different scorers. Jarrod Bowen got the ball rolling after 28 minutes, Joël Piroe made it two before the break, then Konstantinos Mavropanos, Taty Castellanos, Mohamadou Kanté and Manor Solomon all scored in the second half as the Welsh side were dealt a hiding.",
     "The performance was further evidence the Hammers are finding their feet in the second tier after failing to win any of their first three games following Premier League relegation. Continue reading...",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
@@ -93,7 +114,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-11T21:23:51.000Z",
-   "fetched_at": "2026-09-11T22:18:07.268Z",
+   "fetched_at": "2026-09-12T00:28:09.490Z",
    "body": [
     "Our briefing: The Brazilian was left out of Tottenham’s 25-man Premier League squad last week",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -113,15 +134,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-11T20:49:46.000Z",
-   "fetched_at": "2026-09-11T22:18:07.028Z",
+   "fetched_at": "2026-09-12T00:28:08.990Z",
    "body": [
     "Our briefing: Tottenham forward Richarlison's proposed move to Vasco da Gama falls through amid ongoing uncertainty over the Brazilian's future.",
     "Tottenham forward Richarlison's proposed move to Vasco da Gama falls through amid ongoing uncertainty over the Brazilian's future.",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "YHC — CC BY-SA 4.0"
   },
   {
    "id": "bbc-kartal-still-fenerbahce-boss-despite-resigning",
@@ -134,7 +155,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-11T19:51:32.000Z",
-   "fetched_at": "2026-09-11T22:18:07.029Z",
+   "fetched_at": "2026-09-12T00:28:08.992Z",
    "body": [
     "Our briefing: Ismail Kartal remains as head coach of Fenerbahce, despite resigning following Thursday's Champions League game with Roma.",
     "Ismail Kartal remains as head coach of Fenerbahce, despite resigning following Thursday's Champions League game with Roma.",
@@ -155,7 +176,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-11T19:00:13.000Z",
-   "fetched_at": "2026-09-11T22:18:07.137Z",
+   "fetched_at": "2026-09-12T00:28:09.162Z",
    "body": [
     "Our briefing: English top flight’s forwards are not well represented on the list, reflecting a season of set-piece grapple, but 2026-27 already looks brighter Premier League…",
     "English top flight’s forwards are not well represented on the list, reflecting a season of set-piece grapple, but 2026-27 already looks brighter Premier League representation is low when it comes to the 16 attacking players on this year’s Ballon d’Or shortlist . Manchester United’s Bruno Fernandes and Manchester City’s Erling Haaland are there but Cole Palmer, one of the nominees in 2025, is out after an injury-hit year and English football’s shift towards physicality and set pieces last season is summed up by none of the forwards from the best team in the country making the cut. The trio giving Arsenal a presence – Gabriel Maghalhães, Declan Rice and William Saliba – are all defensive minded.",
@@ -178,15 +199,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-11T18:58:10.000Z",
-   "fetched_at": "2026-09-11T22:18:07.028Z",
+   "fetched_at": "2026-09-12T00:28:08.991Z",
    "body": [
     "Our briefing: Morocco's prime minister tells the head of the country's football federation to stop making promises about the 2030 World Cup final, while the head of the Spanish…",
     "Morocco's prime minister tells the head of the country's football federation to stop making promises about the 2030 World Cup final, while the head of the Spanish federation says the showpiece should be played in Spain.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "independent-hull-city-fined-30-000-over-discriminatory-chant",
@@ -199,7 +220,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-11T18:46:36.000Z",
-   "fetched_at": "2026-09-11T22:18:07.268Z",
+   "fetched_at": "2026-09-12T00:28:09.490Z",
    "body": [
     "Our briefing: The Football Association charge relates to homophobic chanting during their 4-0 defeat to the London side in February",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -219,13 +240,13 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-11T17:36:02.000Z",
-   "fetched_at": "2026-09-11T22:18:07.268Z",
+   "fetched_at": "2026-09-12T00:28:09.490Z",
    "body": [
     "Our briefing: The France has been portrayed in military outfits, sitting on a throne, or posing next to Soviet leader Josef Stalin and other controversial leaders",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -239,7 +260,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-11T17:20:14.000Z",
-   "fetched_at": "2026-09-11T22:18:07.269Z",
+   "fetched_at": "2026-09-12T00:28:09.490Z",
    "body": [
     "Our briefing: Nevin made the comments during the pitch invasion at the end of Celtic’s win over Hearts on the final day of last season",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -259,7 +280,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-11T17:16:43.000Z",
-   "fetched_at": "2026-09-11T22:18:07.137Z",
+   "fetched_at": "2026-09-12T00:28:09.163Z",
    "body": [
     "Our briefing: Manchester City travel to Manchester United for an intriguing derby on Sunday after Sunderland host Arsenal Saturday 3pm Venue Villa Park Continue reading...",
     "Manchester City travel to Manchester United for an intriguing derby on Sunday after Sunderland host Arsenal Saturday 3pm Venue Villa Park Continue reading...",
@@ -280,14 +301,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-11T16:49:50.000Z",
-   "fetched_at": "2026-09-11T22:18:07.028Z",
+   "fetched_at": "2026-09-12T00:28:08.991Z",
    "body": [
     "Our briefing: Kylian Mbappe criticises a viral meme which superimposes his face on the body of a dictator, saying it shows \"a lack of political and human awareness\".",
     "Kylian Mbappe criticises a viral meme which superimposes his face on the body of a dictator, saying it shows \"a lack of political and human awareness\".",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -321,7 +342,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-11T16:18:27.000Z",
-   "fetched_at": "2026-09-11T22:18:07.029Z",
+   "fetched_at": "2026-09-12T00:28:08.993Z",
    "body": [
     "Our briefing: Inaki Williams says the time has come to bring his journey with the Black Stars to an end four years after making his international debut.",
     "Inaki Williams says the time has come to bring his journey with the Black Stars to an end four years after making his international debut.",
@@ -342,15 +363,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-11T15:59:00.000Z",
-   "fetched_at": "2026-09-11T22:18:07.030Z",
+   "fetched_at": "2026-09-12T00:28:08.994Z",
    "body": [
     "Our briefing: John Murray, Ian Dennis & Ali Bruce-Ball discuss life as football commentators.",
     "John Murray, Ian Dennis & Ali Bruce-Ball discuss life as football commentators.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "independent-michail-antonio-back-english-football-he-joins-w",
@@ -363,7 +384,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-11T15:50:41.000Z",
-   "fetched_at": "2026-09-11T22:18:07.269Z",
+   "fetched_at": "2026-09-12T00:28:09.490Z",
    "body": [
     "Our briefing: Michail Antonio has returned to English football after leaving West Ham last year",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -403,7 +424,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-11T15:32:08.000Z",
-   "fetched_at": "2026-09-11T22:18:07.028Z",
+   "fetched_at": "2026-09-12T00:28:08.990Z",
    "body": [
     "Our briefing: Liverpool have unveiled permanent memorials at their training ground and outside Anfield in tribute to former women's team manager Matt Beard.",
     "Liverpool have unveiled permanent memorials at their training ground and outside Anfield in tribute to former women's team manager Matt Beard.",
@@ -424,7 +445,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-11T15:26:54.000Z",
-   "fetched_at": "2026-09-11T22:18:07.029Z",
+   "fetched_at": "2026-09-12T00:28:08.993Z",
    "body": [
     "Our briefing: Republic of Ireland captain Nathan Collins is a doubt for the start of the upcoming Nations League campaign after picking up a calf injury.",
     "Republic of Ireland captain Nathan Collins is a doubt for the start of the upcoming Nations League campaign after picking up a calf injury.",
@@ -445,15 +466,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-11T15:24:19.000Z",
-   "fetched_at": "2026-09-11T22:18:07.029Z",
+   "fetched_at": "2026-09-12T00:28:08.992Z",
    "body": [
     "Our briefing: David Gray insists he is not preoccupied by rumbling criticism after a disappointing start to the season as Hibernian set their sights on the first semi-final of his…",
     "David Gray insists he is not preoccupied by rumbling criticism after a disappointing start to the season as Hibernian set their sights on the first semi-final of his reign.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
   },
   {
    "id": "bbc-ex-west-ham-striker-antonio-joins-watford",
@@ -466,7 +487,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-11T15:04:49.000Z",
-   "fetched_at": "2026-09-11T22:18:07.029Z",
+   "fetched_at": "2026-09-12T00:28:08.991Z",
    "body": [
     "Our briefing: Watford announce the signing of former West Ham United striker Michail Antonio on a free transfer.",
     "Watford announce the signing of former West Ham United striker Michail Antonio on a free transfer.",
@@ -487,7 +508,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-11T14:54:09.000Z",
-   "fetched_at": "2026-09-11T22:18:07.028Z",
+   "fetched_at": "2026-09-12T00:28:08.990Z",
    "body": [
     "Our briefing: Leicester City boss Russell Martin does not know why he \"upsets so many people\" and says criticism has \"become personal\".",
     "Leicester City boss Russell Martin does not know why he \"upsets so many people\" and says criticism has \"become personal\".",
@@ -529,7 +550,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-11T14:35:47.000Z",
-   "fetched_at": "2026-09-11T22:18:07.269Z",
+   "fetched_at": "2026-09-12T00:28:09.490Z",
    "body": [
     "Our briefing: Jack Grealish has returned to Everton for a second successive loan spell",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -549,7 +570,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-11T14:16:39.000Z",
-   "fetched_at": "2026-09-11T22:18:07.028Z",
+   "fetched_at": "2026-09-12T00:28:08.991Z",
    "body": [
     "Our briefing: Celtic players had a visit from Police Scotland on Friday to give them \"a timely reminder\" about their \"general behaviour\" in Sunday's Premier Sport Cup quarter-final…",
     "Celtic players had a visit from Police Scotland on Friday to give them \"a timely reminder\" about their \"general behaviour\" in Sunday's Premier Sport Cup quarter-final against city rivals Rangers, manager Martin O'Neill reveals.",
@@ -570,7 +591,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-11T13:43:54.000Z",
-   "fetched_at": "2026-09-11T22:18:07.028Z",
+   "fetched_at": "2026-09-12T00:28:08.990Z",
    "body": [
     "Our briefing: Hull City have been fined £30,000 over discriminatory chanting with the club issuing three supporter bans following their FA Cup defeat by Chelsea in February.",
     "Hull City have been fined £30,000 over discriminatory chanting with the club issuing three supporter bans following their FA Cup defeat by Chelsea in February.",
@@ -612,15 +633,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-11T13:22:13.000Z",
-   "fetched_at": "2026-09-11T22:18:07.029Z",
+   "fetched_at": "2026-09-12T00:28:08.991Z",
    "body": [
     "Our briefing: Real Madrid boss Jose Mourinho says fans \"want a piece\" of star duo Kylian Mbappe and Vinicius Jr after they were booed by supporters this week.",
     "Real Madrid boss Jose Mourinho says fans \"want a piece\" of star duo Kylian Mbappe and Vinicius Jr after they were booed by supporters this week.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
    "id": "guardian-chelsea-hand-pedro-neto-new-deal-wake-his-reject",
@@ -633,7 +654,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-11T12:55:05.000Z",
-   "fetched_at": "2026-09-11T22:18:07.137Z",
+   "fetched_at": "2026-09-12T00:28:09.162Z",
    "body": [
     "Our briefing: Winger shining after summer pursuit by several clubs Chelsea felt selling Fernández to City was right move Chelsea have rewarded Pedro Neto’s strong start to the season…",
     "Winger shining after summer pursuit by several clubs Chelsea felt selling Fernández to City was right move Chelsea have rewarded Pedro Neto’s strong start to the season and commitment to the club by handing the winger a new contract. The Portugal international had summer interest from several Premier League clubs including Manchester City, but indicated a desire to stay and play for Xabi Alonso. He has signed a five-year deal with the option of an extra year and is to receive a pay rise.",
@@ -676,15 +697,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-11T12:32:20.000Z",
-   "fetched_at": "2026-09-11T22:18:07.028Z",
+   "fetched_at": "2026-09-12T00:28:08.990Z",
    "body": [
     "Our briefing: Mikel Arteta says Arsenal were ready for their midweek Champions League flight delay - because he deliberately disrupted their training and travel plans in pre-season to…",
     "Mikel Arteta says Arsenal were ready for their midweek Champions League flight delay - because he deliberately disrupted their training and travel plans in pre-season to prepare them.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   },
   {
    "id": "independent-michael-carrick-underlines-key-change-man-united",
@@ -697,13 +718,13 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-11T12:31:58.000Z",
-   "fetched_at": "2026-09-11T22:18:07.269Z",
+   "fetched_at": "2026-09-12T00:28:09.490Z",
    "body": [
     "Our briefing: United beat Sabah 4-0 in the Champions League to enter the derby with renewed confidence and Carrick believes there has been a shift in expectations since he took over",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
@@ -717,15 +738,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-11T12:30:38.000Z",
-   "fetched_at": "2026-09-11T22:18:07.030Z",
+   "fetched_at": "2026-09-12T00:28:08.993Z",
    "body": [
     "Our briefing: Scott Davidson's proposed takeover of League Two club Shrewsbury Town is supported by fellow American Brad Friedel.",
     "Scott Davidson's proposed takeover of League Two club Shrewsbury Town is supported by fellow American Brad Friedel.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "bbc-spartans-director-leads-takeover-shrewsbury-town",
@@ -759,7 +780,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-11T12:30:04.000Z",
-   "fetched_at": "2026-09-11T22:18:07.137Z",
+   "fetched_at": "2026-09-12T00:28:09.163Z",
    "body": [
     "Our briefing: The league phase has begun. From Olise’s brilliance to Sabah’s pub cleaner turned quiz contestant turned manager, there was plenty to talk about The league phase has been…",
     "The league phase has begun. From Olise’s brilliance to Sabah’s pub cleaner turned quiz contestant turned manager, there was plenty to talk about The league phase has been previewed as Barcelona’s first step toward reclaiming a crown last lifted in 2015, with disappointments aplenty since. Lionel Messi claiming just one Champions League title in the last decade of his time at Camp Nou is the starkest statistic.",
@@ -768,8 +789,8 @@
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Kashima_Soccer_Stadium_5.jpg/960px-Kashima_Soccer_Stadium_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   },
   {
    "id": "independent-lucas-bergvall-signs-new-tottenham-deal-end-spec",
@@ -782,7 +803,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-11T12:03:05.000Z",
-   "fetched_at": "2026-09-11T22:18:07.269Z",
+   "fetched_at": "2026-09-12T00:28:09.490Z",
    "body": [
     "Our briefing: Bergvall was heavily linked with a move away from Tottenham over the summer",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -823,7 +844,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-11T11:53:52.000Z",
-   "fetched_at": "2026-09-11T22:18:07.269Z",
+   "fetched_at": "2026-09-12T00:28:09.490Z",
    "body": [
     "Our briefing: Bradley Barcola is expected to be available after he was removed late on against Atletico Madrid due to cramp",
     "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
@@ -831,26 +852,6 @@
    ],
    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Danger_Risk_of_Life-Changing_Injuries%2C_Liverpool_Street_tube_station_2025-11-16.jpg/960px-Danger_Risk_of_Life-Changing_Injuries%2C_Liverpool_Street_tube_station_2025-11-16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Cory Doctorow — CC BY-SA 4.0"
-  },
-  {
-   "id": "independent-alvaro-arbeloa-denies-fulham-rift-after-cryptic-",
-   "slug": "alvaro-arbeloa-denies-fulham-rift-after-cryptic-social-media-ptic-",
-   "title": "Alvaro Arbeloa denies Fulham rift after cryptic social media behaviour",
-   "dek": "Fulham have lost their first three games of the new season but Arbeloa said the mood is ‘positive’ ahead of the trip to Liverpool",
-   "description": "Fulham have lost their first three games of the new season but Arbeloa said the mood is ‘positive’ ahead of the trip to Liverpool",
-   "category": "Previews",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-09-11T11:50:53.000Z",
-   "fetched_at": "2026-09-11T22:18:07.269Z",
-   "body": [
-    "Our briefing: Fulham have lost their first three games of the new season but Arbeloa said the mood is ‘positive’ ahead of the trip to Liverpool",
-    "Team news can change right up to kick-off. Bookmark this story for the final line-ups and confirmed sides.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Fulham_Players_Pre-Match_Training_on_7_November_2015.JPG/960px-Fulham_Players_Pre-Match_Training_on_7_November_2015.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Timmy96 — CC BY-SA 4.0"
   }
  ]
 }
