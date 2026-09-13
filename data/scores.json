@@ -1,58 +1,6 @@
 {
- "generated_at": "2026-09-12T23:10:23.129Z",
+ "generated_at": "2026-09-13T01:19:16.208Z",
  "matches": [
-  {
-   "league": "La Liga",
-   "home": "Racing Santander",
-   "away": "Alavés",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
-   "homeScore": 2,
-   "awayScore": 1,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-09-12T12:00Z"
-  },
-  {
-   "league": "La Liga",
-   "home": "Osasuna",
-   "away": "Espanyol",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png",
-   "homeScore": 0,
-   "awayScore": 2,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-09-12T14:15Z"
-  },
-  {
-   "league": "La Liga",
-   "home": "Athletic Club",
-   "away": "Elche",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
-   "homeScore": 1,
-   "awayScore": 1,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-09-12T16:30Z"
-  },
-  {
-   "league": "La Liga",
-   "home": "Real Madrid",
-   "away": "Rayo Vallecano",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png",
-   "homeScore": 4,
-   "awayScore": 1,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-09-12T19:00Z"
-  },
   {
    "league": "Premier League",
    "home": "AFC Bournemouth",
@@ -145,43 +93,56 @@
    "date": "2026-09-12T19:00Z"
   },
   {
-   "league": "Serie A",
-   "home": "Genoa",
-   "away": "Frosinone",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png",
+   "league": "La Liga",
+   "home": "Racing Santander",
+   "away": "Alavés",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
+   "homeScore": 2,
+   "awayScore": 1,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-09-12T12:00Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Osasuna",
+   "away": "Espanyol",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png",
+   "homeScore": 0,
+   "awayScore": 2,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-09-12T14:15Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Athletic Club",
+   "away": "Elche",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
    "homeScore": 1,
    "awayScore": 1,
    "status": "final",
    "clock": "",
    "time": "FT",
-   "date": "2026-09-12T13:00Z"
+   "date": "2026-09-12T16:30Z"
   },
   {
-   "league": "Serie A",
-   "home": "Lazio",
-   "away": "AC Milan",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-   "homeScore": 2,
-   "awayScore": 2,
+   "league": "La Liga",
+   "home": "Real Madrid",
+   "away": "Rayo Vallecano",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png",
+   "homeScore": 4,
+   "awayScore": 1,
    "status": "final",
    "clock": "",
    "time": "FT",
-   "date": "2026-09-12T16:00Z"
-  },
-  {
-   "league": "Serie A",
-   "home": "Atalanta",
-   "away": "Cagliari",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
-   "homeScore": 1,
-   "awayScore": 2,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-09-12T18:45Z"
+   "date": "2026-09-12T19:00Z"
   },
   {
    "league": "Ligue 1",
@@ -325,6 +286,45 @@
    "clock": "",
    "time": "FT",
    "date": "2026-09-12T16:30Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Genoa",
+   "away": "Frosinone",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png",
+   "homeScore": 1,
+   "awayScore": 1,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-09-12T13:00Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Lazio",
+   "away": "AC Milan",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
+   "homeScore": 2,
+   "awayScore": 2,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-09-12T16:00Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Atalanta",
+   "away": "Cagliari",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
+   "homeScore": 1,
+   "awayScore": 2,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-09-12T18:45Z"
   }
  ]
 }
