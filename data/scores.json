@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-13T01:19:16.208Z",
+ "generated_at": "2026-09-13T06:37:49.452Z",
  "matches": [
   {
    "league": "Premier League",
@@ -91,6 +91,45 @@
    "clock": "",
    "time": "FT",
    "date": "2026-09-12T19:00Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Genoa",
+   "away": "Frosinone",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png",
+   "homeScore": 1,
+   "awayScore": 1,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-09-12T13:00Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Lazio",
+   "away": "AC Milan",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
+   "homeScore": 2,
+   "awayScore": 2,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-09-12T16:00Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Atalanta",
+   "away": "Cagliari",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
+   "homeScore": 1,
+   "awayScore": 2,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-09-12T18:45Z"
   },
   {
    "league": "La Liga",
@@ -286,45 +325,6 @@
    "clock": "",
    "time": "FT",
    "date": "2026-09-12T16:30Z"
-  },
-  {
-   "league": "Serie A",
-   "home": "Genoa",
-   "away": "Frosinone",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png",
-   "homeScore": 1,
-   "awayScore": 1,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-09-12T13:00Z"
-  },
-  {
-   "league": "Serie A",
-   "home": "Lazio",
-   "away": "AC Milan",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-   "homeScore": 2,
-   "awayScore": 2,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-09-12T16:00Z"
-  },
-  {
-   "league": "Serie A",
-   "home": "Atalanta",
-   "away": "Cagliari",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
-   "homeScore": 1,
-   "awayScore": 2,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-09-12T18:45Z"
   }
  ]
 }
