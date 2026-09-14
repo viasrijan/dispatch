@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-14T20:24:45.757Z",
+ "generated_at": "2026-09-14T23:19:11.710Z",
  "matches": [
   {
    "league": "La Liga",
@@ -9,9 +9,9 @@
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
    "homeScore": 1,
    "awayScore": 2,
-   "status": "live",
-   "clock": "65'",
-   "time": "65'",
+   "status": "final",
+   "clock": "",
+   "time": "FT",
    "date": "2026-09-14T19:00Z"
   },
   {
@@ -21,11 +21,50 @@
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
    "homeScore": 4,
-   "awayScore": 0,
-   "status": "live",
-   "clock": "66'",
-   "time": "66'",
+   "awayScore": 1,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
    "date": "2026-09-14T19:00Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Como",
+   "away": "Parma",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
+   "homeScore": 2,
+   "awayScore": 1,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-09-14T16:30Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Torino",
+   "away": "AS Roma",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
+   "homeScore": 0,
+   "awayScore": 2,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-09-14T16:30Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Internazionale",
+   "away": "Udinese",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
+   "homeScore": 5,
+   "awayScore": 3,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-09-14T18:45Z"
   },
   {
    "league": "Bundesliga",
@@ -91,45 +130,6 @@
    "clock": "",
    "time": "FT",
    "date": "2026-09-13T18:45Z"
-  },
-  {
-   "league": "Serie A",
-   "home": "Como",
-   "away": "Parma",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
-   "homeScore": 2,
-   "awayScore": 1,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-09-14T16:30Z"
-  },
-  {
-   "league": "Serie A",
-   "home": "Torino",
-   "away": "AS Roma",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-   "homeScore": 0,
-   "awayScore": 2,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-09-14T16:30Z"
-  },
-  {
-   "league": "Serie A",
-   "home": "Internazionale",
-   "away": "Udinese",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
-   "homeScore": 5,
-   "awayScore": 2,
-   "status": "live",
-   "clock": "80'",
-   "time": "80'",
-   "date": "2026-09-14T18:45Z"
   }
  ]
 }
