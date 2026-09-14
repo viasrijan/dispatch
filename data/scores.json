@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-13T23:55:04.142Z",
+ "generated_at": "2026-09-14T03:47:16.274Z",
  "matches": [
   {
    "league": "Premier League",
@@ -22,6 +22,32 @@
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
    "homeScore": 0,
    "awayScore": 1,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-09-13T15:30Z"
+  },
+  {
+   "league": "Bundesliga",
+   "home": "RB Leipzig",
+   "away": "Hamburg SV",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png",
+   "homeScore": 5,
+   "awayScore": 0,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-09-13T13:30Z"
+  },
+  {
+   "league": "Bundesliga",
+   "home": "SV Elversberg",
+   "away": "Bayern Munich",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/10388.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+   "homeScore": 1,
+   "awayScore": 2,
    "status": "final",
    "clock": "",
    "time": "FT",
@@ -80,45 +106,6 @@
    "date": "2026-09-13T19:00Z"
   },
   {
-   "league": "Serie A",
-   "home": "Lecce",
-   "away": "Monza",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png",
-   "homeScore": 3,
-   "awayScore": 2,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-09-13T13:00Z"
-  },
-  {
-   "league": "Serie A",
-   "home": "Napoli",
-   "away": "Bologna",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
-   "homeScore": 1,
-   "awayScore": 0,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-09-13T16:00Z"
-  },
-  {
-   "league": "Serie A",
-   "home": "Sassuolo",
-   "away": "Juventus",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
-   "homeScore": 3,
-   "awayScore": 2,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-09-13T18:45Z"
-  },
-  {
    "league": "Ligue 1",
    "home": "Lille",
    "away": "Troyes",
@@ -158,30 +145,43 @@
    "date": "2026-09-13T18:45Z"
   },
   {
-   "league": "Bundesliga",
-   "home": "RB Leipzig",
-   "away": "Hamburg SV",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png",
-   "homeScore": 5,
-   "awayScore": 0,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-09-13T13:30Z"
-  },
-  {
-   "league": "Bundesliga",
-   "home": "SV Elversberg",
-   "away": "Bayern Munich",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/10388.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-   "homeScore": 1,
+   "league": "Serie A",
+   "home": "Lecce",
+   "away": "Monza",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png",
+   "homeScore": 3,
    "awayScore": 2,
    "status": "final",
    "clock": "",
    "time": "FT",
-   "date": "2026-09-13T15:30Z"
+   "date": "2026-09-13T13:00Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Napoli",
+   "away": "Bologna",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
+   "homeScore": 1,
+   "awayScore": 0,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-09-13T16:00Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Sassuolo",
+   "away": "Juventus",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
+   "homeScore": 3,
+   "awayScore": 2,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-09-13T18:45Z"
   }
  ]
 }
