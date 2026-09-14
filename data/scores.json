@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-14T16:11:54.459Z",
+ "generated_at": "2026-09-14T20:24:45.757Z",
  "matches": [
   {
    "league": "La Liga",
@@ -7,11 +7,11 @@
    "away": "Real Betis",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Mon, September 14th at 3:00 PM EDT",
+   "homeScore": 1,
+   "awayScore": 2,
+   "status": "live",
+   "clock": "65'",
+   "time": "65'",
    "date": "2026-09-14T19:00Z"
   },
   {
@@ -20,11 +20,11 @@
    "away": "Newcastle United",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
-   "homeScore": 0,
+   "homeScore": 4,
    "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Mon, September 14th at 3:00 PM EDT",
+   "status": "live",
+   "clock": "66'",
+   "time": "66'",
    "date": "2026-09-14T19:00Z"
   },
   {
@@ -98,11 +98,11 @@
    "away": "Parma",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
+   "homeScore": 2,
+   "awayScore": 1,
+   "status": "final",
    "clock": "",
-   "time": "Mon, September 14th at 12:30 PM EDT",
+   "time": "FT",
    "date": "2026-09-14T16:30Z"
   },
   {
@@ -112,10 +112,10 @@
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
    "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
+   "awayScore": 2,
+   "status": "final",
    "clock": "",
-   "time": "Mon, September 14th at 12:30 PM EDT",
+   "time": "FT",
    "date": "2026-09-14T16:30Z"
   },
   {
@@ -124,11 +124,11 @@
    "away": "Udinese",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Mon, September 14th at 2:45 PM EDT",
+   "homeScore": 5,
+   "awayScore": 2,
+   "status": "live",
+   "clock": "80'",
+   "time": "80'",
    "date": "2026-09-14T18:45Z"
   }
  ]
