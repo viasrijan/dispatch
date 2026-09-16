@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-16T20:58:01.813Z",
+ "generated_at": "2026-09-16T23:36:54.905Z",
  "matches": [
   {
    "league": "Premier League",
@@ -46,11 +46,11 @@
    "away": "Racing Santander",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png",
-   "homeScore": 4,
-   "awayScore": 1,
-   "status": "live",
-   "clock": "60'",
-   "time": "60'",
+   "homeScore": 7,
+   "awayScore": 2,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
    "date": "2026-09-16T19:30Z"
   },
   {
@@ -67,17 +67,17 @@
    "date": "2026-09-16T19:30Z"
   },
   {
-   "league": "Serie A",
-   "home": "Monza",
-   "away": "Sassuolo",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
+   "league": "Bundesliga",
+   "home": "Bayern Munich",
+   "away": "1. FC Union Berlin",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
    "homeScore": 0,
    "awayScore": 0,
    "status": "pre",
    "clock": "",
-   "time": "Fri, September 18th at 2:45 PM EDT",
-   "date": "2026-09-18T18:45Z"
+   "time": "Fri, September 18th at 2:30 PM EDT",
+   "date": "2026-09-18T18:30Z"
   },
   {
    "league": "Ligue 1",
@@ -93,17 +93,17 @@
    "date": "2026-09-18T18:45Z"
   },
   {
-   "league": "Bundesliga",
-   "home": "Bayern Munich",
-   "away": "1. FC Union Berlin",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
+   "league": "Serie A",
+   "home": "Monza",
+   "away": "Sassuolo",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
    "homeScore": 0,
    "awayScore": 0,
    "status": "pre",
    "clock": "",
-   "time": "Fri, September 18th at 2:30 PM EDT",
-   "date": "2026-09-18T18:30Z"
+   "time": "Fri, September 18th at 2:45 PM EDT",
+   "date": "2026-09-18T18:45Z"
   }
  ]
 }
