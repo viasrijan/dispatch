@@ -1,30 +1,17 @@
 {
- "generated_at": "2026-09-18T20:32:08.180Z",
+ "generated_at": "2026-09-18T23:04:45.225Z",
  "matches": [
-  {
-   "league": "Serie A",
-   "home": "Monza",
-   "away": "Sassuolo",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
-   "homeScore": 2,
-   "awayScore": 0,
-   "status": "live",
-   "clock": "87'",
-   "time": "87'",
-   "date": "2026-09-18T18:45Z"
-  },
   {
    "league": "Premier League",
    "home": "Brentford",
    "away": "Chelsea",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-   "homeScore": 1,
+   "homeScore": 3,
    "awayScore": 0,
-   "status": "live",
-   "clock": "74'",
-   "time": "74'",
+   "status": "final",
+   "clock": "",
+   "time": "FT",
    "date": "2026-09-18T19:00Z"
   },
   {
@@ -33,11 +20,11 @@
    "away": "Elche",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
-   "homeScore": 0,
-   "awayScore": 2,
-   "status": "live",
-   "clock": "65'",
-   "time": "65'",
+   "homeScore": 1,
+   "awayScore": 3,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
    "date": "2026-09-18T19:00Z"
   },
   {
@@ -54,6 +41,19 @@
    "date": "2026-09-18T18:30Z"
   },
   {
+   "league": "Serie A",
+   "home": "Monza",
+   "away": "Sassuolo",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
+   "homeScore": 2,
+   "awayScore": 1,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-09-18T18:45Z"
+  },
+  {
    "league": "Ligue 1",
    "home": "AS Monaco",
    "away": "Lens",
@@ -61,9 +61,9 @@
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
    "homeScore": 2,
    "awayScore": 1,
-   "status": "live",
-   "clock": "86'",
-   "time": "86'",
+   "status": "final",
+   "clock": "",
+   "time": "FT",
    "date": "2026-09-18T18:45Z"
   }
  ]
