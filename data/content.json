@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-19T20:09:41.067Z",
- "updated_utc": "2026-09-19T20:09Z",
- "cycle": 29830809,
+ "generated_at": "2026-09-19T22:24:13.261Z",
+ "updated_utc": "2026-09-19T22:24Z",
+ "cycle": 29830944,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,8 +16,174 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "guardian-european-football-mart-nez-double-gives-inter-co",
+ "hero_id": "bbc-match-day",
  "articles": [
+  {
+   "id": "bbc-match-day",
+   "slug": "match-of-the-day-h-day",
+   "title": "Match of the Day",
+   "dek": "Highlights of five Premier League matches, including champions Arsenal's trip to Brighton.",
+   "description": "Highlights of five Premier League matches, including champions Arsenal's trip to Brighton.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-09-19T22:41:14.000Z",
+   "fetched_at": "2026-09-19T22:24:02.018Z",
+   "body": [
+    "Our briefing: Highlights of five Premier League matches, including champions Arsenal's trip to Brighton.",
+    "Highlights of five Premier League matches, including champions Arsenal's trip to Brighton.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "John Shorten — CC BY 4.0"
+  },
+  {
+   "id": "bbc-raphinha-nets-hat-trick-sevilla-win-keep-barcelo",
+   "slug": "raphinha-nets-hat-trick-in-sevilla-win-to-keep-barcelona-top-rcelo",
+   "title": "Raphinha nets hat-trick in Sevilla win to keep Barcelona top",
+   "dek": "Raphinha scores a second hat-trick in successive games as Barcelona claim a comfortable victory over Sevilla to increase their lead at the top of the La Liga table.",
+   "description": "Raphinha scores a second hat-trick in successive games as Barcelona claim a comfortable victory over Sevilla to increase their lead at the top of the La Liga table.",
+   "category": "Match Reports",
+   "league": "La Liga",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-09-19T22:04:17.000Z",
+   "fetched_at": "2026-09-19T22:24:02.020Z",
+   "body": [
+    "Our briefing: Raphinha scores a second hat-trick in successive games as Barcelona claim a comfortable victory over Sevilla to increase their lead at the top of the La Liga table.",
+    "Raphinha scores a second hat-trick in successive games as Barcelona claim a comfortable victory over Sevilla to increase their lead at the top of the La Liga table.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/LFP_-_Barcelona_vs_Mallorca_pre-match_-_Oct_3rd_2010.jpg/960px-LFP_-_Barcelona_vs_Mallorca_pre-match_-_Oct_3rd_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Paolo Costa Baldi — CC BY-SA 3.0"
+  },
+  {
+   "id": "bbc-arsenal-may-move-endrick-january-sunday-s-gossip",
+   "slug": "arsenal-may-move-for-endrick-in-january-sunday-s-gossip-ossip",
+   "title": "Arsenal may move for Endrick in January - Sunday's gossip",
+   "dek": "Barcelona may launch a huge offer for Haaland, Arsenal are interested in struggling Endrick, and Liverpool insist on keeping Wirtz",
+   "description": "Barcelona may launch a huge offer for Haaland, Arsenal are interested in struggling Endrick, and Liverpool insist on keeping Wirtz",
+   "category": "News",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-09-19T21:39:38.000Z",
+   "fetched_at": "2026-09-19T22:24:02.020Z",
+   "body": [
+    "Our briefing: Barcelona may launch a huge offer for Haaland, Arsenal are interested in struggling Endrick, and Liverpool insist on keeping Wirtz",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Arsenal_Stadium_Highbury_east_facade.jpg/960px-Arsenal_Stadium_Highbury_east_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "No machine-readable author provided. Qwghlm~commonswiki assumed (based on copyright claims). — CC BY-SA 3.0"
+  },
+  {
+   "id": "bbc-gvardiol-signals-return-best-left-back-man-city",
+   "slug": "gvardiol-signals-return-to-best-at-left-back-for-man-city--city",
+   "title": "Gvardiol signals return to best at left-back for Man City",
+   "dek": "Josko Gvardiol's season last time out was disrupted by a serious injury but the defender now appears to be returning towards his best by helping Manchester City to an…",
+   "description": "Josko Gvardiol's season last time out was disrupted by a serious injury but the defender now appears to be returning towards his best by helping Manchester City to an impressive start to the new campaign.",
+   "category": "Injuries",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-09-19T21:31:17.000Z",
+   "fetched_at": "2026-09-19T22:24:02.019Z",
+   "body": [
+    "Our briefing: Josko Gvardiol's season last time out was disrupted by a serious injury but the defender now appears to be returning towards his best by helping Manchester City to an…",
+    "Josko Gvardiol's season last time out was disrupted by a serious injury but the defender now appears to be returning towards his best by helping Manchester City to an impressive start to the new campaign.",
+    "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Manchester_United_v_Manchester_City%2C_10_December_2017_%2812%29.jpg/960px-Manchester_United_v_Manchester_City%2C_10_December_2017_%2812%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ardfern — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-carrick-has-faith-var-despite-derby-error",
+   "slug": "carrick-has-faith-in-var-despite-derby-error-error",
+   "title": "Carrick has faith in VAR despite derby error",
+   "dek": "Manchester United head coach Michael Carrick still has faith in VAR despite the derby blunder that cost his side in their home defeat by Manchester City",
+   "description": "Manchester United head coach Michael Carrick still has faith in VAR despite the derby blunder that cost his side in their home defeat by Manchester City",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-09-19T21:30:56.000Z",
+   "fetched_at": "2026-09-19T22:24:02.019Z",
+   "body": [
+    "Our briefing: Manchester United head coach Michael Carrick still has faith in VAR despite the derby blunder that cost his side in their home defeat by Manchester City",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": null
+  },
+  {
+   "id": "guardian-european-football-mart-nez-double-gives-inter-co",
+   "slug": "european-football-mart-nez-double-gives-inter-comeback-draw--er-co",
+   "title": "European football: Martínez double gives Inter comeback draw at Roma",
+   "dek": "Roma lead 2-0 after Manu Koné’s first-half double Strasbourg fans abuse Rosenior; Salah hits hat-trick Lautaro Martínez rode to Inter ’s rescue as the Serie A champions…",
+   "description": "Roma lead 2-0 after Manu Koné’s first-half double Strasbourg fans abuse Rosenior; Salah hits hat-trick Lautaro Martínez rode to Inter ’s rescue as the Serie A champions fought back from 2-0 down to force a 2-2 draw at Roma , in a meeting of what had been the last two sides with 100% records. Manu Koné’s double had given Roma a 2-0 lead at half-time but for the second time in a week Cristian Chivu’s side, inspired by Martínez, showed mettle as the champions fought back from such a deficit. Continue reading...",
+   "category": "Match Reports",
+   "league": "Serie A",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-09-19T21:12:00.000Z",
+   "fetched_at": "2026-09-19T22:24:02.373Z",
+   "body": [
+    "Our briefing: Roma lead 2-0 after Manu Koné’s first-half double Strasbourg fans abuse Rosenior; Salah hits hat-trick Lautaro Martínez rode to Inter ’s rescue as the Serie A champions…",
+    "Roma lead 2-0 after Manu Koné’s first-half double Strasbourg fans abuse Rosenior; Salah hits hat-trick Lautaro Martínez rode to Inter ’s rescue as the Serie A champions fought back from 2-0 down to force a 2-2 draw at Roma , in a meeting of what had been the last two sides with 100% records. Manu Koné’s double had given Roma a 2-0 lead at half-time but for the second time in a week Cristian Chivu’s side, inspired by Martínez, showed mettle as the champions fought back from such a deficit. Continue reading...",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/1972%E2%80%9373_Serie_A_-_Inter_Milan_v_AC_Milan_-_Sabadini_scores.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": null
+  },
+  {
+   "id": "bbc-coventry-win-25-years-making",
+   "slug": "a-coventry-win-25-years-in-the-making-aking",
+   "title": "A Coventry win 25 years in the making",
+   "dek": "Coventry City's win over Nottingham Forest - thanks to Jay Dasilva's goal - was a victory which was over 25 years in the making following some dark days for the Sky…",
+   "description": "Coventry City's win over Nottingham Forest - thanks to Jay Dasilva's goal - was a victory which was over 25 years in the making following some dark days for the Sky Blues.",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-09-19T20:28:19.000Z",
+   "fetched_at": "2026-09-19T22:24:02.019Z",
+   "body": [
+    "Our briefing: Coventry City's win over Nottingham Forest - thanks to Jay Dasilva's goal - was a victory which was over 25 years in the making following some dark days for the Sky…",
+    "Coventry City's win over Nottingham Forest - thanks to Jay Dasilva's goal - was a victory which was over 25 years in the making following some dark days for the Sky Blues.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
+   "id": "bbc-olid-s-man-utd-take-big-step-forward-after-inten",
+   "slug": "olid-s-man-utd-take-big-step-forward-after-intense-week-inten",
+   "title": "Olid's Man Utd take big step forward after 'intense week'",
+   "dek": "A week ago, the picture at Manchester United looked bleak. Then on Saturday, victory was snatched away from them at Arsenal. But have we seen signs of improvement from…",
+   "description": "A week ago, the picture at Manchester United looked bleak. Then on Saturday, victory was snatched away from them at Arsenal. But have we seen signs of improvement from Eva Olid's side?",
+   "category": "Transfers & Rumours",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-09-19T20:21:11.000Z",
+   "fetched_at": "2026-09-19T22:24:02.019Z",
+   "body": [
+    "Our briefing: A week ago, the picture at Manchester United looked bleak. Then on Saturday, victory was snatched away from them at Arsenal. But have we seen signs of improvement from…",
+    "A week ago, the picture at Manchester United looked bleak. Then on Saturday, victory was snatched away from them at Arsenal. But have we seen signs of improvement from Eva Olid's side?",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Manchester_United_1908-09.jpg/960px-Manchester_United_1908-09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
   {
    "id": "bbc-moyes-demands-more-everton-but-don-t-mention-eur",
    "slug": "moyes-demands-more-from-everton-but-don-t-mention-europe-n-eur",
@@ -29,7 +195,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-19T19:48:28.000Z",
-   "fetched_at": "2026-09-19T20:09:31.670Z",
+   "fetched_at": "2026-09-19T22:24:02.020Z",
    "body": [
     "Our briefing: Fifth in the Premier League table and yet to lose this season, Everton are on the up, but boss David Moyes wants further improvements - and don't mention Europe.",
     "Fifth in the Premier League table and yet to lose this season, Everton are on the up, but boss David Moyes wants further improvements - and don't mention Europe.",
@@ -50,15 +216,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-19T19:43:27.000Z",
-   "fetched_at": "2026-09-19T20:09:31.672Z",
+   "fetched_at": "2026-09-19T22:24:02.022Z",
    "body": [
     "Our briefing: Bristol Rovers manager Steve Evans says he is 'not going anywhere' amid speculation linking him with the vacant role at Hibernian.",
     "Bristol Rovers manager Steve Evans says he is 'not going anywhere' amid speculation linking him with the vacant role at Hibernian.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "John Shorten — CC BY 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
   },
   {
    "id": "bbc-coventry-need-keep-feet-ground-after-landmark-wi",
@@ -71,36 +237,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-19T19:24:35.000Z",
-   "fetched_at": "2026-09-19T20:09:31.671Z",
+   "fetched_at": "2026-09-19T22:24:02.020Z",
    "body": [
     "Our briefing: Frank Lampard reacts to Coventry's \"landmark\" day after they earned their first top flight win in 25 years, beating Nottingham Forest 1-0 at the City Ground in the…",
     "Frank Lampard reacts to Coventry's \"landmark\" day after they earned their first top flight win in 25 years, beating Nottingham Forest 1-0 at the City Ground in the Premier League.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
-  },
-  {
-   "id": "guardian-european-football-mart-nez-double-gives-inter-co",
-   "slug": "european-football-mart-nez-double-gives-inter-comeback-draw--er-co",
-   "title": "European football: Martínez double gives Inter comeback draw at Roma",
-   "dek": "Roma lead 2-0 after Manu Koné’s first-half double Strasbourg fans abuse Liam Rosenior as Paris FC win Lautaro Martínez rode to Inter ’s rescue as the Serie A champions…",
-   "description": "Roma lead 2-0 after Manu Koné’s first-half double Strasbourg fans abuse Liam Rosenior as Paris FC win Lautaro Martínez rode to Inter ’s rescue as the Serie A champions fought back from two-down to force a 2-2 draw at Roma , in a meeting of what had been the last two sides with 100% records. Manu Koné’s double had given Roma a 2-0 lead at half-time but for the second time in a week Cristian Chivu’s side, inspired by Martínez, showed mettle as the champions fought back from such a deficit. Continue reading...",
-   "category": "Match Reports",
-   "league": "Serie A",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-09-19T19:24:33.000Z",
-   "fetched_at": "2026-09-19T20:09:31.889Z",
-   "body": [
-    "Our briefing: Roma lead 2-0 after Manu Koné’s first-half double Strasbourg fans abuse Liam Rosenior as Paris FC win Lautaro Martínez rode to Inter ’s rescue as the Serie A champions…",
-    "Roma lead 2-0 after Manu Koné’s first-half double Strasbourg fans abuse Liam Rosenior as Paris FC win Lautaro Martínez rode to Inter ’s rescue as the Serie A champions fought back from two-down to force a 2-2 draw at Roma , in a meeting of what had been the last two sides with 100% records. Manu Koné’s double had given Roma a 2-0 lead at half-time but for the second time in a week Cristian Chivu’s side, inspired by Martínez, showed mettle as the champions fought back from such a deficit. Continue reading...",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/1972%E2%80%9373_Serie_A_-_Inter_Milan_v_AC_Milan_-_Sabadini_scores.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": null
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "independent-whether-accident-or-design-thierno-barry-face-ne",
@@ -113,7 +258,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-19T19:22:59.000Z",
-   "fetched_at": "2026-09-19T20:09:31.980Z",
+   "fetched_at": "2026-09-19T22:24:02.503Z",
    "body": [
     "Our briefing: Everton 1-0 Ipswich: While others in the Premier League confused themselves with spending sprees, David Moyes’ side are making the most of what they have",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -133,7 +278,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-19T19:19:06.000Z",
-   "fetched_at": "2026-09-19T20:09:31.671Z",
+   "fetched_at": "2026-09-19T22:24:02.019Z",
    "body": [
     "Our briefing: Former Celtic captain Scott Brown believes a win for the Scottish champions against Rangers on Sunday \"changes the game\" after a turbulent week for Martin O'Neill's side.",
     "Former Celtic captain Scott Brown believes a win for the Scottish champions against Rangers on Sunday \"changes the game\" after a turbulent week for Martin O'Neill's side.",
@@ -154,7 +299,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-19T19:15:35.000Z",
-   "fetched_at": "2026-09-19T20:09:31.671Z",
+   "fetched_at": "2026-09-19T22:24:02.020Z",
    "body": [
     "Our briefing: BBC Final Score pundit Aaron McLean looks at the weekend's talking points in the EFL, including Wrexham, QPR and Bradford City.",
     "BBC Final Score pundit Aaron McLean looks at the weekend's talking points in the EFL, including Wrexham, QPR and Bradford City.",
@@ -163,6 +308,27 @@
    ],
    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-coventry-earn-first-points-season-dramatic-win-o",
+   "slug": "coventry-earn-first-points-of-season-in-dramatic-win-over-fo-win-o",
+   "title": "Coventry earn first points of season in dramatic win over Forest",
+   "dek": "Jay Dasilva's strike proves the difference as Coventry earn their first Premier League win since returning to the top flight.",
+   "description": "Jay Dasilva's strike proves the difference as Coventry earn their first Premier League win since returning to the top flight.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-09-19T19:14:53.000Z",
+   "fetched_at": "2026-09-19T22:24:02.018Z",
+   "body": [
+    "Our briefing: Jay Dasilva's strike proves the difference as Coventry earn their first Premier League win since returning to the top flight.",
+    "Jay Dasilva's strike proves the difference as Coventry earn their first Premier League win since returning to the top flight.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "bbc-coventry-win-first-points-season-dramatic-win-ov",
@@ -196,13 +362,13 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-19T19:10:35.000Z",
-   "fetched_at": "2026-09-19T20:09:31.980Z",
+   "fetched_at": "2026-09-19T22:24:02.503Z",
    "body": [
     "Our briefing: Spurs scored their first Premier League goals of the season but they were already 3-0 down to Villa at the Tottenham Hotspur Stadium",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Tottenham_v_Vitesse_Europa_Conference_League_at_Tottenham_Hotspur_Stadium.jpg/960px-Tottenham_v_Vitesse_Europa_Conference_League_at_Tottenham_Hotspur_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Tottenham_v_Vitesse_at_Tottenham_Hotspur_Stadium_2021.jpg/960px-Tottenham_v_Vitesse_at_Tottenham_Hotspur_Stadium_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Daniel (photos · photo sets) — CC BY 2.0"
   },
   {
@@ -216,7 +382,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-19T19:05:18.000Z",
-   "fetched_at": "2026-09-19T20:09:31.670Z",
+   "fetched_at": "2026-09-19T22:24:02.019Z",
    "body": [
     "Our briefing: An uncharacteristic performance from Arsenal saw the Gunners ship three goals in the defeat to Brighton - but could the loss be the \"big lesson\" they needed?",
     "An uncharacteristic performance from Arsenal saw the Gunners ship three goals in the defeat to Brighton - but could the loss be the \"big lesson\" they needed?",
@@ -237,7 +403,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-19T19:00:54.000Z",
-   "fetched_at": "2026-09-19T20:09:31.889Z",
+   "fetched_at": "2026-09-19T22:24:02.373Z",
    "body": [
     "Our briefing: It is apt that the most perplexing football country will now be guided by the most enigmatic of leaders Even in his playing days, Zinedine Zidane seemed unknowable. As a…",
     "It is apt that the most perplexing football country will now be guided by the most enigmatic of leaders Even in his playing days, Zinedine Zidane seemed unknowable. As a manager, the sense of distance has only grown. He won three Champions Leagues with Real Madrid without ever giving a sense of what his idea of football looked like.",
@@ -245,7 +411,7 @@
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
   },
   {
@@ -259,7 +425,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-19T19:00:21.000Z",
-   "fetched_at": "2026-09-19T20:09:31.670Z",
+   "fetched_at": "2026-09-19T22:24:02.018Z",
    "body": [
     "Our briefing: Unbeaten Everton move up to fifth in the Premier League, with Thierno Barry's goal making the difference against 10-man Ipswich Town.",
     "Unbeaten Everton move up to fifth in the Premier League, with Thierno Barry's goal making the difference against 10-man Ipswich Town.",
@@ -280,7 +446,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-19T19:00:14.000Z",
-   "fetched_at": "2026-09-19T20:09:31.670Z",
+   "fetched_at": "2026-09-19T22:24:02.018Z",
    "body": [
     "Our briefing: Newcastle United hold off a late Hull City fightback to seal a narrow 2-1 win.",
     "Newcastle United hold off a late Hull City fightback to seal a narrow 2-1 win.",
@@ -301,15 +467,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-19T19:00:02.000Z",
-   "fetched_at": "2026-09-19T20:09:31.670Z",
+   "fetched_at": "2026-09-19T22:24:02.018Z",
    "body": [
     "Our briefing: Aston Villa pick up their first win of the Premier League season after five matches, holding off a late push from a Tottenham Hotspur side who remain without a win in the…",
     "Aston Villa pick up their first win of the Premier League season after five matches, holding off a late push from a Tottenham Hotspur side who remain without a win in the league.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/CPSL_2005_semifinals_-_Esther_Shiner_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "Robin Glover — CC BY 4.0"
   },
   {
    "id": "independent-arsenal-left-stunned-brilliant-brighton-power-em",
@@ -322,14 +488,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-19T18:53:38.000Z",
-   "fetched_at": "2026-09-19T20:09:31.980Z",
+   "fetched_at": "2026-09-19T22:24:02.503Z",
    "body": [
     "Our briefing: Brighton 3-0 Arsenal: The Gunners’ perfect start to the season came to an abrupt halt",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Arsenal_Stadium_Highbury_east_facade.jpg/960px-Arsenal_Stadium_Highbury_east_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "No machine-readable author provided. Qwghlm~commonswiki assumed (based on copyright claims). — CC BY-SA 3.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Arsenal_Stadium_in_Tula.jpg/960px-Arsenal_Stadium_in_Tula.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "UMNICK — CC BY-SA 3.0"
   },
   {
    "id": "independent-coventry-end-25-year-wait-premier-league-win-aft",
@@ -342,30 +508,30 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-19T18:43:54.000Z",
-   "fetched_at": "2026-09-19T20:09:31.980Z",
+   "fetched_at": "2026-09-19T22:24:02.503Z",
    "body": [
     "Our briefing: Nottingham Forest 0-1 Coventry: The hosts thought they had rescued a point but Igor Jesus was ruled to have fouled Caleb Yirenkyi",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/CPSL_2005_semifinals_-_Esther_Shiner_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "Robin Glover — CC BY 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "guardian-holmberg-rescues-point-arsenal-but-manchester-un",
    "slug": "holmberg-rescues-point-for-arsenal-but-manchester-united-off-er-un",
    "title": "Holmberg rescues point for Arsenal but Manchester United off the mark in WSL",
-   "dek": "Arsenal were mightily relieved as a 95th-minute equaliser from Smilla Holmberg rescued them a point at home to a much-improved Manchester United side, but the draw will…",
-   "description": "Arsenal were mightily relieved as a 95th-minute equaliser from Smilla Holmberg rescued them a point at home to a much-improved Manchester United side, but the draw will not be enough to eradicate concerns about how far behind the leaders Manchester City they are slipping already. A defiant Manchester United stunned the north Londoners as Eva Olid’s side claimed the first point of her tenure with a performance that defied all of the pre-match scripts, but it was very nearly a victory, had it not been for Holmberg’s last-gasp back-post finish from Leah Williamson’s deep, diagonal ball into the box, which finally broke the visitors’ stubborn resistance. Continue reading...",
+   "dek": "Arsenal were mightily relieved as a 95th-minute Smilla Holmberg volley rescued a point at home to a much-improved Manchester United side, but the draw will not be enough…",
+   "description": "Arsenal were mightily relieved as a 95th-minute Smilla Holmberg volley rescued a point at home to a much-improved Manchester United side, but the draw will not be enough to eradicate concerns about how far behind the leaders Manchester City Renée Slegers’ team are slipping already and how frequently they seem to struggle to break down a low block. A defiant Manchester United stunned the north Londoners as Eva Olid’s side claimed the first point of her tenure with a performance that defied all of the pre-match scripts, but it was very nearly a victory, had it not been for Holmberg’s last-gasp back-post finish from Leah Williamson’s deep, diagonal ball into the box, which finally broke the visitors’ stubborn resistance. Continue reading...",
    "category": "Match Reports",
    "league": "Premier League",
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-19T18:42:26.000Z",
-   "fetched_at": "2026-09-19T20:09:31.889Z",
+   "fetched_at": "2026-09-19T22:24:02.373Z",
    "body": [
-    "Our briefing: Arsenal were mightily relieved as a 95th-minute equaliser from Smilla Holmberg rescued them a point at home to a much-improved Manchester United side, but the draw will…",
-    "Arsenal were mightily relieved as a 95th-minute equaliser from Smilla Holmberg rescued them a point at home to a much-improved Manchester United side, but the draw will not be enough to eradicate concerns about how far behind the leaders Manchester City they are slipping already. A defiant Manchester United stunned the north Londoners as Eva Olid’s side claimed the first point of her tenure with a performance that defied all of the pre-match scripts, but it was very nearly a victory, had it not been for Holmberg’s last-gasp back-post finish from Leah Williamson’s deep, diagonal ball into the box, which finally broke the visitors’ stubborn resistance. Continue reading...",
+    "Our briefing: Arsenal were mightily relieved as a 95th-minute Smilla Holmberg volley rescued a point at home to a much-improved Manchester United side, but the draw will not be enough…",
+    "Arsenal were mightily relieved as a 95th-minute Smilla Holmberg volley rescued a point at home to a much-improved Manchester United side, but the draw will not be enough to eradicate concerns about how far behind the leaders Manchester City Renée Slegers’ team are slipping already and how frequently they seem to struggle to break down a low block. A defiant Manchester United stunned the north Londoners as Eva Olid’s side claimed the first point of her tenure with a performance that defied all of the pre-match scripts, but it was very nearly a victory, had it not been for Holmberg’s last-gasp back-post finish from Leah Williamson’s deep, diagonal ball into the box, which finally broke the visitors’ stubborn resistance. Continue reading...",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
@@ -377,17 +543,17 @@
    "slug": "coventry-delight-in-jay-dasilva-winner-but-ruled-out-goal-ri-ed-ou",
    "title": "Coventry delight in Jay Dasilva winner but ruled-out goal riles Nottingham Forest",
    "dek": "No, but seriously. Maybe Frank Lampard and Coventry can achieve Premier League survival. The club’s first top-division win since April 2001 was celebrated rapturously,…",
-   "description": "No, but seriously. Maybe Frank Lampard and Coventry can achieve Premier League survival. The club’s first top-division win since April 2001 was celebrated rapturously, victory an object lesson in unsettling opponents for whom confidence can waver. Jay Dasilva’s excellent goal was built on the foundations laid by a battling defensive performance that must be replicated on a weekly basis. Coventry, dogged throughout, blunted Nottingham Forest’s creativity though could thank a late video assistant referee call that enraged the City Ground crowd. Lampard declared, with his broadest grin: “I feel great, I feel amazing.” Next, as is his way, back to serious business. “The reality in football is you have to fight for it, you have to work for it, you have to have organisation.” Continue reading...",
+   "description": "No, but seriously. Maybe Frank Lampard and Coventry can achieve Premier League survival. The club’s first top-division win since April 2001 was celebrated rapturously, victory an object lesson in unsettling opponents for whom confidence can waver. Jay Dasilva’s excellent goal was built on the foundations laid by a battling defensive performance that must be replicated on a weekly basis. Coventry, dogged throughout, blunted Nottingham Forest’s creativity, though could thank a late video assistant referee call that enraged the City Ground crowd. Lampard declared, with his broadest grin: “I feel great, I feel amazing.” Next, as is his way, back to serious business. “The reality in football is you have to fight for it, you have to work for it, you have to have organisation.” Continue reading...",
    "category": "Match Reports",
    "league": "Premier League",
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-19T18:40:46.000Z",
-   "fetched_at": "2026-09-19T20:09:31.889Z",
+   "fetched_at": "2026-09-19T22:24:02.373Z",
    "body": [
     "Our briefing: No, but seriously. Maybe Frank Lampard and Coventry can achieve Premier League survival. The club’s first top-division win since April 2001 was celebrated rapturously,…",
     "No, but seriously. Maybe Frank Lampard and Coventry can achieve Premier League survival. The club’s first top-division win since April 2001 was celebrated rapturously, victory an object lesson in unsettling opponents for whom confidence can waver.",
-    "Jay Dasilva’s excellent goal was built on the foundations laid by a battling defensive performance that must be replicated on a weekly basis. Coventry, dogged throughout, blunted Nottingham Forest’s creativity though could thank a late video assistant referee call that enraged the City Ground crowd. Lampard declared, with his broadest grin: “I feel great, I feel amazing.",
+    "Jay Dasilva’s excellent goal was built on the foundations laid by a battling defensive performance that must be replicated on a weekly basis. Coventry, dogged throughout, blunted Nottingham Forest’s creativity, though could thank a late video assistant referee call that enraged the City Ground crowd. Lampard declared, with his broadest grin: “I feel great, I feel amazing.",
     "” Next, as is his way, back to serious business. “The reality in football is you have to fight for it, you have to work for it, you have to have organisation. ” Continue reading...",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
@@ -406,7 +572,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-19T18:39:52.000Z",
-   "fetched_at": "2026-09-19T20:09:31.980Z",
+   "fetched_at": "2026-09-19T22:24:02.503Z",
    "body": [
     "Our briefing: Arsenal dropped points with a second consecutive draw",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -426,15 +592,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-19T18:17:02.000Z",
-   "fetched_at": "2026-09-19T20:09:31.671Z",
+   "fetched_at": "2026-09-19T22:24:02.020Z",
    "body": [
     "Our briefing: Peterborough United sack manager Luke Williams after Saturday's defeat at home by Doncaster leaves them second from bottom in League One.",
     "Peterborough United sack manager Luke Williams after Saturday's defeat at home by Doncaster leaves them second from bottom in League One.",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
    "id": "guardian-manchester-united-muslim-fans-group-calls-co-own",
@@ -447,7 +613,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-19T17:44:32.000Z",
-   "fetched_at": "2026-09-19T20:09:31.889Z",
+   "fetched_at": "2026-09-19T22:24:02.373Z",
    "body": [
     "Our briefing: Supporters’ club says billionaire should stand down after ‘completely unacceptable’ comments on the UK and empire Manchester United’s Muslim supporters’ Club (MUMSC) has…",
     "Supporters’ club says billionaire should stand down after ‘completely unacceptable’ comments on the UK and empire Manchester United’s Muslim supporters’ Club (MUMSC) has called for the Premier League side’s co-owner to step down after he made “completely unacceptable” comments during a BBC interview. Sir Jim Ratcliffe described the UK as being a country “on the slide” from the days when it had “the greatest empire in the world”. Continue reading...",
@@ -488,7 +654,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-19T17:37:13.000Z",
-   "fetched_at": "2026-09-19T20:09:31.671Z",
+   "fetched_at": "2026-09-19T22:24:02.020Z",
    "body": [
     "Our briefing: Melvine Malard scores on her WSL debut for Chelsea as the Blues run out as comfortable winners against Birmingham City at Stamford Bridge.",
     "Melvine Malard scores on her WSL debut for Chelsea as the Blues run out as comfortable winners against Birmingham City at Stamford Bridge.",
@@ -509,14 +675,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-19T17:29:31.000Z",
-   "fetched_at": "2026-09-19T20:09:31.980Z",
+   "fetched_at": "2026-09-19T22:24:02.503Z",
    "body": [
     "Our briefing: Brighton 3-0 Arsenal: The Premier League’s best attack keeps on firing as Fabian Hurzeler’s side continued their superb start to the season",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Arsenal_Stadium_in_Tula.jpg/960px-Arsenal_Stadium_in_Tula.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "UMNICK — CC BY-SA 3.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/West_Stand_entrance%2C_Arsenal_Stadium%2C_Highbury_-_geograph.org.uk_-_1967580.jpg/960px-West_Stand_entrance%2C_Arsenal_Stadium%2C_Highbury_-_geograph.org.uk_-_1967580.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Julian Osley — CC BY-SA 2.0"
   },
   {
    "id": "independent-millwall-goalkeeper-alleges-he-was-spat-west-ham",
@@ -529,7 +695,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-19T17:14:59.000Z",
-   "fetched_at": "2026-09-19T20:09:31.980Z",
+   "fetched_at": "2026-09-19T22:24:02.503Z",
    "body": [
     "Our briefing: Goalkeeper Filip Marschall alleged that he was spat at by the forward Taty during an altercation between the players in the second half",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -549,7 +715,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-19T17:06:14.000Z",
-   "fetched_at": "2026-09-19T20:09:31.980Z",
+   "fetched_at": "2026-09-19T22:24:02.503Z",
    "body": [
     "Our briefing: Joe Willock and Lewis Hall were on target for the hosts at St James’ Park",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -569,7 +735,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-19T17:01:07.000Z",
-   "fetched_at": "2026-09-19T20:09:31.889Z",
+   "fetched_at": "2026-09-19T22:24:02.373Z",
    "body": [
     "Our briefing: Tottenham lose 3-2 at home with two late goals ‘We can’t lose the game in this way,’ says manager Roberto De Zerbi tore into his failing Tottenham team after their 3-2…",
     "Tottenham lose 3-2 at home with two late goals ‘We can’t lose the game in this way,’ says manager Roberto De Zerbi tore into his failing Tottenham team after their 3-2 defeat by Aston Villa, saying “we can’t lose the game in this way”. The Italian headed straight down the tunnel at full time, but was once again forced to endure boos as Tottenham went into the three-week international break without a Premier League victory to their name and just two points on the board. De Zerbi criticised his team’s mentality, but also the physical condition of his players, and said the substitute Mohammed Kudus had disrupted the balance of his team.",
@@ -577,8 +743,8 @@
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   },
   {
    "id": "bbc-suzuki-proves-worthy-replacement-martinez-villa",
@@ -591,15 +757,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-19T16:58:29.000Z",
-   "fetched_at": "2026-09-19T20:09:31.671Z",
+   "fetched_at": "2026-09-19T22:24:02.020Z",
    "body": [
     "Our briefing: Aston Villa new boy Zion Suzuki deserves as much credit as anyone for their first Premier League win of the season at struggling Tottenham.",
     "Aston Villa new boy Zion Suzuki deserves as much credit as anyone for their first Premier League win of the season at struggling Tottenham.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
    "id": "bbc-it-s-big-lesson-learn-arteta-painful-brighton-de",
@@ -612,7 +778,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-19T16:50:50.000Z",
-   "fetched_at": "2026-09-19T20:09:31.671Z",
+   "fetched_at": "2026-09-19T22:24:02.020Z",
    "body": [
     "Our briefing: Arsenal manager Mikel Arteta says Arsenal were \"very far\" from the standards required to compete after the Gunners lost 3-0 to Brighton - their first defeat in the…",
     "Arsenal manager Mikel Arteta says Arsenal were \"very far\" from the standards required to compete after the Gunners lost 3-0 to Brighton - their first defeat in the Premier League this season.",
@@ -633,7 +799,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-19T16:48:03.000Z",
-   "fetched_at": "2026-09-19T20:09:31.980Z",
+   "fetched_at": "2026-09-19T22:24:02.503Z",
    "body": [
     "Our briefing: Rice lost his cool as he kicked out on Yalcouye in the final seconds of the 3-0 defeat",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -653,15 +819,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-19T16:43:38.000Z",
-   "fetched_at": "2026-09-19T20:09:31.671Z",
+   "fetched_at": "2026-09-19T22:24:02.020Z",
    "body": [
     "Our briefing: Brighton manager Fabian Hurzeler highlights his team's intensity, togetherness and squad depth following their resounding 3-0 win against Arsenal in the Premier League.",
     "Brighton manager Fabian Hurzeler highlights his team's intensity, togetherness and squad depth following their resounding 3-0 win against Arsenal in the Premier League.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/West_Stand_entrance%2C_Arsenal_Stadium%2C_Highbury_-_geograph.org.uk_-_1967580.jpg/960px-West_Stand_entrance%2C_Arsenal_Stadium%2C_Highbury_-_geograph.org.uk_-_1967580.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Julian Osley — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Former_Arsenal_Stadium_from_Conewood_Street%2C_Highbury_-_geograph.org.uk_-_2001231.jpg/960px-Former_Arsenal_Stadium_from_Conewood_Street%2C_Highbury_-_geograph.org.uk_-_2001231.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Jim Osley — CC BY-SA 2.0"
   },
   {
    "id": "independent-millwall-west-ham-arrest-update-after-400-police",
@@ -674,7 +840,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-19T16:42:28.000Z",
-   "fetched_at": "2026-09-19T20:09:31.980Z",
+   "fetched_at": "2026-09-19T22:24:02.503Z",
    "body": [
     "Our briefing: The Met Police threw a “ring of steel” at The Den on Saturday, to ensure there was no repeat of the violence which has marred this fixture in previous seasons",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -682,178 +848,6 @@
    ],
    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/West_Ham_Stadium_Store_in_2021.jpg/960px-West_Ham_Stadium_Store_in_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "CybJubal — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-near-oblivion-europe-brighton-celebrate-125th-an",
-   "slug": "from-near-oblivion-to-europe-brighton-celebrate-125th-annive-th-an",
-   "title": "From near oblivion to Europe - Brighton celebrate 125th anniversary in style",
-   "dek": "From obscurity and near oblivion to Premier League and Europe - Brighton celebrate their 125th anniversary.",
-   "description": "From obscurity and near oblivion to Premier League and Europe - Brighton celebrate their 125th anniversary.",
-   "category": "News",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-09-19T16:41:34.000Z",
-   "fetched_at": "2026-09-19T20:09:31.670Z",
-   "body": [
-    "Our briefing: From obscurity and near oblivion to Premier League and Europe - Brighton celebrate their 125th anniversary.",
-    "From obscurity and near oblivion to Premier League and Europe - Brighton celebrate their 125th anniversary.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/View_of_the_Brighton_and_Hove_Albion_FC_Amex_Stadium_from_The_Drove_-_geograph.org.uk_-_2717285.jpg/960px-View_of_the_Brighton_and_Hove_Albion_FC_Amex_Stadium_from_The_Drove_-_geograph.org.uk_-_2717285.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Robert Lamb — CC BY-SA 2.0"
-  },
-  {
-   "id": "guardian-european-football-frankfurt-clip-high-flying-fre",
-   "slug": "european-football-frankfurt-clip-high-flying-freiburg-s-wing-g-fre",
-   "title": "European football: Frankfurt clip high-flying Freiburg’s wings",
-   "dek": "Bundesliga pacesetters miss chance to go top West Ham loanee Füllkrug continues to shine Freiburg missed a chance to return to the top of the Bundesliga after being held…",
-   "description": "Bundesliga pacesetters miss chance to go top West Ham loanee Füllkrug continues to shine Freiburg missed a chance to return to the top of the Bundesliga after being held to a 2-2 draw at Eintracht Frankfurt . Bayern Munich’s ruthless 7-0 win over Union Berlin on Friday put the Bavarians ahead of Freiburg atop the table, but Freiburg dropped points for the first time this season as they remained second. Several new members of the Germany coach Jürgen Klopp’s 44-man squad shone on both sides in a see-sawing encounter. Frankfurt’s Younes Ebnoutalib finished off a lovely team move to score 10 minutes in, just days after celebrating a surprise maiden Germany call-up. Continue reading...",
-   "category": "Transfers & Rumours",
-   "league": "Football",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-09-19T16:35:46.000Z",
-   "fetched_at": "2026-09-19T17:48:44.058Z",
-   "body": [
-    "Our briefing: Bundesliga pacesetters miss chance to go top West Ham loanee Füllkrug continues to shine Freiburg missed a chance to return to the top of the Bundesliga after being held…",
-    "Bundesliga pacesetters miss chance to go top West Ham loanee Füllkrug continues to shine Freiburg missed a chance to return to the top of the Bundesliga after being held to a 2-2 draw at Eintracht Frankfurt . Bayern Munich’s ruthless 7-0 win over Union Berlin on Friday put the Bavarians ahead of Freiburg atop the table, but Freiburg dropped points for the first time this season as they remained second. Several new members of the Germany coach Jürgen Klopp’s 44-man squad shone on both sides in a see-sawing encounter.",
-    "Frankfurt’s Younes Ebnoutalib finished off a lovely team move to score 10 minutes in, just days after celebrating a surprise maiden Germany call-up. Continue reading...",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
-  },
-  {
-   "id": "guardian-everton-hold-off-ipswich-thanks-thierno-barry-go",
-   "slug": "everton-hold-off-ipswich-thanks-to-thierno-barry-goal-despit-ry-go",
-   "title": "Everton hold off Ipswich thanks to Thierno Barry goal despite VAR controversy",
-   "dek": "After the trials and tribulations of the transfer window, Everton can be content with fifth place, an unbeaten start and five clean sheets in seven games. There will also…",
-   "description": "After the trials and tribulations of the transfer window, Everton can be content with fifth place, an unbeaten start and five clean sheets in seven games. There will also be relief, for Pro Ref as well as David Moyes, that another controversial call from a video assistant referee did not impede their progress against Ipswich. Thierno Barry decided a close-fought contest with his fifth goal of the campaign. He should have had a sixth but an offside Brennan Johnson was adjudged to have impacted Ipswich goalkeeper Christian Walton’s ability to save a ball he made no attempt to save and was nowhere near saving. Unlike last weekend’s Manchester derby, however, referee Stuart Attwell’s decision would not prove decisive. The game turned in Everton’s favour minutes later when Abdul Fatawu received a second yellow card for diving but, having failed to kill off Gary O’Neil’s 10 men, they ended up hanging on. VAR was therefore spared Moyes’s wrath. Continue reading...",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-09-19T16:26:44.000Z",
-   "fetched_at": "2026-09-19T20:09:31.889Z",
-   "body": [
-    "Our briefing: After the trials and tribulations of the transfer window, Everton can be content with fifth place, an unbeaten start and five clean sheets in seven games. There will also…",
-    "After the trials and tribulations of the transfer window, Everton can be content with fifth place, an unbeaten start and five clean sheets in seven games. There will also be relief, for Pro Ref as well as David Moyes, that another controversial call from a video assistant referee did not impede their progress against Ipswich. Thierno Barry decided a close-fought contest with his fifth goal of the campaign.",
-    "He should have had a sixth but an offside Brennan Johnson was adjudged to have impacted Ipswich goalkeeper Christian Walton’s ability to save a ball he made no attempt to save and was nowhere near saving. Unlike last weekend’s Manchester derby, however, referee Stuart Attwell’s decision would not prove decisive. The game turned in Everton’s favour minutes later when Abdul Fatawu received a second yellow card for diving but, having failed to kill off Gary O’Neil’s 10 men, they ended up hanging on.",
-    "VAR was therefore spared Moyes’s wrath. Continue reading...",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/1939_1940_everton_team_photo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "Dr. David France — CC BY-SA 3.0"
-  },
-  {
-   "id": "bbc-castellanos-spitting-claim-overshadows-west-ham-",
-   "slug": "castellanos-spitting-claim-overshadows-west-ham-s-show-of-ch--ham-",
-   "title": "Castellanos spitting claim overshadows West Ham's show of character",
-   "dek": "Millwall keeper Filip Marshcall alleges he was spat at by West Ham forward Taty Castellanos during their 2-2 draw.",
-   "description": "Millwall keeper Filip Marshcall alleges he was spat at by West Ham forward Taty Castellanos during their 2-2 draw.",
-   "category": "Tactics & Analysis",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-09-19T16:18:21.000Z",
-   "fetched_at": "2026-09-19T20:09:31.671Z",
-   "body": [
-    "Our briefing: Millwall keeper Filip Marshcall alleges he was spat at by West Ham forward Taty Castellanos during their 2-2 draw.",
-    "Millwall keeper Filip Marshcall alleges he was spat at by West Ham forward Taty Castellanos during their 2-2 draw.",
-    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/West_Ham_United_FC_stadium_Inside.jpg/960px-West_Ham_United_FC_stadium_Inside.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Sustain Health Magazine — CC BY-SA 4.0"
-  },
-  {
-   "id": "guardian-newcastle-back-winning-ways-willock-hall-end-hul",
-   "slug": "newcastle-back-to-winning-ways-as-willock-and-hall-end-hull--d-hul",
-   "title": "Newcastle back to winning ways as Willock and Hall end Hull’s unbeaten start",
-   "dek": "Hull always knew, sooner or later, they would lose a Premier League game, but no one can say they did not do everything in their power to try to delay that inaugural…",
-   "description": "Hull always knew, sooner or later, they would lose a Premier League game, but no one can say they did not do everything in their power to try to delay that inaugural top-tier defeat. After conceding two goals in the opening seven minutes, Hull could easily have folded but they are made of sterner stuff than that. Tellingly, they also sensed the inherent fragility of a gifted, but injury-hit and extremely youthful Newcastle. Continue reading...",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-09-19T16:14:51.000Z",
-   "fetched_at": "2026-09-19T20:09:31.889Z",
-   "body": [
-    "Our briefing: Hull always knew, sooner or later, they would lose a Premier League game, but no one can say they did not do everything in their power to try to delay that inaugural…",
-    "Hull always knew, sooner or later, they would lose a Premier League game, but no one can say they did not do everything in their power to try to delay that inaugural top-tier defeat. After conceding two goals in the opening seven minutes, Hull could easily have folded but they are made of sterner stuff than that. Tellingly, they also sensed the inherent fragility of a gifted, but injury-hit and extremely youthful Newcastle.",
-    "Continue reading...",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Fulham_v_Newcastle_United_24052026_%281%29.jpg/960px-Fulham_v_Newcastle_United_24052026_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "guardian-brighton-demolish-champions-arsenal-3-0-mark-ann",
-   "slug": "brighton-demolish-champions-arsenal-3-0-to-mark-anniversary--k-ann",
-   "title": "Brighton demolish champions Arsenal 3-0 to mark anniversary in style",
-   "dek": "So much for the new Invincibles. Arsenal were brought back down to earth with a shuddering bump by a scintillating display from Brighton as Fabian Hürzeler’s vibrant side…",
-   "description": "So much for the new Invincibles. Arsenal were brought back down to earth with a shuddering bump by a scintillating display from Brighton as Fabian Hürzeler’s vibrant side celebrated the club’s 125th anniversary in style. The special edition shirts they wore to mark the occasion will end up being collector’s items after the Premier League champions were ripped apart. Arsenal were attempting to record an eighth successive victory in all competitions to start the new campaign for the first time since 1903 when they were still known as Woolwich Arsenal. Continue reading...",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-09-19T16:06:47.000Z",
-   "fetched_at": "2026-09-19T20:09:31.889Z",
-   "body": [
-    "Our briefing: So much for the new Invincibles. Arsenal were brought back down to earth with a shuddering bump by a scintillating display from Brighton as Fabian Hürzeler’s vibrant side…",
-    "So much for the new Invincibles. Arsenal were brought back down to earth with a shuddering bump by a scintillating display from Brighton as Fabian Hürzeler’s vibrant side celebrated the club’s 125th anniversary in style. The special edition shirts they wore to mark the occasion will end up being collector’s items after the Premier League champions were ripped apart.",
-    "Arsenal were attempting to record an eighth successive victory in all competitions to start the new campaign for the first time since 1903 when they were still known as Woolwich Arsenal. Continue reading...",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Arsenal_Soccer_School_-_Ciutat_de_Torrent.jpg/960px-Arsenal_Soccer_School_-_Ciutat_de_Torrent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Jo sóc de torrent — CC BY-SA 2.0"
-  },
-  {
-   "id": "independent-man-united-fan-group-says-sir-jim-ratcliffe-must",
-   "slug": "man-united-fan-group-says-sir-jim-ratcliffe-must-go-after-an--must",
-   "title": "Man United fan group says Sir Jim Ratcliffe ‘must go’ after anti-immigration comments",
-   "dek": "The billionaire Manchester United owner described the UK as ‘on the slide’",
-   "description": "The billionaire Manchester United owner described the UK as ‘on the slide’",
-   "category": "News",
-   "league": "Football",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-09-19T15:56:25.000Z",
-   "fetched_at": "2026-09-19T20:09:31.980Z",
-   "body": [
-    "Our briefing: The billionaire Manchester United owner described the UK as ‘on the slide’",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-no-revival-sight-fragile-spurs-after-villa-defea",
-   "slug": "no-revival-in-sight-for-fragile-spurs-after-villa-defeat-defea",
-   "title": "No revival in sight for 'fragile' Spurs after Villa defeat",
-   "dek": "Tottenham look no closer to solving their problems as they slip to a home defeat by Aston Villa to add to their Premier League misery.",
-   "description": "Tottenham look no closer to solving their problems as they slip to a home defeat by Aston Villa to add to their Premier League misery.",
-   "category": "Match Reports",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-09-19T15:33:20.000Z",
-   "fetched_at": "2026-09-19T20:09:31.670Z",
-   "body": [
-    "Our briefing: Tottenham look no closer to solving their problems as they slip to a home defeat by Aston Villa to add to their Premier League misery.",
-    "Tottenham look no closer to solving their problems as they slip to a home defeat by Aston Villa to add to their Premier League misery.",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   }
  ]
 }
