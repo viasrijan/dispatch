@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-19T06:20:39.783Z",
- "updated_utc": "2026-09-19T06:20Z",
- "cycle": 29829980,
+ "generated_at": "2026-09-19T11:21:04.719Z",
+ "updated_utc": "2026-09-19T11:21Z",
+ "cycle": 29830281,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,8 +16,242 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "bbc-we-re-unpredictable-andrews-delighted-brilliant-",
+ "hero_id": "bbc-postponement-not-option-kenya-races-be-ready-afc",
  "articles": [
+  {
+   "id": "guardian-police-high-alert-before-millwall-v-west-ham-int",
+   "slug": "police-on-high-alert-before-millwall-v-west-ham-inter-legend-m-int",
+   "title": "Police on high alert before Millwall v West Ham, Inter legend Mazzola dies – matchday live",
+   "dek": "News, discussion and updates before Saturday’s games This weekend’s fixtures | Tables | Mail us your thoughts Regarding Trent Alexander-Arnold’s England recall , here’s…",
+   "description": "News, discussion and updates before Saturday’s games This weekend’s fixtures | Tables | Mail us your thoughts Regarding Trent Alexander-Arnold’s England recall , here’s what Tuchel had to say … … and here is Sid Lowe’s analysis , the view from Spain: Thomas Tuchel said Trent Alexander Arnold had enjoyed a good start to the season, which came as news to those in England who have not been watching him at Real Madrid . It also, in truth, came as news to those in Spain who have. If the England manager did not see enough in Alexander-Arnold to include him in the World Cup in the summer he has not really had the chance to see enough to change that decision as autumn begins. Two unremarkable league starts provide insufficient evidence with which to make a case for the full-back’s recall, or indeed his exclusion, but he is in the squad. Continue reading...",
+   "category": "Tactics & Analysis",
+   "league": "Premier League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-09-19T11:09:14.000Z",
+   "fetched_at": "2026-09-19T11:20:53.924Z",
+   "body": [
+    "Our briefing: News, discussion and updates before Saturday’s games This weekend’s fixtures | Tables | Mail us your thoughts Regarding Trent Alexander-Arnold’s England recall , here’s…",
+    "News, discussion and updates before Saturday’s games This weekend’s fixtures | Tables | Mail us your thoughts Regarding Trent Alexander-Arnold’s England recall , here’s what Tuchel had to say … … and here is Sid Lowe’s analysis , the view from Spain: Thomas Tuchel said Trent Alexander Arnold had enjoyed a good start to the season, which came as news to those in England who have not been watching him at Real Madrid . It also, in truth, came as news to those in Spain who have. If the England manager did not see enough in Alexander-Arnold to include him in the World Cup in the summer he has not really had the chance to see enough to change that decision as autumn begins.",
+    "Two unremarkable league starts provide insufficient evidence with which to make a case for the full-back’s recall, or indeed his exclusion, but he is in the squad. Continue reading...",
+    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/London_Olympic_Stadium_West_Ham.jpg/960px-London_Olympic_Stadium_West_Ham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
+  },
+  {
+   "id": "guardian-tottenham-v-aston-villa-premier-league-live",
+   "slug": "tottenham-v-aston-villa-premier-league-live--live",
+   "title": "Tottenham v Aston Villa: Premier League – live",
+   "dek": "⚽️ Premier League updates from 12.30pm (BST) ⚽️ Today’s fixtures | Send Daniel your thoughts via email Alejandro Garnacho’s difficult start to life at Villa continues.…",
+   "description": "⚽️ Premier League updates from 12.30pm (BST) ⚽️ Today’s fixtures | Send Daniel your thoughts via email Alejandro Garnacho’s difficult start to life at Villa continues. The on-loan Chelsea winger has played only 31 minutes this season and is back on the bench against Tottenham, with Unai Emery preferring Johan Manzambi from the start. Continue reading...",
+   "category": "Transfers & Rumours",
+   "league": "Premier League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-09-19T11:04:50.000Z",
+   "fetched_at": "2026-09-19T11:20:53.924Z",
+   "body": [
+    "Our briefing: ⚽️ Premier League updates from 12.30pm (BST) ⚽️ Today’s fixtures | Send Daniel your thoughts via email Alejandro Garnacho’s difficult start to life at Villa continues.…",
+    "⚽️ Premier League updates from 12. 30pm (BST) ⚽️ Today’s fixtures | Send Daniel your thoughts via email Alejandro Garnacho’s difficult start to life at Villa continues. The on-loan Chelsea winger has played only 31 minutes this season and is back on the bench against Tottenham, with Unai Emery preferring Johan Manzambi from the start.",
+    "Continue reading...",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/The_South_Stand_of_Tottenham_Hotspur%27s_football_stadium_-_geograph.org.uk_-_2167351.jpg/960px-The_South_Stand_of_Tottenham_Hotspur%27s_football_stadium_-_geograph.org.uk_-_2167351.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Bill Boaden — CC BY-SA 2.0"
+  },
+  {
+   "id": "bbc-why-black-country-derby-means-so-much-wolves-wes",
+   "slug": "why-the-black-country-derby-means-so-much-to-wolves-and-west-s-wes",
+   "title": "Why the Black Country derby means so much to Wolves and West Brom",
+   "dek": "Wolves and West Bromwich Albion meet for the first time in a Black Country derby for the first time in the league since May 2021.",
+   "description": "Wolves and West Bromwich Albion meet for the first time in a Black Country derby for the first time in the league since May 2021.",
+   "category": "Tactics & Analysis",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-09-19T10:43:41.000Z",
+   "fetched_at": "2026-09-19T11:20:53.766Z",
+   "body": [
+    "Our briefing: Wolves and West Bromwich Albion meet for the first time in a Black Country derby for the first time in the league since May 2021.",
+    "Wolves and West Bromwich Albion meet for the first time in a Black Country derby for the first time in the league since May 2021.",
+    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Wolverhampton_Wanderers_-_Dec_2014.jpg/960px-Wolverhampton_Wanderers_-_Dec_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Gareth Williams — CC BY 2.0"
+  },
+  {
+   "id": "bbc-postponement-not-option-kenya-races-be-ready-afc",
+   "slug": "postponement-not-an-option-as-kenya-races-to-be-ready-for-af-y-afc",
+   "title": "Postponement not an option as Kenya races to be ready for Afcon 2027",
+   "dek": "African football boss Patrice Motsepe wants a \"heightened sense of urgency\" from Afcon 2027 co-hosts Kenya, Tanzania and Uganda as they face a race to be ready.",
+   "description": "African football boss Patrice Motsepe wants a \"heightened sense of urgency\" from Afcon 2027 co-hosts Kenya, Tanzania and Uganda as they face a race to be ready.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-09-19T10:24:01.000Z",
+   "fetched_at": "2026-09-19T11:20:53.766Z",
+   "body": [
+    "Our briefing: African football boss Patrice Motsepe wants a \"heightened sense of urgency\" from Afcon 2027 co-hosts Kenya, Tanzania and Uganda as they face a race to be ready.",
+    "African football boss Patrice Motsepe wants a \"heightened sense of urgency\" from Afcon 2027 co-hosts Kenya, Tanzania and Uganda as they face a race to be ready.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "John Shorten — CC BY 4.0"
+  },
+  {
+   "id": "independent-harry-kane-smashes-49-year-bundesliga-record-bra",
+   "slug": "harry-kane-smashes-49-year-bundesliga-record-with-brace-for--d-bra",
+   "title": "Harry Kane smashes 49-year Bundesliga record with brace for Bayern Munich",
+   "dek": "Since his arrival in 2023, Kane had been averaging a Bundesliga goal every 78.5 minutes",
+   "description": "Since his arrival in 2023, Kane had been averaging a Bundesliga goal every 78.5 minutes",
+   "category": "News",
+   "league": "Bundesliga",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-09-19T10:00:36.000Z",
+   "fetched_at": "2026-09-19T11:20:53.979Z",
+   "body": [
+    "Our briefing: Since his arrival in 2023, Kane had been averaging a Bundesliga goal every 78.5 minutes",
+    "Since his arrival in 2023, Kane had been averaging a Bundesliga goal every 78.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Allianz_Arena_Bayern_Munich_soccer-stadion_%28450603187%29.jpg/960px-Allianz_Arena_Bayern_Munich_soccer-stadion_%28450603187%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Depeche Mode *wrong* — CC BY 2.0"
+  },
+  {
+   "id": "independent-arsenal-open-max-dowman-loan-move-after-teenager",
+   "slug": "arsenal-open-to-max-dowman-loan-move-after-teenager-s-impres-nager",
+   "title": "Arsenal open to Max Dowman loan move after teenager’s impressive start to season",
+   "dek": "The teenage winger, who scored twice against Ipswich in the Carabao Cup, has been linked with a January switch to Luton",
+   "description": "The teenage winger, who scored twice against Ipswich in the Carabao Cup, has been linked with a January switch to Luton",
+   "category": "Transfers & Rumours",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-09-19T08:51:56.000Z",
+   "fetched_at": "2026-09-19T11:20:53.979Z",
+   "body": [
+    "Our briefing: The teenage winger, who scored twice against Ipswich in the Carabao Cup, has been linked with a January switch to Luton",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg/960px-Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
+   "id": "bbc-former-ivory-coast-boss-fae-eyes-hibs-job-gossip",
+   "slug": "former-ivory-coast-boss-fae-eyes-hibs-job-gossip-ossip",
+   "title": "'Former Ivory Coast boss Fae eyes Hibs job' - gossip",
+   "dek": "Former Ivory Coast head coach Emerse Fae is reportedly interested in the Hibernian job as speculation abounds over Martin O'Neill's future with Celtic.",
+   "description": "Former Ivory Coast head coach Emerse Fae is reportedly interested in the Hibernian job as speculation abounds over Martin O'Neill's future with Celtic.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-09-19T08:17:18.000Z",
+   "fetched_at": "2026-09-19T11:20:53.769Z",
+   "body": [
+    "Our briefing: Former Ivory Coast head coach Emerse Fae is reportedly interested in the Hibernian job as speculation abounds over Martin O'Neill's future with Celtic.",
+    "Former Ivory Coast head coach Emerse Fae is reportedly interested in the Hibernian job as speculation abounds over Martin O'Neill's future with Celtic.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+  },
+  {
+   "id": "independent-why-andoni-iraola-returns-bournemouth-something-",
+   "slug": "why-andoni-iraola-returns-to-bournemouth-with-something-stil-hing-",
+   "title": "Why Andoni Iraola returns to Bournemouth with something still to prove",
+   "dek": "Iraola’s tenure with the Cherries took them to another level but he must now show he can do the same with Liverpool when his new club face off against his old this…",
+   "description": "Iraola’s tenure with the Cherries took them to another level but he must now show he can do the same with Liverpool when his new club face off against his old this weekend",
+   "category": "Tactics & Analysis",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-09-19T08:08:00.000Z",
+   "fetched_at": "2026-09-19T11:20:53.979Z",
+   "body": [
+    "Our briefing: Iraola’s tenure with the Cherries took them to another level but he must now show he can do the same with Liverpool when his new club face off against his old this…",
+    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Bournemouth_v_West_Ham_2023_line_up.jpeg/960px-Bournemouth_v_West_Ham_2023_line_up.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Egghead06 — CC BY-SA 4.0"
+  },
+  {
+   "id": "guardian-heat-carrick-but-wilcox-must-share-blame-manches",
+   "slug": "heat-is-on-carrick-but-wilcox-must-share-blame-for-mancheste-nches",
+   "title": "Heat is on Carrick but Wilcox must share blame for Manchester United’s woes",
+   "dek": "Recruitment is under scrutiny after £155m was spent on three midfielders while other positions were neglected There was a mix of boos and apathy as Manchester United…",
+   "description": "Recruitment is under scrutiny after £155m was spent on three midfielders while other positions were neglected There was a mix of boos and apathy as Manchester United slumped out of the Carabao Cup on Wednesday in their latest depressing act in domestic cup competitions. A solemn Michael Carrick and his players were the target for the jeers. The director of football, Jason Wilcox, looked unamused on his way out of the directors’ box but he and the hierarchy need to accept responsibility for their actions. This is the natural course of football, where supporters know what is good or bad and give a rapid opinion to those whose wages they deem they pay. Carrick and his charges are the face of the club, the ones put up to speak with journalists and sent to promote the wares of sponsors. Continue reading...",
+   "category": "News",
+   "league": "Premier League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-09-19T07:00:41.000Z",
+   "fetched_at": "2026-09-19T11:20:53.924Z",
+   "body": [
+    "Our briefing: Recruitment is under scrutiny after £155m was spent on three midfielders while other positions were neglected There was a mix of boos and apathy as Manchester United…",
+    "Recruitment is under scrutiny after £155m was spent on three midfielders while other positions were neglected There was a mix of boos and apathy as Manchester United slumped out of the Carabao Cup on Wednesday in their latest depressing act in domestic cup competitions. A solemn Michael Carrick and his players were the target for the jeers. The director of football, Jason Wilcox, looked unamused on his way out of the directors’ box but he and the hierarchy need to accept responsibility for their actions.",
+    "This is the natural course of football, where supporters know what is good or bad and give a rapid opinion to those whose wages they deem they pay. Carrick and his charges are the face of the club, the ones put up to speak with journalists and sent to promote the wares of sponsors. Continue reading...",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Manchester_United_Old_Trafford.jpg/960px-Manchester_United_Old_Trafford.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
+  },
+  {
+   "id": "guardian-andoni-iraola-makes-bournemouth-return-still-lea",
+   "slug": "andoni-iraola-makes-bournemouth-return-still-learning-on-the-l-lea",
+   "title": "Andoni Iraola makes Bournemouth return still learning on the job at Liverpool",
+   "dek": "Making big decisions and turning draws into wins is vital as head coach looks to improve on a mixed start with Reds Alisson made little attempt to sugarcoat Liverpool’s…",
+   "description": "Making big decisions and turning draws into wins is vital as head coach looks to improve on a mixed start with Reds Alisson made little attempt to sugarcoat Liverpool’s unbeaten start to the season under Andoni Iraola when analysing the draw against Fulham with the club’s in-house media. “Unbeaten with three draws is not something to celebrate too much with this shirt,” said a peeved Liverpool goalkeeper. “We take the clean sheet but we are not happy at all. We need to aim for big things.” Big things are the target and big things are expected from a Liverpool side containing three £100m-plus forwards. But the learning curve under the new head coach is proving challenging. As it is for the new head coach, too. Big decisions appear unavoidable. Continue reading...",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-09-19T07:00:40.000Z",
+   "fetched_at": "2026-09-19T11:20:53.924Z",
+   "body": [
+    "Our briefing: Making big decisions and turning draws into wins is vital as head coach looks to improve on a mixed start with Reds Alisson made little attempt to sugarcoat Liverpool’s…",
+    "Making big decisions and turning draws into wins is vital as head coach looks to improve on a mixed start with Reds Alisson made little attempt to sugarcoat Liverpool’s unbeaten start to the season under Andoni Iraola when analysing the draw against Fulham with the club’s in-house media. “Unbeaten with three draws is not something to celebrate too much with this shirt,” said a peeved Liverpool goalkeeper. “We take the clean sheet but we are not happy at all.",
+    "We need to aim for big things. ” Big things are the target and big things are expected from a Liverpool side containing three £100m-plus forwards. But the learning curve under the new head coach is proving challenging.",
+    "As it is for the new head coach, too. Big decisions appear unavoidable. Continue reading...",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Galatasaray_Liverpool_CL_2006.jpg/960px-Galatasaray_Liverpool_CL_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "tekinim — CC BY 2.0"
+  },
+  {
+   "id": "bbc-near-oblivion-europe-brighton-celebrate-125th-an",
+   "slug": "from-near-oblivion-to-europe-brighton-celebrate-125th-annive-th-an",
+   "title": "From near oblivion to Europe - Brighton celebrate 125th anniversary",
+   "dek": "From obscurity and near oblivion to Premier League and Europe - Brighton celebrate their 125th anniversary.",
+   "description": "From obscurity and near oblivion to Premier League and Europe - Brighton celebrate their 125th anniversary.",
+   "category": "News",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-09-19T06:30:32.000Z",
+   "fetched_at": "2026-09-19T11:20:53.766Z",
+   "body": [
+    "Our briefing: From obscurity and near oblivion to Premier League and Europe - Brighton celebrate their 125th anniversary.",
+    "From obscurity and near oblivion to Premier League and Europe - Brighton celebrate their 125th anniversary.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/View_of_the_Brighton_and_Hove_Albion_FC_Amex_Stadium_from_The_Drove_-_geograph.org.uk_-_2717285.jpg/960px-View_of_the_Brighton_and_Hove_Albion_FC_Amex_Stadium_from_The_Drove_-_geograph.org.uk_-_2717285.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Robert Lamb — CC BY-SA 2.0"
+  },
   {
    "id": "bbc-flex-your-football-brain-our-daily-quizzes",
    "slug": "flex-your-football-brain-with-our-daily-quizzes-izzes",
@@ -29,15 +263,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-19T05:39:43.000Z",
-   "fetched_at": "2026-09-19T06:20:32.131Z",
+   "fetched_at": "2026-09-19T11:20:53.766Z",
    "body": [
     "Our briefing: Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
     "Test your ball knowledge against today's Who Am I? , Five in Five and Brainteaser.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "John Shorten — CC BY 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "bbc-winless-villa-spurs-face-telling-early-showdown",
@@ -71,7 +305,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-18T22:42:10.000Z",
-   "fetched_at": "2026-09-19T06:20:32.132Z",
+   "fetched_at": "2026-09-19T11:20:53.767Z",
    "body": [
     "Our briefing: Brentford manager Keith Andrews is full of praise after a resounding 3-0 win against West London rivals Chelsea, branding them \"brilliant\" following a unbeaten start to…",
     "Brentford manager Keith Andrews is full of praise after a resounding 3-0 win against West London rivals Chelsea, branding them \"brilliant\" following a unbeaten start to the Premier League campaign.",
@@ -92,14 +326,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-18T22:39:24.000Z",
-   "fetched_at": "2026-09-19T06:20:32.131Z",
+   "fetched_at": "2026-09-19T11:20:53.765Z",
    "body": [
     "Our briefing: Chelsea's problem was defending, but with Joao Pedro ruled out through injury, scoring goals has also become an issue.",
     "Chelsea's problem was defending, but with Joao Pedro ruled out through injury, scoring goals has also become an issue.",
     "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Chelsea_Football_Club%2C_Stamford_Bridge_%28Ank_kumar%29_06.jpg/960px-Chelsea_Football_Club%2C_Stamford_Bridge_%28Ank_kumar%29_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Chelsea_Football_Club%2C_Stamford_Bridge_%28Ank_kumar%29_08.jpg/960px-Chelsea_Football_Club%2C_Stamford_Bridge_%28Ank_kumar%29_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ank kumar — CC BY-SA 4.0"
   },
   {
@@ -113,7 +347,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-18T22:34:20.000Z",
-   "fetched_at": "2026-09-19T06:20:32.132Z",
+   "fetched_at": "2026-09-19T11:20:53.767Z",
    "body": [
     "Our briefing: HHarry Kane makes history by becoming the fastest player to reach 100 Bundesliga goals in his 98th game, while Michael Olise nets a hat-trick as Bayern Munich thrash…",
     "HHarry Kane makes history by becoming the fastest player to reach 100 Bundesliga goals in his 98th game, while Michael Olise nets a hat-trick as Bayern Munich thrash Union Berlin 7-0.",
@@ -134,15 +368,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-18T22:06:52.000Z",
-   "fetched_at": "2026-09-19T06:20:32.132Z",
+   "fetched_at": "2026-09-19T11:20:53.767Z",
    "body": [
     "Our briefing: Man City come out on top of a thrilling WSL encounter against Liverpool, requiring two goals in the closing stages of the game to seal a 4-2 win, their third victory in…",
     "Man City come out on top of a thrilling WSL encounter against Liverpool, requiring two goals in the closing stages of the game to seal a 4-2 win, their third victory in three league fixtures so far this season.",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Galatasaray_Liverpool_CL_2006.jpg/960px-Galatasaray_Liverpool_CL_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "tekinim — CC BY 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Elftal_van_Liverpool%2C_Bestanddeelnr_919-7002.jpg/960px-Elftal_van_Liverpool%2C_Bestanddeelnr_919-7002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "guardian-harry-kane-smashes-record-fastest-100-bundesliga",
@@ -155,7 +389,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-18T22:04:40.000Z",
-   "fetched_at": "2026-09-19T06:20:32.402Z",
+   "fetched_at": "2026-09-19T11:20:53.924Z",
    "body": [
     "Our briefing: Kane double helps Bayern Munich beat Union Berlin 7-0 Dieter Müller’s record of 129 games had stood since 1977 Harry Kane smashed the 49-year-old record for the fastest…",
     "Kane double helps Bayern Munich beat Union Berlin 7-0 Dieter Müller’s record of 129 games had stood since 1977 Harry Kane smashed the 49-year-old record for the fastest player to score 100 Bundesliga goals in Bayern Munich’s 7-0 victory over Union Berlin, his 98th league game for the club. Cologne’s Dieter Müller set the previous mark in 1977, but it took him 129 matches and, with the England captain scoring at better than a goal a game, a new record had been inevitable for some time. Since his arrival in 2023 Kane had been averaging a Bundesliga goal every 78.",
@@ -177,7 +411,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-18T22:00:19.000Z",
-   "fetched_at": "2026-09-19T06:20:32.131Z",
+   "fetched_at": "2026-09-19T11:20:53.766Z",
    "body": [
     "Our briefing: Brentford maintain their unbeaten start in the Premier League as they score three second-half goals to beat Chelsea 3-0 at the Gtech Community Stadium.",
     "Brentford maintain their unbeaten start in the Premier League as they score three second-half goals to beat Chelsea 3-0 at the Gtech Community Stadium.",
@@ -198,7 +432,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-18T21:35:44.000Z",
-   "fetched_at": "2026-09-19T06:20:32.132Z",
+   "fetched_at": "2026-09-19T11:20:53.767Z",
    "body": [
     "Our briefing: 'Everything was disappointing' - Alonso on Brentford defeat",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -206,26 +440,6 @@
    ],
    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Line-up_at_the_Brentford_v_Nottingham_Forest_football_match_on_21_December_2024_at_Brentford_Community_Stadium.jpg/960px-Line-up_at_the_Brentford_v_Nottingham_Forest_football_match_on_21_December_2024_at_Brentford_Community_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Jim Linwood — CC BY 2.0"
-  },
-  {
-   "id": "independent-why-andoni-iraola-returns-bournemouth-something-",
-   "slug": "why-andoni-iraola-returns-to-bournemouth-with-something-stil-hing-",
-   "title": "Why Andoni Iraola returns to Bournemouth with something still to prove",
-   "dek": "Iraola’s tenure with the Cherries took them to another level but he must now show he can do the same with Liverpool when his new club face off against his old this…",
-   "description": "Iraola’s tenure with the Cherries took them to another level but he must now show he can do the same with Liverpool when his new club face off against his old this weekend",
-   "category": "Tactics & Analysis",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-09-18T21:30:41.000Z",
-   "fetched_at": "2026-09-19T06:20:32.517Z",
-   "body": [
-    "Our briefing: Iraola’s tenure with the Cherries took them to another level but he must now show he can do the same with Liverpool when his new club face off against his old this…",
-    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Bournemouth_v_West_Ham_2023.jpeg/960px-Bournemouth_v_West_Ham_2023.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Egghead06 — CC BY-SA 4.0"
   },
   {
    "id": "bbc-arsenal-open-dowman-loan-right-circumstances",
@@ -238,14 +452,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-18T21:30:38.000Z",
-   "fetched_at": "2026-09-19T06:20:32.131Z",
+   "fetched_at": "2026-09-19T11:20:53.766Z",
    "body": [
     "Our briefing: Arsenal are open to allowing teenage prodigy Max Dowman to leave the club on loan this term if it aids his development.",
     "Arsenal are open to allowing teenage prodigy Max Dowman to leave the club on loan this term if it aids his development.",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg/960px-Land_transfer_to_town_of_Watertown_of_certain_arsenal_property%2C_15_Aug_68_-_DPLA_-_bba2dd9976f09e5230fdc303b496e31a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/NDL11904200_Notice_of_Transfer_of_Equipment_Report_%28Shirahama_Arsenal%2C_Osaka_Arsenal%2C_etc.%29_part2.pdf/page1-960px-NDL11904200_Notice_of_Transfer_of_Equipment_Report_%28Shirahama_Arsenal%2C_Osaka_Arsenal%2C_etc.%29_part2.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
   },
   {
@@ -259,14 +473,14 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-18T21:30:28.000Z",
-   "fetched_at": "2026-09-19T06:20:32.403Z",
+   "fetched_at": "2026-09-19T11:20:53.924Z",
    "body": [
     "Our briefing: United head coach believes it will take ‘a lot longer than one or two’ setbacks before he is concerned about his job Continue reading...",
     "United head coach believes it will take ‘a lot longer than one or two’ setbacks before he is concerned about his job Continue reading...",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -280,7 +494,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-18T21:23:21.000Z",
-   "fetched_at": "2026-09-19T06:20:32.517Z",
+   "fetched_at": "2026-09-19T11:20:53.979Z",
    "body": [
     "Our briefing: Brentford 3-0 Chelsea: Jaidon Anthony, Igor Thiago and Fabio Carvalho were on the scoresheet in the second half at the Gtech Community Stadium",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -300,7 +514,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-18T21:12:38.000Z",
-   "fetched_at": "2026-09-19T06:20:32.402Z",
+   "fetched_at": "2026-09-19T11:20:53.924Z",
    "body": [
     "Our briefing: Those early-season thoughts that Chelsea might be the team best-placed to challenge Arsenal are beginning to look extremely over-optimistic. The two chaotic wins with…",
     "Those early-season thoughts that Chelsea might be the team best-placed to challenge Arsenal are beginning to look extremely over-optimistic. The two chaotic wins with which they began were always difficult to read: they might have been useful points picked up on the way to a more solid structure, or they might have represented evidence of significant problems. After three games without a win, and 12 goals conceded in five games this season, it’s beginning to look like the latter.",
@@ -310,7 +524,7 @@
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Chelsea_Randall_at_Adelaide%E2%80%93Sydney_AFLW_Round_1_match_%28028A9959%29.jpg/960px-Chelsea_Randall_at_Adelaide%E2%80%93Sydney_AFLW_Round_1_match_%28028A9959%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Chelsea_Randall_at_Adelaide%E2%80%93Sydney_AFLW_Round_1_match_%28028A9957%29.jpg/960px-Chelsea_Randall_at_Adelaide%E2%80%93Sydney_AFLW_Round_1_match_%28028A9957%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Yu Chu Chin — CC BY-SA 4.0"
   },
   {
@@ -345,14 +559,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-18T20:42:29.000Z",
-   "fetched_at": "2026-09-19T06:20:32.133Z",
+   "fetched_at": "2026-09-19T11:20:53.770Z",
    "body": [
     "Our briefing: Dylan Watret and Josh Landers are on target as Ayr United end a six-game run without a win.",
     "Dylan Watret and Josh Landers are on target as Ayr United end a six-game run without a win.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -366,14 +580,35 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-18T20:35:52.000Z",
-   "fetched_at": "2026-09-19T06:20:32.131Z",
+   "fetched_at": "2026-09-19T11:20:53.765Z",
    "body": [
     "Our briefing: Netherlands midfielder Kees Smit is watched by Liverpool, Tottenham lead the race for Brazil defender Arthur Dias and Monaco's Folarin Balogun is expected to leave in…",
     "Netherlands midfielder Kees Smit is watched by Liverpool, Tottenham lead the race for Brazil defender Arthur Dias and Monaco's Folarin Balogun is expected to leave in January.",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Elftal_van_Liverpool%2C_Bestanddeelnr_919-7002.jpg/960px-Elftal_van_Liverpool%2C_Bestanddeelnr_919-7002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Liverpool_players_before_match_vs_Rabotnicki.jpg/960px-Liverpool_players_before_match_vs_Rabotnicki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kevin Walsh — CC BY 2.0"
+  },
+  {
+   "id": "bbc-inspired-wales-seal-stunning-win-over-south-afri",
+   "slug": "inspired-wales-seal-stunning-win-over-south-africa--afri",
+   "title": "Inspired Wales seal stunning win over South Africa",
+   "dek": "Wales return to winning ways in emphatic fashion with an eight-try victory over South Africa at Cardiff Arms Park.",
+   "description": "Wales return to winning ways in emphatic fashion with an eight-try victory over South Africa at Cardiff Arms Park.",
+   "category": "Match Reports",
+   "league": "International",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-09-18T20:27:03.000Z",
+   "fetched_at": "2026-09-19T11:20:53.769Z",
+   "body": [
+    "Our briefing: Wales return to winning ways in emphatic fashion with an eight-try victory over South Africa at Cardiff Arms Park.",
+    "Wales return to winning ways in emphatic fashion with an eight-try victory over South Africa at Cardiff Arms Park.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
   },
   {
@@ -387,14 +622,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-18T18:17:08.000Z",
-   "fetched_at": "2026-09-19T06:20:32.517Z",
+   "fetched_at": "2026-09-19T11:20:53.979Z",
    "body": [
     "Our briefing: Uefa and Concacaf believe Fifa will have £4.5 billion in cash reserves by the end of the year",
     "Uefa and Concacaf believe Fifa will have £4.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -420,6 +655,28 @@
    "imageCredit": "Robin Glover — CC BY 4.0"
   },
   {
+   "id": "guardian-embrace-chaos-tuchel-aims-harness-england-s-foot",
+   "slug": "embrace-the-chaos-tuchel-aims-to-harness-england-s-football---foot",
+   "title": "‘Embrace the chaos’: Tuchel aims to harness England’s football culture",
+   "dek": "Head coach says he must accept lack of control in games ‘Deep down, English players … they go for it’ Thomas Tuchel has admitted there are times when he craves greater…",
+   "description": "Head coach says he must accept lack of control in games ‘Deep down, English players … they go for it’ Thomas Tuchel has admitted there are times when he craves greater control in matches. But the England head coach feels the more chaotic, adrenaline-fuelled nature of the Premier League will remain his template as he targets glory at Euro 2028. Tuchel described his team as “maybe not the most economical to play football” in terms of their habit of constantly playing at full throttle. They lost to Argentina in the World Cup semi-final in July when they had nothing left in the tank and watched the game slip away after going 1-0 up in the 55th minute. England barely touched the ball thereafter, had no control and were reeled in, Argentina winning with two late goals. Continue reading...",
+   "category": "News",
+   "league": "International",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-09-18T18:00:24.000Z",
+   "fetched_at": "2026-09-19T11:20:53.924Z",
+   "body": [
+    "Our briefing: Head coach says he must accept lack of control in games ‘Deep down, English players … they go for it’ Thomas Tuchel has admitted there are times when he craves greater…",
+    "Head coach says he must accept lack of control in games ‘Deep down, English players … they go for it’ Thomas Tuchel has admitted there are times when he craves greater control in matches. But the England head coach feels the more chaotic, adrenaline-fuelled nature of the Premier League will remain his template as he targets glory at Euro 2028. Tuchel described his team as “maybe not the most economical to play football” in terms of their habit of constantly playing at full throttle.",
+    "They lost to Argentina in the World Cup semi-final in July when they had nothing left in the tank and watched the game slip away after going 1-0 up in the 55th minute. England barely touched the ball thereafter, had no control and were reeled in, Argentina winning with two late goals. Continue reading...",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
    "id": "bbc-football-daily",
    "slug": "daily-daily",
    "title": "Daily",
@@ -437,8 +694,7 @@
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
    "id": "bbc-former-man-utd-left-back-malacia-joins-fc-cincin",
@@ -451,7 +707,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-18T17:39:15.000Z",
-   "fetched_at": "2026-09-19T06:20:32.132Z",
+   "fetched_at": "2026-09-19T11:20:53.767Z",
    "body": [
     "Our briefing: FC Cincinnati sign former Manchester United left-back Tyrell Malacia on a free transfer.",
     "FC Cincinnati sign former Manchester United left-back Tyrell Malacia on a free transfer.",
@@ -472,7 +728,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-18T17:33:40.000Z",
-   "fetched_at": "2026-09-19T06:20:32.403Z",
+   "fetched_at": "2026-09-19T11:20:53.925Z",
    "body": [
     "Our briefing: Payout of at least $10m to each association proposed Leaders want plan to be considered by Fifa Council The presidents of Uefa and Concacaf have written to Gianni…",
     "Payout of at least $10m to each association proposed Leaders want plan to be considered by Fifa Council The presidents of Uefa and Concacaf have written to Gianni Infantino requesting that Fifa release money from its $6bn (£4. 5bn) reserves to its member associations, stating that the plan to fund them via the doomed Fifa Forward Enterprise scheme was unnecessary given the cash pile it is sitting on. Aleksander Ceferin and Victor Montagliani proposed a payout of at least $10m to each of Fifa’s 211 member associations (MAs), initially as a one-off during the 2027-2030 commercial cycle.",
@@ -480,8 +736,8 @@
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
   },
   {
    "id": "guardian-england-recalls-alexander-arnold-palmer-carrick-",
@@ -516,14 +772,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-18T17:06:34.000Z",
-   "fetched_at": "2026-09-19T06:20:32.517Z",
+   "fetched_at": "2026-09-19T11:20:53.979Z",
    "body": [
     "Our briefing: Chelsea’s No 10 is back to his best this season and the England manager has challenged him to deliver the same levels for the national team",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
    "id": "bbc-senegal-job-absolute-dream-new-boss-vieira",
@@ -536,15 +792,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-18T17:01:59.000Z",
-   "fetched_at": "2026-09-19T06:20:32.132Z",
+   "fetched_at": "2026-09-19T11:20:53.767Z",
    "body": [
     "Our briefing: Former France international Patrick Vieira, a World Cup winner in 1998, says taking charge of Senegal, the nation of his birth, is an \"honour\".",
     "Former France international Patrick Vieira, a World Cup winner in 1998, says taking charge of Senegal, the nation of his birth, is an \"honour\".",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   },
   {
    "id": "guardian-we-wanted-let-max-dowman-bloom-shadows-but-he-ha",
@@ -557,7 +813,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-18T16:59:40.000Z",
-   "fetched_at": "2026-09-19T06:20:32.403Z",
+   "fetched_at": "2026-09-19T11:20:53.925Z",
    "body": [
     "Our briefing: This most modern and well-honed of footballers will not be able to escape the spotlight in an age of constant scrutiny but looks equipped to handle it The poet Jorge Luis…",
     "This most modern and well-honed of footballers will not be able to escape the spotlight in an age of constant scrutiny but looks equipped to handle it The poet Jorge Luis Borges wrote a famous short story about a society that had become so good at making maps, so obsessed with capturing every detail, that its rulers decided the only way to do the job right was to make a lifesize map of its entire empire, which could then be laid out across the actual land from coast to coast. Imagine a map of Britain the exact same size as Britain, showing every branch of Greggs, every nail bar, every vape shop in perfect detail. Only then can we really see what Britain looks like, by standing on a fake Britain laid over the top of actual Britain.",
@@ -566,8 +822,8 @@
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
    "id": "guardian-case-not-proven-trent-alexander-arnold-s-england",
@@ -580,7 +836,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-18T16:49:44.000Z",
-   "fetched_at": "2026-09-19T06:20:32.403Z",
+   "fetched_at": "2026-09-19T11:20:53.925Z",
    "body": [
     "Our briefing: Thomas Tuchel promises to play the full-back in his natural right-sided position but we have not seen enough of him this term to gauge his form Thomas Tuchel said Trent…",
     "Thomas Tuchel promises to play the full-back in his natural right-sided position but we have not seen enough of him this term to gauge his form Thomas Tuchel said Trent Alexander Arnold had enjoyed a good start to the season, which came as news to those in England who have not been watching him at Real Madrid. It also, in truth, came as news to those in Spain who have. If the England manager did not see enough in Alexander-Arnold to include him in the World Cup in the summer he has not really had the chance to see enough to change that decision as autumn begins.",
@@ -595,7 +851,7 @@
   {
    "id": "bbc-what-are-key-questions-saturday-s-scottish-premi",
    "slug": "what-are-the-key-questions-in-saturday-s-scottish-premiershi-premi",
-   "title": "What are the key questions in Saturday's Scottish Premiership?",
+   "title": "What are the key questions in Saturday's Scottish Premiership games?",
    "dek": "What are the key questions on Saturday in the final Scottish Premiership games before the international break?",
    "description": "What are the key questions on Saturday in the final Scottish Premiership games before the international break?",
    "category": "News",
@@ -603,265 +859,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-18T16:40:30.000Z",
-   "fetched_at": "2026-09-19T06:20:32.133Z",
+   "fetched_at": "2026-09-19T11:20:53.769Z",
    "body": [
     "Our briefing: What are the key questions on Saturday in the final Scottish Premiership games before the international break?",
     "What are the key questions on Saturday in the final Scottish Premiership games before the international break?",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-uefa-rejected-request-keep-republic-ireland-isra",
-   "slug": "uefa-rejected-request-to-keep-republic-of-ireland-and-israel--isra",
-   "title": "Uefa rejected request to keep Republic of Ireland and Israel separate - FAI",
-   "dek": "The Football Association of Ireland says it had a request to keep the Republic of Ireland and Israel separate in future competition draws rejected by Uefa.",
-   "description": "The Football Association of Ireland says it had a request to keep the Republic of Ireland and Israel separate in future competition draws rejected by Uefa.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-09-18T16:40:11.000Z",
-   "fetched_at": "2026-09-19T06:20:32.132Z",
-   "body": [
-    "Our briefing: The Football Association of Ireland says it had a request to keep the Republic of Ireland and Israel separate in future competition draws rejected by Uefa.",
-    "The Football Association of Ireland says it had a request to keep the Republic of Ireland and Israel separate in future competition draws rejected by Uefa.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
-  },
-  {
-   "id": "bbc-uefa-concacaf-demand-fifa-pays-10m-all-211-membe",
-   "slug": "uefa-concacaf-demand-fifa-pays-10m-to-all-211-members-membe",
-   "title": "Uefa & Concacaf demand Fifa pays $10m to all 211 members",
-   "dek": "Uefa and Concacaf issue a joint statement calling on Fifa to pay $10m from its cash reserves to each of the 211 member associations.",
-   "description": "Uefa and Concacaf issue a joint statement calling on Fifa to pay $10m from its cash reserves to each of the 211 member associations.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-09-18T16:26:56.000Z",
-   "fetched_at": "2026-09-19T06:20:32.132Z",
-   "body": [
-    "Our briefing: Uefa and Concacaf issue a joint statement calling on Fifa to pay $10m from its cash reserves to each of the 211 member associations.",
-    "Uefa and Concacaf issue a joint statement calling on Fifa to pay $10m from its cash reserves to each of the 211 member associations.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Kashima_Soccer_Stadium_6.jpg/960px-Kashima_Soccer_Stadium_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-northampton-agree-deal-pato-led-consortium",
-   "slug": "northampton-agree-deal-with-pato-led-consortium-rtium",
-   "title": "Northampton agree deal with Pato-led consortium",
-   "dek": "Northampton reach agreement with a consortium including former Brazil forward Alexandre Pato over a \"proposed shareholding acquisition\".",
-   "description": "Northampton reach agreement with a consortium including former Brazil forward Alexandre Pato over a \"proposed shareholding acquisition\".",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-09-18T16:22:38.000Z",
-   "fetched_at": "2026-09-19T06:20:32.132Z",
-   "body": [
-    "Our briefing: Northampton reach agreement with a consortium including former Brazil forward Alexandre Pato over a \"proposed shareholding acquisition\".",
-    "Northampton reach agreement with a consortium including former Brazil forward Alexandre Pato over a \"proposed shareholding acquisition\".",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "bbc-celtic-seek-spark-rangers-aim-further-derby-joy",
-   "slug": "celtic-seek-spark-as-rangers-aim-for-further-derby-joy-y-joy",
-   "title": "Celtic seek spark as Rangers aim for further derby joy",
-   "dek": "Early season momentum has shifted dramatically going into the first Old Firm league derby of the season on Sunday at Celtic Park.",
-   "description": "Early season momentum has shifted dramatically going into the first Old Firm league derby of the season on Sunday at Celtic Park.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-09-18T16:15:47.000Z",
-   "fetched_at": "2026-09-19T06:20:32.133Z",
-   "body": [
-    "Our briefing: Early season momentum has shifted dramatically going into the first Old Firm league derby of the season on Sunday at Celtic Park.",
-    "Early season momentum has shifted dramatically going into the first Old Firm league derby of the season on Sunday at Celtic Park.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Celtic_Park_during_an_Old_Firm_derby_between_Celtic_FC_and_Rangers_FC.jpg/960px-Celtic_Park_during_an_Old_Firm_derby_between_Celtic_FC_and_Rangers_FC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Vincenzo.togni — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-london-city-s-new-training-centre-better-than-mo",
-   "slug": "london-city-s-new-training-centre-better-than-most-premier-l-an-mo",
-   "title": "London City's new training centre 'better than most Premier League clubs' - Kang",
-   "dek": "Michele Kang believes London City Lionesses' planned new training ground will set a new standard in the women's game and surpass facilities used by most men's Premier…",
-   "description": "Michele Kang believes London City Lionesses' planned new training ground will set a new standard in the women's game and surpass facilities used by most men's Premier League clubs.",
-   "category": "News",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-09-18T16:03:14.000Z",
-   "fetched_at": "2026-09-19T06:20:32.132Z",
-   "body": [
-    "Our briefing: Michele Kang believes London City Lionesses' planned new training ground will set a new standard in the women's game and surpass facilities used by most men's Premier…",
-    "Michele Kang believes London City Lionesses' planned new training ground will set a new standard in the women's game and surpass facilities used by most men's Premier League clubs.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "bbc-i-m-not-doing-this-charity-kang-trying-level-pla",
-   "slug": "i-m-not-doing-this-as-a-charity-kang-on-trying-to-level-play-l-pla",
-   "title": "'I'm not doing this as a charity' - Kang on trying to 'level playing field'",
-   "dek": "London City Lionesses owner Michele Kang shares why it is so important for more infrastructure in women's sports.",
-   "description": "London City Lionesses owner Michele Kang shares why it is so important for more infrastructure in women's sports.",
-   "category": "Tactics & Analysis",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-09-18T16:01:07.000Z",
-   "fetched_at": "2026-09-19T06:20:32.132Z",
-   "body": [
-    "Our briefing: London City Lionesses owner Michele Kang shares why it is so important for more infrastructure in women's sports.",
-    "London City Lionesses owner Michele Kang shares why it is so important for more infrastructure in women's sports.",
-    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Soccer_fans_put_town_in_siege_%28FL62506945%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506945%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "bbc-goodwin-good-health-but-needs-simple-procedure",
-   "slug": "goodwin-in-good-health-but-needs-simple-procedure-edure",
-   "title": "Goodwin in 'good health' but needs 'simple procedure'",
-   "dek": "Dundee United manager Jim Goodwin is not for going into detail about his recent hospital scare that requires \"a simple procedure\" but is \"pleased to say I am back to full…",
-   "description": "Dundee United manager Jim Goodwin is not for going into detail about his recent hospital scare that requires \"a simple procedure\" but is \"pleased to say I am back to full health and raring to go\" after a three-game absence from the dugout.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-09-18T15:50:56.000Z",
-   "fetched_at": "2026-09-19T06:20:32.132Z",
-   "body": [
-    "Our briefing: Dundee United manager Jim Goodwin is not for going into detail about his recent hospital scare that requires \"a simple procedure\" but is \"pleased to say I am back to full…",
-    "Dundee United manager Jim Goodwin is not for going into detail about his recent hospital scare that requires \"a simple procedure\" but is \"pleased to say I am back to full health and raring to go\" after a three-game absence from the dugout.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "guardian-tuchel-should-listen-0-1-learn-england-s-world-c",
-   "slug": "tuchel-should-listen-to-the-0-1-and-learn-from-england-s-wor-rld-c",
-   "title": "Tuchel should listen to ‘the 0.1%’ and learn from England’s World Cup mistakes | Jacob Steinberg",
-   "dek": "Head coach is keen to focus on positives but Nations League squad hints at desire for greater tactical options Thomas Tuchel should be listening to the 0.1%. As he…",
-   "description": "Head coach is keen to focus on positives but Nations League squad hints at desire for greater tactical options Thomas Tuchel should be listening to the 0.1%. As he unveiled his first England squad since the World Cup, he said 99.9% of supporters he bumped into did not talk about his substitutions during the Argentina game. According to him, the conversation is far more positive. Memories are shared of the knockout wins over Mexico and the Democratic Republic of the Congo. It seems those who want to take the England head coach to task over the retreat in the semi-final in Atlanta are in the minority. This is, of course, hard to quantify. Is it really 99.9%? We can take Tuchel at face value, but relying on anecdotal evidence goes two ways. A lot of fans are not ready to move on yet. The national mood is far more downbeat than Tuchel imagines and he is kidding himself if he thinks people have forgiven the way England folded after going 1-0 up against Argentina early in the second half. Continue reading...",
-   "category": "Match Reports",
-   "league": "International",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-09-18T15:43:17.000Z",
-   "fetched_at": "2026-09-19T06:20:32.403Z",
-   "body": [
-    "Our briefing: Head coach is keen to focus on positives but Nations League squad hints at desire for greater tactical options Thomas Tuchel should be listening to the 0.1%. As he…",
-    "Head coach is keen to focus on positives but Nations League squad hints at desire for greater tactical options Thomas Tuchel should be listening to the 0. 1%. As he unveiled his first England squad since the World Cup, he said 99.",
-    "9% of supporters he bumped into did not talk about his substitutions during the Argentina game. According to him, the conversation is far more positive. Memories are shared of the knockout wins over Mexico and the Democratic Republic of the Congo.",
-    "It seems those who want to take the England head coach to task over the retreat in the semi-final in Atlanta are in the minority. This is, of course, hard to quantify. Is it really 99.",
-    "9%? We can take Tuchel at face value, but relying on anecdotal evidence goes two ways. A lot of fans are not ready to move on yet.",
-    "The national mood is far more downbeat than Tuchel imagines and he is kidding himself if he thinks people have forgiven the way England folded after going 1-0 up against Argentina early in the second half. Continue reading...",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Soccer_fans_put_town_in_siege_%28FL62506562%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506562%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "bbc-living-legend-gray-advanced-hibs-says-newell",
-   "slug": "living-legend-gray-advanced-hibs-says-newell-ewell",
-   "title": "'Living legend' Gray advanced Hibs, says Newell",
-   "dek": "Club captain Joe Newell insists sacked head coach David Gray can be proud of his record at Hibernian and believes his replacement has plenty of time to deliver success…",
-   "description": "Club captain Joe Newell insists sacked head coach David Gray can be proud of his record at Hibernian and believes his replacement has plenty of time to deliver success this season.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-09-18T15:29:42.000Z",
-   "fetched_at": "2026-09-19T06:20:32.132Z",
-   "body": [
-    "Our briefing: Club captain Joe Newell insists sacked head coach David Gray can be proud of his record at Hibernian and believes his replacement has plenty of time to deliver success…",
-    "Club captain Joe Newell insists sacked head coach David Gray can be proud of his record at Hibernian and believes his replacement has plenty of time to deliver success this season.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Soccer_fans_put_town_in_siege_%28FL62505872%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62505872%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "bbc-living-legend-gray-massive-success-hibs-says-new",
-   "slug": "living-legend-gray-massive-success-at-hibs-says-newell-s-new",
-   "title": "'Living legend' Gray 'massive success' at Hibs, says Newell",
-   "dek": "Club captain Joe Newell insists sacked head coach David Gray can be proud of his record at Hibernian and believes his replacement has plenty of time to deliver success…",
-   "description": "Club captain Joe Newell insists sacked head coach David Gray can be proud of his record at Hibernian and believes his replacement has plenty of time to deliver success this season.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-09-18T15:29:42.000Z",
-   "fetched_at": "2026-09-19T06:20:32.133Z",
-   "body": [
-    "Our briefing: Club captain Joe Newell insists sacked head coach David Gray can be proud of his record at Hibernian and believes his replacement has plenty of time to deliver success…",
-    "Club captain Joe Newell insists sacked head coach David Gray can be proud of his record at Hibernian and believes his replacement has plenty of time to deliver success this season.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ]
-  },
-  {
-   "id": "independent-huge-police-dispersal-zone-map-millwall-vs-west-",
-   "slug": "huge-police-dispersal-zone-map-for-millwall-vs-west-ham-reve-west-",
-   "title": "Huge police dispersal zone map for Millwall vs West Ham revealed by Met Police over fan violence fears",
-   "dek": "West Ham face fierce rivals Millwall for the first time in 14 years on Saturday",
-   "description": "West Ham face fierce rivals Millwall for the first time in 14 years on Saturday",
-   "category": "News",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-09-18T15:16:58.000Z",
-   "fetched_at": "2026-09-19T06:20:32.517Z",
-   "body": [
-    "Our briefing: West Ham face fierce rivals Millwall for the first time in 14 years on Saturday",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/London_Olympic_Stadium_West_Ham.jpg/960px-London_Olympic_Stadium_West_Ham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
-  },
-  {
-   "id": "independent-oxford-apologise-after-launching-united-93-cloth",
-   "slug": "oxford-apologise-after-launching-united-93-clothing-collecti-cloth",
-   "title": "Oxford apologise after launching ‘United 93’ clothing collection near 9/11 anniversary",
-   "dek": "The League One club has apologised ‘for any offence caused’",
-   "description": "The League One club has apologised ‘for any offence caused’",
-   "category": "News",
-   "league": "Football",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-09-18T15:10:51.000Z",
-   "fetched_at": "2026-09-19T06:20:32.517Z",
-   "body": [
-    "Our briefing: The League One club has apologised ‘for any offence caused’",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ]
   }
  ]
 }
