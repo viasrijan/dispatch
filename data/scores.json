@@ -1,6 +1,58 @@
 {
- "generated_at": "2026-09-23T01:39:50.643Z",
+ "generated_at": "2026-09-23T07:27:31.805Z",
  "matches": [
+  {
+   "league": "Premier League",
+   "home": "AFC Bournemouth",
+   "away": "Liverpool",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+   "homeScore": 0,
+   "awayScore": 1,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-09-20T13:00Z"
+  },
+  {
+   "league": "Premier League",
+   "home": "Leeds United",
+   "away": "Crystal Palace",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-09-20T13:00Z"
+  },
+  {
+   "league": "Premier League",
+   "home": "Manchester City",
+   "away": "Sunderland",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png",
+   "homeScore": 5,
+   "awayScore": 3,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-09-20T13:00Z"
+  },
+  {
+   "league": "Premier League",
+   "home": "Fulham",
+   "away": "Manchester United",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+   "homeScore": 1,
+   "awayScore": 1,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-09-20T15:30Z"
+  },
   {
    "league": "La Liga",
    "home": "Getafe",
@@ -65,58 +117,6 @@
    "clock": "",
    "time": "FT",
    "date": "2026-09-20T19:00Z"
-  },
-  {
-   "league": "Premier League",
-   "home": "AFC Bournemouth",
-   "away": "Liverpool",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-   "homeScore": 0,
-   "awayScore": 1,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-09-20T13:00Z"
-  },
-  {
-   "league": "Premier League",
-   "home": "Leeds United",
-   "away": "Crystal Palace",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-09-20T13:00Z"
-  },
-  {
-   "league": "Premier League",
-   "home": "Manchester City",
-   "away": "Sunderland",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png",
-   "homeScore": 5,
-   "awayScore": 3,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-09-20T13:00Z"
-  },
-  {
-   "league": "Premier League",
-   "home": "Fulham",
-   "away": "Manchester United",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-   "homeScore": 1,
-   "awayScore": 1,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-09-20T15:30Z"
   },
   {
    "league": "Serie A",
