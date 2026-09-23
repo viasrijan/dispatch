@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-22T23:09:41.349Z",
+ "generated_at": "2026-09-23T01:39:50.643Z",
  "matches": [
   {
    "league": "La Liga",
@@ -184,45 +184,6 @@
    "date": "2026-09-20T18:45Z"
   },
   {
-   "league": "Ligue 1",
-   "home": "AJ Auxerre",
-   "away": "Brest",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/172.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
-   "homeScore": 2,
-   "awayScore": 1,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-09-20T13:00Z"
-  },
-  {
-   "league": "Ligue 1",
-   "home": "Nice",
-   "away": "Lille",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-   "homeScore": 2,
-   "awayScore": 1,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-09-20T15:15Z"
-  },
-  {
-   "league": "Ligue 1",
-   "home": "Marseille",
-   "away": "Paris Saint-Germain",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-   "homeScore": 1,
-   "awayScore": 2,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-09-20T18:45Z"
-  },
-  {
    "league": "Bundesliga",
    "home": "Bayer Leverkusen",
    "away": "RB Leipzig",
@@ -260,6 +221,45 @@
    "clock": "",
    "time": "FT",
    "date": "2026-09-20T17:30Z"
+  },
+  {
+   "league": "Ligue 1",
+   "home": "AJ Auxerre",
+   "away": "Brest",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/172.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
+   "homeScore": 2,
+   "awayScore": 1,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-09-20T13:00Z"
+  },
+  {
+   "league": "Ligue 1",
+   "home": "Nice",
+   "away": "Lille",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+   "homeScore": 2,
+   "awayScore": 1,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-09-20T15:15Z"
+  },
+  {
+   "league": "Ligue 1",
+   "home": "Marseille",
+   "away": "Paris Saint-Germain",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+   "homeScore": 1,
+   "awayScore": 2,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-09-20T18:45Z"
   }
  ]
 }
