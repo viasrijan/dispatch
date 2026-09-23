@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-23T21:12:03.678Z",
- "updated_utc": "2026-09-23T21:12Z",
- "cycle": 29836632,
+ "generated_at": "2026-09-23T23:52:33.497Z",
+ "updated_utc": "2026-09-23T23:52Z",
+ "cycle": 29836792,
  "sources_used": [
   {
    "id": "bbc",
@@ -10,10 +10,98 @@
   {
    "id": "guardian",
    "name": "The Guardian"
+  },
+  {
+   "id": "independent",
+   "name": "The Independent"
   }
  ],
  "hero_id": "guardian-chelsea-1-0-austria-vienna-women-s-champions-lea",
  "articles": [
+  {
+   "id": "independent-burnham-wants-discriminatory-alcohol-ban-stands-",
+   "slug": "burnham-wants-discriminatory-alcohol-ban-in-stands-at-footba-ands-",
+   "title": "Burnham wants ‘discriminatory’ alcohol ban in stands at football matches to be overturned",
+   "dek": "The Prime Minister said it was unfair for football fans to be singled out when supporters of other sports were able to drink while watching their teams",
+   "description": "The Prime Minister said it was unfair for football fans to be singled out when supporters of other sports were able to drink while watching their teams",
+   "category": "News",
+   "league": "Football",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-09-23T22:00:09.000Z",
+   "fetched_at": "2026-09-23T23:52:24.363Z",
+   "body": [
+    "Our briefing: The Prime Minister said it was unfair for football fans to be singled out when supporters of other sports were able to drink while watching their teams",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "John Shorten — CC BY 4.0"
+  },
+  {
+   "id": "bbc-barcelona-rule-out-alvarez-deal-thursday-s-gossi",
+   "slug": "barcelona-rule-out-alvarez-deal-thursday-s-gossip-gossi",
+   "title": "Barcelona rule out Alvarez deal - Thursday's gossip",
+   "dek": "Barcelona rule out Alvarez signing from Atletico Madrid, Liverpool will not allow Wirtz departure, and Chelsea target English midfield duo, plus more.",
+   "description": "Barcelona rule out Alvarez signing from Atletico Madrid, Liverpool will not allow Wirtz departure, and Chelsea target English midfield duo, plus more.",
+   "category": "Transfers & Rumours",
+   "league": "La Liga",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-09-23T21:33:27.000Z",
+   "fetched_at": "2026-09-23T23:52:24.025Z",
+   "body": [
+    "Our briefing: Barcelona rule out Alvarez signing from Atletico Madrid, Liverpool will not allow Wirtz departure, and Chelsea target English midfield duo, plus more.",
+    "Barcelona rule out Alvarez signing from Atletico Madrid, Liverpool will not allow Wirtz departure, and Chelsea target English midfield duo, plus more.",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Futbolmania_barcelona_area.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "Jaume Meneses — CC BY-SA 2.0"
+  },
+  {
+   "id": "bbc-when-bellamy-watched-ronaldo-caused-airport-lock",
+   "slug": "when-bellamy-watched-on-as-ronaldo-caused-airport-lockdown--lock",
+   "title": "When Bellamy watched on as Ronaldo caused airport lockdown",
+   "dek": "Craig Bellamy says Cristiano Ronaldo is \"beyond a superstar\" before his Wales side face the Portugal legend in the opening match of their Nations League A campaign.",
+   "description": "Craig Bellamy says Cristiano Ronaldo is \"beyond a superstar\" before his Wales side face the Portugal legend in the opening match of their Nations League A campaign.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-09-23T21:30:59.000Z",
+   "fetched_at": "2026-09-23T23:52:24.026Z",
+   "body": [
+    "Our briefing: Craig Bellamy says Cristiano Ronaldo is \"beyond a superstar\" before his Wales side face the Portugal legend in the opening match of their Nations League A campaign.",
+    "Craig Bellamy says Cristiano Ronaldo is \"beyond a superstar\" before his Wales side face the Portugal legend in the opening match of their Nations League A campaign.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+  },
+  {
+   "id": "guardian-kaptein-fantastic-strikes-chelsea-battle-wcl-win",
+   "slug": "kaptein-fantastic-strikes-as-chelsea-battle-to-wcl-win-over--l-win",
+   "title": "Kaptein fantastic strikes as Chelsea battle to WCL win over Austria Vienna",
+   "dek": "Wieke Kaptein’s early goal gave Chelsea a winning start to their Champions League campaign proper against Austria Vienna, but it was a far from comfortable evening for…",
+   "description": "Wieke Kaptein’s early goal gave Chelsea a winning start to their Champions League campaign proper against Austria Vienna, but it was a far from comfortable evening for them. “Probably the performance is not the one we wanted to have,” Chelsea’s manager, Sonia Bompastor, said. “We could have controlled the game a little bit better in terms of scoring a second goal to kill the opposition’s hope, but sometimes you need to focus on what is most important and tonight that was to win and to take the three points from the game.” Continue reading...",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-09-23T21:12:40.000Z",
+   "fetched_at": "2026-09-23T23:52:24.231Z",
+   "body": [
+    "Our briefing: Wieke Kaptein’s early goal gave Chelsea a winning start to their Champions League campaign proper against Austria Vienna, but it was a far from comfortable evening for…",
+    "Wieke Kaptein’s early goal gave Chelsea a winning start to their Champions League campaign proper against Austria Vienna, but it was a far from comfortable evening for them. “Probably the performance is not the one we wanted to have,” Chelsea’s manager, Sonia Bompastor, said. “We could have controlled the game a little bit better in terms of scoring a second goal to kill the opposition’s hope, but sometimes you need to focus on what is most important and tonight that was to win and to take the three points from the game.",
+    "” Continue reading...",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Chelsea_vs_union_1929.jpg/960px-Chelsea_vs_union_1929.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
   {
    "id": "guardian-chelsea-1-0-austria-vienna-women-s-champions-lea",
    "slug": "chelsea-1-0-austria-vienna-women-s-champions-league-live-rea-s-lea",
@@ -36,6 +124,47 @@
    "imageCredit": "Chris Whippet — CC BY-SA 2.0"
   },
   {
+   "id": "bbc-burnham-says-ban-alcohol-football-fans-stands-di",
+   "slug": "burnham-says-ban-on-alcohol-for-football-fans-in-stands-is-d-ds-di",
+   "title": "Burnham says ban on alcohol for football fans in stands is 'discrimination'",
+   "dek": "The prime minister opposes the law - in place since 1985 - and believes there is a case to remove it.",
+   "description": "The prime minister opposes the law - in place since 1985 - and believes there is a case to remove it.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-09-23T21:01:16.000Z",
+   "fetched_at": "2026-09-23T23:52:24.025Z",
+   "body": [
+    "Our briefing: The prime minister opposes the law - in place since 1985 - and believes there is a case to remove it.",
+    "The prime minister opposes the law - in place since 1985 - and believes there is a case to remove it.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+  },
+  {
+   "id": "independent-eric-cantona-says-he-would-not-have-joined-man-u",
+   "slug": "eric-cantona-says-he-would-not-have-joined-man-utd-if-sir-ji-man-u",
+   "title": "Eric Cantona says he would not have joined Man Utd if Sir Jim Ratcliffe was owner",
+   "dek": "France forward Cantona has previously been named by Ratcliffe as his favourite United player",
+   "description": "France forward Cantona has previously been named by Ratcliffe as his favourite United player",
+   "category": "News",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-09-23T20:46:31.000Z",
+   "fetched_at": "2026-09-23T23:52:24.363Z",
+   "body": [
+    "Our briefing: France forward Cantona has previously been named by Ratcliffe as his favourite United player",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Manchester_United_Old_Trafford.jpg/960px-Manchester_United_Old_Trafford.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
+  },
+  {
    "id": "bbc-football-daily",
    "slug": "daily-daily",
    "title": "Daily",
@@ -46,7 +175,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-23T20:26:00.000Z",
-   "fetched_at": "2026-09-23T21:11:42.850Z",
+   "fetched_at": "2026-09-23T23:52:24.025Z",
    "body": [
     "Our briefing: Why has Spain been so successful?",
     "Why has Spain been so successful?",
@@ -55,6 +184,27 @@
    ],
    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-serious-business-resumes-wales-boss-bellamy",
+   "slug": "serious-business-resumes-for-wales-boss-bellamy-llamy",
+   "title": "Serious business resumes for Wales boss Bellamy",
+   "dek": "With the Burnley interest firmly behind him, Craig Bellamy is focused on leading Wales in the Nations League, starting against Portugal in Lisbon.",
+   "description": "With the Burnley interest firmly behind him, Craig Bellamy is focused on leading Wales in the Nations League, starting against Portugal in Lisbon.",
+   "category": "News",
+   "league": "International",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-09-23T20:00:48.000Z",
+   "fetched_at": "2026-09-23T23:52:24.025Z",
+   "body": [
+    "Our briefing: With the Burnley interest firmly behind him, Craig Bellamy is focused on leading Wales in the Nations League, starting against Portugal in Lisbon.",
+    "With the Burnley interest firmly behind him, Craig Bellamy is focused on leading Wales in the Nations League, starting against Portugal in Lisbon.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "guardian-christian-eriksen-leaves-wolfsburg-mutual-consen",
@@ -67,7 +217,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-23T19:46:10.000Z",
-   "fetched_at": "2026-09-23T21:11:43.042Z",
+   "fetched_at": "2026-09-23T23:52:24.231Z",
    "body": [
     "Our briefing: Danish midfielder has been recuperating in homeland Eriksen: ‘I’m pleased we were able to find a solution’ Christian Eriksen and the German side VfL Wolfsburg have agreed…",
     "Danish midfielder has been recuperating in homeland Eriksen: ‘I’m pleased we were able to find a solution’ Christian Eriksen and the German side VfL Wolfsburg have agreed to terminate ⁠his contract by mutual consent, the club announced on Wednesday. The 34-year-old collapsed during a Denmark friendly ⁠against Ukraine in June. Eriksen said in July he would ​return to his homeland to undergo a ‌rehabilitation programme.",
@@ -75,8 +225,8 @@
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Badalik_Szabolcs_Hungarian_beach_soccer_player.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "Badalik Szabolcs — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "YHC — CC BY-SA 4.0"
   },
   {
    "id": "guardian-harry-kane-admits-england-s-world-cup-2026-exit-",
@@ -89,7 +239,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-23T18:00:55.000Z",
-   "fetched_at": "2026-09-23T21:11:43.042Z",
+   "fetched_at": "2026-09-23T23:52:24.231Z",
    "body": [
     "Our briefing: ‘It wasn’t the team that we wanted and said we’d be’ England host Spain in Nations League on Saturday Harry Kane has described England’s World Cup semi-final defeat…",
     "‘It wasn’t the team that we wanted and said we’d be’ England host Spain in Nations League on Saturday Harry Kane has described England’s World Cup semi-final defeat against Argentina as his most painful tournament exit because of how the team lost sight of who they were. The captain is determined to move on as quickly as possible and is chasing a statement performance against Spain at Wembley on Saturday night in the Nations League. But he admits he is yet to get over the Argentina game and knows it is something he and his England teammates must work to process.",
@@ -98,6 +248,66 @@
     "This summary was compiled from reporting published by The Guardian."
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": null
+  },
+  {
+   "id": "independent-harry-kane-hints-post-retirement-plans-two-sport",
+   "slug": "harry-kane-hints-at-post-retirement-plans-and-the-two-sports-sport",
+   "title": "Harry Kane hints at post-retirement plans and the two sports he could switch to",
+   "dek": "The England captain suggested he could end his career with a stint in the MLS",
+   "description": "The England captain suggested he could end his career with a stint in the MLS",
+   "category": "Transfers & Rumours",
+   "league": "Football",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-09-23T18:00:37.000Z",
+   "fetched_at": "2026-09-23T23:52:24.363Z",
+   "body": [
+    "Our briefing: The England captain suggested he could end his career with a stint in the MLS",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
+  },
+  {
+   "id": "independent-harry-kane-provides-update-bayern-munich-contrac",
+   "slug": "harry-kane-provides-update-on-bayern-munich-contract-talks-ntrac",
+   "title": "Harry Kane provides update on Bayern Munich contract talks",
+   "dek": "Kane has a remarkable goalscoring record since arriving in Germany and is keen to stay with the Bundesliga champions",
+   "description": "Kane has a remarkable goalscoring record since arriving in Germany and is keen to stay with the Bundesliga champions",
+   "category": "Transfers & Rumours",
+   "league": "Bundesliga",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-09-23T18:00:35.000Z",
+   "fetched_at": "2026-09-23T23:52:24.363Z",
+   "body": [
+    "Our briefing: Kane has a remarkable goalscoring record since arriving in Germany and is keen to stay with the Bundesliga champions",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Allianz_Arena_Bayern_Munich_soccer-stadion_%28450603187%29.jpg/960px-Allianz_Arena_Bayern_Munich_soccer-stadion_%28450603187%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Depeche Mode *wrong* — CC BY 2.0"
+  },
+  {
+   "id": "independent-harry-kane-pain-still-solving-england-s-hardest-",
+   "slug": "harry-kane-on-the-pain-of-still-solving-england-s-hardest-qu-dest-",
+   "title": "Harry Kane on the pain of still solving England’s hardest question: ‘How can we be ourselves?’",
+   "dek": "Interview: The England captain reflects on the World Cup semi-final defeat to Argentina, whether ‘mentality’ was the reason for their defensive retreat, and why he is…",
+   "description": "Interview: The England captain reflects on the World Cup semi-final defeat to Argentina, whether ‘mentality’ was the reason for their defensive retreat, and why he is still aiming for more at the age of 33",
+   "category": "Match Reports",
+   "league": "International",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-09-23T18:00:29.000Z",
+   "fetched_at": "2026-09-23T23:52:24.363Z",
+   "body": [
+    "Our briefing: Interview: The England captain reflects on the World Cup semi-final defeat to Argentina, whether ‘mentality’ was the reason for their defensive retreat, and why he is…",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
   },
   {
@@ -111,7 +321,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-23T17:50:43.000Z",
-   "fetched_at": "2026-09-23T21:11:43.042Z",
+   "fetched_at": "2026-09-23T23:52:24.231Z",
    "body": [
     "Our briefing: Jürgen Klopp and Xavi Hernández face each other in Nations League as they take the reins following disappointing World Cups Before the latest instalment of a…",
     "Jürgen Klopp and Xavi Hernández face each other in Nations League as they take the reins following disappointing World Cups Before the latest instalment of a time-honoured international rivalry gearing up for two distinct new beginnings, Jürgen Klopp could not resist sprinkling a little of the old mischief. “The good thing is that we both have the exact same situation,” he said of Xavi Hernández, his counterpart when Germany visit the Netherlands on Thursday night. “We met on Monday and play on Thursday.",
@@ -121,7 +331,7 @@
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
   },
   {
@@ -135,15 +345,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-23T17:45:20.000Z",
-   "fetched_at": "2026-09-23T21:11:42.850Z",
+   "fetched_at": "2026-09-23T23:52:24.025Z",
    "body": [
     "Our briefing: Martyn Jackson never thought he'd play football again when he had a heart transplant in 2024. Less than two years later, he was a World Cup winner with England.",
     "Martyn Jackson never thought he'd play football again when he had a heart transplant in 2024. Less than two years later, he was a World Cup winner with England.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "John Shorten — CC BY 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "independent-cardiff-s-krystian-bielik-charged-fa-altercation",
@@ -156,14 +366,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-23T17:11:41.000Z",
-   "fetched_at": "2026-09-23T17:46:22.380Z",
+   "fetched_at": "2026-09-23T23:52:24.363Z",
    "body": [
     "Our briefing: Hampshire Police have concluded an investigation into the incident which saw a young Portsmouth supporter appear to be pushed in the throat by Bielik",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "John Shorten — CC BY 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "bbc-eriksen-leaves-wolfsburg-mutual-consent",
@@ -176,15 +386,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-23T16:47:34.000Z",
-   "fetched_at": "2026-09-23T21:11:42.849Z",
+   "fetched_at": "2026-09-23T23:52:24.025Z",
    "body": [
     "Our briefing: Christian Eriksen leaves Wolfsburg by mutual consent, just over three months after collapsing during Denmark's friendly with Ukraine.",
     "Christian Eriksen leaves Wolfsburg by mutual consent, just over three months after collapsing during Denmark's friendly with Ukraine.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
    "id": "independent-cristiano-ronaldo-defiant-over-his-portugal-futu",
@@ -197,14 +407,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-23T16:38:59.000Z",
-   "fetched_at": "2026-09-23T17:46:22.380Z",
+   "fetched_at": "2026-09-23T23:52:24.363Z",
    "body": [
     "Our briefing: Cristiano Ronaldo is just 21 goals away from reaching 1,000 in his glittering career",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   },
   {
    "id": "bbc-ronaldo-spurred-1-000-goal-target-portugal-glory",
@@ -217,15 +427,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-23T16:26:38.000Z",
-   "fetched_at": "2026-09-23T21:11:42.849Z",
+   "fetched_at": "2026-09-23T23:52:24.025Z",
    "body": [
     "Our briefing: Cristiano Ronaldo contemplated retirement after the World Cup but wants to reach 1,000 career goals and help a new-look Portugal thrive before hanging up his boots.",
     "Cristiano Ronaldo contemplated retirement after the World Cup but wants to reach 1,000 career goals and help a new-look Portugal thrive before hanging up his boots.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "bbc-ronaldo-spurred-1-000-goals-portugal-glory",
@@ -259,7 +469,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-23T16:02:57.000Z",
-   "fetched_at": "2026-09-23T21:11:43.042Z",
+   "fetched_at": "2026-09-23T23:52:24.231Z",
    "body": [
     "Our briefing: Player reflects on critics, says ‘they’ve tried to kill me’ Jorge Jesus launches passionate defence of 41-year-old Cristiano Ronaldo said he considered quitting…",
     "Player reflects on critics, says ‘they’ve tried to kill me’ Jorge Jesus launches passionate defence of 41-year-old Cristiano Ronaldo said he considered quitting international football after the World Cup, but confirmed he plans to play on for Portugal and hopes to reach 1,000 goals for club and country. Ronaldo, who is 21 goals shy of the milestone, accepted some critics are trying to “kill” him but is determined to carry on. Ronaldo, who has won 233 caps for his country, captained Portugal in the summer at the World Cup, where they exited to Spain in the last 16.",
@@ -268,8 +478,8 @@
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
    "id": "independent-disney-criticised-cutting-advert-break-during-ar",
@@ -282,7 +492,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-23T15:48:47.000Z",
-   "fetched_at": "2026-09-23T17:46:22.380Z",
+   "fetched_at": "2026-09-23T23:52:24.363Z",
    "body": [
     "Our briefing: Viewers were unable to watch around three minutes of Arsenal’s match against HB Koge",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -302,15 +512,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-23T15:37:40.000Z",
-   "fetched_at": "2026-09-23T21:11:42.849Z",
+   "fetched_at": "2026-09-23T23:52:24.025Z",
    "body": [
     "Our briefing: The Football Association charges Cardiff City defender Krystian Bielik over an altercation involving Portsmouth fans, but a police investigation has been concluded.",
     "The Football Association charges Cardiff City defender Krystian Bielik over an altercation involving Portsmouth fans, but a police investigation has been concluded.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Kashima_Soccer_Stadium_6.jpg/960px-Kashima_Soccer_Stadium_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   },
   {
    "id": "bbc-spotlight-new-coaches-road-afcon-2027-begins",
@@ -323,15 +533,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-23T15:30:51.000Z",
-   "fetched_at": "2026-09-23T21:11:42.850Z",
+   "fetched_at": "2026-09-23T23:52:24.026Z",
    "body": [
     "Our briefing: Patrick Vieira and Herve Renard are among the high-profile managerial arrivals as the qualification campaign for the 2027 Africa Cup of Nations gets under way.",
     "Patrick Vieira and Herve Renard are among the high-profile managerial arrivals as the qualification campaign for the 2027 Africa Cup of Nations gets under way.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
    "id": "independent-christian-eriksen-has-wolfsburg-contract-termina",
@@ -344,7 +554,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-23T14:59:20.000Z",
-   "fetched_at": "2026-09-23T17:46:22.380Z",
+   "fetched_at": "2026-09-23T23:52:24.363Z",
    "body": [
     "Our briefing: Eriksen collapsed during an international friendly while playing for Denmark three months ago",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -364,13 +574,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-23T14:33:10.000Z",
-   "fetched_at": "2026-09-23T17:46:22.380Z",
+   "fetched_at": "2026-09-23T23:52:24.363Z",
    "body": [
     "Our briefing: Saka was plagued by an Achilles problem at the World Cup and was an unused substitute in England’s semi-final defeat to Argentina",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
    "id": "guardian-football-daily-madrid-mourinho-fight-neutrality-",
@@ -383,7 +594,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-23T14:23:53.000Z",
-   "fetched_at": "2026-09-23T21:11:43.043Z",
+   "fetched_at": "2026-09-23T23:52:24.233Z",
    "body": [
     "Our briefing: Sign up now! Sign up now! Sign up now? Sign up now! While football managers moaning about referees to deflect from their own teams’ shortcomings is nothing new, few do…",
     "Sign up now! Sign up now! Sign up now?",
@@ -396,8 +607,8 @@
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Soccer_fans_put_town_in_siege_%28FL62506919%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506919%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
    "id": "bbc-man-utd-still-1bn-debt-63-5m-spent-new-stadium",
@@ -410,14 +621,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-23T14:10:21.000Z",
-   "fetched_at": "2026-09-23T21:11:42.849Z",
+   "fetched_at": "2026-09-23T23:52:24.025Z",
    "body": [
     "Our briefing: Manchester United's overall debt remains over £1bn despite Sir Jim Ratcliffe's extensive cost-cutting measures, with the club also confirming it has spent £63.5m buying…",
     "Manchester United's overall debt remains over £1bn despite Sir Jim Ratcliffe's extensive cost-cutting measures, with the club also confirming it has spent £63. 5m buying land for their new stadium.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Manchester_United_Old_Trafford.jpg/960px-Manchester_United_Old_Trafford.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Manchester_United_Old_Trafford_%28cropped%29.jpg/960px-Manchester_United_Old_Trafford_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
   },
   {
@@ -431,15 +642,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-23T14:03:42.000Z",
-   "fetched_at": "2026-09-23T21:11:42.849Z",
+   "fetched_at": "2026-09-23T23:52:24.025Z",
    "body": [
     "Our briefing: England winger Bukayo Saka says the team are still carrying the \"scar\" of their heartbreaking World Cup semi-final exit to Argentina.",
     "England winger Bukayo Saka says the team are still carrying the \"scar\" of their heartbreaking World Cup semi-final exit to Argentina.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Soccer_fans_put_town_in_siege_%28FL62506613%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506613%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
    "id": "guardian-manchester-united-report-seventh-straight-annual",
@@ -452,7 +663,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-23T13:41:16.000Z",
-   "fetched_at": "2026-09-23T21:11:43.042Z",
+   "fetched_at": "2026-09-23T23:52:24.231Z",
    "body": [
     "Our briefing: Net loss of £43m for year ended 30 June 2026 Revenue hits record £677.6m and forecast to grow Manchester United have reported an annual loss for the seventh ­successive…",
     "Net loss of £43m for year ended 30 June 2026 Revenue hits record £677. 6m and forecast to grow Manchester United have reported an annual loss for the seventh ­successive year, taking the club’s combined losses to £444m since 2019. The financial results were released as it emerged United are raising revenue by selling small clumps of grass from the Old Trafford pitch to supporters.",
@@ -474,7 +685,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-23T13:33:48.000Z",
-   "fetched_at": "2026-09-23T21:11:43.042Z",
+   "fetched_at": "2026-09-23T23:52:24.232Z",
    "body": [
     "Our briefing: The 23-year-old playmaker has been disappointing for Liverpool but has he really been that bad? By Opta Analyst When Florian Wirtz signed for Liverpool in the summer of…",
     "The 23-year-old playmaker has been disappointing for Liverpool but has he really been that bad? By Opta Analyst When Florian Wirtz signed for Liverpool in the summer of 2025, there was only one logical assumption. The Premier League champions at the time had recruited one of the hottest young talents in world football – a key player in the Bayer Leverkusen team that had won the double in 2023-24 and a star in the Germany team.",
@@ -484,8 +695,8 @@
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "YHC — CC BY-SA 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
    "id": "guardian-florian-wirtz-does-not-look-like-116m-player-but",
@@ -522,15 +733,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-23T13:20:00.000Z",
-   "fetched_at": "2026-09-23T21:11:42.850Z",
+   "fetched_at": "2026-09-23T23:52:24.026Z",
    "body": [
     "Our briefing: Aaron Paul, Jobi McAnuff and Neil Harris chat Southampton, Swansea & much more.",
     "Aaron Paul, Jobi McAnuff and Neil Harris chat Southampton, Swansea & much more.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Soccer_fans_put_town_in_siege_%28FL62506945%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506945%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
    "id": "guardian-chelsea-have-entered-realm-late-stage-american-s",
@@ -543,7 +754,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-09-23T13:16:41.000Z",
-   "fetched_at": "2026-09-23T17:46:22.287Z",
+   "fetched_at": "2026-09-23T23:52:24.232Z",
    "body": [
     "Our briefing: The Blues’ lack of success was no impediment to Todd Boehly and Mark Walter recouping profits from the club’s sale. That’s how things work in the US Here follows a list…",
     "The Blues’ lack of success was no impediment to Todd Boehly and Mark Walter recouping profits from the club’s sale. That’s how things work in the US Here follows a list of the things accomplished at Chelsea Football Club during a time that historians may choose to grandly term the First Clearlake Era, or perhaps the Boehly Bungle. Since the May 2022 purchase of the club from the sanctioned Russian oligarch Roman Abramovich, when Todd Boehly took over the club’s daily operations, Chelsea – Premier League champions as recently as 2017 and 2015, and Champions League winners in 2021 – have placed 12th, sixth, fourth and 10th in the league.",
@@ -566,15 +777,13 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-23T12:34:52.000Z",
-   "fetched_at": "2026-09-23T21:11:42.850Z",
+   "fetched_at": "2026-09-23T23:52:24.026Z",
    "body": [
     "Our briefing: Sam Kerr and Martha Thomas are named in their first Scotland squad in almost a year for next month's World Cup round one play-offs against the Czech Republic.",
     "Sam Kerr and Martha Thomas are named in their first Scotland squad in almost a year for next month's World Cup round one play-offs against the Czech Republic.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+   ]
   },
   {
    "id": "independent-gary-lineker-reveals-he-refused-work-fifa-after-",
@@ -587,13 +796,12 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-23T12:29:17.000Z",
-   "fetched_at": "2026-09-23T17:46:22.380Z",
+   "fetched_at": "2026-09-23T23:52:24.363Z",
    "body": [
     "Our briefing: Lineker was asked to meet the Russian president while hosting the draw for the 2018 World Cup",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   ]
   },
   {
    "id": "bbc-ad-break-women-s-champions-league-was-unschedule",
@@ -606,15 +814,13 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-09-23T12:28:03.000Z",
-   "fetched_at": "2026-09-23T21:11:42.849Z",
+   "fetched_at": "2026-09-23T23:52:24.025Z",
    "body": [
     "Our briefing: Coverage of Arsenal's Women's Champions League opener also featured a dog on set, a vegetable platter and a rotating floor.",
     "Coverage of Arsenal's Women's Champions League opener also featured a dog on set, a vegetable platter and a rotating floor.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   ]
   },
   {
    "id": "bbc-ad-break-during-game-was-unscheduled-says-disney",
@@ -648,219 +854,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-09-23T12:08:40.000Z",
-   "fetched_at": "2026-09-23T17:46:22.380Z",
+   "fetched_at": "2026-09-23T23:52:24.363Z",
    "body": [
     "Our briefing: Amorim was sacked by United in January after 14 months in charge",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Manchester_United_Old_Trafford_%28cropped%29.jpg/960px-Manchester_United_Old_Trafford_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
-  },
-  {
-   "id": "bbc-fight-each-other-defend-like-brothers-pocognoli-",
-   "slug": "fight-for-each-other-defend-like-brothers-pocognoli-s-scotla-noli-",
-   "title": "Fight for each other & defend like brothers - Pocognoli's Scotland blueprint",
-   "dek": "Pocognoli reveals the principles behind his new-look Scotland side",
-   "description": "Pocognoli reveals the principles behind his new-look Scotland side",
-   "category": "News",
-   "league": "International",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-09-23T12:00:00.000Z",
-   "fetched_at": "2026-09-23T21:11:42.851Z",
-   "body": [
-    "Our briefing: Pocognoli reveals the principles behind his new-look Scotland side",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Kashima_Soccer_Stadium_6.jpg/960px-Kashima_Soccer_Stadium_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
-  },
-  {
-   "id": "independent-teenager-denies-sending-racist-message-lionesses",
-   "slug": "teenager-denies-sending-racist-message-to-lionesses-star-jes-esses",
-   "title": "Teenager denies sending racist message to Lionesses star Jess Carter during Euro 2025",
-   "dek": "Jess Carter was part of the Lionesses squad that won the Euros in Switzerland last year",
-   "description": "Jess Carter was part of the Lionesses squad that won the Euros in Switzerland last year",
-   "category": "Match Reports",
-   "league": "Football",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-09-23T11:44:05.000Z",
-   "fetched_at": "2026-09-23T17:46:22.380Z",
-   "body": [
-    "Our briefing: Jess Carter was part of the Lionesses squad that won the Euros in Switzerland last year",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "bbc-james-had-options-but-wrexham-not-among-them",
-   "slug": "james-had-options-but-wrexham-not-among-them--them",
-   "title": "James had options - but Wrexham not among them",
-   "dek": "Jordan James says he turned down possible Premier League moves to join Wolverhampton Wanderers last month – and that talk of signing for Wrexham ended in the summer of…",
-   "description": "Jordan James says he turned down possible Premier League moves to join Wolverhampton Wanderers last month – and that talk of signing for Wrexham ended in the summer of 2025.",
-   "category": "Transfers & Rumours",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-09-23T11:38:51.000Z",
-   "fetched_at": "2026-09-23T21:11:42.850Z",
-   "body": [
-    "Our briefing: Jordan James says he turned down possible Premier League moves to join Wolverhampton Wanderers last month – and that talk of signing for Wrexham ended in the summer of…",
-    "Jordan James says he turned down possible Premier League moves to join Wolverhampton Wanderers last month – and that talk of signing for Wrexham ended in the summer of 2025.",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
-  },
-  {
-   "id": "bbc-pocognoli-has-positive-nervousness-scotland-debu",
-   "slug": "pocognoli-has-positive-nervousness-for-scotland-debut--debu",
-   "title": "Pocognoli has 'positive nervousness' for Scotland debut",
-   "dek": "Scotland head coach Sebastien Pocognoli admits to feeling a \"positive nervousness\" before his first game in charge of the country, a Nations League tie against Slovenia…",
-   "description": "Scotland head coach Sebastien Pocognoli admits to feeling a \"positive nervousness\" before his first game in charge of the country, a Nations League tie against Slovenia in Ljubljana on Saturday.",
-   "category": "News",
-   "league": "International",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-09-23T11:28:58.000Z",
-   "fetched_at": "2026-09-23T21:11:42.849Z",
-   "body": [
-    "Our briefing: Scotland head coach Sebastien Pocognoli admits to feeling a \"positive nervousness\" before his first game in charge of the country, a Nations League tie against Slovenia…",
-    "Scotland head coach Sebastien Pocognoli admits to feeling a \"positive nervousness\" before his first game in charge of the country, a Nations League tie against Slovenia in Ljubljana on Saturday.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "bbc-it-can-t-be-brushed-over-republic-ireland-squad-",
-   "slug": "it-can-t-be-brushed-over-republic-of-ireland-squad-to-discus-quad-",
-   "title": "'It can't be brushed over' - Republic of Ireland squad to discuss Israel games",
-   "dek": "Dara O'Shea says the Republic of Ireland squad will wait until after Thursday's Kosovo game before discussing how they approach Sunday's contentious fixture against…",
-   "description": "Dara O'Shea says the Republic of Ireland squad will wait until after Thursday's Kosovo game before discussing how they approach Sunday's contentious fixture against Israel.",
-   "category": "Tactics & Analysis",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-09-23T11:20:34.000Z",
-   "fetched_at": "2026-09-23T21:11:42.850Z",
-   "body": [
-    "Our briefing: Dara O'Shea says the Republic of Ireland squad will wait until after Thursday's Kosovo game before discussing how they approach Sunday's contentious fixture against…",
-    "Dara O'Shea says the Republic of Ireland squad will wait until after Thursday's Kosovo game before discussing how they approach Sunday's contentious fixture against Israel.",
-    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "independent-real-madrid-referee-row-rages-club-calls-new-lal",
-   "slug": "real-madrid-referee-row-rages-on-as-club-calls-for-new-lalig-w-lal",
-   "title": "Real Madrid referee row rages on as club calls for new LaLiga president",
-   "dek": "Madrid have branded LaLiga president Javier Tebas’ response to the club’s refereeing complaints as ‘intolerable’",
-   "description": "Madrid have branded LaLiga president Javier Tebas’ response to the club’s refereeing complaints as ‘intolerable’",
-   "category": "News",
-   "league": "La Liga",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-09-23T11:16:25.000Z",
-   "fetched_at": "2026-09-23T17:46:22.380Z",
-   "body": [
-    "Our briefing: Madrid have branded LaLiga president Javier Tebas’ response to the club’s refereeing complaints as ‘intolerable’",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Santiago_Bernabeu_-_Real_Madrid_Football_Stadium_-_Madrid_-_Spain_-_01.jpg/960px-Santiago_Bernabeu_-_Real_Madrid_Football_Stadium_-_Madrid_-_Spain_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Adam Jones, Ph.D. — CC BY-SA 3.0"
-  },
-  {
-   "id": "independent-copa-independent-united-permacrisis-should-it-be",
-   "slug": "copa-independent-the-united-permacrisis-should-it-be-this-di-it-be",
-   "title": "Copa Independent | The United permacrisis – should it be this difficult?",
-   "dek": "Permacrisis: a long period of great difficulty, confusion or suffering that seems to have no end.",
-   "description": "Permacrisis: a long period of great difficulty, confusion or suffering that seems to have no end.",
-   "category": "News",
-   "league": "Football",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-09-23T11:05:25.000Z",
-   "fetched_at": "2026-09-23T17:46:22.380Z",
-   "body": [
-    "Our briefing: Permacrisis: a long period of great difficulty, confusion or suffering that seems to have no end.",
-    "Permacrisis: a long period of great difficulty, confusion or suffering that seems to have no end.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Soccer_fans_put_town_in_siege_%28FL62506613%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506613%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "bbc-teenager-denies-sending-racist-message-carter",
-   "slug": "teenager-denies-sending-racist-message-to-carter-arter",
-   "title": "Teenager denies sending racist message to Carter",
-   "dek": "A court hears that Aaryan Aggarwal called Jess Carter \"stupid\" and \"ugly before using a racial slur.",
-   "description": "A court hears that Aaryan Aggarwal called Jess Carter \"stupid\" and \"ugly before using a racial slur.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-09-23T10:52:21.000Z",
-   "fetched_at": "2026-09-23T21:11:42.850Z",
-   "body": [
-    "Our briefing: A court hears that Aaryan Aggarwal called Jess Carter \"stupid\" and \"ugly before using a racial slur.",
-    "A court hears that Aaryan Aggarwal called Jess Carter \"stupid\" and \"ugly before using a racial slur.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "independent-andy-robertson-explains-what-tottenham-must-do-b",
-   "slug": "andy-robertson-explains-what-tottenham-must-do-to-bounce-bac--do-b",
-   "title": "Andy Robertson explains what Tottenham must do to bounce back from disastrous start to the season",
-   "dek": "Tottenham sit bottom of the Premier League table after picking up just two points from five matches",
-   "description": "Tottenham sit bottom of the Premier League table after picking up just two points from five matches",
-   "category": "Tactics & Analysis",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-09-23T10:51:31.000Z",
-   "fetched_at": "2026-09-23T17:46:22.380Z",
-   "body": [
-    "Our briefing: Tottenham sit bottom of the Premier League table after picking up just two points from five matches",
-    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/London_Tottenham_Hotspur_Stadium.jpg/960px-London_Tottenham_Hotspur_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
-  },
-  {
-   "id": "independent-ireland-manager-responds-israel-criticism-after-",
-   "slug": "ireland-manager-responds-to-israel-criticism-after-genocide--fter-",
-   "title": "Ireland manager responds to Israel criticism after ‘genocide’ comments: ‘Not clever from me’",
-   "dek": "Hallgrimsson has received support from the Irish taoiseach but admitted that his comments saying Ireland will be ‘playing against genocide’ were ‘not clever from me’",
-   "description": "Hallgrimsson has received support from the Irish taoiseach but admitted that his comments saying Ireland will be ‘playing against genocide’ were ‘not clever from me’",
-   "category": "News",
-   "league": "Football",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-09-23T10:42:37.000Z",
-   "fetched_at": "2026-09-23T17:46:22.380Z",
-   "body": [
-    "Our briefing: Hallgrimsson has received support from the Irish taoiseach but admitted that his comments saying Ireland will be ‘playing against genocide’ were ‘not clever from me’",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Soccer_fans_put_town_in_siege_%28FL62506945%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506945%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/25_July_2010_Kansas_City_Wizards_vs_Manchester_United_friendly.jpg/960px-25_July_2010_Kansas_City_Wizards_vs_Manchester_United_friendly.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Conman33 — CC BY-SA 4.0"
   }
  ]
 }
