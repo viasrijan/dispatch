@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-06T09:14:28.977Z",
- "updated_utc": "2026-10-06T09:14Z",
- "cycle": 29854634,
+ "generated_at": "2026-10-06T16:08:23.653Z",
+ "updated_utc": "2026-10-06T16:08Z",
+ "cycle": 29855048,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,8 +16,473 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "independent-thomas-tuchel-s-appetite-youth-shows-england-s-e",
+ "hero_id": "bbc-kamara-might-miss-qpr-s-next-game-over-finland-r",
  "articles": [
+  {
+   "id": "bbc-marsch-calls-usa-politics-big-talk-pochettino-pr",
+   "slug": "marsch-calls-usa-politics-big-talk-as-pochettino-praises-can-no-pr",
+   "title": "Marsch calls USA politics 'big talk' as Pochettino praises Canada coach",
+   "dek": "Canada manager Jesse Marsch calls USA politics \"big talk\" while US coach Mauricio Pochettino praises his opposite number before Tuesday's game.",
+   "description": "Canada manager Jesse Marsch calls USA politics \"big talk\" while US coach Mauricio Pochettino praises his opposite number before Tuesday's game.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-06T15:54:22.000Z",
+   "fetched_at": "2026-10-06T16:08:15.694Z",
+   "body": [
+    "Our briefing: Canada manager Jesse Marsch calls USA politics \"big talk\" while US coach Mauricio Pochettino praises his opposite number before Tuesday's game.",
+    "Canada manager Jesse Marsch calls USA politics \"big talk\" while US coach Mauricio Pochettino praises his opposite number before Tuesday's game.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "John Shorten — CC BY 4.0"
+  },
+  {
+   "id": "independent-cardiff-s-krystian-bielik-handed-two-match-ban-f",
+   "slug": "cardiff-s-krystian-bielik-handed-two-match-ban-and-fined-for-ban-f",
+   "title": "Cardiff’s Krystian Bielik handed two-match ban and fined for altercation with fan",
+   "dek": "Bielik was alleged to have grappled with a teenage boy as he went to retrieve the ball from the crowd in Cardiff’s match with Portsmouth",
+   "description": "Bielik was alleged to have grappled with a teenage boy as he went to retrieve the ball from the crowd in Cardiff’s match with Portsmouth",
+   "category": "News",
+   "league": "Football",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-10-06T15:32:54.000Z",
+   "fetched_at": "2026-10-06T16:08:15.916Z",
+   "body": [
+    "Our briefing: Bielik was alleged to have grappled with a teenage boy as he went to retrieve the ball from the crowd in Cardiff’s match with Portsmouth",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+  },
+  {
+   "id": "bbc-kamara-might-miss-qpr-s-next-game-over-finland-r",
+   "slug": "kamara-might-miss-qpr-s-next-game-over-finland-row-and-r",
+   "title": "Kamara might miss QPR's next game over Finland row",
+   "dek": "QPR might be without Glen Kamara for Friday's Championship game against West Ham, if Fifa intervene in a club versus country dispute.",
+   "description": "QPR might be without Glen Kamara for Friday's Championship game against West Ham, if Fifa intervene in a club versus country dispute.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-06T15:11:22.000Z",
+   "fetched_at": "2026-10-06T16:08:15.693Z",
+   "body": [
+    "Our briefing: QPR might be without Glen Kamara for Friday's Championship game against West Ham, if Fifa intervene in a club versus country dispute.",
+    "QPR might be without Glen Kamara for Friday's Championship game against West Ham, if Fifa intervene in a club versus country dispute.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+  },
+  {
+   "id": "independent-gianni-infantino-faces-fresh-world-cup-eligibili",
+   "slug": "gianni-infantino-faces-fresh-world-cup-eligibility-scandal-o-ibili",
+   "title": "Gianni Infantino faces fresh World Cup eligibility scandal over goalkeeper who played against England",
+   "dek": "Lionel Mpasi faced England at the World Cup, but questions have now been raised over his eligibility",
+   "description": "Lionel Mpasi faced England at the World Cup, but questions have now been raised over his eligibility",
+   "category": "News",
+   "league": "International",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-10-06T15:01:57.000Z",
+   "fetched_at": "2026-10-06T16:08:15.916Z",
+   "body": [
+    "Our briefing: Lionel Mpasi faced England at the World Cup, but questions have now been raised over his eligibility",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+  },
+  {
+   "id": "independent-uefa-investigate-ireland-israel-half-time-incide",
+   "slug": "uefa-to-investigate-ireland-israel-half-time-incident-after--ncide",
+   "title": "Uefa to investigate Ireland-Israel half-time incident after spitting allegations",
+   "dek": "Ireland’s fitness coach Damien Doyle is understood to have alleged he was spat at by an Israel player",
+   "description": "Ireland’s fitness coach Damien Doyle is understood to have alleged he was spat at by an Israel player",
+   "category": "Injuries",
+   "league": "Football",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-10-06T14:47:23.000Z",
+   "fetched_at": "2026-10-06T16:08:15.916Z",
+   "body": [
+    "Our briefing: Ireland’s fitness coach Damien Doyle is understood to have alleged he was spat at by an Israel player",
+    "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Health_Report-_Soccer_Concussions.webm/500px--Health_Report-_Soccer_Concussions.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "imageCredit": null
+  },
+  {
+   "id": "guardian-football-daily-south-korea-s-golden-boys-brouhah",
+   "slug": "daily-south-korea-s-golden-boys-and-a-brouhaha-over-military-ouhah",
+   "title": "Daily | South Korea’s golden boys and a brouhaha over military service",
+   "dek": "Sign up now! Sign up now! Sign up now? Sign up now! In his 1965 song Draft Dodger Rag, Phil Ochs detailed the occasionally ludicrous lengths some young American men went…",
+   "description": "Sign up now! Sign up now! Sign up now? Sign up now! In his 1965 song Draft Dodger Rag, Phil Ochs detailed the occasionally ludicrous lengths some young American men went to avoid conscription to the military. While he listed ruptured spleens, poor eyesight and flat feet as more mundane ailments, mentions of bone spurs (Donald J Trump), conscientious objecting (Muhammad Ali) and 30-day hygiene protests (Ted Nugent) were all conspicuous by their absence from the protest singer’s lyrics. Ochs almost certainly had no idea that the best way to avoid the draft in South Korea is to be really good at sport. Continue reading...",
+   "category": "News",
+   "league": "Football",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-10-06T14:28:32.000Z",
+   "fetched_at": "2026-10-06T16:08:15.790Z",
+   "body": [
+    "Our briefing: Sign up now! Sign up now! Sign up now? Sign up now! In his 1965 song Draft Dodger Rag, Phil Ochs detailed the occasionally ludicrous lengths some young American men went…",
+    "Sign up now! Sign up now! Sign up now?",
+    "Sign up now! In his 1965 song Draft Dodger Rag, Phil Ochs detailed the occasionally ludicrous lengths some young American men went to avoid conscription to the military. While he listed ruptured spleens, poor eyesight and flat feet as more mundane ailments, mentions of bone spurs (Donald J Trump), conscientious objecting (Muhammad Ali) and 30-day hygiene protests (Ted Nugent) were all conspicuous by their absence from the protest singer’s lyrics.",
+    "Ochs almost certainly had no idea that the best way to avoid the draft in South Korea is to be really good at sport. Continue reading...",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/CPSL_2005_semifinals_-_Esther_Shiner_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "Robin Glover — CC BY 4.0"
+  },
+  {
+   "id": "bbc-shevchenko-s-son-signs-seventh-tier-club",
+   "slug": "shevchenko-s-son-signs-for-seventh-tier-club--club",
+   "title": "Shevchenko's son signs for seventh-tier club",
+   "dek": "Kristian Shevchenko, son of Ballon d'Or winner Andriy Shevchenko, signs for seventh-tier club Sholing FC.",
+   "description": "Kristian Shevchenko, son of Ballon d'Or winner Andriy Shevchenko, signs for seventh-tier club Sholing FC.",
+   "category": "Transfers & Rumours",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-06T13:53:17.000Z",
+   "fetched_at": "2026-10-06T16:08:15.693Z",
+   "body": [
+    "Our briefing: Kristian Shevchenko, son of Ballon d'Or winner Andriy Shevchenko, signs for seventh-tier club Sholing FC.",
+    "Kristian Shevchenko, son of Ballon d'Or winner Andriy Shevchenko, signs for seventh-tier club Sholing FC.",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Badalik_Szabolcs_Hungarian_beach_soccer_player.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "Badalik Szabolcs — CC BY 4.0"
+  },
+  {
+   "id": "bbc-what-s-it-like-be-world-cup-final-referee",
+   "slug": "what-s-it-like-to-be-the-world-cup-final-referee-feree",
+   "title": "What's it like to be the World Cup final referee?",
+   "dek": "Slavko Vincic, who refereed the 2026 World Cup final, reveals what it's like to take charge of the biggest game in football.",
+   "description": "Slavko Vincic, who refereed the 2026 World Cup final, reveals what it's like to take charge of the biggest game in football.",
+   "category": "News",
+   "league": "International",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-06T13:35:46.000Z",
+   "fetched_at": "2026-10-06T16:08:15.694Z",
+   "body": [
+    "Our briefing: Slavko Vincic, who refereed the 2026 World Cup final, reveals what it's like to take charge of the biggest game in football.",
+    "Slavko Vincic, who refereed the 2026 World Cup final, reveals what it's like to take charge of the biggest game in football.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+  },
+  {
+   "id": "bbc-cardiff-s-bielik-banned-over-portsmouth-incident",
+   "slug": "cardiff-s-bielik-banned-over-portsmouth-incident-ident",
+   "title": "Cardiff's Bielik banned over Portsmouth incident",
+   "dek": "The Football Association bans Cardiff City defender Krystian Bielik for two games and fines him £10,000 after he admitted a case of misconduct involving a Portsmouth fan.",
+   "description": "The Football Association bans Cardiff City defender Krystian Bielik for two games and fines him £10,000 after he admitted a case of misconduct involving a Portsmouth fan.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-06T13:34:35.000Z",
+   "fetched_at": "2026-10-06T16:08:15.693Z",
+   "body": [
+    "Our briefing: The Football Association bans Cardiff City defender Krystian Bielik for two games and fines him £10,000 after he admitted a case of misconduct involving a Portsmouth fan.",
+    "The Football Association bans Cardiff City defender Krystian Bielik for two games and fines him £10,000 after he admitted a case of misconduct involving a Portsmouth fan.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": null
+  },
+  {
+   "id": "independent-liverpool-left-sweating-fitness-key-player-man-c",
+   "slug": "liverpool-left-sweating-on-fitness-of-key-player-for-man-cit-man-c",
+   "title": "Liverpool left sweating on fitness of key player for Man City showdown",
+   "dek": "Liverpool will host Manchester City in a mouthwatering clash at Anfield on Sunday",
+   "description": "Liverpool will host Manchester City in a mouthwatering clash at Anfield on Sunday",
+   "category": "Injuries",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-10-06T13:32:56.000Z",
+   "fetched_at": "2026-10-06T16:08:15.916Z",
+   "body": [
+    "Our briefing: Liverpool will host Manchester City in a mouthwatering clash at Anfield on Sunday",
+    "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Danger_Risk_of_Life-Changing_Injuries%2C_Liverpool_Street_tube_station_2025-11-16.jpg/960px-Danger_Risk_of_Life-Changing_Injuries%2C_Liverpool_Street_tube_station_2025-11-16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Cory Doctorow — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-us-group-given-sfa-green-light-bid-buy-shrewsbur",
+   "slug": "us-group-given-sfa-green-light-in-bid-to-buy-shrewsbury-wsbur",
+   "title": "US group given SFA green light in bid to buy Shrewsbury",
+   "dek": "The US group trying to buy Shrewsbury Town get clearance to hold controlling interests in two clubs after the Scottish FA give green light over involvement with Spartans…",
+   "description": "The US group trying to buy Shrewsbury Town get clearance to hold controlling interests in two clubs after the Scottish FA give green light over involvement with Spartans FC.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-06T13:28:53.000Z",
+   "fetched_at": "2026-10-06T16:08:15.693Z",
+   "body": [
+    "Our briefing: The US group trying to buy Shrewsbury Town get clearance to hold controlling interests in two clubs after the Scottish FA give green light over involvement with Spartans…",
+    "The US group trying to buy Shrewsbury Town get clearance to hold controlling interests in two clubs after the Scottish FA give green light over involvement with Spartans FC.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
+   "id": "bbc-spartans-owner-given-dual-ownership-clearance",
+   "slug": "spartans-owner-given-dual-ownership-clearance-rance",
+   "title": "Spartans owner given dual ownership clearance",
+   "dek": "The US group trying to buy Shrewsbury Town get clearance to hold controlling interests in two clubs after the Scottish FA give green light over involvement with Spartans…",
+   "description": "The US group trying to buy Shrewsbury Town get clearance to hold controlling interests in two clubs after the Scottish FA give green light over involvement with Spartans FC.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-06T13:28:53.000Z",
+   "fetched_at": "2026-10-06T16:08:15.695Z",
+   "body": [
+    "Our briefing: The US group trying to buy Shrewsbury Town get clearance to hold controlling interests in two clubs after the Scottish FA give green light over involvement with Spartans…",
+    "The US group trying to buy Shrewsbury Town get clearance to hold controlling interests in two clubs after the Scottish FA give green light over involvement with Spartans FC.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
+   "id": "bbc-bradford-city-appoint-duff-new-boss",
+   "slug": "bradford-city-appoint-duff-as-new-boss--boss",
+   "title": "Bradford City appoint Duff as new boss",
+   "dek": "Bradford City appoint former Wycombe Wanderers boss Michael Duff as their new manager.",
+   "description": "Bradford City appoint former Wycombe Wanderers boss Michael Duff as their new manager.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-06T13:01:05.000Z",
+   "fetched_at": "2026-10-06T16:08:15.693Z",
+   "body": [
+    "Our briefing: Bradford City appoint former Wycombe Wanderers boss Michael Duff as their new manager.",
+    "Bradford City appoint former Wycombe Wanderers boss Michael Duff as their new manager.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
+  },
+  {
+   "id": "guardian-more-woe-arsenal-manchester-city-march-women-s-f",
+   "slug": "more-woe-for-arsenal-as-manchester-city-march-on-women-s-foo-n-s-f",
+   "title": "More woe for Arsenal as Manchester City march on – Women’s Football Weekly podcast",
+   "dek": "Faye Carruthers is joined by Suzanne Wrack , Tom Garry and Tim Stillman to discuss the weekend’s WSL action Faye Carruthers is joined by Suzanne Wrack , Tom Garry and Tim…",
+   "description": "Faye Carruthers is joined by Suzanne Wrack , Tom Garry and Tim Stillman to discuss the weekend’s WSL action Faye Carruthers is joined by Suzanne Wrack , Tom Garry and Tim Stillman to discuss the weekend’s WSL action On the podcast today: Manchester City beat Arsenal and stay unbeaten, while the pressure continues to grow on Reneé Slegers, whose Arsenal languish in 10th. London City Lionesses are finding their feet in the WSL as they put six past Tottenham, and title contenders Chelsea are impressive against West Ham. Continue reading...",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-10-06T12:22:40.000Z",
+   "fetched_at": "2026-10-06T16:08:15.792Z",
+   "body": [
+    "Our briefing: Faye Carruthers is joined by Suzanne Wrack , Tom Garry and Tim Stillman to discuss the weekend’s WSL action Faye Carruthers is joined by Suzanne Wrack , Tom Garry and Tim…",
+    "Faye Carruthers is joined by Suzanne Wrack , Tom Garry and Tim Stillman to discuss the weekend’s WSL action Faye Carruthers is joined by Suzanne Wrack , Tom Garry and Tim Stillman to discuss the weekend’s WSL action On the podcast today: Manchester City beat Arsenal and stay unbeaten, while the pressure continues to grow on Reneé Slegers, whose Arsenal languish in 10th. London City Lionesses are finding their feet in the WSL as they put six past Tottenham, and title contenders Chelsea are impressive against West Ham. Continue reading...",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Manchester_City_v_Arsenal%2C_League_Cup_2004-5_-_geograph.org.uk_-_3841596.jpg/960px-Manchester_City_v_Arsenal%2C_League_Cup_2004-5_-_geograph.org.uk_-_3841596.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Richard Cooke — CC BY-SA 2.0"
+  },
+  {
+   "id": "guardian-lionel-messi-has-completed-football-can-bid-arge",
+   "slug": "lionel-messi-has-completed-football-and-can-bid-argentina-fa--arge",
+   "title": "Lionel Messi has completed football and can bid Argentina farewell with pride",
+   "dek": "Messi says goodbye with 208 caps and a World Cup but there were times he thought his glory would never come By Opta Analyst Not for the first time, Lionel Messi is…",
+   "description": "Messi says goodbye with 208 caps and a World Cup but there were times he thought his glory would never come By Opta Analyst Not for the first time, Lionel Messi is returning to the Argentina national team. This occasion, however, will be accompanied by a sense of completion and celebration rather than obligation, as the country bids farewell to probably the greatest footballer ever. Messi will wear the Argentina shirt one last time this week for a friendly in Buenos Aires against Benin (who else?!) after he was invited back for a celebratory runout following his decision to retire from international football after the World Cup final. He has retired before. In 2016, having suffered heartbreak in a major international final for the third year in a row, Messi was seemingly done . “This is tough and a difficult time,” he said after the Copa América Centenario final defeat to Chile . “The end has come for me and our team. It has been four finals – it just wasn’t for me unfortunately. I looked for it and wanted it so badly, but it didn’t happen. This is best for everyone – for me and for a lot of people that wish this. The team has ended for me, a decision made. I tried many times and I leave without being able to obtain it.” Continue reading...",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-10-06T11:07:41.000Z",
+   "fetched_at": "2026-10-06T16:08:15.790Z",
+   "body": [
+    "Our briefing: Messi says goodbye with 208 caps and a World Cup but there were times he thought his glory would never come By Opta Analyst Not for the first time, Lionel Messi is…",
+    "Messi says goodbye with 208 caps and a World Cup but there were times he thought his glory would never come By Opta Analyst Not for the first time, Lionel Messi is returning to the Argentina national team. This occasion, however, will be accompanied by a sense of completion and celebration rather than obligation, as the country bids farewell to probably the greatest footballer ever. Messi will wear the Argentina shirt one last time this week for a friendly in Buenos Aires against Benin (who else?!",
+    ") after he was invited back for a celebratory runout following his decision to retire from international football after the World Cup final. He has retired before. In 2016, having suffered heartbreak in a major international final for the third year in a row, Messi was seemingly done .",
+    "“This is tough and a difficult time,” he said after the Copa América Centenario final defeat to Chile . “The end has come for me and our team. It has been four finals – it just wasn’t for me unfortunately.",
+    "I looked for it and wanted it so badly, but it didn’t happen. This is best for everyone – for me and for a lot of people that wish this. The team has ended for me, a decision made.",
+    "I tried many times and I leave without being able to obtain it. ” Continue reading...",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-how-promotion-relegation-knockouts-work-nations-",
+   "slug": "how-promotion-relegation-and-knockouts-work-in-nations-leagu-ions-",
+   "title": "How promotion, relegation and knockouts work in Nations League",
+   "dek": "With more than half of the 2026-27 Nations League group stage completed, BBC Sport looks at what will happen next in the competition.",
+   "description": "With more than half of the 2026-27 Nations League group stage completed, BBC Sport looks at what will happen next in the competition.",
+   "category": "Tactics & Analysis",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-06T11:01:49.000Z",
+   "fetched_at": "2026-10-06T16:08:15.693Z",
+   "body": [
+    "Our briefing: With more than half of the 2026-27 Nations League group stage completed, BBC Sport looks at what will happen next in the competition.",
+    "With more than half of the 2026-27 Nations League group stage completed, BBC Sport looks at what will happen next in the competition.",
+    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
+  },
+  {
+   "id": "guardian-union-berlin-s-marie-louise-eta-i-wanted-impress",
+   "slug": "union-berlin-s-marie-louise-eta-i-wanted-to-impress-through--press",
+   "title": "Union Berlin’s Marie-Louise Eta: ‘I wanted to impress through my work, not because I am a woman’",
+   "dek": "The 35-year-old reflects on a momentous year after making history as the first woman to take charge of a men’s team in one of Europe’s top five leagues In April…",
+   "description": "The 35-year-old reflects on a momentous year after making history as the first woman to take charge of a men’s team in one of Europe’s top five leagues In April Marie-Louise Eta became the first woman to lead a men’s top-flight team in one of Europe’s big five leagues , stepping in as interim head coach of Union Berlin following the dismissal of Steffen Baumgart. Her job was to keep Union in the Bundesliga and she did just that with two wins, a draw and two losses in her five games. They finished 11th. It was not the first time the trailblazer had made history. Three years earlier she had become the first woman to serve as an assistant coach in the men’s Bundesliga and in 2024 she led the Union men’s team in one game. The Bayern Munich manager, Vincent Kompany, described her appointment as something that could open doors for younger women who want to become coaches. This is an extract from our free email about women’s football, Moving the Goalposts. To get the full edition, visit this page and follow the instructions . Moving the Goalposts is delivered to your inboxes every Tuesday and Thursday . Continue reading...",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-10-06T10:38:52.000Z",
+   "fetched_at": "2026-10-06T16:08:15.791Z",
+   "body": [
+    "Our briefing: The 35-year-old reflects on a momentous year after making history as the first woman to take charge of a men’s team in one of Europe’s top five leagues In April…",
+    "The 35-year-old reflects on a momentous year after making history as the first woman to take charge of a men’s team in one of Europe’s top five leagues In April Marie-Louise Eta became the first woman to lead a men’s top-flight team in one of Europe’s big five leagues , stepping in as interim head coach of Union Berlin following the dismissal of Steffen Baumgart. Her job was to keep Union in the Bundesliga and she did just that with two wins, a draw and two losses in her five games. They finished 11th.",
+    "It was not the first time the trailblazer had made history. Three years earlier she had become the first woman to serve as an assistant coach in the men’s Bundesliga and in 2024 she led the Union men’s team in one game. The Bayern Munich manager, Vincent Kompany, described her appointment as something that could open doors for younger women who want to become coaches.",
+    "This is an extract from our free email about women’s football, Moving the Goalposts. To get the full edition, visit this page and follow the instructions . Moving the Goalposts is delivered to your inboxes every Tuesday and Thursday .",
+    "Continue reading...",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+  },
+  {
+   "id": "guardian-uefa-investigating-allegation-israel-player-spat",
+   "slug": "uefa-investigating-allegation-israel-player-spat-at-ireland---spat",
+   "title": "Uefa investigating allegation Israel player spat at Ireland coach",
+   "dek": "Allegation of an incident in or near tunnel at half-time Israeli FA denies anyone ‘spat towards the coach’ Uefa has launched an investigation into claims a member of the…",
+   "description": "Allegation of an incident in or near tunnel at half-time Israeli FA denies anyone ‘spat towards the coach’ Uefa has launched an investigation into claims a member of the Republic of Ireland coaching staff was spat at during the heated Nations League encounter with Israel on Sunday. The European governing body has confirmed that post-match reports submitted by match officials “contained an allegation of an incident in or around the tunnel at half-time” and that it will be the subject of a disciplinary investigation “regarding potential misconducts from player(s)”. Continue reading...",
+   "category": "News",
+   "league": "Football",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-10-06T10:09:51.000Z",
+   "fetched_at": "2026-10-06T16:08:15.790Z",
+   "body": [
+    "Our briefing: Allegation of an incident in or near tunnel at half-time Israeli FA denies anyone ‘spat towards the coach’ Uefa has launched an investigation into claims a member of the…",
+    "Allegation of an incident in or near tunnel at half-time Israeli FA denies anyone ‘spat towards the coach’ Uefa has launched an investigation into claims a member of the Republic of Ireland coaching staff was spat at during the heated Nations League encounter with Israel on Sunday. The European governing body has confirmed that post-match reports submitted by match officials “contained an allegation of an incident in or around the tunnel at half-time” and that it will be the subject of a disciplinary investigation “regarding potential misconducts from player(s)”. Continue reading...",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
+   "id": "guardian-next-generation-2026-60-best-young-talents-world",
+   "slug": "next-generation-2026-60-of-the-best-young-talents-in-world-f-world",
+   "title": "Next Generation 2026: 60 of the best young talents in world football",
+   "dek": "From ‘the new Toni Kroos’ to the US’ next big hope, Cavan Sullivan, we select some of the most talented players born in 2009. Check the progress of our classes of 2025 |…",
+   "description": "From ‘the new Toni Kroos’ to the US’ next big hope, Cavan Sullivan, we select some of the most talented players born in 2009. Check the progress of our classes of 2025 | 2024 | 2023 | 2022 | 2021 … back to 2014 . Here’s our Premier League class of 2026 Continue reading...",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-10-06T10:00:51.000Z",
+   "fetched_at": "2026-10-06T16:08:15.790Z",
+   "body": [
+    "Our briefing: From ‘the new Toni Kroos’ to the US’ next big hope, Cavan Sullivan, we select some of the most talented players born in 2009. Check the progress of our classes of 2025 |…",
+    "From ‘the new Toni Kroos’ to the US’ next big hope, Cavan Sullivan, we select some of the most talented players born in 2009. Check the progress of our classes of 2025 | 2024 | 2023 | 2022 | 2021 … back to 2014 . Here’s our Premier League class of 2026 Continue reading...",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Kashima_Soccer_Stadium_5.jpg/960px-Kashima_Soccer_Stadium_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
+  },
+  {
+   "id": "bbc-uefa-investigating-republic-ireland-israel-row-a",
+   "slug": "uefa-investigating-republic-of-ireland-israel-row-after-spit-row-a",
+   "title": "Uefa investigating Republic of Ireland-Israel row after spitting accusation",
+   "dek": "Uefa has confirms it is investigating the half-time incident during Sunday's Nations League game between Republic of Ireland and Israel following an accusation of…",
+   "description": "Uefa has confirms it is investigating the half-time incident during Sunday's Nations League game between Republic of Ireland and Israel following an accusation of spitting.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-06T09:42:17.000Z",
+   "fetched_at": "2026-10-06T16:08:15.693Z",
+   "body": [
+    "Our briefing: Uefa has confirms it is investigating the half-time incident during Sunday's Nations League game between Republic of Ireland and Israel following an accusation of…",
+    "Uefa has confirms it is investigating the half-time incident during Sunday's Nations League game between Republic of Ireland and Israel following an accusation of spitting.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "IPPA photographer — CC BY 4.0"
+  },
+  {
+   "id": "independent-lionel-messi-leaving-international-football-grac",
+   "slug": "lionel-messi-is-leaving-international-football-with-grace-cr--grac",
+   "title": "Lionel Messi is leaving international football with grace. Cristiano Ronaldo could never",
+   "dek": "Messi is retiring from international football at the right time, writes Will Castle , while his supposed ‘GOAT debate’ counterpart continues to chip away at his own…",
+   "description": "Messi is retiring from international football at the right time, writes Will Castle , while his supposed ‘GOAT debate’ counterpart continues to chip away at his own legacy",
+   "category": "News",
+   "league": "International",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-10-06T09:36:36.000Z",
+   "fetched_at": "2026-10-06T16:08:15.916Z",
+   "body": [
+    "Our briefing: Messi is retiring from international football at the right time, writes Will Castle , while his supposed ‘GOAT debate’ counterpart continues to chip away at his own…",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "IPPA photographer — CC BY 4.0"
+  },
+  {
+   "id": "independent-jamie-carragher-demands-multi-year-punishment-ma",
+   "slug": "jamie-carragher-demands-multi-year-punishment-for-man-city-a-nt-ma",
+   "title": "Jamie Carragher demands multi-year punishment for Man City after guilty verdict",
+   "dek": "Manchester City were found guilty of breaking Premier League rules by an independent commission, but have lodged an appeal against the verdict",
+   "description": "Manchester City were found guilty of breaking Premier League rules by an independent commission, but have lodged an appeal against the verdict",
+   "category": "Tactics & Analysis",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-10-06T09:13:03.000Z",
+   "fetched_at": "2026-10-06T16:08:15.916Z",
+   "body": [
+    "Our briefing: Manchester City were found guilty of breaking Premier League rules by an independent commission, but have lodged an appeal against the verdict",
+    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Manchester_City_dressing_room_2022.jpg/960px-Manchester_City_dressing_room_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Christian David — CC BY-SA 4.0"
+  },
   {
    "id": "guardian-brighton-are-world-s-most-forward-thinking-club-",
    "slug": "brighton-are-the-world-s-most-forward-thinking-club-jason-mc-club-",
@@ -29,7 +494,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-06T09:04:15.000Z",
-   "fetched_at": "2026-10-06T09:14:20.543Z",
+   "fetched_at": "2026-10-06T16:08:15.791Z",
    "body": [
     "Our briefing: Former Wycombe defender thought he might end up becoming a pastor but stayed in the game he loves “You blow your whistle and then, all of a sudden, voom , you have 20, 30…",
     "Former Wycombe defender thought he might end up becoming a pastor but stayed in the game he loves “You blow your whistle and then, all of a sudden, voom , you have 20, 30 people standing to attention,” says Jason McCarthy, discussing his transition into coaching after retiring from playing aged 29. He put on his first sessions while a defender at Wycombe, taking the club foundation’s under-16s. “I was so flustered.",
@@ -52,14 +517,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-06T08:59:08.000Z",
-   "fetched_at": "2026-10-06T09:14:20.710Z",
+   "fetched_at": "2026-10-06T16:08:15.916Z",
    "body": [
     "Our briefing: Here’s how the top 10 contenders rank in the race to lift the Ballon d’Or ahead of the ceremony on 25 October",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
    "id": "independent-thomas-tuchel-s-appetite-youth-shows-england-s-e",
@@ -72,14 +537,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-06T08:42:34.000Z",
-   "fetched_at": "2026-10-06T09:14:20.710Z",
+   "fetched_at": "2026-10-06T16:08:15.916Z",
    "body": [
     "Our briefing: Tuchel says Scott could now challenge Declan Rice for his starting role in the England squad after his superb debut against Croatia, the latest instance of the Three…",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "John Shorten — CC BY 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Soccer_fans_put_town_in_siege_%28FL62506613%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506613%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
    "id": "bbc-small-african-nation-ready-messi-s-big-night",
@@ -92,15 +557,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-06T07:50:34.000Z",
-   "fetched_at": "2026-10-06T09:14:20.206Z",
+   "fetched_at": "2026-10-06T16:08:15.694Z",
    "body": [
     "Our briefing: Benin are about to have their own moment in the limelight as they visit Argentina for Lionel Messi's final game.",
     "Benin are about to have their own moment in the limelight as they visit Argentina for Lionel Messi's final game.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Soccer_fans_put_town_in_siege_%28FL62506919%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506919%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
    "id": "bbc-donley-keen-add-goals-after-encouraging-ni-run",
@@ -113,15 +578,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-06T07:01:03.000Z",
-   "fetched_at": "2026-10-06T09:14:20.205Z",
+   "fetched_at": "2026-10-06T16:08:15.693Z",
    "body": [
     "Our briefing: After a four-game window with plenty of positives for Northern Ireland, there was perhaps just one lingering concern - their ability to score goals consistently.",
     "After a four-game window with plenty of positives for Northern Ireland, there was perhaps just one lingering concern - their ability to score goals consistently.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Soccer_fans_put_town_in_siege_%28FL62506945%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506945%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
    "id": "guardian-schooled-success-how-english-lessons-power-midtj",
@@ -134,7 +599,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-06T07:00:06.000Z",
-   "fetched_at": "2026-10-06T09:14:20.543Z",
+   "fetched_at": "2026-10-06T16:08:15.791Z",
    "body": [
     "Our briefing: In a squad with 17 nationalities from five continents, communication is key – and the Danish club enjoyed a bumper summer transfer window If there is a secret to…",
     "In a squad with 17 nationalities from five continents, communication is key – and the Danish club enjoyed a bumper summer transfer window If there is a secret to Midtjylland’s success in the transfer market then it starts in the classroom. Before this summer the Danish club renowned for an innovative approach had banked more than €200m (£170m) in sales since 2018, and they have just enjoyed the most profitable window in their short history. The departure of the Guinea-Bissau striker Franculino Djú for Trabzonspor and the Chile forward Darío Osorio’s move to Crystal Palace on loan with an obligation to buy will potentially bring in €62m (£53.",
@@ -143,8 +608,8 @@
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Badalik_Szabolcs_Hungarian_beach_soccer_player.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "Badalik Szabolcs — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "YHC — CC BY-SA 4.0"
   },
   {
    "id": "guardian-david-squires-david-beckham-s-heroics-england-v-",
@@ -157,15 +622,13 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-06T07:00:05.000Z",
-   "fetched_at": "2026-10-06T09:14:20.543Z",
+   "fetched_at": "2026-10-06T16:08:15.791Z",
    "body": [
     "Our briefing: Our cartoonist on the 25th anniversary of the England midfielder’s one-man rescue act at Old Trafford Buy this cartoon | Some of David’s favourite works And his latest…",
     "Our cartoonist on the 25th anniversary of the England midfielder’s one-man rescue act at Old Trafford Buy this cartoon | Some of David’s favourite works And his latest book, Chaos in the Box: get it now Continue reading...",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   ]
   },
   {
    "id": "bbc-podcast-time-first-hampden-win-pocognoli-s-scotl",
@@ -178,36 +641,32 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-06T07:00:00.000Z",
-   "fetched_at": "2026-10-06T09:14:20.207Z",
+   "fetched_at": "2026-10-06T16:08:15.695Z",
    "body": [
     "Our briefing: Can Scotland build on victory in Skopje and beat Slovenia at Hampden?",
     "Can Scotland build on victory in Skopje and beat Slovenia at Hampden?",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": null
+   ]
   },
   {
    "id": "bbc-south-korea-captain-apologises-gloating-over-mil",
    "slug": "south-korea-captain-apologises-for-gloating-over-military-se-r-mil",
    "title": "South Korea captain apologises for gloating over military service exemption",
-   "dek": "Lee Gi-hyuk apologises for gloating about avoiding South Korea's mandatory military service by captaining his country to the football gold medal at the Asian Games.",
-   "description": "Lee Gi-hyuk apologises for gloating about avoiding South Korea's mandatory military service by captaining his country to the football gold medal at the Asian Games.",
+   "dek": "Lee Gi-hyuk apologises for gloating about avoiding South Korea's mandatory military service.",
+   "description": "Lee Gi-hyuk apologises for gloating about avoiding South Korea's mandatory military service.",
    "category": "News",
    "league": "Football",
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-06T06:43:45.000Z",
-   "fetched_at": "2026-10-06T09:14:20.205Z",
+   "fetched_at": "2026-10-06T16:08:15.693Z",
    "body": [
-    "Our briefing: Lee Gi-hyuk apologises for gloating about avoiding South Korea's mandatory military service by captaining his country to the football gold medal at the Asian Games.",
-    "Lee Gi-hyuk apologises for gloating about avoiding South Korea's mandatory military service by captaining his country to the football gold medal at the Asian Games.",
+    "Our briefing: Lee Gi-hyuk apologises for gloating about avoiding South Korea's mandatory military service.",
+    "Lee Gi-hyuk apologises for gloating about avoiding South Korea's mandatory military service.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/CPSL_2005_semifinals_-_Esther_Shiner_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "Robin Glover — CC BY 4.0"
+   ]
   },
   {
    "id": "bbc-aston-villa-remain-keen-raskin-gossip",
@@ -220,7 +679,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-06T06:32:25.000Z",
-   "fetched_at": "2026-10-06T09:14:20.207Z",
+   "fetched_at": "2026-10-06T16:08:15.695Z",
    "body": [
     "Our briefing: Aston Villa remain keen on Rangers midfielder, Celtic set for tactical switch and Hearts teens to challenge for first-team places.",
     "Aston Villa remain keen on Rangers midfielder, Celtic set for tactical switch and Hearts teens to challenge for first-team places.",
@@ -241,35 +700,13 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-06T06:23:08.000Z",
-   "fetched_at": "2026-10-06T09:14:20.206Z",
+   "fetched_at": "2026-10-06T16:08:15.694Z",
    "body": [
     "Our briefing: Harry Kane will become England men's joint all-time leading appearance maker if he plays against Czech Republic on Tuesday.",
     "Harry Kane will become England men's joint all-time leading appearance maker if he plays against Czech Republic on Tuesday.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
-  },
-  {
-   "id": "independent-lionel-messi-leaving-international-football-grac",
-   "slug": "lionel-messi-is-leaving-international-football-with-grace-cr--grac",
-   "title": "Lionel Messi is leaving international football with grace. Cristiano Ronaldo could never",
-   "dek": "Comment: Messi is retiring from international football at the right time as he prepares for his Argentina swan song on Tuesday night",
-   "description": "Comment: Messi is retiring from international football at the right time as he prepares for his Argentina swan song on Tuesday night",
-   "category": "News",
-   "league": "International",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-10-06T06:22:54.000Z",
-   "fetched_at": "2026-10-06T09:14:20.710Z",
-   "body": [
-    "Our briefing: Comment: Messi is retiring from international football at the right time as he prepares for his Argentina swan song on Tuesday night",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   ]
   },
   {
    "id": "bbc-born-into-celtic-made-motherwell-welsh-comes-age",
@@ -282,7 +719,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-06T06:18:52.000Z",
-   "fetched_at": "2026-10-06T09:14:20.205Z",
+   "fetched_at": "2026-10-06T16:08:15.693Z",
    "body": [
     "Our briefing: It takes talent, resilience and good fortune in finding managers who believe in you, but dreams can come true. Stephen Welsh is living proof of it, writes Tom English.",
     "It takes talent, resilience and good fortune in finding managers who believe in you, but dreams can come true. Stephen Welsh is living proof of it, writes Tom English.",
@@ -303,36 +740,32 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-06T05:50:25.000Z",
-   "fetched_at": "2026-10-06T09:14:20.205Z",
+   "fetched_at": "2026-10-06T16:08:15.693Z",
    "body": [
     "Our briefing: Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
     "Test your ball knowledge against today's Who Am I? , Five in Five and Brainteaser.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   ]
   },
   {
    "id": "bbc-owner-businessman-player-messi-has-big-plans-gol",
    "slug": "owner-businessman-player-messi-has-big-plans-as-a-golden-era-s-gol",
    "title": "Owner, businessman & player: Messi has big plans as a golden era ends",
-   "dek": "Lionel Messi's Argentina career will end in a friendly against Benin. BBC Sport looks at what next for the 39-year-old?",
-   "description": "Lionel Messi's Argentina career will end in a friendly against Benin. BBC Sport looks at what next for the 39-year-old?",
+   "dek": "Lionel Messi's Argentina career will end in a friendly against Benin. BBC Sport looks at what is next for the 39-year-old.",
+   "description": "Lionel Messi's Argentina career will end in a friendly against Benin. BBC Sport looks at what is next for the 39-year-old.",
    "category": "News",
    "league": "Football",
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-06T05:39:49.000Z",
-   "fetched_at": "2026-10-06T09:14:20.205Z",
+   "fetched_at": "2026-10-06T16:08:15.693Z",
    "body": [
-    "Our briefing: Lionel Messi's Argentina career will end in a friendly against Benin. BBC Sport looks at what next for the 39-year-old?",
-    "Lionel Messi's Argentina career will end in a friendly against Benin. BBC Sport looks at what next for the 39-year-old?",
+    "Our briefing: Lionel Messi's Argentina career will end in a friendly against Benin. BBC Sport looks at what is next for the 39-year-old.",
+    "Lionel Messi's Argentina career will end in a friendly against Benin. BBC Sport looks at what is next for the 39-year-old.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+   ]
   },
   {
    "id": "bbc-wales-focus-albania-grainger-reunion-looms",
@@ -345,15 +778,13 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-06T04:56:59.000Z",
-   "fetched_at": "2026-10-06T09:14:20.206Z",
+   "fetched_at": "2026-10-06T16:08:15.694Z",
    "body": [
     "Our briefing: Wales face Albania in the Women's World Cup play-offs this week knowing a challenging reunion with Gemma Grainger may well be the prize on offer.",
     "Wales face Albania in the Women's World Cup play-offs this week knowing a challenging reunion with Gemma Grainger may well be the prize on offer.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
+   ]
   },
   {
    "id": "guardian-mary-fowler-ruled-out-matildas-friendlies-due-pe",
@@ -366,14 +797,14 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-06T00:23:00.000Z",
-   "fetched_at": "2026-10-06T09:14:20.543Z",
+   "fetched_at": "2026-10-06T16:08:15.791Z",
    "body": [
     "Our briefing: Manchester City attacker to miss Germany and Haiti games Charlton midfielder Leah Davidson called into Australia squad Matildas star Mary Fowler has been ruled out of…",
     "Manchester City attacker to miss Germany and Haiti games Charlton midfielder Leah Davidson called into Australia squad Matildas star Mary Fowler has been ruled out of upcoming friendly matches against Germany and Haiti due to personal circumstances. Football Australia confirmed on Tuesday morning Fowler would not feature in the upcoming international window, with four-cap Charlton midfielder Leah Davidson called up in her place. Continue reading...",
     "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Health_Report-_Soccer_Concussions.webm/500px--Health_Report-_Soccer_Concussions.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Field_hockey_and_soccer_for_women_%28IA_fieldhockeysocce00fros%29.pdf/page1-960px-Field_hockey_and_soccer_for_women_%28IA_fieldhockeysocce00fros%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
   },
   {
@@ -387,15 +818,13 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-05T23:30:24.000Z",
-   "fetched_at": "2026-10-06T09:14:20.206Z",
+   "fetched_at": "2026-10-06T16:08:15.694Z",
    "body": [
     "Our briefing: With eight points from four games, Northern Ireland show real progress through what manager Michael O'Neill calls \"one of the most enjoyable windows\" he has had in…",
     "With eight points from four games, Northern Ireland show real progress through what manager Michael O'Neill calls \"one of the most enjoyable windows\" he has had in international football.",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+   ]
   },
   {
    "id": "bbc-highlights-northern-ireland-frustrated-georgia",
@@ -408,453 +837,13 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-05T21:56:05.000Z",
-   "fetched_at": "2026-10-06T09:14:20.206Z",
+   "fetched_at": "2026-10-06T16:08:15.694Z",
    "body": [
     "Our briefing: Watch highlights as Northern Ireland end the extended window with a 0-0 Nations League draw against Georgia at Windsor Park.",
     "Watch highlights as Northern Ireland end the extended window with a 0-0 Nations League draw against Georgia at Windsor Park.",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "guardian-nations-league-roundup-olise-leads-late-charge-f",
-   "slug": "nations-league-roundup-olise-leads-late-charge-as-france-bow-rge-f",
-   "title": "Nations League roundup: Olise leads late charge as France bowl over Belgium",
-   "dek": "France score four goals in 14 minutes to triumph Italy see off Turkey, Hungary edge out Ukraine Michael Olise came off the bench to inspire France to a 4-1 win over…",
-   "description": "France score four goals in 14 minutes to triumph Italy see off Turkey, Hungary edge out Ukraine Michael Olise came off the bench to inspire France to a 4-1 win over Belgium in the Nations League, handing Zinedine Zidane his first home victory since taking charge. Dodi Lukébakio put Belgium on course for their first competitive win over Les Bleus in 45 years when he fired the visitors in front in the first half at the Stade de France. But the hosts turned the match on its head in a blistering finish, scoring four times in 14 minutes to preserve Zidane’s unbeaten start and move closer to the quarter-finals. Continue reading...",
-   "category": "Match Reports",
-   "league": "Football",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-10-05T21:31:20.000Z",
-   "fetched_at": "2026-10-06T09:14:20.543Z",
-   "body": [
-    "Our briefing: France score four goals in 14 minutes to triumph Italy see off Turkey, Hungary edge out Ukraine Michael Olise came off the bench to inspire France to a 4-1 win over…",
-    "France score four goals in 14 minutes to triumph Italy see off Turkey, Hungary edge out Ukraine Michael Olise came off the bench to inspire France to a 4-1 win over Belgium in the Nations League, handing Zinedine Zidane his first home victory since taking charge. Dodi Lukébakio put Belgium on course for their first competitive win over Les Bleus in 45 years when he fired the visitors in front in the first half at the Stade de France. But the hosts turned the match on its head in a blistering finish, scoring four times in 14 minutes to preserve Zidane’s unbeaten start and move closer to the quarter-finals.",
-    "Continue reading...",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Kashima_Soccer_Stadium_5.jpg/960px-Kashima_Soccer_Stadium_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
-  },
-  {
-   "id": "guardian-how-did-some-city-fans-become-aggressive-defende",
-   "slug": "how-did-some-city-fans-become-aggressive-defenders-of-a-nati-fende",
-   "title": "How did some City fans become aggressive defenders of a nation state’s regime? | Sean Ingle",
-   "dek": "The Manchester City case is one example of how fandom has warped beyond previous boundaries in online spaces A video of Liam Gallagher playing in a 1996 charity football…",
-   "description": "The Manchester City case is one example of how fandom has warped beyond previous boundaries in online spaces A video of Liam Gallagher playing in a 1996 charity football match resurfaced on social media recently. Dressed in Manchester City blue and a bucket hat, in truth he appears to be in a fug of cigarettes and alcohol. But then, out of nowhere, he hits a shot into the top corner . Since last week, though, the Oasis singer has preferred to defend the honour of his club with his studs up. As the fallout from the biggest scandal in British football history headed into a second week, Gallagher was asked what he made of rival fans wanting City to lose all their trophies after being found guilty of all the serious charges against them. “There all NEUROTIC little GIMPS,” came the reply on social media. It was one of dozens of sweary, punchy, and often amusing responses, all built on a solitary article of faith: that City will somehow find a way to wriggle free. Continue reading...",
-   "category": "Tactics & Analysis",
-   "league": "Football",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-10-05T21:29:27.000Z",
-   "fetched_at": "2026-10-06T09:14:20.543Z",
-   "body": [
-    "Our briefing: The Manchester City case is one example of how fandom has warped beyond previous boundaries in online spaces A video of Liam Gallagher playing in a 1996 charity football…",
-    "The Manchester City case is one example of how fandom has warped beyond previous boundaries in online spaces A video of Liam Gallagher playing in a 1996 charity football match resurfaced on social media recently. Dressed in Manchester City blue and a bucket hat, in truth he appears to be in a fug of cigarettes and alcohol. But then, out of nowhere, he hits a shot into the top corner .",
-    "Since last week, though, the Oasis singer has preferred to defend the honour of his club with his studs up. As the fallout from the biggest scandal in British football history headed into a second week, Gallagher was asked what he made of rival fans wanting City to lose all their trophies after being found guilty of all the serious charges against them. “There all NEUROTIC little GIMPS,” came the reply on social media.",
-    "It was one of dozens of sweary, punchy, and often amusing responses, all built on a solitary article of faith: that City will somehow find a way to wriggle free. Continue reading...",
-    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "bbc-humble-gilmour-happy-new-role-50th-cap-beckons",
-   "slug": "humble-gilmour-happy-with-new-role-as-50th-cap-beckons-ckons",
-   "title": "Humble Gilmour happy with new role as 50th cap beckons",
-   "dek": "Billy Gilmour is excited by the prospect of earning a 50th Scotland cap after a key role in Sebastien Pocognoli's first win as national head coach.",
-   "description": "Billy Gilmour is excited by the prospect of earning a 50th Scotland cap after a key role in Sebastien Pocognoli's first win as national head coach.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-05T21:28:25.000Z",
-   "fetched_at": "2026-10-06T09:14:20.205Z",
-   "body": [
-    "Our briefing: Billy Gilmour is excited by the prospect of earning a 50th Scotland cap after a key role in Sebastien Pocognoli's first win as national head coach.",
-    "Billy Gilmour is excited by the prospect of earning a 50th Scotland cap after a key role in Sebastien Pocognoli's first win as national head coach.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "guardian-mamardashvili-saves-penalty-georgia-hold-norther",
-   "slug": "mamardashvili-saves-penalty-as-georgia-hold-northern-ireland-rther",
-   "title": "Mamardashvili saves penalty as Georgia hold Northern Ireland in Nations League",
-   "dek": "This game concluded with mutual irritation and a touch of chaos. It is an indicator of Northern Ireland’s progress that scoreless parity led to wincing from players,…",
-   "description": "This game concluded with mutual irritation and a touch of chaos. It is an indicator of Northern Ireland’s progress that scoreless parity led to wincing from players, management and fans alike. Isaac Price’s 84th-minute missed opportunity from the penalty spot added to the sense of annoyance. Michael O’Neill’s team are atop B2 after a window which, going by the players’s physical condition in the dying stages, has been exhausting. Northern Ireland and their youthful setup are a fascinating international story. They are a team on an upward curve, with standards elevated accordingly. O’Neill bemoaned “immaturity” in the second half, saying: “The disappointing thing is we have eight points instead of 10.” Continue reading...",
-   "category": "Match Reports",
-   "league": "Football",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-10-05T21:08:28.000Z",
-   "fetched_at": "2026-10-06T09:14:20.543Z",
-   "body": [
-    "Our briefing: This game concluded with mutual irritation and a touch of chaos. It is an indicator of Northern Ireland’s progress that scoreless parity led to wincing from players,…",
-    "This game concluded with mutual irritation and a touch of chaos. It is an indicator of Northern Ireland’s progress that scoreless parity led to wincing from players, management and fans alike. Isaac Price’s 84th-minute missed opportunity from the penalty spot added to the sense of annoyance.",
-    "Michael O’Neill’s team are atop B2 after a window which, going by the players’s physical condition in the dying stages, has been exhausting. Northern Ireland and their youthful setup are a fascinating international story. They are a team on an upward curve, with standards elevated accordingly.",
-    "O’Neill bemoaned “immaturity” in the second half, saying: “The disappointing thing is we have eight points instead of 10. ” Continue reading...",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "bbc-juventus-atletico-madrid-eye-madueke-tuesday-s-g",
-   "slug": "juventus-atletico-madrid-eye-madueke-tuesday-s-gossip-y-s-g",
-   "title": "Juventus & Atletico Madrid eye Madueke - Tuesday's gossip",
-   "dek": "Arsenal forward Noni Madueke has suitors in Spain and Italy, five Premier League clubs are interested in Barcelona defender Jules Kounde, England captain Harry Kane is…",
-   "description": "Arsenal forward Noni Madueke has suitors in Spain and Italy, five Premier League clubs are interested in Barcelona defender Jules Kounde, England captain Harry Kane is close to signing a new deal at Bayern Munich, plus more.",
-   "category": "Transfers & Rumours",
-   "league": "La Liga",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-05T20:38:51.000Z",
-   "fetched_at": "2026-10-06T09:14:20.206Z",
-   "body": [
-    "Our briefing: Arsenal forward Noni Madueke has suitors in Spain and Italy, five Premier League clubs are interested in Barcelona defender Jules Kounde, England captain Harry Kane is…",
-    "Arsenal forward Noni Madueke has suitors in Spain and Italy, five Premier League clubs are interested in Barcelona defender Jules Kounde, England captain Harry Kane is close to signing a new deal at Bayern Munich, plus more.",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Lokomotiv_vs_Atletico_Madrid_2020-11-08.jpg/960px-Lokomotiv_vs_Atletico_Madrid_2020-11-08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Anton Zaitsev — CC BY-SA 3.0"
-  },
-  {
-   "id": "bbc-monday-night-club-england-alex-scott-injury-robb",
-   "slug": "monday-night-club-england-alex-scott-injury-robbie-savage-on--robb",
-   "title": "Monday Night Club: England, Alex Scott injury & Robbie Savage on his new job",
-   "dek": "What are the benefits of players going abroad to play their club football?",
-   "description": "What are the benefits of players going abroad to play their club football?",
-   "category": "Injuries",
-   "league": "International",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-05T20:31:00.000Z",
-   "fetched_at": "2026-10-06T09:14:20.206Z",
-   "body": [
-    "Our briefing: What are the benefits of players going abroad to play their club football?",
-    "What are the benefits of players going abroad to play their club football?",
-    "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Field_hockey_and_soccer_for_women_%28IA_fieldhockeysocce00fros%29.pdf/page1-960px-Field_hockey_and_soccer_for_women_%28IA_fieldhockeysocce00fros%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "bbc-gabriel-man-utd-team-photo-but-no-hint-reconcili",
-   "slug": "gabriel-in-man-utd-team-photo-but-no-hint-of-reconciliation-ncili",
-   "title": "Gabriel in Man Utd team photo but no hint of reconciliation",
-   "dek": "As he prepares to celebrate his 16th birthday, the rift between Manchester United and JJ Gabriel shows no sign of being healed.",
-   "description": "As he prepares to celebrate his 16th birthday, the rift between Manchester United and JJ Gabriel shows no sign of being healed.",
-   "category": "News",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-05T19:13:15.000Z",
-   "fetched_at": "2026-10-06T09:14:20.205Z",
-   "body": [
-    "Our briefing: As he prepares to celebrate his 16th birthday, the rift between Manchester United and JJ Gabriel shows no sign of being healed.",
-    "As he prepares to celebrate his 16th birthday, the rift between Manchester United and JJ Gabriel shows no sign of being healed.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Manchester_United_Old_Trafford.jpg/960px-Manchester_United_Old_Trafford.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
-  },
-  {
-   "id": "bbc-england-s-greatest-international-kane-now-seriou",
-   "slug": "england-s-greatest-international-kane-is-now-a-serious-conte-eriou",
-   "title": "England's greatest international? Kane is now a serious contender",
-   "dek": "With Harry Kane set to equal Peter Shilton's all-time England appearance record, where does he rank among England greats?",
-   "description": "With Harry Kane set to equal Peter Shilton's all-time England appearance record, where does he rank among England greats?",
-   "category": "News",
-   "league": "International",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-05T19:05:52.000Z",
-   "fetched_at": "2026-10-06T09:14:20.205Z",
-   "body": [
-    "Our briefing: With Harry Kane set to equal Peter Shilton's all-time England appearance record, where does he rank among England greats?",
-    "With Harry Kane set to equal Peter Shilton's all-time England appearance record, where does he rank among England greats?",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Soccer_fans_put_town_in_siege_%28FL62506613%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506613%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "guardian-jude-awakening-how-more-fluid-england-are-unlock",
-   "slug": "jude-awakening-how-a-more-fluid-england-are-unlocking-bellin-nlock",
-   "title": "Jude awakening: how a more fluid England are ‘unlocking’ Bellingham’s full potential",
-   "dek": "Assistant coach Anthony Barry says new structure means their key attackers are not ‘caged in’ after 7-0 rout of Croatia Anthony Barry knows the hunt is on. The England…",
-   "description": "Assistant coach Anthony Barry says new structure means their key attackers are not ‘caged in’ after 7-0 rout of Croatia Anthony Barry knows the hunt is on. The England assistant coach has been through the debriefs. He has mulled over the minutiae with Thomas Tuchel to such an extent he is allowed to make a joke at the boss’s expense. “He’s doing my head in,” Barry says with a smile. What is the missing piece of the puzzle? After all the emotion of England’s semi-final finish at the World Cup, how can they take the decisive step to glory? It is early days in the Nations League campaign, which everybody at the Football Association wants to use as a slingshot into Euro 2028 when England will co-host, but Barry can see the genesis of an answer. It comes down to liberation, enabling England’s top players to fully express themselves, and there is a reason why he finds himself talking about Jude Bellingham. Continue reading...",
-   "category": "Tactics & Analysis",
-   "league": "International",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-10-05T18:00:49.000Z",
-   "fetched_at": "2026-10-06T09:14:20.543Z",
-   "body": [
-    "Our briefing: Assistant coach Anthony Barry says new structure means their key attackers are not ‘caged in’ after 7-0 rout of Croatia Anthony Barry knows the hunt is on. The England…",
-    "Assistant coach Anthony Barry says new structure means their key attackers are not ‘caged in’ after 7-0 rout of Croatia Anthony Barry knows the hunt is on. The England assistant coach has been through the debriefs. He has mulled over the minutiae with Thomas Tuchel to such an extent he is allowed to make a joke at the boss’s expense.",
-    "“He’s doing my head in,” Barry says with a smile. What is the missing piece of the puzzle? After all the emotion of England’s semi-final finish at the World Cup, how can they take the decisive step to glory?",
-    "It is early days in the Nations League campaign, which everybody at the Football Association wants to use as a slingshot into Euro 2028 when England will co-host, but Barry can see the genesis of an answer. It comes down to liberation, enabling England’s top players to fully express themselves, and there is a reason why he finds himself talking about Jude Bellingham. Continue reading...",
-    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Soccer_fans_put_town_in_siege_%28FL62506919%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506919%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "guardian-police-occupy-djibouti-fa-headquarters-amid-atte",
-   "slug": "police-occupy-djibouti-fa-headquarters-amid-attempt-to-oust---atte",
-   "title": "Police occupy Djibouti FA headquarters amid attempt to oust Fifa council member",
-   "dek": "Group of clubs wants FA president Souleiman Waberi out Waberi has faced mounting opposition for weeks Attempts to oust Souleiman Waberi as the president of the Djibouti…",
-   "description": "Group of clubs wants FA president Souleiman Waberi out Waberi has faced mounting opposition for weeks Attempts to oust Souleiman Waberi as the president of the Djibouti football federation (FDF) reached a dramatic climax on Monday as police occupied the federation’s headquarters after a group of club presidents called an extraordinary general assembly aimed at removing the Fifa council member and his executive committee. The FDF said police first occupied its national technical centre at about 5.30pm on Sunday, without presenting an administrative document or court order. According to the federation, on Monday a much larger police contingent ordered Waberi, members of the executive committee, staff and other federation members to leave the premises. Continue reading...",
-   "category": "News",
-   "league": "Football",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-10-05T17:36:45.000Z",
-   "fetched_at": "2026-10-06T09:14:20.543Z",
-   "body": [
-    "Our briefing: Group of clubs wants FA president Souleiman Waberi out Waberi has faced mounting opposition for weeks Attempts to oust Souleiman Waberi as the president of the Djibouti…",
-    "Group of clubs wants FA president Souleiman Waberi out Waberi has faced mounting opposition for weeks Attempts to oust Souleiman Waberi as the president of the Djibouti football federation (FDF) reached a dramatic climax on Monday as police occupied the federation’s headquarters after a group of club presidents called an extraordinary general assembly aimed at removing the Fifa council member and his executive committee. The FDF said police first occupied its national technical centre at about 5. 30pm on Sunday, without presenting an administrative document or court order.",
-    "According to the federation, on Monday a much larger police contingent ordered Waberi, members of the executive committee, staff and other federation members to leave the premises. Continue reading...",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Soccer_fans_put_town_in_siege_%28FL62506945%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506945%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "bbc-ex-england-player-carroll-names-attacker-tv-danc",
-   "slug": "ex-england-player-carroll-names-attacker-as-tv-dance-coach--danc",
-   "title": "Ex-England player Carroll names attacker as TV dance coach",
-   "dek": "The former England striker tells the Sun he was sexually assaulted by former Fame Academy dance instructor Kevin Adams in 2021.",
-   "description": "The former England striker tells the Sun he was sexually assaulted by former Fame Academy dance instructor Kevin Adams in 2021.",
-   "category": "News",
-   "league": "International",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-05T17:33:38.000Z",
-   "fetched_at": "2026-10-06T09:14:20.206Z",
-   "body": [
-    "Our briefing: The former England striker tells the Sun he was sexually assaulted by former Fame Academy dance instructor Kevin Adams in 2021.",
-    "The former England striker tells the Sun he was sexually assaulted by former Fame Academy dance instructor Kevin Adams in 2021.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
    ]
-  },
-  {
-   "id": "independent-thomas-tuchel-defends-handling-strange-alex-scot",
-   "slug": "thomas-tuchel-defends-handling-of-strange-alex-scott-injury---scot",
-   "title": "Thomas Tuchel defends handling of ‘strange’ Alex Scott injury with England midfielder facing months out",
-   "dek": "Alex Scott is struggling with an injury that could keep him out of action for two months",
-   "description": "Alex Scott is struggling with an injury that could keep him out of action for two months",
-   "category": "Injuries",
-   "league": "International",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-10-05T17:28:00.000Z",
-   "fetched_at": "2026-10-06T09:14:20.710Z",
-   "body": [
-    "Our briefing: Alex Scott is struggling with an injury that could keep him out of action for two months",
-    "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Jumal_wamwenga_soccer_player_Jumal_wamwenga_has_confirmed_joining.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": null
-  },
-  {
-   "id": "guardian-ronaldo-s-break-portugal-sad-fitting-long-overdu",
-   "slug": "ronaldo-s-break-with-portugal-is-sad-fitting-and-long-overdu-verdu",
-   "title": "Ronaldo’s break with Portugal is sad, fitting, and long overdue | Jonathan Wilson",
-   "dek": "The star’s rift with Jorge Jesus is an unfortunate affair. But the forward has been holding his national team back for years Sign up for our free newsletter here If this…",
-   "description": "The star’s rift with Jorge Jesus is an unfortunate affair. But the forward has been holding his national team back for years Sign up for our free newsletter here If this is to be the end for Cristiano Ronaldo at international level, at least it can be said that he left the stage as he bestrode it: with monumental self-regard. Ronaldo has always been a preening, self-absorbed player, but for a time, when he was one of the best in the world, it could be tolerated. For the past four years, though, he has actively and obviously held Portugal back. There is a great generation of technical talent here weighed down by the monstrous albatross of his ego. To recap the basic details of the past couple of weeks. Ronaldo played 67 minutes of Portugal’s scratchy 1-0 win over Wales . Portugal coach Jorge Jesus, who replaced Roberto Martínez after the World Cup, said he had a verbal agreement with Ronaldo that he would not start the following game against Norway but would perhaps come off the bench. Early in the second half, Ronaldo went to warm up – although whether that was on his own initiative or because Jesus had told him to is unclear. The game was tight, Portugal ultimately winning 2-1, and Jesus did not bring Ronaldo on. Continue reading...",
-   "category": "News",
-   "league": "Football",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-10-05T15:30:46.000Z",
-   "fetched_at": "2026-10-06T09:14:20.543Z",
-   "body": [
-    "Our briefing: The star’s rift with Jorge Jesus is an unfortunate affair. But the forward has been holding his national team back for years Sign up for our free newsletter here If this…",
-    "The star’s rift with Jorge Jesus is an unfortunate affair. But the forward has been holding his national team back for years Sign up for our free newsletter here If this is to be the end for Cristiano Ronaldo at international level, at least it can be said that he left the stage as he bestrode it: with monumental self-regard. Ronaldo has always been a preening, self-absorbed player, but for a time, when he was one of the best in the world, it could be tolerated.",
-    "For the past four years, though, he has actively and obviously held Portugal back. There is a great generation of technical talent here weighed down by the monstrous albatross of his ego. To recap the basic details of the past couple of weeks.",
-    "Ronaldo played 67 minutes of Portugal’s scratchy 1-0 win over Wales . Portugal coach Jorge Jesus, who replaced Roberto Martínez after the World Cup, said he had a verbal agreement with Ronaldo that he would not start the following game against Norway but would perhaps come off the bench. Early in the second half, Ronaldo went to warm up – although whether that was on his own initiative or because Jesus had told him to is unclear.",
-    "The game was tight, Portugal ultimately winning 2-1, and Jesus did not bring Ronaldo on. Continue reading...",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Guardian."
-   ]
-  },
-  {
-   "id": "bbc-jesus-fires-back-over-ronaldo-question",
-   "slug": "jesus-fires-back-over-ronaldo-question-stion",
-   "title": "Jesus fires back over Ronaldo question",
-   "dek": "Portugal manager Jorge Jesus fires back at a question from the media over his handling of Cristiano Ronaldo after the veteran forward left the squad in a row over playing…",
-   "description": "Portugal manager Jorge Jesus fires back at a question from the media over his handling of Cristiano Ronaldo after the veteran forward left the squad in a row over playing time.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-05T15:24:54.000Z",
-   "fetched_at": "2026-10-06T09:14:20.206Z",
-   "body": [
-    "Our briefing: Portugal manager Jorge Jesus fires back at a question from the media over his handling of Cristiano Ronaldo after the veteran forward left the squad in a row over playing…",
-    "Portugal manager Jorge Jesus fires back at a question from the media over his handling of Cristiano Ronaldo after the veteran forward left the squad in a row over playing time.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ]
-  },
-  {
-   "id": "bbc-player-welfare-injury-worries-boredom-has-extend",
-   "slug": "player-welfare-injury-worries-boredom-has-extended-break-wor-xtend",
-   "title": "Player welfare, injury worries & boredom - has extended break worked?",
-   "dek": "The extended international break was brought in with player welfare in mind, but has it been a success?",
-   "description": "The extended international break was brought in with player welfare in mind, but has it been a success?",
-   "category": "Injuries",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-05T14:54:39.000Z",
-   "fetched_at": "2026-10-06T09:14:20.205Z",
-   "body": [
-    "Our briefing: The extended international break was brought in with player welfare in mind, but has it been a success?",
-    "The extended international break was brought in with player welfare in mind, but has it been a success?",
-    "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Coping_in_soccer_athletes_-_A_systematic_review%2C_Journal_of_Physical_Education_%2862775%29.pdf/page1-960px-Coping_in_soccer_athletes_-_A_systematic_review%2C_Journal_of_Physical_Education_%2862775%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Leonardo de Sousa Fortes / Rodrigo Gustavo da Silva Carvalho / Gabriel Lucas Morais Freire / José Roberto Andrade do Nascimento Júnior — CC BY 4.0"
-  },
-  {
-   "id": "independent-heimir-hallgrimsson-urges-uefa-keep-ireland-isra",
-   "slug": "heimir-hallgrimsson-urges-uefa-to-keep-ireland-and-israel-ap--isra",
-   "title": "Heimir Hallgrimsson urges Uefa to keep Ireland and Israel apart after controversial Nations League clashes",
-   "dek": "Republic of Ireland faced Israel twice in a week despite calls for the team to boycott the matches",
-   "description": "Republic of Ireland faced Israel twice in a week despite calls for the team to boycott the matches",
-   "category": "News",
-   "league": "Football",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-10-05T14:44:37.000Z",
-   "fetched_at": "2026-10-06T09:14:20.710Z",
-   "body": [
-    "Our briefing: Republic of Ireland faced Israel twice in a week despite calls for the team to boycott the matches",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ]
-  },
-  {
-   "id": "bbc-pickford-almost-caused-crash-careless-driving",
-   "slug": "pickford-almost-caused-crash-with-careless-driving-iving",
-   "title": "Pickford 'almost caused crash' with careless driving",
-   "dek": "The goalkeeper was pulled over by police after ignoring a give way sign, forcing two cars to brake.",
-   "description": "The goalkeeper was pulled over by police after ignoring a give way sign, forcing two cars to brake.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-05T14:42:28.000Z",
-   "fetched_at": "2026-10-06T09:14:20.206Z",
-   "body": [
-    "Our briefing: The goalkeeper was pulled over by police after ignoring a give way sign, forcing two cars to brake.",
-    "The goalkeeper was pulled over by police after ignoring a give way sign, forcing two cars to brake.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ]
-  },
-  {
-   "id": "guardian-football-daily-child-s-play-england-7-0-demoliti",
-   "slug": "daily-child-s-play-for-england-with-a-7-0-demolition-job-aga-oliti",
-   "title": "Daily | Child’s play for England with a 7-0 demolition job against Croatia",
-   "dek": "Sign up now! Sign up now! Sign up now? Sign up now! Whether it’s relegation, the loss of a cup final or some other soul-crushing matchday disappointment, no televised…",
-   "description": "Sign up now! Sign up now! Sign up now? Sign up now! Whether it’s relegation, the loss of a cup final or some other soul-crushing matchday disappointment, no televised capitulation of a football team is ever truly complete without the obligatory and intrusive post-match camera cutaway to a young fan sobbing uncontrollably in the stands. When England’s relentless humiliation of Croatia had finished on Saturday, the TV director was spoilt for choice. The vast majority of the 6,403 fans present at the behind-slightly-ajar-doors fixture were local children, admitted for free. Their “reward” for the previous misbehaviour of their more senior counterparts turned into what was almost certainly one of the more harrowing days of their young lives. Continue reading...",
-   "category": "News",
-   "league": "International",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-10-05T14:24:44.000Z",
-   "fetched_at": "2026-10-06T09:14:20.545Z",
-   "body": [
-    "Our briefing: Sign up now! Sign up now! Sign up now? Sign up now! Whether it’s relegation, the loss of a cup final or some other soul-crushing matchday disappointment, no televised…",
-    "Sign up now! Sign up now! Sign up now?",
-    "Sign up now! Whether it’s relegation, the loss of a cup final or some other soul-crushing matchday disappointment, no televised capitulation of a football team is ever truly complete without the obligatory and intrusive post-match camera cutaway to a young fan sobbing uncontrollably in the stands. When England’s relentless humiliation of Croatia had finished on Saturday, the TV director was spoilt for choice.",
-    "The vast majority of the 6,403 fans present at the behind-slightly-ajar-doors fixture were local children, admitted for free. Their “reward” for the previous misbehaviour of their more senior counterparts turned into what was almost certainly one of the more harrowing days of their young lives. Continue reading...",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Guardian."
-   ]
-  },
-  {
-   "id": "bbc-what-we-learned-wales-nations-league-window",
-   "slug": "what-we-learned-from-wales-nations-league-window-indow",
-   "title": "What we learned from Wales' Nations League window",
-   "dek": "On the back of a demanding four-game international window, BBC Sport Wales assesses the key talking points from Wales' Nations League A campaign so far.",
-   "description": "On the back of a demanding four-game international window, BBC Sport Wales assesses the key talking points from Wales' Nations League A campaign so far.",
-   "category": "Tactics & Analysis",
-   "league": "International",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-05T13:37:42.000Z",
-   "fetched_at": "2026-10-06T09:14:20.206Z",
-   "body": [
-    "Our briefing: On the back of a demanding four-game international window, BBC Sport Wales assesses the key talking points from Wales' Nations League A campaign so far.",
-    "On the back of a demanding four-game international window, BBC Sport Wales assesses the key talking points from Wales' Nations League A campaign so far.",
-    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ]
-  },
-  {
-   "id": "guardian-celtic-celebrate-heated-win-over-rangers-final-r",
-   "slug": "celtic-celebrate-heated-win-over-rangers-in-final-of-revived-nal-r",
-   "title": "Celtic celebrate heated win over Rangers in final of revived Tennent’s Sixes",
-   "dek": "Charlie Mulgrew admits getting carried away after game Angry scenes in Rangers dressing room emerge in video The intensity of the football rivalry in Glasgow was evident…",
-   "description": "Charlie Mulgrew admits getting carried away after game Angry scenes in Rangers dressing room emerge in video The intensity of the football rivalry in Glasgow was evident on Sunday night as Celtic turned the tables on Rangers to win the Tennent’s Sixes. Celtic beat their rivals 5-4 in the final at Braehead Arena after being on the end of a 7-1 defeat by Rangers in the group stage on Saturday. The tournament was for retired players from all 12 Premiership teams as the SPFL revived a tournament that took place between first teams from 1984 to 1993. But the reactions were similar to any major trophy final. Continue reading...",
-   "category": "Match Reports",
-   "league": "Football",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-10-05T13:21:16.000Z",
-   "fetched_at": "2026-10-06T09:14:20.543Z",
-   "body": [
-    "Our briefing: Charlie Mulgrew admits getting carried away after game Angry scenes in Rangers dressing room emerge in video The intensity of the football rivalry in Glasgow was evident…",
-    "Charlie Mulgrew admits getting carried away after game Angry scenes in Rangers dressing room emerge in video The intensity of the football rivalry in Glasgow was evident on Sunday night as Celtic turned the tables on Rangers to win the Tennent’s Sixes. Celtic beat their rivals 5-4 in the final at Braehead Arena after being on the end of a 7-1 defeat by Rangers in the group stage on Saturday. The tournament was for retired players from all 12 Premiership teams as the SPFL revived a tournament that took place between first teams from 1984 to 1993.",
-    "But the reactions were similar to any major trophy final. Continue reading...",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Match_Day_Celtic_Park_-_geograph.org.uk_-_2596994.jpg/960px-Match_Day_Celtic_Park_-_geograph.org.uk_-_2596994.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "edward mcmaihin — CC BY-SA 2.0"
-  },
-  {
-   "id": "guardian-bournemouth-unhappy-over-scott-injury-but-tuchel",
-   "slug": "bournemouth-unhappy-over-scott-injury-but-tuchel-says-englan-uchel",
-   "title": "Bournemouth unhappy over Scott injury but Tuchel says England took ‘zero risk’",
-   "dek": "Midfielder may be out for two months with thigh injury Scott played in pain but Tuchel says he got ‘green light’ Thomas Tuchel insisted England took zero risk with Alex…",
-   "description": "Midfielder may be out for two months with thigh injury Scott played in pain but Tuchel says he got ‘green light’ Thomas Tuchel insisted England took zero risk with Alex Scott after the midfielder’s withdrawal with a thigh injury left Bournemouth unhappy over his treatment. Scott excelled during the 7-0 win over Croatia in the Nations League on Saturday but will play no further part in this international break and could be out for two months after exacerbating a muscle issue during his full debut for the national team. Continue reading...",
-   "category": "Injuries",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-10-05T13:08:08.000Z",
-   "fetched_at": "2026-10-05T15:08:01.549Z",
-   "body": [
-    "Our briefing: Midfielder may be out for two months with thigh injury Scott played in pain but Tuchel says he got ‘green light’ Thomas Tuchel insisted England took zero risk with Alex…",
-    "Midfielder may be out for two months with thigh injury Scott played in pain but Tuchel says he got ‘green light’ Thomas Tuchel insisted England took zero risk with Alex Scott after the midfielder’s withdrawal with a thigh injury left Bournemouth unhappy over his treatment. Scott excelled during the 7-0 win over Croatia in the Nations League on Saturday but will play no further part in this international break and could be out for two months after exacerbating a muscle issue during his full debut for the national team. Continue reading...",
-    "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Twenty-five_years_of_medical_progress_-_the_address_in_medicine_delivered_at_the_Annual_Meeting_of_the_British_Medical_Association_held_in_Bournemouth%2C_July%2C_1891_%28IA_b22429542%29.pdf/page1-960px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   }
  ]
 }
