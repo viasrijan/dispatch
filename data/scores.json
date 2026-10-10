@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-10-09T23:50:51.720Z",
+ "generated_at": "2026-10-10T04:44:52.415Z",
  "matches": [
+  {
+   "league": "La Liga",
+   "home": "Málaga",
+   "away": "Espanyol",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/99.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png",
+   "homeScore": 1,
+   "awayScore": 1,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-10-09T19:00Z"
+  },
   {
    "league": "Premier League",
    "home": "Arsenal",
@@ -78,19 +91,6 @@
    "clock": "",
    "time": "Sat, October 10th at 12:30 PM EDT",
    "date": "2026-10-10T16:30Z"
-  },
-  {
-   "league": "La Liga",
-   "home": "Málaga",
-   "away": "Espanyol",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/99.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png",
-   "homeScore": 1,
-   "awayScore": 1,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-10-09T19:00Z"
   },
   {
    "league": "Serie A",
