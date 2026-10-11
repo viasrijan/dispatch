@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T23:43:24.537Z",
+ "generated_at": "2026-10-11T04:29:54.513Z",
  "matches": [
   {
    "league": "Premier League",
@@ -78,6 +78,58 @@
    "clock": "",
    "time": "FT",
    "date": "2026-10-10T16:30Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Rayo Vallecano",
+   "away": "Athletic Club",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "final",
+   "clock": "",
+   "time": "Abandoned",
+   "date": "2026-10-10T12:00Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Alavés",
+   "away": "Atlético Madrid",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+   "homeScore": 1,
+   "awayScore": 2,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-10-10T14:15Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Barcelona",
+   "away": "Getafe",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
+   "homeScore": 3,
+   "awayScore": 0,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-10-10T16:30Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Real Madrid",
+   "away": "Villarreal",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+   "homeScore": 1,
+   "awayScore": 0,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-10-10T19:00Z"
   },
   {
    "league": "Bundesliga",
@@ -195,58 +247,6 @@
    "clock": "",
    "time": "FT",
    "date": "2026-10-10T18:45Z"
-  },
-  {
-   "league": "La Liga",
-   "home": "Rayo Vallecano",
-   "away": "Athletic Club",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "final",
-   "clock": "",
-   "time": "Abandoned",
-   "date": "2026-10-10T12:00Z"
-  },
-  {
-   "league": "La Liga",
-   "home": "Alavés",
-   "away": "Atlético Madrid",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-   "homeScore": 1,
-   "awayScore": 2,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-10-10T14:15Z"
-  },
-  {
-   "league": "La Liga",
-   "home": "Barcelona",
-   "away": "Getafe",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
-   "homeScore": 3,
-   "awayScore": 0,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-10-10T16:30Z"
-  },
-  {
-   "league": "La Liga",
-   "home": "Real Madrid",
-   "away": "Villarreal",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
-   "homeScore": 1,
-   "awayScore": 0,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-10-10T19:00Z"
   },
   {
    "league": "Ligue 1",
