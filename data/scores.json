@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-12T15:54:15.845Z",
+ "generated_at": "2026-10-12T22:45:19.053Z",
  "matches": [
   {
    "league": "La Liga",
@@ -7,11 +7,11 @@
    "away": "Sevilla",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
+   "homeScore": 3,
+   "awayScore": 3,
+   "status": "final",
    "clock": "",
-   "time": "Mon, October 12th at 3:00 PM EDT",
+   "time": "FT",
    "date": "2026-10-12T19:00Z"
   },
   {
@@ -20,64 +20,12 @@
    "away": "Newcastle United",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
+   "homeScore": 4,
+   "awayScore": 1,
+   "status": "final",
    "clock": "",
-   "time": "Mon, October 12th at 3:00 PM EDT",
+   "time": "FT",
    "date": "2026-10-12T19:00Z"
-  },
-  {
-   "league": "Serie A",
-   "home": "Atalanta",
-   "away": "Venezia",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Mon, October 12th at 12:30 PM EDT",
-   "date": "2026-10-12T16:30Z"
-  },
-  {
-   "league": "Serie A",
-   "home": "Torino",
-   "away": "Udinese",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Mon, October 12th at 2:45 PM EDT",
-   "date": "2026-10-12T18:45Z"
-  },
-  {
-   "league": "Bundesliga",
-   "home": "FC Cologne",
-   "away": "Borussia Mönchengladbach",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
-   "homeScore": 2,
-   "awayScore": 1,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-10-11T13:30Z"
-  },
-  {
-   "league": "Bundesliga",
-   "home": "SC Freiburg",
-   "away": "Schalke 04",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png",
-   "homeScore": 2,
-   "awayScore": 1,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-10-11T15:30Z"
   },
   {
    "league": "Ligue 1",
@@ -117,6 +65,58 @@
    "clock": "",
    "time": "FT",
    "date": "2026-10-11T18:45Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Atalanta",
+   "away": "Venezia",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png",
+   "homeScore": 3,
+   "awayScore": 1,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-10-12T16:30Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Torino",
+   "away": "Udinese",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
+   "homeScore": 2,
+   "awayScore": 1,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-10-12T18:45Z"
+  },
+  {
+   "league": "Bundesliga",
+   "home": "FC Cologne",
+   "away": "Borussia Mönchengladbach",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
+   "homeScore": 2,
+   "awayScore": 1,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-10-11T13:30Z"
+  },
+  {
+   "league": "Bundesliga",
+   "home": "SC Freiburg",
+   "away": "Schalke 04",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png",
+   "homeScore": 2,
+   "awayScore": 1,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-10-11T15:30Z"
   }
  ]
 }
