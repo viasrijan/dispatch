@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-12T22:45:19.052Z",
- "updated_utc": "2026-10-12T22:45Z",
- "cycle": 29864085,
+ "generated_at": "2026-10-13T03:22:31.438Z",
+ "updated_utc": "2026-10-13T03:22Z",
+ "cycle": 29864362,
  "sources_used": [
   {
    "id": "bbc",
@@ -19,6 +19,26 @@
  "hero_id": "bbc-lampard-keeping-feet-ground-following-big-win-ov",
  "articles": [
   {
+   "id": "independent-police-name-man-charged-after-mocking-a66-crash-",
+   "slug": "police-name-man-charged-after-mocking-of-a66-crash-at-middle-rash-",
+   "title": "Police name man charged after ‘mocking of A66 crash’ at Middlesbrough football match",
+   "dek": "The crash on A66 killed two police officers and five young men in the early hours of 22 August",
+   "description": "The crash on A66 killed two police officers and five young men in the early hours of 22 August",
+   "category": "News",
+   "league": "Football",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-10-12T23:37:40.000Z",
+   "fetched_at": "2026-10-13T03:22:22.543Z",
+   "body": [
+    "Our briefing: The crash on A66 killed two police officers and five young men in the early hours of 22 August",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "John Shorten — CC BY 4.0"
+  },
+  {
    "id": "bbc-coventry-announce-themselves-back-big-time",
    "slug": "coventry-announce-themselves-back-in-the-big-time--time",
    "title": "Coventry announce themselves back in the big time",
@@ -29,7 +49,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-12T22:34:32.000Z",
-   "fetched_at": "2026-10-12T22:45:10.202Z",
+   "fetched_at": "2026-10-13T03:22:22.275Z",
    "body": [
     "Our briefing: Coventry climb out of the relegation zone after ending their 25-year wait for a top-flight goal and victory in front of their own fans.",
     "Coventry climb out of the relegation zone after ending their 25-year wait for a top-flight goal and victory in front of their own fans.",
@@ -50,15 +70,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-12T22:25:57.000Z",
-   "fetched_at": "2026-10-12T22:45:10.202Z",
+   "fetched_at": "2026-10-13T03:22:22.275Z",
    "body": [
     "Our briefing: After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
     "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "John Shorten — CC BY 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
   },
   {
    "id": "guardian-ronaldo-s-asian-champions-league-match-delayed-m",
@@ -71,7 +91,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-12T22:11:56.000Z",
-   "fetched_at": "2026-10-12T22:45:10.292Z",
+   "fetched_at": "2026-10-13T03:22:22.478Z",
    "body": [
     "Our briefing: Kick-off put back by an hour after attack intercepted Portuguese forward scores in Al-Nassr’s 3-1 victory Cristiano Ronaldo’s Al-Nassr had their Asian Champions League…",
     "Kick-off put back by an hour after attack intercepted Portuguese forward scores in Al-Nassr’s 3-1 victory Cristiano Ronaldo’s Al-Nassr had their Asian Champions League match delayed by an hour on Monday after the Saudi-led military coalition said it had intercepted a missile fired by the Houthis towards Riyadh. Saudi Arabia has recently come under a series of attacks from the Iran-backed group, with strikes on oil facilities, tankers and transport hubs – including a string of lethal hits on Riyadh’s international airport. Continue reading...",
@@ -92,7 +112,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-12T21:43:20.000Z",
-   "fetched_at": "2026-10-12T22:45:10.203Z",
+   "fetched_at": "2026-10-13T03:22:22.276Z",
    "body": [
     "Our briefing: Coventry City head coach Frank Lampard gives his thoughts after his side pick up their first home win of the season beating Newcastle 4-1.",
     "Coventry City head coach Frank Lampard gives his thoughts after his side pick up their first home win of the season beating Newcastle 4-1.",
@@ -113,7 +133,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-12T21:35:07.000Z",
-   "fetched_at": "2026-10-12T22:45:10.202Z",
+   "fetched_at": "2026-10-13T03:22:22.275Z",
    "body": [
     "Our briefing: Coventry City stun Newcastle United with an emphatic 4-1 victory as they win their first Premier League game at home in 25 years.",
     "Coventry City stun Newcastle United with an emphatic 4-1 victory as they win their first Premier League game at home in 25 years.",
@@ -127,23 +147,23 @@
    "id": "guardian-coventry-land-long-awaited-home-win-mfuni-seals-",
    "slug": "coventry-land-long-awaited-home-win-as-mfuni-seals-rout-of-n-eals-",
    "title": "Coventry land long-awaited home win as Mfuni seals rout of Newcastle",
-   "dek": "If ever there was validation needed for attack being the best form of defence, Frank Lampard can point to this game. Coventry climbed out of the relegation zone after…",
-   "description": "If ever there was validation needed for attack being the best form of defence, Frank Lampard can point to this game. Coventry climbed out of the relegation zone after their second successive win showcased the benefits of their manager’s willingness to balance risk with reward. Late goals from substitutes Ellis Simms and Stephen Mfuni allowed promoted Coventry to pull away from a Newcastle side who, after a strong start to the season, also lost their last game, at Leeds, by this scoreline. Continue reading...",
-   "category": "News",
+   "dek": "If ever validation is needed for attack being the best form of defence, Frank Lampard can call this game up on Wyscout. Coventry climbed out of the relegation zone to the…",
+   "description": "If ever validation is needed for attack being the best form of defence, Frank Lampard can call this game up on Wyscout. Coventry climbed out of the relegation zone to the heady heights of 14th place after their second successive win showcased the benefits of their manager’s willingness to balance risk with reward. Jack Rudoni’s early penalty underscored a sense of positivity that was enhanced by an even quicker goal at the start of the second half from Sidiki Cherif and not unduly dimmed by Sven Botman’s howitzer making it 2-1. Continue reading...",
+   "category": "Match Reports",
    "league": "Premier League",
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-12T21:09:57.000Z",
-   "fetched_at": "2026-10-12T22:45:10.292Z",
+   "fetched_at": "2026-10-13T03:22:22.478Z",
    "body": [
-    "Our briefing: If ever there was validation needed for attack being the best form of defence, Frank Lampard can point to this game. Coventry climbed out of the relegation zone after…",
-    "If ever there was validation needed for attack being the best form of defence, Frank Lampard can point to this game. Coventry climbed out of the relegation zone after their second successive win showcased the benefits of their manager’s willingness to balance risk with reward. Late goals from substitutes Ellis Simms and Stephen Mfuni allowed promoted Coventry to pull away from a Newcastle side who, after a strong start to the season, also lost their last game, at Leeds, by this scoreline.",
+    "Our briefing: If ever validation is needed for attack being the best form of defence, Frank Lampard can call this game up on Wyscout. Coventry climbed out of the relegation zone to the…",
+    "If ever validation is needed for attack being the best form of defence, Frank Lampard can call this game up on Wyscout. Coventry climbed out of the relegation zone to the heady heights of 14th place after their second successive win showcased the benefits of their manager’s willingness to balance risk with reward. Jack Rudoni’s early penalty underscored a sense of positivity that was enhanced by an even quicker goal at the start of the second half from Sidiki Cherif and not unduly dimmed by Sven Botman’s howitzer making it 2-1.",
     "Continue reading...",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Sunderland_v_Newcastle_United%2C_FA_Cup_Tie_at_the_Stadium_of_Light_-_geograph.org.uk_-_7688871.jpg/960px-Sunderland_v_Newcastle_United%2C_FA_Cup_Tie_at_the_Stadium_of_Light_-_geograph.org.uk_-_7688871.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Les Hull — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Manchester_United_v_Newcastle_United%2C_11_September_2021_%2810%29.jpg/960px-Manchester_United_v_Newcastle_United%2C_11_September_2021_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ardfern — CC BY-SA 4.0"
   },
   {
    "id": "guardian-carrick-promises-manchester-united-will-come-out",
@@ -156,7 +176,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-12T20:52:16.000Z",
-   "fetched_at": "2026-10-12T22:45:10.292Z",
+   "fetched_at": "2026-10-13T03:22:22.478Z",
    "body": [
     "Our briefing: United have endured worst league start since 1986-87 Trip to Atlético in Champions League awaits on Tuesday Manchester United have endured their worst league start in 40…",
     "United have endured worst league start since 1986-87 Trip to Atlético in Champions League awaits on Tuesday Manchester United have endured their worst league start in 40 years but Michael Carrick insists he is “loving it”. United arrived in Madrid without Kobbie Mainoo and Luke Shaw, who both picked up knocks in the draw against Tottenham at the weekend, and with the coach admitting that his team are in “a spot”, but he vowed that they would “come out fighting”. Despite collecting just six points in the Premier League so far, Carrick claimed he did not feel under pressure and backed his captain, Bruno Fernandes, who he revealed was still “carrying something”, to rediscover his form.",
@@ -178,7 +198,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-12T20:49:48.000Z",
-   "fetched_at": "2026-10-12T22:45:10.202Z",
+   "fetched_at": "2026-10-13T03:22:22.276Z",
    "body": [
     "Our briefing: Manchester United interested in Atletico Madrid's Giuliano Simeone, Chelsea willing to meet Bournemouth's asking price for Alex Scott, Premier League clubs want Inter's…",
     "Manchester United interested in Atletico Madrid's Giuliano Simeone, Chelsea willing to meet Bournemouth's asking price for Alex Scott, Premier League clubs want Inter's Aleksandar Stankovic.",
@@ -199,15 +219,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-12T20:45:00.000Z",
-   "fetched_at": "2026-10-12T22:45:10.203Z",
+   "fetched_at": "2026-10-13T03:22:22.276Z",
    "body": [
     "Our briefing: Mark Chapman is joined by Andros Townsend, Chris Sutton and Rory Smith.",
     "Mark Chapman is joined by Andros Townsend, Chris Sutton and Rory Smith.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "independent-police-name-man-accused-mocking-a66-crash-middle",
@@ -240,7 +260,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-12T20:24:15.000Z",
-   "fetched_at": "2026-10-12T22:45:10.202Z",
+   "fetched_at": "2026-10-13T03:22:22.276Z",
    "body": [
     "Our briefing: Former England striker Andy Carroll thanks the public for their support after speaking publicly about being sexually assaulted by a man.",
     "Former England striker Andy Carroll thanks the public for their support after speaking publicly about being sexually assaulted by a man.",
@@ -261,14 +281,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-12T18:00:37.000Z",
-   "fetched_at": "2026-10-12T22:45:10.370Z",
+   "fetched_at": "2026-10-13T03:22:22.543Z",
    "body": [
     "Our briefing: The midfielder made over 420 appearances in total during his 18-year playing career",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/CPSL_2005_semifinals_-_Esther_Shiner_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "Robin Glover — CC BY 4.0"
   },
   {
    "id": "bbc-bbc-women-s-football-weekly",
@@ -281,7 +301,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-12T18:00:00.000Z",
-   "fetched_at": "2026-10-12T22:45:10.203Z",
+   "fetched_at": "2026-10-13T03:22:22.277Z",
    "body": [
     "Our briefing: How can Sarina Wiegman’s side become more ruthless in the final third?",
     "How can Sarina Wiegman’s side become more ruthless in the final third?",
@@ -302,7 +322,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-12T17:09:30.000Z",
-   "fetched_at": "2026-10-12T22:45:10.202Z",
+   "fetched_at": "2026-10-13T03:22:22.276Z",
    "body": [
     "Our briefing: Prime Minister Andy Burnham had a formal meeting with Manchester City chairman Khaldoon Al Mubarak while mayor of Greater Manchester, according to the Greater Manchester…",
     "Prime Minister Andy Burnham had a formal meeting with Manchester City chairman Khaldoon Al Mubarak while mayor of Greater Manchester, according to the Greater Manchester Combined Authority.",
@@ -323,15 +343,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-12T16:54:32.000Z",
-   "fetched_at": "2026-10-12T22:45:10.202Z",
+   "fetched_at": "2026-10-13T03:22:22.276Z",
    "body": [
     "Our briefing: England take a two-goal lead into the second leg of their Women's World Cup qualifying play-off against Greece - but should it be more?",
     "England take a two-goal lead into the second leg of their Women's World Cup qualifying play-off against Greece - but should it be more?",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/CPSL_2005_semifinals_-_Esther_Shiner_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "Robin Glover — CC BY 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "guardian-grounded-rayo-vallecano-s-paper-planes-bring-clu",
@@ -344,7 +364,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-12T16:12:01.000Z",
-   "fetched_at": "2026-10-12T22:45:10.292Z",
+   "fetched_at": "2026-10-13T03:22:22.479Z",
    "body": [
     "Our briefing: Long-awaited return to Vallecas lasted just 13 minutes, as supporters made their displeasure with their chair, Raúl Martín Presa, impossible to ignore It took 147 days…",
     "Long-awaited return to Vallecas lasted just 13 minutes, as supporters made their displeasure with their chair, Raúl Martín Presa, impossible to ignore It took 147 days for Rayo Vallecano to walk out for a competitive game on the Avenida de Albufera and 24 minutes and 56 seconds for them to walk off again. Half of those had been spent watching thousands of paper planes touch down on the turf, play suspended while a message was delivered, over and over, until it was impossible to avoid. Forced from their home, the team from the barrio had been away for five months.",
@@ -368,7 +388,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-12T16:01:17.000Z",
-   "fetched_at": "2026-10-12T22:45:10.203Z",
+   "fetched_at": "2026-10-13T03:22:22.276Z",
    "body": [
     "Our briefing: Republic of Ireland manager Carla Ward confirms that Katie McCabe and Denise O'Sullivan will feature in the second leg of their Women's World Cup play-off against…",
     "Republic of Ireland manager Carla Ward confirms that Katie McCabe and Denise O'Sullivan will feature in the second leg of their Women's World Cup play-off against Kazakhstan, despite the Irish holding an 8-0 advantage from the first leg.",
@@ -389,7 +409,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-12T15:46:33.000Z",
-   "fetched_at": "2026-10-12T22:45:10.203Z",
+   "fetched_at": "2026-10-13T03:22:22.276Z",
    "body": [
     "Our briefing: Boss Michael McArdle says Northern Ireland will have \"one last swing\" at trying to reach a first Women's World Cup as they look to overcome a four-goal play-off deficit…",
     "Boss Michael McArdle says Northern Ireland will have \"one last swing\" at trying to reach a first Women's World Cup as they look to overcome a four-goal play-off deficit in Portugal.",
@@ -410,7 +430,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-12T15:31:33.000Z",
-   "fetched_at": "2026-10-12T22:45:10.203Z",
+   "fetched_at": "2026-10-13T03:22:22.276Z",
    "body": [
     "Our briefing: Rhian Wilkinson warns favourites Wales not to underestimate Albania in the second leg of their World Cup play-off semi-final.",
     "Rhian Wilkinson warns favourites Wales not to underestimate Albania in the second leg of their World Cup play-off semi-final.",
@@ -431,13 +451,13 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-12T15:17:58.000Z",
-   "fetched_at": "2026-10-12T22:45:10.370Z",
+   "fetched_at": "2026-10-13T03:22:22.543Z",
    "body": [
     "Our briefing: Piero Hincapie and Martin Zubimendi were both injured in the aftermath of the Leeds game on Saturday",
     "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Rocky_Mountain_Arsenal_National_Wildlife_Refuge%E2%80%99s_Amphitheater_%287495500328%29.jpg/960px-Rocky_Mountain_Arsenal_National_Wildlife_Refuge%E2%80%99s_Amphitheater_%287495500328%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Rocky_Mountain_Arsenal_National_Wildlife_Refuge%E2%80%99s_Amphitheater_%287495499436%29.jpg/960px-Rocky_Mountain_Arsenal_National_Wildlife_Refuge%E2%80%99s_Amphitheater_%287495499436%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
   },
   {
@@ -451,7 +471,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-12T15:12:32.000Z",
-   "fetched_at": "2026-10-12T22:45:10.202Z",
+   "fetched_at": "2026-10-13T03:22:22.276Z",
    "body": [
     "Our briefing: Former Port Vale and Gillingham captain Doug Loft dies at the age of 39, following a medical emergency.",
     "Former Port Vale and Gillingham captain Doug Loft dies at the age of 39, following a medical emergency.",
@@ -472,14 +492,14 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-12T15:01:34.000Z",
-   "fetched_at": "2026-10-12T22:45:10.292Z",
+   "fetched_at": "2026-10-13T03:22:22.478Z",
    "body": [
     "Our briefing: Defender and midfielder hurt after win against Leeds Saliba resumes training on his own after back injury Mikel Arteta has admitted frustration after Piero Hincapié and…",
     "Defender and midfielder hurt after win against Leeds Saliba resumes training on his own after back injury Mikel Arteta has admitted frustration after Piero Hincapié and Martín Zubimendi sustained ankle injuries during the warm-down after Arsenal’s win against Leeds on Saturday . Both are due to have scans on Monday to determine the extent of the damage, although Arteta said they would miss the Champions League game at home to Lille on Tuesday and that Hincapié’s injury “looks a little bit more serious”. Continue reading...",
     "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Rocky_Mountain_Arsenal_National_Wildlife_Refuge%E2%80%99s_Amphitheater_%287495500124%29.jpg/960px-Rocky_Mountain_Arsenal_National_Wildlife_Refuge%E2%80%99s_Amphitheater_%287495500124%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Rocky_Mountain_Arsenal_National_Wildlife_Refuge%E2%80%99s_Amphitheater_%287495499128%29.jpg/960px-Rocky_Mountain_Arsenal_National_Wildlife_Refuge%E2%80%99s_Amphitheater_%287495499128%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
   },
   {
@@ -493,14 +513,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-12T15:01:24.000Z",
-   "fetched_at": "2026-10-12T22:45:10.203Z",
+   "fetched_at": "2026-10-13T03:22:22.276Z",
    "body": [
     "Our briefing: Spectators will be able to consume alcohol at their seats when Scotland host the Czech Republic in the second leg of their Women's World Cup play-off in Paisley on…",
     "Spectators will be able to consume alcohol at their seats when Scotland host the Czech Republic in the second leg of their Women's World Cup play-off in Paisley on Tuesday.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Kashima_Soccer_Stadium_5.jpg/960px-Kashima_Soccer_Stadium_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Kashima_Soccer_Stadium_6.jpg/960px-Kashima_Soccer_Stadium_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   },
   {
@@ -514,7 +534,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-12T14:53:50.000Z",
-   "fetched_at": "2026-10-12T22:45:10.203Z",
+   "fetched_at": "2026-10-13T03:22:22.276Z",
    "body": [
     "Our briefing: Ten people were arrested amid a heightened atmosphere when the rival teams met at Anfield on Sunday.",
     "Ten people were arrested amid a heightened atmosphere when the rival teams met at Anfield on Sunday.",
@@ -535,7 +555,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-12T14:47:46.000Z",
-   "fetched_at": "2026-10-12T22:45:10.294Z",
+   "fetched_at": "2026-10-13T03:22:22.481Z",
    "body": [
     "Our briefing: Sign up now! Sign up now! Sign up now? Sign up now! While it was hardly Boca Juniors v River Plate at La Bombonera, Sunday’s eagerly anticipated match between Liverpool…",
     "Sign up now! Sign up now! Sign up now?",
@@ -561,7 +581,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-12T14:33:15.000Z",
-   "fetched_at": "2026-10-12T22:45:10.292Z",
+   "fetched_at": "2026-10-13T03:22:22.479Z",
    "body": [
     "Our briefing: Starting positions at centre-back and No 10 are up for grabs, while Sarina Wiegman’s future continues to be in the air England have two jobs to do on Tuesday. The first,…",
     "Starting positions at centre-back and No 10 are up for grabs, while Sarina Wiegman’s future continues to be in the air England have two jobs to do on Tuesday. The first, avoiding an almighty upset and progressing past Greece on aggregate in their Women’s World Cup playoff to reach a final tie, should be a formality for one of the world’s best-resourced teams. The second, honing their style to play like contenders for next summer’s World Cup in Brazil, is a far trickier but crucial challenge.",
@@ -569,7 +589,7 @@
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Soccer_fans_put_town_in_siege_%28FL62506613%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506613%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
@@ -583,14 +603,14 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-12T14:28:31.000Z",
-   "fetched_at": "2026-10-12T22:45:10.292Z",
+   "fetched_at": "2026-10-13T03:22:22.479Z",
    "body": [
     "Our briefing: Report published on Tuesday before consultation period It will have recommendations to improve sustainability The Independent Football Regulator (IFR) is to recommend…",
     "Report published on Tuesday before consultation period It will have recommendations to improve sustainability The Independent Football Regulator (IFR) is to recommend clubs introduce greater cost controls in its long-awaited State of the Game report, to be published on Tuesday. The 250-page draft report, with a final version to follow in the spring after an eight-week public consultation beginning this week, will paint a damning picture of the financial state of English men’s football, including the stark finding that 94% of the top 116 clubs are loss-making. Continue reading...",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Soccer_fans_put_town_in_siege_%28FL62506919%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506919%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
@@ -604,7 +624,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-12T14:24:02.000Z",
-   "fetched_at": "2026-10-12T22:45:10.292Z",
+   "fetched_at": "2026-10-13T03:22:22.478Z",
    "body": [
     "Our briefing: It’s not just that the club’s recent charges themselves are unprecedented – it’s the language used to describe them too Sign up for our free newsletter here The language…",
     "It’s not just that the club’s recent charges themselves are unprecedented – it’s the language used to describe them too Sign up for our free newsletter here The language of football is a fine and highly nuanced dialect. The majority of people involved in the game speak it with a high degree of sophistication. Minor deviations from the familiar, almost imperceptible to outsiders, can set off alarm bells: what’s really going on there?",
@@ -614,7 +634,7 @@
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
@@ -628,7 +648,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-12T14:22:24.000Z",
-   "fetched_at": "2026-10-12T22:45:10.202Z",
+   "fetched_at": "2026-10-13T03:22:22.275Z",
    "body": [
     "Our briefing: Arsenal manager Mikel Arteta says it is \"far from ideal\" that Piero Hincapie and Martin Zubimendi were injured in a post-match training session.",
     "Arsenal manager Mikel Arteta says it is \"far from ideal\" that Piero Hincapie and Martin Zubimendi were injured in a post-match training session.",
@@ -643,16 +663,16 @@
    "slug": "psg-invested-heavily-in-the-summer-but-are-still-relying-on--elyin",
    "title": "PSG invested heavily in the summer but are still relying on the A team",
    "dek": "Luis Enrique wants to rest his stars for the Champions League but they keep having to dig out the team in Ligue 1 By Get French Football News Luis Enrique said it was…",
-   "description": "Luis Enrique wants to rest his stars for the Champions League but they keep having to dig out the team in Ligue 1 By Get French Football News Luis Enrique said it was “typical” that Paris Saint-Germain only managed to see off newly-promoted Le Mans after his four changes around the hour mark. But it is also worrying and borderline damning. Ligue 1 has felt like a side quest for PSG in recent years. Not only have the club succeeded in rearranging league games to aid their Champions League campaign , but their stars rarely feature in the domestic league. Ousmane Dembélé started just 12 Ligue 1 games last season, but that didn’t prevent him winning – contentiously – the player of the season award. He was not on the teamsheet on Saturday night when PSG hosted Le Mans, nor was Nuno Mendes. Both were rested. It’s only mid-October, but it is already clear where PSG’s focus lies. Continue reading...",
+   "description": "Luis Enrique wants to rest his stars for the Champions League but they keep having to dig out the team in Ligue 1 By Get French Football News Luis Enrique said it was “typical” that Paris Saint-Germain only managed to see off promoted Le Mans after his four changes around the hour mark. But it is also worrying and borderline damning. Ligue 1 has felt like a side quest for PSG in recent years. Not only have the club succeeded in rearranging league games to aid their Champions League campaign , but their stars rarely feature in the domestic league. Ousmane Dembélé started just 12 Ligue 1 games last season, but that didn’t prevent him winning – contentiously – the player of the season award. He was not on the teamsheet on Saturday night when PSG hosted Le Mans, nor was Nuno Mendes. Both were rested. It’s only mid-October, but it is already clear where PSG’s focus lies. Continue reading...",
    "category": "News",
    "league": "Ligue 1",
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-12T13:48:06.000Z",
-   "fetched_at": "2026-10-12T15:53:59.428Z",
+   "fetched_at": "2026-10-13T03:22:22.479Z",
    "body": [
     "Our briefing: Luis Enrique wants to rest his stars for the Champions League but they keep having to dig out the team in Ligue 1 By Get French Football News Luis Enrique said it was…",
-    "Luis Enrique wants to rest his stars for the Champions League but they keep having to dig out the team in Ligue 1 By Get French Football News Luis Enrique said it was “typical” that Paris Saint-Germain only managed to see off newly-promoted Le Mans after his four changes around the hour mark. But it is also worrying and borderline damning. Ligue 1 has felt like a side quest for PSG in recent years.",
+    "Luis Enrique wants to rest his stars for the Champions League but they keep having to dig out the team in Ligue 1 By Get French Football News Luis Enrique said it was “typical” that Paris Saint-Germain only managed to see off promoted Le Mans after his four changes around the hour mark. But it is also worrying and borderline damning. Ligue 1 has felt like a side quest for PSG in recent years.",
     "Not only have the club succeeded in rearranging league games to aid their Champions League campaign , but their stars rarely feature in the domestic league. Ousmane Dembélé started just 12 Ligue 1 games last season, but that didn’t prevent him winning – contentiously – the player of the season award. He was not on the teamsheet on Saturday night when PSG hosted Le Mans, nor was Nuno Mendes.",
     "Both were rested. It’s only mid-October, but it is already clear where PSG’s focus lies. Continue reading...",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -672,7 +692,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-12T12:53:13.000Z",
-   "fetched_at": "2026-10-12T22:45:10.371Z",
+   "fetched_at": "2026-10-13T03:22:22.543Z",
    "body": [
     "Our briefing: Five people were held on suspicion of tragedy chanting at Anfield",
     "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
@@ -692,7 +712,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-12T12:43:50.000Z",
-   "fetched_at": "2026-10-12T22:45:10.294Z",
+   "fetched_at": "2026-10-13T03:22:22.480Z",
    "body": [
     "Our briefing: Max Rushden is joined by Barry Glendenning, Sam Dalling and Lars Sivertsen as Manchester City win their first Premier League game since the guilty verdict Continue…",
     "Max Rushden is joined by Barry Glendenning, Sam Dalling and Lars Sivertsen as Manchester City win their first Premier League game since the guilty verdict Continue reading...",
@@ -713,7 +733,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-12T12:41:52.000Z",
-   "fetched_at": "2026-10-12T22:45:10.203Z",
+   "fetched_at": "2026-10-13T03:22:22.276Z",
    "body": [
     "Our briefing: Silences were ended and boos were heard on another tough day for Leicester City as they were beaten by Robbie Savage's Peterborough United.",
     "Silences were ended and boos were heard on another tough day for Leicester City as they were beaten by Robbie Savage's Peterborough United.",
@@ -734,7 +754,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-12T12:21:20.000Z",
-   "fetched_at": "2026-10-12T22:45:10.371Z",
+   "fetched_at": "2026-10-13T03:22:22.543Z",
    "body": [
     "Our briefing: The 43-year-old says he ‘messed up by 10 minutes’ but ‘rules are rules’",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -754,7 +774,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-12T11:56:59.000Z",
-   "fetched_at": "2026-10-12T22:45:10.292Z",
+   "fetched_at": "2026-10-13T03:22:22.479Z",
    "body": [
     "Our briefing: Son of Paolo and grandson of Cesare struggled to establish himself at Milan but Fabio Pisacane is beginning to unlock his potential in Sardinia The abundance could not…",
     "Son of Paolo and grandson of Cesare struggled to establish himself at Milan but Fabio Pisacane is beginning to unlock his potential in Sardinia The abundance could not last for ever. Serie A’s first goalless draw of this season arrived in its 54th match, ironically between two of its more prolific teams. Perhaps things might have ended differently between Como and Roma if the division’s leading scorer, Donyell Malen, had not earned a red card at the start of the second half.",
@@ -763,7 +783,7 @@
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Soccer_fans_put_town_in_siege_%28FL62506919%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506919%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
@@ -777,7 +797,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-12T11:53:02.000Z",
-   "fetched_at": "2026-10-12T22:45:10.293Z",
+   "fetched_at": "2026-10-13T03:22:22.479Z",
    "body": [
     "Our briefing: Saïd El Mala’s winner illustrated the task faced by new Die Fohlen manager in reviving an injury-hit team A three-week break was exactly what Borussia Mönchengladbach…",
     "Saïd El Mala’s winner illustrated the task faced by new Die Fohlen manager in reviving an injury-hit team A three-week break was exactly what Borussia Mönchengladbach needed after a chastening start to the Bundesliga campaign and perhaps what their new coach, Alexander Blessin, would have ordered. His first match, a derby against arch-rivals Köln, to train focus? Even better.",
@@ -787,7 +807,7 @@
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Soccer_fans_put_town_in_siege_%28FL62506613%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506613%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
@@ -801,7 +821,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-12T11:47:36.000Z",
-   "fetched_at": "2026-10-12T22:45:10.371Z",
+   "fetched_at": "2026-10-13T03:22:22.543Z",
    "body": [
     "Our briefing: Following their victory over Liverpool at Anfield, Miguel Delaney reveals that questions are being asked as to whether Man City should even still be allowed to compete in…",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -843,7 +863,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-12T11:12:38.000Z",
-   "fetched_at": "2026-10-12T22:45:10.371Z",
+   "fetched_at": "2026-10-13T03:22:22.543Z",
    "body": [
     "Our briefing: The Liverpool captain refused to comment on City’s off-field situation with the rival club appealing against the guilty verdict handed to them by an independent…",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
@@ -851,26 +871,6 @@
    ],
    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Etihad_Stadium%2C_home_of_Manchester_City_-_geograph.org.uk_-_3857086.jpg/960px-Etihad_Stadium%2C_home_of_Manchester_City_-_geograph.org.uk_-_3857086.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Chris Morgan — CC BY-SA 2.0"
-  },
-  {
-   "id": "independent-premier-league-urged-back-football-prescription-",
-   "slug": "premier-league-urged-to-back-football-on-prescription-to-tac-tion-",
-   "title": "Premier League urged to back football on prescription to tackle depression and mental health",
-   "dek": "Participants under the trial received complimentary match tickets and are met by regular fans prior to the kick-off",
-   "description": "Participants under the trial received complimentary match tickets and are met by regular fans prior to the kick-off",
-   "category": "News",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-10-12T10:55:14.000Z",
-   "fetched_at": "2026-10-12T22:45:10.371Z",
-   "body": [
-    "Our briefing: Participants under the trial received complimentary match tickets and are met by regular fans prior to the kick-off",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Soccer_fans_put_town_in_siege_%28FL62506945%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506945%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
   }
  ]
 }
