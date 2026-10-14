@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T01:38:59.819Z",
+ "generated_at": "2026-10-14T07:12:08.127Z",
  "matches": [
   {
    "league": "La Liga",
@@ -16,16 +16,68 @@
   },
   {
    "league": "Premier League",
-   "home": "Coventry City",
-   "away": "Newcastle United",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
-   "homeScore": 4,
-   "awayScore": 1,
-   "status": "final",
+   "home": "Everton",
+   "away": "Chelsea",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
    "clock": "",
-   "time": "FT",
-   "date": "2026-10-12T19:00Z"
+   "time": "Sat, October 17th at 7:30 AM EDT",
+   "date": "2026-10-17T11:30Z"
+  },
+  {
+   "league": "Premier League",
+   "home": "Brentford",
+   "away": "Liverpool",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Sat, October 17th at 10:00 AM EDT",
+   "date": "2026-10-17T14:00Z"
+  },
+  {
+   "league": "Premier League",
+   "home": "Fulham",
+   "away": "Hull City",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/306.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Sat, October 17th at 10:00 AM EDT",
+   "date": "2026-10-17T14:00Z"
+  },
+  {
+   "league": "Premier League",
+   "home": "Manchester City",
+   "away": "Ipswich Town",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Sat, October 17th at 10:00 AM EDT",
+   "date": "2026-10-17T14:00Z"
+  },
+  {
+   "league": "Premier League",
+   "home": "Newcastle United",
+   "away": "Aston Villa",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Sat, October 17th at 12:30 PM EDT",
+   "date": "2026-10-17T16:30Z"
   },
   {
    "league": "Serie A",
@@ -33,6 +85,19 @@
    "away": "Sassuolo",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, October 16th at 2:45 PM EDT",
+   "date": "2026-10-16T18:45Z"
+  },
+  {
+   "league": "Ligue 1",
+   "home": "Le Mans",
+   "away": "Toulouse",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2697.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png",
    "homeScore": 0,
    "awayScore": 0,
    "status": "pre",
@@ -52,19 +117,6 @@
    "clock": "",
    "time": "Fri, October 16th at 2:30 PM EDT",
    "date": "2026-10-16T18:30Z"
-  },
-  {
-   "league": "Ligue 1",
-   "home": "Le Mans",
-   "away": "Toulouse",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2697.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, October 16th at 2:45 PM EDT",
-   "date": "2026-10-16T18:45Z"
   }
  ]
 }
