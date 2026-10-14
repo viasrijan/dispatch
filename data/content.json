@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-14T17:56:20.606Z",
- "updated_utc": "2026-10-14T17:56Z",
- "cycle": 29866676,
+ "generated_at": "2026-10-14T21:24:20.908Z",
+ "updated_utc": "2026-10-14T21:24Z",
+ "cycle": 29866884,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,8 +16,509 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "guardian-manchester-city-v-paris-saint-germain-champions-",
+ "hero_id": "bbc-man-city-show-fight-but-fall-short-fightback-aga",
  "articles": [
+  {
+   "id": "bbc-man-city-show-fight-but-fall-short-fightback-aga",
+   "slug": "man-city-show-fight-but-fall-short-of-fightback-against-slic-k-aga",
+   "title": "Man City show fight but fall short of fightback against slick PSG",
+   "dek": "Defending champions Paris Saint-Germain make it two wins from two in this season's Champions League, after beating Manchester City 4-2 at the Etihad Stadium",
+   "description": "Defending champions Paris Saint-Germain make it two wins from two in this season's Champions League, after beating Manchester City 4-2 at the Etihad Stadium",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-14T21:19:45.000Z",
+   "fetched_at": "2026-10-14T21:24:05.990Z",
+   "body": [
+    "Our briefing: Defending champions Paris Saint-Germain make it two wins from two in this season's Champions League, after beating Manchester City 4-2 at the Etihad Stadium",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Final_Manchester_City_Match_at_Maine_Road_-_geograph.org.uk_-_3820257.jpg/960px-Final_Manchester_City_Match_at_Maine_Road_-_geograph.org.uk_-_3820257.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Richard Cooke — CC BY-SA 2.0"
+  },
+  {
+   "id": "independent-man-city-v-psg-live-wild-six-goal-thriller-champ",
+   "slug": "man-city-v-psg-live-wild-six-goal-thriller-in-champions-leag-champ",
+   "title": "Man City v PSG LIVE: Wild six-goal thriller in Champions League enthralls returning Pep Guardiola",
+   "dek": "Manchester City 2-4 Paris Saint-Germain: PSG were made to hang on after their first-half masterclass as Erling Haaland scored twice and had many chances to complete his…",
+   "description": "Manchester City 2-4 Paris Saint-Germain: PSG were made to hang on after their first-half masterclass as Erling Haaland scored twice and had many chances to complete his hat-trick",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-10-14T21:14:05.000Z",
+   "fetched_at": "2026-10-14T21:24:06.131Z",
+   "body": [
+    "Our briefing: Manchester City 2-4 Paris Saint-Germain: PSG were made to hang on after their first-half masterclass as Erling Haaland scored twice and had many chances to complete his…",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Manchester_United_v_Manchester_City%2C_6_November_2021_%2815%29.jpg/960px-Manchester_United_v_Manchester_City%2C_6_November_2021_%2815%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ardfern — CC BY-SA 4.0"
+  },
+  {
+   "id": "independent-aston-villa-run-riot-record-breaking-win-over-fe",
+   "slug": "aston-villa-run-riot-in-record-breaking-win-over-fenerbahce--er-fe",
+   "title": "Aston Villa run riot in record-breaking win over Fenerbahce as Mason Greenwood taunted on UK return",
+   "dek": "Aston Villa hit Fenerbahce for six on a memorable night at Villa Park",
+   "description": "Aston Villa hit Fenerbahce for six on a memorable night at Villa Park",
+   "category": "News",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-10-14T21:05:33.000Z",
+   "fetched_at": "2026-10-14T21:24:06.131Z",
+   "body": [
+    "Our briefing: Aston Villa hit Fenerbahce for six on a memorable night at Villa Park",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/20140211_Cardiff_City_v_Aston_Villa%2C_Cardiff_City_Stadium%2C_Cardiff%2C_Wales.jpg/960px-20140211_Cardiff_City_v_Aston_Villa%2C_Cardiff_City_Stadium%2C_Cardiff%2C_Wales.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Jon Candy — CC BY-SA 2.0"
+  },
+  {
+   "id": "bbc-suarez-scores-again-sporting-beat-lens",
+   "slug": "suarez-scores-again-as-sporting-beat-lens--lens",
+   "title": "Suarez scores again as Sporting beat Lens",
+   "dek": "Luis Suarez scores for an eighth consecutive match as he helps Sporting beat Lens 2-0 in France, as the Portuguese side make it two wins from two in this season's…",
+   "description": "Luis Suarez scores for an eighth consecutive match as he helps Sporting beat Lens 2-0 in France, as the Portuguese side make it two wins from two in this season's Champions League.",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-14T21:01:09.000Z",
+   "fetched_at": "2026-10-14T21:24:05.991Z",
+   "body": [
+    "Our briefing: Luis Suarez scores for an eighth consecutive match as he helps Sporting beat Lens 2-0 in France, as the Portuguese side make it two wins from two in this season's…",
+    "Luis Suarez scores for an eighth consecutive match as he helps Sporting beat Lens 2-0 in France, as the Portuguese side make it two wins from two in this season's Champions League.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": null
+  },
+  {
+   "id": "bbc-gruda-scores-only-goal-rb-leipzig-edge-past-psv",
+   "slug": "gruda-scores-only-goal-as-rb-leipzig-edge-past-psv-t-psv",
+   "title": "Gruda scores only goal as RB Leipzig edge past PSV",
+   "dek": "Brajan Gruda's brilliant strike earns RB Leipzig a 1-0 win against PSV Eindhoven to get their first win in the league phase of this season's Champions League.",
+   "description": "Brajan Gruda's brilliant strike earns RB Leipzig a 1-0 win against PSV Eindhoven to get their first win in the league phase of this season's Champions League.",
+   "category": "News",
+   "league": "Bundesliga",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-14T21:01:05.000Z",
+   "fetched_at": "2026-10-14T21:24:05.991Z",
+   "body": [
+    "Our briefing: Brajan Gruda's brilliant strike earns RB Leipzig a 1-0 win against PSV Eindhoven to get their first win in the league phase of this season's Champions League.",
+    "Brajan Gruda's brilliant strike earns RB Leipzig a 1-0 win against PSV Eindhoven to get their first win in the league phase of this season's Champions League.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Panorama_Leipzig_Richtung_Westen_von_Tower_2013.jpg/960px-Panorama_Leipzig_Richtung_Westen_von_Tower_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Tuxyso — CC BY-SA 3.0"
+  },
+  {
+   "id": "bbc-sabah-beat-slavia-prague-secure-historic-champio",
+   "slug": "sabah-beat-slavia-prague-to-secure-historic-champions-league-ampio",
+   "title": "Sabah beat Slavia Prague to secure historic Champions League win",
+   "dek": "Azerbaijan champions Sabah FK make history in Baku as they beat Slavia Prague 2-0 to secure their first Champions League win in the club's history.",
+   "description": "Azerbaijan champions Sabah FK make history in Baku as they beat Slavia Prague 2-0 to secure their first Champions League win in the club's history.",
+   "category": "Match Reports",
+   "league": "Champions League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-14T21:01:02.000Z",
+   "fetched_at": "2026-10-14T21:24:05.991Z",
+   "body": [
+    "Our briefing: Azerbaijan champions Sabah FK make history in Baku as they beat Slavia Prague 2-0 to secure their first Champions League win in the club's history.",
+    "Azerbaijan champions Sabah FK make history in Baku as they beat Slavia Prague 2-0 to secure their first Champions League win in the club's history.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
+   "id": "bbc-mourino-scores-stunner-villarreal-come-behind-be",
+   "slug": "mourino-scores-stunner-as-villarreal-come-from-behind-to-bea-nd-be",
+   "title": "Mourino scores stunner as Villarreal come from behind to beat Napoli",
+   "dek": "A brilliant strike from Santiago Mourino helped Villarreal come from behind to beat Napoli 3-1, to secure their first Champions League win in eight matches.",
+   "description": "A brilliant strike from Santiago Mourino helped Villarreal come from behind to beat Napoli 3-1, to secure their first Champions League win in eight matches.",
+   "category": "Match Reports",
+   "league": "La Liga",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-14T21:00:58.000Z",
+   "fetched_at": "2026-10-14T21:24:05.991Z",
+   "body": [
+    "Our briefing: A brilliant strike from Santiago Mourino helped Villarreal come from behind to beat Napoli 3-1, to secure their first Champions League win in eight matches.",
+    "A brilliant strike from Santiago Mourino helped Villarreal come from behind to beat Napoli 3-1, to secure their first Champions League win in eight matches.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Atleti_vs_Villarreal_FC.jpg/960px-Atleti_vs_Villarreal_FC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
+   "id": "bbc-feyenoord-come-behind-beat-como",
+   "slug": "feyenoord-come-from-behind-to-beat-como--como",
+   "title": "Feyenoord come from behind to beat Como",
+   "dek": "Feyenoord come from a goal to beat Como 3-2 in Rotterdam to secure their first win of the league phase in this season's Champions League.",
+   "description": "Feyenoord come from a goal to beat Como 3-2 in Rotterdam to secure their first win of the league phase in this season's Champions League.",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-14T21:00:55.000Z",
+   "fetched_at": "2026-10-14T21:24:05.991Z",
+   "body": [
+    "Our briefing: Feyenoord come from a goal to beat Como 3-2 in Rotterdam to secure their first win of the league phase in this season's Champions League.",
+    "Feyenoord come from a goal to beat Como 3-2 in Rotterdam to secure their first win of the league phase in this season's Champions League.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Como_1907-Lazio_Serie_A_24_agosto_2025.jpg/960px-Como_1907-Lazio_Serie_A_24_agosto_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Fra Casa — CC BY 4.0"
+  },
+  {
+   "id": "bbc-tresoldi-hat-trick-fires-club-brugge-victory-ove",
+   "slug": "tresoldi-hat-trick-fires-club-brugge-to-victory-over-inter-i-y-ove",
+   "title": "Tresoldi hat-trick fires Club Brugge to victory over Inter in seven-goal thriller",
+   "dek": "Club Brugge's Nicolo Tresoldi scores a hat-trick as the Belgian side edge Inter Milan 4-3, extending Inter's Champions League losing run to four matches for the first…",
+   "description": "Club Brugge's Nicolo Tresoldi scores a hat-trick as the Belgian side edge Inter Milan 4-3, extending Inter's Champions League losing run to four matches for the first time in their history.",
+   "category": "Match Reports",
+   "league": "Serie A",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-14T21:00:52.000Z",
+   "fetched_at": "2026-10-14T21:24:05.991Z",
+   "body": [
+    "Our briefing: Club Brugge's Nicolo Tresoldi scores a hat-trick as the Belgian side edge Inter Milan 4-3, extending Inter's Champions League losing run to four matches for the first…",
+    "Club Brugge's Nicolo Tresoldi scores a hat-trick as the Belgian side edge Inter Milan 4-3, extending Inter's Champions League losing run to four matches for the first time in their history.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/1972%E2%80%9373_Serie_A_-_Inter_Milan_v_AC_Milan_-_Sabadini_scores.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": null
+  },
+  {
+   "id": "bbc-gordon-scores-brilliant-barcelona-thrash-galatas",
+   "slug": "gordon-scores-as-brilliant-barcelona-thrash-galatasaray-latas",
+   "title": "Gordon scores as 'brilliant Barcelona' thrash Galatasaray",
+   "dek": "Anthony Gordon scores his first Champions League goal for Barcelona as the Spanish side come from behind to thrash Galatasaray 4-1 in Istanbul, and make it two wins from…",
+   "description": "Anthony Gordon scores his first Champions League goal for Barcelona as the Spanish side come from behind to thrash Galatasaray 4-1 in Istanbul, and make it two wins from two in this season's Champions League.",
+   "category": "Match Reports",
+   "league": "La Liga",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-14T21:00:43.000Z",
+   "fetched_at": "2026-10-14T21:24:05.990Z",
+   "body": [
+    "Our briefing: Anthony Gordon scores his first Champions League goal for Barcelona as the Spanish side come from behind to thrash Galatasaray 4-1 in Istanbul, and make it two wins from…",
+    "Anthony Gordon scores his first Champions League goal for Barcelona as the Spanish side come from behind to thrash Galatasaray 4-1 in Istanbul, and make it two wins from two in this season's Champions League.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/LFP_-_Barcelona_vs_Mallorca_pre-match_-_Oct_3rd_2010.jpg/960px-LFP_-_Barcelona_vs_Mallorca_pre-match_-_Oct_3rd_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Paolo Costa Baldi — CC BY-SA 3.0"
+  },
+  {
+   "id": "bbc-viking-snatch-draw-against-bayern-munich-six-goa",
+   "slug": "viking-snatch-draw-against-bayern-munich-in-six-goal-thrille-x-goa",
+   "title": "Viking snatch draw against Bayern Munich in six-goal thriller",
+   "dek": "Norwegian champions Viking score a 90th minute equaliser to snatch a 3-3 draw against six-time European champions Bayern Munich in the Champions League, securing one of…",
+   "description": "Norwegian champions Viking score a 90th minute equaliser to snatch a 3-3 draw against six-time European champions Bayern Munich in the Champions League, securing one of the biggest results in the club's history.",
+   "category": "Match Reports",
+   "league": "Bundesliga",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-14T21:00:40.000Z",
+   "fetched_at": "2026-10-14T21:24:05.990Z",
+   "body": [
+    "Our briefing: Norwegian champions Viking score a 90th minute equaliser to snatch a 3-3 draw against six-time European champions Bayern Munich in the Champions League, securing one of…",
+    "Norwegian champions Viking score a 90th minute equaliser to snatch a 3-3 draw against six-time European champions Bayern Munich in the Champions League, securing one of the biggest results in the club's history.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/The_European_Cup_soccer_match_Bayern_M%C3%BCnich_vs_RSC_Anderlecht_in_Brussels_on_March_19%2C_1986.tif/lossy-page1-960px-The_European_Cup_soccer_match_Bayern_M%C3%BCnich_vs_RSC_Anderlecht_in_Brussels_on_March_19%2C_1986.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Mauritz Antin — CC BY 4.0"
+  },
+  {
+   "id": "bbc-substitutes-steal-show-arsenal-score-three-again",
+   "slug": "substitutes-steal-the-show-as-arsenal-score-three-against-li-again",
+   "title": "Substitutes steal the show as Arsenal score three against Lille",
+   "dek": "Substitute Bukayo Saka scores one and sets up another to help Arsenal beat Lille 3-0 at the Emirates, as the Premier League champions made it two wins from two in the…",
+   "description": "Substitute Bukayo Saka scores one and sets up another to help Arsenal beat Lille 3-0 at the Emirates, as the Premier League champions made it two wins from two in the Champions League.",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-14T21:00:36.000Z",
+   "fetched_at": "2026-10-14T21:24:05.990Z",
+   "body": [
+    "Our briefing: Substitute Bukayo Saka scores one and sets up another to help Arsenal beat Lille 3-0 at the Emirates, as the Premier League champions made it two wins from two in the…",
+    "Substitute Bukayo Saka scores one and sets up another to help Arsenal beat Lille 3-0 at the Emirates, as the Premier League champions made it two wins from two in the Champions League.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Manchester_City_v_Arsenal%2C_League_Cup_2004-5_-_geograph.org.uk_-_3841596.jpg/960px-Manchester_City_v_Arsenal%2C_League_Cup_2004-5_-_geograph.org.uk_-_3841596.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Richard Cooke — CC BY-SA 2.0"
+  },
+  {
+   "id": "bbc-yoro-sent-off-man-utd-stumble-defeat-against-atl",
+   "slug": "yoro-sent-off-as-man-utd-stumble-to-defeat-against-atletico--t-atl",
+   "title": "Yoro sent off as Man Utd stumble to defeat against Atletico Madrid",
+   "dek": "Manchester United's winless run stretches to five matches, as they're beaten 2-0 by Atletico Madrid in the Champions League, in a match which saw them concede in the…",
+   "description": "Manchester United's winless run stretches to five matches, as they're beaten 2-0 by Atletico Madrid in the Champions League, in a match which saw them concede in the opening minute before ending the game with ten men after Leny Yoro was sent off.",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-14T21:00:34.000Z",
+   "fetched_at": "2026-10-14T21:24:05.990Z",
+   "body": [
+    "Our briefing: Manchester United's winless run stretches to five matches, as they're beaten 2-0 by Atletico Madrid in the Champions League, in a match which saw them concede in the…",
+    "Manchester United's winless run stretches to five matches, as they're beaten 2-0 by Atletico Madrid in the Champions League, in a match which saw them concede in the opening minute before ending the game with ten men after Leny Yoro was sent off.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/25_July_2010_Kansas_City_Wizards_vs_Manchester_United_friendly.jpg/960px-25_July_2010_Kansas_City_Wizards_vs_Manchester_United_friendly.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Conman33 — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-brilliant-barcola-scores-first-hat-trick-get-lif",
+   "slug": "brilliant-barcola-scores-first-hat-trick-to-get-lift-off-at--t-lif",
+   "title": "Brilliant Barcola scores first hat-trick to get lift-off at Liverpool",
+   "dek": "Liverpool's summer signing Bradley Barcola scores his first senior hat-trick, and his first goals for Liverpool, as he helps his side beat LASK 6-3 in Austria to make it…",
+   "description": "Liverpool's summer signing Bradley Barcola scores his first senior hat-trick, and his first goals for Liverpool, as he helps his side beat LASK 6-3 in Austria to make it two wins from two in this season's Champions League.",
+   "category": "Transfers & Rumours",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-14T21:00:28.000Z",
+   "fetched_at": "2026-10-14T21:24:05.990Z",
+   "body": [
+    "Our briefing: Liverpool's summer signing Bradley Barcola scores his first senior hat-trick, and his first goals for Liverpool, as he helps his side beat LASK 6-3 in Austria to make it…",
+    "Liverpool's summer signing Bradley Barcola scores his first senior hat-trick, and his first goals for Liverpool, as he helps his side beat LASK 6-3 in Austria to make it two wins from two in this season's Champions League.",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Magistrates%27_Court%2C_Dale_Street%2C_Liverpool_2018.jpg/960px-Magistrates%27_Court%2C_Dale_Street%2C_Liverpool_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Rodhullandemu — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-barcola-shines-liverpool-score-six-beat-lask",
+   "slug": "barcola-shines-as-liverpool-score-six-to-beat-lask--lask",
+   "title": "Barcola shines as Liverpool score six to beat LASK",
+   "dek": "Bradley Barcola scores a hat-trick as Liverpool beat LASK 6-3 in Austria to make it two wins from two in the league phase of this season's Champions League.",
+   "description": "Bradley Barcola scores a hat-trick as Liverpool beat LASK 6-3 in Austria to make it two wins from two in the league phase of this season's Champions League.",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-14T21:00:24.000Z",
+   "fetched_at": "2026-10-14T21:24:05.990Z",
+   "body": [
+    "Our briefing: Bradley Barcola scores a hat-trick as Liverpool beat LASK 6-3 in Austria to make it two wins from two in the league phase of this season's Champions League.",
+    "Bradley Barcola scores a hat-trick as Liverpool beat LASK 6-3 in Austria to make it two wins from two in the league phase of this season's Champions League.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Galatasaray_Liverpool_CL_2006.jpg/960px-Galatasaray_Liverpool_CL_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "tekinim — CC BY 2.0"
+  },
+  {
+   "id": "bbc-night-mayhem-liverpool-barcola-arrives-style",
+   "slug": "on-night-of-mayhem-for-liverpool-barcola-arrives-in-style-style",
+   "title": "On night of mayhem for Liverpool, Barcola arrives in style",
+   "dek": "Bradley Barcola's form was the subject of pre-match questions before Liverpool faced LASK. The French forward's Champions League hat-trick was the perfect answer.",
+   "description": "Bradley Barcola's form was the subject of pre-match questions before Liverpool faced LASK. The French forward's Champions League hat-trick was the perfect answer.",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-14T20:46:35.000Z",
+   "fetched_at": "2026-10-14T21:24:05.990Z",
+   "body": [
+    "Our briefing: Bradley Barcola's form was the subject of pre-match questions before Liverpool faced LASK. The French forward's Champions League hat-trick was the perfect answer.",
+    "Bradley Barcola's form was the subject of pre-match questions before Liverpool faced LASK. The French forward's Champions League hat-trick was the perfect answer.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Elftal_van_Liverpool%2C_Bestanddeelnr_919-7002.jpg/960px-Elftal_van_Liverpool%2C_Bestanddeelnr_919-7002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
+   "id": "independent-how-bradley-barcola-scored-his-liverpool-hat-tri",
+   "slug": "how-bradley-barcola-scored-his-liverpool-hat-trick-but-were--t-tri",
+   "title": "How Bradley Barcola scored his Liverpool hat-trick, but were defensive lapses a concern?",
+   "dek": "LASK 3-6 Liverpool: Andoni Iraola’s side enjoyed a big Champions League win as Lewis Koumas also got on the scoresheet in Austria",
+   "description": "LASK 3-6 Liverpool: Andoni Iraola’s side enjoyed a big Champions League win as Lewis Koumas also got on the scoresheet in Austria",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-10-14T20:33:56.000Z",
+   "fetched_at": "2026-10-14T21:24:06.131Z",
+   "body": [
+    "Our briefing: LASK 3-6 Liverpool: Andoni Iraola’s side enjoyed a big Champions League win as Lewis Koumas also got on the scoresheet in Austria",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Liverpool_players_before_match_vs_Rabotnicki_cropped.jpg/960px-Liverpool_players_before_match_vs_Rabotnicki_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Liverpool_players_before_match_vs_Rabotnicki.jpg: Kevin Walsh derivative work: Sven Manguard — CC BY 2.0"
+  },
+  {
+   "id": "independent-exhibition-steven-gerrard-salutes-psg-after-stun",
+   "slug": "an-exhibition-steven-gerrard-salutes-psg-after-stunning-firs--stun",
+   "title": "‘An exhibition’: Steven Gerrard salutes PSG after stunning first half against Man City",
+   "dek": "Doue, Dembele and Vitinha struck for the back-to-back Champions League winners, in the first time City had conceded three first-half goals at home since 2015",
+   "description": "Doue, Dembele and Vitinha struck for the back-to-back Champions League winners, in the first time City had conceded three first-half goals at home since 2015",
+   "category": "News",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-10-14T20:04:03.000Z",
+   "fetched_at": "2026-10-14T21:24:06.131Z",
+   "body": [
+    "Our briefing: Doue, Dembele and Vitinha struck for the back-to-back Champions League winners, in the first time City had conceded three first-half goals at home since 2015",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Manchester_City_dressing_room_2022.jpg/960px-Manchester_City_dressing_room_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Christian David — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-martinez-s-future-man-utd-doubt-thursday-s-gossi",
+   "slug": "martinez-s-future-at-man-utd-in-doubt-thursday-s-gossip-gossi",
+   "title": "Martinez's future at Man Utd in doubt - Thursday's gossip",
+   "dek": "Lisandro Martinez's future in doubt at Manchester United, Newcastle's Bazoumana Toure eyed by Manchester United and Arsenal, Getafe interested in free agent Jadon Sancho,…",
+   "description": "Lisandro Martinez's future in doubt at Manchester United, Newcastle's Bazoumana Toure eyed by Manchester United and Arsenal, Getafe interested in free agent Jadon Sancho, plus more.",
+   "category": "Injuries",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-14T20:01:47.000Z",
+   "fetched_at": "2026-10-14T21:24:05.991Z",
+   "body": [
+    "Our briefing: Lisandro Martinez's future in doubt at Manchester United, Newcastle's Bazoumana Toure eyed by Manchester United and Arsenal, Getafe interested in free agent Jadon Sancho,…",
+    "Lisandro Martinez's future in doubt at Manchester United, Newcastle's Bazoumana Toure eyed by Manchester United and Arsenal, Getafe interested in free agent Jadon Sancho, plus more.",
+    "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Manchester_United_v_Manchester_City%2C_10_December_2017_%2812%29.jpg/960px-Manchester_United_v_Manchester_City%2C_10_December_2017_%2812%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ardfern — CC BY-SA 4.0"
+  },
+  {
+   "id": "guardian-i-expect-more-key-questions-mart-nez-s-mancheste",
+   "slug": "i-expect-more-the-key-questions-from-mart-nez-s-manchester-u-heste",
+   "title": "‘I expect more’: the key questions from Martínez’s Manchester United broadside | Jamie Jackson",
+   "dek": "From Jason Wilcox’s role to the views of the rest of the squad, we tackle the major talking points at Old Trafford after the defender’s outburst After Manchester United’s…",
+   "description": "From Jason Wilcox’s role to the views of the rest of the squad, we tackle the major talking points at Old Trafford after the defender’s outburst After Manchester United’s 2-0 loss at Atlético Madrid, Lisandro Martínez teed off at the director of football, Jason Wilcox, and the rest of the executive. “We don’t have the best squad at the moment compared with other top teams,” said the defender. “I expect more [investment], 100%. I expect more from our technical director [Jason Wilcox] … Really poor [the Atlético defeat] – I have to control myself a lot but something is a reflection of the mirror of how our club is at the moment.” Here we consider the key questions emerging from Martínez’s explosive remarks. Continue reading...",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-10-14T19:00:09.000Z",
+   "fetched_at": "2026-10-14T21:24:06.059Z",
+   "body": [
+    "Our briefing: From Jason Wilcox’s role to the views of the rest of the squad, we tackle the major talking points at Old Trafford after the defender’s outburst After Manchester United’s…",
+    "From Jason Wilcox’s role to the views of the rest of the squad, we tackle the major talking points at Old Trafford after the defender’s outburst After Manchester United’s 2-0 loss at Atlético Madrid, Lisandro Martínez teed off at the director of football, Jason Wilcox, and the rest of the executive. “We don’t have the best squad at the moment compared with other top teams,” said the defender. “I expect more [investment], 100%.",
+    "I expect more from our technical director [Jason Wilcox] … Really poor [the Atlético defeat] – I have to control myself a lot but something is a reflection of the mirror of how our club is at the moment. ” Here we consider the key questions emerging from Martínez’s explosive remarks. Continue reading...",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Manchester_United_v_Tottenham_Hotspur%2C_12_March_2022_%2805%29.jpg/960px-Manchester_United_v_Tottenham_Hotspur%2C_12_March_2022_%2805%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ardfern — CC BY-SA 4.0"
+  },
+  {
+   "id": "guardian-bradley-barcola-s-clinical-hat-trick-inspires-li",
+   "slug": "bradley-barcola-s-clinical-hat-trick-inspires-liverpool-to-6-es-li",
+   "title": "Bradley Barcola’s clinical hat-trick inspires Liverpool to 6-3 rout of Lask",
+   "dek": "Liverpool cleansed themselves from the stains of defeat by Manchester City at the earliest opportunity. A rampant display in Austria saw Bradley Barcola ignite his…",
+   "description": "Liverpool cleansed themselves from the stains of defeat by Manchester City at the earliest opportunity. A rampant display in Austria saw Bradley Barcola ignite his Liverpool account with the first hat-trick of his professional career and Andoni Iraola’s team devastate Lask’s big night in the Champions League. The major surprise was how the hosts managed to score three. Iraola’s pre-match faith in the big-money signings Barcola and Florian Wirtz was repaid as the pair helped dismantle limited opponents. But it was not all about the money and the £123m signing from Paris Saint-Germain scoring the first goals of his Liverpool career. Lewis Koumas registered his first goal in the competition and replaced Steven Gerrard as the youngest player to score and assist in a Champions League game for Liverpool. A total of 26 shots equalled Liverpool’s record in a Champions League away game. Continue reading...",
+   "category": "Transfers & Rumours",
+   "league": "Premier League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-10-14T18:51:39.000Z",
+   "fetched_at": "2026-10-14T21:24:06.059Z",
+   "body": [
+    "Our briefing: Liverpool cleansed themselves from the stains of defeat by Manchester City at the earliest opportunity. A rampant display in Austria saw Bradley Barcola ignite his…",
+    "Liverpool cleansed themselves from the stains of defeat by Manchester City at the earliest opportunity. A rampant display in Austria saw Bradley Barcola ignite his Liverpool account with the first hat-trick of his professional career and Andoni Iraola’s team devastate Lask’s big night in the Champions League. The major surprise was how the hosts managed to score three.",
+    "Iraola’s pre-match faith in the big-money signings Barcola and Florian Wirtz was repaid as the pair helped dismantle limited opponents. But it was not all about the money and the £123m signing from Paris Saint-Germain scoring the first goals of his Liverpool career. Lewis Koumas registered his first goal in the competition and replaced Steven Gerrard as the youngest player to score and assist in a Champions League game for Liverpool.",
+    "A total of 26 shots equalled Liverpool’s record in a Champions League away game. Continue reading...",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/2022-07-21_Fu%C3%9Fball%2C_M%C3%A4nner%2CFreundschaftsspiel%2C_RB_Leipzig_-_FC_Liverpool_1DX_2224_by_Stepro.jpg/960px-2022-07-21_Fu%C3%9Fball%2C_M%C3%A4nner%2CFreundschaftsspiel%2C_RB_Leipzig_-_FC_Liverpool_1DX_2224_by_Stepro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Steffen Prößdorf — CC BY-SA 4.0"
+  },
+  {
+   "id": "independent-arsenal-cutting-jobs-just-days-after-mikel-artet",
+   "slug": "arsenal-cutting-jobs-just-days-after-mikel-arteta-s-80m-deal-artet",
+   "title": "Arsenal cutting jobs just days after Mikel Arteta’s £80m deal is simply indefensible",
+   "dek": "The Premier League champions have told staff of plans to cut at least 60 jobs, writes Miguel Delaney , which completely goes against the club’s traditional values of…",
+   "description": "The Premier League champions have told staff of plans to cut at least 60 jobs, writes Miguel Delaney , which completely goes against the club’s traditional values of ‘doing things the right way’",
+   "category": "News",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-10-14T18:38:42.000Z",
+   "fetched_at": "2026-10-14T21:24:06.132Z",
+   "body": [
+    "Our briefing: The Premier League champions have told staff of plans to cut at least 60 jobs, writes Miguel Delaney , which completely goes against the club’s traditional values of…",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Arsenal_Stadium_Highbury_east_facade.jpg/960px-Arsenal_Stadium_Highbury_east_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "No machine-readable author provided. Qwghlm~commonswiki assumed (based on copyright claims). — CC BY-SA 3.0"
+  },
+  {
+   "id": "bbc-wolves-striker-jimenez-have-knee-surgery",
+   "slug": "wolves-striker-jimenez-to-have-knee-surgery-rgery",
+   "title": "Wolves striker Jimenez to have knee surgery",
+   "dek": "Wolves' veteran striker Raul Jimenez is to have knee surgery - and is now expected to be out of action until January.",
+   "description": "Wolves' veteran striker Raul Jimenez is to have knee surgery - and is now expected to be out of action until January.",
+   "category": "News",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-14T18:21:21.000Z",
+   "fetched_at": "2026-10-14T21:24:05.991Z",
+   "body": [
+    "Our briefing: Wolves' veteran striker Raul Jimenez is to have knee surgery - and is now expected to be out of action until January.",
+    "Wolves' veteran striker Raul Jimenez is to have knee surgery - and is now expected to be out of action until January.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Wolverhampton_Wanderers_-_Dec_2014.jpg/960px-Wolverhampton_Wanderers_-_Dec_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Gareth Williams — CC BY 2.0"
+  },
+  {
+   "id": "bbc-vinicius-jr-miss-barcelona-game-because-ban",
+   "slug": "vinicius-jr-to-miss-barcelona-game-because-of-ban-e-ban",
+   "title": "Vinicius Jr to miss Barcelona game because of ban",
+   "dek": "Real Madrid forward Vinicius Jr will miss El Clasico against Barcelona after being given a four-game ban.",
+   "description": "Real Madrid forward Vinicius Jr will miss El Clasico against Barcelona after being given a four-game ban.",
+   "category": "News",
+   "league": "La Liga",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-14T18:14:53.000Z",
+   "fetched_at": "2026-10-14T21:24:05.990Z",
+   "body": [
+    "Our briefing: Real Madrid forward Vinicius Jr will miss El Clasico against Barcelona after being given a four-game ban.",
+    "Real Madrid forward Vinicius Jr will miss El Clasico against Barcelona after being given a four-game ban.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/2014._Camp_Nou._M%C3%A9s_que_un_club._Barcelona_B40.jpg/960px-2014._Camp_Nou._M%C3%A9s_que_un_club._Barcelona_B40.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Luis Miguel Bugallo Sánchez (Lmbuga) — CC BY-SA 3.0"
+  },
   {
    "id": "independent-man-city-v-psg-live-pep-guardiola-returns-suppor",
    "slug": "man-city-v-psg-live-pep-guardiola-returns-to-support-former--uppor",
@@ -94,7 +595,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-14T17:16:23.000Z",
-   "fetched_at": "2026-10-14T17:56:08.499Z",
+   "fetched_at": "2026-10-14T21:24:05.992Z",
    "body": [
     "Our briefing: East Fife part ways with veteran manager Dick Campbell as Danny Lennon temporarily replaces Frank McKeown at Dumbarton.",
     "East Fife part ways with veteran manager Dick Campbell as Danny Lennon temporarily replaces Frank McKeown at Dumbarton.",
@@ -115,7 +616,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-14T17:09:18.000Z",
-   "fetched_at": "2026-10-14T17:56:08.498Z",
+   "fetched_at": "2026-10-14T21:24:05.990Z",
    "body": [
     "Our briefing: Anti-racism campaign group Kick It Out calls on managers to \"set the tone\" after Millwall boss Alex Neil criticises halting a game following an accusation of abuse.",
     "Anti-racism campaign group Kick It Out calls on managers to \"set the tone\" after Millwall boss Alex Neil criticises halting a game following an accusation of abuse.",
@@ -136,7 +637,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-14T17:07:53.000Z",
-   "fetched_at": "2026-10-14T17:56:08.498Z",
+   "fetched_at": "2026-10-14T21:24:05.991Z",
    "body": [
     "Our briefing: Away fan John Ryan toppled from the upper tier at Ipswich's ground and landed on home supporters.",
     "Away fan John Ryan toppled from the upper tier at Ipswich's ground and landed on home supporters.",
@@ -157,7 +658,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-14T17:00:08.000Z",
-   "fetched_at": "2026-10-14T17:56:08.889Z",
+   "fetched_at": "2026-10-14T21:24:06.059Z",
    "body": [
     "Our briefing: Exclusive: Greater Manchester mayor Bev Craig invited City representative on trade trip organised by business secretary A club representative from Manchester City was…",
     "Exclusive: Greater Manchester mayor Bev Craig invited City representative on trade trip organised by business secretary A club representative from Manchester City was invited on a government-backed trade delegation to India this week, despite the club being found guilty of 114 breaches of Premier League rules. Andy Burnham’s successor as Manchester mayor Bev Craig took a representative from the club to Delhi and Mumbai on a trip organised by business secretary Jonathan Reynolds, where she and other northern mayors have been promoting British trade and tourism. Continue reading...",
@@ -166,6 +667,29 @@
    ],
    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+  },
+  {
+   "id": "guardian-removing-political-speech-mls-fans-untenable-jus",
+   "slug": "removing-political-speech-from-mls-fans-is-untenable-just-as-e-jus",
+   "title": "Removing political speech from MLS fans is untenable – just ask Austin FC",
+   "dek": "The protests around an anti-ICE T-shirt show that politics can never be separated from sports, especially now On 26 September, Daniela Silva was expelled from Austin FC’s…",
+   "description": "The protests around an anti-ICE T-shirt show that politics can never be separated from sports, especially now On 26 September, Daniela Silva was expelled from Austin FC’s match with San Diego FC for wearing a T-shirt reading “Abolish ICE”. She says she was banned from Q2 Stadium for a year (Austin FC said that the ban was issued by the Austin Police Department, not the club, and that they offered to rescind it but that Silva declined). This happened, really, truly, and you cannot make this up, during Austin FC’s Hispanic Heritage Night. It also happened six days after Immigration and Customs Enforcement (ICE) agents shot a Venezuelan delivery driver , 28-year-old Wilber Garcés Pérez, in the torso in Austin, sparking protests in the city. Leander Schaerlaeckens is the author of The Long Game: US Men’s Soccer and Its Savage, Four-Decade Journey to the Top, or Thereabouts, which is out now . He teaches at Marist University. This article was amended on 14 October to reflect MLS’s clarification that, though the wordings of the league’s fan code of conduct and the Q2 Stadium fan code of conduct are identical, the league’s does not govern articles of clothing while a stadium’s may. Continue reading...",
+   "category": "Tactics & Analysis",
+   "league": "Football",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-10-14T16:58:53.000Z",
+   "fetched_at": "2026-10-14T21:24:06.060Z",
+   "body": [
+    "Our briefing: The protests around an anti-ICE T-shirt show that politics can never be separated from sports, especially now On 26 September, Daniela Silva was expelled from Austin FC’s…",
+    "The protests around an anti-ICE T-shirt show that politics can never be separated from sports, especially now On 26 September, Daniela Silva was expelled from Austin FC’s match with San Diego FC for wearing a T-shirt reading “Abolish ICE”. She says she was banned from Q2 Stadium for a year (Austin FC said that the ban was issued by the Austin Police Department, not the club, and that they offered to rescind it but that Silva declined). This happened, really, truly, and you cannot make this up, during Austin FC’s Hispanic Heritage Night.",
+    "It also happened six days after Immigration and Customs Enforcement (ICE) agents shot a Venezuelan delivery driver , 28-year-old Wilber Garcés Pérez, in the torso in Austin, sparking protests in the city. Leander Schaerlaeckens is the author of The Long Game: US Men’s Soccer and Its Savage, Four-Decade Journey to the Top, or Thereabouts, which is out now . He teaches at Marist University.",
+    "This article was amended on 14 October to reflect MLS’s clarification that, though the wordings of the league’s fan code of conduct and the Q2 Stadium fan code of conduct are identical, the league’s does not govern articles of clothing while a stadium’s may. Continue reading...",
+    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
   },
   {
    "id": "guardian-mls-s-political-speech-policy-untenable-just-ask",
@@ -191,26 +715,6 @@
    "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
   },
   {
-   "id": "independent-arsenal-cutting-jobs-just-days-after-mikel-artet",
-   "slug": "arsenal-cutting-jobs-just-days-after-mikel-arteta-s-80m-deal-artet",
-   "title": "Arsenal cutting jobs just days after Mikel Arteta’s £80m deal is simply indefensible",
-   "dek": "The Premier League champions have told staff of plans to cut at least 60 jobs, writes Miguel Delaney , which completely goes against the club’s traditional values of…",
-   "description": "The Premier League champions have told staff of plans to cut at least 60 jobs, writes Miguel Delaney , which completely goes against the club’s traditional values of ‘doing things the right way’",
-   "category": "News",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-10-14T16:46:47.000Z",
-   "fetched_at": "2026-10-14T17:56:09.011Z",
-   "body": [
-    "Our briefing: The Premier League champions have told staff of plans to cut at least 60 jobs, writes Miguel Delaney , which completely goes against the club’s traditional values of…",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Arsenal_Stadium_Highbury_east_facade.jpg/960px-Arsenal_Stadium_Highbury_east_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "No machine-readable author provided. Qwghlm~commonswiki assumed (based on copyright claims). — CC BY-SA 3.0"
-  },
-  {
    "id": "independent-fifa-poised-rule-change-avoid-folarin-balogun-sc",
    "slug": "fifa-poised-for-rule-change-to-avoid-folarin-balogun-scandal-un-sc",
    "title": "Fifa poised for rule change to avoid Folarin Balogun scandal repeat",
@@ -221,13 +725,13 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-14T16:28:38.000Z",
-   "fetched_at": "2026-10-14T17:56:09.011Z",
+   "fetched_at": "2026-10-14T21:24:06.132Z",
    "body": [
     "Our briefing: Folarin Balogun’s World Cup ban was suspended after Donald Trump revealed he called Gianni Infantino over the red card",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -241,7 +745,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-14T16:01:00.000Z",
-   "fetched_at": "2026-10-14T17:56:08.498Z",
+   "fetched_at": "2026-10-14T21:24:05.991Z",
    "body": [
     "Our briefing: Former Watford midfielder Tom Ince discusses what's happening at Vicarage Road.",
     "Former Watford midfielder Tom Ince discusses what's happening at Vicarage Road.",
@@ -262,7 +766,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-14T15:59:59.000Z",
-   "fetched_at": "2026-10-14T17:56:08.497Z",
+   "fetched_at": "2026-10-14T21:24:05.990Z",
    "body": [
     "Our briefing: Fifa is set to propose a $3.4bn increase in the amount of money it hands out for football development across the world.",
     "Fifa is set to propose a $3. 4bn increase in the amount of money it hands out for football development across the world.",
@@ -283,14 +787,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-14T15:55:42.000Z",
-   "fetched_at": "2026-10-14T17:56:09.011Z",
+   "fetched_at": "2026-10-14T21:24:06.132Z",
    "body": [
     "Our briefing: Goalkeeper Alisson Becker is technically Liverpool’s vice-captain, but he will not wear the armband when the Reds face LASK in the Champions League",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Anfield_Stadium%2C_Liverpool_-_geograph.org.uk_-_5885062.jpg/960px-Anfield_Stadium%2C_Liverpool_-_geograph.org.uk_-_5885062.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Mike Pennington — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Liverpool_anfield_road_stadium.jpg/960px-Liverpool_anfield_road_stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
   },
   {
    "id": "guardian-jason-wilcox-best-eyes-manchester-united-or-prom",
@@ -303,7 +807,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-14T15:42:11.000Z",
-   "fetched_at": "2026-10-14T17:56:08.889Z",
+   "fetched_at": "2026-10-14T21:24:06.060Z",
    "body": [
     "Our briefing: Director of football is tarnished by recruitment record and Amorim stint but has received glowing review from above Lisandro Martínez is not naive. At 28, he has…",
     "Director of football is tarnished by recruitment record and Amorim stint but has received glowing review from above Lisandro Martínez is not naive. At 28, he has experienced plenty in football and knows the causes of success and failure. He has a World Cup winner’s medal , whereas Jason Wilcox has overseen the latest period of mediocrity at Manchester United, during which the focus has fallen more on the team’s performances than the wider reasons behind it.",
@@ -312,8 +816,8 @@
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Manchester_United_v_Manchester_City%2C_6_November_2021_%2815%29.jpg/960px-Manchester_United_v_Manchester_City%2C_6_November_2021_%2815%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ardfern — CC BY-SA 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Williams-Brice_Stadium%2C_Manchester_United_v._Liverpool%2C_8-3-2024.jpg/960px-Williams-Brice_Stadium%2C_Manchester_United_v._Liverpool%2C_8-3-2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "PCN02WPS — CC BY-SA 4.0"
   },
   {
    "id": "bbc-wilcox-target-again-another-damaging-man-utd-fal",
@@ -326,15 +830,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-14T15:30:03.000Z",
-   "fetched_at": "2026-10-14T17:56:08.497Z",
+   "fetched_at": "2026-10-14T21:24:05.990Z",
    "body": [
     "Our briefing: Lisandro Martinez's explosive comments after Manchester United's Champions League defeat by Atletico Madrid turn the spotlight back on director of football Jason Wilcox.",
     "Lisandro Martinez's explosive comments after Manchester United's Champions League defeat by Atletico Madrid turn the spotlight back on director of football Jason Wilcox.",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/25_July_2010_Kansas_City_Wizards_vs_Manchester_United_friendly.jpg/960px-25_July_2010_Kansas_City_Wizards_vs_Manchester_United_friendly.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Conman33 — CC BY-SA 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Manchester_United_Old_Trafford.jpg/960px-Manchester_United_Old_Trafford.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
   },
   {
    "id": "bbc-dionisi-set-remain-charge-watford",
@@ -347,523 +851,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-14T14:46:30.000Z",
-   "fetched_at": "2026-10-14T17:56:08.498Z",
+   "fetched_at": "2026-10-14T21:24:05.991Z",
    "body": [
     "Our briefing: BBC Three Counties Radio report Watford are set to stick with head coach Alessio Dionisi despite a run of four successive defeats",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": null
-  },
-  {
-   "id": "bbc-semenyo-froze-after-alleged-racist-abuse-court-t",
-   "slug": "semenyo-froze-after-alleged-racist-abuse-court-told-urt-t",
-   "title": "Semenyo 'froze' after alleged racist abuse, court told",
-   "dek": "A Liverpool fan denies racially aggravated behaviour during a match against Bournemouth in 2025.",
-   "description": "A Liverpool fan denies racially aggravated behaviour during a match against Bournemouth in 2025.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-14T14:16:04.000Z",
-   "fetched_at": "2026-10-14T17:56:08.498Z",
-   "body": [
-    "Our briefing: A Liverpool fan denies racially aggravated behaviour during a match against Bournemouth in 2025.",
-    "A Liverpool fan denies racially aggravated behaviour during a match against Bournemouth in 2025.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "guardian-football-daily-mart-nez-lets-rip-united-s-dirty-",
-   "slug": "daily-mart-nez-lets-rip-as-united-s-dirty-laundry-gets-a-ver-irty-",
-   "title": "Daily | Martínez lets rip as United’s dirty laundry gets a very public airing",
-   "dek": "Sign up now! Sign up now! Sign up now? Sign up now! As ringing endorsements from the punditocracy go, not being quite as terrible as they were against Spurs was just…",
-   "description": "Sign up now! Sign up now! Sign up now? Sign up now! As ringing endorsements from the punditocracy go, not being quite as terrible as they were against Spurs was just about the best Manchester United could hope for after Atlético saw out a fairly routine 2-0 Bigger Cup win in Madrid on Tuesday night. In the opening minute, though, United were every bit as terrible and more as they had been on Saturday, as they allowed their hosts to steal an early march when Pablo Barrios’s shot beat Senne Lammens, only for the ball to squeeze under Leny Yoro, wipe its feet and trundle over the line. For the benefit of our reader who can’t be bothered with Bigger Cup until the knockout stages, United went on to create chances they didn’t take, Atlético had a goal ruled out by VAR for handball, both sides hit the woodwork and the game more or less ended as any kind of meaningful contest when Yoro was shown a rough red card. When your luck’s out, your luck’s out, and Ademola Lookman made sure of things for Atlético with a follow-up strike after Lammens saved from Jonathan David. While it was great to see the mighty Sky Blues featured in yesterday’s Football Daily , as usual I have to take issue with your statement about the club being ‘forced to live as tenants in their own city’ and ‘having to go cap-in-hand to neighbouring villages, looking for sofas on which to crash’. It was the club’s owners’ choice not to buy the stadium at a fair price when the opportunity was offered, just as it was their choice to go on a rent strike and move to Northampton/Birmingham, in the hope this would bankrupt the stadium’s owners (one of whom was a well-respected local charity) and let them get it for a knock-down price. Thankfully the council stood firm against these bully-boy tactics, and Sisu were eventually sent packing to be replaced by King Doug, and the rest is history. But please, let’s not perpetuate the myth of the club being ‘exiled’ from their home city” – Tim Russell. I for one, cannot wait to see what your finest minds come up with to replace the long-running Football Daily stalwart, Quote of the Day. Because surely, yesterday’s barely believable, absolute humdinger from Craig Levein will never be topped and so, it should be allowed to go out on a high” – Andrew Parker. I don’t have anything particularly funny or insightful to contribute, but I wonder if someone has a count of how many awards Football Daily has given out and how many times Noble Francis has won them. Who are the most successful winners? The FD community should know. As a major daily across the pond says in its motto, ‘democracy dies in darkness’ – Dimitris Stergiopoulos. Re: Memory Lane (yesterday’s Football Daily, full email edition). Wow, that really is a mascot to scare the kids into submission. I think the only scarier thing I’ve seen is whatever the Jags have running around their pitch on matchday” – Ingo Herzke. Continue reading...",
-   "category": "Transfers & Rumours",
-   "league": "Football",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-10-14T13:58:53.000Z",
-   "fetched_at": "2026-10-14T17:56:08.889Z",
-   "body": [
-    "Our briefing: Sign up now! Sign up now! Sign up now? Sign up now! As ringing endorsements from the punditocracy go, not being quite as terrible as they were against Spurs was just…",
-    "Sign up now! Sign up now! Sign up now?",
-    "Sign up now! As ringing endorsements from the punditocracy go, not being quite as terrible as they were against Spurs was just about the best Manchester United could hope for after Atlético saw out a fairly routine 2-0 Bigger Cup win in Madrid on Tuesday night. In the opening minute, though, United were every bit as terrible and more as they had been on Saturday, as they allowed their hosts to steal an early march when Pablo Barrios’s shot beat Senne Lammens, only for the ball to squeeze under Leny Yoro, wipe its feet and trundle over the line.",
-    "For the benefit of our reader who can’t be bothered with Bigger Cup until the knockout stages, United went on to create chances they didn’t take, Atlético had a goal ruled out by VAR for handball, both sides hit the woodwork and the game more or less ended as any kind of meaningful contest when Yoro was shown a rough red card. When your luck’s out, your luck’s out, and Ademola Lookman made sure of things for Atlético with a follow-up strike after Lammens saved from Jonathan David. While it was great to see the mighty Sky Blues featured in yesterday’s Football Daily , as usual I have to take issue with your statement about the club being ‘forced to live as tenants in their own city’ and ‘having to go cap-in-hand to neighbouring villages, looking for sofas on which to crash’.",
-    "It was the club’s owners’ choice not to buy the stadium at a fair price when the opportunity was offered, just as it was their choice to go on a rent strike and move to Northampton/Birmingham, in the hope this would bankrupt the stadium’s owners (one of whom was a well-respected local charity) and let them get it for a knock-down price. Thankfully the council stood firm against these bully-boy tactics, and Sisu were eventually sent packing to be replaced by King Doug, and the rest is history. But please, let’s not perpetuate the myth of the club being ‘exiled’ from their home city” – Tim Russell.",
-    "I for one, cannot wait to see what your finest minds come up with to replace the long-running Football Daily stalwart, Quote of the Day. Because surely, yesterday’s barely believable, absolute humdinger from Craig Levein will never be topped and so, it should be allowed to go out on a high” – Andrew Parker. I don’t have anything particularly funny or insightful to contribute, but I wonder if someone has a count of how many awards Football Daily has given out and how many times Noble Francis has won them.",
-    "Who are the most successful winners? The FD community should know. As a major daily across the pond says in its motto, ‘democracy dies in darkness’ – Dimitris Stergiopoulos.",
-    "Re: Memory Lane (yesterday’s Football Daily, full email edition). Wow, that really is a mascot to scare the kids into submission. I think the only scarier thing I’ve seen is whatever the Jags have running around their pitch on matchday” – Ingo Herzke.",
-    "Continue reading...",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "YHC — CC BY-SA 4.0"
-  },
-  {
-   "id": "independent-alvaro-arbeloa-hit-25k-fa-fine-after-saying-refe",
-   "slug": "alvaro-arbeloa-hit-with-25k-fa-fine-after-saying-referee-wou--refe",
-   "title": "Alvaro Arbeloa hit with £25k FA fine after saying referee would 'not let Manchester United lose'",
-   "dek": "Arbeloa made the comments about match officials following Fulham’s 1-1 draw with Manchester United last month",
-   "description": "Arbeloa made the comments about match officials following Fulham’s 1-1 draw with Manchester United last month",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-10-14T13:28:04.000Z",
-   "fetched_at": "2026-10-14T17:56:09.012Z",
-   "body": [
-    "Our briefing: Arbeloa made the comments about match officials following Fulham’s 1-1 draw with Manchester United last month",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Manchester_United_v_Tottenham_Hotspur%2C_12_March_2022_%2805%29.jpg/960px-Manchester_United_v_Tottenham_Hotspur%2C_12_March_2022_%2805%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ardfern — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-big-scorelines-one-sided-games-are-women-s-world",
-   "slug": "big-scorelines-one-sided-games-are-women-s-world-cup-play-of-world",
-   "title": "Big scorelines, one-sided games - are Women's World Cup play-offs working?",
-   "dek": "The ease in which England saw off Greece in round one of the Women's World Cup qualifying play-offs showed just how inefficient the structure currently is.",
-   "description": "The ease in which England saw off Greece in round one of the Women's World Cup qualifying play-offs showed just how inefficient the structure currently is.",
-   "category": "Tactics & Analysis",
-   "league": "International",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-14T13:25:56.000Z",
-   "fetched_at": "2026-10-14T17:56:08.498Z",
-   "body": [
-    "Our briefing: The ease in which England saw off Greece in round one of the Women's World Cup qualifying play-offs showed just how inefficient the structure currently is.",
-    "The ease in which England saw off Greece in round one of the Women's World Cup qualifying play-offs showed just how inefficient the structure currently is.",
-    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
-  },
-  {
-   "id": "guardian-mart-nez-mouths-off-manchester-united-miss-mark-",
-   "slug": "mart-nez-mouths-off-as-manchester-united-miss-the-mark-in-ma-mark-",
-   "title": "Martínez mouths off as Manchester United miss the mark in Madrid | Football Weekly – video",
-   "dek": "Max Rushden is joined by Barry Glendenning , Nedum Onuoha and Jonathan Liew as Manchester United are beaten by Atletico Madrid to prolong their poor start to the season…",
-   "description": "Max Rushden is joined by Barry Glendenning , Nedum Onuoha and Jonathan Liew as Manchester United are beaten by Atletico Madrid to prolong their poor start to the season Continue reading...",
-   "category": "News",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-10-14T13:04:20.000Z",
-   "fetched_at": "2026-10-14T17:56:08.890Z",
-   "body": [
-    "Our briefing: Max Rushden is joined by Barry Glendenning , Nedum Onuoha and Jonathan Liew as Manchester United are beaten by Atletico Madrid to prolong their poor start to the season…",
-    "Max Rushden is joined by Barry Glendenning , Nedum Onuoha and Jonathan Liew as Manchester United are beaten by Atletico Madrid to prolong their poor start to the season Continue reading...",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Manchester_United_Old_Trafford.jpg/960px-Manchester_United_Old_Trafford.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
-  },
-  {
-   "id": "bbc-burnham-had-two-hospitality-dinners-man-city-cha",
-   "slug": "burnham-had-two-hospitality-dinners-with-man-city-chairman-d-y-cha",
-   "title": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
-   "dek": "The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches.",
-   "description": "The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches.",
-   "category": "Tactics & Analysis",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-14T12:47:43.000Z",
-   "fetched_at": "2026-10-14T17:56:08.498Z",
-   "body": [
-    "Our briefing: The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches.",
-    "The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches.",
-    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Etihad_Stadium%2C_home_of_Manchester_City_-_geograph.org.uk_-_3857086.jpg/960px-Etihad_Stadium%2C_home_of_Manchester_City_-_geograph.org.uk_-_3857086.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Chris Morgan — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-cliftonville-stripped-league-cup-win-treble-hope",
-   "slug": "cliftonville-stripped-of-league-cup-win-as-treble-hopes-end--hope",
-   "title": "Cliftonville stripped of League Cup win as treble hopes end",
-   "dek": "Cliftonville's hopes of a domestic treble are over after they were stripped of their Women's League Cup title for fielding two ineligible players in the final.",
-   "description": "Cliftonville's hopes of a domestic treble are over after they were stripped of their Women's League Cup title for fielding two ineligible players in the final.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-14T12:28:13.000Z",
-   "fetched_at": "2026-10-14T17:56:08.498Z",
-   "body": [
-    "Our briefing: Cliftonville's hopes of a domestic treble are over after they were stripped of their Women's League Cup title for fielding two ineligible players in the final.",
-    "Cliftonville's hopes of a domestic treble are over after they were stripped of their Women's League Cup title for fielding two ineligible players in the final.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
-  },
-  {
-   "id": "bbc-quiz-do-you-remember-big-names-who-took-aim-foot",
-   "slug": "quiz-do-you-remember-the-big-names-who-took-aim-at-football---foot",
-   "title": "Quiz: Do you remember the big names who took aim at football club chiefs?",
-   "dek": "As Lisandro Martinez launches a blistering attack on the Manchester United hierarchy, do you remember these famous past examples of well-known football figure calling out…",
-   "description": "As Lisandro Martinez launches a blistering attack on the Manchester United hierarchy, do you remember these famous past examples of well-known football figure calling out leadership figures?",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-14T12:13:38.000Z",
-   "fetched_at": "2026-10-14T17:56:08.498Z",
-   "body": [
-    "Our briefing: As Lisandro Martinez launches a blistering attack on the Manchester United hierarchy, do you remember these famous past examples of well-known football figure calling out…",
-    "As Lisandro Martinez launches a blistering attack on the Manchester United hierarchy, do you remember these famous past examples of well-known football figure calling out leadership figures?",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
-  },
-  {
-   "id": "independent-man-city-owners-did-not-discuss-premier-league-c",
-   "slug": "man-city-owners-did-not-discuss-premier-league-charges-with--gue-c",
-   "title": "Man City owners did not discuss Premier League charges with me, Andy Burnham says",
-   "dek": "The prime minister said he was ‘very happy’ to set out details of the meetings with the club’s owners",
-   "description": "The prime minister said he was ‘very happy’ to set out details of the meetings with the club’s owners",
-   "category": "News",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-10-14T11:52:36.000Z",
-   "fetched_at": "2026-10-14T12:58:45.746Z",
-   "body": [
-    "Our briefing: The prime minister said he was ‘very happy’ to set out details of the meetings with the club’s owners",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Etihad_Stadium%2C_home_of_Manchester_City_-_geograph.org.uk_-_3857086.jpg/960px-Etihad_Stadium%2C_home_of_Manchester_City_-_geograph.org.uk_-_3857086.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Chris Morgan — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-police-investigate-alleged-racial-abuse-swans-eo",
-   "slug": "police-investigate-alleged-racial-abuse-of-swans-eom-ns-eo",
-   "title": "Police investigate alleged racial abuse of Swans' Eom",
-   "dek": "Swansea City boss Vitor Matos says South Korean winger Ji-sung Eom was targeted by racist abuse at Millwall on Tuesday.",
-   "description": "Swansea City boss Vitor Matos says South Korean winger Ji-sung Eom was targeted by racist abuse at Millwall on Tuesday.",
-   "category": "Transfers & Rumours",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-14T11:42:57.000Z",
-   "fetched_at": "2026-10-14T17:56:08.499Z",
-   "body": [
-    "Our briefing: Swansea City boss Vitor Matos says South Korean winger Ji-sung Eom was targeted by racist abuse at Millwall on Tuesday.",
-    "Swansea City boss Vitor Matos says South Korean winger Ji-sung Eom was targeted by racist abuse at Millwall on Tuesday.",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Badalik_Szabolcs_Hungarian_beach_soccer_player.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "Badalik Szabolcs — CC BY 4.0"
-  },
-  {
-   "id": "bbc-police-investigate-racial-abuse-swans-eom-claim",
-   "slug": "police-investigate-racial-abuse-of-swans-eom-claim-claim",
-   "title": "Police investigate racial abuse of Swans' Eom claim",
-   "dek": "Swansea City boss Vitor Matos says South Korean winger Ji-sung Eom was targeted by racist abuse at Millwall on Tuesday.",
-   "description": "Swansea City boss Vitor Matos says South Korean winger Ji-sung Eom was targeted by racist abuse at Millwall on Tuesday.",
-   "category": "Transfers & Rumours",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-14T11:42:57.000Z",
-   "fetched_at": "2026-10-14T12:58:45.381Z",
-   "body": [
-    "Our briefing: Swansea City boss Vitor Matos says South Korean winger Ji-sung Eom was targeted by racist abuse at Millwall on Tuesday.",
-    "Swansea City boss Vitor Matos says South Korean winger Ji-sung Eom was targeted by racist abuse at Millwall on Tuesday.",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Badalik_Szabolcs_Hungarian_beach_soccer_player.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "Badalik Szabolcs — CC BY 4.0"
-  },
-  {
-   "id": "guardian-gianni-infantino-faces-grilling-potentially-expl",
-   "slug": "gianni-infantino-faces-grilling-at-potentially-explosive-fif--expl",
-   "title": "Gianni Infantino faces grilling at potentially ‘explosive’ Fifa council meeting",
-   "dek": "World Cup sell-off, Balogun and peace prize on agenda Opponents will press home need for independent review Gianni Infantino will be questioned by Fifa council members…",
-   "description": "World Cup sell-off, Balogun and peace prize on agenda Opponents will press home need for independent review Gianni Infantino will be questioned by Fifa council members over his involvement in the aborted World Cup sell-off plan , the Folarin Balogun affair and the decision to award Donald Trump the inaugural Fifa peace prize at what is expected to be a heated meeting at the world governing body’s headquarters on Thursday. The Fifa president rejected repeated calls for an extraordinary general meeting of council in the summer after the emergence of the Fifa Forward Enterprise (FFE) proposals, but will meet his critics for the first time since then in Zurich, with one attender predicting that the talks could be “explosive”. Continue reading...",
-   "category": "News",
-   "league": "Football",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-10-14T11:30:28.000Z",
-   "fetched_at": "2026-10-14T17:56:08.889Z",
-   "body": [
-    "Our briefing: World Cup sell-off, Balogun and peace prize on agenda Opponents will press home need for independent review Gianni Infantino will be questioned by Fifa council members…",
-    "World Cup sell-off, Balogun and peace prize on agenda Opponents will press home need for independent review Gianni Infantino will be questioned by Fifa council members over his involvement in the aborted World Cup sell-off plan , the Folarin Balogun affair and the decision to award Donald Trump the inaugural Fifa peace prize at what is expected to be a heated meeting at the world governing body’s headquarters on Thursday. The Fifa president rejected repeated calls for an extraordinary general meeting of council in the summer after the emergence of the Fifa Forward Enterprise (FFE) proposals, but will meet his critics for the first time since then in Zurich, with one attender predicting that the talks could be “explosive”. Continue reading...",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
-  },
-  {
-   "id": "guardian-sunderland-hope-enjoy-warmth-portugal-after-53-y",
-   "slug": "sunderland-hope-to-enjoy-warmth-in-portugal-after-53-years-a--53-y",
-   "title": "Sunderland hope to enjoy warmth in Portugal after 53 years away",
-   "dek": "Black Cats can reboot season against Torreense in Europa League in a break from tough start to domestic campaign There is a pleasing symmetry about Sunderland’s Europa…",
-   "description": "Black Cats can reboot season against Torreense in Europa League in a break from tough start to domestic campaign There is a pleasing symmetry about Sunderland’s Europa League trip to Portugal to face Torreense on Thursday night. The club’s last competitive venture on European soil, 53 years ago, was the second leg of a European Cup Winners’ Cup second-round tie against Sporting in Lisbon for the FA Cup holders, then in the Second Division. In a striking parallel, second-tier Torreense prompted widespread surprise by beating Sporting in the Portuguese Cup final last season. The reward was a place in the Europa League and their chances of reaching the next phase of the competition early next year were boosted when they beat Lillestrøm 2-1 in Norway last month. Continue reading...",
-   "category": "Match Reports",
-   "league": "Football",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-10-14T11:00:00.000Z",
-   "fetched_at": "2026-10-14T17:56:08.889Z",
-   "body": [
-    "Our briefing: Black Cats can reboot season against Torreense in Europa League in a break from tough start to domestic campaign There is a pleasing symmetry about Sunderland’s Europa…",
-    "Black Cats can reboot season against Torreense in Europa League in a break from tough start to domestic campaign There is a pleasing symmetry about Sunderland’s Europa League trip to Portugal to face Torreense on Thursday night. The club’s last competitive venture on European soil, 53 years ago, was the second leg of a European Cup Winners’ Cup second-round tie against Sporting in Lisbon for the FA Cup holders, then in the Second Division. In a striking parallel, second-tier Torreense prompted widespread surprise by beating Sporting in the Portuguese Cup final last season.",
-    "The reward was a place in the Europa League and their chances of reaching the next phase of the competition early next year were boosted when they beat Lillestrøm 2-1 in Norway last month. Continue reading...",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "bbc-why-play-off-win-may-not-send-wales-world-cup",
-   "slug": "why-play-off-win-may-not-send-wales-to-world-cup-d-cup",
-   "title": "Why play-off win may not send Wales to World Cup",
-   "dek": "Wales face Norway in the Women's World Cup play-off final knowing even a famous victory may not be enough to send them to Brazil in 2027.",
-   "description": "Wales face Norway in the Women's World Cup play-off final knowing even a famous victory may not be enough to send them to Brazil in 2027.",
-   "category": "Match Reports",
-   "league": "International",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-14T10:49:27.000Z",
-   "fetched_at": "2026-10-14T17:56:08.498Z",
-   "body": [
-    "Our briefing: Wales face Norway in the Women's World Cup play-off final knowing even a famous victory may not be enough to send them to Brazil in 2027.",
-    "Wales face Norway in the Women's World Cup play-off final knowing even a famous victory may not be enough to send them to Brazil in 2027.",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Kashima_Soccer_Stadium_6.jpg/960px-Kashima_Soccer_Stadium_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-set-piece-sessions-finding-fixes-how-internation",
-   "slug": "set-piece-sessions-and-finding-fixes-how-international-break-ation",
-   "title": "Set-piece sessions and finding fixes - how international break lifted Chelsea",
-   "dek": "The extended three-week break may have benefited Chelsea more than any other team in the Premier League.",
-   "description": "The extended three-week break may have benefited Chelsea more than any other team in the Premier League.",
-   "category": "Tactics & Analysis",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-14T10:43:19.000Z",
-   "fetched_at": "2026-10-14T17:56:08.498Z",
-   "body": [
-    "Our briefing: The extended three-week break may have benefited Chelsea more than any other team in the Premier League.",
-    "The extended three-week break may have benefited Chelsea more than any other team in the Premier League.",
-    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Stadium_Street%2C_Chelsea_-_geograph.org.uk_-_4585241.jpg/960px-Stadium_Street%2C_Chelsea_-_geograph.org.uk_-_4585241.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Chris Whippet — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-did-chelsea-benefit-most-extended-international-",
-   "slug": "did-chelsea-benefit-most-from-extended-international-break-onal-",
-   "title": "Did Chelsea benefit most from extended international break?",
-   "dek": "The extended three-week break may have benefited Chelsea more than any other team in the Premier League.",
-   "description": "The extended three-week break may have benefited Chelsea more than any other team in the Premier League.",
-   "category": "News",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-14T10:43:19.000Z",
-   "fetched_at": "2026-10-14T12:58:45.380Z",
-   "body": [
-    "Our briefing: The extended three-week break may have benefited Chelsea more than any other team in the Premier League.",
-    "The extended three-week break may have benefited Chelsea more than any other team in the Premier League.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Stadium_Street%2C_Chelsea_-_geograph.org.uk_-_4585241.jpg/960px-Stadium_Street%2C_Chelsea_-_geograph.org.uk_-_4585241.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Chris Whippet — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-could-danish-model-help-scotland-solve-talent-cr",
-   "slug": "could-danish-model-help-scotland-solve-talent-crisis-nt-cr",
-   "title": "Could Danish model help Scotland solve talent crisis?",
-   "dek": "How Nordsjaelland have become a powerhouse of youth football development - and what Scottish clubs could learn from them.",
-   "description": "How Nordsjaelland have become a powerhouse of youth football development - and what Scottish clubs could learn from them.",
-   "category": "Tactics & Analysis",
-   "league": "International",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-14T10:35:26.000Z",
-   "fetched_at": "2026-10-14T17:56:08.498Z",
-   "body": [
-    "Our briefing: How Nordsjaelland have become a powerhouse of youth football development - and what Scottish clubs could learn from them.",
-    "How Nordsjaelland have become a powerhouse of youth football development - and what Scottish clubs could learn from them.",
-    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "bbc-could-nordsjaelland-model-solve-scotland-s-talen",
-   "slug": "could-nordsjaelland-model-solve-scotland-s-talent-crisis-talen",
-   "title": "Could Nordsjaelland model solve Scotland's talent crisis?",
-   "dek": "How Nordsjaelland have become a powerhouse of youth football development - and what Scottish clubs could learn from them.",
-   "description": "How Nordsjaelland have become a powerhouse of youth football development - and what Scottish clubs could learn from them.",
-   "category": "Tactics & Analysis",
-   "league": "International",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-14T10:35:26.000Z",
-   "fetched_at": "2026-10-14T17:56:08.499Z",
-   "body": [
-    "Our briefing: How Nordsjaelland have become a powerhouse of youth football development - and what Scottish clubs could learn from them.",
-    "How Nordsjaelland have become a powerhouse of youth football development - and what Scottish clubs could learn from them.",
-    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "bbc-struijk-red-card-shown-after-var-intervention-ov",
-   "slug": "struijk-red-card-shown-after-var-intervention-is-overturned-on-ov",
-   "title": "Struijk red card shown after VAR intervention is overturned",
-   "dek": "The red card controversially shown to Brighton defender Pascal Struijk against Sunderland is overturned.",
-   "description": "The red card controversially shown to Brighton defender Pascal Struijk against Sunderland is overturned.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-14T10:18:45.000Z",
-   "fetched_at": "2026-10-14T17:56:08.498Z",
-   "body": [
-    "Our briefing: The red card controversially shown to Brighton defender Pascal Struijk against Sunderland is overturned.",
-    "The red card controversially shown to Brighton defender Pascal Struijk against Sunderland is overturned.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "guardian-manchester-united-teammates-widely-share-mart-ne",
-   "slug": "manchester-united-teammates-widely-share-mart-nez-view-that--rt-ne",
-   "title": "Manchester United teammates widely share Martínez view that Wilcox is failing",
-   "dek": "Defender voiced criticism after defeat at Atlético Martínez out of contract next summer and plans to leave Lisandro Martínez’s view that Jason Wilcox is failing as…",
-   "description": "Defender voiced criticism after defeat at Atlético Martínez out of contract next summer and plans to leave Lisandro Martínez’s view that Jason Wilcox is failing as Manchester United’s director of football reflects the dressing room’s general frustration at recruitment and squad depth, although the outburst is also regarded as a push by the defender to secure a move because he is out of contract next summer. Martínez’s comments came after Tuesday’s 2-0 Champions League defeat at Atlético Madrid . This left United with two wins all season, having taken six points from their first six Premier League matches, the club’s poorest league start for 40 years. Continue reading...",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-10-14T09:53:19.000Z",
-   "fetched_at": "2026-10-14T12:58:45.592Z",
-   "body": [
-    "Our briefing: Defender voiced criticism after defeat at Atlético Martínez out of contract next summer and plans to leave Lisandro Martínez’s view that Jason Wilcox is failing as…",
-    "Defender voiced criticism after defeat at Atlético Martínez out of contract next summer and plans to leave Lisandro Martínez’s view that Jason Wilcox is failing as Manchester United’s director of football reflects the dressing room’s general frustration at recruitment and squad depth, although the outburst is also regarded as a push by the defender to secure a move because he is out of contract next summer. Martínez’s comments came after Tuesday’s 2-0 Champions League defeat at Atlético Madrid . This left United with two wins all season, having taken six points from their first six Premier League matches, the club’s poorest league start for 40 years.",
-    "Continue reading...",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Manchester_United_1908-09.jpg/960px-Manchester_United_1908-09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  {
-   "id": "guardian-tottenham-s-forgotten-man-richarlison-scores-und",
-   "slug": "tottenham-s-forgotten-man-richarlison-scores-for-under-21s-i-s-und",
-   "title": "Tottenham’s forgotten man Richarlison scores for under-21s: ‘I was missing it’",
-   "dek": "Brazilian in limbo after being left out of first team Cheltenham’s Cotterill: ‘His attitude was great’ Tottenham’s forgotten man Richarlison has been hailed for his…",
-   "description": "Brazilian in limbo after being left out of first team Cheltenham’s Cotterill: ‘His attitude was great’ Tottenham’s forgotten man Richarlison has been hailed for his attitude after he scored for the under-21s on Tuesday. Richarlison has not played for the first team since an opening-day defeat at Brentford on 22 August after he was left out of the 25-man Premier League squad list, having been told he was not part of the plans for this season. Failed moves to Trabzonspor and Vasco da Gama, after talks with Everton collapsed in the final days before the transfer window in England shut, have left Richarlison in limbo for the first half of the campaign. However, the Brazil international made a surprise appearance in the Jersey Mike’s (EFL) Trophy tie at Cheltenham. He scored after 56 minutes in a 2-2 draw and converted a spot-kick in a 7-6 penalty shootout loss. Continue reading...",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-10-14T09:07:48.000Z",
-   "fetched_at": "2026-10-14T17:56:08.889Z",
-   "body": [
-    "Our briefing: Brazilian in limbo after being left out of first team Cheltenham’s Cotterill: ‘His attitude was great’ Tottenham’s forgotten man Richarlison has been hailed for his…",
-    "Brazilian in limbo after being left out of first team Cheltenham’s Cotterill: ‘His attitude was great’ Tottenham’s forgotten man Richarlison has been hailed for his attitude after he scored for the under-21s on Tuesday. Richarlison has not played for the first team since an opening-day defeat at Brentford on 22 August after he was left out of the 25-man Premier League squad list, having been told he was not part of the plans for this season. Failed moves to Trabzonspor and Vasco da Gama, after talks with Everton collapsed in the final days before the transfer window in England shut, have left Richarlison in limbo for the first half of the campaign.",
-    "However, the Brazil international made a surprise appearance in the Jersey Mike’s (EFL) Trophy tie at Cheltenham. He scored after 56 minutes in a 2-2 draw and converted a spot-kick in a 7-6 penalty shootout loss. Continue reading...",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/The_South_Stand_of_Tottenham_Hotspur%27s_football_stadium_-_geograph.org.uk_-_2167351.jpg/960px-The_South_Stand_of_Tottenham_Hotspur%27s_football_stadium_-_geograph.org.uk_-_2167351.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Bill Boaden — CC BY-SA 2.0"
-  },
-  {
-   "id": "independent-man-city-vs-psg-prediction-champions-league-bett",
-   "slug": "man-city-vs-psg-prediction-champions-league-betting-tips-odd--bett",
-   "title": "Man City vs PSG prediction: Champions League betting tips, odds and team news",
-   "dek": "Follow our football betting tips as Manchester City face the Champions League champions PSG",
-   "description": "Follow our football betting tips as Manchester City face the Champions League champions PSG",
-   "category": "Previews",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-10-14T08:19:04.000Z",
-   "fetched_at": "2026-10-14T17:56:09.012Z",
-   "body": [
-    "Our briefing: Follow our football betting tips as Manchester City face the Champions League champions PSG",
-    "Team news can change right up to kick-off. Bookmark this story for the final line-ups and confirmed sides.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Final_Manchester_City_Match_at_Maine_Road_-_geograph.org.uk_-_3820257.jpg/960px-Final_Manchester_City_Match_at_Maine_Road_-_geograph.org.uk_-_3820257.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Richard Cooke — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-possessed-davidson-fills-weir-gap-scots-set-up-g",
-   "slug": "possessed-davidson-fills-weir-gap-as-scots-set-up-glamour-sw--up-g",
-   "title": "'Possessed' Davidson fills Weir gap as Scots set up glamour Sweden tie",
-   "dek": "Erin Cuthbert praises Lauren Davidson as Scotland overcome Caroline Weir's absence to set up a World Cup play-off tie with Sweden.",
-   "description": "Erin Cuthbert praises Lauren Davidson as Scotland overcome Caroline Weir's absence to set up a World Cup play-off tie with Sweden.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-14T08:16:53.000Z",
-   "fetched_at": "2026-10-14T17:56:08.498Z",
-   "body": [
-    "Our briefing: Erin Cuthbert praises Lauren Davidson as Scotland overcome Caroline Weir's absence to set up a World Cup play-off tie with Sweden.",
-    "Erin Cuthbert praises Lauren Davidson as Scotland overcome Caroline Weir's absence to set up a World Cup play-off tie with Sweden.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Soccer_fans_put_town_in_siege_%28FL62506945%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506945%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "independent-lisandro-martinez-s-extraordinary-rant-told-trut",
-   "slug": "lisandro-martinez-s-extraordinary-rant-told-the-truth-about---trut",
-   "title": "Lisandro Martinez’s extraordinary rant told the truth about Man United’s inept hierarchy",
-   "dek": "Comment: Martinez pointed the finger at the club’s board after Champions League defeat to Atletico Madrid – and Chris Wilson explains why the defender was right to be so…",
-   "description": "Comment: Martinez pointed the finger at the club’s board after Champions League defeat to Atletico Madrid – and Chris Wilson explains why the defender was right to be so critical",
-   "category": "Match Reports",
-   "league": "Football",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-10-14T07:17:07.000Z",
-   "fetched_at": "2026-10-14T17:56:09.012Z",
-   "body": [
-    "Our briefing: Comment: Martinez pointed the finger at the club’s board after Champions League defeat to Atletico Madrid – and Chris Wilson explains why the defender was right to be so…",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Soccer_fans_put_town_in_siege_%28FL62506919%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506919%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
   }
  ]
 }
