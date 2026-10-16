@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-15T21:58:35.332Z",
+ "generated_at": "2026-10-16T00:15:11.869Z",
  "matches": [
   {
    "league": "La Liga",
@@ -20,32 +20,6 @@
    "away": "Sassuolo",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, October 16th at 2:45 PM EDT",
-   "date": "2026-10-16T18:45Z"
-  },
-  {
-   "league": "Bundesliga",
-   "home": "Eintracht Frankfurt",
-   "away": "FC Cologne",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, October 16th at 2:30 PM EDT",
-   "date": "2026-10-16T18:30Z"
-  },
-  {
-   "league": "Ligue 1",
-   "home": "Le Mans",
-   "away": "Toulouse",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2697.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png",
    "homeScore": 0,
    "awayScore": 0,
    "status": "pre",
@@ -117,6 +91,32 @@
    "clock": "",
    "time": "Sat, October 17th at 12:30 PM EDT",
    "date": "2026-10-17T16:30Z"
+  },
+  {
+   "league": "Ligue 1",
+   "home": "Le Mans",
+   "away": "Toulouse",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2697.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, October 16th at 2:45 PM EDT",
+   "date": "2026-10-16T18:45Z"
+  },
+  {
+   "league": "Bundesliga",
+   "home": "Eintracht Frankfurt",
+   "away": "FC Cologne",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, October 16th at 2:30 PM EDT",
+   "date": "2026-10-16T18:30Z"
   }
  ]
 }
