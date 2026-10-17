@@ -1,58 +1,6 @@
 {
- "generated_at": "2026-10-17T09:02:42.136Z",
+ "generated_at": "2026-10-17T13:06:03.898Z",
  "matches": [
-  {
-   "league": "La Liga",
-   "home": "Espanyol",
-   "away": "Atlético Madrid",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Sat, October 17th at 8:00 AM EDT",
-   "date": "2026-10-17T12:00Z"
-  },
-  {
-   "league": "La Liga",
-   "home": "Villarreal",
-   "away": "Elche",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Sat, October 17th at 10:15 AM EDT",
-   "date": "2026-10-17T14:15Z"
-  },
-  {
-   "league": "La Liga",
-   "home": "Real Betis",
-   "away": "Barcelona",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Sat, October 17th at 12:00 PM EDT",
-   "date": "2026-10-17T16:00Z"
-  },
-  {
-   "league": "La Liga",
-   "home": "Valencia",
-   "away": "Athletic Club",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Sat, October 17th at 3:00 PM EDT",
-   "date": "2026-10-17T19:00Z"
-  },
   {
    "league": "Premier League",
    "home": "Everton",
@@ -60,10 +8,10 @@
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
    "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Sat, October 17th at 7:30 AM EDT",
+   "awayScore": 1,
+   "status": "live",
+   "clock": "75'",
+   "time": "75'",
    "date": "2026-10-17T11:30Z"
   },
   {
@@ -126,9 +74,9 @@
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
    "homeScore": 0,
    "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Sat, October 17th at 9:00 AM EDT",
+   "status": "live",
+   "clock": "5'",
+   "time": "5'",
    "date": "2026-10-17T13:00Z"
   },
   {
@@ -156,6 +104,58 @@
    "clock": "",
    "time": "Sat, October 17th at 2:45 PM EDT",
    "date": "2026-10-17T18:45Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Espanyol",
+   "away": "Atlético Madrid",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "live",
+   "clock": "47'",
+   "time": "47'",
+   "date": "2026-10-17T12:00Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Villarreal",
+   "away": "Elche",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Sat, October 17th at 10:15 AM EDT",
+   "date": "2026-10-17T14:15Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Real Betis",
+   "away": "Barcelona",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Sat, October 17th at 12:00 PM EDT",
+   "date": "2026-10-17T16:00Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Valencia",
+   "away": "Athletic Club",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Sat, October 17th at 3:00 PM EDT",
+   "date": "2026-10-17T19:00Z"
   },
   {
    "league": "Bundesliga",
