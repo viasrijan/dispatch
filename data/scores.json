@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T21:37:13.459Z",
+ "generated_at": "2026-10-17T23:48:31.813Z",
  "matches": [
   {
    "league": "La Liga",
@@ -52,45 +52,6 @@
    "clock": "",
    "time": "FT",
    "date": "2026-10-17T19:00Z"
-  },
-  {
-   "league": "Serie A",
-   "home": "Venezia",
-   "away": "Napoli",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-   "homeScore": 1,
-   "awayScore": 0,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-10-17T13:00Z"
-  },
-  {
-   "league": "Serie A",
-   "home": "Bologna",
-   "away": "Internazionale",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-   "homeScore": 1,
-   "awayScore": 3,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-10-17T16:00Z"
-  },
-  {
-   "league": "Serie A",
-   "home": "AS Roma",
-   "away": "Genoa",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
-   "homeScore": 2,
-   "awayScore": 0,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-10-17T18:45Z"
   },
   {
    "league": "Premier League",
@@ -156,6 +117,45 @@
    "clock": "",
    "time": "FT",
    "date": "2026-10-17T16:30Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Venezia",
+   "away": "Napoli",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
+   "homeScore": 1,
+   "awayScore": 0,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-10-17T13:00Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Bologna",
+   "away": "Internazionale",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
+   "homeScore": 1,
+   "awayScore": 3,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-10-17T16:00Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "AS Roma",
+   "away": "Genoa",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
+   "homeScore": 2,
+   "awayScore": 0,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-10-17T18:45Z"
   },
   {
    "league": "Ligue 1",
