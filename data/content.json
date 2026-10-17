@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-17T16:35:24.192Z",
- "updated_utc": "2026-10-17T16:35Z",
- "cycle": 29870915,
+ "generated_at": "2026-10-17T19:03:45.263Z",
+ "updated_utc": "2026-10-17T19:03Z",
+ "cycle": 29871063,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,8 +16,404 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "bbc-chelsea-s-martinez-taken-hospital-precautionary-",
+ "hero_id": "bbc-neto-scores-twice-chelsea-win-everton",
  "articles": [
+  {
+   "id": "bbc-liverpool-come-behind-beat-nine-man-brentford",
+   "slug": "liverpool-come-from-behind-to-beat-nine-man-brentford-tford",
+   "title": "Liverpool come from behind to beat nine-man Brentford",
+   "dek": "Liverpool come from behind to beat Brentford 2-1 at the Gtech Community Stadium as the hosts finish with nine men after red cards for Yehor Yarmoliuk and Vitaly Janelt.",
+   "description": "Liverpool come from behind to beat Brentford 2-1 at the Gtech Community Stadium as the hosts finish with nine men after red cards for Yehor Yarmoliuk and Vitaly Janelt.",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-17T19:00:13.000Z",
+   "fetched_at": "2026-10-17T19:03:33.954Z",
+   "body": [
+    "Our briefing: Liverpool come from behind to beat Brentford 2-1 at the Gtech Community Stadium as the hosts finish with nine men after red cards for Yehor Yarmoliuk and Vitaly Janelt.",
+    "Liverpool come from behind to beat Brentford 2-1 at the Gtech Community Stadium as the hosts finish with nine men after red cards for Yehor Yarmoliuk and Vitaly Janelt.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Galatasaray_Liverpool_CL_2006.jpg/960px-Galatasaray_Liverpool_CL_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "tekinim — CC BY 2.0"
+  },
+  {
+   "id": "bbc-haaland-nets-double-man-city-go-six-points-clear",
+   "slug": "haaland-nets-double-as-man-city-go-six-points-clear-at-the-t-clear",
+   "title": "Haaland nets double as Man City go six points clear at the top",
+   "dek": "Manchester City go six points clear at the top of the Premier League as Enzo Maresca's side record a seventh straight league victory with a 3-2 win over Ipswich at the…",
+   "description": "Manchester City go six points clear at the top of the Premier League as Enzo Maresca's side record a seventh straight league victory with a 3-2 win over Ipswich at the Etihad.",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-17T19:00:09.000Z",
+   "fetched_at": "2026-10-17T19:03:33.954Z",
+   "body": [
+    "Our briefing: Manchester City go six points clear at the top of the Premier League as Enzo Maresca's side record a seventh straight league victory with a 3-2 win over Ipswich at the…",
+    "Manchester City go six points clear at the top of the Premier League as Enzo Maresca's side record a seventh straight league victory with a 3-2 win over Ipswich at the Etihad.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Final_Manchester_City_Match_at_Maine_Road_-_geograph.org.uk_-_3820257.jpg/960px-Final_Manchester_City_Match_at_Maine_Road_-_geograph.org.uk_-_3820257.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Richard Cooke — CC BY-SA 2.0"
+  },
+  {
+   "id": "bbc-iwobi-delivers-fulham-s-first-win-season",
+   "slug": "iwobi-delivers-fulham-s-first-win-of-season-eason",
+   "title": "Iwobi delivers Fulham's first win of season",
+   "dek": "Alex Iwobi fires Fulham to their first Premier League win of the season against Hull.",
+   "description": "Alex Iwobi fires Fulham to their first Premier League win of the season against Hull.",
+   "category": "News",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-17T19:00:06.000Z",
+   "fetched_at": "2026-10-17T19:03:33.954Z",
+   "body": [
+    "Our briefing: Alex Iwobi fires Fulham to their first Premier League win of the season against Hull.",
+    "Alex Iwobi fires Fulham to their first Premier League win of the season against Hull.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Fulham_FC%27s_Craven_Cottage_Stadium%2C_from_Barn_Elms_Park%2C_1990_-_geograph.org.uk_-_4695047.jpg/960px-Fulham_FC%27s_Craven_Cottage_Stadium%2C_from_Barn_Elms_Park%2C_1990_-_geograph.org.uk_-_4695047.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ben Brooksbank — CC BY-SA 2.0"
+  },
+  {
+   "id": "bbc-neto-scores-twice-chelsea-win-everton",
+   "slug": "neto-scores-twice-as-chelsea-win-at-everton-erton",
+   "title": "Neto scores twice as Chelsea win at Everton",
+   "dek": "Pedro Neto scores twice for Chelsea as they beat Everton 2-0 at the Hill Dickinson Stadium, in a game overshadowed by a nasty head injury to Emiliano Martinez.",
+   "description": "Pedro Neto scores twice for Chelsea as they beat Everton 2-0 at the Hill Dickinson Stadium, in a game overshadowed by a nasty head injury to Emiliano Martinez.",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-17T19:00:03.000Z",
+   "fetched_at": "2026-10-17T19:03:33.954Z",
+   "body": [
+    "Our briefing: Pedro Neto scores twice for Chelsea as they beat Everton 2-0 at the Hill Dickinson Stadium, in a game overshadowed by a nasty head injury to Emiliano Martinez.",
+    "Pedro Neto scores twice for Chelsea as they beat Everton 2-0 at the Hill Dickinson Stadium, in a game overshadowed by a nasty head injury to Emiliano Martinez.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Chelsea_vs_union_1929.jpg/960px-Chelsea_vs_union_1929.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
+   "id": "independent-aston-villa-s-rebuild-bears-fruits-after-johan-m",
+   "slug": "aston-villa-s-rebuild-bears-fruits-after-johan-manzambi-winn-han-m",
+   "title": "Aston Villa’s rebuild bears fruits after Johan Manzambi winner against Newcastle",
+   "dek": "Newcastle 0-1 Aston Villa: Victory at St. James’ Park lifts Villa into 12th in the table while the Tynesiders suffer back-to-back league defeats",
+   "description": "Newcastle 0-1 Aston Villa: Victory at St. James’ Park lifts Villa into 12th in the table while the Tynesiders suffer back-to-back league defeats",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-10-17T18:51:03.000Z",
+   "fetched_at": "2026-10-17T19:03:34.144Z",
+   "body": [
+    "Our briefing: Newcastle 0-1 Aston Villa: Victory at St. James’ Park lifts Villa into 12th in the table while the Tynesiders suffer back-to-back league defeats",
+    "Newcastle 0-1 Aston Villa: Victory at St.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Fulham_v_Newcastle_United_24052026_%281%29.jpg/960px-Fulham_v_Newcastle_United_24052026_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
+   "id": "bbc-wrexham-had-block-outside-noise-parkinson",
+   "slug": "wrexham-had-to-block-outside-noise-parkinson-inson",
+   "title": "Wrexham had to block outside noise - Parkinson",
+   "dek": "Wrexham had to \"block everything out\" says Phil Parkinson as they responded to recent criticism with a victory over Preston North End.",
+   "description": "Wrexham had to \"block everything out\" says Phil Parkinson as they responded to recent criticism with a victory over Preston North End.",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-17T18:41:33.000Z",
+   "fetched_at": "2026-10-17T19:03:33.954Z",
+   "body": [
+    "Our briefing: Wrexham had to \"block everything out\" says Phil Parkinson as they responded to recent criticism with a victory over Preston North End.",
+    "Wrexham had to \"block everything out\" says Phil Parkinson as they responded to recent criticism with a victory over Preston North End.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": null
+  },
+  {
+   "id": "guardian-manzambi-maintains-aston-villa-progress-win-seal",
+   "slug": "manzambi-maintains-aston-villa-progress-with-win-to-seal-dis--seal",
+   "title": "Manzambi maintains Aston Villa progress with win to seal dismal week for Newcastle",
+   "dek": "There is a reason why Aston Villa were so desperate to hijack Johan Manzambi’s proposed move from Freiburg to Newcastle this summer which appeared nailed on. The tall,…",
+   "description": "There is a reason why Aston Villa were so desperate to hijack Johan Manzambi’s proposed move from Freiburg to Newcastle this summer which appeared nailed on. The tall, quick, tricky, clever and perfectly balanced 21-year-old Switzerland attacking midfielder looked worth every penny of the record £50m plus fee Villa ended up paying for and duly delighted in showing Tynesiders what they missed. Continue reading...",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-10-17T18:38:58.000Z",
+   "fetched_at": "2026-10-17T19:03:34.007Z",
+   "body": [
+    "Our briefing: There is a reason why Aston Villa were so desperate to hijack Johan Manzambi’s proposed move from Freiburg to Newcastle this summer which appeared nailed on. The tall,…",
+    "There is a reason why Aston Villa were so desperate to hijack Johan Manzambi’s proposed move from Freiburg to Newcastle this summer which appeared nailed on. The tall, quick, tricky, clever and perfectly balanced 21-year-old Switzerland attacking midfielder looked worth every penny of the record £50m plus fee Villa ended up paying for and duly delighted in showing Tynesiders what they missed. Continue reading...",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Manchester_United_v_Newcastle_United%2C_11_September_2021_%2810%29.jpg/960px-Manchester_United_v_Newcastle_United%2C_11_September_2021_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ardfern — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-can-hearts-prove-credentials-scene-title-heartbr",
+   "slug": "can-hearts-prove-credentials-at-scene-of-title-heartbreak-artbr",
+   "title": "Can Hearts prove credentials at scene of title heartbreak?",
+   "dek": "Hearts' last trip to Parkhead ended with their title dream being crushed in the space of 11 minutes. They return to face Celtic on Sunday refreshed and reshaped.",
+   "description": "Hearts' last trip to Parkhead ended with their title dream being crushed in the space of 11 minutes. They return to face Celtic on Sunday refreshed and reshaped.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-17T18:37:01.000Z",
+   "fetched_at": "2026-10-17T19:03:33.954Z",
+   "body": [
+    "Our briefing: Hearts' last trip to Parkhead ended with their title dream being crushed in the space of 11 minutes. They return to face Celtic on Sunday refreshed and reshaped.",
+    "Hearts' last trip to Parkhead ended with their title dream being crushed in the space of 11 minutes. They return to face Celtic on Sunday refreshed and reshaped.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "John Shorten — CC BY 4.0"
+  },
+  {
+   "id": "independent-business-usual-victorious-man-city-despite-linge",
+   "slug": "business-as-usual-for-victorious-man-city-despite-lingering--linge",
+   "title": "Business as usual for victorious Man City despite lingering state of limbo",
+   "dek": "Man City 3-2 Ipswich: Erling Haaland’s brace and a first goal of 2026 for Phil Foden extended City’s lead at the top of the table to six points",
+   "description": "Man City 3-2 Ipswich: Erling Haaland’s brace and a first goal of 2026 for Phil Foden extended City’s lead at the top of the table to six points",
+   "category": "News",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-10-17T18:11:55.000Z",
+   "fetched_at": "2026-10-17T19:03:34.145Z",
+   "body": [
+    "Our briefing: Man City 3-2 Ipswich: Erling Haaland’s brace and a first goal of 2026 for Phil Foden extended City’s lead at the top of the table to six points",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Manchester_City_dressing_room_2022.jpg/960px-Manchester_City_dressing_room_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Christian David — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-boos-bananas-day-defiance-man-city",
+   "slug": "boos-and-bananas-on-day-of-defiance-at-man-city--city",
+   "title": "Boos and bananas on day of defiance at Man City",
+   "dek": "Manchester City fans boo the Premier League anthem before watching their side move six points clear at the top of the table.",
+   "description": "Manchester City fans boo the Premier League anthem before watching their side move six points clear at the top of the table.",
+   "category": "News",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-17T18:02:39.000Z",
+   "fetched_at": "2026-10-17T19:03:33.954Z",
+   "body": [
+    "Our briefing: Manchester City fans boo the Premier League anthem before watching their side move six points clear at the top of the table.",
+    "Manchester City fans boo the Premier League anthem before watching their side move six points clear at the top of the table.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Etihad_Stadium%2C_home_of_Manchester_City_-_geograph.org.uk_-_3857086.jpg/960px-Etihad_Stadium%2C_home_of_Manchester_City_-_geograph.org.uk_-_3857086.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Chris Morgan — CC BY-SA 2.0"
+  },
+  {
+   "id": "bbc-swansea-must-use-west-ham-defeat-fuel-matos",
+   "slug": "swansea-must-use-west-ham-defeat-as-fuel-matos-matos",
+   "title": "Swansea must use West Ham defeat as fuel - Matos",
+   "dek": "Vitor Matos tells Swansea City to use the frustration of defeat to West Ham United as fuel in their bid to keep pace in the Championship promotion race.",
+   "description": "Vitor Matos tells Swansea City to use the frustration of defeat to West Ham United as fuel in their bid to keep pace in the Championship promotion race.",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-17T17:47:22.000Z",
+   "fetched_at": "2026-10-17T19:03:33.954Z",
+   "body": [
+    "Our briefing: Vitor Matos tells Swansea City to use the frustration of defeat to West Ham United as fuel in their bid to keep pace in the Championship promotion race.",
+    "Vitor Matos tells Swansea City to use the frustration of defeat to West Ham United as fuel in their bid to keep pace in the Championship promotion race.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Jack_Wilshere_-_Hertha_BSC_vs._West_Ham_United_%2820190731%29.jpg/960px-Jack_Wilshere_-_Hertha_BSC_vs._West_Ham_United_%2820190731%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "--Steindy (talk) 16:09, 29 August 2019 (UTC) — CC BY-SA 4.0"
+  },
+  {
+   "id": "independent-nottingham-forest-vs-arsenal-prediction-premier-",
+   "slug": "nottingham-forest-vs-arsenal-prediction-premier-league-betti-mier-",
+   "title": "Nottingham Forest vs Arsenal prediction: Premier League betting tips and line-ups",
+   "dek": "Follow our football betting tips as Nottingham Forest host Arsenal on Sunday",
+   "description": "Follow our football betting tips as Nottingham Forest host Arsenal on Sunday",
+   "category": "Previews",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-10-17T17:30:00.000Z",
+   "fetched_at": "2026-10-17T19:03:34.145Z",
+   "body": [
+    "Our briefing: Follow our football betting tips as Nottingham Forest host Arsenal on Sunday",
+    "Team news can change right up to kick-off. Bookmark this story for the final line-ups and confirmed sides.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Manchester_City_v_Arsenal%2C_League_Cup_2004-5_-_geograph.org.uk_-_3841596.jpg/960px-Manchester_City_v_Arsenal%2C_League_Cup_2004-5_-_geograph.org.uk_-_3841596.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Richard Cooke — CC BY-SA 2.0"
+  },
+  {
+   "id": "bbc-yarmoliuk-red-card-changed-game-dynamic-andrews",
+   "slug": "yarmoliuk-red-card-changed-game-dynamic-andrews-drews",
+   "title": "Yarmoliuk red card changed game dynamic - Andrews",
+   "dek": "Brentford manager Keith Andrews says Yehor Yarmoliuk's first-half red card changed the dynamic of their game against Liverpool which ended in a 2-1 defeat for the Bees.",
+   "description": "Brentford manager Keith Andrews says Yehor Yarmoliuk's first-half red card changed the dynamic of their game against Liverpool which ended in a 2-1 defeat for the Bees.",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-17T17:14:21.000Z",
+   "fetched_at": "2026-10-17T19:03:33.954Z",
+   "body": [
+    "Our briefing: Brentford manager Keith Andrews says Yehor Yarmoliuk's first-half red card changed the dynamic of their game against Liverpool which ended in a 2-1 defeat for the Bees.",
+    "Brentford manager Keith Andrews says Yehor Yarmoliuk's first-half red card changed the dynamic of their game against Liverpool which ended in a 2-1 defeat for the Bees.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
+   "id": "bbc-man-city-s-maresca-very-happy-after-ipswich-win",
+   "slug": "man-city-s-maresca-very-happy-after-ipswich-win-h-win",
+   "title": "Man City's Maresca 'very happy' after Ipswich win",
+   "dek": "Manchester City manager Enzo Maresca praises his side after their beat Ipswich Town at home in the Premier League.",
+   "description": "Manchester City manager Enzo Maresca praises his side after their beat Ipswich Town at home in the Premier League.",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-17T17:08:01.000Z",
+   "fetched_at": "2026-10-17T19:03:33.955Z",
+   "body": [
+    "Our briefing: Manchester City manager Enzo Maresca praises his side after their beat Ipswich Town at home in the Premier League.",
+    "Manchester City manager Enzo Maresca praises his side after their beat Ipswich Town at home in the Premier League.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Manchester_United_v_Manchester_City%2C_6_November_2021_%2815%29.jpg/960px-Manchester_United_v_Manchester_City%2C_6_November_2021_%2815%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ardfern — CC BY-SA 4.0"
+  },
+  {
+   "id": "independent-erling-haaland-injury-update-after-man-city-stri",
+   "slug": "erling-haaland-injury-update-after-man-city-striker-sparks-m--stri",
+   "title": "Erling Haaland injury update after Man City striker sparks major concern",
+   "dek": "Haaland scored his 12th goal of the season but then hobbled down the tunnel after City defeated Ipswich in the Premier League",
+   "description": "Haaland scored his 12th goal of the season but then hobbled down the tunnel after City defeated Ipswich in the Premier League",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-10-17T17:03:01.000Z",
+   "fetched_at": "2026-10-17T19:03:34.145Z",
+   "body": [
+    "Our briefing: Haaland scored his 12th goal of the season but then hobbled down the tunnel after City defeated Ipswich in the Premier League",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Etihad_Stadium%2C_Manchester_City_Football_Club_%28Ank_Kumar%2C_Infosys%29_16.jpg/960px-Etihad_Stadium%2C_Manchester_City_Football_Club_%28Ank_Kumar%2C_Infosys%29_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ank kumar — CC BY-SA 4.0"
+  },
+  {
+   "id": "independent-liverpool-fired-victory-nine-man-brentford-350m-",
+   "slug": "liverpool-fired-to-victory-at-nine-man-brentford-by-350m-fro-350m-",
+   "title": "Liverpool fired to victory at nine-man Brentford by £350m frontline",
+   "dek": "Brentford 1-2 Liverpool: The Reds were misfiring as they trailed to Keane Lewis-Potter’s first-half goal, but the match turned on Yehor Yarmoliuk’s red card",
+   "description": "Brentford 1-2 Liverpool: The Reds were misfiring as they trailed to Keane Lewis-Potter’s first-half goal, but the match turned on Yehor Yarmoliuk’s red card",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-10-17T16:59:58.000Z",
+   "fetched_at": "2026-10-17T19:03:34.145Z",
+   "body": [
+    "Our briefing: Brentford 1-2 Liverpool: The Reds were misfiring as they trailed to Keane Lewis-Potter’s first-half goal, but the match turned on Yehor Yarmoliuk’s red card",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Elftal_van_Liverpool%2C_Bestanddeelnr_919-7002.jpg/960px-Elftal_van_Liverpool%2C_Bestanddeelnr_919-7002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
+   "id": "bbc-liverpool-players-delicate-situation-demanding-s",
+   "slug": "liverpool-players-in-delicate-situation-with-demanding-sched-ing-s",
+   "title": "Liverpool players in 'delicate' situation with 'demanding' schedule - Iraola",
+   "dek": "Andoni Iraola Liverpool's demanding schedule is putting his players in a \"delicate situation\" after Dominik Szoboszlai was forced off with a first-half injury during…",
+   "description": "Andoni Iraola Liverpool's demanding schedule is putting his players in a \"delicate situation\" after Dominik Szoboszlai was forced off with a first-half injury during their 2-1 victory at Brentford.",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-17T16:56:12.000Z",
+   "fetched_at": "2026-10-17T19:03:33.954Z",
+   "body": [
+    "Our briefing: Andoni Iraola Liverpool's demanding schedule is putting his players in a \"delicate situation\" after Dominik Szoboszlai was forced off with a first-half injury during…",
+    "Andoni Iraola Liverpool's demanding schedule is putting his players in a \"delicate situation\" after Dominik Szoboszlai was forced off with a first-half injury during their 2-1 victory at Brentford.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Liverpool_players_before_match_vs_Rabotnicki.jpg/960px-Liverpool_players_before_match_vs_Rabotnicki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kevin Walsh — CC BY 2.0"
+  },
+  {
+   "id": "bbc-men-against-boys-jakirovic-criticises-hull-city-",
+   "slug": "men-against-boys-jakirovic-criticises-hull-city-after-fulham-city-",
+   "title": "'Men against boys' - Jakirovic criticises Hull City after Fulham defeat",
+   "dek": "Hull City manager Sergej Jakirovic says Fulham were \"much better\" during his side's 1-0 defeat at Craven Cottage.",
+   "description": "Hull City manager Sergej Jakirovic says Fulham were \"much better\" during his side's 1-0 defeat at Craven Cottage.",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-17T16:48:52.000Z",
+   "fetched_at": "2026-10-17T19:03:33.954Z",
+   "body": [
+    "Our briefing: Hull City manager Sergej Jakirovic says Fulham were \"much better\" during his side's 1-0 defeat at Craven Cottage.",
+    "Hull City manager Sergej Jakirovic says Fulham were \"much better\" during his side's 1-0 defeat at Craven Cottage.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Fulham_Players_Pre-Match_Training_on_7_November_2015.JPG/960px-Fulham_Players_Pre-Match_Training_on_7_November_2015.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Timmy96 — CC BY-SA 4.0"
+  },
+  {
+   "id": "guardian-championship-roundup-west-ham-go-second-norwich-",
+   "slug": "championship-roundup-west-ham-go-second-norwich-beaten-again-wich-",
+   "title": "Championship roundup: West Ham go second; Norwich beaten again",
+   "dek": "Mukasa’s first-half goal enough to beat leaders Swansea Canaries suffer sixth straight loss; Watford beat Charlton Nuno Espírito Santo was delighted West Ham finished a…",
+   "description": "Mukasa’s first-half goal enough to beat leaders Swansea Canaries suffer sixth straight loss; Watford beat Charlton Nuno Espírito Santo was delighted West Ham finished a “demanding week” by toppling Championship leaders Swansea . Divine Mukasa’s first-half strike in front of a record Swansea.com Stadium crowd of 20,973 gave the Hammers a 1-0 win and took them into second place and within a point of the league leaders. It was the Hammers’ second success in four days after a 6-0 romp at Lincoln , and ended a week that began with a 1-1 home draw against QPR following Jarrod Bowen’s last-gasp penalty miss. Continue reading...",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-10-17T16:29:23.000Z",
+   "fetched_at": "2026-10-17T19:03:34.007Z",
+   "body": [
+    "Our briefing: Mukasa’s first-half goal enough to beat leaders Swansea Canaries suffer sixth straight loss; Watford beat Charlton Nuno Espírito Santo was delighted West Ham finished a…",
+    "Mukasa’s first-half goal enough to beat leaders Swansea Canaries suffer sixth straight loss; Watford beat Charlton Nuno Espírito Santo was delighted West Ham finished a “demanding week” by toppling Championship leaders Swansea . Divine Mukasa’s first-half strike in front of a record Swansea. com Stadium crowd of 20,973 gave the Hammers a 1-0 win and took them into second place and within a point of the league leaders.",
+    "It was the Hammers’ second success in four days after a 6-0 romp at Lincoln , and ended a week that began with a 1-1 home draw against QPR following Jarrod Bowen’s last-gasp penalty miss. Continue reading...",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Hertha_BSC_vs._West_Ham_United_20190731_%28066%29_Marko_Gruji%C4%87.jpg/960px-Hertha_BSC_vs._West_Ham_United_20190731_%28066%29_Marko_Gruji%C4%87.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "--Steindy (talk) 15:45, 29 August 2019 (UTC) — CC BY-SA 4.0"
+  },
   {
    "id": "guardian-newcastle-v-aston-villa-premier-league-live",
    "slug": "newcastle-v-aston-villa-premier-league-live--live",
@@ -44,44 +440,23 @@
    "id": "guardian-isak-completes-liverpool-s-comeback-win-brentfor",
    "slug": "isak-completes-liverpool-s-comeback-win-as-brentford-finish--ntfor",
    "title": "Isak completes Liverpool’s comeback win as Brentford finish with nine",
-   "dek": "If this truly was the turning point for Liverpool’s spluttering forwards then they will owe a big debt of gratitude to Yehor Yarmolyuk. Brentford were 1-0 up when their…",
-   "description": "If this truly was the turning point for Liverpool’s spluttering forwards then they will owe a big debt of gratitude to Yehor Yarmolyuk. Brentford were 1-0 up when their midfielder saw red for a headbutt on Jérémy Jacquet just before half-time and, while Andoni Iraola will hope that surviving one of the toughest tests the Premier League has to offer is a sign his methods are starting to take hold, the Spaniard will know it was very different contest once his side had a numerical advantage to exploit. Brentford, whose unbeaten start to the season is over, raged at the officiating. They finished with nine men after losing Vitaly Janelt late on. John Brooks walked off to boos at full-time, although in truth Keith Andrews’ side only had themselves to blame. They pressed the self-destruct button when they had Liverpool on the ropes. Yarmolyuk was foolish and Liverpool punished him, Continue reading...",
+   "dek": "If Liverpool’s spluttering forwards end up remembering this as the day when their luck turned then they will owe a big debt of gratitude to Yehor Yarmolyuk. This was a…",
+   "description": "If Liverpool’s spluttering forwards end up remembering this as the day when their luck turned then they will owe a big debt of gratitude to Yehor Yarmolyuk. This was a game with a very clear before and after. Andoni Iraola will hope surviving one of the toughest tests the Premier League has to offer is a sign his methods are starting to work, but Liverpool’s manager will not forget it was a very different contest after Yarmolyuk’s red card for a butt on Jérémy Jacquet left Brentford trying to defend a 1-0 lead with 10 men for the entire second half. Continue reading...",
    "category": "Match Reports",
    "league": "Premier League",
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-17T16:21:40.000Z",
-   "fetched_at": "2026-10-17T16:35:14.713Z",
+   "fetched_at": "2026-10-17T19:03:34.007Z",
    "body": [
-    "Our briefing: If this truly was the turning point for Liverpool’s spluttering forwards then they will owe a big debt of gratitude to Yehor Yarmolyuk. Brentford were 1-0 up when their…",
-    "If this truly was the turning point for Liverpool’s spluttering forwards then they will owe a big debt of gratitude to Yehor Yarmolyuk. Brentford were 1-0 up when their midfielder saw red for a headbutt on Jérémy Jacquet just before half-time and, while Andoni Iraola will hope that surviving one of the toughest tests the Premier League has to offer is a sign his methods are starting to take hold, the Spaniard will know it was very different contest once his side had a numerical advantage to exploit. Brentford, whose unbeaten start to the season is over, raged at the officiating.",
-    "They finished with nine men after losing Vitaly Janelt late on. John Brooks walked off to boos at full-time, although in truth Keith Andrews’ side only had themselves to blame. They pressed the self-destruct button when they had Liverpool on the ropes.",
-    "Yarmolyuk was foolish and Liverpool punished him, Continue reading...",
+    "Our briefing: If Liverpool’s spluttering forwards end up remembering this as the day when their luck turned then they will owe a big debt of gratitude to Yehor Yarmolyuk. This was a…",
+    "If Liverpool’s spluttering forwards end up remembering this as the day when their luck turned then they will owe a big debt of gratitude to Yehor Yarmolyuk. This was a game with a very clear before and after. Andoni Iraola will hope surviving one of the toughest tests the Premier League has to offer is a sign his methods are starting to work, but Liverpool’s manager will not forget it was a very different contest after Yarmolyuk’s red card for a butt on Jérémy Jacquet left Brentford trying to defend a 1-0 lead with 10 men for the entire second half.",
+    "Continue reading...",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Galatasaray_Liverpool_CL_2006.jpg/960px-Galatasaray_Liverpool_CL_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "tekinim — CC BY 2.0"
-  },
-  {
-   "id": "independent-liverpool-fired-victory-nine-man-brentford-350m-",
-   "slug": "liverpool-fired-to-victory-at-nine-man-brentford-by-350m-fro-350m-",
-   "title": "Liverpool fired to victory at nine-man Brentford by £350m frontline",
-   "dek": "Brentford 1-2 Liverpool: The Reds were misfiring as they trailed to Keane Lewis-Potter’s first-half goal, but the match turned on Yehor Yarmoliuk’s red card",
-   "description": "Brentford 1-2 Liverpool: The Reds were misfiring as they trailed to Keane Lewis-Potter’s first-half goal, but the match turned on Yehor Yarmoliuk’s red card",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-10-17T16:19:30.000Z",
-   "fetched_at": "2026-10-17T16:35:14.814Z",
-   "body": [
-    "Our briefing: Brentford 1-2 Liverpool: The Reds were misfiring as they trailed to Keane Lewis-Potter’s first-half goal, but the match turned on Yehor Yarmoliuk’s red card",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Elftal_van_Liverpool%2C_Bestanddeelnr_919-7002.jpg/960px-Elftal_van_Liverpool%2C_Bestanddeelnr_919-7002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/2022-07-21_Fu%C3%9Fball%2C_M%C3%A4nner%2CFreundschaftsspiel%2C_RB_Leipzig_-_FC_Liverpool_1DX_2224_by_Stepro.jpg/960px-2022-07-21_Fu%C3%9Fball%2C_M%C3%A4nner%2CFreundschaftsspiel%2C_RB_Leipzig_-_FC_Liverpool_1DX_2224_by_Stepro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Steffen Prößdorf — CC BY-SA 4.0"
   },
   {
    "id": "independent-fulham-end-winless-run-first-league-victory-unde",
@@ -94,36 +469,36 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-17T16:14:35.000Z",
-   "fetched_at": "2026-10-17T16:35:14.814Z",
+   "fetched_at": "2026-10-17T19:03:34.145Z",
    "body": [
     "Our briefing: Fulham 1-0 Hully City: Alex Iwobi’s first-half goal gave the Cottagers their first league win of the season",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Fulham_Players_Pre-Match_Training_on_7_November_2015.JPG/960px-Fulham_Players_Pre-Match_Training_on_7_November_2015.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Timmy96 — CC BY-SA 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Fulham_vs_Athletico_Madrid_%28pre-match_ceremony_1%29.jpg/960px-Fulham_vs_Athletico_Madrid_%28pre-match_ceremony_1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Nick Sarebi — CC BY 2.0"
   },
   {
    "id": "guardian-pressure-arbeloa-lifted-after-alex-iwobi-sinks-h",
    "slug": "pressure-on-arbeloa-lifted-after-alex-iwobi-sinks-hull-for-f-nks-h",
    "title": "Pressure on Arbeloa lifted after Alex Iwobi sinks Hull for Fulham’s first win",
-   "dek": "After such a dominant performance against a team so blunt going forward, it almost felt inevitable that Álvaro Arbeloa was going to be denied his first Premier League win…",
-   "description": "After such a dominant performance against a team so blunt going forward, it almost felt inevitable that Álvaro Arbeloa was going to be denied his first Premier League win as Fulham head coach in similar fashion as the weeks and games before. After all their chances and possession, Craven Cottage should not have been a place of nerves when Mohamed Belloumi lined up a free-kick as three minutes of stoppage time were shown. When the Hull winger blazed that free-kick over the bar – in truth, the closest Hull had come to scoring throughout the second half – the tension was released that little bit more. Despite Ryan Sessegnon’s late red card, the full-time whistle brought a first victory of the season, courtesy of Alex Iwobi’s first-half strike, and a release from the burden of being the Premier League’s basement club. Continue reading...",
+   "dek": "It was not until his post-match lap of the pitch that Álvaro Arbeloa allowed himself a smile. After an uncomfortable week when his future was being called into question ,…",
+   "description": "It was not until his post-match lap of the pitch that Álvaro Arbeloa allowed himself a smile. After an uncomfortable week when his future was being called into question , the former Real Madrid manager has a Premier League win under his belt at the seventh attempt, lifting his side off the foot of the table. But it is not a win without caveats. Alex Iwobi’s goal in the first half should have been one of many, with the Nigeria winger among those guilty of missing gilt-edge chances. Gonzalo García, who has not scored in the league since the opening weekend of the season, headed against the crossbar from close range in the second half. Continue reading...",
    "category": "Match Reports",
    "league": "Premier League",
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-17T16:08:39.000Z",
-   "fetched_at": "2026-10-17T16:35:14.713Z",
+   "fetched_at": "2026-10-17T19:03:34.007Z",
    "body": [
-    "Our briefing: After such a dominant performance against a team so blunt going forward, it almost felt inevitable that Álvaro Arbeloa was going to be denied his first Premier League win…",
-    "After such a dominant performance against a team so blunt going forward, it almost felt inevitable that Álvaro Arbeloa was going to be denied his first Premier League win as Fulham head coach in similar fashion as the weeks and games before. After all their chances and possession, Craven Cottage should not have been a place of nerves when Mohamed Belloumi lined up a free-kick as three minutes of stoppage time were shown. When the Hull winger blazed that free-kick over the bar – in truth, the closest Hull had come to scoring throughout the second half – the tension was released that little bit more.",
-    "Despite Ryan Sessegnon’s late red card, the full-time whistle brought a first victory of the season, courtesy of Alex Iwobi’s first-half strike, and a release from the burden of being the Premier League’s basement club. Continue reading...",
+    "Our briefing: It was not until his post-match lap of the pitch that Álvaro Arbeloa allowed himself a smile. After an uncomfortable week when his future was being called into question ,…",
+    "It was not until his post-match lap of the pitch that Álvaro Arbeloa allowed himself a smile. After an uncomfortable week when his future was being called into question , the former Real Madrid manager has a Premier League win under his belt at the seventh attempt, lifting his side off the foot of the table. But it is not a win without caveats.",
+    "Alex Iwobi’s goal in the first half should have been one of many, with the Nigeria winger among those guilty of missing gilt-edge chances. Gonzalo García, who has not scored in the league since the opening weekend of the season, headed against the crossbar from close range in the second half. Continue reading...",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Fulham_vs_Athletico_Madrid_%28pre-match_ceremony_1%29.jpg/960px-Fulham_vs_Athletico_Madrid_%28pre-match_ceremony_1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Nick Sarebi — CC BY 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/All_In_2023_-_Fulham_vs_Brentford.jpg/960px-All_In_2023_-_Fulham_vs_Brentford.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "bbc-chelsea-s-martinez-taken-hospital-precautionary-",
@@ -136,7 +511,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-17T16:02:31.000Z",
-   "fetched_at": "2026-10-17T16:35:14.612Z",
+   "fetched_at": "2026-10-17T19:03:33.954Z",
    "body": [
     "Our briefing: Goalkeeper Emiliano Martinez was taken to hospital as Chelsea's 2-0 win at Everton on Saturday meant they secured their first clean sheet in nine months.",
     "Goalkeeper Emiliano Martinez was taken to hospital as Chelsea's 2-0 win at Everton on Saturday meant they secured their first clean sheet in nine months.",
@@ -157,7 +532,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-17T15:43:57.000Z",
-   "fetched_at": "2026-10-17T16:35:14.814Z",
+   "fetched_at": "2026-10-17T19:03:34.145Z",
    "body": [
     "Our briefing: Martinez received treatment for around 10 minutes after a nasty clash of heads with Everton defender Jarrad Branthwaite",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -177,7 +552,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-17T15:16:50.000Z",
-   "fetched_at": "2026-10-17T16:35:14.814Z",
+   "fetched_at": "2026-10-17T19:03:34.145Z",
    "body": [
     "Our briefing: The ball was not in play while Yehor Yarmolyuk moved his head towards the face of Jeremy Jacquet before a corner",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
@@ -197,15 +572,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-17T14:53:23.000Z",
-   "fetched_at": "2026-10-17T16:35:14.613Z",
+   "fetched_at": "2026-10-17T19:03:33.954Z",
    "body": [
     "Our briefing: Chelsea manager Xabi Alonso describes his side's 2-0 victory over Everton as ''professional and solid' as they move up to fifth in the Premier League table.",
     "Chelsea manager Xabi Alonso describes his side's 2-0 victory over Everton as ''professional and solid' as they move up to fifth in the Premier League table.",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Chelsea_vs_union_1929.jpg/960px-Chelsea_vs_union_1929.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Chelsea_Randall_at_Adelaide%E2%80%93Sydney_AFLW_Round_1_match_%28028A9959%29.jpg/960px-Chelsea_Randall_at_Adelaide%E2%80%93Sydney_AFLW_Round_1_match_%28028A9959%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Yu Chu Chin — CC BY-SA 4.0"
   },
   {
    "id": "guardian-european-football-baena-late-strike-atl-tico-put",
@@ -218,7 +593,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-17T14:44:52.000Z",
-   "fetched_at": "2026-10-17T16:35:14.713Z",
+   "fetched_at": "2026-10-17T19:03:34.007Z",
    "body": [
     "Our briefing: Simeone’s side move two points behind La Liga champions I’d have left Real Madrid if I were Vinícius, says Mourinho Álex Baena struck in the 89th minute to snatch…",
     "Simeone’s side move two points behind La Liga champions I’d have left Real Madrid if I were Vinícius, says Mourinho Álex Baena struck in the 89th minute to snatch Atlético Madrid a 1-0 win at Espanyol and put pressure on the La Liga leaders, Barcelona. Diego Simeone’s side are second, two points behind Hansi Flick’s champions, who visit third-placed Real Betis later on. Baena smashed home from the edge of the box to claim the Rojiblancos an important late victory from a tight game in Cornella.",
@@ -240,7 +615,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-17T14:42:46.000Z",
-   "fetched_at": "2026-10-17T16:35:14.613Z",
+   "fetched_at": "2026-10-17T19:03:33.955Z",
    "body": [
     "Our briefing: Everton manager David Moyes reacts to their defeat against Chelsea at the Hill Dickinson Stadium.",
     "Everton manager David Moyes reacts to their defeat against Chelsea at the Hill Dickinson Stadium.",
@@ -261,7 +636,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-17T14:27:09.000Z",
-   "fetched_at": "2026-10-17T16:35:14.814Z",
+   "fetched_at": "2026-10-17T19:03:34.145Z",
    "body": [
     "Our briefing: Everton 0-2 Chelsea: Rogers turned villain as Xabi Alonso’s side kept a clean sheet and won away from home for the first time this season",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -269,28 +644,6 @@
    ],
    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Chelsea_Randall_at_Adelaide%E2%80%93Sydney_AFLW_Round_1_match_%28028A9957%29.jpg/960px-Chelsea_Randall_at_Adelaide%E2%80%93Sydney_AFLW_Round_1_match_%28028A9957%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Yu Chu Chin — CC BY-SA 4.0"
-  },
-  {
-   "id": "guardian-championship-roundup-west-ham-go-second-norwich-",
-   "slug": "championship-roundup-west-ham-go-second-norwich-beaten-again-wich-",
-   "title": "Championship roundup: West Ham go second; Norwich beaten again",
-   "dek": "Mukasa’s first-half goal enough to beat leaders Swansea Canaries suffer sixth straight loss; Watford beat Charlton West Ham ended Swansea’s four-match winning streak with…",
-   "description": "Mukasa’s first-half goal enough to beat leaders Swansea Canaries suffer sixth straight loss; Watford beat Charlton West Ham ended Swansea’s four-match winning streak with a 1-0 away victory that reduced the gap at the top of the Championship to a single point. Divine Mukasa’s calm first-half finish proved the difference, with the result putting the Hammers second, within a point of Swansea, who lost at home for the first time since April. Swansea had made their best start since 1923 by winning seven and drawing two of their opening 10 games. Continue reading...",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-10-17T14:04:41.000Z",
-   "fetched_at": "2026-10-17T16:35:14.713Z",
-   "body": [
-    "Our briefing: Mukasa’s first-half goal enough to beat leaders Swansea Canaries suffer sixth straight loss; Watford beat Charlton West Ham ended Swansea’s four-match winning streak with…",
-    "Mukasa’s first-half goal enough to beat leaders Swansea Canaries suffer sixth straight loss; Watford beat Charlton West Ham ended Swansea’s four-match winning streak with a 1-0 away victory that reduced the gap at the top of the Championship to a single point. Divine Mukasa’s calm first-half finish proved the difference, with the result putting the Hammers second, within a point of Swansea, who lost at home for the first time since April. Swansea had made their best start since 1923 by winning seven and drawing two of their opening 10 games.",
-    "Continue reading...",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Jack_Wilshere_-_Hertha_BSC_vs._West_Ham_United_%2820190731%29.jpg/960px-Jack_Wilshere_-_Hertha_BSC_vs._West_Ham_United_%2820190731%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "--Steindy (talk) 16:09, 29 August 2019 (UTC) — CC BY-SA 4.0"
   },
   {
    "id": "guardian-neto-double-everton-leads-chelsea-victory-marred",
@@ -303,7 +656,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-17T13:53:13.000Z",
-   "fetched_at": "2026-10-17T16:35:14.713Z",
+   "fetched_at": "2026-10-17T19:03:34.007Z",
    "body": [
     "Our briefing: Chelsea have returned from the international break with a spirit, authority and resilience that augurs well for Xabi Alonso. Their troubles at Everton, not a happy…",
     "Chelsea have returned from the international break with a spirit, authority and resilience that augurs well for Xabi Alonso. Their troubles at Everton, not a happy hunting ground in recent years, were confined to the seven minutes Emi Martínez needed treatment for a head injury as Pedro Neto’s double delivered a deserved victory in the Merseyside sunshine. The Argentina goalkeeper was taken to hospital for tests after an accidental collision with Jarrad Branthwaite left him with suspected concussion.",
@@ -312,8 +665,8 @@
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Chelsea_Randall_at_Adelaide%E2%80%93Sydney_AFLW_Round_1_match_%28028A9959%29.jpg/960px-Chelsea_Randall_at_Adelaide%E2%80%93Sydney_AFLW_Round_1_match_%28028A9959%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Yu Chu Chin — CC BY-SA 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Chelsea_Football_Club%2C_Stamford_Bridge_%28Ank_kumar%29_06.jpg/960px-Chelsea_Football_Club%2C_Stamford_Bridge_%28Ank_kumar%29_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ank kumar — CC BY-SA 4.0"
   },
   {
    "id": "bbc-neto-stars-but-who-was-subdued-player-ratings-ev",
@@ -326,14 +679,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-17T13:39:16.000Z",
-   "fetched_at": "2026-10-17T16:35:14.612Z",
+   "fetched_at": "2026-10-17T19:03:33.954Z",
    "body": [
     "Our briefing: Pedro Neto's two second half goals for Chelsea secured an important away win at Everton on Saturday.",
     "Pedro Neto's two second half goals for Chelsea secured an important away win at Everton on Saturday.",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Chelsea_Football_Club%2C_Stamford_Bridge_%28Ank_kumar%29_06.jpg/960px-Chelsea_Football_Club%2C_Stamford_Bridge_%28Ank_kumar%29_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Chelsea_Football_Club%2C_Stamford_Bridge_%28Ank_kumar%29_08.jpg/960px-Chelsea_Football_Club%2C_Stamford_Bridge_%28Ank_kumar%29_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ank kumar — CC BY-SA 4.0"
   },
   {
@@ -370,7 +723,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-17T12:56:36.000Z",
-   "fetched_at": "2026-10-17T16:35:14.814Z",
+   "fetched_at": "2026-10-17T19:03:34.145Z",
    "body": [
     "Our briefing: Isak and Szoboszlai replace Lewis Koumas and Trey Nyonyi following the 6-3 win in LASK as Andoni Iraola makes five changes",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -390,15 +743,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-17T09:01:01.000Z",
-   "fetched_at": "2026-10-17T13:05:52.474Z",
+   "fetched_at": "2026-10-17T19:03:33.956Z",
    "body": [
     "Our briefing: Glentoran appear poised to appoint Duncan Ferguson as manager as Dinamo Bucharest winger Danny Armstrong eyes a Scotland call-up.",
     "Glentoran appear poised to appoint Duncan Ferguson as manager as Dinamo Bucharest winger Danny Armstrong eyes a Scotland call-up.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "John Shorten — CC BY 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
   },
   {
    "id": "bbc-football-daily",
@@ -411,15 +764,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-17T09:00:00.000Z",
-   "fetched_at": "2026-10-17T16:35:14.613Z",
+   "fetched_at": "2026-10-17T19:03:33.954Z",
    "body": [
     "Our briefing: Alex Scott sits down with Kasper and Peter Schmeichel for this week's Football Interview.",
     "Alex Scott sits down with Kasper and Peter Schmeichel for this week's Football Interview.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "John Shorten — CC BY 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "guardian-farke-defends-under-fire-carrick-manchester-city",
@@ -452,7 +805,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-17T07:16:49.000Z",
-   "fetched_at": "2026-10-17T16:35:14.612Z",
+   "fetched_at": "2026-10-17T19:03:33.954Z",
    "body": [
     "Our briefing: When Paul Green left Chelsea after 13 years, he had achieved so much success that the majority of his medals were hidden away in a box under the bed.",
     "When Paul Green left Chelsea after 13 years, he had achieved so much success that the majority of his medals were hidden away in a box under the bed.",
@@ -473,7 +826,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-17T07:00:23.000Z",
-   "fetched_at": "2026-10-17T16:35:14.713Z",
+   "fetched_at": "2026-10-17T19:03:34.007Z",
    "body": [
     "Our briefing: The former Palace chair seeming very angry indeed about others’ opinions is just par for the course as football’s age of rage ramps up another level Yet again the…",
     "The former Palace chair seeming very angry indeed about others’ opinions is just par for the course as football’s age of rage ramps up another level Yet again the mainstream wokealorium is preachifying from its pulpitrex. It’s egregious. It’s sanctiforial.",
@@ -483,8 +836,8 @@
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "bbc-who-am-i-plus-today-s-other-quizzes",
@@ -497,371 +850,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-17T05:15:17.000Z",
-   "fetched_at": "2026-10-17T16:35:14.613Z",
+   "fetched_at": "2026-10-17T19:03:33.955Z",
    "body": [
     "Our briefing: Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
     "Test your football knowledge against today's Who Am I? , Five in Five and Brainteaser.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
-  },
-  {
-   "id": "guardian-james-mcclean-wearing-poppy-was-just-never-going",
-   "slug": "james-mcclean-wearing-the-poppy-was-just-never-going-to-happ-going",
-   "title": "James McClean: ‘Wearing the poppy was just never going to happen’",
-   "dek": "The former Republic of Ireland international on growing up in a community still reeling from the Troubles and the controversy that scarred his career “The perception of…",
-   "description": "The former Republic of Ireland international on growing up in a community still reeling from the Troubles and the controversy that scarred his career “The perception of me is that, basically, I am a madman,” James McClean says calmly. “I’m outspoken. I’m a loudmouth. I’m very opinionated and I hate all things British. That’s from people who don’t know me. The reality is quite the opposite. I’m pretty boring. I go training, go home and switch off. A lot of my days are quite bland, quite basic.” McClean sounds as sane as he looks gaunt on a bleak Monday in Derry. He spent 14 years in English football and the fact that he is now at war with his own club, Derry City, can’t obscure the fact that he is the fifth-most-capped Republic of Ireland international, having played 103 times. “People define success in different ways,” he says, “but I’m the only footballer from the north of Ireland to win over 100 caps for Ireland. I played 150 Premier League games over five seasons, 800 professional games and won a lot of individual accolades. I count that as success and don’t look back with regrets.” Continue reading...",
-   "category": "Match Reports",
-   "league": "Football",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-10-17T05:00:24.000Z",
-   "fetched_at": "2026-10-17T16:35:14.713Z",
-   "body": [
-    "Our briefing: The former Republic of Ireland international on growing up in a community still reeling from the Troubles and the controversy that scarred his career “The perception of…",
-    "The former Republic of Ireland international on growing up in a community still reeling from the Troubles and the controversy that scarred his career “The perception of me is that, basically, I am a madman,” James McClean says calmly. “I’m outspoken. I’m a loudmouth.",
-    "I’m very opinionated and I hate all things British. That’s from people who don’t know me. The reality is quite the opposite.",
-    "I’m pretty boring. I go training, go home and switch off. A lot of my days are quite bland, quite basic.",
-    "” McClean sounds as sane as he looks gaunt on a bleak Monday in Derry. He spent 14 years in English football and the fact that he is now at war with his own club, Derry City, can’t obscure the fact that he is the fifth-most-capped Republic of Ireland international, having played 103 times. “People define success in different ways,” he says, “but I’m the only footballer from the north of Ireland to win over 100 caps for Ireland.",
-    "I played 150 Premier League games over five seasons, 800 professional games and won a lot of individual accolades. I count that as success and don’t look back with regrets. ” Continue reading...",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": null
-  },
-  {
-   "id": "bbc-bellingham-agrees-new-real-deal-saturday-s-gossi",
-   "slug": "bellingham-agrees-new-real-deal-saturday-s-gossip-gossi",
-   "title": "Bellingham agrees new Real deal - Saturday's gossip",
-   "dek": "Real Madrid midfielder Jude Bellingham ready to commit his future to La Liga club, Arsenal and Liverpool told price for Brentford's Kevin Schade, Man Utd and Chelsea…",
-   "description": "Real Madrid midfielder Jude Bellingham ready to commit his future to La Liga club, Arsenal and Liverpool told price for Brentford's Kevin Schade, Man Utd and Chelsea among clubs monitoring Jules Kounde's future at Barcelona, plus more.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-16T21:57:37.000Z",
-   "fetched_at": "2026-10-17T16:35:14.612Z",
-   "body": [
-    "Our briefing: Real Madrid midfielder Jude Bellingham ready to commit his future to La Liga club, Arsenal and Liverpool told price for Brentford's Kevin Schade, Man Utd and Chelsea…",
-    "Real Madrid midfielder Jude Bellingham ready to commit his future to La Liga club, Arsenal and Liverpool told price for Brentford's Kevin Schade, Man Utd and Chelsea among clubs monitoring Jules Kounde's future at Barcelona, plus more.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
-  },
-  {
-   "id": "guardian-wolves-extend-burnley-s-home-woes-full-year-vard",
-   "slug": "wolves-extend-burnley-s-home-woes-to-a-full-year-as-vardy-st--vard",
-   "title": "Wolves extend Burnley’s home woes to a full year as Vardy strikes in vain",
-   "dek": "The Wolves substitute Tawanda Chirewa struck within seconds of coming off the bench as César Peixoto’s side came from behind to extend Burnley’s home misery at Turf Moor…",
-   "description": "The Wolves substitute Tawanda Chirewa struck within seconds of coming off the bench as César Peixoto’s side came from behind to extend Burnley’s home misery at Turf Moor to 21 games without a win. Chirewa had just replaced Sean Neave in the 72nd minute when Mateus Mané pounced on Igor Julio’s heavy touch and sent the 23-year-old Zimbabwe international through to strike an angled shot, which flew into the net despite Grégoire Coudert getting his hands to the effort. Continue reading...",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-10-16T21:45:35.000Z",
-   "fetched_at": "2026-10-17T16:35:14.713Z",
-   "body": [
-    "Our briefing: The Wolves substitute Tawanda Chirewa struck within seconds of coming off the bench as César Peixoto’s side came from behind to extend Burnley’s home misery at Turf Moor…",
-    "The Wolves substitute Tawanda Chirewa struck within seconds of coming off the bench as César Peixoto’s side came from behind to extend Burnley’s home misery at Turf Moor to 21 games without a win. Chirewa had just replaced Sean Neave in the 72nd minute when Mateus Mané pounced on Igor Julio’s heavy touch and sent the 23-year-old Zimbabwe international through to strike an angled shot, which flew into the net despite Grégoire Coudert getting his hands to the effort. Continue reading...",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Wolverhampton_Wanderers_Players_01112025_%284%29.jpg/960px-Wolverhampton_Wanderers_Players_01112025_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "guardian-wolves-chirewa-extends-burnley-s-home-woes-vardy",
-   "slug": "wolves-chirewa-extends-burnley-s-home-woes-as-vardy-s-strike-vardy",
-   "title": "Wolves’ Chirewa extends Burnley’s home woes as Vardy’s strike is in vain",
-   "dek": "The Wolves substitute Tawanda Chirewa struck within seconds of coming off the bench as César Peixoto’s side came from behind to extend Burnley’s home misery at Turf Moor…",
-   "description": "The Wolves substitute Tawanda Chirewa struck within seconds of coming off the bench as César Peixoto’s side came from behind to extend Burnley’s home misery at Turf Moor to 21 games without a win. Chirewa had just replaced Sean Neave in the 72nd minute when Mateus Mané pounced on Igor Julio’s heavy touch and sent the 23-year-old Zimbabwe international through to strike an angled shot, which flew into the net despite Grégoire Coudert getting his hands to the effort. Continue reading...",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-10-16T21:45:35.000Z",
-   "fetched_at": "2026-10-17T04:50:31.342Z",
-   "body": [
-    "Our briefing: The Wolves substitute Tawanda Chirewa struck within seconds of coming off the bench as César Peixoto’s side came from behind to extend Burnley’s home misery at Turf Moor…",
-    "The Wolves substitute Tawanda Chirewa struck within seconds of coming off the bench as César Peixoto’s side came from behind to extend Burnley’s home misery at Turf Moor to 21 games without a win. Chirewa had just replaced Sean Neave in the 72nd minute when Mateus Mané pounced on Igor Julio’s heavy touch and sent the 23-year-old Zimbabwe international through to strike an angled shot, which flew into the net despite Grégoire Coudert getting his hands to the effort. Continue reading...",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Wolverhampton_Wanderers_FC_league_results_1889-2008.PNG/960px-Wolverhampton_Wanderers_FC_league_results_1889-2008.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  {
-   "id": "guardian-premier-league-news-go-bananas-maresca-loving-fa",
-   "slug": "premier-league-news-go-bananas-maresca-loving-fans-show-of-d-ng-fa",
-   "title": "Premier League news: go bananas: Maresca loving fans’ show of defiance; Alonso backs his defence",
-   "dek": "Manchester City manager embraces response to external criticism while Chelsea coach says ‘clean sheets will come’ Continue reading...",
-   "description": "Manchester City manager embraces response to external criticism while Chelsea coach says ‘clean sheets will come’ Continue reading...",
-   "category": "Tactics & Analysis",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-10-16T21:30:01.000Z",
-   "fetched_at": "2026-10-17T16:35:14.713Z",
-   "body": [
-    "Our briefing: Manchester City manager embraces response to external criticism while Chelsea coach says ‘clean sheets will come’ Continue reading...",
-    "Manchester City manager embraces response to external criticism while Chelsea coach says ‘clean sheets will come’ Continue reading...",
-    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-ranking-premier-league-s-all-time-greatest-super",
-   "slug": "ranking-the-premier-league-s-all-time-greatest-super-subs-super",
-   "title": "Ranking the Premier League's all-time greatest super subs",
-   "dek": "Some players are destined to make their biggest impact off the bench, but who are the top 10 Premier League super subs of all time?",
-   "description": "Some players are destined to make their biggest impact off the bench, but who are the top 10 Premier League super subs of all time?",
-   "category": "News",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-16T21:15:47.000Z",
-   "fetched_at": "2026-10-17T16:35:14.612Z",
-   "body": [
-    "Our briefing: Some players are destined to make their biggest impact off the bench, but who are the top 10 Premier League super subs of all time?",
-    "Some players are destined to make their biggest impact off the bench, but who are the top 10 Premier League super subs of all time?",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
-  },
-  {
-   "id": "independent-peter-schmeichel-speaks-out-explosive-lisandro-m",
-   "slug": "peter-schmeichel-speaks-out-on-explosive-lisandro-martinez-i-dro-m",
-   "title": "Peter Schmeichel speaks out on explosive Lisandro Martinez interview",
-   "dek": "Schmeichel was among those to interview Martinez as he scored the Man United leadership after their loss to Atletico Madrid",
-   "description": "Schmeichel was among those to interview Martinez as he scored the Man United leadership after their loss to Atletico Madrid",
-   "category": "Match Reports",
-   "league": "Football",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-10-16T20:06:52.000Z",
-   "fetched_at": "2026-10-17T16:35:14.814Z",
-   "body": [
-    "Our briefing: Schmeichel was among those to interview Martinez as he scored the Man United leadership after their loss to Atletico Madrid",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "independent-david-moyes-provides-everton-contract-update-aft",
-   "slug": "david-moyes-provides-everton-contract-update-after-club-put--e-aft",
-   "title": "David Moyes provides Everton contract update after club put up for sale",
-   "dek": "Moyes is in the final year of his current Everton contract but says talks over an extension have entered a ‘lull’",
-   "description": "Moyes is in the final year of his current Everton contract but says talks over an extension have entered a ‘lull’",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-10-16T19:44:09.000Z",
-   "fetched_at": "2026-10-17T16:35:14.814Z",
-   "body": [
-    "Our briefing: Moyes is in the final year of his current Everton contract but says talks over an extension have entered a ‘lull’",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/1939_1940_everton_team_photo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "Dr. David France — CC BY-SA 3.0"
-  },
-  {
-   "id": "independent-alex-scott-injury-not-bad-bournemouth-feared-say",
-   "slug": "alex-scott-injury-not-as-bad-as-bournemouth-feared-says-marc-d-say",
-   "title": "Alex Scott injury not as bad as Bournemouth feared, says Marco Rose",
-   "dek": "Scott suffered a thigh injury whilst on international duty with England and had looked like being out for up to eight weeks",
-   "description": "Scott suffered a thigh injury whilst on international duty with England and had looked like being out for up to eight weeks",
-   "category": "Injuries",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-10-16T19:33:34.000Z",
-   "fetched_at": "2026-10-17T16:35:14.814Z",
-   "body": [
-    "Our briefing: Scott suffered a thigh injury whilst on international duty with England and had looked like being out for up to eight weeks",
-    "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Twenty-five_years_of_medical_progress_-_the_address_in_medicine_delivered_at_the_Annual_Meeting_of_the_British_Medical_Association_held_in_Bournemouth%2C_July%2C_1891_%28IA_b22429542%29.pdf/page1-960px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "independent-real-madrid-demand-javier-tebas-resignation-afte",
-   "slug": "real-madrid-demand-javier-tebas-resignation-after-nazi-propa--afte",
-   "title": "Real Madrid demand Javier Tebas resignation after Nazi propaganda comparison",
-   "dek": "LaLiga president Tebas accused the club of employing techniques used by Nazi propaganda chief Joseph Goebbels",
-   "description": "LaLiga president Tebas accused the club of employing techniques used by Nazi propaganda chief Joseph Goebbels",
-   "category": "News",
-   "league": "La Liga",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-10-16T19:27:31.000Z",
-   "fetched_at": "2026-10-17T16:35:14.814Z",
-   "body": [
-    "Our briefing: LaLiga president Tebas accused the club of employing techniques used by Nazi propaganda chief Joseph Goebbels",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Santiago_Bernabeu_-_Real_Madrid_Football_Stadium_-_Madrid_-_Spain_-_01.jpg/960px-Santiago_Bernabeu_-_Real_Madrid_Football_Stadium_-_Madrid_-_Spain_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Adam Jones, Ph.D. — CC BY-SA 3.0"
-  },
-  {
-   "id": "guardian-it-s-really-not-drama-carrick-sticks-script-afte",
-   "slug": "it-s-really-not-a-drama-carrick-sticks-to-the-script-after-m--afte",
-   "title": "‘It’s really not a drama’: Carrick sticks to the script after Martínez storm",
-   "dek": "Manchester United head coach produced a masterclass in dialling down emotion before a tricky trip to Leeds Michael Carrick returned his most impressive performance…",
-   "description": "Manchester United head coach produced a masterclass in dialling down emotion before a tricky trip to Leeds Michael Carrick returned his most impressive performance precisely when required as he took questions in the midst of the first crisis engulfing him as Manchester United’s manager. His team are bombing in the league after the club’s poorest start since 1986 and out of the Carabao Cup , and after Tuesday’s Champions League defeat at Atlético Madrid Lisandro Martínez showed up ruptures at United by calling out the director of football , Jason Wilcox. Continue reading...",
-   "category": "Match Reports",
-   "league": "Football",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-10-16T19:00:09.000Z",
-   "fetched_at": "2026-10-17T16:35:14.713Z",
-   "body": [
-    "Our briefing: Manchester United head coach produced a masterclass in dialling down emotion before a tricky trip to Leeds Michael Carrick returned his most impressive performance…",
-    "Manchester United head coach produced a masterclass in dialling down emotion before a tricky trip to Leeds Michael Carrick returned his most impressive performance precisely when required as he took questions in the midst of the first crisis engulfing him as Manchester United’s manager. His team are bombing in the league after the club’s poorest start since 1986 and out of the Carabao Cup , and after Tuesday’s Champions League defeat at Atlético Madrid Lisandro Martínez showed up ruptures at United by calling out the director of football , Jason Wilcox. Continue reading...",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
-  },
-  {
-   "id": "independent-michael-carrick-must-escape-cycle-manchester-uni",
-   "slug": "michael-carrick-must-escape-cycle-of-manchester-united-circu-r-uni",
-   "title": "Michael Carrick must escape cycle of Manchester United circus and its old ghosts",
-   "dek": "As a return to Elland Road brings memories of Ruben Amorim’s demise, another explosive interview and the latest criticism of United’s hierarchy leaves Carrick needing a…",
-   "description": "As a return to Elland Road brings memories of Ruben Amorim’s demise, another explosive interview and the latest criticism of United’s hierarchy leaves Carrick needing a result to change the narrative of their unravelling season. By Richard Jolly",
-   "category": "News",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-10-16T17:48:02.000Z",
-   "fetched_at": "2026-10-17T16:35:14.814Z",
-   "body": [
-    "Our briefing: As a return to Elland Road brings memories of Ruben Amorim’s demise, another explosive interview and the latest criticism of United’s hierarchy leaves Carrick needing a…",
-    "As a return to Elland Road brings memories of Ruben Amorim’s demise, another explosive interview and the latest criticism of United’s hierarchy leaves Carrick needing a result to change the narrative of their unravelling season.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Manchester_United_Old_Trafford.jpg/960px-Manchester_United_Old_Trafford.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
-  },
-  {
-   "id": "guardian-premier-league-news-go-bananas-maresca-loving-fa",
-   "slug": "premier-league-news-go-bananas-maresca-loving-fans-show-of-d-ng-fa",
-   "title": "Premier League news: go bananas: Maresca loving fans’ show of defiance; James injury blow for Blues",
-   "dek": "Manchester City manager embraces response to external criticism while Chelsea captain could be out until new year Continue reading...",
-   "description": "Manchester City manager embraces response to external criticism while Chelsea captain could be out until new year Continue reading...",
-   "category": "Injuries",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-10-16T16:53:42.000Z",
-   "fetched_at": "2026-10-16T18:39:06.822Z",
-   "body": [
-    "Our briefing: Manchester City manager embraces response to external criticism while Chelsea captain could be out until new year Continue reading...",
-    "Manchester City manager embraces response to external criticism while Chelsea captain could be out until new year Continue reading...",
-    "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Health_Report-_Soccer_Concussions.webm/500px--Health_Report-_Soccer_Concussions.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo"
-  },
-  {
-   "id": "guardian-florian-wirtz-mystery-why-has-he-not-found-lever",
-   "slug": "the-florian-wirtz-mystery-why-has-he-not-found-leverkusen-fo-lever",
-   "title": "The Florian Wirtz mystery: why has he not found Leverkusen form at Liverpool?",
-   "dek": "Two of our writers pick over the German’s contribution to Liverpool and what the £116m forward could yet produce Some criticism has been OTT and a fee rising to £116m…",
-   "description": "Two of our writers pick over the German’s contribution to Liverpool and what the £116m forward could yet produce Some criticism has been OTT and a fee rising to £116m heightens demands but, yes, compared with his performances in Germany and for Germany Wirtz has underwhelmed at Liverpool. The past week has encapsulated his Liverpool career so far. In the Champions League rout of Lask he was everywhere, exploiting gaps between and behind the Austrian club’s defence and knitting together a dominant display against limited opposition. In the previous game against Manchester City , however, when Andoni Iraola needed big players to step up in the absence of Alexander Isak, Cody Gakpo and Dominik Szoboszlai, Wirtz was ineffective, wasteful and withdrawn when his team were chasing the game at 0-1. It also did not help his cause that Rayan Cherki, a cheaper alternative whom Liverpool considered and passed on, completed City’s victory with a sublime goal. AH Continue reading...",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-10-16T16:40:30.000Z",
-   "fetched_at": "2026-10-17T16:35:14.713Z",
-   "body": [
-    "Our briefing: Two of our writers pick over the German’s contribution to Liverpool and what the £116m forward could yet produce Some criticism has been OTT and a fee rising to £116m…",
-    "Two of our writers pick over the German’s contribution to Liverpool and what the £116m forward could yet produce Some criticism has been OTT and a fee rising to £116m heightens demands but, yes, compared with his performances in Germany and for Germany Wirtz has underwhelmed at Liverpool. The past week has encapsulated his Liverpool career so far. In the Champions League rout of Lask he was everywhere, exploiting gaps between and behind the Austrian club’s defence and knitting together a dominant display against limited opposition.",
-    "In the previous game against Manchester City , however, when Andoni Iraola needed big players to step up in the absence of Alexander Isak, Cody Gakpo and Dominik Szoboszlai, Wirtz was ineffective, wasteful and withdrawn when his team were chasing the game at 0-1. It also did not help his cause that Rayan Cherki, a cheaper alternative whom Liverpool considered and passed on, completed City’s victory with a sublime goal. AH Continue reading...",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Liverpool_players_before_match_vs_Rabotnicki.jpg/960px-Liverpool_players_before_match_vs_Rabotnicki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kevin Walsh — CC BY 2.0"
-  },
-  {
-   "id": "bbc-do-manchester-city-have-any-grounds-win-their-ap",
-   "slug": "do-manchester-city-have-any-grounds-to-win-their-appeal-ir-ap",
-   "title": "Do Manchester City have any grounds to win their appeal?",
-   "dek": "Manchester City face \"substantial hurdles\" to overcome if they are to have any chance of winning their appeal after being found guilty of breaking the Premier League's…",
-   "description": "Manchester City face \"substantial hurdles\" to overcome if they are to have any chance of winning their appeal after being found guilty of breaking the Premier League's financial rules, a leading lawyer has told BBC Sport.",
-   "category": "News",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-16T16:17:01.000Z",
-   "fetched_at": "2026-10-17T16:35:14.612Z",
-   "body": [
-    "Our briefing: Manchester City face \"substantial hurdles\" to overcome if they are to have any chance of winning their appeal after being found guilty of breaking the Premier League's…",
-    "Manchester City face \"substantial hurdles\" to overcome if they are to have any chance of winning their appeal after being found guilty of breaking the Premier League's financial rules, a leading lawyer has told BBC Sport.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/CPSL_2005_semifinals_-_Esther_Shiner_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "imageCredit": "Robin Glover — CC BY 4.0"
-  },
-  {
-   "id": "bbc-feel-good-koumas-story-something-liverpool-smile",
-   "slug": "feel-good-koumas-story-something-for-liverpool-to-smile-abou-smile",
-   "title": "Feel-good Koumas story something for Liverpool to smile about",
-   "dek": "Lewis Koumas on breaking Steven Gerrard's record, seizing his opportunity under Andoni Iraola, and why he couldn't sleep after playing Manchester City.",
-   "description": "Lewis Koumas on breaking Steven Gerrard's record, seizing his opportunity under Andoni Iraola, and why he couldn't sleep after playing Manchester City.",
-   "category": "Tactics & Analysis",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-16T16:06:37.000Z",
-   "fetched_at": "2026-10-17T16:35:14.613Z",
-   "body": [
-    "Our briefing: Lewis Koumas on breaking Steven Gerrard's record, seizing his opportunity under Andoni Iraola, and why he couldn't sleep after playing Manchester City.",
-    "Lewis Koumas on breaking Steven Gerrard's record, seizing his opportunity under Andoni Iraola, and why he couldn't sleep after playing Manchester City.",
-    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/The_Kop_at_Anfield_Stadium%2C_Liverpool_-_geograph.org.uk_-_5885064.jpg/960px-The_Kop_at_Anfield_Stadium%2C_Liverpool_-_geograph.org.uk_-_5885064.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Mike Pennington — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-our-roots-are-man-utd-but-fc-united-ethos-more-i",
-   "slug": "our-roots-are-man-utd-but-fc-united-ethos-more-important-tha-ore-i",
-   "title": "'Our roots are Man Utd' - but FC United ethos 'more important than ever'",
-   "dek": "FC United are hoping for FA Cup success, 21 years after being formed as a supporter-owned club following the Glazer family takeover of Manchester United.",
-   "description": "FC United are hoping for FA Cup success, 21 years after being formed as a supporter-owned club following the Glazer family takeover of Manchester United.",
-   "category": "News",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-16T16:01:49.000Z",
-   "fetched_at": "2026-10-17T16:35:14.613Z",
-   "body": [
-    "Our briefing: FC United are hoping for FA Cup success, 21 years after being formed as a supporter-owned club following the Glazer family takeover of Manchester United.",
-    "FC United are hoping for FA Cup success, 21 years after being formed as a supporter-owned club following the Glazer family takeover of Manchester United.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Manchester_United_Old_Trafford_%28cropped%29.jpg/960px-Manchester_United_Old_Trafford_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
   }
  ]
 }
