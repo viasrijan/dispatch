@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-18T21:17:49.967Z",
- "updated_utc": "2026-10-18T21:17Z",
- "cycle": 29872637,
+ "generated_at": "2026-10-18T23:31:37.801Z",
+ "updated_utc": "2026-10-18T23:31Z",
+ "cycle": 29872771,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,8 +16,91 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "independent-man-city-continue-perfect-start-wsl-defence-laur",
+ "hero_id": "bbc-football-daily",
  "articles": [
+  {
+   "id": "bbc-why-not-are-breathtaking-brighton-title-race",
+   "slug": "why-not-are-breathtaking-brighton-in-title-race--race",
+   "title": "'Why not?' - are 'breathtaking' Brighton in title race?",
+   "dek": "Match of the Day pundits Shay Given and Dion Dublin analyse Brighton's emphatic 5-0 victory over Crystal Palace, with Dublin saying the Seagulls could be in the title…",
+   "description": "Match of the Day pundits Shay Given and Dion Dublin analyse Brighton's emphatic 5-0 victory over Crystal Palace, with Dublin saying the Seagulls could be in the title race.",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-18T22:59:46.000Z",
+   "fetched_at": "2026-10-18T23:31:26.933Z",
+   "body": [
+    "Our briefing: Match of the Day pundits Shay Given and Dion Dublin analyse Brighton's emphatic 5-0 victory over Crystal Palace, with Dublin saying the Seagulls could be in the title…",
+    "Match of the Day pundits Shay Given and Dion Dublin analyse Brighton's emphatic 5-0 victory over Crystal Palace, with Dublin saying the Seagulls could be in the title race.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Fulham_vs_Brighton_%26_Hove_Albion_24012026_%283%29.jpg/960px-Fulham_vs_Brighton_%26_Hove_Albion_24012026_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
+   "id": "bbc-football-daily",
+   "slug": "daily-daily",
+   "title": "Daily",
+   "dek": "Paul Robinson joins to discuss Brighton and Lloyd making history, and Leeds v Man United.",
+   "description": "Paul Robinson joins to discuss Brighton and Lloyd making history, and Leeds v Man United.",
+   "category": "Transfers & Rumours",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-18T22:26:00.000Z",
+   "fetched_at": "2026-10-18T23:31:26.933Z",
+   "body": [
+    "Our briefing: Paul Robinson joins to discuss Brighton and Lloyd making history, and Leeds v Man United.",
+    "Paul Robinson joins to discuss Brighton and Lloyd making history, and Leeds v Man United.",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
+  },
+  {
+   "id": "independent-de-zerbi-reveals-ban-latest-bid-lift-spurs-spiri",
+   "slug": "de-zerbi-reveals-ban-in-latest-bid-to-lift-spurs-spirit-you--spiri",
+   "title": "De Zerbi reveals ban in latest bid to lift Spurs spirit: 'You try to find all solutions'",
+   "dek": "Fit-again Dejan Kulusevski was part of the Tottenham squad in Spain along with James Maddison",
+   "description": "Fit-again Dejan Kulusevski was part of the Tottenham squad in Spain along with James Maddison",
+   "category": "News",
+   "league": "Football",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-10-18T21:45:16.000Z",
+   "fetched_at": "2026-10-18T23:31:27.379Z",
+   "body": [
+    "Our briefing: Fit-again Dejan Kulusevski was part of the Tottenham squad in Spain along with James Maddison",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "John Shorten — CC BY 4.0"
+  },
+  {
+   "id": "bbc-mbappe-scores-twice-real-madrid-beat-sevilla",
+   "slug": "mbappe-scores-twice-as-real-madrid-beat-sevilla-villa",
+   "title": "Mbappe scores twice as Real Madrid beat Sevilla",
+   "dek": "Kylian Mbappe scores twice as Real Madrid beat Sevilla 4-1 in La Liga to close the gap on Barcelona to six points ahead of next weekend's El Clasico.",
+   "description": "Kylian Mbappe scores twice as Real Madrid beat Sevilla 4-1 in La Liga to close the gap on Barcelona to six points ahead of next weekend's El Clasico.",
+   "category": "Match Reports",
+   "league": "La Liga",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-18T21:39:04.000Z",
+   "fetched_at": "2026-10-18T23:31:26.933Z",
+   "body": [
+    "Our briefing: Kylian Mbappe scores twice as Real Madrid beat Sevilla 4-1 in La Liga to close the gap on Barcelona to six points ahead of next weekend's El Clasico.",
+    "Kylian Mbappe scores twice as Real Madrid beat Sevilla 4-1 in La Liga to close the gap on Barcelona to six points ahead of next weekend's El Clasico.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Match_Basketball_ASVEL_x_Real_Madrid_LDLC_Arena_-_D%C3%A9cines-Charpieu_%28FR69%29_-_2023-12-28_-_17.jpg/960px-Match_Basketball_ASVEL_x_Real_Madrid_LDLC_Arena_-_D%C3%A9cines-Charpieu_%28FR69%29_-_2023-12-28_-_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Chabe01 — CC BY-SA 4.0"
+  },
   {
    "id": "bbc-four-points-nothing-o-neill-stays-cool-after-sta",
    "slug": "four-points-is-nothing-o-neill-stays-cool-after-statement-wi-r-sta",
@@ -29,15 +112,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-18T20:50:09.000Z",
-   "fetched_at": "2026-10-18T21:17:38.051Z",
+   "fetched_at": "2026-10-18T23:31:26.933Z",
    "body": [
     "Our briefing: Amid supporter discontent, a recent protest against the major shareholder and a veteran manager deciding now is not the time to \"wrap things up\", as Martin O'Neill put…",
     "Amid supporter discontent, a recent protest against the major shareholder and a veteran manager deciding now is not the time to \"wrap things up\", as Martin O'Neill put it, you'd be forgiven for scratching your head when examining Celtic's current domestic situation.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "John Shorten — CC BY 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
   },
   {
    "id": "bbc-ramos-could-make-la-liga-return-monday-s-gossip",
@@ -50,31 +133,31 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-18T20:21:54.000Z",
-   "fetched_at": "2026-10-18T21:17:38.051Z",
+   "fetched_at": "2026-10-18T23:31:26.933Z",
    "body": [
     "Our briefing: Sergio Ramos could make a surprise return to football in Madrid, Bournemouth put a high price on Alex Scott, and Florian Wirtz is staying at Liverpool.",
     "Sergio Ramos could make a surprise return to football in Madrid, Bournemouth put a high price on Alex Scott, and Florian Wirtz is staying at Liverpool.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "guardian-elite-level-incompetence-manchester-united-s-pro",
    "slug": "elite-level-incompetence-is-manchester-united-s-problem-not--s-pro",
    "title": "Elite-level incompetence is Manchester United’s problem – not Michael Carrick | Barney Ronay",
    "dek": "Getting rid of head coach is not going to solve the problems that led to his appointment. Perhaps it’s worth, for once, doing something different At the final whistle at…",
-   "description": "Getting rid of head coach is not going to solve the problems that led to his appointment. Perhaps it’s worth, for once, doing something different At the final whistle at Elland Road the TV cameras cut to a lingering shot of Manchester United chief executive Omar Berrada, looking down pensively from the stands, deciding, it is to be hoped, on a little clemency, a re-sheathing of the managerial shotgun. Here we have the man who hired the man. The man who fires the man. The man who also hired or rehired the previous two men he had to fire. Berrada was poached from Manchester City on the basis of his ability to grow commercial revenue (yes, OK, stop laughing), and appears, like everyone else with any actual reach around here, to exist in a strangely consequence-free bubble. Continue reading...",
+   "description": "Getting rid of head coach is not going to solve the problems that led to his appointment. Perhaps it’s worth, for once, doing something different At the final whistle at Elland Road the TV cameras cut to a lingering shot of Manchester United chief executive, Omar Berrada, looking down pensively from the stands, deciding, it is to be hoped, on a little clemency, a re-sheathing of the managerial shotgun. Here we have the man who hired the man. The man who fires the man. The man who also hired or rehired the previous two men he had to fire. Berrada was poached from Manchester City on the basis of his ability to grow commercial revenue (yes, OK, stop laughing), and appears, like everyone else with any actual reach around here, to exist in a strangely consequence-free bubble. Continue reading...",
    "category": "News",
    "league": "Premier League",
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-18T19:56:30.000Z",
-   "fetched_at": "2026-10-18T21:17:38.124Z",
+   "fetched_at": "2026-10-18T23:31:27.208Z",
    "body": [
     "Our briefing: Getting rid of head coach is not going to solve the problems that led to his appointment. Perhaps it’s worth, for once, doing something different At the final whistle at…",
-    "Getting rid of head coach is not going to solve the problems that led to his appointment. Perhaps it’s worth, for once, doing something different At the final whistle at Elland Road the TV cameras cut to a lingering shot of Manchester United chief executive Omar Berrada, looking down pensively from the stands, deciding, it is to be hoped, on a little clemency, a re-sheathing of the managerial shotgun. Here we have the man who hired the man.",
+    "Getting rid of head coach is not going to solve the problems that led to his appointment. Perhaps it’s worth, for once, doing something different At the final whistle at Elland Road the TV cameras cut to a lingering shot of Manchester United chief executive, Omar Berrada, looking down pensively from the stands, deciding, it is to be hoped, on a little clemency, a re-sheathing of the managerial shotgun. Here we have the man who hired the man.",
     "The man who fires the man. The man who also hired or rehired the previous two men he had to fire. Berrada was poached from Manchester City on the basis of his ability to grow commercial revenue (yes, OK, stop laughing), and appears, like everyone else with any actual reach around here, to exist in a strangely consequence-free bubble.",
     "Continue reading...",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -94,7 +177,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-18T19:55:41.000Z",
-   "fetched_at": "2026-10-18T21:17:38.050Z",
+   "fetched_at": "2026-10-18T23:31:26.932Z",
    "body": [
     "Our briefing: Noni Madueke may not have the role he wants at Arsenal but his winning goal against Nottingham Forest showed why he is one of Mikel Arteta's valued players.",
     "Noni Madueke may not have the role he wants at Arsenal but his winning goal against Nottingham Forest showed why he is one of Mikel Arteta's valued players.",
@@ -115,7 +198,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-18T19:51:22.000Z",
-   "fetched_at": "2026-10-18T21:17:38.051Z",
+   "fetched_at": "2026-10-18T23:31:26.932Z",
    "body": [
     "Our briefing: Crystal Palace manage Pierre Sage says he feels \"shame\" at the Eagles' performance during their 5-0 thrashing by Brighton and does not know if he will be given time to…",
     "Crystal Palace manage Pierre Sage says he feels \"shame\" at the Eagles' performance during their 5-0 thrashing by Brighton and does not know if he will be given time to save his job.",
@@ -136,14 +219,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-18T19:46:42.000Z",
-   "fetched_at": "2026-10-18T21:17:38.287Z",
+   "fetched_at": "2026-10-18T23:31:27.379Z",
    "body": [
     "Our briefing: England star James fired a brace versus Spurs as Chelsea kept up their chase of dominant league leaders City, who almost let a three-goal lead slip versus Brighton",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Stadium_Street%2C_Chelsea_-_geograph.org.uk_-_4585241.jpg/960px-Stadium_Street%2C_Chelsea_-_geograph.org.uk_-_4585241.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Chris Whippet — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Inside_Stamford_Bridge_Stadium_-_Chelsea_v_Peterborough_-_geograph.org.uk_-_5253336.jpg/960px-Inside_Stamford_Bridge_Stadium_-_Chelsea_v_Peterborough_-_geograph.org.uk_-_5253336.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Richard Humphrey — CC BY-SA 2.0"
   },
   {
    "id": "independent-absurd-part-this-arsenal-team-that-can-help-cham",
@@ -156,7 +239,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-18T19:25:57.000Z",
-   "fetched_at": "2026-10-18T21:17:38.287Z",
+   "fetched_at": "2026-10-18T23:31:27.379Z",
    "body": [
     "Our briefing: Nottingham Forest 0-1 Arsenal: Noni Madueke came off the bench to earn the Gunners a third successive win",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -176,7 +259,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-18T19:20:38.000Z",
-   "fetched_at": "2026-10-18T21:17:38.125Z",
+   "fetched_at": "2026-10-18T23:31:27.209Z",
    "body": [
     "Our briefing: Champions so risk-averse Forest were lured into thinking they had a chance, until bench was used to see them off Pass. Pass. Pass. Pass. Sideways. Square. Backwards.…",
     "Champions so risk-averse Forest were lured into thinking they had a chance, until bench was used to see them off Pass. Pass. Pass.",
@@ -202,14 +285,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-18T18:59:15.000Z",
-   "fetched_at": "2026-10-18T21:17:38.050Z",
+   "fetched_at": "2026-10-18T23:31:26.933Z",
    "body": [
     "Our briefing: Bournemouth beat Sunderland 2-0 at the Vitality Stadium to pick up their first league victory of the season and move out of the relegation zone.",
     "Bournemouth beat Sunderland 2-0 at the Vitality Stadium to pick up their first league victory of the season and move out of the relegation zone.",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/AFC_Bournemouth_Free-Kick_09052026_%281%29.jpg/960px-AFC_Bournemouth_Free-Kick_09052026_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Fulham_v_AFC_Bournemouth_09052026_%282%29.jpg/960px-Fulham_v_AFC_Bournemouth_09052026_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
   },
   {
@@ -223,7 +306,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-18T18:59:10.000Z",
-   "fetched_at": "2026-10-18T21:17:38.050Z",
+   "fetched_at": "2026-10-18T23:31:26.933Z",
    "body": [
     "Our briefing: Dominic Calvert-Lewin earns a point for Leeds and extends Manchester United's winless run to six games.",
     "Dominic Calvert-Lewin earns a point for Leeds and extends Manchester United's winless run to six games.",
@@ -244,7 +327,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-18T18:59:06.000Z",
-   "fetched_at": "2026-10-18T21:17:38.050Z",
+   "fetched_at": "2026-10-18T23:31:26.933Z",
    "body": [
     "Our briefing: Noni Madueke comes of the bench to score the winning goal as Arsenal beat Nottingham Forest 1-0 at The City Ground.",
     "Noni Madueke comes of the bench to score the winning goal as Arsenal beat Nottingham Forest 1-0 at The City Ground.",
@@ -265,14 +348,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-18T18:59:02.000Z",
-   "fetched_at": "2026-10-18T21:17:38.050Z",
+   "fetched_at": "2026-10-18T23:31:26.933Z",
    "body": [
     "Our briefing: Diego Gomez scores a sensational goal from the halfway line as Brighton hammer rivals Crystal Palace.",
     "Diego Gomez scores a sensational goal from the halfway line as Brighton hammer rivals Crystal Palace.",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Fulham_vs_Brighton_%26_Hove_Albion_24012026_%283%29.jpg/960px-Fulham_vs_Brighton_%26_Hove_Albion_24012026_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Fulham_vs_Brighton_%26_Hove_Albion_24012026_%282%29.jpg/960px-Fulham_vs_Brighton_%26_Hove_Albion_24012026_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
   },
   {
@@ -286,7 +369,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-18T18:49:00.000Z",
-   "fetched_at": "2026-10-18T21:17:38.051Z",
+   "fetched_at": "2026-10-18T23:31:26.932Z",
    "body": [
     "Our briefing: Sunderland defender Nordi Mukiele suggested the Black Cats may have become \"arrogant\" as last season's surprise package stutter in the Premier League this term.",
     "Sunderland defender Nordi Mukiele suggested the Black Cats may have become \"arrogant\" as last season's surprise package stutter in the Premier League this term.",
@@ -329,14 +412,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-18T18:33:29.000Z",
-   "fetched_at": "2026-10-18T21:17:38.051Z",
+   "fetched_at": "2026-10-18T23:31:26.932Z",
    "body": [
     "Our briefing: With 23 goals in seven Premier League matches, including some stunning strikes, Brighton continue to delight their fans and get them dreaming of what might be.",
     "With 23 goals in seven Premier League matches, including some stunning strikes, Brighton continue to delight their fans and get them dreaming of what might be.",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Fulham_vs_Brighton_%26_Hove_Albion_24012026_%282%29.jpg/960px-Fulham_vs_Brighton_%26_Hove_Albion_24012026_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Fulham_vs_Brighton_%26_Hove_Albion_24012026_%284%29.jpg/960px-Fulham_vs_Brighton_%26_Hove_Albion_24012026_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
   },
   {
@@ -350,7 +433,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-18T18:31:09.000Z",
-   "fetched_at": "2026-10-18T21:17:38.051Z",
+   "fetched_at": "2026-10-18T23:31:26.934Z",
    "body": [
     "Our briefing: Arsenal manager Mikel Arteta says their substitutes changed the game as they beat Nottingham Forest 1-0 in the Premier League.",
     "Arsenal manager Mikel Arteta says their substitutes changed the game as they beat Nottingham Forest 1-0 in the Premier League.",
@@ -371,7 +454,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-18T18:22:50.000Z",
-   "fetched_at": "2026-10-18T21:17:38.050Z",
+   "fetched_at": "2026-10-18T23:31:26.932Z",
    "body": [
     "Our briefing: Hearts thought attack was the best form of defence at Celtic Park. They were badly wrong, writes Tom English.",
     "Hearts thought attack was the best form of defence at Celtic Park. They were badly wrong, writes Tom English.",
@@ -392,7 +475,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-18T18:09:13.000Z",
-   "fetched_at": "2026-10-18T21:17:38.051Z",
+   "fetched_at": "2026-10-18T23:31:26.933Z",
    "body": [
     "Our briefing: After Diego Gomez's halfway-line stunner for Brighton on Sunday, BBC Sport looks at the previous longest-range Premier League goals as recorded by Opta in the last 20…",
     "After Diego Gomez's halfway-line stunner for Brighton on Sunday, BBC Sport looks at the previous longest-range Premier League goals as recorded by Opta in the last 20 seasons.",
@@ -413,7 +496,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-18T17:39:57.000Z",
-   "fetched_at": "2026-10-18T21:17:38.124Z",
+   "fetched_at": "2026-10-18T23:31:27.208Z",
    "body": [
     "Our briefing: The theme before kick-off was blanks. Or, more precisely, whether either team could stop firing them at the City Ground. It was a detail to make Oliver Glasner extremely…",
     "The theme before kick-off was blanks. Or, more precisely, whether either team could stop firing them at the City Ground. It was a detail to make Oliver Glasner extremely uncomfortable that his Nottingham Forest team had still to score at their own stadium this season.",
@@ -436,7 +519,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-18T17:35:44.000Z",
-   "fetched_at": "2026-10-18T21:17:38.051Z",
+   "fetched_at": "2026-10-18T23:31:26.932Z",
    "body": [
     "Our briefing: Noni Madueke struck late to earn Arsenal a victory at Nottingham Forest. Here's how the players rated.",
     "Noni Madueke struck late to earn Arsenal a victory at Nottingham Forest. Here's how the players rated.",
@@ -457,7 +540,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-18T17:24:45.000Z",
-   "fetched_at": "2026-10-18T21:17:38.050Z",
+   "fetched_at": "2026-10-18T23:31:26.932Z",
    "body": [
     "Our briefing: Michael Carrick said he had his headphones on this week so didn't hear the noise around Manchester United, but a 1-1 draw at Leeds means it is six games without a win.",
     "Michael Carrick said he had his headphones on this week so didn't hear the noise around Manchester United, but a 1-1 draw at Leeds means it is six games without a win.",
@@ -478,7 +561,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-18T17:12:09.000Z",
-   "fetched_at": "2026-10-18T21:17:38.288Z",
+   "fetched_at": "2026-10-18T23:31:27.379Z",
    "body": [
     "Our briefing: Leeds 1-1 Man United: Dominic Calvert-Lewin’s second-half equaliser extended Manchester United’s winless Premier League run to five matches",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -498,14 +581,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-18T17:05:00.000Z",
-   "fetched_at": "2026-10-18T21:17:38.053Z",
+   "fetched_at": "2026-10-18T23:31:26.935Z",
    "body": [
     "Our briefing: After Celtic's 7-1 thrashing of Hearts, we hear from the managers and the Sportsound team",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "independent-harry-maguire-says-manchester-united-lack-braver",
@@ -518,7 +601,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-18T16:53:17.000Z",
-   "fetched_at": "2026-10-18T21:17:38.288Z",
+   "fetched_at": "2026-10-18T23:31:27.379Z",
    "body": [
     "Our briefing: The defender praised tactical tweaks but highlighted one flaw in an improved performance at Elland Road",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -538,7 +621,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-18T16:50:54.000Z",
-   "fetched_at": "2026-10-18T21:17:38.125Z",
+   "fetched_at": "2026-10-18T23:31:27.209Z",
    "body": [
     "Our briefing: Head coach insists ‘we can still have a really good season’ ‘We were the dominant side,’ says Leeds manager Farke After a week in which Michael Carrick had “the…",
     "Head coach insists ‘we can still have a really good season’ ‘We were the dominant side,’ says Leeds manager Farke After a week in which Michael Carrick had “the headphones on” to quieten the noise, the Manchester United head coach claimed his side’s 1-1 draw at Leeds on Sunday “felt like a fresh start” and insisted that the season can still be a good one. Carrick’s team have seven points from seven Premier League games and have won only once in the competition, against Ipswich in August. Sunday’s draw followed the previous weekend’s 1-1 draw with Tottenham .",
@@ -546,8 +629,8 @@
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Rafael_Pereira_da_Silva_disputando_uma_bola_pelo_Manchester_United.jpg/960px-Rafael_Pereira_da_Silva_disputando_uma_bola_pelo_Manchester_United.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Paul — CC BY 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Williams-Brice_Stadium%2C_Manchester_United_v._Liverpool%2C_8-3-2024.jpg/960px-Williams-Brice_Stadium%2C_Manchester_United_v._Liverpool%2C_8-3-2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "PCN02WPS — CC BY-SA 4.0"
   },
   {
    "id": "independent-new-corners-help-bournemouth-hit-new-attendance-",
@@ -560,13 +643,13 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-18T16:30:12.000Z",
-   "fetched_at": "2026-10-18T21:17:38.288Z",
+   "fetched_at": "2026-10-18T23:31:27.379Z",
    "body": [
     "Our briefing: The win came after the first European game at the Vitality Stadium",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Bournemouth_v_West_Ham_2023.jpeg/960px-Bournemouth_v_West_Ham_2023.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Bournemouth_v_West_Ham_2023_line_up.jpeg/960px-Bournemouth_v_West_Ham_2023_line_up.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Egghead06 — CC BY-SA 4.0"
   },
   {
@@ -602,7 +685,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-18T15:46:07.000Z",
-   "fetched_at": "2026-10-18T21:17:38.052Z",
+   "fetched_at": "2026-10-18T23:31:26.934Z",
    "body": [
     "Our briefing: Manchester United manager Michael Carrick says his side showed \"unity\" during their 1-1 draw with Leeds at Elland Road.",
     "Manchester United manager Michael Carrick says his side showed \"unity\" during their 1-1 draw with Leeds at Elland Road.",
@@ -623,7 +706,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-18T15:44:32.000Z",
-   "fetched_at": "2026-10-18T21:17:38.288Z",
+   "fetched_at": "2026-10-18T23:31:27.379Z",
    "body": [
     "Our briefing: The Albion midfielder spectacularly opened his account for the season by pinging the ball over stranded Palace goalkeeper Walter Benitez",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -643,15 +726,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-18T15:41:16.000Z",
-   "fetched_at": "2026-10-18T21:17:38.051Z",
+   "fetched_at": "2026-10-18T23:31:26.933Z",
    "body": [
     "Our briefing: Crystal Palace head coach Pierre Sage says he feels \"shame\" after their 5-0 defeat by Brighton.",
     "Crystal Palace head coach Pierre Sage says he feels \"shame\" after their 5-0 defeat by Brighton.",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
    "id": "guardian-evanilson-swivels-his-hips-seal-bournemouth-win-",
@@ -664,7 +747,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-18T15:19:30.000Z",
-   "fetched_at": "2026-10-18T21:17:38.125Z",
+   "fetched_at": "2026-10-18T23:31:27.208Z",
    "body": [
     "Our briefing: Bournemouth’s, and Marco Rose’s, wait for a Premier League win is over. Sunderland, locked in the bottom three, are becoming this season’s object lesson in travelling too…",
     "Bournemouth’s, and Marco Rose’s, wait for a Premier League win is over. Sunderland, locked in the bottom three, are becoming this season’s object lesson in travelling too far, too fast. Once Kevin Danso was dismissed in the 17th minute for the denial of a goalscoring opportunity, Sunderland were sunk.",
@@ -673,8 +756,8 @@
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Bournemouth_v_West_Ham_2023_line_up.jpeg/960px-Bournemouth_v_West_Ham_2023_line_up.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Egghead06 — CC BY-SA 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Jogadores_do_AFC_Bournemouth_abra%C3%A7ados.jpg/960px-Jogadores_do_AFC_Bournemouth_abra%C3%A7ados.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "AFC Bournemouth — CC BY 4.0"
   },
   {
    "id": "independent-leeds-vs-man-united-live-reaction-premier-league",
@@ -687,7 +770,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-18T15:12:47.000Z",
-   "fetched_at": "2026-10-18T21:17:38.288Z",
+   "fetched_at": "2026-10-18T23:31:27.379Z",
    "body": [
     "Our briefing: Leeds 1-1 Man United: Bryan Mbeumo opened the scoring in the first half with a sliding finish but Dominic Calvert-Lewin equalised for Leeds after the break",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -729,13 +812,13 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-18T15:07:23.000Z",
-   "fetched_at": "2026-10-18T21:17:38.288Z",
+   "fetched_at": "2026-10-18T23:31:27.379Z",
    "body": [
     "Our briefing: Bryan Mbeumo opened the scoring at Elland Road but Michael Carrick’s side could only draw 1-1 with Leeds",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Leeds_United_Players_Training_13092025_%283%29.jpg/960px-Leeds_United_Players_Training_13092025_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Fulham_v_Leeds_United_13092025_%281%29.jpg/960px-Fulham_v_Leeds_United_13092025_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
   },
   {
@@ -749,7 +832,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-18T15:06:49.000Z",
-   "fetched_at": "2026-10-18T21:17:38.124Z",
+   "fetched_at": "2026-10-18T23:31:27.208Z",
    "body": [
     "Our briefing: At last, Fabian Hürzeler has the scalp that matters most to all Brighton fans and in humiliating fashion. Diego Gómez’s breathtaking goal-of-the-season contender from the…",
     "At last, Fabian Hürzeler has the scalp that matters most to all Brighton fans and in humiliating fashion. Diego Gómez’s breathtaking goal-of-the-season contender from the halfway line, à la David Beckham, was the highlight of another hugely impressive performance from the Premier League’s top scorers as they continued their flying start to the season. Not since a 4-1 thrashing here in February 2024 under Roberto De Zerbi had Brighton tasted victory against their arch rivals from up the A23 – a run of four matches.",
@@ -757,8 +840,8 @@
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Fulham_vs_Brighton_%26_Hove_Albion_24012026_%284%29.jpg/960px-Fulham_vs_Brighton_%26_Hove_Albion_24012026_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Jorja_Fox_Brighton_%26_Hove_Albion_Women_v_Manchester_United_Women_01_04_2023-353_%2852787574500%29.jpg/960px-Jorja_Fox_Brighton_%26_Hove_Albion_Women_v_Manchester_United_Women_01_04_2023-353_%2852787574500%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "James Boyes from UK — CC BY 2.0"
   },
   {
    "id": "bbc-everything-struggle-fernandes-leeds-v-man-utd-ra",
@@ -771,7 +854,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-18T14:56:01.000Z",
-   "fetched_at": "2026-10-18T21:17:38.051Z",
+   "fetched_at": "2026-10-18T23:31:26.932Z",
    "body": [
     "Our briefing: Dominic Calvert-Lewin's second-half equaliser means Manchester United have now gone six games without a win for the first time since 2019 - find out who rated highest at…",
     "Dominic Calvert-Lewin's second-half equaliser means Manchester United have now gone six games without a win for the first time since 2019 - find out who rated highest at Elland Road.",
@@ -780,92 +863,6 @@
    ],
    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Manchester_United_Football_Ground_railway_station%2C_Greater_Manchester_-_geograph.org.uk_-_5426319.jpg/960px-Manchester_United_Football_Ground_railway_station%2C_Greater_Manchester_-_geograph.org.uk_-_5426319.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Nigel Thompson — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-what-awaits-everton-hero-ferguson-shock-glens-ro",
-   "slug": "what-awaits-everton-hero-ferguson-in-shock-glens-role-ns-ro",
-   "title": "What awaits Everton hero Ferguson in shock Glens role?",
-   "dek": "The expected appointment of former Scotland striker Duncan Ferguson at Glentoran will be one of the most surprising in Irish Premiership history.",
-   "description": "The expected appointment of former Scotland striker Duncan Ferguson at Glentoran will be one of the most surprising in Irish Premiership history.",
-   "category": "News",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-18T13:36:49.000Z",
-   "fetched_at": "2026-10-18T21:17:38.051Z",
-   "body": [
-    "Our briefing: The expected appointment of former Scotland striker Duncan Ferguson at Glentoran will be one of the most surprising in Irish Premiership history.",
-    "The expected appointment of former Scotland striker Duncan Ferguson at Glentoran will be one of the most surprising in Irish Premiership history.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Victoria_Tower_and_construction_of_the_new_Everton_Stadium_%28geograph_7449307%29.jpg/960px-Victoria_Tower_and_construction_of_the_new_Everton_Stadium_%28geograph_7449307%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "James T M Towill — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-off-ball-take-petty-ill-informed-look-scottish-f",
-   "slug": "off-the-ball-take-petty-ill-informed-look-at-scottish-footba-ish-f",
-   "title": "Off the Ball take petty & ill-informed look at Scottish football",
-   "dek": "The most petty and ill-informed football show on radio.",
-   "description": "The most petty and ill-informed football show on radio.",
-   "category": "Tactics & Analysis",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-18T13:00:00.000Z",
-   "fetched_at": "2026-10-18T12:44:12.728Z",
-   "body": [
-    "Our briefing: The most petty and ill-informed football show on radio.",
-    "The most petty and ill-informed football show on radio.",
-    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
-  },
-  {
-   "id": "guardian-leeds-united-v-manchester-united-premier-league-",
-   "slug": "leeds-united-v-manchester-united-premier-league-live-ague-",
-   "title": "Leeds United v Manchester United: Premier League – live",
-   "dek": "⚽ Updates from the 2pm BST kick-off at Elland Road ⚽ The Joy of Six: Leeds v Manchester United matches ⚽ Scores | Tables | Read Football Daily | Mail Michael Manchester…",
-   "description": "⚽ Updates from the 2pm BST kick-off at Elland Road ⚽ The Joy of Six: Leeds v Manchester United matches ⚽ Scores | Tables | Read Football Daily | Mail Michael Manchester United ran five kilometres less than Tottenham in their 1-1 draw last weekend . This is an interesting read from Opta’s Ryan Benson on if Premier League teams really need to run more to win matches. The answer is not straightforward. It’s also fascinating to see that Leeds’ running stats from last season, only Manchester City covered more distance. Continue reading...",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-10-18T12:26:57.000Z",
-   "fetched_at": "2026-10-18T12:44:12.848Z",
-   "body": [
-    "Our briefing: ⚽ Updates from the 2pm BST kick-off at Elland Road ⚽ The Joy of Six: Leeds v Manchester United matches ⚽ Scores | Tables | Read Football Daily | Mail Michael Manchester…",
-    "⚽ Updates from the 2pm BST kick-off at Elland Road ⚽ The Joy of Six: Leeds v Manchester United matches ⚽ Scores | Tables | Read Football Daily | Mail Michael Manchester United ran five kilometres less than Tottenham in their 1-1 draw last weekend . This is an interesting read from Opta’s Ryan Benson on if Premier League teams really need to run more to win matches. The answer is not straightforward.",
-    "It’s also fascinating to see that Leeds’ running stats from last season, only Manchester City covered more distance. Continue reading...",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Manchester_United_v_Manchester_City%2C_6_November_2021_%2815%29.jpg/960px-Manchester_United_v_Manchester_City%2C_6_November_2021_%2815%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ardfern — CC BY-SA 4.0"
-  },
-  {
-   "id": "guardian-mart-nez-back-few-weeks-after-jaw-surgery-liverp",
-   "slug": "mart-nez-back-in-a-few-weeks-after-jaw-surgery-liverpool-los-iverp",
-   "title": "Martínez back ‘in a few weeks’ after jaw surgery; Liverpool lose Szoboszlai for ‘some time’ – matchday live",
-   "dek": "All the latest on Sunday as there was positive news for Chelsea’s goalkeeper after surgery and bad news for Liverpool In the MLS , Lionel Messi scored twice to help Inter…",
-   "description": "All the latest on Sunday as there was positive news for Chelsea’s goalkeeper after surgery and bad news for Liverpool In the MLS , Lionel Messi scored twice to help Inter Miami to a 3-1 win at Atlanta United. Messi and Luis Suarez had combined to set up the first goal, scored by the Mexico forward Germán Berterame. Messi took matters into his own hands – well, his left foot – after half-time with two beautiful solo goals. European roundup Continue reading...",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-10-18T12:06:17.000Z",
-   "fetched_at": "2026-10-18T21:17:38.125Z",
-   "body": [
-    "Our briefing: All the latest on Sunday as there was positive news for Chelsea’s goalkeeper after surgery and bad news for Liverpool In the MLS , Lionel Messi scored twice to help Inter…",
-    "All the latest on Sunday as there was positive news for Chelsea’s goalkeeper after surgery and bad news for Liverpool In the MLS , Lionel Messi scored twice to help Inter Miami to a 3-1 win at Atlanta United. Messi and Luis Suarez had combined to set up the first goal, scored by the Mexico forward Germán Berterame. Messi took matters into his own hands – well, his left foot – after half-time with two beautiful solo goals.",
-    "European roundup Continue reading...",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Galatasaray_Liverpool_CL_2006.jpg/960px-Galatasaray_Liverpool_CL_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "tekinim — CC BY 2.0"
   }
  ]
 }
