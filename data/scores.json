@@ -1,6 +1,32 @@
 {
- "generated_at": "2026-10-19T21:21:36.045Z",
+ "generated_at": "2026-10-20T00:31:41.038Z",
  "matches": [
+  {
+   "league": "Premier League",
+   "home": "Tottenham Hotspur",
+   "away": "Coventry City",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
+   "homeScore": 3,
+   "awayScore": 1,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-10-19T19:00Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Getafe",
+   "away": "Rayo Vallecano",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png",
+   "homeScore": 1,
+   "awayScore": 1,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-10-19T19:00Z"
+  },
   {
    "league": "Bundesliga",
    "home": "Bayer Leverkusen",
@@ -26,19 +52,6 @@
    "clock": "",
    "time": "FT",
    "date": "2026-10-18T15:30Z"
-  },
-  {
-   "league": "La Liga",
-   "home": "Getafe",
-   "away": "Rayo Vallecano",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png",
-   "homeScore": 1,
-   "awayScore": 1,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-10-19T19:00Z"
   },
   {
    "league": "Ligue 1",
@@ -130,19 +143,6 @@
    "clock": "",
    "time": "FT",
    "date": "2026-10-19T18:45Z"
-  },
-  {
-   "league": "Premier League",
-   "home": "Tottenham Hotspur",
-   "away": "Coventry City",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
-   "homeScore": 3,
-   "awayScore": 1,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-10-19T19:00Z"
   }
  ]
 }
