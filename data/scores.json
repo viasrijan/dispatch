@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T19:52:07.911Z",
+ "generated_at": "2026-10-20T22:57:49.349Z",
  "matches": [
   {
    "league": "La Liga",
@@ -15,19 +15,6 @@
    "date": "2026-10-21T18:00Z"
   },
   {
-   "league": "Premier League",
-   "home": "Ipswich Town",
-   "away": "Nottingham Forest",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, October 23rd at 3:00 PM EDT",
-   "date": "2026-10-23T19:00Z"
-  },
-  {
    "league": "Serie A",
    "home": "Torino",
    "away": "Monza",
@@ -39,6 +26,19 @@
    "clock": "",
    "time": "Fri, October 23rd at 2:45 PM EDT",
    "date": "2026-10-23T18:45Z"
+  },
+  {
+   "league": "Premier League",
+   "home": "Ipswich Town",
+   "away": "Nottingham Forest",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, October 23rd at 3:00 PM EDT",
+   "date": "2026-10-23T19:00Z"
   },
   {
    "league": "Ligue 1",
