@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-20T00:31:41.037Z",
- "updated_utc": "2026-10-20T00:31Z",
- "cycle": 29874271,
+ "generated_at": "2026-10-20T05:42:42.496Z",
+ "updated_utc": "2026-10-20T05:42Z",
+ "cycle": 29874582,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,8 +16,50 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "bbc-maddison-s-magic-moment-spurs-18-months-making",
+ "hero_id": "bbc-who-am-i-plus-today-s-other-quizzes",
  "articles": [
+  {
+   "id": "bbc-who-am-i-plus-today-s-other-quizzes",
+   "slug": "who-am-i-plus-today-s-other-quizzes-izzes",
+   "title": "Who am I? Plus today's other quizzes",
+   "dek": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "description": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-20T05:32:59.000Z",
+   "fetched_at": "2026-10-20T05:42:34.920Z",
+   "body": [
+    "Our briefing: Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+    "Test your football knowledge against today's Who Am I? , Five in Five and Brainteaser.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "John Shorten — CC BY 4.0"
+  },
+  {
+   "id": "guardian-football-australia-chair-anter-isaac-dismisses-r",
+   "slug": "australia-chair-anter-isaac-dismisses-recent-fifa-ructions-a-ses-r",
+   "title": "Australia chair Anter Isaac dismisses recent Fifa ructions as ‘growing pains’",
+   "dek": "Isaac appears to back current direction of world governing body But ‘premature’ to talk about support for Gianni Infantino Football Australia chair Anter Isaac has played…",
+   "description": "Isaac appears to back current direction of world governing body But ‘premature’ to talk about support for Gianni Infantino Football Australia chair Anter Isaac has played down concerns around the controversial World Cup privatisation push engineered by Gianni Infantino ahead of a meeting of Asian confederation officials in Tokyo this week. Isaac’s sentiments come amid a global rebound in support for the embattled Fifa president, who at one stage appeared unlikely to be able to continue in his role following criticism led by officials in Europe and North America . Continue reading...",
+   "category": "Previews",
+   "league": "Football",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-10-20T04:40:49.000Z",
+   "fetched_at": "2026-10-20T05:42:34.967Z",
+   "body": [
+    "Our briefing: Isaac appears to back current direction of world governing body But ‘premature’ to talk about support for Gianni Infantino Football Australia chair Anter Isaac has played…",
+    "Isaac appears to back current direction of world governing body But ‘premature’ to talk about support for Gianni Infantino Football Australia chair Anter Isaac has played down concerns around the controversial World Cup privatisation push engineered by Gianni Infantino ahead of a meeting of Asian confederation officials in Tokyo this week. Isaac’s sentiments come amid a global rebound in support for the embattled Fifa president, who at one stage appeared unlikely to be able to continue in his role following criticism led by officials in Europe and North America . Continue reading...",
+    "Team news can change right up to kick-off. Bookmark this story for the final line-ups and confirmed sides.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/20180602_FIFA_Friendly_Match_Austria_vs._Germany_Team_Germany_850_0740.jpg/960px-20180602_FIFA_Friendly_Match_Austria_vs._Germany_Team_Germany_850_0740.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Granada — CC BY-SA 4.0"
+  },
   {
    "id": "bbc-who-has-made-troy-s-premier-league-team-week",
    "slug": "who-has-made-troy-s-premier-league-team-of-the-week--week",
@@ -29,15 +71,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-19T23:22:24.000Z",
-   "fetched_at": "2026-10-20T00:31:32.654Z",
+   "fetched_at": "2026-10-20T05:42:34.920Z",
    "body": [
     "Our briefing: After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
     "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "John Shorten — CC BY 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
   },
   {
    "id": "bbc-maddison-s-magic-moment-spurs-18-months-making",
@@ -50,7 +92,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-19T22:35:55.000Z",
-   "fetched_at": "2026-10-20T00:31:32.654Z",
+   "fetched_at": "2026-10-20T05:42:34.919Z",
    "body": [
     "Our briefing: On his first start since May 2025, James Maddison provided the moment of magic Tottenham were waiting for in their 3-1 victory against Coventry, writes Phil McNulty.",
     "On his first start since May 2025, James Maddison provided the moment of magic Tottenham were waiting for in their 3-1 victory against Coventry, writes Phil McNulty.",
@@ -71,7 +113,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-19T22:01:39.000Z",
-   "fetched_at": "2026-10-20T00:31:32.654Z",
+   "fetched_at": "2026-10-20T05:42:34.920Z",
    "body": [
     "Our briefing: Liverpool and Manchester United are interested in Borussia Dortmund midfielder Felix Nmecha, plus the rest of Tuesday's gossip.",
     "Liverpool and Manchester United are interested in Borussia Dortmund midfielder Felix Nmecha, plus the rest of Tuesday's gossip.",
@@ -92,7 +134,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-19T21:59:30.000Z",
-   "fetched_at": "2026-10-20T00:31:32.655Z",
+   "fetched_at": "2026-10-20T05:42:34.921Z",
    "body": [
     "Our briefing: Tottenham Hotspur head coach Roberto de Zerbi hails the spirit and attitude of his side following their first Premier League win of the season, as they beat Coventry…",
     "Tottenham Hotspur head coach Roberto de Zerbi hails the spirit and attitude of his side following their first Premier League win of the season, as they beat Coventry City.",
@@ -113,7 +155,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-19T21:41:21.000Z",
-   "fetched_at": "2026-10-20T00:31:32.655Z",
+   "fetched_at": "2026-10-20T05:42:34.921Z",
    "body": [
     "Our briefing: Coventry City manager Frank Lampard says he is proud of his side's performance, despite losing at struggling Tottenham Hotspur in the Premier League.",
     "Coventry City manager Frank Lampard says he is proud of his side's performance, despite losing at struggling Tottenham Hotspur in the Premier League.",
@@ -134,15 +176,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-19T21:34:06.000Z",
-   "fetched_at": "2026-10-20T00:31:32.654Z",
+   "fetched_at": "2026-10-20T05:42:34.920Z",
    "body": [
     "Our briefing: Cristiano Ronaldo is given a 30-day suspension by the Portuguese Football Federation after leaving his country's international camp last month.",
     "Cristiano Ronaldo is given a 30-day suspension by the Portuguese Football Federation after leaving his country's international camp last month.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "bbc-spurs-beat-coventry-earn-first-league-win-season",
@@ -155,7 +197,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-19T21:33:07.000Z",
-   "fetched_at": "2026-10-20T00:31:32.654Z",
+   "fetched_at": "2026-10-20T05:42:34.920Z",
    "body": [
     "Our briefing: Tottenham Hotspur record their first Premier League win of the season and move off the bottom of the table with a home victory over Coventry City.",
     "Tottenham Hotspur record their first Premier League win of the season and move off the bottom of the table with a home victory over Coventry City.",
@@ -176,7 +218,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-19T21:14:00.000Z",
-   "fetched_at": "2026-10-20T00:31:32.655Z",
+   "fetched_at": "2026-10-20T05:42:34.921Z",
    "body": [
     "Our briefing: Is Sage to blame for Palace's thrashing? Why can't Forest score? And North-East troubles!",
     "Is Sage to blame for Palace's thrashing? Why can't Forest score? And North-East troubles!",
@@ -197,7 +239,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-19T21:05:46.000Z",
-   "fetched_at": "2026-10-20T00:31:32.717Z",
+   "fetched_at": "2026-10-20T05:42:34.967Z",
    "body": [
     "Our briefing: Tottenham are level with Beyoncé at last. Progress is represented in Roberto De Zerbi’s side earning only their sixth home win in the Premier League since November 2024.…",
     "Tottenham are level with Beyoncé at last. Progress is represented in Roberto De Zerbi’s side earning only their sixth home win in the Premier League since November 2024. Cynics will point out that this spectacular stadium has hosted as many Beyoncé gigs during that time, but Spurs are finally singing a happier tune after dragging themselves out of the bottom three thanks to a messy but gritty 3-1 win over Coventry.",
@@ -206,8 +248,8 @@
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "YHC — CC BY-SA 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
   },
   {
    "id": "bbc-maddison-shines-return-tottenham-v-coventry-rati",
@@ -220,7 +262,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-19T21:05:28.000Z",
-   "fetched_at": "2026-10-20T00:31:32.654Z",
+   "fetched_at": "2026-10-20T05:42:34.920Z",
    "body": [
     "Our briefing: How Spurs and Coventry City's players rated following their Premier League match.",
     "How Spurs and Coventry City's players rated following their Premier League match.",
@@ -263,7 +305,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-19T20:34:05.000Z",
-   "fetched_at": "2026-10-20T00:31:32.717Z",
+   "fetched_at": "2026-10-20T05:42:34.967Z",
    "body": [
     "Our briefing: Disciplinary council upholds charge against 41-year-old Fifa suspends Egypt’s Hossam Hassan and Mostafa Ziko Cristiano Ronaldo has been suspended for 30 days by the…",
     "Disciplinary council upholds charge against 41-year-old Fifa suspends Egypt’s Hossam Hassan and Mostafa Ziko Cristiano Ronaldo has been suspended for 30 days by the Portuguese ⁠FA after leaving the national team camp following a rift with the coach, ⁠Jorge Jesus, over ⁠his role in the side. The federation’s disciplinary council said it had upheld the charge against ⁠the 41-year-old forward in full and imposed a fine of €255 (£215). Ronaldo left Portugal’s base in ⁠Copenhagen before their Nations League match against Denmark this month, having accused ‌Jesus of twice ‌breaking his word about his role after he was an ‌unused substitute against Norway.",
@@ -271,7 +313,7 @@
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -285,15 +327,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-19T20:15:48.000Z",
-   "fetched_at": "2026-10-20T00:31:32.654Z",
+   "fetched_at": "2026-10-20T05:42:34.920Z",
    "body": [
     "Our briefing: England head coach Sarina Wiegman has changed women's football in the country, so what does she face after signing a contract extension?",
     "England head coach Sarina Wiegman has changed women's football in the country, so what does she face after signing a contract extension?",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "YHC — CC BY-SA 4.0"
   },
   {
    "id": "independent-cristiano-ronaldo-suspended-issued-215-fine-walk",
@@ -306,13 +348,13 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-19T19:41:52.000Z",
-   "fetched_at": "2026-10-20T00:31:32.874Z",
+   "fetched_at": "2026-10-20T05:42:35.122Z",
    "body": [
     "Our briefing: The 41-year-old learned his punishment from the Portuguese FA on Monday",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -326,7 +368,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-19T19:32:56.000Z",
-   "fetched_at": "2026-10-20T00:31:32.654Z",
+   "fetched_at": "2026-10-20T05:42:34.920Z",
    "body": [
     "Our briefing: Crystal Palace boss Pierre Sage faces a fight to keep his job, but will be given more time.",
     "Crystal Palace boss Pierre Sage faces a fight to keep his job, but will be given more time.",
@@ -347,14 +389,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-19T19:10:00.000Z",
-   "fetched_at": "2026-10-20T00:31:32.874Z",
+   "fetched_at": "2026-10-20T05:42:35.122Z",
    "body": [
     "Our briefing: Infantino is facing intense scrutiny ahead of March’s Fifa presidency election",
     "Team news can change right up to kick-off. Bookmark this story for the final line-ups and confirmed sides.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/20180602_FIFA_Friendly_Match_Austria_vs._Germany_Team_Germany_850_0740.jpg/960px-20180602_FIFA_Friendly_Match_Austria_vs._Germany_Team_Germany_850_0740.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Granada — CC BY-SA 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/U.S._soccer_team%2C_1916.jpg/960px-U.S._soccer_team%2C_1916.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "independent-how-brexit-circumstance-set-up-special-game-ando",
@@ -367,7 +409,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-19T18:25:07.000Z",
-   "fetched_at": "2026-10-20T00:31:32.874Z",
+   "fetched_at": "2026-10-20T05:42:35.122Z",
    "body": [
     "Our briefing: Inigo Perez previously worked with the Liverpool boss but was denied a working visa in England and will now take on his fellow Spaniard in the Champions League as…",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
@@ -387,7 +429,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-19T18:20:50.000Z",
-   "fetched_at": "2026-10-20T00:31:32.874Z",
+   "fetched_at": "2026-10-20T05:42:35.122Z",
    "body": [
     "Our briefing: Former FA Cup winners Leicester City and Wigan Athletic discovered their opponents for the first round",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -407,15 +449,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-19T18:20:39.000Z",
-   "fetched_at": "2026-10-20T00:31:32.654Z",
+   "fetched_at": "2026-10-20T05:42:34.920Z",
    "body": [
     "Our briefing: Uefa's letter contained 42 questions, covering Fifa's failed private investment proposals, its Peace Prize and the fallout from Folarin Balogun's World Cup red card.",
     "Uefa's letter contained 42 questions, covering Fifa's failed private investment proposals, its Peace Prize and the fallout from Folarin Balogun's World Cup red card.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Kashima_Soccer_Stadium_6.jpg/960px-Kashima_Soccer_Stadium_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   },
   {
    "id": "bbc-leicester-visit-oxford-city-fa-cup-first-round-f",
@@ -428,7 +470,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-19T18:13:52.000Z",
-   "fetched_at": "2026-10-20T00:31:32.654Z",
+   "fetched_at": "2026-10-20T05:42:34.920Z",
    "body": [
     "Our briefing: Leicester City will travel to National League North side Oxford City in the 2026-27 FA Cup first round - five years after winning the competition.",
     "Leicester City will travel to National League North side Oxford City in the 2026-27 FA Cup first round - five years after winning the competition.",
@@ -449,7 +491,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-19T17:54:55.000Z",
-   "fetched_at": "2026-10-20T00:31:32.874Z",
+   "fetched_at": "2026-10-20T05:42:35.122Z",
    "body": [
     "Our briefing: The first-round draw for the 2026-27 FA Cup takes place this evening as League One and League Two clubs enter the fray",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -469,15 +511,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-19T17:31:00.000Z",
-   "fetched_at": "2026-10-20T00:31:32.655Z",
+   "fetched_at": "2026-10-20T05:42:34.922Z",
    "body": [
     "Our briefing: Is London City's Daniëlle van de Donk the unsung hero of the WSL season so far?",
     "Is London City's Daniëlle van de Donk the unsung hero of the WSL season so far?",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Kashima_Soccer_Stadium_6.jpg/960px-Kashima_Soccer_Stadium_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
    "id": "guardian-will-that-do-lamine-yamal-conjures-another-magic",
@@ -490,7 +532,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-19T17:29:16.000Z",
-   "fetched_at": "2026-10-20T00:31:32.717Z",
+   "fetched_at": "2026-10-20T05:42:34.968Z",
    "body": [
     "Our briefing: The 19-year-old scored a cracker in Seville, days after his ‘almost rabona’ at Galatasaray, as La Liga leaders beat Real Betis When at last it was time for Lamine Yamal…",
     "The 19-year-old scored a cracker in Seville, days after his ‘almost rabona’ at Galatasaray, as La Liga leaders beat Real Betis When at last it was time for Lamine Yamal to leave, the 19-year-old’s number going up before the 90th minute for only the second time since the opening day, Real Betis fans whistled him all the way to the touchline where Barcelona’s coach was waiting. His work here was done, Hansi Flick invited him to take the weight off his feet and his shoulders, not that he wanted to. First, though, he took Lamine Yamal’s head in his hands and, leaning in away from the amateur lip readers, tried to make himself heard over the noise.",
@@ -500,7 +542,7 @@
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
@@ -514,14 +556,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-19T16:41:54.000Z",
-   "fetched_at": "2026-10-20T00:31:32.655Z",
+   "fetched_at": "2026-10-20T05:42:34.921Z",
    "body": [
     "Our briefing: Premier League clubs took the knee for the first time this season, but six players chose to remain standing.",
     "Premier League clubs took the knee for the first time this season, but six players chose to remain standing.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
@@ -535,7 +577,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-19T16:29:34.000Z",
-   "fetched_at": "2026-10-20T00:31:32.654Z",
+   "fetched_at": "2026-10-20T05:42:34.920Z",
    "body": [
     "Our briefing: Ronald Araujo has impressed since arriving at Liverpool from Barcelona. Could he prove a longer-term solution?",
     "Ronald Araujo has impressed since arriving at Liverpool from Barcelona. Could he prove a longer-term solution?",
@@ -556,13 +598,13 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-19T16:21:43.000Z",
-   "fetched_at": "2026-10-20T00:31:32.875Z",
+   "fetched_at": "2026-10-20T05:42:35.122Z",
    "body": [
     "Our briefing: Marc Guehi did not take the knee before Saturday’s game against Ipswich",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Soccer_fans_put_town_in_siege_%28FL62506945%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506945%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
@@ -576,7 +618,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-19T16:12:50.000Z",
-   "fetched_at": "2026-10-20T00:31:32.875Z",
+   "fetched_at": "2026-10-20T05:42:35.122Z",
    "body": [
     "Our briefing: PSG are due to face Barcelona in the Champions League at the Parc des Princes on Tuesday night",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -596,7 +638,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-19T15:54:16.000Z",
-   "fetched_at": "2026-10-20T00:31:32.875Z",
+   "fetched_at": "2026-10-20T05:42:35.122Z",
    "body": [
     "Our briefing: Araujo was a surprise addition in the summer but has already established himself as first-choice right-back despite his preference to play centrally",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -616,7 +658,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-19T15:43:31.000Z",
-   "fetched_at": "2026-10-20T00:31:32.655Z",
+   "fetched_at": "2026-10-20T05:42:34.921Z",
    "body": [
     "Our briefing: Jota admits he \"met some demons\" during his long injury absence but believes there is no need to \"rush\" his return to full match fitness at Celtic.",
     "Jota admits he \"met some demons\" during his long injury absence but believes there is no need to \"rush\" his return to full match fitness at Celtic.",
@@ -637,14 +679,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-19T15:39:04.000Z",
-   "fetched_at": "2026-10-20T00:31:32.655Z",
+   "fetched_at": "2026-10-20T05:42:34.922Z",
    "body": [
     "Our briefing: The Champions League returns this week and you will be able to listen to commentary and watch highlights of the best of the action on the BBC.",
     "The Champions League returns this week and you will be able to listen to commentary and watch highlights of the best of the action on the BBC.",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Soccer_fans_put_town_in_siege_%28FL62506945%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506945%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Soccer_fans_put_town_in_siege_%28FL62506919%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506919%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
@@ -658,14 +700,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-19T15:19:49.000Z",
-   "fetched_at": "2026-10-20T00:31:32.655Z",
+   "fetched_at": "2026-10-20T05:42:34.921Z",
    "body": [
     "Our briefing: Duncan Ferguson targets a return to the glory days at the Oval after his appointment as the new Glentoran manager.",
     "Duncan Ferguson targets a return to the glory days at the Oval after his appointment as the new Glentoran manager.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Soccer_fans_put_town_in_siege_%28FL62505872%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62505872%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Soccer_fans_put_town_in_siege_%28FL62506613%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506613%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
@@ -679,7 +721,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-19T15:00:18.000Z",
-   "fetched_at": "2026-10-20T00:31:32.717Z",
+   "fetched_at": "2026-10-20T05:42:34.967Z",
    "body": [
     "Our briefing: Frenchman under pressure after Brighton thrashing McKenna and Frank among potential replacements Pierre Sage has been granted more time to fix Crystal Palace’s defensive…",
     "Frenchman under pressure after Brighton thrashing McKenna and Frank among potential replacements Pierre Sage has been granted more time to fix Crystal Palace’s defensive issues but he has been warned that things must improve quickly after the 5-0 defeat at Brighton on Sunday. The Frenchman’s future was in serious doubt after his side conceded three times inside the opening 10 minutes before equalling the 70‑year record for the club’s heaviest defeat against their arch-rivals. The thrashing means Palace have conceded the most goals in the Premier League: 17 from seven games.",
@@ -725,7 +767,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-19T14:52:01.000Z",
-   "fetched_at": "2026-10-20T00:31:32.655Z",
+   "fetched_at": "2026-10-20T05:42:34.921Z",
    "body": [
     "Our briefing: Brighton's start to the season has surprised many outsiders. But how high could they finish?",
     "Brighton's start to the season has surprised many outsiders. But how high could they finish?",
@@ -746,7 +788,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-19T14:51:11.000Z",
-   "fetched_at": "2026-10-20T00:31:32.717Z",
+   "fetched_at": "2026-10-20T05:42:34.967Z",
    "body": [
     "Our briefing: Diego Gómez’s wondergoal in a five-star demolition is just the latest in an impressive run of results for the south coast team Sign up for our free newsletter here For…",
     "Diego Gómez’s wondergoal in a five-star demolition is just the latest in an impressive run of results for the south coast team Sign up for our free newsletter here For two or three years now, it’s been standard to nod approvingly at how well-run Brighton, Brentford and Bournemouth are, and to move on. What else is there to say? It’s true, of course – these are sides who have made the most of relatively limited resources.",
@@ -769,7 +811,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-19T14:36:36.000Z",
-   "fetched_at": "2026-10-20T00:31:32.655Z",
+   "fetched_at": "2026-10-20T05:42:34.921Z",
    "body": [
     "Our briefing: Manchester City coach Enzo Maresca explores his attacking options for Tuesday's Champions League game against AEK Athens.",
     "Manchester City coach Enzo Maresca explores his attacking options for Tuesday's Champions League game against AEK Athens.",
@@ -790,7 +832,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-19T14:30:55.000Z",
-   "fetched_at": "2026-10-20T00:31:32.717Z",
+   "fetched_at": "2026-10-20T05:42:34.968Z",
    "body": [
     "Our briefing: Young centre-back could not see a way forward at Leeds so moved to France. Now he’s preparing for the biggest game of his life against Juventus By Get French Football…",
     "Young centre-back could not see a way forward at Leeds so moved to France. Now he’s preparing for the biggest game of his life against Juventus By Get French Football News “Leaving England is such a scary, scary decision,” says Charlie Cresswell. It is a decision that he never thought he would make.",
@@ -798,9 +840,7 @@
     "I’d been at the club since I was 10, but, looking back, I was 20 years old with no games and I needed to get out and go play,” says Cresswell, now at Rennes and preparing to face Juventus in the Europa League. Continue reading...",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Soccer_fans_put_town_in_siege_%28FL62506562%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506562%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
+   ]
   },
   {
    "id": "guardian-konsa-bullish-about-arsenal-s-champions-league-h",
@@ -813,7 +853,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-19T14:00:59.000Z",
-   "fetched_at": "2026-10-20T00:31:32.717Z",
+   "fetched_at": "2026-10-20T05:42:34.968Z",
    "body": [
     "Our briefing: Centre-back has settled right in at Arsenal and is looking ‘to win everything’, starting with Wednesday’s duel against Harry Kane For Ezri Konsa, it was just a…",
     "Centre-back has settled right in at Arsenal and is looking ‘to win everything’, starting with Wednesday’s duel against Harry Kane For Ezri Konsa, it was just a wonderfully satisfying challenge. The Nottingham Forest striker Liam Delap had stolen in behind him up the inside left channel on Sunday. There were 93 minutes gone, Arsenal were 1-0 up and it was now or never for Forest.",
@@ -825,47 +865,6 @@
    ],
    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Arsenal_Stadium_Highbury_east_facade.jpg/960px-Arsenal_Stadium_Highbury_east_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "No machine-readable author provided. Qwghlm~commonswiki assumed (based on copyright claims). — CC BY-SA 3.0"
-  },
-  {
-   "id": "guardian-brighton-peck-palace-will-point-silence-noise-ar",
-   "slug": "brighton-peck-palace-and-will-a-point-silence-the-noise-arou-se-ar",
-   "title": "Brighton peck Palace and will a point silence the noise around Carrick? | Football Weekly – video",
-   "dek": "Max Rushden is joined by Jonathan Wilson , Mark Langdon and Dan Bardell to discuss the weekend’s Premier League action Continue reading...",
-   "description": "Max Rushden is joined by Jonathan Wilson , Mark Langdon and Dan Bardell to discuss the weekend’s Premier League action Continue reading...",
-   "category": "News",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-10-19T13:32:31.000Z",
-   "fetched_at": "2026-10-20T00:31:32.718Z",
-   "body": [
-    "Our briefing: Max Rushden is joined by Jonathan Wilson , Mark Langdon and Dan Bardell to discuss the weekend’s Premier League action Continue reading...",
-    "Max Rushden is joined by Jonathan Wilson , Mark Langdon and Dan Bardell to discuss the weekend’s Premier League action Continue reading...",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Opening_of_Amex_Stadium_Brighton_2011_-_BHA_vs_Spurs.jpg/960px-Opening_of_Amex_Stadium_Brighton_2011_-_BHA_vs_Spurs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "James Boyes — CC BY 2.0"
-  },
-  {
-   "id": "independent-liverpool-s-right-back-crisis-deepens-defender-s",
-   "slug": "liverpool-s-right-back-crisis-deepens-as-defender-set-to-mis-der-s",
-   "title": "Liverpool’s right-back crisis deepens as defender set to miss six games with injury",
-   "dek": "Jeremie Frimpong is likely to be sidelined until the November international window while Dominik Szoboszlai suffered a minor setback in his return from injury",
-   "description": "Jeremie Frimpong is likely to be sidelined until the November international window while Dominik Szoboszlai suffered a minor setback in his return from injury",
-   "category": "Injuries",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-10-19T13:31:31.000Z",
-   "fetched_at": "2026-10-20T00:31:32.875Z",
-   "body": [
-    "Our briefing: Jeremie Frimpong is likely to be sidelined until the November international window while Dominik Szoboszlai suffered a minor setback in his return from injury",
-    "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Danger_Risk_of_Life-Changing_Injuries%2C_Liverpool_Street_tube_station_2025-11-16.jpg/960px-Danger_Risk_of_Life-Changing_Injuries%2C_Liverpool_Street_tube_station_2025-11-16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Cory Doctorow — CC BY-SA 4.0"
   }
  ]
 }
