@@ -1,6 +1,19 @@
 {
- "generated_at": "2026-10-20T05:42:42.497Z",
+ "generated_at": "2026-10-20T11:01:54.601Z",
  "matches": [
+  {
+   "league": "Bundesliga",
+   "home": "VfB Stuttgart",
+   "away": "Borussia Mönchengladbach",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, October 23rd at 2:30 PM EDT",
+   "date": "2026-10-23T18:30Z"
+  },
   {
    "league": "La Liga",
    "home": "Levante",
@@ -28,11 +41,11 @@
    "date": "2026-10-23T19:00Z"
   },
   {
-   "league": "Serie A",
-   "home": "Torino",
-   "away": "Monza",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png",
+   "league": "Ligue 1",
+   "home": "Brest",
+   "away": "Nice",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
    "homeScore": 0,
    "awayScore": 0,
    "status": "pre",
@@ -41,24 +54,11 @@
    "date": "2026-10-23T18:45Z"
   },
   {
-   "league": "Bundesliga",
-   "home": "VfB Stuttgart",
-   "away": "Borussia Mönchengladbach",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, October 23rd at 2:30 PM EDT",
-   "date": "2026-10-23T18:30Z"
-  },
-  {
-   "league": "Ligue 1",
-   "home": "Brest",
-   "away": "Nice",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
+   "league": "Serie A",
+   "home": "Torino",
+   "away": "Monza",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png",
    "homeScore": 0,
    "awayScore": 0,
    "status": "pre",
