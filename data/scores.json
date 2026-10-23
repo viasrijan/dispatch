@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T16:49:27.267Z",
+ "generated_at": "2026-10-23T20:13:41.109Z",
  "matches": [
   {
    "league": "Serie A",
@@ -7,38 +7,12 @@
    "away": "Monza",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, October 23rd at 2:45 PM EDT",
+   "homeScore": 2,
+   "awayScore": 1,
+   "status": "live",
+   "clock": "68'",
+   "time": "68'",
    "date": "2026-10-23T18:45Z"
-  },
-  {
-   "league": "Bundesliga",
-   "home": "VfB Stuttgart",
-   "away": "Borussia Mönchengladbach",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, October 23rd at 2:30 PM EDT",
-   "date": "2026-10-23T18:30Z"
-  },
-  {
-   "league": "La Liga",
-   "home": "Alavés",
-   "away": "Málaga",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/99.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, October 23rd at 3:00 PM EDT",
-   "date": "2026-10-23T19:00Z"
   },
   {
    "league": "Premier League",
@@ -46,11 +20,11 @@
    "away": "Nottingham Forest",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, October 23rd at 3:00 PM EDT",
+   "homeScore": 1,
+   "awayScore": 1,
+   "status": "live",
+   "clock": "54'",
+   "time": "54'",
    "date": "2026-10-23T19:00Z"
   },
   {
@@ -59,12 +33,38 @@
    "away": "Nice",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, October 23rd at 2:45 PM EDT",
+   "homeScore": 1,
+   "awayScore": 1,
+   "status": "live",
+   "clock": "72'",
+   "time": "72'",
    "date": "2026-10-23T18:45Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Alavés",
+   "away": "Málaga",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/99.png",
+   "homeScore": 0,
+   "awayScore": 1,
+   "status": "live",
+   "clock": "55'",
+   "time": "55'",
+   "date": "2026-10-23T19:00Z"
+  },
+  {
+   "league": "Bundesliga",
+   "home": "VfB Stuttgart",
+   "away": "Borussia Mönchengladbach",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
+   "homeScore": 1,
+   "awayScore": 3,
+   "status": "live",
+   "clock": "83'",
+   "time": "83'",
+   "date": "2026-10-23T18:30Z"
   }
  ]
 }
