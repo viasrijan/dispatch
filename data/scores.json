@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-23T01:24:47.432Z",
+ "generated_at": "2026-10-23T06:20:20.108Z",
  "matches": [
   {
-   "league": "La Liga",
-   "home": "Alavés",
-   "away": "Málaga",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/99.png",
+   "league": "Premier League",
+   "home": "Ipswich Town",
+   "away": "Nottingham Forest",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
    "homeScore": 0,
    "awayScore": 0,
    "status": "pre",
@@ -28,32 +28,6 @@
    "date": "2026-10-23T18:45Z"
   },
   {
-   "league": "Ligue 1",
-   "home": "Brest",
-   "away": "Nice",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, October 23rd at 2:45 PM EDT",
-   "date": "2026-10-23T18:45Z"
-  },
-  {
-   "league": "Premier League",
-   "home": "Ipswich Town",
-   "away": "Nottingham Forest",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, October 23rd at 3:00 PM EDT",
-   "date": "2026-10-23T19:00Z"
-  },
-  {
    "league": "Bundesliga",
    "home": "VfB Stuttgart",
    "away": "Borussia Mönchengladbach",
@@ -65,6 +39,32 @@
    "clock": "",
    "time": "Fri, October 23rd at 2:30 PM EDT",
    "date": "2026-10-23T18:30Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Alavés",
+   "away": "Málaga",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/99.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, October 23rd at 3:00 PM EDT",
+   "date": "2026-10-23T19:00Z"
+  },
+  {
+   "league": "Ligue 1",
+   "home": "Brest",
+   "away": "Nice",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, October 23rd at 2:45 PM EDT",
+   "date": "2026-10-23T18:45Z"
   }
  ]
 }
