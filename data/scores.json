@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T06:20:20.108Z",
+ "generated_at": "2026-10-23T11:57:05.167Z",
  "matches": [
   {
    "league": "Premier League",
@@ -13,32 +13,6 @@
    "clock": "",
    "time": "Fri, October 23rd at 3:00 PM EDT",
    "date": "2026-10-23T19:00Z"
-  },
-  {
-   "league": "Serie A",
-   "home": "Torino",
-   "away": "Monza",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, October 23rd at 2:45 PM EDT",
-   "date": "2026-10-23T18:45Z"
-  },
-  {
-   "league": "Bundesliga",
-   "home": "VfB Stuttgart",
-   "away": "Borussia Mönchengladbach",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, October 23rd at 2:30 PM EDT",
-   "date": "2026-10-23T18:30Z"
   },
   {
    "league": "La Liga",
@@ -65,6 +39,32 @@
    "clock": "",
    "time": "Fri, October 23rd at 2:45 PM EDT",
    "date": "2026-10-23T18:45Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Torino",
+   "away": "Monza",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, October 23rd at 2:45 PM EDT",
+   "date": "2026-10-23T18:45Z"
+  },
+  {
+   "league": "Bundesliga",
+   "home": "VfB Stuttgart",
+   "away": "Borussia Mönchengladbach",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, October 23rd at 2:30 PM EDT",
+   "date": "2026-10-23T18:30Z"
   }
  ]
 }
