@@ -1,58 +1,6 @@
 {
- "generated_at": "2026-10-24T11:53:48.589Z",
+ "generated_at": "2026-10-24T15:30:56.346Z",
  "matches": [
-  {
-   "league": "Serie A",
-   "home": "Cagliari",
-   "away": "Bologna",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Sat, October 24th at 9:00 AM EDT",
-   "date": "2026-10-24T13:00Z"
-  },
-  {
-   "league": "Serie A",
-   "home": "Como",
-   "away": "Sassuolo",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Sat, October 24th at 9:00 AM EDT",
-   "date": "2026-10-24T13:00Z"
-  },
-  {
-   "league": "Serie A",
-   "home": "Napoli",
-   "away": "AS Roma",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Sat, October 24th at 12:00 PM EDT",
-   "date": "2026-10-24T16:00Z"
-  },
-  {
-   "league": "Serie A",
-   "home": "Lazio",
-   "away": "Parma",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Sat, October 24th at 2:45 PM EDT",
-   "date": "2026-10-24T18:45Z"
-  },
   {
    "league": "La Liga",
    "home": "Rayo Vallecano",
@@ -60,10 +8,10 @@
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
    "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
+   "awayScore": 3,
+   "status": "final",
    "clock": "",
-   "time": "Sat, October 24th at 8:00 AM EDT",
+   "time": "FT",
    "date": "2026-10-24T12:00Z"
   },
   {
@@ -74,9 +22,9 @@
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png",
    "homeScore": 0,
    "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Sat, October 24th at 10:15 AM EDT",
+   "status": "live",
+   "clock": "57'",
+   "time": "57'",
    "date": "2026-10-24T14:15Z"
   },
   {
@@ -106,16 +54,29 @@
    "date": "2026-10-24T19:00Z"
   },
   {
+   "league": "Ligue 1",
+   "home": "Lens",
+   "away": "Paris FC",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Sat, October 24th at 2:45 PM EDT",
+   "date": "2026-10-24T18:45Z"
+  },
+  {
    "league": "Premier League",
    "home": "Aston Villa",
    "away": "Manchester City",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-   "homeScore": 1,
-   "awayScore": 0,
-   "status": "live",
-   "clock": "22'",
-   "time": "22'",
+   "homeScore": 2,
+   "awayScore": 1,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
    "date": "2026-10-24T11:30Z"
   },
   {
@@ -124,11 +85,11 @@
    "away": "Everton",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
-   "homeScore": 0,
+   "homeScore": 2,
    "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Sat, October 24th at 10:00 AM EDT",
+   "status": "live",
+   "clock": "73'",
+   "time": "73'",
    "date": "2026-10-24T14:00Z"
   },
   {
@@ -139,9 +100,9 @@
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
    "homeScore": 0,
    "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Sat, October 24th at 10:00 AM EDT",
+   "status": "live",
+   "clock": "72'",
+   "time": "72'",
    "date": "2026-10-24T14:00Z"
   },
   {
@@ -158,16 +119,68 @@
    "date": "2026-10-24T16:30Z"
   },
   {
+   "league": "Serie A",
+   "home": "Cagliari",
+   "away": "Bologna",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
+   "homeScore": 0,
+   "awayScore": 2,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-10-24T13:00Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Como",
+   "away": "Sassuolo",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
+   "homeScore": 2,
+   "awayScore": 0,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-10-24T13:00Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Napoli",
+   "away": "AS Roma",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Sat, October 24th at 12:00 PM EDT",
+   "date": "2026-10-24T16:00Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Lazio",
+   "away": "Parma",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Sat, October 24th at 2:45 PM EDT",
+   "date": "2026-10-24T18:45Z"
+  },
+  {
    "league": "Bundesliga",
    "home": "FC Augsburg",
    "away": "1. FC Union Berlin",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
+   "homeScore": 1,
+   "awayScore": 1,
+   "status": "final",
    "clock": "",
-   "time": "Sat, October 24th at 9:30 AM EDT",
+   "time": "FT",
    "date": "2026-10-24T13:30Z"
   },
   {
@@ -178,9 +191,9 @@
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png",
    "homeScore": 0,
    "awayScore": 0,
-   "status": "pre",
+   "status": "final",
    "clock": "",
-   "time": "Sat, October 24th at 9:30 AM EDT",
+   "time": "FT",
    "date": "2026-10-24T13:30Z"
   },
   {
@@ -189,11 +202,11 @@
    "away": "Werder Bremen",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
+   "homeScore": 2,
+   "awayScore": 3,
+   "status": "final",
    "clock": "",
-   "time": "Sat, October 24th at 9:30 AM EDT",
+   "time": "FT",
    "date": "2026-10-24T13:30Z"
   },
   {
@@ -202,11 +215,11 @@
    "away": "SV Elversberg",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/10388.png",
-   "homeScore": 0,
+   "homeScore": 4,
    "awayScore": 0,
-   "status": "pre",
+   "status": "final",
    "clock": "",
-   "time": "Sat, October 24th at 9:30 AM EDT",
+   "time": "FT",
    "date": "2026-10-24T13:30Z"
   },
   {
@@ -215,11 +228,11 @@
    "away": "Hamburg SV",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3307.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png",
-   "homeScore": 0,
+   "homeScore": 1,
    "awayScore": 0,
-   "status": "pre",
+   "status": "final",
    "clock": "",
-   "time": "Sat, October 24th at 9:30 AM EDT",
+   "time": "FT",
    "date": "2026-10-24T13:30Z"
   },
   {
@@ -234,19 +247,6 @@
    "clock": "",
    "time": "Sat, October 24th at 12:30 PM EDT",
    "date": "2026-10-24T16:30Z"
-  },
-  {
-   "league": "Ligue 1",
-   "home": "Lens",
-   "away": "Paris FC",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Sat, October 24th at 2:45 PM EDT",
-   "date": "2026-10-24T18:45Z"
   }
  ]
 }
