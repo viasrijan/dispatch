@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T23:20:22.506Z",
+ "generated_at": "2026-10-24T01:49:48.076Z",
  "matches": [
   {
    "league": "Premier League",
@@ -28,12 +28,12 @@
    "date": "2026-10-23T19:00Z"
   },
   {
-   "league": "Ligue 1",
-   "home": "Brest",
-   "away": "Nice",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
-   "homeScore": 1,
+   "league": "Serie A",
+   "home": "Torino",
+   "away": "Monza",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png",
+   "homeScore": 3,
    "awayScore": 2,
    "status": "final",
    "clock": "",
@@ -54,12 +54,12 @@
    "date": "2026-10-23T18:30Z"
   },
   {
-   "league": "Serie A",
-   "home": "Torino",
-   "away": "Monza",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png",
-   "homeScore": 3,
+   "league": "Ligue 1",
+   "home": "Brest",
+   "away": "Nice",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
+   "homeScore": 1,
    "awayScore": 2,
    "status": "final",
    "clock": "",
