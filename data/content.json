@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-24T01:49:48.075Z",
- "updated_utc": "2026-10-24T01:49Z",
- "cycle": 29880109,
+ "generated_at": "2026-10-24T06:56:03.844Z",
+ "updated_utc": "2026-10-24T06:56Z",
+ "cycle": 29880416,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,8 +16,50 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "bbc-it-doesn-t-make-sense-glasner-confused-after-dio",
+ "hero_id": "bbc-we-had-scrap-o-neil-praises-ipswich-resilience-a",
  "articles": [
+  {
+   "id": "bbc-why-tottenham-v-arsenal-could-define-their-seaso",
+   "slug": "why-tottenham-v-arsenal-could-define-their-seasons-live-on-b-seaso",
+   "title": "Why Tottenham v Arsenal could define their seasons - live on BBC One",
+   "dek": "With Tottenham stuttering and Arsenal floundering, these fierce rivals both need a victory in Saturday's showdown, live on BBC One.",
+   "description": "With Tottenham stuttering and Arsenal floundering, these fierce rivals both need a victory in Saturday's showdown, live on BBC One.",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-24T06:02:44.000Z",
+   "fetched_at": "2026-10-24T06:55:56.927Z",
+   "body": [
+    "Our briefing: With Tottenham stuttering and Arsenal floundering, these fierce rivals both need a victory in Saturday's showdown, live on BBC One.",
+    "With Tottenham stuttering and Arsenal floundering, these fierce rivals both need a victory in Saturday's showdown, live on BBC One.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Manchester_City_v_Arsenal%2C_League_Cup_2004-5_-_geograph.org.uk_-_3841596.jpg/960px-Manchester_City_v_Arsenal%2C_League_Cup_2004-5_-_geograph.org.uk_-_3841596.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Richard Cooke — CC BY-SA 2.0"
+  },
+  {
+   "id": "bbc-who-am-i-plus-today-s-other-quizzes",
+   "slug": "who-am-i-plus-today-s-other-quizzes-izzes",
+   "title": "Who am I? Plus today's other quizzes",
+   "dek": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "description": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-24T05:41:29.000Z",
+   "fetched_at": "2026-10-24T06:55:56.927Z",
+   "body": [
+    "Our briefing: Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+    "Test your football knowledge against today's Who Am I? , Five in Five and Brainteaser.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "John Shorten — CC BY 4.0"
+  },
   {
    "id": "bbc-we-had-scrap-o-neil-praises-ipswich-resilience-a",
    "slug": "we-had-to-scrap-o-neil-praises-ipswich-resilience-after-fore-nce-a",
@@ -29,7 +71,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-23T22:21:51.000Z",
-   "fetched_at": "2026-10-24T01:49:39.639Z",
+   "fetched_at": "2026-10-24T06:55:56.928Z",
    "body": [
     "Our briefing: Ipswich manager Gary O'Neil praises his side's ability to \"dig in and fight\" as his side come from behind to earn a 1-1 draw against Nottingham Forest at Portman Road in…",
     "Ipswich manager Gary O'Neil praises his side's ability to \"dig in and fight\" as his side come from behind to earn a 1-1 draw against Nottingham Forest at Portman Road in the Premier League.",
@@ -50,7 +92,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-23T22:15:29.000Z",
-   "fetched_at": "2026-10-24T01:49:39.639Z",
+   "fetched_at": "2026-10-24T06:55:56.928Z",
    "body": [
     "Our briefing: Nottingham Forest manager Oliver Glasner admits he was left confused by the decision to not send off Issa Diop after a VAR check during his side's 1-1 draw at Ipswich…",
     "Nottingham Forest manager Oliver Glasner admits he was left confused by the decision to not send off Issa Diop after a VAR check during his side's 1-1 draw at Ipswich Town, but praised his side's performance and urged them to 'stay patient' as Forest's winless run stretched to four matches.",
@@ -71,14 +113,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-23T21:54:56.000Z",
-   "fetched_at": "2026-10-24T01:49:40.757Z",
+   "fetched_at": "2026-10-24T06:55:57.048Z",
    "body": [
     "Our briefing: Ipswich Town 1-1 Nottingham Forest: Delap’s haul during the 2024-25 campaign earned a big-money move to Chelsea, but he returned to Portman Road with only two Premier…",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "YHC — CC BY-SA 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
   },
   {
    "id": "bbc-forest-left-frustrated-winless-run-goes-after-dr",
@@ -91,7 +133,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-23T21:54:54.000Z",
-   "fetched_at": "2026-10-24T01:49:39.639Z",
+   "fetched_at": "2026-10-24T06:55:56.928Z",
    "body": [
     "Our briefing: Nottingham Forest ended a run of three successive league defeats but endured another night of missed chances as they drew 1-1 at Ipswich Town in the Premier League, but…",
     "Nottingham Forest ended a run of three successive league defeats but endured another night of missed chances as they drew 1-1 at Ipswich Town in the Premier League, but the result does move the away side out of the relegation zone on goal difference.",
@@ -112,7 +154,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-23T21:37:41.000Z",
-   "fetched_at": "2026-10-24T01:49:39.639Z",
+   "fetched_at": "2026-10-24T06:55:56.928Z",
    "body": [
     "Our briefing: Bundesliga's bottom side Borussia Monchengladbach come from behind to beat Stuttgart 3-2, as the away side secure their first league win of the season, at the seventh…",
     "Bundesliga's bottom side Borussia Monchengladbach come from behind to beat Stuttgart 3-2, as the away side secure their first league win of the season, at the seventh attempt.",
@@ -133,7 +175,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-23T21:33:21.000Z",
-   "fetched_at": "2026-10-24T01:49:40.177Z",
+   "fetched_at": "2026-10-24T06:55:56.972Z",
    "body": [
     "Our briefing: Arteta: ‘We need to understand how to manage his load’ Max Dowman could play against Everton on Saturday Mikel Arteta has expressed concern over Bukayo Saka’s robustness…",
     "Arteta: ‘We need to understand how to manage his load’ Max Dowman could play against Everton on Saturday Mikel Arteta has expressed concern over Bukayo Saka’s robustness after a series of injuries to the forward in the past year and as he awaits further news on how long he will be out for with a thigh issue. Saka is set for an MRI scan after limping off in the 2-2 draw with Bayern Munich in the Champions League, with Arteta revealing the 25-year-old had “quite a lot of fluid in the area so it was difficult to understand the extent of the injury”. Saka will definitely miss Saturday’s game against Evertonand, it is understood, Arsenal fear it could be a grade-two tear that could potentially keep him out for up to six weeks.",
@@ -155,7 +197,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-23T21:32:04.000Z",
-   "fetched_at": "2026-10-24T01:49:39.639Z",
+   "fetched_at": "2026-10-24T06:55:56.928Z",
    "body": [
     "Our briefing: Aston Villa have doubts on making Alejandro Garnacho deal a permanent move, Brighton to stand firm on Diego Gomez amid interest, Manchester United managerial candidates…",
     "Aston Villa have doubts on making Alejandro Garnacho deal a permanent move, Brighton to stand firm on Diego Gomez amid interest, Manchester United managerial candidates concern over players, plus more.",
@@ -176,7 +218,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-23T21:30:33.000Z",
-   "fetched_at": "2026-10-24T01:49:40.757Z",
+   "fetched_at": "2026-10-24T06:55:57.048Z",
    "body": [
     "Our briefing: Henderson was expected to play a role that wouldn’t go much further than dressing room leader but has formed an unlikely midfield partnership with Moises Caicedo that…",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
@@ -196,15 +238,15 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-23T21:30:14.000Z",
-   "fetched_at": "2026-10-24T01:49:40.177Z",
+   "fetched_at": "2026-10-24T06:55:56.972Z",
    "body": [
     "Our briefing: Tottenham manager insists medical team not to blame as more key players drop out while Alonso happy with Chelsea’s new-found discipline Continue reading...",
     "Tottenham manager insists medical team not to blame as more key players drop out while Alonso happy with Chelsea’s new-found discipline Continue reading...",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "John Shorten — CC BY 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
   },
   {
    "id": "guardian-enciso-rescues-point-storm-ipswich-deny-nottingh",
@@ -217,7 +259,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-23T21:07:50.000Z",
-   "fetched_at": "2026-10-24T01:49:40.177Z",
+   "fetched_at": "2026-10-24T06:55:56.972Z",
    "body": [
     "Our briefing: Amid a Suffolk squall, winds whipping, a constant drum of rain, an encounter full of half-chances, mistakes, the obligatory refereeing controversy and searching…",
     "Amid a Suffolk squall, winds whipping, a constant drum of rain, an encounter full of half-chances, mistakes, the obligatory refereeing controversy and searching questions. Do Ipswich possess the stones to deal with the big league? Perhaps so.",
@@ -263,7 +305,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-23T19:25:20.000Z",
-   "fetched_at": "2026-10-24T01:49:40.178Z",
+   "fetched_at": "2026-10-24T06:55:56.973Z",
    "body": [
     "Our briefing: Any player will be eligible for High Impact Player status Requirements had included top 100, marketability lists Sides also resolve grievance on Rodman contract refusal…",
     "Any player will be eligible for High Impact Player status Requirements had included top 100, marketability lists Sides also resolve grievance on Rodman contract refusal The NWSL and the NWSL Players Association have reached a settlement to drop the restrictive criteria around the controversial High Impact Player (HIP) rule, allowing any player to earn the league’s highest salaries. The NWSL introduced the rule late last year, allowing teams to spend an additional $1m above the salary cap to sign star players. Players with the designation had to meet one of eight criteria, ranging from US national team minutes and Ballon d’Or recognition to NWSL Best XI honors to media lists, including the Guardian’s Top 100 and a ranking that ordered athletes by marketability.",
@@ -271,8 +313,8 @@
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Badalik_Szabolcs_Hungarian_beach_soccer_player.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "Badalik Szabolcs — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "YHC — CC BY-SA 4.0"
   },
   {
    "id": "guardian-change-captain-play-kids-how-solve-problems-manc",
@@ -285,7 +327,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-23T19:00:11.000Z",
-   "fetched_at": "2026-10-24T01:49:40.177Z",
+   "fetched_at": "2026-10-24T06:55:56.972Z",
    "body": [
     "Our briefing: The beleaguered Michael Carrick’s job is on the line, but there are steps he can take to revive the stricken club The big question as Bournemouth arrive for Sunday’s 2pm…",
     "The beleaguered Michael Carrick’s job is on the line, but there are steps he can take to revive the stricken club The big question as Bournemouth arrive for Sunday’s 2pm kick-off at Old Trafford is whether Michael Carrick will show his authority by stripping the captaincy from Bruno Fernandes and/or dropping Manchester United’s five-times player of the year. On Friday, Carrick refused to deny he may do so, but the bigger picture concerns whether cashing in on the Portuguese and his fellow mutineer, Lisandro Martínez, in the winter window would be prescient to initiate a new era. Fernandes and Martínez are out of contract in the close season (the club has an extra year’s option in both cases) and, judging by recent behaviour, intend to leave.",
@@ -308,7 +350,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-23T17:46:02.000Z",
-   "fetched_at": "2026-10-24T01:49:40.757Z",
+   "fetched_at": "2026-10-24T06:55:57.049Z",
    "body": [
     "Our briefing: Infantino needs to reach the magic number of 106 votes to secure re-election next March",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
@@ -328,7 +370,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-23T17:23:21.000Z",
-   "fetched_at": "2026-10-24T01:49:39.639Z",
+   "fetched_at": "2026-10-24T06:55:56.927Z",
    "body": [
     "Our briefing: Southampton group technical director Johannes Spors says that the Spygate scandal put him in a \"difficult position\" over the summer.",
     "Southampton group technical director Johannes Spors says that the Spygate scandal put him in a \"difficult position\" over the summer.",
@@ -349,7 +391,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-23T16:58:26.000Z",
-   "fetched_at": "2026-10-24T01:49:40.757Z",
+   "fetched_at": "2026-10-24T06:55:57.049Z",
    "body": [
     "Our briefing: Kompany was unwell with a virus before Bayern’s Champions League clash with Arsenal",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -369,14 +411,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-23T16:56:15.000Z",
-   "fetched_at": "2026-10-24T01:49:40.757Z",
+   "fetched_at": "2026-10-24T06:55:57.049Z",
    "body": [
     "Our briefing: The 2002 World Cup winner and former Ballon d’Or recipient will make his long-awaited debut on 15 November",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "guardian-vincent-kompany-taken-hospital-after-collapsing-",
@@ -389,7 +431,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-23T16:50:53.000Z",
-   "fetched_at": "2026-10-24T01:49:40.177Z",
+   "fetched_at": "2026-10-24T06:55:56.972Z",
    "body": [
     "Our briefing: Bayern Munich head coach had been nursing a virus Coach ‘undergoing thorough examinations’, club say Vincent Kompany has been ⁠taken ⁠to ​hospital after the Bayern Munich…",
     "Bayern Munich head coach had been nursing a virus Coach ‘undergoing thorough examinations’, club say Vincent Kompany has been ⁠taken ⁠to ​hospital after the Bayern Munich coach felt unwell during training ⁠on Friday. The Belgian, ​who ‌had been ‌nursing a virus in ‌recent days, was coaching his team before feeling unwell and being taken to ‌hospital. Continue reading...",
@@ -410,7 +452,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-23T16:40:24.000Z",
-   "fetched_at": "2026-10-24T01:49:40.757Z",
+   "fetched_at": "2026-10-24T06:55:57.049Z",
    "body": [
     "Our briefing: Spurs have only one victory from their last 41 matches at Stamford Bridge",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -430,14 +472,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-23T16:39:03.000Z",
-   "fetched_at": "2026-10-24T01:49:39.638Z",
+   "fetched_at": "2026-10-24T06:55:56.927Z",
    "body": [
     "Our briefing: Bayern Munich manager Vincent Kompany is taken to hospital after collapsing as he watched the club's second team train on Friday.",
     "Bayern Munich manager Vincent Kompany is taken to hospital after collapsing as he watched the club's second team train on Friday.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -451,7 +493,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-23T16:06:35.000Z",
-   "fetched_at": "2026-10-24T01:49:40.757Z",
+   "fetched_at": "2026-10-24T06:55:57.049Z",
    "body": [
     "Our briefing: Martinez has undergone surgery after suffering a sickening head injury against Everton last weekend",
     "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
@@ -471,14 +513,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-23T15:47:51.000Z",
-   "fetched_at": "2026-10-24T01:49:40.757Z",
+   "fetched_at": "2026-10-24T06:55:57.049Z",
    "body": [
     "Our briefing: For a man who made an instant impact as interim manager last season, Carrick’s team have looked worse the longer he has been in charge and he has looked powerless to…",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/CPSL_2005_semifinals_-_Esther_Shiner_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "Robin Glover — CC BY 4.0"
   },
   {
    "id": "bbc-premiership-preview-form-strikers-focus-will-ran",
@@ -491,7 +533,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-23T15:39:58.000Z",
-   "fetched_at": "2026-10-24T01:49:39.639Z",
+   "fetched_at": "2026-10-24T06:55:56.928Z",
    "body": [
     "Our briefing: An analysis of the key Scottish Premiership questions before Saturday and Sunday's fixtures.",
     "An analysis of the key Scottish Premiership questions before Saturday and Sunday's fixtures.",
@@ -512,7 +554,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-23T15:25:00.000Z",
-   "fetched_at": "2026-10-24T01:49:40.178Z",
+   "fetched_at": "2026-10-24T06:55:56.973Z",
    "body": [
     "Our briefing: Sign up now! Sign up now! Sign up now? Sign up now! Football Daily has never had much time for conspiracy theories. Lee Harvey Oswald dunnit, Stanley Kubrick didn’t fake…",
     "Sign up now! Sign up now! Sign up now?",
@@ -562,7 +604,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-23T14:49:59.000Z",
-   "fetched_at": "2026-10-24T01:49:39.639Z",
+   "fetched_at": "2026-10-24T06:55:56.928Z",
    "body": [
     "Our briefing: Chelsea face Tottenham Hotspur in the Premier League this weekend - and BBC Sport looks back at five memorable matches between the London rivals.",
     "Chelsea face Tottenham Hotspur in the Premier League this weekend - and BBC Sport looks back at five memorable matches between the London rivals.",
@@ -583,7 +625,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-23T14:38:29.000Z",
-   "fetched_at": "2026-10-24T01:49:40.757Z",
+   "fetched_at": "2026-10-24T06:55:57.049Z",
    "body": [
     "Our briefing: Saka has not trained ahead of the Premier League clash against Everton",
     "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
@@ -603,7 +645,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-23T14:33:14.000Z",
-   "fetched_at": "2026-10-24T01:49:40.757Z",
+   "fetched_at": "2026-10-24T06:55:57.049Z",
    "body": [
     "Our briefing: There are 10 Paris Saint-Germain players nominated for the men’s award, but Dembele, Kvaratskhelia and Marquinhos may yet attend as they are injured",
     "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
@@ -623,7 +665,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-23T14:30:09.000Z",
-   "fetched_at": "2026-10-24T01:49:40.180Z",
+   "fetched_at": "2026-10-24T06:55:56.975Z",
    "body": [
     "Our briefing: The New York mayor’s passion for the Gunners and human rights presents an opportunity to push back on the club’s lucrative UAE sponsorship Like him or not, there is no…",
     "The New York mayor’s passion for the Gunners and human rights presents an opportunity to push back on the club’s lucrative UAE sponsorship Like him or not, there is no doubt that New York mayor Zohran Mamdani’s passion for certain issues is electric, and that passion played a large part in him getting elected. But today, two of his biggest passions are on a collision course. On one hand, Mamdani is now arguably the US’s most high-profile supporter of English Premier League champions Arsenal.",
@@ -632,8 +674,8 @@
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Manchester_City_v_Arsenal%2C_League_Cup_2004-5_-_geograph.org.uk_-_3841596.jpg/960px-Manchester_City_v_Arsenal%2C_League_Cup_2004-5_-_geograph.org.uk_-_3841596.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Richard Cooke — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Wet_match_day_at_Arsenal_-_geograph.org.uk_-_5657537.jpg/960px-Wet_match_day_at_Arsenal_-_geograph.org.uk_-_5657537.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Jim Osley — CC BY-SA 2.0"
   },
   {
    "id": "bbc-psg-v-lyon-moved-paris-prepares-more-protests",
@@ -646,7 +688,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-23T14:18:41.000Z",
-   "fetched_at": "2026-10-24T01:49:39.639Z",
+   "fetched_at": "2026-10-24T06:55:56.928Z",
    "body": [
     "Our briefing: Paris St-Germain's Ligue 1 match against Lyon at the Parc des Princes is pushed back 24 hours as the French capital prepares for another weekend of protests.",
     "Paris St-Germain's Ligue 1 match against Lyon at the Parc des Princes is pushed back 24 hours as the French capital prepares for another weekend of protests.",
@@ -667,15 +709,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-23T14:11:42.000Z",
-   "fetched_at": "2026-10-24T01:49:39.639Z",
+   "fetched_at": "2026-10-24T06:55:56.927Z",
    "body": [
     "Our briefing: Belgium midfielder Nicolas Raskin is \"really happy\" at Rangers but is unsure what might happen in January.",
     "Belgium midfielder Nicolas Raskin is \"really happy\" at Rangers but is unsure what might happen in January.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Ibrox_Stadium%2C_Rangers_FC_%28cropped%29.jpg/960px-Ibrox_Stadium%2C_Rangers_FC_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Lesterhobbes764 — CC BY-SA 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Balmoral_Stadium_-_home_of_Cove_Rangers_FC_%28geograph_6062102%29.jpg/960px-Balmoral_Stadium_-_home_of_Cove_Rangers_FC_%28geograph_6062102%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Peter Moore — CC BY-SA 2.0"
   },
   {
    "id": "bbc-raskin-very-happy-rangers-but-unsure-about-janua",
@@ -688,15 +730,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-23T14:11:42.000Z",
-   "fetched_at": "2026-10-24T01:49:39.641Z",
+   "fetched_at": "2026-10-24T06:55:56.929Z",
    "body": [
     "Our briefing: Belgium midfielder Nicolas Raskin is \"really happy\" at Rangers but is unsure what might happen in January.",
     "Belgium midfielder Nicolas Raskin is \"really happy\" at Rangers but is unsure what might happen in January.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Balmoral_Stadium_-_home_of_Cove_Rangers_FC_%28geograph_6062102%29.jpg/960px-Balmoral_Stadium_-_home_of_Cove_Rangers_FC_%28geograph_6062102%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Peter Moore — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Ibrox_Stadium%2C_Rangers_FC_%28cropped%29.jpg/960px-Ibrox_Stadium%2C_Rangers_FC_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Lesterhobbes764 — CC BY-SA 4.0"
   },
   {
    "id": "bbc-arsenal-fear-saka-could-be-out-two-months",
@@ -709,7 +751,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-23T14:09:36.000Z",
-   "fetched_at": "2026-10-24T01:49:39.638Z",
+   "fetched_at": "2026-10-24T06:55:56.927Z",
    "body": [
     "Our briefing: Arsenal forward Bukayo Saka could be sidelined for up to eight weeks with the quadriceps injury he suffered against Bayern Munich.",
     "Arsenal forward Bukayo Saka could be sidelined for up to eight weeks with the quadriceps injury he suffered against Bayern Munich.",
@@ -730,14 +772,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-23T14:04:17.000Z",
-   "fetched_at": "2026-10-24T01:49:40.757Z",
+   "fetched_at": "2026-10-24T06:55:57.049Z",
    "body": [
     "Our briefing: Carrick is under huge pressure heading into Sunday’s home game against Bournemouth after a seven-game winless run in all competitions",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/CPSL_2005_semifinals_-_Esther_Shiner_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "Robin Glover — CC BY 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "guardian-leagues-look-past-manchester-city-distraction-sh",
@@ -750,7 +792,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-23T14:00:29.000Z",
-   "fetched_at": "2026-10-24T01:49:40.178Z",
+   "fetched_at": "2026-10-24T06:55:56.973Z",
    "body": [
     "Our briefing: The Premier League scandal may have gripped English football but the A-League club is ‘critical’ to football’s presence and new strategy in Australia Sign up for Football…",
     "The Premier League scandal may have gripped English football but the A-League club is ‘critical’ to football’s presence and new strategy in Australia Sign up for Football Desk Australia: our newsletter from Jonathan Wilson In Australia’s most populous city, the A-Leagues derby between Melbourne Victory and Melbourne City will have more than a tinge of Manchester on Saturday night. Former United player Juan Mata, now a part-owner at Victory, will be farewelled after he chose not to play on with the A-League foundation club this season. The match is also City’s first at home since their parent club was found to have breached the Premier League’s financial rules .",
@@ -772,15 +814,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-23T13:55:37.000Z",
-   "fetched_at": "2026-10-24T01:49:39.638Z",
+   "fetched_at": "2026-10-24T06:55:56.927Z",
    "body": [
     "Our briefing: Michael Carrick speaks for five uninterrupted minutes at media briefing to outline what Manchester United means to him, then refuses to rule out dropping Bruno Fernandes.",
     "Michael Carrick speaks for five uninterrupted minutes at media briefing to outline what Manchester United means to him, then refuses to rule out dropping Bruno Fernandes.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Kashima_Soccer_Stadium_6.jpg/960px-Kashima_Soccer_Stadium_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   },
   {
    "id": "guardian-crystal-palace-newcastle-face-off-both-search-se",
@@ -793,7 +835,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-23T13:36:21.000Z",
-   "fetched_at": "2026-10-24T01:49:40.177Z",
+   "fetched_at": "2026-10-24T06:55:56.972Z",
    "body": [
     "Our briefing: Pierre Sage and Matthias Jaissle face some key questions: both were appointed this summer yet form, and results, have proved elusive Conceding 17 goals in seven Premier…",
     "Pierre Sage and Matthias Jaissle face some key questions: both were appointed this summer yet form, and results, have proved elusive Conceding 17 goals in seven Premier League matches is not exactly the start Pierre Sage or Crystal Palace’s hierarchy would have hoped for. The transition from Oliver Glasner’s counterattacking 3-4-2-1 formation to the Frenchman’s more aggressive approach has exposed massive weaknesses in defence, culminating with last week’s humiliating defeat at Brighton. Palace fans became used to success under Glasner and they are already looking nervously over their shoulders at the bottom three.",
@@ -815,54 +857,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-23T13:26:18.000Z",
-   "fetched_at": "2026-10-24T01:49:40.757Z",
+   "fetched_at": "2026-10-24T06:55:57.049Z",
    "body": [
     "Our briefing: Carrick spoke for almost six minutes before answering a question as he insisted he is right person to turn Manchester United around",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Kashima_Soccer_Stadium_6.jpg/960px-Kashima_Soccer_Stadium_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
-  },
-  {
-   "id": "independent-michael-carrick-addresses-bruno-fernandes-captai",
-   "slug": "michael-carrick-addresses-bruno-fernandes-captaincy-after-ma-aptai",
-   "title": "Michael Carrick addresses Bruno Fernandes captaincy after Man United outburst in Como",
-   "dek": "The Man Utd manager was visibly upset midweek after the humbling at the hands of Como, with Fernandes publicly questioning the tactics for the Champions League fixture",
-   "description": "The Man Utd manager was visibly upset midweek after the humbling at the hands of Como, with Fernandes publicly questioning the tactics for the Champions League fixture",
-   "category": "Tactics & Analysis",
-   "league": "Football",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-10-23T13:08:58.000Z",
-   "fetched_at": "2026-10-24T01:49:40.757Z",
-   "body": [
-    "Our briefing: The Man Utd manager was visibly upset midweek after the humbling at the hands of Como, with Fernandes publicly questioning the tactics for the Champions League fixture",
-    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/1974%E2%80%9375_Como_Calcio_-_Marco_Tardelli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": null
-  },
-  {
-   "id": "independent-andoni-iraola-provides-liverpool-injury-updates-",
-   "slug": "andoni-iraola-provides-liverpool-injury-updates-on-bradley-b-ates-",
-   "title": "Andoni Iraola provides Liverpool injury updates on Bradley Barcola, Victor Munoz and Dominik Szoboszlai",
-   "dek": "The Reds take on Brighton at Anfield after a big win over Villarreal midweek in the Champions League",
-   "description": "The Reds take on Brighton at Anfield after a big win over Villarreal midweek in the Champions League",
-   "category": "Injuries",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-10-23T12:50:03.000Z",
-   "fetched_at": "2026-10-24T01:49:40.757Z",
-   "body": [
-    "Our briefing: The Reds take on Brighton at Anfield after a big win over Villarreal midweek in the Champions League",
-    "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Danger_Risk_of_Life-Changing_Injuries%2C_Liverpool_Street_tube_station_2025-11-16.jpg/960px-Danger_Risk_of_Life-Changing_Injuries%2C_Liverpool_Street_tube_station_2025-11-16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Cory Doctorow — CC BY-SA 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "IPPA photographer — CC BY 4.0"
   }
  ]
 }
