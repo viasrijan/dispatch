@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T21:25:28.647Z",
+ "generated_at": "2026-10-24T23:32:36.046Z",
  "matches": [
   {
    "league": "Premier League",
@@ -52,71 +52,6 @@
    "clock": "",
    "time": "FT",
    "date": "2026-10-24T16:30Z"
-  },
-  {
-   "league": "La Liga",
-   "home": "Rayo Vallecano",
-   "away": "Elche",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
-   "homeScore": 0,
-   "awayScore": 3,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-10-24T12:00Z"
-  },
-  {
-   "league": "La Liga",
-   "home": "Racing Santander",
-   "away": "Espanyol",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png",
-   "homeScore": 2,
-   "awayScore": 1,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-10-24T14:15Z"
-  },
-  {
-   "league": "La Liga",
-   "home": "Valencia",
-   "away": "Villarreal",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
-   "homeScore": 1,
-   "awayScore": 2,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-10-24T16:30Z"
-  },
-  {
-   "league": "La Liga",
-   "home": "Atlético Madrid",
-   "away": "Deportivo",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/90.png",
-   "homeScore": 1,
-   "awayScore": 0,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-10-24T19:00Z"
-  },
-  {
-   "league": "Ligue 1",
-   "home": "Lens",
-   "away": "Paris FC",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png",
-   "homeScore": 2,
-   "awayScore": 1,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-10-24T18:45Z"
   },
   {
    "league": "Bundesliga",
@@ -195,6 +130,71 @@
    "clock": "",
    "time": "FT",
    "date": "2026-10-24T16:30Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Rayo Vallecano",
+   "away": "Elche",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
+   "homeScore": 0,
+   "awayScore": 3,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-10-24T12:00Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Racing Santander",
+   "away": "Espanyol",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png",
+   "homeScore": 2,
+   "awayScore": 1,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-10-24T14:15Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Valencia",
+   "away": "Villarreal",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+   "homeScore": 1,
+   "awayScore": 2,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-10-24T16:30Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Atlético Madrid",
+   "away": "Deportivo",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/90.png",
+   "homeScore": 1,
+   "awayScore": 0,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-10-24T19:00Z"
+  },
+  {
+   "league": "Ligue 1",
+   "home": "Lens",
+   "away": "Paris FC",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png",
+   "homeScore": 2,
+   "awayScore": 1,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-10-24T18:45Z"
   },
   {
    "league": "Serie A",
