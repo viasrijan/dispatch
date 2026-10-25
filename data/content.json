@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-25T17:27:08.477Z",
- "updated_utc": "2026-10-25T17:27Z",
- "cycle": 29882487,
+ "generated_at": "2026-10-25T19:53:43.468Z",
+ "updated_utc": "2026-10-25T19:53Z",
+ "cycle": 29882633,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,8 +16,406 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "independent-dango-ouattara-strike-seals-draw-brentford-come-",
+ "hero_id": "bbc-dunfermline-meet-queen-south-scottish-cup",
  "articles": [
+  {
+   "id": "bbc-watch-sportscene-sunday-s-scottish-premiership-h",
+   "slug": "watch-sportscene-sunday-s-scottish-premiership-highlights-hip-h",
+   "title": "Watch: Sportscene - Sunday's Scottish Premiership highlights",
+   "dek": "Extended highlights of Hibernian v Celtic and Motherwell v Hearts.",
+   "description": "Extended highlights of Hibernian v Celtic and Motherwell v Hearts.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-25T20:00:04.000Z",
+   "fetched_at": "2026-10-25T19:53:34.590Z",
+   "body": [
+    "Our briefing: Extended highlights of Hibernian v Celtic and Motherwell v Hearts.",
+    "Extended highlights of Hibernian v Celtic and Motherwell v Hearts.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "John Shorten — CC BY 4.0"
+  },
+  {
+   "id": "bbc-weir-would-swap-ballon-d-or-nominations-world-cu",
+   "slug": "weir-would-swap-ballon-d-or-nominations-for-world-cup-ld-cu",
+   "title": "Weir would swap Ballon d'Or nominations for World Cup",
+   "dek": "Caroline Weir reflects on her Ballon d'Or nomination while eyeing a World Cup spot with Scotland.",
+   "description": "Caroline Weir reflects on her Ballon d'Or nomination while eyeing a World Cup spot with Scotland.",
+   "category": "News",
+   "league": "International",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-25T19:34:15.000Z",
+   "fetched_at": "2026-10-25T19:53:34.588Z",
+   "body": [
+    "Our briefing: Caroline Weir reflects on her Ballon d'Or nomination while eyeing a World Cup spot with Scotland.",
+    "Caroline Weir reflects on her Ballon d'Or nomination while eyeing a World Cup spot with Scotland.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+  },
+  {
+   "id": "bbc-weir-would-swap-ballon-d-or-nods-world-cup",
+   "slug": "weir-would-swap-ballon-d-or-nods-for-world-cup-d-cup",
+   "title": "Weir would swap Ballon d'Or nods for World Cup",
+   "dek": "Caroline Weir reflects on her Ballon d'Or nomination while eyeing a World Cup spot with Scotland.",
+   "description": "Caroline Weir reflects on her Ballon d'Or nomination while eyeing a World Cup spot with Scotland.",
+   "category": "News",
+   "league": "International",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-25T19:34:15.000Z",
+   "fetched_at": "2026-10-25T19:53:34.590Z",
+   "body": [
+    "Our briefing: Caroline Weir reflects on her Ballon d'Or nomination while eyeing a World Cup spot with Scotland.",
+    "Caroline Weir reflects on her Ballon d'Or nomination while eyeing a World Cup spot with Scotland.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+  },
+  {
+   "id": "guardian-barcelona-v-real-madrid-el-cl-sico-live",
+   "slug": "barcelona-v-real-madrid-el-cl-sico-live--live",
+   "title": "Barcelona v Real Madrid: El Clásico – live",
+   "dek": "La Liga updates, kick-off 8pm (GMT) Live scoreboard | And you can email Niall Form guide: Barcelona are seeking their 10th straight win to start the league season, which…",
+   "description": "La Liga updates, kick-off 8pm (GMT) Live scoreboard | And you can email Niall Form guide: Barcelona are seeking their 10th straight win to start the league season, which would eclipse Real Madrid’s record from 1968. Hansi Flick’s side are on a 23-game home winning run in La Liga, but did suffer defeat to PSG in the Champions League in midweek. As for Real Madrid, they thumped Leipzig 4-1 at the Bernabéu but their problems in La Liga have come on the road, with defeats to Atlético and Betis. The clubs’ recent head-to-head record is very much in favour of Barça: they’ve won six of the last seven meetings. Continue reading...",
+   "category": "Match Reports",
+   "league": "La Liga",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-10-25T19:32:20.000Z",
+   "fetched_at": "2026-10-25T19:53:34.821Z",
+   "body": [
+    "Our briefing: La Liga updates, kick-off 8pm (GMT) Live scoreboard | And you can email Niall Form guide: Barcelona are seeking their 10th straight win to start the league season, which…",
+    "La Liga updates, kick-off 8pm (GMT) Live scoreboard | And you can email Niall Form guide: Barcelona are seeking their 10th straight win to start the league season, which would eclipse Real Madrid’s record from 1968. Hansi Flick’s side are on a 23-game home winning run in La Liga, but did suffer defeat to PSG in the Champions League in midweek. As for Real Madrid, they thumped Leipzig 4-1 at the Bernabéu but their problems in La Liga have come on the road, with defeats to Atlético and Betis.",
+    "The clubs’ recent head-to-head record is very much in favour of Barça: they’ve won six of the last seven meetings. Continue reading...",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Match_Basketball_ASVEL_x_Real_Madrid_LDLC_Arena_-_D%C3%A9cines-Charpieu_%28FR69%29_-_2023-12-28_-_17.jpg/960px-Match_Basketball_ASVEL_x_Real_Madrid_LDLC_Arena_-_D%C3%A9cines-Charpieu_%28FR69%29_-_2023-12-28_-_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Chabe01 — CC BY-SA 4.0"
+  },
+  {
+   "id": "independent-barcelona-v-real-madrid-title-rivals-clash-first",
+   "slug": "barcelona-v-real-madrid-title-rivals-clash-in-first-clasico--first",
+   "title": "Barcelona v Real Madrid: Title rivals clash in first Clasico of season amid hostile atmosphere",
+   "dek": "La Liga leaders Barcelona face their fiercest rivals as a war of words between the two clubs hots up",
+   "description": "La Liga leaders Barcelona face their fiercest rivals as a war of words between the two clubs hots up",
+   "category": "News",
+   "league": "La Liga",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-10-25T19:28:09.000Z",
+   "fetched_at": "2026-10-25T19:53:34.942Z",
+   "body": [
+    "Our briefing: La Liga leaders Barcelona face their fiercest rivals as a war of words between the two clubs hots up",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Santiago_Bernabeu_-_Real_Madrid_Football_Stadium_-_Madrid_-_Spain_-_01.jpg/960px-Santiago_Bernabeu_-_Real_Madrid_Football_Stadium_-_Madrid_-_Spain_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Adam Jones, Ph.D. — CC BY-SA 3.0"
+  },
+  {
+   "id": "bbc-dunfermline-meet-queen-south-scottish-cup",
+   "slug": "dunfermline-meet-queen-of-the-south-in-scottish-cup-h-cup",
+   "title": "Dunfermline meet Queen of the South in Scottish Cup",
+   "dek": "Last season's finalists Dunfermline Athletic will visit Queen of the South in the third round of the Scottish Cup.",
+   "description": "Last season's finalists Dunfermline Athletic will visit Queen of the South in the third round of the Scottish Cup.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-25T19:24:20.000Z",
+   "fetched_at": "2026-10-25T19:53:34.588Z",
+   "body": [
+    "Our briefing: Last season's finalists Dunfermline Athletic will visit Queen of the South in the third round of the Scottish Cup.",
+    "Last season's finalists Dunfermline Athletic will visit Queen of the South in the third round of the Scottish Cup.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+  },
+  {
+   "id": "guardian-manchester-united-board-hold-crisis-talks-over-c",
+   "slug": "manchester-united-board-hold-crisis-talks-over-carrick-s-fut-ver-c",
+   "title": "Manchester United board hold crisis talks over Carrick’s future and Howe approach",
+   "dek": "Job in balance after 3-0 home defeat by Bournemouth Howe is director of football Jason Wilcox’s top candidate Manchester United’s hierarchy are in crisis talks over…",
+   "description": "Job in balance after 3-0 home defeat by Bournemouth Howe is director of football Jason Wilcox’s top candidate Manchester United’s hierarchy are in crisis talks over whether or not to sack Michael Carrick as manager after he oversaw another torrid defeat , to Bournemouth at Old Trafford on Sunday, that appeared to leave his job in the balance. Carrick was defiant after the 3-0 humbling, insisting he was not expecting to be removed from his post, but the United executive were actively considering doing so, the Guardian understands. Eddie Howe remains the preferred candidate of Jason Wilcox, United’s director of football, should there be a change in the dugout, with the former Newcastle manager’s extensive Premier League experience placing him ahead of other potential targets. Howe would be less expensive to bring in than Unai Emery, another admired candidate, given Aston Villa would demand about £20m in compensation for the Spaniard. Continue reading...",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-10-25T19:24:06.000Z",
+   "fetched_at": "2026-10-25T19:53:34.821Z",
+   "body": [
+    "Our briefing: Job in balance after 3-0 home defeat by Bournemouth Howe is director of football Jason Wilcox’s top candidate Manchester United’s hierarchy are in crisis talks over…",
+    "Job in balance after 3-0 home defeat by Bournemouth Howe is director of football Jason Wilcox’s top candidate Manchester United’s hierarchy are in crisis talks over whether or not to sack Michael Carrick as manager after he oversaw another torrid defeat , to Bournemouth at Old Trafford on Sunday, that appeared to leave his job in the balance. Carrick was defiant after the 3-0 humbling, insisting he was not expecting to be removed from his post, but the United executive were actively considering doing so, the Guardian understands. Eddie Howe remains the preferred candidate of Jason Wilcox, United’s director of football, should there be a change in the dugout, with the former Newcastle manager’s extensive Premier League experience placing him ahead of other potential targets.",
+    "Howe would be less expensive to bring in than Unai Emery, another admired candidate, given Aston Villa would demand about £20m in compensation for the Spaniard. Continue reading...",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Manchester_United_v_Manchester_City%2C_6_November_2021_%2815%29.jpg/960px-Manchester_United_v_Manchester_City%2C_6_November_2021_%2815%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ardfern — CC BY-SA 4.0"
+  },
+  {
+   "id": "independent-barcelona-v-real-madrid-tv-how-watch-el-clasico-",
+   "slug": "is-barcelona-v-real-madrid-on-tv-how-to-watch-el-clasico-in--sico-",
+   "title": "Is Barcelona v Real Madrid on TV? How to watch El Clasico in the UK",
+   "dek": "Everything you need to know ahead of El Clasico",
+   "description": "Everything you need to know ahead of El Clasico",
+   "category": "Tactics & Analysis",
+   "league": "La Liga",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-10-25T19:16:52.000Z",
+   "fetched_at": "2026-10-25T19:53:34.942Z",
+   "body": [
+    "Our briefing: Everything you need to know ahead of El Clasico",
+    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Real_Madrid%27s_Santiago_Bernab%C3%A9u_Stadium%2C_Madrid%2C_Spain_%28Ank_Kumar%29_05.jpg/960px-Real_Madrid%27s_Santiago_Bernab%C3%A9u_Stadium%2C_Madrid%2C_Spain_%28Ank_Kumar%29_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ank Kumar — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-football-hub-reaction-sunday-s-action",
+   "slug": "the-football-hub-reaction-to-sunday-s-action-ction",
+   "title": "The Football Hub: Reaction to Sunday's action",
+   "dek": "All of this weekend's talking points from the Premier League.",
+   "description": "All of this weekend's talking points from the Premier League.",
+   "category": "Tactics & Analysis",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-25T18:46:19.000Z",
+   "fetched_at": "2026-10-25T19:53:34.587Z",
+   "body": [
+    "Our briefing: All of this weekend's talking points from the Premier League.",
+    "All of this weekend's talking points from the Premier League.",
+    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
+  },
+  {
+   "id": "guardian-roefs-trafford-stand-firm-sunderland-leeds-battl",
+   "slug": "roefs-and-trafford-stand-firm-as-sunderland-and-leeds-battle-battl",
+   "title": "Roefs and Trafford stand firm as Sunderland and Leeds battle for point",
+   "dek": "Régis Le Bris can usually do impassive to perfection but, by the final whistle, even Sunderland’s ultra balanced manager was looking more than a little fed up and…",
+   "description": "Régis Le Bris can usually do impassive to perfection but, by the final whistle, even Sunderland’s ultra balanced manager was looking more than a little fed up and frustrated. His bottom-placed team had probably just about deserved a second Premier League win of the season but instead had to settle for a draw on an afternoon when the hugely disruptive Storm Boelo proved the enemy of good football. Continue reading...",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-10-25T18:46:08.000Z",
+   "fetched_at": "2026-10-25T19:53:34.821Z",
+   "body": [
+    "Our briefing: Régis Le Bris can usually do impassive to perfection but, by the final whistle, even Sunderland’s ultra balanced manager was looking more than a little fed up and…",
+    "Régis Le Bris can usually do impassive to perfection but, by the final whistle, even Sunderland’s ultra balanced manager was looking more than a little fed up and frustrated. His bottom-placed team had probably just about deserved a second Premier League win of the season but instead had to settle for a draw on an afternoon when the hugely disruptive Storm Boelo proved the enemy of good football. Continue reading...",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Leeds_United-Galatasaray_match_in_20_April_2000.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "John Seb Barber from Leeds, UK — CC BY-SA 2.0"
+  },
+  {
+   "id": "bbc-pressure-grows-sage-fans-turn-palace-boss",
+   "slug": "pressure-grows-on-sage-as-fans-turn-on-palace-boss--boss",
+   "title": "Pressure grows on Sage as fans turn on Palace boss",
+   "dek": "Crystal Palace boss Pierre Sage had a tough act to follow in Oliver Glasner - and four months into the job the Frenchman is already under big pressure.",
+   "description": "Crystal Palace boss Pierre Sage had a tough act to follow in Oliver Glasner - and four months into the job the Frenchman is already under big pressure.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-25T18:36:12.000Z",
+   "fetched_at": "2026-10-25T19:53:34.587Z",
+   "body": [
+    "Our briefing: Crystal Palace boss Pierre Sage had a tough act to follow in Oliver Glasner - and four months into the job the Frenchman is already under big pressure.",
+    "Crystal Palace boss Pierre Sage had a tough act to follow in Oliver Glasner - and four months into the job the Frenchman is already under big pressure.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/CPSL_2005_semifinals_-_Esther_Shiner_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "Robin Glover — CC BY 4.0"
+  },
+  {
+   "id": "independent-man-united-s-latest-abject-display-spells-end-mi",
+   "slug": "man-united-s-latest-abject-display-spells-the-end-for-michae-nd-mi",
+   "title": "Man United’s latest abject display spells the end for Michael Carrick after huge call backfires",
+   "dek": "Man United 0-3 Bournemouth: The Cherries outclassed United and it’s hard to see how Carrick, who dropped captain Bruno Fernandes after his midweek comments, can survive",
+   "description": "Man United 0-3 Bournemouth: The Cherries outclassed United and it’s hard to see how Carrick, who dropped captain Bruno Fernandes after his midweek comments, can survive",
+   "category": "Tactics & Analysis",
+   "league": "Football",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-10-25T18:18:37.000Z",
+   "fetched_at": "2026-10-25T19:53:34.942Z",
+   "body": [
+    "Our briefing: Man United 0-3 Bournemouth: The Cherries outclassed United and it’s hard to see how Carrick, who dropped captain Bruno Fernandes after his midweek comments, can survive",
+    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-chaos-or-concern-hanley-s-striker-cameo-poses-qu",
+   "slug": "chaos-or-concern-hanley-s-striker-cameo-poses-questions-for--es-qu",
+   "title": "Chaos or concern - Hanley's striker cameo poses questions for Hibs",
+   "dek": "Grant Hanley was called upon to be a makeshift striker for Hibs against Celtic, but what does it signal for the Scottish Premiership's bottom side?",
+   "description": "Grant Hanley was called upon to be a makeshift striker for Hibs against Celtic, but what does it signal for the Scottish Premiership's bottom side?",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-25T18:14:53.000Z",
+   "fetched_at": "2026-10-25T19:53:34.588Z",
+   "body": [
+    "Our briefing: Grant Hanley was called upon to be a makeshift striker for Hibs against Celtic, but what does it signal for the Scottish Premiership's bottom side?",
+    "Grant Hanley was called upon to be a makeshift striker for Hibs against Celtic, but what does it signal for the Scottish Premiership's bottom side?",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+  },
+  {
+   "id": "bbc-isak-finally-living-up-price-tag-liverpool-patie",
+   "slug": "isak-finally-living-up-to-price-tag-as-liverpool-patience-re-patie",
+   "title": "Isak finally living up to price tag as Liverpool patience rewarded",
+   "dek": "Alexander Isak scores his sixth Premier League goal of the season as Liverpool make it four wins out of their last four under Andoni Iraola.",
+   "description": "Alexander Isak scores his sixth Premier League goal of the season as Liverpool make it four wins out of their last four under Andoni Iraola.",
+   "category": "Transfers & Rumours",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-25T18:13:55.000Z",
+   "fetched_at": "2026-10-25T19:53:34.587Z",
+   "body": [
+    "Our briefing: Alexander Isak scores his sixth Premier League goal of the season as Liverpool make it four wins out of their last four under Andoni Iraola.",
+    "Alexander Isak scores his sixth Premier League goal of the season as Liverpool make it four wins out of their last four under Andoni Iraola.",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Magistrates%27_Court%2C_Dale_Street%2C_Liverpool_2018.jpg/960px-Magistrates%27_Court%2C_Dale_Street%2C_Liverpool_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Rodhullandemu — CC BY-SA 4.0"
+  },
+  {
+   "id": "guardian-fernandes-gamble-leaves-carrick-carry-can-united",
+   "slug": "fernandes-gamble-leaves-carrick-to-carry-the-can-for-united--nited",
+   "title": "Fernandes gamble leaves Carrick to carry the can for United’s institutional failures | Will Unwin",
+   "dek": "Leaving out his captain was doomed to fail but so are the club under the current leadership and the fans at Old Trafford know that all too well Dropping your captain, who…",
+   "description": "Leaving out his captain was doomed to fail but so are the club under the current leadership and the fans at Old Trafford know that all too well Dropping your captain, who has held the team together for most of the past five years, is a bold move from a man whose job is on the line. It was very much a make-or-break decision from Michael Carrick to leave out Bruno Fernandes against Bournemouth. It did not work and Carrick knew the consequences if it failed and will probably pay the price for it, but he should not be alone. Carrick said the decision to drop the Portuguese playmaker was purely based on football reasons but criticising his manager after the desperate defeat to Como cannot have helped. Clearly Carrick disagreed with his captain’s comments on the lack of pressing in the Champions League fixture. It was somewhat telling that Lisandro Martínez kept his place despite pointing out the director of football, Jason Wilcox, was a hindrance to the club the previous week. Continue reading...",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-10-25T17:56:06.000Z",
+   "fetched_at": "2026-10-25T19:53:34.822Z",
+   "body": [
+    "Our briefing: Leaving out his captain was doomed to fail but so are the club under the current leadership and the fans at Old Trafford know that all too well Dropping your captain, who…",
+    "Leaving out his captain was doomed to fail but so are the club under the current leadership and the fans at Old Trafford know that all too well Dropping your captain, who has held the team together for most of the past five years, is a bold move from a man whose job is on the line. It was very much a make-or-break decision from Michael Carrick to leave out Bruno Fernandes against Bournemouth. It did not work and Carrick knew the consequences if it failed and will probably pay the price for it, but he should not be alone.",
+    "Carrick said the decision to drop the Portuguese playmaker was purely based on football reasons but criticising his manager after the desperate defeat to Como cannot have helped. Clearly Carrick disagreed with his captain’s comments on the lack of pressing in the Champions League fixture. It was somewhat telling that Lisandro Martínez kept his place despite pointing out the director of football, Jason Wilcox, was a hindrance to the club the previous week.",
+    "Continue reading...",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": null
+  },
+  {
+   "id": "guardian-scottish-premiership-dur-n-caps-celtic-s-comebac",
+   "slug": "scottish-premiership-dur-n-caps-celtic-s-comeback-win-over-h-mebac",
+   "title": "Scottish Premiership: Durán caps Celtic’s comeback win over Hibernian",
+   "dek": "Hibernian 1-2 Celtic; Rangers 4-0 St Johnstone Braga and Miller give Hearts 2-0 win at Motherwell Camilo Durán moved into double figures for the season as Celtic…",
+   "description": "Hibernian 1-2 Celtic; Rangers 4-0 St Johnstone Braga and Miller give Hearts 2-0 win at Motherwell Camilo Durán moved into double figures for the season as Celtic reasserted themselves at the top of the Premiership by coming from behind to defeat beleaguered Hibernian 2-1 at windy Easter Road. After another Europa League setback at home to Celta Vigo on Thursday, the champions bounced back with a victory that restored their four-point cushion over Rangers at the top. The home side, who are bottom, took an early lead through Owen Elding but it was swiftly cancelled out by a Jason Kerr own goal before Duran’s 10th of the season edged the visitors ahead just before the break. Continue reading...",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-10-25T17:53:36.000Z",
+   "fetched_at": "2026-10-25T19:53:34.821Z",
+   "body": [
+    "Our briefing: Hibernian 1-2 Celtic; Rangers 4-0 St Johnstone Braga and Miller give Hearts 2-0 win at Motherwell Camilo Durán moved into double figures for the season as Celtic…",
+    "Hibernian 1-2 Celtic; Rangers 4-0 St Johnstone Braga and Miller give Hearts 2-0 win at Motherwell Camilo Durán moved into double figures for the season as Celtic reasserted themselves at the top of the Premiership by coming from behind to defeat beleaguered Hibernian 2-1 at windy Easter Road. After another Europa League setback at home to Celta Vigo on Thursday, the champions bounced back with a victory that restored their four-point cushion over Rangers at the top. The home side, who are bottom, took an early lead through Owen Elding but it was swiftly cancelled out by a Jason Kerr own goal before Duran’s 10th of the season edged the visitors ahead just before the break.",
+    "Continue reading...",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Match_Day_Celtic_Park_-_geograph.org.uk_-_2596994.jpg/960px-Match_Day_Celtic_Park_-_geograph.org.uk_-_2596994.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "edward mcmaihin — CC BY-SA 2.0"
+  },
+  {
+   "id": "independent-man-united-v-bournemouth-live-michael-carrick-br",
+   "slug": "man-united-v-bournemouth-live-michael-carrick-on-the-brink-o-ck-br",
+   "title": "Man United v Bournemouth LIVE: Michael Carrick on the brink of sack as United humiliated again",
+   "dek": "Man United 0-3 Bournemouth: The Cherries outclassed United and it’s hard to see how Carrick, who dropped captain Bruno Fernandes after his midweek comments, can survive",
+   "description": "Man United 0-3 Bournemouth: The Cherries outclassed United and it’s hard to see how Carrick, who dropped captain Bruno Fernandes after his midweek comments, can survive",
+   "category": "Tactics & Analysis",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-10-25T17:36:24.000Z",
+   "fetched_at": "2026-10-25T19:53:34.942Z",
+   "body": [
+    "Our briefing: Man United 0-3 Bournemouth: The Cherries outclassed United and it’s hard to see how Carrick, who dropped captain Bruno Fernandes after his midweek comments, can survive",
+    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Bournemouth_v_West_Ham_2023.jpeg/960px-Bournemouth_v_West_Ham_2023.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Egghead06 — CC BY-SA 4.0"
+  },
+  {
+   "id": "independent-liverpool-secure-first-league-win-home-comfortab",
+   "slug": "liverpool-secure-first-league-win-at-home-with-comfortable-v-ortab",
+   "title": "Liverpool secure first league win at home with comfortable victory over Brighton",
+   "dek": "Alexander Isak scored the second goal in a 2-0 win as Liverpool’s attack impressed",
+   "description": "Alexander Isak scored the second goal in a 2-0 win as Liverpool’s attack impressed",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-10-25T17:31:56.000Z",
+   "fetched_at": "2026-10-25T19:53:34.942Z",
+   "body": [
+    "Our briefing: Alexander Isak scored the second goal in a 2-0 win as Liverpool’s attack impressed",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Galatasaray_Liverpool_CL_2006.jpg/960px-Galatasaray_Liverpool_CL_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "tekinim — CC BY 2.0"
+  },
+  {
+   "id": "independent-michael-carrick-says-waving-fans-after-bournemou",
+   "slug": "michael-carrick-says-waving-to-fans-after-bournemouth-thrash-nemou",
+   "title": "Michael Carrick says waving to fans after Bournemouth thrashing ‘wasn’t a farewell’",
+   "dek": "Head coach Michael Carrick was still serenaded by supportive fans inside Old Trafford but conceded he was unsure if he would keep his job",
+   "description": "Head coach Michael Carrick was still serenaded by supportive fans inside Old Trafford but conceded he was unsure if he would keep his job",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-10-25T17:28:51.000Z",
+   "fetched_at": "2026-10-25T19:53:34.942Z",
+   "body": [
+    "Our briefing: Head coach Michael Carrick was still serenaded by supportive fans inside Old Trafford but conceded he was unsure if he would keep his job",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Fulham_v_AFC_Bournemouth_09052026_%281%29.jpg/960px-Fulham_v_AFC_Bournemouth_09052026_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
   {
    "id": "guardian-sunderland-v-leeds-premier-league-live",
    "slug": "sunderland-v-leeds-premier-league-live--live",
@@ -41,26 +439,6 @@
    "imageCredit": "John Seb Barber from Leeds, UK — CC BY-SA 2.0"
   },
   {
-   "id": "independent-man-united-v-bournemouth-live-michael-carrick-br",
-   "slug": "man-united-v-bournemouth-live-michael-carrick-on-the-brink-o-ck-br",
-   "title": "Man United v Bournemouth LIVE: Michael Carrick on the brink of sack as United humiliated again",
-   "dek": "Man United 0-3 Bournemouth: The Cherries outclassed United and it’s hard to see how Carrick, who dropped captain Bruno Fernandes after his midweek comments, can survive",
-   "description": "Man United 0-3 Bournemouth: The Cherries outclassed United and it’s hard to see how Carrick, who dropped captain Bruno Fernandes after his midweek comments, can survive",
-   "category": "Tactics & Analysis",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-10-25T17:17:06.000Z",
-   "fetched_at": "2026-10-25T17:26:58.830Z",
-   "body": [
-    "Our briefing: Man United 0-3 Bournemouth: The Cherries outclassed United and it’s hard to see how Carrick, who dropped captain Bruno Fernandes after his midweek comments, can survive",
-    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Bournemouth_v_West_Ham_2023.jpeg/960px-Bournemouth_v_West_Ham_2023.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Egghead06 — CC BY-SA 4.0"
-  },
-  {
    "id": "bbc-carrick-saddened-man-utd-situation-after-bournem",
    "slug": "carrick-saddened-by-man-utd-situation-after-bournemouth-loss-urnem",
    "title": "Carrick 'saddened' by Man Utd situation after Bournemouth loss",
@@ -71,7 +449,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-25T17:02:59.000Z",
-   "fetched_at": "2026-10-25T17:26:58.534Z",
+   "fetched_at": "2026-10-25T19:53:34.588Z",
    "body": [
     "Our briefing: Manchester United manager Micheal Carrick reflects on a 'tough day' after his side lost 3-0 at home to Bournemouth with his future in doubt with United without a win in…",
     "Manchester United manager Micheal Carrick reflects on a 'tough day' after his side lost 3-0 at home to Bournemouth with his future in doubt with United without a win in their last eight games.",
@@ -92,7 +470,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-25T17:00:21.000Z",
-   "fetched_at": "2026-10-25T17:26:58.830Z",
+   "fetched_at": "2026-10-25T19:53:34.942Z",
    "body": [
     "Our briefing: Oli McBurnie scored the opener for the Tigers, who remain without a win in seven games",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -112,7 +490,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-25T16:57:34.000Z",
-   "fetched_at": "2026-10-25T17:26:58.830Z",
+   "fetched_at": "2026-10-25T19:53:34.942Z",
    "body": [
     "Our briefing: Joe Willock had an effort chalked off by VAR between the Magpies’ goals",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -120,26 +498,6 @@
    ],
    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Fulham_v_Newcastle_United_24052026_%281%29.jpg/960px-Fulham_v_Newcastle_United_24052026_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
-  },
-  {
-   "id": "independent-liverpool-secure-first-league-win-home-comfortab",
-   "slug": "liverpool-secure-first-league-win-at-home-with-comfortable-v-ortab",
-   "title": "Liverpool secure first league win at home with comfortable victory over Brighton",
-   "dek": "Alexander Isak scored the second goal in a 2-0 win as Liverpool’s attack impressed",
-   "description": "Alexander Isak scored the second goal in a 2-0 win as Liverpool’s attack impressed",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-10-25T16:54:51.000Z",
-   "fetched_at": "2026-10-25T17:26:58.830Z",
-   "body": [
-    "Our briefing: Alexander Isak scored the second goal in a 2-0 win as Liverpool’s attack impressed",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Galatasaray_Liverpool_CL_2006.jpg/960px-Galatasaray_Liverpool_CL_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "tekinim — CC BY 2.0"
   },
   {
    "id": "bbc-carrick-future-under-major-threat-can-he-survive",
@@ -152,35 +510,59 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-25T16:51:48.000Z",
-   "fetched_at": "2026-10-25T17:26:58.534Z",
+   "fetched_at": "2026-10-25T19:53:34.587Z",
    "body": [
     "Our briefing: Michael Carrick's future as Manchester United manager is under major threat following the home loss to Bournemouth on Sunday.",
     "Michael Carrick's future as Manchester United manager is under major threat following the home loss to Bournemouth on Sunday.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "John Shorten — CC BY 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "guardian-ouattara-rescues-point-brentford-hull-maintain-u",
    "slug": "ouattara-rescues-point-for-brentford-as-hull-maintain-unbeat-ain-u",
    "title": "Ouattara rescues point for Brentford as Hull maintain unbeaten home record",
-   "dek": "Hull’s unbeaten home record remains intact but the Tigers have not tasted victory for seven games after a 1-1 draw with Brentford at the MKM Stadium. The opening goal…",
-   "description": "Hull’s unbeaten home record remains intact but the Tigers have not tasted victory for seven games after a 1-1 draw with Brentford at the MKM Stadium. The opening goal came courtesy of a 24th-minute Oli McBurnie penalty, awarded when Aaron Hickey flattened Tim Iroegbunam inside the area while trying to hook the ball away. Continue reading...",
+   "dek": "Hull’s unbeaten home record remains intact but the Tigers have not tasted victory for seven games after this draw with Brentford. The opening goal came courtesy of a…",
+   "description": "Hull’s unbeaten home record remains intact but the Tigers have not tasted victory for seven games after this draw with Brentford. The opening goal came courtesy of a 24th-minute Oli McBurnie penalty, awarded when Aaron Hickey flattened Tim Iroegbunam while trying to hook the ball away. Continue reading...",
    "category": "Match Reports",
    "league": "Premier League",
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-25T16:40:07.000Z",
-   "fetched_at": "2026-10-25T17:26:58.697Z",
+   "fetched_at": "2026-10-25T19:53:34.821Z",
    "body": [
-    "Our briefing: Hull’s unbeaten home record remains intact but the Tigers have not tasted victory for seven games after a 1-1 draw with Brentford at the MKM Stadium. The opening goal…",
-    "Hull’s unbeaten home record remains intact but the Tigers have not tasted victory for seven games after a 1-1 draw with Brentford at the MKM Stadium. The opening goal came courtesy of a 24th-minute Oli McBurnie penalty, awarded when Aaron Hickey flattened Tim Iroegbunam inside the area while trying to hook the ball away. Continue reading...",
+    "Our briefing: Hull’s unbeaten home record remains intact but the Tigers have not tasted victory for seven games after this draw with Brentford. The opening goal came courtesy of a…",
+    "Hull’s unbeaten home record remains intact but the Tigers have not tasted victory for seven games after this draw with Brentford. The opening goal came courtesy of a 24th-minute Oli McBurnie penalty, awarded when Aaron Hickey flattened Tim Iroegbunam while trying to hook the ball away. Continue reading...",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Brentford_Supporters_05092026_%281%29.jpg/960px-Brentford_Supporters_05092026_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
+   "id": "guardian-osula-barnes-strike-newcastle-pile-pressure-lack",
+   "slug": "osula-and-barnes-strike-as-newcastle-pile-pressure-on-lacklu--lack",
+   "title": "Osula and Barnes strike as Newcastle pile pressure on lacklustre Palace",
+   "dek": "The first half was dreadful. The pass completion rate was a meagre 72.8%, although it felt lower. There were only two shots on target. The sun kept popping out from…",
+   "description": "The first half was dreadful. The pass completion rate was a meagre 72.8%, although it felt lower. There were only two shots on target. The sun kept popping out from behind the clouds to take a look, and then going back in again, appalled. And the really bad news for Crystal Palace is that, for them, that was the good bit. Newcastle were much improved after the break. Will Osula touched in a Jacob Murphy cross two minutes after half-time, Joe Willock had an effort ruled out for a marginal offside five minutes later, and Harvey Barnes completed a slick passing move six minutes after that. A smattering of boos from the home fans made clear what everybody already knew. Quarter of an hour of proper football had been enough to win the game, and that leaves Pierre Sage under significant pressure . Continue reading...",
+   "category": "Injuries",
+   "league": "Premier League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-10-25T16:29:02.000Z",
+   "fetched_at": "2026-10-25T19:53:34.821Z",
+   "body": [
+    "Our briefing: The first half was dreadful. The pass completion rate was a meagre 72.8%, although it felt lower. There were only two shots on target. The sun kept popping out from…",
+    "The first half was dreadful. The pass completion rate was a meagre 72. 8%, although it felt lower.",
+    "There were only two shots on target. The sun kept popping out from behind the clouds to take a look, and then going back in again, appalled. And the really bad news for Crystal Palace is that, for them, that was the good bit.",
+    "Newcastle were much improved after the break. Will Osula touched in a Jacob Murphy cross two minutes after half-time, Joe Willock had an effort ruled out for a marginal offside five minutes later, and Harvey Barnes completed a slick passing move six minutes after that. A smattering of boos from the home fans made clear what everybody already knew.",
+    "Quarter of an hour of proper football had been enough to win the game, and that leaves Pierre Sage under significant pressure . Continue reading...",
+    "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/The_Newcastle_Guardians_and_vaccination_-_special_report_of_the_arguments_against_the_Compulsory_Vaccination_Acts%2C_at_the_debate_at_the_Board_of_Guardians%2C_Newcastle%2C_March_1st%2C_1878_%28IA_b22411586%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
   },
   {
@@ -204,28 +586,7 @@
     "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/The_Newcastle_Guardians_and_vaccination_-_special_report_of_the_arguments_against_the_Compulsory_Vaccination_Acts%2C_at_the_debate_at_the_Board_of_Guardians%2C_Newcastle%2C_March_1st%2C_1878_%28IA_b22411586%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "independent-man-united-s-latest-abject-display-spells-end-mi",
-   "slug": "man-united-s-latest-abject-display-spells-the-end-for-michae-nd-mi",
-   "title": "Man United’s latest abject display spells the end for Michael Carrick after huge call backfires",
-   "dek": "Man United 0-3 Bournemouth: The Cherries outclassed United and it’s hard to see how Carrick, who dropped captain Bruno Fernandes after his midweek comments, can survive",
-   "description": "Man United 0-3 Bournemouth: The Cherries outclassed United and it’s hard to see how Carrick, who dropped captain Bruno Fernandes after his midweek comments, can survive",
-   "category": "Tactics & Analysis",
-   "league": "Football",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-10-25T16:21:53.000Z",
-   "fetched_at": "2026-10-25T17:26:58.830Z",
-   "body": [
-    "Our briefing: Man United 0-3 Bournemouth: The Cherries outclassed United and it’s hard to see how Carrick, who dropped captain Bruno Fernandes after his midweek comments, can survive",
-    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/The_Newcastle_Guardians_and_vaccination_-_special_report_of_the_arguments_against_the_Compulsory_Vaccination_Acts%2C_at_the_debate_at_the_Board_of_Guardians%2C_Newcastle%2C_March_1st%2C_1878_%28IA_b22411586%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
    "id": "guardian-michael-carrick-brink-after-manchester-united-ar",
@@ -250,6 +611,28 @@
    "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
   },
   {
+   "id": "guardian-isak-applies-finishing-touch-liverpool-bring-bri",
+   "slug": "isak-applies-finishing-touch-as-liverpool-bring-brighton-s-w-g-bri",
+   "title": "Isak applies finishing touch as Liverpool bring Brighton’s winning run to an end",
+   "dek": "Brighton’s impressive run was blown off course at Anfield where Liverpool performed with an appetite and urgency at both ends of the pitch that showed Andoni Iraola’s…",
+   "description": "Brighton’s impressive run was blown off course at Anfield where Liverpool performed with an appetite and urgency at both ends of the pitch that showed Andoni Iraola’s methods taking root. It was Liverpool, deserving winners on home soil for the first time in the Premier League this season, who looked upwardly mobile. There was more evidence of the expensive trio of Florian Wirtz, Alexander Isak and Bradley Barcola feeling at home and adapting to Iraola’s demands. Wirtz was instrumental in an opening goal officially credited to Brighton’s Pascal Gross and Isak scored for the sixth time in six Premier League appearances to shatter the visitors’ sequence of four successive league wins. The sight of Barcola sprinting back to help his defence and Ronald Araújo smashing into challenges, as Liverpool stubbornly defended their lead and their box in the second half, satisfied Iraola just as much as his side’s incisiveness before the break. Continue reading...",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-10-25T16:12:57.000Z",
+   "fetched_at": "2026-10-25T19:53:34.821Z",
+   "body": [
+    "Our briefing: Brighton’s impressive run was blown off course at Anfield where Liverpool performed with an appetite and urgency at both ends of the pitch that showed Andoni Iraola’s…",
+    "Brighton’s impressive run was blown off course at Anfield where Liverpool performed with an appetite and urgency at both ends of the pitch that showed Andoni Iraola’s methods taking root. It was Liverpool, deserving winners on home soil for the first time in the Premier League this season, who looked upwardly mobile. There was more evidence of the expensive trio of Florian Wirtz, Alexander Isak and Bradley Barcola feeling at home and adapting to Iraola’s demands.",
+    "Wirtz was instrumental in an opening goal officially credited to Brighton’s Pascal Gross and Isak scored for the sixth time in six Premier League appearances to shatter the visitors’ sequence of four successive league wins. The sight of Barcola sprinting back to help his defence and Ronald Araújo smashing into challenges, as Liverpool stubbornly defended their lead and their box in the second half, satisfied Iraola just as much as his side’s incisiveness before the break. Continue reading...",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Elftal_van_Liverpool%2C_Bestanddeelnr_919-7002.jpg/960px-Elftal_van_Liverpool%2C_Bestanddeelnr_919-7002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
    "id": "bbc-fernandes-left-out-man-utd-hammered-bournemouth-",
    "slug": "fernandes-left-out-man-utd-hammered-bournemouth-brilliant-ho-outh-",
    "title": "Fernandes left out - Man Utd hammered, Bournemouth brilliant - how they rated",
@@ -260,15 +643,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-25T16:04:13.000Z",
-   "fetched_at": "2026-10-25T17:26:58.534Z",
+   "fetched_at": "2026-10-25T19:53:34.588Z",
    "body": [
     "Our briefing: Another catastrophic day for Manchester United and a glorious one for Bournemouth - how did the players rate?",
     "Another catastrophic day for Manchester United and a glorious one for Bournemouth - how did the players rate?",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Manchester_United_v_Manchester_City%2C_6_November_2021_%2815%29.jpg/960px-Manchester_United_v_Manchester_City%2C_6_November_2021_%2815%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ardfern — CC BY-SA 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/25_July_2010_Kansas_City_Wizards_vs_Manchester_United_friendly.jpg/960px-25_July_2010_Kansas_City_Wizards_vs_Manchester_United_friendly.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Conman33 — CC BY-SA 4.0"
   },
   {
    "id": "independent-next-man-united-manager-who-could-replace-michae",
@@ -281,14 +664,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-25T16:01:20.000Z",
-   "fetched_at": "2026-10-25T17:26:58.830Z",
+   "fetched_at": "2026-10-25T19:53:34.942Z",
    "body": [
     "Our briefing: Carrick is under huge pressure heading as Sunday’s home defeat to Bournemouth extended United’s winless run to eight games in all competitions",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": null
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   },
   {
    "id": "bbc-isak-barcola-wirtz-turn-up-player-ratings-liverp",
@@ -322,37 +705,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-25T14:44:52.000Z",
-   "fetched_at": "2026-10-25T17:26:58.536Z",
+   "fetched_at": "2026-10-25T19:53:34.590Z",
    "body": [
     "Our briefing: Celtic manager Martin O'Neill explained Alistair Johnston \"felt something again\" after his substitute appearance in the win over Hibernian was cut short.",
     "Celtic manager Martin O'Neill explained Alistair Johnston \"felt something again\" after his substitute appearance in the win over Hibernian was cut short.",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Kiran891 — CC BY-SA 4.0"
-  },
-  {
-   "id": "guardian-scottish-premiership-dur-n-caps-celtic-s-comebac",
-   "slug": "scottish-premiership-dur-n-caps-celtic-s-comeback-win-over-h-mebac",
-   "title": "Scottish Premiership: Durán caps Celtic’s comeback win over Hibernian",
-   "dek": "Hibernian 1-2 Celtic; Rangers 4-0 St Johnstone Kevin Kelsy scores two to sink 10-man Saints Camilo Durán moved into double figures for the season as Celtic reasserted…",
-   "description": "Hibernian 1-2 Celtic; Rangers 4-0 St Johnstone Kevin Kelsy scores two to sink 10-man Saints Camilo Durán moved into double figures for the season as Celtic reasserted themselves at the top of the Premiership by coming from behind to defeat beleaguered Hibernian 2-1 at windy Easter Road. After another Europa League setback at home to Celta Vigo on Thursday, the champions bounced back with a victory that restored their four-point cushion over Rangers at the top. The home side, who are bottom, took an early lead through Owen Elding but it was swiftly cancelled out by a Jason Kerr own goal before Duran’s 10th of the season edged the visitors ahead just before the break. Continue reading...",
-   "category": "Match Reports",
-   "league": "Football",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-10-25T14:20:04.000Z",
-   "fetched_at": "2026-10-25T17:26:58.697Z",
-   "body": [
-    "Our briefing: Hibernian 1-2 Celtic; Rangers 4-0 St Johnstone Kevin Kelsy scores two to sink 10-man Saints Camilo Durán moved into double figures for the season as Celtic reasserted…",
-    "Hibernian 1-2 Celtic; Rangers 4-0 St Johnstone Kevin Kelsy scores two to sink 10-man Saints Camilo Durán moved into double figures for the season as Celtic reasserted themselves at the top of the Premiership by coming from behind to defeat beleaguered Hibernian 2-1 at windy Easter Road. After another Europa League setback at home to Celta Vigo on Thursday, the champions bounced back with a victory that restored their four-point cushion over Rangers at the top. The home side, who are bottom, took an early lead through Owen Elding but it was swiftly cancelled out by a Jason Kerr own goal before Duran’s 10th of the season edged the visitors ahead just before the break.",
-    "Continue reading...",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Match_Day_Celtic_Park_-_geograph.org.uk_-_2596994.jpg/960px-Match_Day_Celtic_Park_-_geograph.org.uk_-_2596994.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "edward mcmaihin — CC BY-SA 2.0"
   },
   {
    "id": "bbc-sheffield-wednesday-sack-pedersen-after-15-month",
@@ -365,14 +726,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-25T14:00:15.000Z",
-   "fetched_at": "2026-10-25T17:26:58.534Z",
+   "fetched_at": "2026-10-25T19:53:34.588Z",
    "body": [
     "Our briefing: Sheffield Wednesday sack head coach Henrik Pedersen after less than 15 months in charge following consecutive defeats.",
     "Sheffield Wednesday sack head coach Henrik Pedersen after less than 15 months in charge following consecutive defeats.",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
   },
   {
@@ -408,15 +769,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-25T13:26:13.000Z",
-   "fetched_at": "2026-10-25T17:26:58.534Z",
+   "fetched_at": "2026-10-25T19:53:34.587Z",
    "body": [
     "Our briefing: Manchester United skipper Bruno Fernandes is left on the bench for Sunday's 3-0 loss to Bournemouth, following his criticism of manager Michael Carrick.",
     "Manchester United skipper Bruno Fernandes is left on the bench for Sunday's 3-0 loss to Bournemouth, following his criticism of manager Michael Carrick.",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/25_July_2010_Kansas_City_Wizards_vs_Manchester_United_friendly.jpg/960px-25_July_2010_Kansas_City_Wizards_vs_Manchester_United_friendly.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Conman33 — CC BY-SA 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Manchester_United_v_Tottenham_Hotspur%2C_12_March_2022_%2805%29.jpg/960px-Manchester_United_v_Tottenham_Hotspur%2C_12_March_2022_%2805%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ardfern — CC BY-SA 4.0"
   },
   {
    "id": "bbc-fernandes-dropped-man-utd-bench-was-carrick-righ",
@@ -450,7 +811,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-25T13:14:12.000Z",
-   "fetched_at": "2026-10-25T17:26:58.830Z",
+   "fetched_at": "2026-10-25T19:53:34.942Z",
    "body": [
     "Our briefing: Man United captain Fernandes went on a remarkable diatribe about Carrick and his tactical set-up following the midweek debacle against Como",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
@@ -489,372 +850,11 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-25T12:13:40.000Z",
-   "fetched_at": "2026-10-25T17:26:58.534Z",
+   "fetched_at": "2026-10-25T19:53:34.588Z",
    "body": [
     "Our briefing: Sam Dewhirst and David Porcher score the goals as England beat the United States in the final of the Cerebral Palsy World Cup in Atlanta.",
     "Sam Dewhirst and David Porcher score the goals as England beat the United States in the final of the Cerebral Palsy World Cup in Atlanta.",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
-  },
-  {
-   "id": "independent-glaring-chelsea-problem-that-xabi-alonso-yet-sol",
-   "slug": "the-glaring-chelsea-problem-that-xabi-alonso-is-yet-to-solve-t-sol",
-   "title": "The glaring Chelsea problem that Xabi Alonso is yet to solve after Cole Palmer sees red",
-   "dek": "Alonso spoke of ‘emotional control’ ahead of Tottenham’s visit but Palmer’s red card showed Chelsea’s disciplinary issues are still a thing of the present",
-   "description": "Alonso spoke of ‘emotional control’ ahead of Tottenham’s visit but Palmer’s red card showed Chelsea’s disciplinary issues are still a thing of the present",
-   "category": "Previews",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-10-25T11:30:09.000Z",
-   "fetched_at": "2026-10-25T17:26:58.830Z",
-   "body": [
-    "Our briefing: Alonso spoke of ‘emotional control’ ahead of Tottenham’s visit but Palmer’s red card showed Chelsea’s disciplinary issues are still a thing of the present",
-    "Team news can change right up to kick-off. Bookmark this story for the final line-ups and confirmed sides.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Chelsea_vs_union_1929.jpg/960px-Chelsea_vs_union_1929.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "independent-damning-reality-michael-carrick-s-diabolical-man",
-   "slug": "the-damning-reality-of-michael-carrick-s-diabolical-man-unit-l-man",
-   "title": "The damning reality of Michael Carrick’s diabolical Man United",
-   "dek": "For a man who made an instant impact as interim manager last season, Carrick’s team have looked worse the longer he has been in charge and he has looked powerless to…",
-   "description": "For a man who made an instant impact as interim manager last season, Carrick’s team have looked worse the longer he has been in charge and he has looked powerless to address the slide, writes Richard Jolly",
-   "category": "News",
-   "league": "Football",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-10-25T09:21:09.000Z",
-   "fetched_at": "2026-10-25T17:26:58.830Z",
-   "body": [
-    "Our briefing: For a man who made an instant impact as interim manager last season, Carrick’s team have looked worse the longer he has been in charge and he has looked powerless to…",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
-  },
-  {
-   "id": "bbc-watch-match-day-iplayer",
-   "slug": "watch-match-of-the-day-on-iplayer-layer",
-   "title": "Watch Match of the Day on iPlayer",
-   "dek": "With Chelsea v Spurs, Arsenal v Everton, Villa v Man City and Coventry v Fulham",
-   "description": "With Chelsea v Spurs, Arsenal v Everton, Villa v Man City and Coventry v Fulham",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-25T09:00:00.000Z",
-   "fetched_at": "2026-10-25T17:26:58.534Z",
-   "body": [
-    "Our briefing: With Chelsea v Spurs, Arsenal v Everton, Villa v Man City and Coventry v Fulham",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
-  },
-  {
-   "id": "independent-barcelona-v-real-madrid-tension-building-el-clas",
-   "slug": "barcelona-v-real-madrid-tension-is-building-and-el-clasico-c--clas",
-   "title": "Barcelona v Real Madrid tension is building and El Clasico can light a furious fuse",
-   "dek": "Refereeing controversies, conspiracies, ‘50,000-page dossiers’ and the return of Jose Mourinho add a sharp edge to the star-studded first Clasico of the season",
-   "description": "Refereeing controversies, conspiracies, ‘50,000-page dossiers’ and the return of Jose Mourinho add a sharp edge to the star-studded first Clasico of the season",
-   "category": "News",
-   "league": "La Liga",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-10-25T08:57:41.000Z",
-   "fetched_at": "2026-10-25T17:26:58.830Z",
-   "body": [
-    "Our briefing: Refereeing controversies, conspiracies, ‘50,000-page dossiers’ and the return of Jose Mourinho add a sharp edge to the star-studded first Clasico of the season",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Santiago_Bernabeu_-_Real_Madrid_Football_Stadium_-_Madrid_-_Spain_-_01.jpg/960px-Santiago_Bernabeu_-_Real_Madrid_Football_Stadium_-_Madrid_-_Spain_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Adam Jones, Ph.D. — CC BY-SA 3.0"
-  },
-  {
-   "id": "guardian-carrick-denies-manchester-united-are-unmanageabl",
-   "slug": "carrick-denies-manchester-united-are-unmanageable-cl-sico-bu-geabl",
-   "title": "Carrick denies Manchester United are ‘unmanageable’, clásico buildup and more – matchday live",
-   "dek": "⚽️ News before the 2pm GMT Premier League fixtures ⚽️ How they stand | Fixtures | Mail John Anyone here seen Tom Finney play? He retired in 1960. It’s Ballon D’Or, Ballon…",
-   "description": "⚽️ News before the 2pm GMT Premier League fixtures ⚽️ How they stand | Fixtures | Mail John Anyone here seen Tom Finney play? He retired in 1960. It’s Ballon D’Or, Ballon D’Or, Ballon D’Or, Ballon D’Or week, and Stanley Matthews week, too. Two wizards of the dribble in Ed Aarons and Jonathan Wilson on Sir Stan’s legacy. The switch of venue to England from its usual home in Paris is a mark of respect to the man who became the first active player to receive a knighthood in 1965, a few months before retiring at the age of 50. It also provides an opportunity to recall an astonishing career that began with his local side Stoke in 1932 and made the “Wizard of Dribble” the most famous player on the planet. Continue reading...",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-10-25T08:49:43.000Z",
-   "fetched_at": "2026-10-25T08:59:03.027Z",
-   "body": [
-    "Our briefing: ⚽️ News before the 2pm GMT Premier League fixtures ⚽️ How they stand | Fixtures | Mail John Anyone here seen Tom Finney play? He retired in 1960. It’s Ballon D’Or, Ballon…",
-    "⚽️ News before the 2pm GMT Premier League fixtures ⚽️ How they stand | Fixtures | Mail John Anyone here seen Tom Finney play? He retired in 1960. It’s Ballon D’Or, Ballon D’Or, Ballon D’Or, Ballon D’Or week, and Stanley Matthews week, too.",
-    "Two wizards of the dribble in Ed Aarons and Jonathan Wilson on Sir Stan’s legacy. The switch of venue to England from its usual home in Paris is a mark of respect to the man who became the first active player to receive a knighthood in 1965, a few months before retiring at the age of 50. It also provides an opportunity to recall an astonishing career that began with his local side Stoke in 1932 and made the “Wizard of Dribble” the most famous player on the planet.",
-    "Continue reading...",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Manchester_United_v_Manchester_City%2C_6_November_2021_%2815%29.jpg/960px-Manchester_United_v_Manchester_City%2C_6_November_2021_%2815%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ardfern — CC BY-SA 4.0"
-  },
-  {
-   "id": "independent-barcelona-v-real-madrid-tv-how-watch-el-clasico-",
-   "slug": "is-barcelona-v-real-madrid-on-tv-how-to-watch-el-clasico-in--sico-",
-   "title": "Is Barcelona v Real Madrid on TV? How to watch El Clasico in the UK",
-   "dek": "Everything you need to know ahead of El Clasico",
-   "description": "Everything you need to know ahead of El Clasico",
-   "category": "Tactics & Analysis",
-   "league": "La Liga",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-10-25T08:40:15.000Z",
-   "fetched_at": "2026-10-25T17:26:58.830Z",
-   "body": [
-    "Our briefing: Everything you need to know ahead of El Clasico",
-    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Real_Madrid%27s_Santiago_Bernab%C3%A9u_Stadium%2C_Madrid%2C_Spain_%28Ank_Kumar%29_05.jpg/960px-Real_Madrid%27s_Santiago_Bernab%C3%A9u_Stadium%2C_Madrid%2C_Spain_%28Ank_Kumar%29_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ank Kumar — CC BY-SA 4.0"
-  },
-  {
-   "id": "guardian-ballon-d-or-ceremony-returns-england-nod-revolut",
-   "slug": "ballon-d-or-ceremony-returns-to-england-in-nod-to-revolution-volut",
-   "title": "Ballon d’Or ceremony returns to England in nod to ‘revolutionary’ Stanley Matthews",
-   "dek": "Matthews’ family ‘very excited’ as London Palladium hosts event 70 years after first award at Blackpool town hall When football’s dignitaries assemble on Monday at the…",
-   "description": "Matthews’ family ‘very excited’ as London Palladium hosts event 70 years after first award at Blackpool town hall When football’s dignitaries assemble on Monday at the London Palladium for the Ballon d’Or ceremony it will be a far cry from the first awards 70 years ago. That was held in the slightly less glamorous surroundings of Blackpool town hall, where Stanley Matthews was presented with the prize by Gabriel Hanot, the visionary editor of L’Équipe who came up with the idea of crowning the world’s best player every year. A specially commissioned china plate was also handed over by the town’s mayor before the 41-year-old Matthews, who was famously teetotal, gave a short speech. “He might have had a double carrot juice that day,” says his son, Stanley Matthews Jr, who will attend this year’s awards with his sister, Jean, and her two daughters. “There was no ceremony. ‘Here’s your Ballon d’Or, well done’, sort of thing. But obviously it’s grown over the years, and now it’s a huge event. We’re very excited.” Continue reading...",
-   "category": "News",
-   "league": "International",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-10-25T08:00:58.000Z",
-   "fetched_at": "2026-10-25T17:26:58.697Z",
-   "body": [
-    "Our briefing: Matthews’ family ‘very excited’ as London Palladium hosts event 70 years after first award at Blackpool town hall When football’s dignitaries assemble on Monday at the…",
-    "Matthews’ family ‘very excited’ as London Palladium hosts event 70 years after first award at Blackpool town hall When football’s dignitaries assemble on Monday at the London Palladium for the Ballon d’Or ceremony it will be a far cry from the first awards 70 years ago. That was held in the slightly less glamorous surroundings of Blackpool town hall, where Stanley Matthews was presented with the prize by Gabriel Hanot, the visionary editor of L’Équipe who came up with the idea of crowning the world’s best player every year. A specially commissioned china plate was also handed over by the town’s mayor before the 41-year-old Matthews, who was famously teetotal, gave a short speech.",
-    "“He might have had a double carrot juice that day,” says his son, Stanley Matthews Jr, who will attend this year’s awards with his sister, Jean, and her two daughters. “There was no ceremony. ‘Here’s your Ballon d’Or, well done’, sort of thing.",
-    "But obviously it’s grown over the years, and now it’s a huge event. We’re very excited. ” Continue reading...",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
-  },
-  {
-   "id": "guardian-ian-holloway-s-circus-why-manager-s-antics-are-n",
-   "slug": "ian-holloway-s-circus-why-the-manager-s-antics-are-no-laughi-are-n",
-   "title": "Ian Holloway’s circus: why the manager’s antics are no laughing matter for fans",
-   "dek": "Swindon manager has a history of viral outbursts but fans want a united club and manager they can support In Ian Holloway’s often madcap managerial orbit, this was simply…",
-   "description": "Swindon manager has a history of viral outbursts but fans want a united club and manager they can support In Ian Holloway’s often madcap managerial orbit, this was simply the latest in a steady succession of eccentric outbursts. Eyes bulging as he spoke, he boomed the letter “D” and promptly stabbed himself in the chest with an imaginary dagger. Next came the letter “M” alongside a blow from another invisible knife. Finally, a “W” followed by a jab to the heart. “Dead. Man. Walking,” he declared, pausing for effect between words and briefly falling into an Oscar-worthy zombie stupor. “That’s how it feels.” To an offbeat press conference genre containing seagulls following trawlers and self-proclaimed special ones, it was a crazy new entry worthy of its subsequent viral nature. Holloway at his finest. Continue reading...",
-   "category": "Match Reports",
-   "league": "Football",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-10-25T08:00:56.000Z",
-   "fetched_at": "2026-10-25T17:26:58.697Z",
-   "body": [
-    "Our briefing: Swindon manager has a history of viral outbursts but fans want a united club and manager they can support In Ian Holloway’s often madcap managerial orbit, this was simply…",
-    "Swindon manager has a history of viral outbursts but fans want a united club and manager they can support In Ian Holloway’s often madcap managerial orbit, this was simply the latest in a steady succession of eccentric outbursts. Eyes bulging as he spoke, he boomed the letter “D” and promptly stabbed himself in the chest with an imaginary dagger. Next came the letter “M” alongside a blow from another invisible knife.",
-    "Finally, a “W” followed by a jab to the heart. “Dead. Man.",
-    "Walking,” he declared, pausing for effect between words and briefly falling into an Oscar-worthy zombie stupor. “That’s how it feels. ” To an offbeat press conference genre containing seagulls following trawlers and self-proclaimed special ones, it was a crazy new entry worthy of its subsequent viral nature.",
-    "Holloway at his finest. Continue reading...",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
-  },
-  {
-   "id": "guardian-ian-holloway-s-circus-why-manager-s-outbursts-ar",
-   "slug": "ian-holloway-s-circus-why-the-manager-s-outbursts-are-no-lau-ts-ar",
-   "title": "Ian Holloway’s circus: why the manager’s outbursts are no laughing matter for fans",
-   "dek": "Swindon manager has a history of viral outbursts but fans want a united club and manager they can support In Ian Holloway’s often madcap managerial orbit, this was simply…",
-   "description": "Swindon manager has a history of viral outbursts but fans want a united club and manager they can support In Ian Holloway’s often madcap managerial orbit, this was simply the latest in a steady succession of eccentric outbursts. Eyes bulging as he spoke, he boomed the letter “D” and promptly stabbed himself in the chest with an imaginary dagger. Next came the letter “M” alongside a blow from another invisible knife. Finally, a “W” followed by a jab to the heart. “Dead. Man. Walking,” he declared, pausing for effect between words and briefly falling into an Oscar-worthy zombie stupor. “That’s how it feels.” To an offbeat press conference genre containing seagulls following trawlers and self-proclaimed special ones, it was a crazy new entry worthy of its subsequent viral nature. Holloway at his finest. Continue reading...",
-   "category": "Match Reports",
-   "league": "Football",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-10-25T08:00:56.000Z",
-   "fetched_at": "2026-10-25T13:40:11.064Z",
-   "body": [
-    "Our briefing: Swindon manager has a history of viral outbursts but fans want a united club and manager they can support In Ian Holloway’s often madcap managerial orbit, this was simply…",
-    "Swindon manager has a history of viral outbursts but fans want a united club and manager they can support In Ian Holloway’s often madcap managerial orbit, this was simply the latest in a steady succession of eccentric outbursts. Eyes bulging as he spoke, he boomed the letter “D” and promptly stabbed himself in the chest with an imaginary dagger. Next came the letter “M” alongside a blow from another invisible knife.",
-    "Finally, a “W” followed by a jab to the heart. “Dead. Man.",
-    "Walking,” he declared, pausing for effect between words and briefly falling into an Oscar-worthy zombie stupor. “That’s how it feels. ” To an offbeat press conference genre containing seagulls following trawlers and self-proclaimed special ones, it was a crazy new entry worthy of its subsequent viral nature.",
-    "Holloway at his finest. Continue reading...",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  {
-   "id": "bbc-what-have-man-utd-changed-turn-around-wsl-form",
-   "slug": "what-have-man-utd-changed-to-turn-around-wsl-form--form",
-   "title": "What have Man Utd changed to turn around WSL form?",
-   "dek": "It's a different picture at Manchester United now than it was last month - so what have they changed to turn around their WSL form?",
-   "description": "It's a different picture at Manchester United now than it was last month - so what have they changed to turn around their WSL form?",
-   "category": "News",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-25T07:58:04.000Z",
-   "fetched_at": "2026-10-25T17:26:58.534Z",
-   "body": [
-    "Our briefing: It's a different picture at Manchester United now than it was last month - so what have they changed to turn around their WSL form?",
-    "It's a different picture at Manchester United now than it was last month - so what have they changed to turn around their WSL form?",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Manchester_United_Old_Trafford_%28cropped%29.jpg/960px-Manchester_United_Old_Trafford_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
-  },
-  {
-   "id": "bbc-this-only-clasico-mourinho-s-real-trying-stop-ba",
-   "slug": "this-is-the-only-clasico-mourinho-s-real-trying-to-stop-barc-op-ba",
-   "title": "'This is the only Clasico' - Mourinho's Real trying to stop Barca's shot at history",
-   "dek": "Barcelona aim to make La Liga history against Real Madrid, with Jose Mourinho looking to end their winning run.",
-   "description": "Barcelona aim to make La Liga history against Real Madrid, with Jose Mourinho looking to end their winning run.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-25T07:55:05.000Z",
-   "fetched_at": "2026-10-25T17:26:58.534Z",
-   "body": [
-    "Our briefing: Barcelona aim to make La Liga history against Real Madrid, with Jose Mourinho looking to end their winning run.",
-    "Barcelona aim to make La Liga history against Real Madrid, with Jose Mourinho looking to end their winning run.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/CPSL_2005_semifinals_-_Esther_Shiner_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "Robin Glover — CC BY 4.0"
-  },
-  {
-   "id": "bbc-who-am-i-guess-wsl-star-no-9",
-   "slug": "who-am-i-guess-wsl-star-no-9--no-9",
-   "title": "Who am I? Guess WSL star No 9",
-   "dek": "Work out the identity of today's player in as few attempts as possible.",
-   "description": "Work out the identity of today's player in as few attempts as possible.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-25T07:24:39.000Z",
-   "fetched_at": "2026-10-25T13:40:11.019Z",
-   "body": [
-    "Our briefing: Work out the identity of today's player in as few attempts as possible.",
-    "Work out the identity of today's player in as few attempts as possible.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/CPSL_2005_semifinals_-_Esther_Shiner_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "Robin Glover — CC BY 4.0"
-  },
-  {
-   "id": "bbc-who-am-i-plus-today-s-other-quizzes",
-   "slug": "who-am-i-plus-today-s-other-quizzes-izzes",
-   "title": "Who am I? Plus today's other quizzes",
-   "dek": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-   "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-25T07:21:42.000Z",
-   "fetched_at": "2026-10-25T17:26:58.535Z",
-   "body": [
-    "Our briefing: Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-    "Test your ball knowledge against today's Who Am I? , Five in Five and Brainteaser.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-non-football-fan-who-snapped-game-beautifully",
-   "slug": "the-non-football-fan-who-snapped-the-game-beautifully-fully",
-   "title": "The non-football fan who snapped the game beautifully",
-   "dek": "Peter Robinson has been a photographer at 13 FIFA World Cups since 1970.",
-   "description": "Peter Robinson has been a photographer at 13 FIFA World Cups since 1970.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-25T07:11:34.000Z",
-   "fetched_at": "2026-10-25T17:26:58.535Z",
-   "body": [
-    "Our briefing: Peter Robinson has been a photographer at 13 FIFA World Cups since 1970.",
-    "Peter Robinson has been a photographer at 13 FIFA World Cups since 1970.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "bbc-what-man-utd-need-now-stability-not-more-changes",
-   "slug": "what-man-utd-need-now-is-stability-not-more-changes-pulis-anges",
-   "title": "What Man Utd need now is stability, not more changes - Pulis",
-   "dek": "BBC Sport columnist Tony Pulis explains why Bruno Fernandes' comments after Manchester United's defeat by Como showed how hard it must be to run the club at the moment.",
-   "description": "BBC Sport columnist Tony Pulis explains why Bruno Fernandes' comments after Manchester United's defeat by Como showed how hard it must be to run the club at the moment.",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-25T06:34:07.000Z",
-   "fetched_at": "2026-10-25T17:26:58.535Z",
-   "body": [
-    "Our briefing: BBC Sport columnist Tony Pulis explains why Bruno Fernandes' comments after Manchester United's defeat by Como showed how hard it must be to run the club at the moment.",
-    "BBC Sport columnist Tony Pulis explains why Bruno Fernandes' comments after Manchester United's defeat by Como showed how hard it must be to run the club at the moment.",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Manchester_United_v_Tottenham_Hotspur%2C_12_March_2022_%2805%29.jpg/960px-Manchester_United_v_Tottenham_Hotspur%2C_12_March_2022_%2805%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ardfern — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-why-are-liverpool-struggling-premier-league-goal",
-   "slug": "why-are-liverpool-struggling-for-premier-league-goals--goal",
-   "title": "Why are Liverpool struggling for Premier League goals?",
-   "dek": "Liverpool have scored 15 goals in four cup games this season, but have managed only nine goals in seven Premier League matches.",
-   "description": "Liverpool have scored 15 goals in four cup games this season, but have managed only nine goals in seven Premier League matches.",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-25T06:26:00.000Z",
-   "fetched_at": "2026-10-25T13:40:11.015Z",
-   "body": [
-    "Our briefing: Liverpool have scored 15 goals in four cup games this season, but have managed only nine goals in seven Premier League matches.",
-    "Liverpool have scored 15 goals in four cup games this season, but have managed only nine goals in seven Premier League matches.",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Galatasaray_Liverpool_CL_2006.jpg/960px-Galatasaray_Liverpool_CL_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "tekinim — CC BY 2.0"
-  },
-  {
-   "id": "bbc-when-premier-league-sacking-season-who-should-be",
-   "slug": "when-is-premier-league-sacking-season-and-who-should-be-worr-ld-be",
-   "title": "When is Premier League 'sacking season' - and who should be worried?",
-   "dek": "As pressure builds on Manchester United manager Michael Carrick, BBC Sport looks at when the Premier League 'sacking season' begins.",
-   "description": "As pressure builds on Manchester United manager Michael Carrick, BBC Sport looks at when the Premier League 'sacking season' begins.",
-   "category": "News",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-25T06:17:46.000Z",
-   "fetched_at": "2026-10-25T17:26:58.534Z",
-   "body": [
-    "Our briefing: As pressure builds on Manchester United manager Michael Carrick, BBC Sport looks at when the Premier League 'sacking season' begins.",
-    "As pressure builds on Manchester United manager Michael Carrick, BBC Sport looks at when the Premier League 'sacking season' begins.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Kashima_Soccer_Stadium_6.jpg/960px-Kashima_Soccer_Stadium_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
