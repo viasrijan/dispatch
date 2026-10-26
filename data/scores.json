@@ -1,6 +1,58 @@
 {
- "generated_at": "2026-10-25T22:20:45.454Z",
+ "generated_at": "2026-10-26T00:34:43.614Z",
  "matches": [
+  {
+   "league": "La Liga",
+   "home": "Athletic Club",
+   "away": "Getafe",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
+   "homeScore": 4,
+   "awayScore": 0,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-10-25T13:00Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Celta Vigo",
+   "away": "Real Betis",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-10-25T15:15Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Real Sociedad",
+   "away": "Levante",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
+   "homeScore": 2,
+   "awayScore": 1,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-10-25T17:30Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Barcelona",
+   "away": "Real Madrid",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+   "homeScore": 1,
+   "awayScore": 2,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-10-25T20:00Z"
+  },
   {
    "league": "Premier League",
    "home": "Crystal Palace",
@@ -65,58 +117,6 @@
    "clock": "",
    "time": "FT",
    "date": "2026-10-25T16:30Z"
-  },
-  {
-   "league": "La Liga",
-   "home": "Athletic Club",
-   "away": "Getafe",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
-   "homeScore": 4,
-   "awayScore": 0,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-10-25T13:00Z"
-  },
-  {
-   "league": "La Liga",
-   "home": "Celta Vigo",
-   "away": "Real Betis",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-10-25T15:15Z"
-  },
-  {
-   "league": "La Liga",
-   "home": "Real Sociedad",
-   "away": "Levante",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
-   "homeScore": 2,
-   "awayScore": 1,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-10-25T17:30Z"
-  },
-  {
-   "league": "La Liga",
-   "home": "Barcelona",
-   "away": "Real Madrid",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-   "homeScore": 1,
-   "awayScore": 2,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-10-25T20:00Z"
   },
   {
    "league": "Ligue 1",
@@ -197,6 +197,32 @@
    "date": "2026-10-25T16:15Z"
   },
   {
+   "league": "Bundesliga",
+   "home": "TSG Hoffenheim",
+   "away": "Bayer Leverkusen",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
+   "homeScore": 3,
+   "awayScore": 0,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-10-25T14:30Z"
+  },
+  {
+   "league": "Bundesliga",
+   "home": "SC Freiburg",
+   "away": "Bayern Munich",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+   "homeScore": 1,
+   "awayScore": 3,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-10-25T16:30Z"
+  },
+  {
    "league": "Serie A",
    "home": "Internazionale",
    "away": "Fiorentina",
@@ -260,32 +286,6 @@
    "clock": "",
    "time": "FT",
    "date": "2026-10-25T19:45Z"
-  },
-  {
-   "league": "Bundesliga",
-   "home": "TSG Hoffenheim",
-   "away": "Bayer Leverkusen",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
-   "homeScore": 3,
-   "awayScore": 0,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-10-25T14:30Z"
-  },
-  {
-   "league": "Bundesliga",
-   "home": "SC Freiburg",
-   "away": "Bayern Munich",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-   "homeScore": 1,
-   "awayScore": 3,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-10-25T16:30Z"
   }
  ]
 }

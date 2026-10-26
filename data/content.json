@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-25T22:20:45.453Z",
- "updated_utc": "2026-10-25T22:20Z",
- "cycle": 29882780,
+ "generated_at": "2026-10-26T00:34:43.612Z",
+ "updated_utc": "2026-10-26T00:34Z",
+ "cycle": 29882914,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,8 +16,111 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "guardian-barcelona-1-2-real-madrid-el-cl-sico-live-reacti",
+ "hero_id": "independent-kylian-mbappe-s-clasico-double-condemns-barcelon",
  "articles": [
+  {
+   "id": "bbc-mourinho-keeps-clasico-midas-touch-13-years-la-l",
+   "slug": "mourinho-keeps-clasico-midas-touch-13-years-on-as-la-liga-he--la-l",
+   "title": "Mourinho keeps Clasico midas touch 13 years on as La Liga heats up",
+   "dek": "Kylian Mbappe's two goals at Barcelona have opened up La Liga, as Jose Mourinho's Real Madrid leave Camp Nou with a victory.",
+   "description": "Kylian Mbappe's two goals at Barcelona have opened up La Liga, as Jose Mourinho's Real Madrid leave Camp Nou with a victory.",
+   "category": "Match Reports",
+   "league": "La Liga",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-26T00:07:16.000Z",
+   "fetched_at": "2026-10-26T00:34:31.795Z",
+   "body": [
+    "Our briefing: Kylian Mbappe's two goals at Barcelona have opened up La Liga, as Jose Mourinho's Real Madrid leave Camp Nou with a victory.",
+    "Kylian Mbappe's two goals at Barcelona have opened up La Liga, as Jose Mourinho's Real Madrid leave Camp Nou with a victory.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": null
+  },
+  {
+   "id": "bbc-man-utd-lacked-intensity-fight-alderweireld",
+   "slug": "man-utd-lacked-intensity-fight-alderweireld-ireld",
+   "title": "Man Utd lacked intensity & fight - Alderweireld",
+   "dek": "Match of the Day pundits Toby Alderweireld and Ashley Williams analyse Manchester United's 3-0 defeat by Bournemouth, with Alderweireld suggesting there is no…",
+   "description": "Match of the Day pundits Toby Alderweireld and Ashley Williams analyse Manchester United's 3-0 defeat by Bournemouth, with Alderweireld suggesting there is no \"togetherness\" amongst the United squad.",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-25T23:51:22.000Z",
+   "fetched_at": "2026-10-26T00:34:31.795Z",
+   "body": [
+    "Our briefing: Match of the Day pundits Toby Alderweireld and Ashley Williams analyse Manchester United's 3-0 defeat by Bournemouth, with Alderweireld suggesting there is no…",
+    "Match of the Day pundits Toby Alderweireld and Ashley Williams analyse Manchester United's 3-0 defeat by Bournemouth, with Alderweireld suggesting there is no \"togetherness\" amongst the United squad.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Manchester_United_v_Manchester_City%2C_6_November_2021_%2815%29.jpg/960px-Manchester_United_v_Manchester_City%2C_6_November_2021_%2815%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ardfern — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-how-liverpool-s-attack-impressed-against-brighto",
+   "slug": "how-liverpool-s-attack-impressed-against-brighton-ighto",
+   "title": "How Liverpool's attack impressed against Brighton",
+   "dek": "Match of the Day pundits Toby Alderweireld and Ashley Williams analyse Liverpool's impressive attacking display in their 2-0 win against Brighton at Anfield.",
+   "description": "Match of the Day pundits Toby Alderweireld and Ashley Williams analyse Liverpool's impressive attacking display in their 2-0 win against Brighton at Anfield.",
+   "category": "Tactics & Analysis",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-25T23:49:41.000Z",
+   "fetched_at": "2026-10-26T00:34:31.795Z",
+   "body": [
+    "Our briefing: Match of the Day pundits Toby Alderweireld and Ashley Williams analyse Liverpool's impressive attacking display in their 2-0 win against Brighton at Anfield.",
+    "Match of the Day pundits Toby Alderweireld and Ashley Williams analyse Liverpool's impressive attacking display in their 2-0 win against Brighton at Anfield.",
+    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Liverpool_anfield_road_stadium.jpg/960px-Liverpool_anfield_road_stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
+  },
+  {
+   "id": "independent-sunderland-remain-bottom-premier-league-table-af",
+   "slug": "sunderland-remain-bottom-of-premier-league-table-after-stale-le-af",
+   "title": "Sunderland remain bottom of Premier League table after stalemate with Leeds",
+   "dek": "A scrappy first half saw Brian Brobbey have two promising opportunities to put the Black Cats ahead but he was denied both times by James Trafford",
+   "description": "A scrappy first half saw Brian Brobbey have two promising opportunities to put the Black Cats ahead but he was denied both times by James Trafford",
+   "category": "News",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-10-25T22:48:17.000Z",
+   "fetched_at": "2026-10-26T00:34:32.193Z",
+   "body": [
+    "Our briefing: A scrappy first half saw Brian Brobbey have two promising opportunities to put the Black Cats ahead but he was denied both times by James Trafford",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Leeds_United-Galatasaray_match_in_20_April_2000.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "John Seb Barber from Leeds, UK — CC BY-SA 2.0"
+  },
+  {
+   "id": "independent-kylian-mbappe-s-clasico-double-condemns-barcelon",
+   "slug": "kylian-mbappe-s-clasico-double-condemns-barcelona-to-first-l-celon",
+   "title": "Kylian Mbappe’s Clasico double condemns Barcelona to first La Liga defeat of season",
+   "dek": "Barcelona 1-2 Real Madrid: Kylian Mbappe scored either side of Raphinha’s equaliser as Jose Mourinho’s side cut the gap to the league leaders to three points",
+   "description": "Barcelona 1-2 Real Madrid: Kylian Mbappe scored either side of Raphinha’s equaliser as Jose Mourinho’s side cut the gap to the league leaders to three points",
+   "category": "Match Reports",
+   "league": "La Liga",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-10-25T22:44:09.000Z",
+   "fetched_at": "2026-10-26T00:34:32.193Z",
+   "body": [
+    "Our briefing: Barcelona 1-2 Real Madrid: Kylian Mbappe scored either side of Raphinha’s equaliser as Jose Mourinho’s side cut the gap to the league leaders to three points",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/LFP_-_Barcelona_vs_Mallorca_pre-match_-_Oct_3rd_2010.jpg/960px-LFP_-_Barcelona_vs_Mallorca_pre-match_-_Oct_3rd_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Paolo Costa Baldi — CC BY-SA 3.0"
+  },
   {
    "id": "bbc-who-has-made-troy-s-premier-league-team-week",
    "slug": "who-has-made-troy-s-premier-league-team-of-the-week--week",
@@ -29,7 +132,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-25T22:16:14.000Z",
-   "fetched_at": "2026-10-25T22:20:37.598Z",
+   "fetched_at": "2026-10-26T00:34:31.795Z",
    "body": [
     "Our briefing: After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
     "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
@@ -38,6 +141,29 @@
    ],
    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "John Shorten — CC BY 4.0"
+  },
+  {
+   "id": "guardian-mbapp-double-secures-real-madrid-late-victory-ba",
+   "slug": "mbapp-double-secures-real-madrid-late-victory-at-barcelona-a-ry-ba",
+   "title": "Mbappé double secures Real Madrid late victory at Barcelona after Raphinha leveller",
+   "dek": "Thirteen years later, José Mourinho led Real Madrid into the Camp Nou as one team and them out again as another having secured the kind of late victory he loves and which…",
+   "description": "Thirteen years later, José Mourinho led Real Madrid into the Camp Nou as one team and them out again as another having secured the kind of late victory he loves and which opens up a whole new world. With just three minutes and the final reserves of energy remaining, a wonderful moment of skill from Jude Bellingham found Eduardo Camavinga and set them on one last run. Camavinga sprinted free, skilfully slipped Pau Cubarsí and pulled back for Kylian Mbappé to provide the finish, a little bit of history written. “The world that loves football will have stopped to watch this and they won’t have gone disappointed; this was two teams that played to win,” Mourinho said. It had been an intense, breathless ride, a proper battle, and it was his team who won it. Arriving right on time, Mbappé scored his second to make it 2-1, the Camp Nou falling quiet and their team given no time to react. They had drawn level after Mbappé’s opener, Raphinha scoring, but could not do it again. Continue reading...",
+   "category": "Match Reports",
+   "league": "La Liga",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-10-25T22:12:20.000Z",
+   "fetched_at": "2026-10-26T00:34:31.990Z",
+   "body": [
+    "Our briefing: Thirteen years later, José Mourinho led Real Madrid into the Camp Nou as one team and them out again as another having secured the kind of late victory he loves and which…",
+    "Thirteen years later, José Mourinho led Real Madrid into the Camp Nou as one team and them out again as another having secured the kind of late victory he loves and which opens up a whole new world. With just three minutes and the final reserves of energy remaining, a wonderful moment of skill from Jude Bellingham found Eduardo Camavinga and set them on one last run. Camavinga sprinted free, skilfully slipped Pau Cubarsí and pulled back for Kylian Mbappé to provide the finish, a little bit of history written.",
+    "“The world that loves football will have stopped to watch this and they won’t have gone disappointed; this was two teams that played to win,” Mourinho said. It had been an intense, breathless ride, a proper battle, and it was his team who won it. Arriving right on time, Mbappé scored his second to make it 2-1, the Camp Nou falling quiet and their team given no time to react.",
+    "They had drawn level after Mbappé’s opener, Raphinha scoring, but could not do it again. Continue reading...",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Match_Basketball_ASVEL_x_Real_Madrid_LDLC_Arena_-_D%C3%A9cines-Charpieu_%28FR69%29_-_2023-12-28_-_17.jpg/960px-Match_Basketball_ASVEL_x_Real_Madrid_LDLC_Arena_-_D%C3%A9cines-Charpieu_%28FR69%29_-_2023-12-28_-_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Chabe01 — CC BY-SA 4.0"
   },
   {
    "id": "independent-barcelona-v-real-madrid-live-mbappe-scores-late-",
@@ -49,15 +175,15 @@
    "league": "La Liga",
    "source": "independent",
    "sourceName": "The Independent",
-   "published": "2026-10-25T22:03:56.000Z",
-   "fetched_at": "2026-10-25T22:20:37.993Z",
+   "published": "2026-10-25T22:09:46.000Z",
+   "fetched_at": "2026-10-26T00:34:32.193Z",
    "body": [
     "Our briefing: Barcelona 1-2 Real Madrid: Kylian Mbappe scored either side of Raphinha’s equaliser as Jose Mourinho’s side cut the gap to the league leaders to three points",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Match_Basketball_ASVEL_x_Real_Madrid_LDLC_Arena_-_D%C3%A9cines-Charpieu_%28FR69%29_-_2023-12-28_-_17.jpg/960px-Match_Basketball_ASVEL_x_Real_Madrid_LDLC_Arena_-_D%C3%A9cines-Charpieu_%28FR69%29_-_2023-12-28_-_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Chabe01 — CC BY-SA 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Pre-Match_Tifo_Atleti_vs_Real_Madrid.jpg/960px-Pre-Match_Tifo_Atleti_vs_Real_Madrid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "guardian-barcelona-1-2-real-madrid-el-cl-sico-live-reacti",
@@ -92,7 +218,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-25T21:38:59.000Z",
-   "fetched_at": "2026-10-25T22:20:37.598Z",
+   "fetched_at": "2026-10-26T00:34:31.795Z",
    "body": [
     "Our briefing: It is a different picture at Manchester United now than it was last month - and they proved it to fight back and earn a point against rivals Manchester City.",
     "It is a different picture at Manchester United now than it was last month - and they proved it to fight back and earn a point against rivals Manchester City.",
@@ -101,6 +227,27 @@
    ],
    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Manchester_United_Old_Trafford.jpg/960px-Manchester_United_Old_Trafford.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
+  },
+  {
+   "id": "bbc-end-approaching-carrick-but-man-utd-fans-make-cl",
+   "slug": "end-approaching-for-carrick-but-man-utd-fans-make-clear-who--ke-cl",
+   "title": "End approaching for Carrick but Man Utd fans make clear who they blame",
+   "dek": "Manchester United's fans sang their support for Michael Carrick during the 3-0 home defeat by Bournemouth, but voiced their opposition to virtually everything else.",
+   "description": "Manchester United's fans sang their support for Michael Carrick during the 3-0 home defeat by Bournemouth, but voiced their opposition to virtually everything else.",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-10-25T21:24:21.000Z",
+   "fetched_at": "2026-10-26T00:34:31.795Z",
+   "body": [
+    "Our briefing: Manchester United's fans sang their support for Michael Carrick during the 3-0 home defeat by Bournemouth, but voiced their opposition to virtually everything else.",
+    "Manchester United's fans sang their support for Michael Carrick during the 3-0 home defeat by Bournemouth, but voiced their opposition to virtually everything else.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/25_July_2010_Kansas_City_Wizards_vs_Manchester_United_friendly.jpg/960px-25_July_2010_Kansas_City_Wizards_vs_Manchester_United_friendly.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Conman33 — CC BY-SA 4.0"
   },
   {
    "id": "bbc-end-approaching-carrick-but-man-utd-owners-probl",
@@ -134,7 +281,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-25T21:09:37.000Z",
-   "fetched_at": "2026-10-25T22:20:37.598Z",
+   "fetched_at": "2026-10-26T00:34:31.795Z",
    "body": [
     "Our briefing: Eddie Howe is open to holding talks with Manchester United if they part ways with manager Michael Carrick, three Premier League clubs are monitoring Bayern Munich's…",
     "Eddie Howe is open to holding talks with Manchester United if they part ways with manager Michael Carrick, three Premier League clubs are monitoring Bayern Munich's Lennart Karl, plus more.",
@@ -149,43 +296,43 @@
    "slug": "terland-strikes-late-as-united-end-manchester-city-s-winning-city-",
    "title": "Terland strikes late as United end Manchester City’s winning start in WSL",
    "dek": "At long last, a weakness has been spotted. Finally, the 100% winning start ends for Manchester City, much to the pleasure of Manchester United, who struck late through…",
-   "description": "At long last, a weakness has been spotted. Finally, the 100% winning start ends for Manchester City, much to the pleasure of Manchester United, who struck late through Elisabeth Terland to claim a point in a well‑contested and at times breathless derby. Khadija “Bunny” Shaw’s strike in the second half appeared to have settled the game and kept the defending champions top of the table, and it had looked likely to be the same old story. Continue reading...",
+   "description": "At long last, a weakness has been spotted. Finally, the 100% winning start ends for Manchester City, much to the pleasure of Manchester United, who struck late through Elisabeth Terland to claim a point in a well-contested and at times breathless derby. Khadija “Bunny” Shaw’s second-half strike – her 91st WSL goal on her 100th appearance in the division – appeared to have settled the game and kept the defending champions top of the table, and it had looked likely to be the same old story, of City finding a way to win a game that was on a knife-edge, because they have the game’s deadliest finisher. Continue reading...",
    "category": "Match Reports",
    "league": "Premier League",
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-25T20:38:20.000Z",
-   "fetched_at": "2026-10-25T22:20:37.701Z",
+   "fetched_at": "2026-10-26T00:34:31.990Z",
    "body": [
     "Our briefing: At long last, a weakness has been spotted. Finally, the 100% winning start ends for Manchester City, much to the pleasure of Manchester United, who struck late through…",
-    "At long last, a weakness has been spotted. Finally, the 100% winning start ends for Manchester City, much to the pleasure of Manchester United, who struck late through Elisabeth Terland to claim a point in a well‑contested and at times breathless derby. Khadija “Bunny” Shaw’s strike in the second half appeared to have settled the game and kept the defending champions top of the table, and it had looked likely to be the same old story.",
+    "At long last, a weakness has been spotted. Finally, the 100% winning start ends for Manchester City, much to the pleasure of Manchester United, who struck late through Elisabeth Terland to claim a point in a well-contested and at times breathless derby. Khadija “Bunny” Shaw’s second-half strike – her 91st WSL goal on her 100th appearance in the division – appeared to have settled the game and kept the defending champions top of the table, and it had looked likely to be the same old story, of City finding a way to win a game that was on a knife-edge, because they have the game’s deadliest finisher.",
     "Continue reading...",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
   },
   {
    "id": "bbc-pressure-intensifies-carrick-man-utd-lose-bourne",
    "slug": "pressure-intensifies-on-carrick-as-man-utd-lose-to-bournemou-ourne",
    "title": "Pressure intensifies on Carrick as Man Utd lose to Bournemouth",
-   "dek": "Manchester United's winless run stretches to eight matches in all competitions as they're beaten 3-0 by Bournemouth at Old Trafford - a defeat that leaves United's…",
-   "description": "Manchester United's winless run stretches to eight matches in all competitions as they're beaten 3-0 by Bournemouth at Old Trafford - a defeat that leaves United's manager Michael Carrick under severe pressure.",
+   "dek": "Manchester United's winless run stretches to eight matches in all competitions as they are beaten 3-0 by Bournemouth at Old Trafford - a defeat that leaves United's…",
+   "description": "Manchester United's winless run stretches to eight matches in all competitions as they are beaten 3-0 by Bournemouth at Old Trafford - a defeat that leaves United's manager Michael Carrick under severe pressure.",
    "category": "Match Reports",
    "league": "Premier League",
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-25T20:00:19.000Z",
-   "fetched_at": "2026-10-25T22:20:37.597Z",
+   "fetched_at": "2026-10-26T00:34:31.794Z",
    "body": [
-    "Our briefing: Manchester United's winless run stretches to eight matches in all competitions as they're beaten 3-0 by Bournemouth at Old Trafford - a defeat that leaves United's…",
-    "Manchester United's winless run stretches to eight matches in all competitions as they're beaten 3-0 by Bournemouth at Old Trafford - a defeat that leaves United's manager Michael Carrick under severe pressure.",
+    "Our briefing: Manchester United's winless run stretches to eight matches in all competitions as they are beaten 3-0 by Bournemouth at Old Trafford - a defeat that leaves United's…",
+    "Manchester United's winless run stretches to eight matches in all competitions as they are beaten 3-0 by Bournemouth at Old Trafford - a defeat that leaves United's manager Michael Carrick under severe pressure.",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/25_July_2010_Kansas_City_Wizards_vs_Manchester_United_friendly.jpg/960px-25_July_2010_Kansas_City_Wizards_vs_Manchester_United_friendly.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Conman33 — CC BY-SA 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Manchester_United_v_Tottenham_Hotspur%2C_12_March_2022_%2805%29.jpg/960px-Manchester_United_v_Tottenham_Hotspur%2C_12_March_2022_%2805%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ardfern — CC BY-SA 4.0"
   },
   {
    "id": "bbc-liverpool-earn-first-league-win-anfield-victory-",
@@ -198,7 +345,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-25T20:00:09.000Z",
-   "fetched_at": "2026-10-25T22:20:37.597Z",
+   "fetched_at": "2026-10-26T00:34:31.795Z",
    "body": [
     "Our briefing: An own goal from Brighton's Pascal Gross swiftly followed by a goal from Alexander Isak, sees Liverpool beat the Seagulls 2-0 at Anfield to move into the Premier League…",
     "An own goal from Brighton's Pascal Gross swiftly followed by a goal from Alexander Isak, sees Liverpool beat the Seagulls 2-0 at Anfield to move into the Premier League top four.",
@@ -219,7 +366,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-25T20:00:04.000Z",
-   "fetched_at": "2026-10-25T22:20:37.599Z",
+   "fetched_at": "2026-10-26T00:34:31.797Z",
    "body": [
     "Our briefing: With Hibs v Celtic and Motherwell v Hearts, plus action and reaction from Saturday",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -232,17 +379,17 @@
    "id": "bbc-sage-continues-struggle-palace-lose-home-newcast",
    "slug": "sage-continues-to-struggle-as-palace-lose-at-home-to-newcast-wcast",
    "title": "Sage continues to struggle as Palace lose at home to Newcastle",
-   "dek": "Crystal Palace's winless run stretches to four matches as they're beaten 2-0 at home by Newcastle, leaving the club just a point outside the relegation zone with the…",
-   "description": "Crystal Palace's winless run stretches to four matches as they're beaten 2-0 at home by Newcastle, leaving the club just a point outside the relegation zone with the pressure mounting on manager Pierre Sage.",
+   "dek": "Crystal Palace's winless run stretches to four matches as they are beaten 2-0 at home by Newcastle, leaving the club just a point outside the relegation zone with the…",
+   "description": "Crystal Palace's winless run stretches to four matches as they are beaten 2-0 at home by Newcastle, leaving the club just a point outside the relegation zone with the pressure mounting on manager Pierre Sage.",
    "category": "News",
    "league": "Premier League",
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-25T19:59:46.000Z",
-   "fetched_at": "2026-10-25T22:20:37.597Z",
+   "fetched_at": "2026-10-26T00:34:31.795Z",
    "body": [
-    "Our briefing: Crystal Palace's winless run stretches to four matches as they're beaten 2-0 at home by Newcastle, leaving the club just a point outside the relegation zone with the…",
-    "Crystal Palace's winless run stretches to four matches as they're beaten 2-0 at home by Newcastle, leaving the club just a point outside the relegation zone with the pressure mounting on manager Pierre Sage.",
+    "Our briefing: Crystal Palace's winless run stretches to four matches as they are beaten 2-0 at home by Newcastle, leaving the club just a point outside the relegation zone with the…",
+    "Crystal Palace's winless run stretches to four matches as they are beaten 2-0 at home by Newcastle, leaving the club just a point outside the relegation zone with the pressure mounting on manager Pierre Sage.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
@@ -260,7 +407,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-25T19:59:29.000Z",
-   "fetched_at": "2026-10-25T22:20:37.597Z",
+   "fetched_at": "2026-10-26T00:34:31.795Z",
    "body": [
     "Our briefing: Hull draw a third consecutive home game after Dango Ouattara's equaliser helps Brentford grab a point in a 1-1 draw at the MKM Stadium in the Premier League.",
     "Hull draw a third consecutive home game after Dango Ouattara's equaliser helps Brentford grab a point in a 1-1 draw at the MKM Stadium in the Premier League.",
@@ -281,15 +428,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-25T19:59:07.000Z",
-   "fetched_at": "2026-10-25T22:20:37.597Z",
+   "fetched_at": "2026-10-26T00:34:31.795Z",
    "body": [
     "Our briefing: Sunderland remain bottom of the Premier League after a goalless draw with Leeds in difficult conditions at the Stadium of Light.",
     "Sunderland remain bottom of the Premier League after a goalless draw with Leeds in difficult conditions at the Stadium of Light.",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Leeds_United-Galatasaray_match_in_20_April_2000.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "John Seb Barber from Leeds, UK — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Leeds_United_Players_Training_13092025_%283%29.jpg/960px-Leeds_United_Players_Training_13092025_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "bbc-birmingham-get-first-win-season-after-edging-pas",
@@ -302,7 +449,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-25T19:55:12.000Z",
-   "fetched_at": "2026-10-25T22:20:37.598Z",
+   "fetched_at": "2026-10-26T00:34:31.796Z",
    "body": [
     "Our briefing: Wilda Leidhammar scores as Birmingham secure their first WSL win this season, beating bottom club Charlton 1-0 at St Andrew's, as the away side's wait for a first point…",
     "Wilda Leidhammar scores as Birmingham secure their first WSL win this season, beating bottom club Charlton 1-0 at St Andrew's, as the away side's wait for a first point goes on.",
@@ -323,7 +470,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-25T19:34:15.000Z",
-   "fetched_at": "2026-10-25T22:20:37.598Z",
+   "fetched_at": "2026-10-26T00:34:31.795Z",
    "body": [
     "Our briefing: Caroline Weir reflects on her Ballon d'Or nomination while eyeing a World Cup spot with Scotland.",
     "Caroline Weir reflects on her Ballon d'Or nomination while eyeing a World Cup spot with Scotland.",
@@ -344,7 +491,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-25T19:34:15.000Z",
-   "fetched_at": "2026-10-25T22:20:37.599Z",
+   "fetched_at": "2026-10-26T00:34:31.797Z",
    "body": [
     "Our briefing: Caroline Weir reflects on her Ballon d'Or nomination while eyeing a World Cup spot with Scotland.",
     "Caroline Weir reflects on her Ballon d'Or nomination while eyeing a World Cup spot with Scotland.",
@@ -407,7 +554,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-25T19:24:20.000Z",
-   "fetched_at": "2026-10-25T22:20:37.598Z",
+   "fetched_at": "2026-10-26T00:34:31.795Z",
    "body": [
     "Our briefing: Last season's finalists Dunfermline Athletic will visit Queen of the South in the third round of the Scottish Cup.",
     "Last season's finalists Dunfermline Athletic will visit Queen of the South in the third round of the Scottish Cup.",
@@ -428,7 +575,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-25T19:24:06.000Z",
-   "fetched_at": "2026-10-25T22:20:37.701Z",
+   "fetched_at": "2026-10-26T00:34:31.990Z",
    "body": [
     "Our briefing: Job in balance after 3-0 home defeat by Bournemouth Howe is director of football Jason Wilcox’s top candidate Manchester United’s hierarchy are in crisis talks over…",
     "Job in balance after 3-0 home defeat by Bournemouth Howe is director of football Jason Wilcox’s top candidate Manchester United’s hierarchy are in crisis talks over whether or not to sack Michael Carrick as head coach after he oversaw another torrid defeat , against Bournemouth at Old ­Trafford on Sunday, that left his job in the balance. Carrick was defiant after the 3-0 humbling, insisting he was not expecting to be removed from his post. “I totally understand the situation,” Carrick said of his job prospects.",
@@ -436,8 +583,8 @@
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Manchester_United_v_Tottenham_Hotspur%2C_12_March_2022_%2805%29.jpg/960px-Manchester_United_v_Tottenham_Hotspur%2C_12_March_2022_%2805%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ardfern — CC BY-SA 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Rafael_Pereira_da_Silva_disputando_uma_bola_pelo_Manchester_United.jpg/960px-Rafael_Pereira_da_Silva_disputando_uma_bola_pelo_Manchester_United.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Paul — CC BY 2.0"
   },
   {
    "id": "independent-barcelona-v-real-madrid-tv-how-watch-el-clasico-",
@@ -491,14 +638,14 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-25T18:46:08.000Z",
-   "fetched_at": "2026-10-25T22:20:37.701Z",
+   "fetched_at": "2026-10-26T00:34:31.990Z",
    "body": [
     "Our briefing: Régis Le Bris can usually do impassive to perfection but, by the final whistle, even Sunderland’s ultra-balanced manager was looking more than a little fed up and…",
     "Régis Le Bris can usually do impassive to perfection but, by the final whistle, even Sunderland’s ultra-balanced manager was looking more than a little fed up and frustrated. His bottom-placed team had arguably just about deserved a second Premier League win of the season but, instead, had to settle for a draw on an afternoon when the hugely disruptive Storm Boelo proved the enemy of good football. Continue reading...",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Leeds_United_Players_Training_13092025_%283%29.jpg/960px-Leeds_United_Players_Training_13092025_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Fulham_v_Leeds_United_13092025_%281%29.jpg/960px-Fulham_v_Leeds_United_13092025_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
   },
   {
@@ -512,14 +659,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-25T18:36:12.000Z",
-   "fetched_at": "2026-10-25T22:20:37.598Z",
+   "fetched_at": "2026-10-26T00:34:31.795Z",
    "body": [
     "Our briefing: Crystal Palace boss Pierre Sage had a tough act to follow in Oliver Glasner - and four months into the job the Frenchman is already under big pressure.",
     "Crystal Palace boss Pierre Sage had a tough act to follow in Oliver Glasner - and four months into the job the Frenchman is already under big pressure.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -533,7 +680,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-25T18:18:37.000Z",
-   "fetched_at": "2026-10-25T22:20:37.993Z",
+   "fetched_at": "2026-10-26T00:34:32.193Z",
    "body": [
     "Our briefing: Man United 0-3 Bournemouth: The Cherries outclassed United and it’s hard to see how Carrick, who dropped captain Bruno Fernandes after his midweek comments, can survive",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
@@ -541,6 +688,28 @@
    ],
    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
+  },
+  {
+   "id": "guardian-pierre-sage-regrets-missed-15-minutes-defeat-inc",
+   "slug": "pierre-sage-regrets-missed-15-minutes-as-defeat-increases-he-t-inc",
+   "title": "Pierre Sage regrets ‘missed 15 minutes’ as defeat increases heat on Crystal Palace manager",
+   "dek": "Sage’s side beaten 2-0 at home by Newcastle ‘Every mistake that is bad will be a goal’ Pierre Sage blamed a 15-minute loss of concentration for Crystal Palace’s 2-0…",
+   "description": "Sage’s side beaten 2-0 at home by Newcastle ‘Every mistake that is bad will be a goal’ Pierre Sage blamed a 15-minute loss of concentration for Crystal Palace’s 2-0 defeat by Newcastle and insisted he remains the right man to lead the south London club. “We missed 15 minutes when we came back from the dressing room,” the Frenchman said. “When you let your opponent take the initiative without pressure, without reply, it’s difficult.” Palace have conceded 19 goals in eight games and have the worst defensive record in the Premier League, an obvious contrast to last season when Sage’s Lens side had the second-best defensive record in Ligue 1. “When we concede all these goals … you can interpret that through the style of play and also how well we are playing, especially defensively,” Sage said. Continue reading...",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-10-25T18:17:10.000Z",
+   "fetched_at": "2026-10-26T00:34:31.990Z",
+   "body": [
+    "Our briefing: Sage’s side beaten 2-0 at home by Newcastle ‘Every mistake that is bad will be a goal’ Pierre Sage blamed a 15-minute loss of concentration for Crystal Palace’s 2-0…",
+    "Sage’s side beaten 2-0 at home by Newcastle ‘Every mistake that is bad will be a goal’ Pierre Sage blamed a 15-minute loss of concentration for Crystal Palace’s 2-0 defeat by Newcastle and insisted he remains the right man to lead the south London club. “We missed 15 minutes when we came back from the dressing room,” the Frenchman said. “When you let your opponent take the initiative without pressure, without reply, it’s difficult.",
+    "” Palace have conceded 19 goals in eight games and have the worst defensive record in the Premier League, an obvious contrast to last season when Sage’s Lens side had the second-best defensive record in Ligue 1. “When we concede all these goals … you can interpret that through the style of play and also how well we are playing, especially defensively,” Sage said. Continue reading...",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Crystal_Palace_vs._Norwich_City_%282019%29.jpg/960px-Crystal_Palace_vs._Norwich_City_%282019%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "FromMorningToMidnight — CC BY-SA 4.0"
   },
   {
    "id": "bbc-chaos-or-concern-hanley-s-striker-cameo-poses-qu",
@@ -553,15 +722,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-25T18:14:53.000Z",
-   "fetched_at": "2026-10-25T22:20:37.598Z",
+   "fetched_at": "2026-10-26T00:34:31.795Z",
    "body": [
     "Our briefing: Grant Hanley was called upon to be a makeshift striker for Hibs against Celtic, but what does it signal for the Scottish Premiership's bottom side?",
     "Grant Hanley was called upon to be a makeshift striker for Hibs against Celtic, but what does it signal for the Scottish Premiership's bottom side?",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
    "id": "bbc-isak-finally-living-up-price-tag-liverpool-patie",
@@ -574,7 +743,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-25T18:13:55.000Z",
-   "fetched_at": "2026-10-25T22:20:37.597Z",
+   "fetched_at": "2026-10-26T00:34:31.795Z",
    "body": [
     "Our briefing: Alexander Isak scores his sixth Premier League goal of the season as Liverpool make it four wins out of their last four under Andoni Iraola.",
     "Alexander Isak scores his sixth Premier League goal of the season as Liverpool make it four wins out of their last four under Andoni Iraola.",
@@ -595,7 +764,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-25T17:56:06.000Z",
-   "fetched_at": "2026-10-25T22:20:37.701Z",
+   "fetched_at": "2026-10-26T00:34:31.990Z",
    "body": [
     "Our briefing: Leaving out his captain was doomed to fail but so are the club under the current leadership and the fans at Old Trafford know that all too well Dropping your captain, who…",
     "Leaving out his captain was doomed to fail but so are the club under the current leadership and the fans at Old Trafford know that all too well Dropping your captain, who has held the team together for most of the past five years, is a bold move from a man whose job is on the line. It was very much a make-or-break decision from Michael Carrick to leave out Bruno Fernandes against Bournemouth. It did not work and Carrick knew the consequences if it failed and will probably pay the price for it, but he should not be alone.",
@@ -604,8 +773,8 @@
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   },
   {
    "id": "guardian-scottish-premiership-dur-n-caps-celtic-s-comebac",
@@ -618,7 +787,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-25T17:53:36.000Z",
-   "fetched_at": "2026-10-25T22:20:37.701Z",
+   "fetched_at": "2026-10-26T00:34:31.990Z",
    "body": [
     "Our briefing: Hibernian 1-2 Celtic; Rangers 4-0 St Johnstone Braga and Miller give Hearts 2-0 win at Motherwell Camilo Durán moved into double figures for the season as Celtic…",
     "Hibernian 1-2 Celtic; Rangers 4-0 St Johnstone Braga and Miller give Hearts 2-0 win at Motherwell Camilo Durán moved into double figures for the season as Celtic reasserted themselves at the top of the Premiership by coming from behind to defeat beleaguered Hibernian 2-1 at windy Easter Road. After another Europa League setback at home to Celta Vigo on Thursday, the champions bounced back with a victory that restored their four-point cushion over Rangers at the top. The home side, who are bottom, took an early lead through Owen Elding but it was swiftly cancelled out by a Jason Kerr own goal before Duran’s 10th of the season edged the visitors ahead just before the break.",
@@ -640,7 +809,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-25T17:36:24.000Z",
-   "fetched_at": "2026-10-25T22:20:37.993Z",
+   "fetched_at": "2026-10-26T00:34:32.193Z",
    "body": [
     "Our briefing: Man United 0-3 Bournemouth: The Cherries outclassed United and it’s hard to see how Carrick, who dropped captain Bruno Fernandes after his midweek comments, can survive",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
@@ -660,7 +829,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-25T17:31:56.000Z",
-   "fetched_at": "2026-10-25T22:20:37.993Z",
+   "fetched_at": "2026-10-26T00:34:32.193Z",
    "body": [
     "Our briefing: Alexander Isak scored the second goal in a 2-0 win as Liverpool’s attack impressed",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -680,182 +849,13 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-25T17:28:51.000Z",
-   "fetched_at": "2026-10-25T22:20:37.993Z",
+   "fetched_at": "2026-10-26T00:34:32.193Z",
    "body": [
     "Our briefing: Head coach Michael Carrick was still serenaded by supportive fans inside Old Trafford but conceded he was unsure if he would keep his job",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/AFC_Bournemouth_Free-Kick_09052026_%281%29.jpg/960px-AFC_Bournemouth_Free-Kick_09052026_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "guardian-sunderland-v-leeds-premier-league-live",
-   "slug": "sunderland-v-leeds-premier-league-live--live",
-   "title": "Sunderland v Leeds: Premier League – live",
-   "dek": "Live Premier League updates from 4.30pm BST Europe more curse than blessing for Sunderland Sign up for Football Daily 1 min Peep peep! Leeds, in their yellow change…",
-   "description": "Live Premier League updates from 4.30pm BST Europe more curse than blessing for Sunderland Sign up for Football Daily 1 min Peep peep! Leeds, in their yellow change strip, kick off from left to right as we watch. Prokofiev is on the tannoy at the Stadium of Light , which means the teams are about to take the field. Continue reading...",
-   "category": "News",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-10-25T17:20:14.000Z",
-   "fetched_at": "2026-10-25T17:26:58.696Z",
-   "body": [
-    "Our briefing: Live Premier League updates from 4.30pm BST Europe more curse than blessing for Sunderland Sign up for Football Daily 1 min Peep peep! Leeds, in their yellow change…",
-    "Live Premier League updates from 4. 30pm BST Europe more curse than blessing for Sunderland Sign up for Football Daily 1 min Peep peep! Leeds, in their yellow change strip, kick off from left to right as we watch.",
-    "Prokofiev is on the tannoy at the Stadium of Light , which means the teams are about to take the field. Continue reading...",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Leeds_United-Galatasaray_match_in_20_April_2000.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "John Seb Barber from Leeds, UK — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-carrick-saddened-man-utd-situation-after-bournem",
-   "slug": "carrick-saddened-by-man-utd-situation-after-bournemouth-loss-urnem",
-   "title": "Carrick 'saddened' by Man Utd situation after Bournemouth loss",
-   "dek": "Manchester United manager Micheal Carrick reflects on a 'tough day' after his side lost 3-0 at home to Bournemouth with his future in doubt with United without a win in…",
-   "description": "Manchester United manager Micheal Carrick reflects on a 'tough day' after his side lost 3-0 at home to Bournemouth with his future in doubt with United without a win in their last eight games.",
-   "category": "Injuries",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-25T17:02:59.000Z",
-   "fetched_at": "2026-10-25T22:20:37.598Z",
-   "body": [
-    "Our briefing: Manchester United manager Micheal Carrick reflects on a 'tough day' after his side lost 3-0 at home to Bournemouth with his future in doubt with United without a win in…",
-    "Manchester United manager Micheal Carrick reflects on a 'tough day' after his side lost 3-0 at home to Bournemouth with his future in doubt with United without a win in their last eight games.",
-    "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Manchester_United_v_Manchester_City%2C_10_December_2017_%2812%29.jpg/960px-Manchester_United_v_Manchester_City%2C_10_December_2017_%2812%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ardfern — CC BY-SA 4.0"
-  },
-  {
-   "id": "independent-dango-ouattara-strike-seals-draw-brentford-come-",
-   "slug": "dango-ouattara-strike-seals-draw-as-brentford-come-from-behi-come-",
-   "title": "Dango Ouattara strike seals draw as Brentford come from behind at Hull",
-   "dek": "Oli McBurnie scored the opener for the Tigers, who remain without a win in seven games",
-   "description": "Oli McBurnie scored the opener for the Tigers, who remain without a win in seven games",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-10-25T17:00:21.000Z",
-   "fetched_at": "2026-10-25T22:20:37.993Z",
-   "body": [
-    "Our briefing: Oli McBurnie scored the opener for the Tigers, who remain without a win in seven games",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Brentford_Supporters_05092026_%281%29.jpg/960px-Brentford_Supporters_05092026_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "independent-newcastle-pile-pressure-pierre-sage-victory-crys",
-   "slug": "newcastle-pile-pressure-on-pierre-sage-with-victory-at-cryst--crys",
-   "title": "Newcastle pile pressure on Pierre Sage with victory at Crystal Palace",
-   "dek": "Joe Willock had an effort chalked off by VAR between the Magpies’ goals",
-   "description": "Joe Willock had an effort chalked off by VAR between the Magpies’ goals",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-10-25T16:57:34.000Z",
-   "fetched_at": "2026-10-25T22:20:37.993Z",
-   "body": [
-    "Our briefing: Joe Willock had an effort chalked off by VAR between the Magpies’ goals",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Fulham_v_Newcastle_United_24052026_%281%29.jpg/960px-Fulham_v_Newcastle_United_24052026_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "bbc-it-wasn-t-farewell-me-but-horror-start-leaves-ca",
-   "slug": "it-wasn-t-a-farewell-from-me-but-horror-start-leaves-carrick-es-ca",
-   "title": "'It wasn't a farewell from me' - but horror start leaves Carrick on brink",
-   "dek": "Michael Carrick's future as Manchester United manager is under major threat following the home loss to Bournemouth on Sunday.",
-   "description": "Michael Carrick's future as Manchester United manager is under major threat following the home loss to Bournemouth on Sunday.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-25T16:51:48.000Z",
-   "fetched_at": "2026-10-25T22:20:37.597Z",
-   "body": [
-    "Our briefing: Michael Carrick's future as Manchester United manager is under major threat following the home loss to Bournemouth on Sunday.",
-    "Michael Carrick's future as Manchester United manager is under major threat following the home loss to Bournemouth on Sunday.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-carrick-future-under-major-threat-can-he-survive",
-   "slug": "carrick-future-under-major-threat-can-he-survive-rvive",
-   "title": "Carrick future under major threat - can he survive?",
-   "dek": "Michael Carrick's future as Manchester United manager is under major threat following the home loss to Bournemouth on Sunday.",
-   "description": "Michael Carrick's future as Manchester United manager is under major threat following the home loss to Bournemouth on Sunday.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-25T16:51:48.000Z",
-   "fetched_at": "2026-10-25T19:53:34.587Z",
-   "body": [
-    "Our briefing: Michael Carrick's future as Manchester United manager is under major threat following the home loss to Bournemouth on Sunday.",
-    "Michael Carrick's future as Manchester United manager is under major threat following the home loss to Bournemouth on Sunday.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  {
-   "id": "guardian-ouattara-rescues-point-brentford-hull-maintain-u",
-   "slug": "ouattara-rescues-point-for-brentford-as-hull-maintain-unbeat-ain-u",
-   "title": "Ouattara rescues point for Brentford as Hull maintain unbeaten home record",
-   "dek": "Hull’s unbeaten home record remains intact but the Tigers have not tasted victory for seven games after this draw with Brentford. The opening goal came courtesy of a…",
-   "description": "Hull’s unbeaten home record remains intact but the Tigers have not tasted victory for seven games after this draw with Brentford. The opening goal came courtesy of a 24th-minute Oli McBurnie penalty, awarded when Aaron Hickey flattened Tim Iroegbunam while trying to hook the ball away. Continue reading...",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-10-25T16:40:07.000Z",
-   "fetched_at": "2026-10-25T22:20:37.701Z",
-   "body": [
-    "Our briefing: Hull’s unbeaten home record remains intact but the Tigers have not tasted victory for seven games after this draw with Brentford. The opening goal came courtesy of a…",
-    "Hull’s unbeaten home record remains intact but the Tigers have not tasted victory for seven games after this draw with Brentford. The opening goal came courtesy of a 24th-minute Oli McBurnie penalty, awarded when Aaron Hickey flattened Tim Iroegbunam while trying to hook the ball away. Continue reading...",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Brentford_Players_29112025_%283%29.jpg/960px-Brentford_Players_29112025_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "guardian-osula-barnes-strike-newcastle-pile-pressure-lack",
-   "slug": "osula-and-barnes-strike-as-newcastle-pile-pressure-on-lacklu--lack",
-   "title": "Osula and Barnes strike as Newcastle pile pressure on lacklustre Palace",
-   "dek": "The first half was dreadful. The pass completion rate was a meagre 72.8%, although it felt lower. There were only two shots on target. The sun kept popping out from…",
-   "description": "The first half was dreadful. The pass completion rate was a meagre 72.8%, although it felt lower. There were only two shots on target. The sun kept popping out from behind the clouds to take a look, and then going back in again, appalled. And the really bad news for Crystal Palace is that, for them, that was the good bit. Newcastle were much improved after the break. Will Osula touched in a Jacob Murphy cross two minutes after half-time, Joe Willock had an effort ruled out for a marginal offside five minutes later, and Harvey Barnes completed a slick passing move six minutes after that. A smattering of boos from the home fans made clear what everybody already knew. Quarter of an hour of proper football had been enough to win the game, and that leaves Pierre Sage under significant pressure . Continue reading...",
-   "category": "Injuries",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-10-25T16:29:02.000Z",
-   "fetched_at": "2026-10-25T22:20:37.701Z",
-   "body": [
-    "Our briefing: The first half was dreadful. The pass completion rate was a meagre 72.8%, although it felt lower. There were only two shots on target. The sun kept popping out from…",
-    "The first half was dreadful. The pass completion rate was a meagre 72. 8%, although it felt lower.",
-    "There were only two shots on target. The sun kept popping out from behind the clouds to take a look, and then going back in again, appalled. And the really bad news for Crystal Palace is that, for them, that was the good bit.",
-    "Newcastle were much improved after the break. Will Osula touched in a Jacob Murphy cross two minutes after half-time, Joe Willock had an effort ruled out for a marginal offside five minutes later, and Harvey Barnes completed a slick passing move six minutes after that. A smattering of boos from the home fans made clear what everybody already knew.",
-    "Quarter of an hour of proper football had been enough to win the game, and that leaves Pierre Sage under significant pressure . Continue reading...",
-    "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/The_Newcastle_Guardians_and_vaccination_-_special_report_of_the_arguments_against_the_Compulsory_Vaccination_Acts%2C_at_the_debate_at_the_Board_of_Guardians%2C_Newcastle%2C_March_1st%2C_1878_%28IA_b22411586%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Fulham_v_AFC_Bournemouth_09052026_%285%29.jpg/960px-Fulham_v_AFC_Bournemouth_09052026_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
   }
  ]
