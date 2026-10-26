@@ -1,19 +1,6 @@
 {
- "generated_at": "2026-10-26T12:24:38.957Z",
+ "generated_at": "2026-10-26T18:49:14.392Z",
  "matches": [
-  {
-   "league": "La Liga",
-   "home": "Sevilla",
-   "away": "Osasuna",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Mon, October 26th at 4:00 PM EDT",
-   "date": "2026-10-26T20:00Z"
-  },
   {
    "league": "Premier League",
    "home": "Crystal Palace",
@@ -80,6 +67,19 @@
    "date": "2026-10-25T16:30Z"
   },
   {
+   "league": "Ligue 1",
+   "home": "Paris Saint-Germain",
+   "away": "Lyon",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Mon, October 26th at 3:30 PM EDT",
+   "date": "2026-10-26T19:30Z"
+  },
+  {
    "league": "Serie A",
    "home": "Sassuolo",
    "away": "Lazio",
@@ -119,17 +119,17 @@
    "date": "2026-10-27T19:45Z"
   },
   {
-   "league": "Ligue 1",
-   "home": "Paris Saint-Germain",
-   "away": "Lyon",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
+   "league": "La Liga",
+   "home": "Sevilla",
+   "away": "Osasuna",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
    "homeScore": 0,
    "awayScore": 0,
    "status": "pre",
    "clock": "",
-   "time": "Mon, October 26th at 3:30 PM EDT",
-   "date": "2026-10-26T19:30Z"
+   "time": "Mon, October 26th at 4:00 PM EDT",
+   "date": "2026-10-26T20:00Z"
   },
   {
    "league": "Bundesliga",
