@@ -1,6 +1,97 @@
 {
- "generated_at": "2026-10-28T04:28:17.784Z",
+ "generated_at": "2026-10-28T10:46:01.086Z",
  "matches": [
+  {
+   "league": "La Liga",
+   "home": "Villarreal",
+   "away": "Espanyol",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, October 30th at 4:00 PM EDT",
+   "date": "2026-10-30T20:00Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "AC Milan",
+   "away": "Bologna",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Wed, October 28th at 1:30 PM EDT",
+   "date": "2026-10-28T17:30Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Parma",
+   "away": "Udinese",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Wed, October 28th at 1:30 PM EDT",
+   "date": "2026-10-28T17:30Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Venezia",
+   "away": "Internazionale",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Wed, October 28th at 1:30 PM EDT",
+   "date": "2026-10-28T17:30Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Genoa",
+   "away": "Juventus",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Wed, October 28th at 3:45 PM EDT",
+   "date": "2026-10-28T19:45Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Monza",
+   "away": "Napoli",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Wed, October 28th at 3:45 PM EDT",
+   "date": "2026-10-28T19:45Z"
+  },
+  {
+   "league": "Bundesliga",
+   "home": "SV Elversberg",
+   "away": "Mainz",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/10388.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, October 30th at 3:30 PM EDT",
+   "date": "2026-10-30T19:30Z"
+  },
   {
    "league": "Premier League",
    "home": "Chelsea",
@@ -106,45 +197,6 @@
    "date": "2026-10-31T20:00Z"
   },
   {
-   "league": "Serie A",
-   "home": "Sassuolo",
-   "away": "Lazio",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
-   "homeScore": 2,
-   "awayScore": 6,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-10-27T17:30Z"
-  },
-  {
-   "league": "Serie A",
-   "home": "AS Roma",
-   "away": "Cagliari",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
-   "homeScore": 4,
-   "awayScore": 2,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-10-27T19:45Z"
-  },
-  {
-   "league": "Serie A",
-   "home": "Torino",
-   "away": "Como",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
-   "homeScore": 1,
-   "awayScore": 3,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-10-27T19:45Z"
-  },
-  {
    "league": "Ligue 1",
    "home": "Le Havre AC",
    "away": "Paris Saint-Germain",
@@ -182,32 +234,6 @@
    "clock": "",
    "time": "Fri, October 30th at 4:05 PM EDT",
    "date": "2026-10-30T20:05Z"
-  },
-  {
-   "league": "La Liga",
-   "home": "Villarreal",
-   "away": "Espanyol",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, October 30th at 4:00 PM EDT",
-   "date": "2026-10-30T20:00Z"
-  },
-  {
-   "league": "Bundesliga",
-   "home": "SV Elversberg",
-   "away": "Mainz",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/10388.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, October 30th at 3:30 PM EDT",
-   "date": "2026-10-30T19:30Z"
   }
  ]
 }
