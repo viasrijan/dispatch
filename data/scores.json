@@ -1,45 +1,6 @@
 {
- "generated_at": "2026-10-29T20:28:04.151Z",
+ "generated_at": "2026-10-30T00:11:04.993Z",
  "matches": [
-  {
-   "league": "Ligue 1",
-   "home": "Le Havre AC",
-   "away": "Paris Saint-Germain",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3236.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, October 30th at 2:00 PM EDT",
-   "date": "2026-10-30T18:00Z"
-  },
-  {
-   "league": "Ligue 1",
-   "home": "Nice",
-   "away": "Stade Rennais",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, October 30th at 2:00 PM EDT",
-   "date": "2026-10-30T18:00Z"
-  },
-  {
-   "league": "Ligue 1",
-   "home": "Lille",
-   "away": "Lens",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, October 30th at 4:05 PM EDT",
-   "date": "2026-10-30T20:05Z"
-  },
   {
    "league": "La Liga",
    "home": "Villarreal",
@@ -52,19 +13,6 @@
    "clock": "",
    "time": "Fri, October 30th at 4:00 PM EDT",
    "date": "2026-10-30T20:00Z"
-  },
-  {
-   "league": "Bundesliga",
-   "home": "SV Elversberg",
-   "away": "Mainz",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/10388.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, October 30th at 3:30 PM EDT",
-   "date": "2026-10-30T19:30Z"
   },
   {
    "league": "Serie A",
@@ -85,11 +33,11 @@
    "away": "Atalanta",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "live",
-   "clock": "40'",
-   "time": "40'",
+   "homeScore": 2,
+   "awayScore": 2,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
    "date": "2026-10-29T19:45Z"
   },
   {
@@ -195,6 +143,58 @@
    "clock": "",
    "time": "Sat, October 31st at 4:00 PM EDT",
    "date": "2026-10-31T20:00Z"
+  },
+  {
+   "league": "Ligue 1",
+   "home": "Le Havre AC",
+   "away": "Paris Saint-Germain",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3236.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, October 30th at 2:00 PM EDT",
+   "date": "2026-10-30T18:00Z"
+  },
+  {
+   "league": "Ligue 1",
+   "home": "Nice",
+   "away": "Stade Rennais",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, October 30th at 2:00 PM EDT",
+   "date": "2026-10-30T18:00Z"
+  },
+  {
+   "league": "Ligue 1",
+   "home": "Lille",
+   "away": "Lens",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, October 30th at 4:05 PM EDT",
+   "date": "2026-10-30T20:05Z"
+  },
+  {
+   "league": "Bundesliga",
+   "home": "SV Elversberg",
+   "away": "Mainz",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/10388.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, October 30th at 3:30 PM EDT",
+   "date": "2026-10-30T19:30Z"
   }
  ]
 }
