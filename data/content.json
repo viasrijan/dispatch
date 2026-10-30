@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-30T00:11:04.992Z",
- "updated_utc": "2026-10-30T00:11Z",
- "cycle": 29888651,
+ "generated_at": "2026-10-30T06:14:43.846Z",
+ "updated_utc": "2026-10-30T06:14Z",
+ "cycle": 29889014,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,8 +16,28 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "independent-scottish-football-could-end-saturday-3pm-blackou",
+ "hero_id": "guardian-everton-drop-jack-grealish-carabao-cup-tie-over-",
  "articles": [
+  {
+   "id": "independent-max-dowman-appeal-verdict-arsenal-fail-bid-overt",
+   "slug": "max-dowman-appeal-verdict-arsenal-fail-in-bid-to-overturn-re-overt",
+   "title": "Max Dowman appeal verdict: Arsenal fail in bid to overturn red card against Fleetwood",
+   "dek": "MIkel Arteta was angry with the teeanger after he was sent off for violent conduct in the shock defeat at Fleetwood Town",
+   "description": "MIkel Arteta was angry with the teeanger after he was sent off for violent conduct in the shock defeat at Fleetwood Town",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-10-30T04:31:02.000Z",
+   "fetched_at": "2026-10-30T06:14:32.231Z",
+   "body": [
+    "Our briefing: MIkel Arteta was angry with the teeanger after he was sent off for violent conduct in the shock defeat at Fleetwood Town",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Manchester_City_v_Arsenal%2C_League_Cup_2004-5_-_geograph.org.uk_-_3841596.jpg/960px-Manchester_City_v_Arsenal%2C_League_Cup_2004-5_-_geograph.org.uk_-_3841596.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Richard Cooke — CC BY-SA 2.0"
+  },
   {
    "id": "guardian-premier-league-10-things-look-out-this-weekend",
    "slug": "premier-league-10-things-to-look-out-for-this-weekend-ekend",
@@ -29,7 +49,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-30T00:01:38.000Z",
-   "fetched_at": "2026-10-30T00:10:46.682Z",
+   "fetched_at": "2026-10-30T06:14:32.174Z",
    "body": [
     "Our briefing: Bruno Fernandes owes Manchester United a performance, Mathys Tel has arrived at Spurs and Liverpool are improving Premier League top scorers Michael Carrick and Bruno…",
     "Bruno Fernandes owes Manchester United a performance, Mathys Tel has arrived at Spurs and Liverpool are improving Premier League top scorers Michael Carrick and Bruno Fernandes held clear-the-air talks this week. Fernandes was an unused substitute against Bournemouth after criticising Carrick’s tactics during the Champions League defeat by Como but it seems the situation has been resolved – for now. Dropping Fernandes did not do United any good against Bournemouth, who ran riot at Old Trafford , and the captain is expected to return to the starting lineup for the trip to Chelsea.",
@@ -52,7 +72,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-29T22:57:19.000Z",
-   "fetched_at": "2026-10-30T00:10:46.682Z",
+   "fetched_at": "2026-10-30T06:14:32.175Z",
    "body": [
     "Our briefing: England player left out of squad to face Newcastle Moyes confirms he ‘supports’ the club decision Jack Grealish was dropped from Everton’s Carabao Cup win over Newcastle…",
     "England player left out of squad to face Newcastle Moyes confirms he ‘supports’ the club decision Jack Grealish was dropped from Everton’s Carabao Cup win over Newcastle following a breach of club discipline. Everton took the unusual step of announcing that Grealish’s omission from the fourth-round tie was for disciplinary reasons on social media, after listing David Moyes’s team for the fourth-round tie at Hill Dickinson Stadium. The club posted on X: “Jarrad Branthwaite remains sidelined for a second successive game due to concussion protocols, while Jack Grealish is unavailable for selection due to a breach of club discipline.",
@@ -74,7 +94,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-29T22:40:17.000Z",
-   "fetched_at": "2026-10-30T00:10:46.575Z",
+   "fetched_at": "2026-10-30T06:14:32.121Z",
    "body": [
     "Our briefing: Manchester City concede late to a draw 1-1 with Paris St-Germain, as their wait for a win in the Women's Champions League this season continues.",
     "Manchester City concede late to a draw 1-1 with Paris St-Germain, as their wait for a win in the Women's Champions League this season continues.",
@@ -95,7 +115,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-29T22:15:19.000Z",
-   "fetched_at": "2026-10-30T00:10:46.682Z",
+   "fetched_at": "2026-10-30T06:14:32.174Z",
    "body": [
     "Our briefing: The biggest night in Everton’s season started with a big call from David Moyes and demanded a big performance from his players. With the exception of Jack Grealish , they…",
     "The biggest night in Everton’s season started with a big call from David Moyes and demanded a big performance from his players. With the exception of Jack Grealish , they did not let him down. A quarter-final at Fleetwood Town is their prize after a clinical, committed display shattered Newcastle’s hopes of lifting the Carabao Cup for a second time in three seasons.",
@@ -118,7 +138,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-29T22:14:01.000Z",
-   "fetched_at": "2026-10-30T00:10:46.682Z",
+   "fetched_at": "2026-10-30T06:14:32.174Z",
    "body": [
     "Our briefing: You cannot miss half a dozen big chances at Women’s Champions League level and expect to get away with it. That is the harsh lesson Manchester City learnt on Thursday…",
     "You cannot miss half a dozen big chances at Women’s Champions League level and expect to get away with it. That is the harsh lesson Manchester City learnt on Thursday against Paris Saint-Germain, who extended the English champions’ wait for their first win in Europe this season by striking late to secure a point at a disappointed Joie Stadium. City’s third draw from three Champions League games so far this season really ought to have been a victory.",
@@ -126,8 +146,8 @@
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Arras_-_PSG_au_stade_de_l%27%C3%89pop%C3%A9e_%28Calais%29.JPG/960px-Arras_-_PSG_au_stade_de_l%27%C3%89pop%C3%A9e_%28Calais%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Liondartois — CC BY-SA 3.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/World_Football_Challenge_-_Chelsea_FC_vs_Paris_Saint-Germain_FC.jpg/960px-World_Football_Challenge_-_Chelsea_FC_vs_Paris_Saint-Germain_FC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Shinya Suzuki — CC BY 2.0"
   },
   {
    "id": "independent-scottish-football-could-end-saturday-3pm-blackou",
@@ -140,7 +160,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-29T21:50:02.000Z",
-   "fetched_at": "2026-10-30T00:10:46.838Z",
+   "fetched_at": "2026-10-30T06:14:32.231Z",
    "body": [
     "Our briefing: The 3pm blackout has been in place across the UK since the 1960s",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -160,7 +180,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-29T21:46:26.000Z",
-   "fetched_at": "2026-10-30T00:10:46.682Z",
+   "fetched_at": "2026-10-30T06:14:32.174Z",
    "body": [
     "Our briefing: Generali Stadium will have 71,500-seat capacity Inter fans protest the plans outside gala event Internazionale and Milan have unveiled plans for their new Generali…",
     "Generali Stadium will have 71,500-seat capacity Inter fans protest the plans outside gala event Internazionale and Milan have unveiled plans for their new Generali Stadium, which will replace the shared San Siro venue from the 2031-32 season. The stadium, sponsored by Generali – Italy’s largest insurance company – will have a capacity of 71,500 seats and is expected to cost the two clubs €1. 2 billion (£1bn).",
@@ -182,7 +202,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-29T21:42:29.000Z",
-   "fetched_at": "2026-10-30T00:10:46.576Z",
+   "fetched_at": "2026-10-30T06:14:32.122Z",
    "body": [
     "Our briefing: League Two Fleetwood Town will face Everton at Highbury in the quarter-finals of the EFL Cup.",
     "League Two Fleetwood Town will face Everton at Highbury in the quarter-finals of the EFL Cup.",
@@ -203,7 +223,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-29T21:40:24.000Z",
-   "fetched_at": "2026-10-30T00:10:46.575Z",
+   "fetched_at": "2026-10-30T06:14:32.121Z",
    "body": [
     "Our briefing: Trent Alexander-Arnold may become a target for Chelsea, Bournemouth's Alex Scott could also be heading to Stamford Bridge and Manchester United are looking at Leeds…",
     "Trent Alexander-Arnold may become a target for Chelsea, Bournemouth's Alex Scott could also be heading to Stamford Bridge and Manchester United are looking at Leeds United striker Dominic Calvert-Lewin.",
@@ -224,7 +244,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-29T20:53:07.000Z",
-   "fetched_at": "2026-10-30T00:10:46.575Z",
+   "fetched_at": "2026-10-30T06:14:32.121Z",
    "body": [
     "Our briefing: With every team having now faced one another in the Scottish Premiership, BBC Sport Scotland assesses the key things we have learned so far.",
     "With every team having now faced one another in the Scottish Premiership, BBC Sport Scotland assesses the key things we have learned so far.",
@@ -290,7 +310,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-29T19:55:24.000Z",
-   "fetched_at": "2026-10-30T00:10:46.575Z",
+   "fetched_at": "2026-10-30T06:14:32.121Z",
    "body": [
     "Our briefing: BBC Sport football expert Chris Sutton takes on Bad Day At The Office star John Hannah, plus the BBC readers and AI with his predictions for this weekend's Premier League…",
     "BBC Sport football expert Chris Sutton takes on Bad Day At The Office star John Hannah, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
@@ -311,7 +331,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-29T19:32:24.000Z",
-   "fetched_at": "2026-10-30T00:10:46.838Z",
+   "fetched_at": "2026-10-30T06:14:32.231Z",
    "body": [
     "Our briefing: Everotn face Newcastle in the Carabao Cup this evening but Grealish won’t be part of the squad after being punished for missing training",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -331,7 +351,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-29T19:31:36.000Z",
-   "fetched_at": "2026-10-30T00:10:46.575Z",
+   "fetched_at": "2026-10-30T06:14:32.121Z",
    "body": [
     "Our briefing: Jack Grealish is left out of Everton's EFL Cup win over Newcastle United on Thursday because of \"a breach of club discipline\".",
     "Jack Grealish is left out of Everton's EFL Cup win over Newcastle United on Thursday because of \"a breach of club discipline\".",
@@ -373,7 +393,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-29T18:41:04.000Z",
-   "fetched_at": "2026-10-30T00:10:46.682Z",
+   "fetched_at": "2026-10-30T06:14:32.174Z",
    "body": [
     "Our briefing: Challenger’s identity could be approved by next week Arsène Wenger not thought to have entered reckoning Uefa and its allies are close to identifying a candidate to run…",
     "Challenger’s identity could be approved by next week Arsène Wenger not thought to have entered reckoning Uefa and its allies are close to identifying a candidate to run against Gianni Infantino in the Fifa election and could select the challenger as early as next week. The clock is ticking on efforts to oppose Infantino in March, with candidates required to confirm they are standing by 18 November, but there is growing confidence those attempts are nearing a successful resolution. Discussions with potential nominees have gained momentum despite recent setbacks that included a U-turn by the Asian Football Confederation president, Sheikh Salman bin Ibrahim al-Khalifa, who surprisingly endorsed Infantino’s push for a fourth term.",
@@ -395,7 +415,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-29T18:00:27.000Z",
-   "fetched_at": "2026-10-30T00:10:46.682Z",
+   "fetched_at": "2026-10-30T06:14:32.175Z",
    "body": [
     "Our briefing: Season will begin on 19 February in Miami MLS Cup due to be played on Memorial Day weekend Decision Day lands on 8 May Major League Soccer’s 2027 “sprint season” will…",
     "Season will begin on 19 February in Miami MLS Cup due to be played on Memorial Day weekend Decision Day lands on 8 May Major League Soccer’s 2027 “sprint season” will begin on 19 February, with MLS Cup taking place during Memorial Day weekend at the end of May. The stopgap half-season is a one-off, as the North American league inverts its calendar to align with most top leagues around the world beginning with the 2027-28 season. The nuts and bolts of the change were initially announced in March .",
@@ -417,15 +437,15 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-29T17:57:45.000Z",
-   "fetched_at": "2026-10-30T00:10:46.682Z",
+   "fetched_at": "2026-10-30T06:14:32.174Z",
    "body": [
     "Our briefing: Teenager was sent off for lashing out in Fleetwood defeat Club’s claims over card and ban were both dismissed Arsenal’s appeal against Max Dowman’s red card in their…",
     "Teenager was sent off for lashing out in Fleetwood defeat Club’s claims over card and ban were both dismissed Arsenal’s appeal against Max Dowman’s red card in their Carabao Cup defeat at Fleetwood and the three-match suspension imposed has been rejected by an independent commission. The 16-year-old Dowman was sent off for a kick out at Harrison Neal following a bruising tackle in the 85th minute of the game, which Fleetwood won on penalties after a 1-1 draw. Continue reading...",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Manchester_City_v_Arsenal%2C_League_Cup_2004-5_-_geograph.org.uk_-_3841596.jpg/960px-Manchester_City_v_Arsenal%2C_League_Cup_2004-5_-_geograph.org.uk_-_3841596.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Richard Cooke — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Wet_match_day_at_Arsenal_-_geograph.org.uk_-_5657537.jpg/960px-Wet_match_day_at_Arsenal_-_geograph.org.uk_-_5657537.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Jim Osley — CC BY-SA 2.0"
   },
   {
    "id": "bbc-scottish-football-could-pave-way-3pm-tv-blackout",
@@ -438,7 +458,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-29T17:43:53.000Z",
-   "fetched_at": "2026-10-30T00:10:46.575Z",
+   "fetched_at": "2026-10-30T06:14:32.121Z",
    "body": [
     "Our briefing: The first tentative steps to end the 3pm television blackout in the UK have been taken by Scottish football as it seeks offers for the next broadcast cycle.",
     "The first tentative steps to end the 3pm television blackout in the UK have been taken by Scottish football as it seeks offers for the next broadcast cycle.",
@@ -459,7 +479,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-29T17:29:49.000Z",
-   "fetched_at": "2026-10-30T00:10:46.682Z",
+   "fetched_at": "2026-10-30T06:14:32.174Z",
    "body": [
     "Our briefing: League to invite bids to televise all games from 2029 UK leagues expected to coordinate move to end blackout The Scottish Premiership has made the first move in what is…",
     "League to invite bids to televise all games from 2029 UK leagues expected to coordinate move to end blackout The Scottish Premiership has made the first move in what is expected to be a coordinated attempt from the UK’s domestic leagues to remove the Saturday afternoon broadcast blackout by inviting bids to televise all of its matches in the next rights cycle from 2029. A tender document issued by the Scottish Professional Football League (SPFL) last week is understood to have given broadcasters an option to bid for live rights to all matches, including games kicking off at 3pm on Saturdays, the domestic broadcast of which is currently prohibited under Article 48 of Uefa’s statutes. Continue reading...",
@@ -468,26 +488,6 @@
    ],
    "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
    "imageCredit": "YHC — CC BY-SA 4.0"
-  },
-  {
-   "id": "independent-max-dowman-appeal-verdict-arsenal-fail-bid-overt",
-   "slug": "max-dowman-appeal-verdict-arsenal-fail-in-bid-to-overturn-re-overt",
-   "title": "Max Dowman appeal verdict: Arsenal fail in bid to overturn red card against Fleetwood",
-   "dek": "MIkel Arteta was angry with the teeanger after he was sent off for violent conduct in the shock defeat at Fleetwood Town",
-   "description": "MIkel Arteta was angry with the teeanger after he was sent off for violent conduct in the shock defeat at Fleetwood Town",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-10-29T17:26:32.000Z",
-   "fetched_at": "2026-10-30T00:10:46.838Z",
-   "body": [
-    "Our briefing: MIkel Arteta was angry with the teeanger after he was sent off for violent conduct in the shock defeat at Fleetwood Town",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Wet_match_day_at_Arsenal_-_geograph.org.uk_-_5657537.jpg/960px-Wet_match_day_at_Arsenal_-_geograph.org.uk_-_5657537.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Jim Osley — CC BY-SA 2.0"
   },
   {
    "id": "guardian-chelsea-s-fine-finishing-has-them-flying-high-bu",
@@ -500,7 +500,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-29T17:21:08.000Z",
-   "fetched_at": "2026-10-30T00:10:46.682Z",
+   "fetched_at": "2026-10-30T06:14:32.175Z",
    "body": [
     "Our briefing: Despite being at opposite ends of the table, according to Opta’s expected points model, Chelsea have performed worse than Saturday’s opponents Manchester United Michael…",
     "Despite being at opposite ends of the table, according to Opta’s expected points model, Chelsea have performed worse than Saturday’s opponents Manchester United Michael Carrick will arrive at Stamford Bridge on Saturday with the air of a dead man walking. Yet despite Manchester United being fifth-bottom of the Premier League and Chelsea fifth-top, the Blues have performed worse this season according to Opta’s expected points model. Is there a glitch in the matrix?",
@@ -522,7 +522,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-29T17:20:57.000Z",
-   "fetched_at": "2026-10-30T00:10:46.575Z",
+   "fetched_at": "2026-10-30T06:14:32.122Z",
    "body": [
     "Our briefing: Rangers and Celtic will both play their next Scottish Cup home ties behind closed doors after the clubs respective appeals against the sanction was dismissed.",
     "Rangers and Celtic will both play their next Scottish Cup home ties behind closed doors after the clubs respective appeals against the sanction was dismissed.",
@@ -543,7 +543,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-29T17:19:06.000Z",
-   "fetched_at": "2026-10-30T00:10:46.575Z",
+   "fetched_at": "2026-10-30T06:14:32.121Z",
    "body": [
     "Our briefing: Arsenal's Max Dowman will miss three matches after an appeal against his sending-off during Tuesday's loss at Fleetwood is rejected.",
     "Arsenal's Max Dowman will miss three matches after an appeal against his sending-off during Tuesday's loss at Fleetwood is rejected.",
@@ -564,7 +564,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-29T16:54:00.000Z",
-   "fetched_at": "2026-10-30T00:10:46.576Z",
+   "fetched_at": "2026-10-30T06:14:32.122Z",
    "body": [
     "Our briefing: Rick & Lloyd are joined by Julien Laurens to discuss De Zerbi’s quiet transformation.",
     "Rick & Lloyd are joined by Julien Laurens to discuss De Zerbi’s quiet transformation.",
@@ -585,7 +585,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-29T16:21:00.000Z",
-   "fetched_at": "2026-10-30T00:10:46.576Z",
+   "fetched_at": "2026-10-30T06:14:32.122Z",
    "body": [
     "Our briefing: Was David Raya robbed at the Ballon d'Or? And what did the continent make of Kane's win?",
     "Was David Raya robbed at the Ballon d'Or? And what did the continent make of Kane's win?",
@@ -606,7 +606,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-29T16:02:50.000Z",
-   "fetched_at": "2026-10-30T00:10:46.838Z",
+   "fetched_at": "2026-10-30T06:14:32.231Z",
    "body": [
     "Our briefing: The Glazer family are under intense pressure after the latest crisis at Old Trafford, with Michael Carrick still in charge despite Manchester United just one point above…",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -653,7 +653,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-29T15:36:21.000Z",
-   "fetched_at": "2026-10-30T00:10:46.575Z",
+   "fetched_at": "2026-10-30T06:14:32.122Z",
    "body": [
     "Our briefing: Rangers manager Derek McInnes defends Emmanuel Fernandez, saying the centre-back \"has been a big part of our better performances this season\".",
     "Rangers manager Derek McInnes defends Emmanuel Fernandez, saying the centre-back \"has been a big part of our better performances this season\".",
@@ -674,7 +674,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-29T14:50:16.000Z",
-   "fetched_at": "2026-10-30T00:10:46.682Z",
+   "fetched_at": "2026-10-30T06:14:32.174Z",
    "body": [
     "Our briefing: Carrick says he is not surprised to still be head coach He describes Fernandes as ‘important’ for the squad Michael Carrick has said he will not strip Bruno Fernandes of…",
     "Carrick says he is not surprised to still be head coach He describes Fernandes as ‘important’ for the squad Michael Carrick has said he will not strip Bruno Fernandes of the Manchester United captaincy after dropping him for the defeat by Bournemouth and that he is not surprised to have kept his job as the head coach. Carrick and Fernandes held talks this week after the Portuguese criticised the tactics in the loss to Como, resulting in the midfielder being an unused substitute on Sunday. Harry Maguire took the armband but will not retain it for Saturday’s game at Chelsea, with Carrick saying “there is no decision to be made” and praising Fernandes.",
@@ -696,13 +696,13 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-29T14:35:11.000Z",
-   "fetched_at": "2026-10-30T00:10:46.839Z",
+   "fetched_at": "2026-10-30T06:14:32.231Z",
    "body": [
     "Our briefing: Fernandes is expected to return to captain United against Chelsea and is ‘fully committed’ to the cause after holding clear-the-air talks with Carrick",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
@@ -716,7 +716,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-29T14:31:52.000Z",
-   "fetched_at": "2026-10-30T00:10:46.575Z",
+   "fetched_at": "2026-10-30T06:14:32.121Z",
    "body": [
     "Our briefing: Manchester United head coach Michael Carrick confirms Bruno Fernandes will remain captain, and addresses his own future before Saturday's trip to Chelsea.",
     "Manchester United head coach Michael Carrick confirms Bruno Fernandes will remain captain, and addresses his own future before Saturday's trip to Chelsea.",
@@ -737,13 +737,13 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-29T14:29:24.000Z",
-   "fetched_at": "2026-10-30T00:10:46.839Z",
+   "fetched_at": "2026-10-30T06:14:32.231Z",
    "body": [
     "Our briefing: Carrick remains in a job despite intense speculation at Old Trafford with Manchester United now eight games without a win",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
@@ -757,7 +757,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-10-29T14:12:33.000Z",
-   "fetched_at": "2026-10-30T00:10:46.839Z",
+   "fetched_at": "2026-10-30T06:14:32.231Z",
    "body": [
     "Our briefing: Sesko missed the entirety of pre-season with a similar issue",
     "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
@@ -777,7 +777,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-10-29T13:51:21.000Z",
-   "fetched_at": "2026-10-30T00:10:46.683Z",
+   "fetched_at": "2026-10-30T06:14:32.176Z",
    "body": [
     "Our briefing: Max Rushden is joined by Barry Glendenning , Dan Bardell and Seb Hutchinson as Fleetwood Town beat Arsenal in the League Cup and Michael Carrick remains in the dugout at…",
     "Max Rushden is joined by Barry Glendenning , Dan Bardell and Seb Hutchinson as Fleetwood Town beat Arsenal in the League Cup and Michael Carrick remains in the dugout at Manchester United Continue reading...",
@@ -798,7 +798,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-29T13:49:51.000Z",
-   "fetched_at": "2026-10-30T00:10:46.577Z",
+   "fetched_at": "2026-10-30T06:14:32.123Z",
    "body": [
     "Our briefing: Steven Pressley has Dundee soaring high in fourth place in the Scottish Premiership after the first round of fixtures, but how has he done it?",
     "Steven Pressley has Dundee soaring high in fourth place in the Scottish Premiership after the first round of fixtures, but how has he done it?",
@@ -819,7 +819,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-29T13:47:43.000Z",
-   "fetched_at": "2026-10-30T00:10:46.575Z",
+   "fetched_at": "2026-10-30T06:14:32.122Z",
    "body": [
     "Our briefing: The footballer has denied assaulting a man at a Soho nightclub on 6 December last year.",
     "The footballer has denied assaulting a man at a Soho nightclub on 6 December last year.",
@@ -861,15 +861,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-10-29T13:19:52.000Z",
-   "fetched_at": "2026-10-30T00:10:46.575Z",
+   "fetched_at": "2026-10-30T06:14:32.121Z",
    "body": [
     "Our briefing: Back-to-back relegations to the third tier of English football are becoming more common and this season Burnley could make it a hat-trick after Luton Town and Leicester.",
     "Back-to-back relegations to the third tier of English football are becoming more common and this season Burnley could make it a hat-trick after Luton Town and Leicester.",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Soccer_fans_put_town_in_siege_%28FL62506106%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506106%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Soccer_fans_in_2021.jpg/960px-Soccer_fans_in_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Miguel Discart & Kiri Karma — CC BY-SA 4.0"
   }
  ]
 }
