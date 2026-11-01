@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T15:50:57.828Z",
+ "generated_at": "2026-11-01T20:16:28.488Z",
  "matches": [
   {
    "league": "Bundesliga",
@@ -8,10 +8,10 @@
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
    "homeScore": 1,
-   "awayScore": 0,
-   "status": "live",
-   "clock": "62'",
-   "time": "62'",
+   "awayScore": 1,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
    "date": "2026-11-01T14:30Z"
   },
   {
@@ -20,24 +20,11 @@
    "away": "Hamburg SV",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
+   "homeScore": 3,
+   "awayScore": 1,
+   "status": "final",
    "clock": "",
-   "time": "Sun, November 1st at 11:30 AM EST",
-   "date": "2026-11-01T16:30Z"
-  },
-  {
-   "league": "Premier League",
-   "home": "Liverpool",
-   "away": "Arsenal",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Sun, November 1st at 11:30 AM EST",
+   "time": "FT",
    "date": "2026-11-01T16:30Z"
   },
   {
@@ -59,11 +46,11 @@
    "away": "Torino",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
-   "homeScore": 1,
+   "homeScore": 2,
    "awayScore": 0,
-   "status": "live",
-   "clock": "89'",
-   "time": "89'",
+   "status": "final",
+   "clock": "",
+   "time": "FT",
    "date": "2026-11-01T14:00Z"
   },
   {
@@ -74,9 +61,9 @@
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
    "homeScore": 2,
    "awayScore": 1,
-   "status": "live",
-   "clock": "90'+1'",
-   "time": "90'+1'",
+   "status": "final",
+   "clock": "",
+   "time": "FT",
    "date": "2026-11-01T14:00Z"
   },
   {
@@ -85,11 +72,11 @@
    "away": "Genoa",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
+   "homeScore": 1,
+   "awayScore": 2,
+   "status": "final",
    "clock": "",
-   "time": "Sun, November 1st at 12:00 PM EST",
+   "time": "FT",
    "date": "2026-11-01T17:00Z"
   },
   {
@@ -100,9 +87,9 @@
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
    "homeScore": 0,
    "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Sun, November 1st at 2:45 PM EST",
+   "status": "live",
+   "clock": "31'",
+   "time": "31'",
    "date": "2026-11-01T19:45Z"
   },
   {
@@ -125,10 +112,10 @@
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
    "homeScore": 0,
-   "awayScore": 2,
-   "status": "live",
-   "clock": "33'",
-   "time": "33'",
+   "awayScore": 3,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
    "date": "2026-11-01T15:15Z"
   },
   {
@@ -138,10 +125,10 @@
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
    "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
+   "awayScore": 1,
+   "status": "final",
    "clock": "",
-   "time": "Sun, November 1st at 12:30 PM EST",
+   "time": "FT",
    "date": "2026-11-01T17:30Z"
   },
   {
@@ -152,10 +139,23 @@
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
    "homeScore": 0,
    "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Sun, November 1st at 3:00 PM EST",
+   "status": "live",
+   "clock": "11'",
+   "time": "11'",
    "date": "2026-11-01T20:00Z"
+  },
+  {
+   "league": "Premier League",
+   "home": "Liverpool",
+   "away": "Arsenal",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+   "homeScore": 0,
+   "awayScore": 1,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-11-01T16:30Z"
   },
   {
    "league": "Ligue 1",
@@ -165,9 +165,9 @@
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/172.png",
    "homeScore": 5,
    "awayScore": 1,
-   "status": "live",
-   "clock": "90'+1'",
-   "time": "90'+1'",
+   "status": "final",
+   "clock": "",
+   "time": "FT",
    "date": "2026-11-01T14:00Z"
   },
   {
@@ -176,11 +176,11 @@
    "away": "Angers",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
-   "homeScore": 0,
+   "homeScore": 2,
    "awayScore": 0,
-   "status": "pre",
+   "status": "final",
    "clock": "",
-   "time": "Sun, November 1st at 11:15 AM EST",
+   "time": "FT",
    "date": "2026-11-01T16:15Z"
   },
   {
@@ -189,11 +189,11 @@
    "away": "AS Monaco",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
+   "homeScore": 3,
+   "awayScore": 1,
+   "status": "final",
    "clock": "",
-   "time": "Sun, November 1st at 11:15 AM EST",
+   "time": "FT",
    "date": "2026-11-01T16:15Z"
   },
   {
@@ -202,11 +202,11 @@
    "away": "Toulouse",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png",
-   "homeScore": 0,
+   "homeScore": 2,
    "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Sun, November 1st at 2:45 PM EST",
+   "status": "live",
+   "clock": "31'",
+   "time": "31'",
    "date": "2026-11-01T19:45Z"
   }
  ]

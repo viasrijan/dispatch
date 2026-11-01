@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-01T15:50:57.827Z",
- "updated_utc": "2026-11-01T15:50Z",
- "cycle": 29892470,
+ "generated_at": "2026-11-01T20:16:28.487Z",
+ "updated_utc": "2026-11-01T20:16Z",
+ "cycle": 29892736,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,8 +16,570 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "guardian-charlton-v-chelsea-west-ham-v-liverpool-birmingh",
+ "hero_id": "independent-andoni-iraola-fumes-referees-over-liverpool-pena",
  "articles": [
+  {
+   "id": "bbc-arsenal-move-clear-top-rare-win-liverpool",
+   "slug": "arsenal-move-clear-at-the-top-with-a-rare-win-at-liverpool-rpool",
+   "title": "Arsenal move clear at the top with a rare win at Liverpool",
+   "dek": "Arsenal win at Anfield for the first time since 2012 to earn a three-point lead at the top of the Premier League table following an end-to-end match that leaves Liverpool…",
+   "description": "Arsenal win at Anfield for the first time since 2012 to earn a three-point lead at the top of the Premier League table following an end-to-end match that leaves Liverpool frustrated to have taken nothing.",
+   "category": "News",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-01T20:00:18.000Z",
+   "fetched_at": "2026-11-01T20:16:19.346Z",
+   "body": [
+    "Our briefing: Arsenal win at Anfield for the first time since 2012 to earn a three-point lead at the top of the Premier League table following an end-to-end match that leaves Liverpool…",
+    "Arsenal win at Anfield for the first time since 2012 to earn a three-point lead at the top of the Premier League table following an end-to-end match that leaves Liverpool frustrated to have taken nothing.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Arsenal_Stadium_Highbury_east_facade.jpg/960px-Arsenal_Stadium_Highbury_east_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "No machine-readable author provided. Qwghlm~commonswiki assumed (based on copyright claims). — CC BY-SA 3.0"
+  },
+  {
+   "id": "independent-crazy-stats-that-defined-arsenal-s-statement-win",
+   "slug": "the-crazy-stats-that-defined-arsenal-s-statement-win-at-anfi-t-win",
+   "title": "The ‘crazy’ stats that defined Arsenal’s statement win at Anfield",
+   "dek": "Liverpool 0-1 Arsenal: Kai Havertz’s scored a first-half goal and the Gunners then clung on to seal a first win at Anfield since 2012",
+   "description": "Liverpool 0-1 Arsenal: Kai Havertz’s scored a first-half goal and the Gunners then clung on to seal a first win at Anfield since 2012",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-11-01T19:44:24.000Z",
+   "fetched_at": "2026-11-01T20:16:19.643Z",
+   "body": [
+    "Our briefing: Liverpool 0-1 Arsenal: Kai Havertz’s scored a first-half goal and the Gunners then clung on to seal a first win at Anfield since 2012",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Manchester_City_v_Arsenal%2C_League_Cup_2004-5_-_geograph.org.uk_-_3841596.jpg/960px-Manchester_City_v_Arsenal%2C_League_Cup_2004-5_-_geograph.org.uk_-_3841596.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Richard Cooke — CC BY-SA 2.0"
+  },
+  {
+   "id": "independent-alexis-mac-allister-labelled-embarrassing-after-",
+   "slug": "alexis-mac-allister-labelled-embarrassing-after-trying-to-ge-fter-",
+   "title": "Alexis Mac Allister labelled ‘embarrassing’ after trying to get Arsenal man sent off",
+   "dek": "Mac Allister went down theatrically following contact between his head and Noni Madueke’s during the latter stages of Arsenal’s win",
+   "description": "Mac Allister went down theatrically following contact between his head and Noni Madueke’s during the latter stages of Arsenal’s win",
+   "category": "News",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-11-01T19:39:14.000Z",
+   "fetched_at": "2026-11-01T20:16:19.643Z",
+   "body": [
+    "Our briefing: Mac Allister went down theatrically following contact between his head and Noni Madueke’s during the latter stages of Arsenal’s win",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Arsenal_Stadium_in_Tula.jpg/960px-Arsenal_Stadium_in_Tula.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "UMNICK — CC BY-SA 3.0"
+  },
+  {
+   "id": "bbc-everyone-saw-it-iraola-confused-isak-penalty-dec",
+   "slug": "everyone-saw-it-iraola-confused-by-isak-penalty-decision-y-dec",
+   "title": "'Everyone saw it' - Iraola confused by Isak penalty decision",
+   "dek": "Liverpool manager Andoni Iraola reacts to his side's defeat at home to league leaders Arsenal, saying he \"doesn't understand\" why Alexander Isak was not awarded a…",
+   "description": "Liverpool manager Andoni Iraola reacts to his side's defeat at home to league leaders Arsenal, saying he \"doesn't understand\" why Alexander Isak was not awarded a penalty.",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-01T19:37:44.000Z",
+   "fetched_at": "2026-11-01T20:16:19.347Z",
+   "body": [
+    "Our briefing: Liverpool manager Andoni Iraola reacts to his side's defeat at home to league leaders Arsenal, saying he \"doesn't understand\" why Alexander Isak was not awarded a…",
+    "Liverpool manager Andoni Iraola reacts to his side's defeat at home to league leaders Arsenal, saying he \"doesn't understand\" why Alexander Isak was not awarded a penalty.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": null
+  },
+  {
+   "id": "independent-andoni-iraola-fumes-referees-over-liverpool-pena",
+   "slug": "andoni-iraola-fumes-at-referees-over-liverpool-penalty-claim--pena",
+   "title": "Andoni Iraola fumes at referees over Liverpool penalty claim in Arsenal loss: ‘You have to dive’",
+   "dek": "Alexander Isak went down following a shirt pull but Liverpool saw penalty appeals waved away",
+   "description": "Alexander Isak went down following a shirt pull but Liverpool saw penalty appeals waved away",
+   "category": "News",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-11-01T19:37:35.000Z",
+   "fetched_at": "2026-11-01T20:16:19.643Z",
+   "body": [
+    "Our briefing: Alexander Isak went down following a shirt pull but Liverpool saw penalty appeals waved away",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/West_Stand_entrance%2C_Arsenal_Stadium%2C_Highbury_-_geograph.org.uk_-_1967580.jpg/960px-West_Stand_entrance%2C_Arsenal_Stadium%2C_Highbury_-_geograph.org.uk_-_1967580.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Julian Osley — CC BY-SA 2.0"
+  },
+  {
+   "id": "bbc-arteta-credits-fleetwood-loss-spirited-win-anfie",
+   "slug": "arteta-credits-fleetwood-loss-for-spirited-win-at-anfield-anfie",
+   "title": "Arteta credits Fleetwood loss for spirited win at Anfield",
+   "dek": "Arsenal manager Mikel Arteta believes their loss in the League Cup by Fleetwood spurred his side on to their first victory at Anfield in 14 years.",
+   "description": "Arsenal manager Mikel Arteta believes their loss in the League Cup by Fleetwood spurred his side on to their first victory at Anfield in 14 years.",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-01T19:21:49.000Z",
+   "fetched_at": "2026-11-01T20:16:19.347Z",
+   "body": [
+    "Our briefing: Arsenal manager Mikel Arteta believes their loss in the League Cup by Fleetwood spurred his side on to their first victory at Anfield in 14 years.",
+    "Arsenal manager Mikel Arteta believes their loss in the League Cup by Fleetwood spurred his side on to their first victory at Anfield in 14 years.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
+   "id": "guardian-wsl-roundup-russo-salvages-draw-james-suffers-ha",
+   "slug": "wsl-roundup-russo-salvages-draw-james-suffers-hamstring-inju-rs-ha",
+   "title": "WSL roundup: Russo salvages draw, James suffers hamstring injury",
+   "dek": "Arsenal salvage late 1-1 draw at home against Aston Villa Chelsea win 6-0 but England forward taken off early One shot, on target and in the back of the net, was all it…",
+   "description": "Arsenal salvage late 1-1 draw at home against Aston Villa Chelsea win 6-0 but England forward taken off early One shot, on target and in the back of the net, was all it took for Aston Villa to reopen the wound that Arsenal had been carefully trying to stitch back up. Despite almost 65% possession, 28 shots to one, and 56 touches in the opposition box to four, Alessia Russo’s 85th-minute goal meant Arsenal were only able to salvage a point against Villa after back-to-back wins in the league and Champions League had appeared to have kickstarted their season. Continue reading...",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-11-01T19:07:47.000Z",
+   "fetched_at": "2026-11-01T20:16:19.405Z",
+   "body": [
+    "Our briefing: Arsenal salvage late 1-1 draw at home against Aston Villa Chelsea win 6-0 but England forward taken off early One shot, on target and in the back of the net, was all it…",
+    "Arsenal salvage late 1-1 draw at home against Aston Villa Chelsea win 6-0 but England forward taken off early One shot, on target and in the back of the net, was all it took for Aston Villa to reopen the wound that Arsenal had been carefully trying to stitch back up. Despite almost 65% possession, 28 shots to one, and 56 touches in the opposition box to four, Alessia Russo’s 85th-minute goal meant Arsenal were only able to salvage a point against Villa after back-to-back wins in the league and Champions League had appeared to have kickstarted their season. Continue reading...",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
+  },
+  {
+   "id": "independent-liverpool-v-arsenal-live-result-reaction-crunch-",
+   "slug": "liverpool-v-arsenal-live-result-and-reaction-from-crunch-pre-unch-",
+   "title": "Liverpool v Arsenal LIVE: Result and reaction from crunch Premier League clash",
+   "dek": "Liverpool 0-1 Arsenal: Havertz converted a sublime Rice cross as the Gunners secured a first win at Anfield since 2012",
+   "description": "Liverpool 0-1 Arsenal: Havertz converted a sublime Rice cross as the Gunners secured a first win at Anfield since 2012",
+   "category": "News",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-11-01T18:53:02.000Z",
+   "fetched_at": "2026-11-01T20:16:19.643Z",
+   "body": [
+    "Our briefing: Liverpool 0-1 Arsenal: Havertz converted a sublime Rice cross as the Gunners secured a first win at Anfield since 2012",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Former_Arsenal_Stadium_from_Conewood_Street%2C_Highbury_-_geograph.org.uk_-_2001231.jpg/960px-Former_Arsenal_Stadium_from_Conewood_Street%2C_Highbury_-_geograph.org.uk_-_2001231.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Jim Osley — CC BY-SA 2.0"
+  },
+  {
+   "id": "independent-first-images-released-71-500-seater-replacement-",
+   "slug": "first-images-released-of-71-500-seater-replacement-for-iconi-ment-",
+   "title": "First images released of 71,500-seater replacement for iconic European football stadium",
+   "dek": "The new stadium was expected to be ready by 2024 or 2025 but public debate and bureaucratic delays forced the clubs to explore other options",
+   "description": "The new stadium was expected to be ready by 2024 or 2025 but public debate and bureaucratic delays forced the clubs to explore other options",
+   "category": "News",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-11-01T18:52:15.000Z",
+   "fetched_at": "2026-11-01T20:16:19.643Z",
+   "body": [
+    "Our briefing: The new stadium was expected to be ready by 2024 or 2025 but public debate and bureaucratic delays forced the clubs to explore other options",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "John Shorten — CC BY 4.0"
+  },
+  {
+   "id": "independent-manchester-city-hold-off-impressive-london-city-",
+   "slug": "manchester-city-hold-off-impressive-london-city-lionesses-to-city-",
+   "title": "Manchester City hold off impressive London City Lionesses to continue unbeaten WSL start",
+   "dek": "London City Lionesses 1-2 Manchester City: Lauren Hemp scored the winner as the visitors edged to victory",
+   "description": "London City Lionesses 1-2 Manchester City: Lauren Hemp scored the winner as the visitors edged to victory",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-11-01T18:48:51.000Z",
+   "fetched_at": "2026-11-01T20:16:19.643Z",
+   "body": [
+    "Our briefing: London City Lionesses 1-2 Manchester City: Lauren Hemp scored the winner as the visitors edged to victory",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-giant-curiosity-hibs-finally-liberated-hearts-su",
+   "slug": "giant-curiosity-hibs-finally-liberated-from-hearts-sucker-pu-ts-su",
+   "title": "Giant curiosity Hibs finally liberated from Hearts sucker punch",
+   "dek": "Hibernian, for once, avoid late heartbreak to set up League Cup final with Rangers, writes Tom English.",
+   "description": "Hibernian, for once, avoid late heartbreak to set up League Cup final with Rangers, writes Tom English.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-01T18:45:49.000Z",
+   "fetched_at": "2026-11-01T20:16:19.346Z",
+   "body": [
+    "Our briefing: Hibernian, for once, avoid late heartbreak to set up League Cup final with Rangers, writes Tom English.",
+    "Hibernian, for once, avoid late heartbreak to set up League Cup final with Rangers, writes Tom English.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+  },
+  {
+   "id": "bbc-giant-curiosity-hibs-finally-liberated-sucker-pu",
+   "slug": "giant-curiosity-hibs-finally-liberated-from-the-sucker-punch-er-pu",
+   "title": "Giant curiosity Hibs finally liberated from the sucker punch",
+   "dek": "Hibernian, for once, avoid late heartbreak to set up League Cup final with Rangers, writes Tom English.",
+   "description": "Hibernian, for once, avoid late heartbreak to set up League Cup final with Rangers, writes Tom English.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-01T18:45:49.000Z",
+   "fetched_at": "2026-11-01T20:16:19.348Z",
+   "body": [
+    "Our briefing: Hibernian, for once, avoid late heartbreak to set up League Cup final with Rangers, writes Tom English.",
+    "Hibernian, for once, avoid late heartbreak to set up League Cup final with Rangers, writes Tom English.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+  },
+  {
+   "id": "guardian-arsenal-hold-first-league-win-liverpool-since-20",
+   "slug": "arsenal-hold-on-for-first-league-win-at-liverpool-since-2012-ce-20",
+   "title": "Arsenal hold on for first league win at Liverpool since 2012 after Kai Havertz pounces early",
+   "dek": "It was a game when Arsenal showed their ruthless side and all of the champion knowhow that they accumulated over the course of last season. As they headed back to London,…",
+   "description": "It was a game when Arsenal showed their ruthless side and all of the champion knowhow that they accumulated over the course of last season. As they headed back to London, they did so having made a statement. Irrespective of what happens to Manchester City over their financial rule breaches, Arsenal remain the Premier League’s team to beat. Mikel Arteta was in the Arsenal midfield when the club previously won a league fixture at Anfield; it was back in September 2012, although his memories are a little hazy owing to the concussion that he sustained in a collision with Jordan Henderson. Continue reading...",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-11-01T18:44:48.000Z",
+   "fetched_at": "2026-11-01T20:16:19.405Z",
+   "body": [
+    "Our briefing: It was a game when Arsenal showed their ruthless side and all of the champion knowhow that they accumulated over the course of last season. As they headed back to London,…",
+    "It was a game when Arsenal showed their ruthless side and all of the champion knowhow that they accumulated over the course of last season. As they headed back to London, they did so having made a statement. Irrespective of what happens to Manchester City over their financial rule breaches, Arsenal remain the Premier League’s team to beat.",
+    "Mikel Arteta was in the Arsenal midfield when the club previously won a league fixture at Anfield; it was back in September 2012, although his memories are a little hazy owing to the concussion that he sustained in a collision with Jordan Henderson. Continue reading...",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Wet_match_day_at_Arsenal_-_geograph.org.uk_-_5657537.jpg/960px-Wet_match_day_at_Arsenal_-_geograph.org.uk_-_5657537.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Jim Osley — CC BY-SA 2.0"
+  },
+  {
+   "id": "bbc-rice-rewarded-wirtz-must-do-more-liverpool-arsen",
+   "slug": "rice-rewarded-wirtz-must-do-more-liverpool-and-arsenal-playe-arsen",
+   "title": "Rice rewarded, Wirtz must do more - Liverpool and Arsenal player ratings",
+   "dek": "How Liverpool and Arsenal's players rated in their Premier League match at Anfield, as the champions of the past two seasons went head to head.",
+   "description": "How Liverpool and Arsenal's players rated in their Premier League match at Anfield, as the champions of the past two seasons went head to head.",
+   "category": "Tactics & Analysis",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-01T18:38:45.000Z",
+   "fetched_at": "2026-11-01T20:16:19.346Z",
+   "body": [
+    "Our briefing: How Liverpool and Arsenal's players rated in their Premier League match at Anfield, as the champions of the past two seasons went head to head.",
+    "How Liverpool and Arsenal's players rated in their Premier League match at Anfield, as the champions of the past two seasons went head to head.",
+    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Kyiv_Arsenal_Stadium.jpg/960px-Kyiv_Arsenal_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Toronto_guy — CC BY 3.0"
+  },
+  {
+   "id": "independent-police-investigate-fan-taunt-using-bradley-lower",
+   "slug": "police-investigate-fan-taunt-using-bradley-lowery-photo-duri-lower",
+   "title": "Police investigate fan taunt using Bradley Lowery photo during Coventry vs Sunderland",
+   "dek": "West Midlands Police confirmed that a 14-year-old boy has handed himself in",
+   "description": "West Midlands Police confirmed that a 14-year-old boy has handed himself in",
+   "category": "News",
+   "league": "Football",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-11-01T18:28:22.000Z",
+   "fetched_at": "2026-11-01T20:16:19.643Z",
+   "body": [
+    "Our briefing: West Midlands Police confirmed that a 14-year-old boy has handed himself in",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+  },
+  {
+   "id": "independent-gary-neville-bemoans-nonsense-premier-league-inj",
+   "slug": "gary-neville-bemoans-nonsense-premier-league-injury-rule-dur-e-inj",
+   "title": "Gary Neville bemoans ‘nonsense’ Premier League injury rule during Liverpool vs Arsenal",
+   "dek": "Liverpool defender Milos Kerkez was forced to spend a minute on the touchline after a clash of heads with Arsenal’s Kai Havertz",
+   "description": "Liverpool defender Milos Kerkez was forced to spend a minute on the touchline after a clash of heads with Arsenal’s Kai Havertz",
+   "category": "Injuries",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-11-01T18:22:37.000Z",
+   "fetched_at": "2026-11-01T20:16:19.643Z",
+   "body": [
+    "Our briefing: Liverpool defender Milos Kerkez was forced to spend a minute on the touchline after a clash of heads with Arsenal’s Kai Havertz",
+    "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Rocky_Mountain_Arsenal_National_Wildlife_Refuge%E2%80%99s_Amphitheater_%287495499436%29.jpg/960px-Rocky_Mountain_Arsenal_National_Wildlife_Refuge%E2%80%99s_Amphitheater_%287495499436%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
+   "id": "guardian-boy-hands-himself-into-police-after-bradley-lowe",
+   "slug": "boy-hands-himself-into-police-after-bradley-lowery-taunt-in---lowe",
+   "title": "Boy hands himself into police after Bradley Lowery taunt in Sunderland match",
+   "dek": "Coventry fan, 14, had photo of Lowery at Coventry game Bradley died aged six in 2017 with rare form of cancer A 14-year-old boy has “handed himself in” to West Midlands…",
+   "description": "Coventry fan, 14, had photo of Lowery at Coventry game Bradley died aged six in 2017 with rare form of cancer A 14-year-old boy has “handed himself in” to West Midlands police after a video posted on social media appeared to show a Coventry fan taunting Sunderland with a photo of Bradley Lowery during the Premier League match on Saturday . Sunderland fan Bradley captured the hearts of the football world when he was diagnosed with neuroblastoma, a rare form of childhood cancer. He died aged six in 2017. Continue reading...",
+   "category": "Tactics & Analysis",
+   "league": "Football",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-11-01T18:20:53.000Z",
+   "fetched_at": "2026-11-01T20:16:19.405Z",
+   "body": [
+    "Our briefing: Coventry fan, 14, had photo of Lowery at Coventry game Bradley died aged six in 2017 with rare form of cancer A 14-year-old boy has “handed himself in” to West Midlands…",
+    "Coventry fan, 14, had photo of Lowery at Coventry game Bradley died aged six in 2017 with rare form of cancer A 14-year-old boy has “handed himself in” to West Midlands police after a video posted on social media appeared to show a Coventry fan taunting Sunderland with a photo of Bradley Lowery during the Premier League match on Saturday . Sunderland fan Bradley captured the hearts of the football world when he was diagnosed with neuroblastoma, a rare form of childhood cancer. He died aged six in 2017.",
+    "Continue reading...",
+    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
+  },
+  {
+   "id": "guardian-should-premier-league-strugglers-stick-or-twist-",
+   "slug": "should-premier-league-strugglers-stick-or-twist-as-pressure--wist-",
+   "title": "Should Premier League strugglers stick or twist as pressure on managers mounts? | Andrew Beasley",
+   "dek": "Unusually, all clubs in the top flight have the same manager with whom they began the season – but the first sacking may not be far away No Premier League manager has yet…",
+   "description": "Unusually, all clubs in the top flight have the same manager with whom they began the season – but the first sacking may not be far away No Premier League manager has yet lost his job this season. In only three of the past 10 campaigns was November reached without a club making a managerial change. The 2026-27 season commencing with 11 managers who were appointed at some point in 2026 has probably contributed to the early season stability. They have to be given a chance to fashion their side as they see fit. But with roughly a quarter of the season played and only one more round of fixtures before an international break, the first sacking may not be far away. Continue reading...",
+   "category": "News",
+   "league": "Premier League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-11-01T18:00:30.000Z",
+   "fetched_at": "2026-11-01T20:16:19.405Z",
+   "body": [
+    "Our briefing: Unusually, all clubs in the top flight have the same manager with whom they began the season – but the first sacking may not be far away No Premier League manager has yet…",
+    "Unusually, all clubs in the top flight have the same manager with whom they began the season – but the first sacking may not be far away No Premier League manager has yet lost his job this season. In only three of the past 10 campaigns was November reached without a club making a managerial change. The 2026-27 season commencing with 11 managers who were appointed at some point in 2026 has probably contributed to the early season stability.",
+    "They have to be given a chance to fashion their side as they see fit. But with roughly a quarter of the season played and only one more round of fixtures before an international break, the first sacking may not be far away. Continue reading...",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/CPSL_2005_semifinals_-_Esther_Shiner_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "Robin Glover — CC BY 4.0"
+  },
+  {
+   "id": "bbc-clinical-man-city-edge-past-london-city-wsl-thri",
+   "slug": "clinical-man-city-edge-past-london-city-in-wsl-thriller--thri",
+   "title": "Clinical Man City edge past London City in WSL thriller",
+   "dek": "Manchester City earn a dramatic victory courtesy of goals from Khadija Shaw and Lauren Hemp against an excellent but wasteful London City Lionesses side.",
+   "description": "Manchester City earn a dramatic victory courtesy of goals from Khadija Shaw and Lauren Hemp against an excellent but wasteful London City Lionesses side.",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-01T17:54:43.000Z",
+   "fetched_at": "2026-11-01T20:16:19.348Z",
+   "body": [
+    "Our briefing: Manchester City earn a dramatic victory courtesy of goals from Khadija Shaw and Lauren Hemp against an excellent but wasteful London City Lionesses side.",
+    "Manchester City earn a dramatic victory courtesy of goals from Khadija Shaw and Lauren Hemp against an excellent but wasteful London City Lionesses side.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Final_Manchester_City_Match_at_Maine_Road_-_geograph.org.uk_-_3820257.jpg/960px-Final_Manchester_City_Match_at_Maine_Road_-_geograph.org.uk_-_3820257.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Richard Cooke — CC BY-SA 2.0"
+  },
+  {
+   "id": "bbc-russo-rescues-late-point-arsenal-against-villa",
+   "slug": "russo-rescues-late-point-for-arsenal-against-villa-villa",
+   "title": "Russo rescues late point for Arsenal against Villa",
+   "dek": "Chastity Grant's first-half strike for Aston Villa is cancelled out by a late header from Alessia Russo, as Arsenal record another draw at home in a frustrating…",
+   "description": "Chastity Grant's first-half strike for Aston Villa is cancelled out by a late header from Alessia Russo, as Arsenal record another draw at home in a frustrating afternoon.",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-01T17:54:40.000Z",
+   "fetched_at": "2026-11-01T20:16:19.348Z",
+   "body": [
+    "Our briefing: Chastity Grant's first-half strike for Aston Villa is cancelled out by a late header from Alessia Russo, as Arsenal record another draw at home in a frustrating…",
+    "Chastity Grant's first-half strike for Aston Villa is cancelled out by a late header from Alessia Russo, as Arsenal record another draw at home in a frustrating afternoon.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/UWCL_2022-11-24_Arsenal_W.F.C._warming_up.jpg/960px-UWCL_2022-11-24_Arsenal_W.F.C._warming_up.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Snowdog — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-are-celtic-club-regression-amid-run-six-defeats-",
+   "slug": "are-celtic-club-in-regression-amid-run-of-six-defeats-in-10-eats-",
+   "title": "Are Celtic club in regression amid run of six defeats in 10?",
+   "dek": "Chris Sutton and Ian McCall weigh in on Celtic after a second league defeat of the season, but manager Martin O'Neill is defiant.",
+   "description": "Chris Sutton and Ian McCall weigh in on Celtic after a second league defeat of the season, but manager Martin O'Neill is defiant.",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-01T17:34:12.000Z",
+   "fetched_at": "2026-11-01T20:16:19.347Z",
+   "body": [
+    "Our briefing: Chris Sutton and Ian McCall weigh in on Celtic after a second league defeat of the season, but manager Martin O'Neill is defiant.",
+    "Chris Sutton and Ian McCall weigh in on Celtic after a second league defeat of the season, but manager Martin O'Neill is defiant.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Match_Day_Celtic_Park_-_geograph.org.uk_-_2596994.jpg/960px-Match_Day_Celtic_Park_-_geograph.org.uk_-_2596994.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "edward mcmaihin — CC BY-SA 2.0"
+  },
+  {
+   "id": "bbc-watch-falkirk-v-celtic-highlights-bbc-iplayer",
+   "slug": "watch-falkirk-v-celtic-highlights-on-bbc-iplayer-layer",
+   "title": "Watch: Falkirk v Celtic highlights on BBC iPlayer",
+   "dek": "Highlights of the 2026/27 Scottish Premiership match between Falkirk v Celtic.",
+   "description": "Highlights of the 2026/27 Scottish Premiership match between Falkirk v Celtic.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-01T17:30:00.000Z",
+   "fetched_at": "2026-11-01T20:16:19.348Z",
+   "body": [
+    "Our briefing: Highlights of the 2026/27 Scottish Premiership match between Falkirk v Celtic.",
+    "Highlights of the 2026/27 Scottish Premiership match between Falkirk v Celtic.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Celtic_Park_during_an_Old_Firm_derby_between_Celtic_FC_and_Rangers_FC.jpg/960px-Celtic_Park_during_an_Old_Firm_derby_between_Celtic_FC_and_Rangers_FC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Vincenzo.togni — CC BY-SA 4.0"
+  },
+  {
+   "id": "guardian-scottish-roundup-falkirk-shock-celtic-hibernian-",
+   "slug": "scottish-roundup-falkirk-shock-celtic-hibernian-beat-hearts--nian-",
+   "title": "Scottish roundup: Falkirk shock Celtic; Hibernian beat Hearts in semi-final",
+   "dek": "Pressure on Martin O’Neill after 2-0 defeat by Falkirk Hibs will face Rangers in Premier Sports Cup final Celtic slumped to a 2-0 defeat at Falkirk on Sunday to ramp up…",
+   "description": "Pressure on Martin O’Neill after 2-0 defeat by Falkirk Hibs will face Rangers in Premier Sports Cup final Celtic slumped to a 2-0 defeat at Falkirk on Sunday to ramp up the scrutiny on manager Martin O’Neill after a run of three wins in 10 games. The Scottish champions had the chance to extend their lead at the top of the table to seven points, but never recovered from conceding a third-minute opener to Ethan Ross. Scott Tanser scored a second before half-time and the Bairns even had a third goal ruled out by a video assistant referee review for handball against Jacob Murrell. The majority of Celtic’s struggles this season have come in European competition as they crashed out of the Champions League qualifiers and have lost all three Europa League group matches. Continue reading...",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-11-01T17:28:54.000Z",
+   "fetched_at": "2026-11-01T20:16:19.405Z",
+   "body": [
+    "Our briefing: Pressure on Martin O’Neill after 2-0 defeat by Falkirk Hibs will face Rangers in Premier Sports Cup final Celtic slumped to a 2-0 defeat at Falkirk on Sunday to ramp up…",
+    "Pressure on Martin O’Neill after 2-0 defeat by Falkirk Hibs will face Rangers in Premier Sports Cup final Celtic slumped to a 2-0 defeat at Falkirk on Sunday to ramp up the scrutiny on manager Martin O’Neill after a run of three wins in 10 games. The Scottish champions had the chance to extend their lead at the top of the table to seven points, but never recovered from conceding a third-minute opener to Ethan Ross. Scott Tanser scored a second before half-time and the Bairns even had a third goal ruled out by a video assistant referee review for handball against Jacob Murrell.",
+    "The majority of Celtic’s struggles this season have come in European competition as they crashed out of the Champions League qualifiers and have lost all three Europa League group matches. Continue reading...",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Celtic_FC-FK_Sarajevo.png/960px-Celtic_FC-FK_Sarajevo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "PeppermintSA — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-chelsea-put-six-past-charlton-top-wsl",
+   "slug": "chelsea-put-six-past-charlton-to-top-wsl-p-wsl",
+   "title": "Chelsea put six past Charlton to top WSL",
+   "dek": "Ruthless Chelsea put six goals past Charlton - who are yet to earn a point in the WSL this season - to return to the top of the table with 27 goals in just eight games.",
+   "description": "Ruthless Chelsea put six goals past Charlton - who are yet to earn a point in the WSL this season - to return to the top of the table with 27 goals in just eight games.",
+   "category": "News",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-01T17:10:45.000Z",
+   "fetched_at": "2026-11-01T20:16:19.347Z",
+   "body": [
+    "Our briefing: Ruthless Chelsea put six goals past Charlton - who are yet to earn a point in the WSL this season - to return to the top of the table with 27 goals in just eight games.",
+    "Ruthless Chelsea put six goals past Charlton - who are yet to earn a point in the WSL this season - to return to the top of the table with 27 goals in just eight games.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Stadium_Street%2C_Chelsea_-_geograph.org.uk_-_4585241.jpg/960px-Stadium_Street%2C_Chelsea_-_geograph.org.uk_-_4585241.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Chris Whippet — CC BY-SA 2.0"
+  },
+  {
+   "id": "independent-mikel-arteta-explains-importance-christos-tzolis",
+   "slug": "mikel-arteta-explains-importance-of-christos-tzolis-injury-b-zolis",
+   "title": "Mikel Arteta explains importance of Christos Tzolis injury boost for Liverpool clash",
+   "dek": "Tzolis has spent a month on the sidelines with a hamstring injury",
+   "description": "Tzolis has spent a month on the sidelines with a hamstring injury",
+   "category": "Injuries",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-11-01T17:01:37.000Z",
+   "fetched_at": "2026-11-01T20:16:19.643Z",
+   "body": [
+    "Our briefing: Tzolis has spent a month on the sidelines with a hamstring injury",
+    "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Danger_Risk_of_Life-Changing_Injuries%2C_Liverpool_Street_tube_station_2025-11-16.jpg/960px-Danger_Risk_of_Life-Changing_Injuries%2C_Liverpool_Street_tube_station_2025-11-16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Cory Doctorow — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-retired-sheff-utd-legend-sharp-signs-rushden",
+   "slug": "retired-sheff-utd-legend-sharp-signs-for-rushden-shden",
+   "title": "Retired Sheff Utd legend Sharp signs for Rushden",
+   "dek": "Former Sheffield United and Doncaster Rovers striker Billy Sharp comes out of retirement to join Northern Premier League side AFC Rushden & Diamonds as they prepare for…",
+   "description": "Former Sheffield United and Doncaster Rovers striker Billy Sharp comes out of retirement to join Northern Premier League side AFC Rushden & Diamonds as they prepare for their FA Cup match against Burton Albion.",
+   "category": "Transfers & Rumours",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-01T16:51:07.000Z",
+   "fetched_at": "2026-11-01T20:16:19.347Z",
+   "body": [
+    "Our briefing: Former Sheffield United and Doncaster Rovers striker Billy Sharp comes out of retirement to join Northern Premier League side AFC Rushden & Diamonds as they prepare for…",
+    "Former Sheffield United and Doncaster Rovers striker Billy Sharp comes out of retirement to join Northern Premier League side AFC Rushden & Diamonds as they prepare for their FA Cup match against Burton Albion.",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "YHC — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-defeat-london-city-but-europe-real-possibility",
+   "slug": "defeat-for-london-city-but-is-europe-a-real-possibility-ility",
+   "title": "Defeat for London City - but is Europe a real possibility?",
+   "dek": "London City Lionesses suffer defeat by Manchester City but their performance suggests they are closer to Champions League qualification than expected.",
+   "description": "London City Lionesses suffer defeat by Manchester City but their performance suggests they are closer to Champions League qualification than expected.",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-01T15:49:47.000Z",
+   "fetched_at": "2026-11-01T20:16:19.347Z",
+   "body": [
+    "Our briefing: London City Lionesses suffer defeat by Manchester City but their performance suggests they are closer to Champions League qualification than expected.",
+    "London City Lionesses suffer defeat by Manchester City but their performance suggests they are closer to Champions League qualification than expected.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+  },
   {
    "id": "independent-liverpool-v-arsenal-live-injury-hit-champions-gi",
    "slug": "liverpool-v-arsenal-live-injury-hit-champions-given-huge-fit-ns-gi",
@@ -35,8 +597,7 @@
     "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Rocky_Mountain_Arsenal_National_Wildlife_Refuge%E2%80%99s_Amphitheater_%287495500328%29.jpg/960px-Rocky_Mountain_Arsenal_National_Wildlife_Refuge%E2%80%99s_Amphitheater_%287495500328%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Rocky_Mountain_Arsenal_National_Wildlife_Refuge%E2%80%99s_Amphitheater_%287495500328%29.jpg/960px-Rocky_Mountain_Arsenal_National_Wildlife_Refuge%E2%80%99s_Amphitheater_%287495500328%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
    "id": "guardian-liverpool-v-arsenal-premier-league-live",
@@ -79,8 +640,7 @@
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Chelsea_vs_union_1929.jpg/960px-Chelsea_vs_union_1929.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Chelsea_vs_union_1929.jpg/960px-Chelsea_vs_union_1929.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
    "id": "independent-falkirk-stun-celtic-first-time-19-years-open-up-",
@@ -93,14 +653,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-11-01T15:39:05.000Z",
-   "fetched_at": "2026-11-01T15:50:41.371Z",
+   "fetched_at": "2026-11-01T20:16:19.643Z",
    "body": [
     "Our briefing: Falkirk 2-0 Celtic: The Scottish champions were made to pay for a sloppy start as they failed to widen the gap to second-placed Rangers",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Celtic_Park_during_an_Old_Firm_derby_between_Celtic_FC_and_Rangers_FC.jpg/960px-Celtic_Park_during_an_Old_Firm_derby_between_Celtic_FC_and_Rangers_FC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Vincenzo.togni — CC BY-SA 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Celtic_Park_stadium_on_match_day_%28geograph_7857061%29.jpg/960px-Celtic_Park_stadium_on_match_day_%28geograph_7857061%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Thomas Nugent — CC BY-SA 2.0"
   },
   {
    "id": "independent-coventry-investigate-fan-taunt-using-bradley-low",
@@ -133,14 +693,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-11-01T15:08:48.000Z",
-   "fetched_at": "2026-11-01T15:50:41.371Z",
+   "fetched_at": "2026-11-01T20:16:19.643Z",
    "body": [
     "Our briefing: Chelsea 2-0 Manchester United: A second-half unravelling at Stamford Bridge, turned by Lisandro Martinez’s red card, leaves the visitors hovering above the bottom three…",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "guardian-russo-spares-arsenal-blushes-but-latest-setback-",
@@ -174,7 +734,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-11-01T14:53:17.000Z",
-   "fetched_at": "2026-11-01T15:50:41.371Z",
+   "fetched_at": "2026-11-01T20:16:19.643Z",
    "body": [
     "Our briefing: Ten Hag has doubled down on his criticism of his former Manchester United player",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -184,45 +744,25 @@
    "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
   },
   {
-   "id": "independent-manchester-city-hold-off-impressive-london-city-",
-   "slug": "manchester-city-hold-off-impressive-london-city-lionesses-to-city-",
-   "title": "Manchester City hold off impressive London City Lionesses to continue unbeaten WSL start",
-   "dek": "London City Lionesses 1-2 Manchester City: Lauren Hemp scored the winner as the visitors edged to victory",
-   "description": "London City Lionesses 1-2 Manchester City: Lauren Hemp scored the winner as the visitors edged to victory",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-11-01T14:48:14.000Z",
-   "fetched_at": "2026-11-01T15:50:41.371Z",
-   "body": [
-    "Our briefing: London City Lionesses 1-2 Manchester City: Lauren Hemp scored the winner as the visitors edged to victory",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": null
-  },
-  {
    "id": "guardian-hemp-strikes-back-manchester-city-edge-out-londo",
    "slug": "hemp-strikes-back-as-manchester-city-edge-out-london-city-li-londo",
    "title": "Hemp strikes back as Manchester City edge out London City Lionesses in thriller",
-   "dek": "Goals from Khadija Shaw and Lauren Hemp helped Manchester City escape from Bromley with three points after a thrilling encounter with London City Lionesses. It was a…",
-   "description": "Goals from Khadija Shaw and Lauren Hemp helped Manchester City escape from Bromley with three points after a thrilling encounter with London City Lionesses. It was a statement performance from the home team, despite the defeat delivering a blow to any title ambitions they may have been quietly holding on to prior to kick-off. The gap between the hosts and the champions is now six points, after Hemp restored City’s lead following Jana Fernández’s equaliser. But the fact London City have even played their way into the conversation about this season’s title contenders in only their second WSL season is hugely impressive. Continue reading...",
+   "dek": "Goals from Khadija Shaw and Lauren Hemp helped Manchester City to escape from Bromley with three points after a thrilling encounter with London City Lionesses. It was a…",
+   "description": "Goals from Khadija Shaw and Lauren Hemp helped Manchester City to escape from Bromley with three points after a thrilling encounter with London City Lionesses. It was a statement performance from the home team, despite the defeat delivering a blow to any title ambitions they may have been quietly holding on to before kick-off. The gap between the hosts and the champions is now six points, after Hemp restored City’s lead following Jana Fernández’s equaliser. But that London City had even played their way into conversations about this season’s title contenders in their second season has been impressive. Continue reading...",
    "category": "Match Reports",
    "league": "Premier League",
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-11-01T14:13:29.000Z",
-   "fetched_at": "2026-11-01T15:50:41.242Z",
+   "fetched_at": "2026-11-01T20:16:19.405Z",
    "body": [
-    "Our briefing: Goals from Khadija Shaw and Lauren Hemp helped Manchester City escape from Bromley with three points after a thrilling encounter with London City Lionesses. It was a…",
-    "Goals from Khadija Shaw and Lauren Hemp helped Manchester City escape from Bromley with three points after a thrilling encounter with London City Lionesses. It was a statement performance from the home team, despite the defeat delivering a blow to any title ambitions they may have been quietly holding on to prior to kick-off. The gap between the hosts and the champions is now six points, after Hemp restored City’s lead following Jana Fernández’s equaliser.",
-    "But the fact London City have even played their way into the conversation about this season’s title contenders in only their second WSL season is hugely impressive. Continue reading...",
+    "Our briefing: Goals from Khadija Shaw and Lauren Hemp helped Manchester City to escape from Bromley with three points after a thrilling encounter with London City Lionesses. It was a…",
+    "Goals from Khadija Shaw and Lauren Hemp helped Manchester City to escape from Bromley with three points after a thrilling encounter with London City Lionesses. It was a statement performance from the home team, despite the defeat delivering a blow to any title ambitions they may have been quietly holding on to before kick-off. The gap between the hosts and the champions is now six points, after Hemp restored City’s lead following Jana Fernández’s equaliser.",
+    "But that London City had even played their way into conversations about this season’s title contenders in their second season has been impressive. Continue reading...",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
   },
   {
@@ -236,7 +776,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-11-01T13:49:46.000Z",
-   "fetched_at": "2026-11-01T15:50:41.371Z",
+   "fetched_at": "2026-11-01T20:16:19.643Z",
    "body": [
     "Our briefing: Glasner said Forest could soon be looking for their sixth manager in a year if things don’t change after their defeat at Brentford",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -276,7 +816,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-11-01T12:14:19.000Z",
-   "fetched_at": "2026-11-01T15:50:41.371Z",
+   "fetched_at": "2026-11-01T20:16:19.643Z",
    "body": [
     "Our briefing: Martinez was sent off as Chelsea piled more misery on Manchester United on Saturday",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -296,567 +836,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-11-01T12:13:30.000Z",
-   "fetched_at": "2026-11-01T15:50:41.371Z",
+   "fetched_at": "2026-11-01T20:16:19.643Z",
    "body": [
     "Our briefing: City slipped to a second successive Premier League defeat at home to Brighton",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
-  },
-  {
-   "id": "independent-pierre-sage-vows-i-will-never-give-up-crystal-pa",
-   "slug": "pierre-sage-vows-i-will-never-give-up-as-crystal-palace-pres-al-pa",
-   "title": "Pierre Sage vows ‘I will never give up’ as Crystal Palace pressure ramps up",
-   "dek": "Jean-Philippe Mateta saw red for the Eagles as they lost out at Tottenham",
-   "description": "Jean-Philippe Mateta saw red for the Eagles as they lost out at Tottenham",
-   "category": "News",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-11-01T11:48:59.000Z",
-   "fetched_at": "2026-11-01T15:50:41.371Z",
-   "body": [
-    "Our briefing: Jean-Philippe Mateta saw red for the Eagles as they lost out at Tottenham",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Soccer_practice%2C_Crystal_Palace_Park_-_geograph.org.uk_-_7630630.jpg/960px-Soccer_practice%2C_Crystal_Palace_Park_-_geograph.org.uk_-_7630630.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Dylan Moore — CC BY-SA 2.0"
-  },
-  {
-   "id": "independent-zion-suzuki-s-howler-accepted-part-football-afte",
-   "slug": "zion-suzuki-s-howler-accepted-as-part-of-football-after-asto--afte",
-   "title": "Zion Suzuki’s howler accepted as ‘part of football’ after Aston Villa held by Fulham",
-   "dek": "Aston Villa 1-1 Fulham: The Villa goalkeeper spilled a corner behind the line for a hapless own goal midway through the second half to gift a point to the Cottagers",
-   "description": "Aston Villa 1-1 Fulham: The Villa goalkeeper spilled a corner behind the line for a hapless own goal midway through the second half to gift a point to the Cottagers",
-   "category": "News",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-11-01T11:43:52.000Z",
-   "fetched_at": "2026-11-01T15:50:41.371Z",
-   "body": [
-    "Our briefing: Aston Villa 1-1 Fulham: The Villa goalkeeper spilled a corner behind the line for a hapless own goal midway through the second half to gift a point to the Cottagers",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/20140211_Cardiff_City_v_Aston_Villa%2C_Cardiff_City_Stadium%2C_Cardiff%2C_Wales.jpg/960px-20140211_Cardiff_City_v_Aston_Villa%2C_Cardiff_City_Stadium%2C_Cardiff%2C_Wales.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Jon Candy — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-wednesday-appoint-former-stockport-boss-challino",
-   "slug": "wednesday-appoint-former-stockport-boss-challinor-llino",
-   "title": "Wednesday appoint former Stockport boss Challinor",
-   "dek": "Sheffield Wednesday appoint former Stockport County boss Dave Challinor as their new manager.",
-   "description": "Sheffield Wednesday appoint former Stockport County boss Dave Challinor as their new manager.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-01T11:15:42.000Z",
-   "fetched_at": "2026-11-01T15:50:41.190Z",
-   "body": [
-    "Our briefing: Sheffield Wednesday appoint former Stockport County boss Dave Challinor as their new manager.",
-    "Sheffield Wednesday appoint former Stockport County boss Dave Challinor as their new manager.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-o-neill-insists-frozen-out-midfielder-can-still-",
-   "slug": "o-neill-insists-frozen-out-midfielder-can-still-have-celtic--till-",
-   "title": "O'Neill insists frozen-out midfielder can still have Celtic future - gossip",
-   "dek": "Martin O'Neill insists frozen-out midfielder can still have a Celtic future, plus more Scottish football gossip.",
-   "description": "Martin O'Neill insists frozen-out midfielder can still have a Celtic future, plus more Scottish football gossip.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-01T10:22:22.000Z",
-   "fetched_at": "2026-11-01T15:50:41.192Z",
-   "body": [
-    "Our briefing: Martin O'Neill insists frozen-out midfielder can still have a Celtic future, plus more Scottish football gossip.",
-    "Martin O'Neill insists frozen-out midfielder can still have a Celtic future, plus more Scottish football gossip.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Celtic_Park_stadium_on_match_day_%28geograph_7857061%29.jpg/960px-Celtic_Park_stadium_on_match_day_%28geograph_7857061%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Thomas Nugent — CC BY-SA 2.0"
-  },
-  {
-   "id": "guardian-michael-carrick-stay-charge-manchester-united-ro",
-   "slug": "michael-carrick-to-stay-in-charge-of-manchester-united-for-r-ed-ro",
-   "title": "Michael Carrick to stay in charge of Manchester United for Roma game",
-   "dek": "United 17th in Premier League after Chelsea defeat No change expected until international break Michael Carrick is set to remain in charge of Manchester United for…",
-   "description": "United 17th in Premier League after Chelsea defeat No change expected until international break Michael Carrick is set to remain in charge of Manchester United for Tuesday’s Champions League game against Roma at Old Trafford despite Saturday’s 2-0 loss at Chelsea. The defeat means United have not won in nine games and have made their poorest start to a season since 1988, but Carrick’s position is expected to be reviewed again during the international break after the next round of Premier League matches, in which United host Aston Villa next Sunday. Continue reading...",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-11-01T08:49:48.000Z",
-   "fetched_at": "2026-11-01T15:50:41.242Z",
-   "body": [
-    "Our briefing: United 17th in Premier League after Chelsea defeat No change expected until international break Michael Carrick is set to remain in charge of Manchester United for…",
-    "United 17th in Premier League after Chelsea defeat No change expected until international break Michael Carrick is set to remain in charge of Manchester United for Tuesday’s Champions League game against Roma at Old Trafford despite Saturday’s 2-0 loss at Chelsea. The defeat means United have not won in nine games and have made their poorest start to a season since 1988, but Carrick’s position is expected to be reviewed again during the international break after the next round of Premier League matches, in which United host Aston Villa next Sunday. Continue reading...",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Manchester_United_v_Manchester_City%2C_6_November_2021_%2815%29.jpg/960px-Manchester_United_v_Manchester_City%2C_6_November_2021_%2815%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ardfern — CC BY-SA 4.0"
-  },
-  {
-   "id": "guardian-carrick-defiant-after-latest-defeat-liverpool-v-",
-   "slug": "carrick-defiant-after-latest-defeat-liverpool-v-arsenal-buil-ol-v-",
-   "title": "Carrick defiant after latest defeat, Liverpool v Arsenal buildup, WSL and more – matchday live",
-   "dek": "⚽ All the latest as we build up to Sunday’s games ⚽ Live scores | Premier League table | Fixtures It is not going well for Oliver Glasner at Nottingham Forest, to say the…",
-   "description": "⚽ All the latest as we build up to Sunday’s games ⚽ Live scores | Premier League table | Fixtures It is not going well for Oliver Glasner at Nottingham Forest, to say the least. “For me, I go home and have breakfast with my family, so it’s not the worst situation,” Glasner said. “Nobody needs to have pity with Oliver Glasner. If I want, I could start in two weeks somewhere else. I won’t do it. But the players, the staff, they remain in the same situation. And it’s the same shit situation that the club had last year. So you need to change and rebuild from the bottom to the top. And this is clear for me. And this is what I will do. And without any compromises, zero, zero.” Régis Le Bris, Sunderland’s head coach, said: “I don’t think they are not aware of the situation. We are exposed this season with this busy schedule, it’s really demanding. “Is it unexpected? I don’t think so. Many clubs last year experienced exactly the same situation. First year in Europe, you know you will have on average 10 less points. It’s our reality. Continue reading...",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-11-01T08:45:03.000Z",
-   "fetched_at": "2026-11-01T08:51:07.205Z",
-   "body": [
-    "Our briefing: ⚽ All the latest as we build up to Sunday’s games ⚽ Live scores | Premier League table | Fixtures It is not going well for Oliver Glasner at Nottingham Forest, to say the…",
-    "⚽ All the latest as we build up to Sunday’s games ⚽ Live scores | Premier League table | Fixtures It is not going well for Oliver Glasner at Nottingham Forest, to say the least. “For me, I go home and have breakfast with my family, so it’s not the worst situation,” Glasner said. “Nobody needs to have pity with Oliver Glasner.",
-    "If I want, I could start in two weeks somewhere else. I won’t do it. But the players, the staff, they remain in the same situation.",
-    "And it’s the same shit situation that the club had last year. So you need to change and rebuild from the bottom to the top. And this is clear for me.",
-    "And this is what I will do. And without any compromises, zero, zero. ” Régis Le Bris, Sunderland’s head coach, said: “I don’t think they are not aware of the situation.",
-    "We are exposed this season with this busy schedule, it’s really demanding. “Is it unexpected? I don’t think so.",
-    "Many clubs last year experienced exactly the same situation. First year in Europe, you know you will have on average 10 less points. It’s our reality.",
-    "Continue reading...",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Manchester_City_v_Arsenal%2C_League_Cup_2004-5_-_geograph.org.uk_-_3841596.jpg/960px-Manchester_City_v_Arsenal%2C_League_Cup_2004-5_-_geograph.org.uk_-_3841596.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Richard Cooke — CC BY-SA 2.0"
-  },
-  {
-   "id": "guardian-rampant-salford-hint-that-beckham-s-lofty-ambiti",
-   "slug": "rampant-salford-hint-that-beckham-s-lofty-ambitions-are-not--mbiti",
-   "title": "Rampant Salford hint that Beckham’s lofty ambitions are not a pipe dream",
-   "dek": "The aim of reaching the Championship looks more realistic for a Manchester club in the shadow of City and United After seven seasons in League Two, Salford City are…",
-   "description": "The aim of reaching the Championship looks more realistic for a Manchester club in the shadow of City and United After seven seasons in League Two, Salford City are finally threatening to match the hype brought by their high-profile owners. First it was the Class of ’92 who guided them up through the non-league system into the fourth tier but failed to progress any further. Gary Neville and David Beckham remain, part of a new group that took over in May 2025, with this year beginning to look transformational after securing an eighth straight win, against Exeter, to put them five points clear at the top. The budget has increased, allowing the club to sign a number of players who will feel they are above League Two standard. Striker Macaulay Langstaff arrived from Millwall; the last time he played at this level, he scored 28 league goals in a season for Notts County. Match-winner Will Aimson spent the past two seasons in the division above with Wigan and has dropped down because of Salford’s project. Continue reading...",
-   "category": "Match Reports",
-   "league": "Football",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-11-01T08:00:07.000Z",
-   "fetched_at": "2026-11-01T15:50:41.243Z",
-   "body": [
-    "Our briefing: The aim of reaching the Championship looks more realistic for a Manchester club in the shadow of City and United After seven seasons in League Two, Salford City are…",
-    "The aim of reaching the Championship looks more realistic for a Manchester club in the shadow of City and United After seven seasons in League Two, Salford City are finally threatening to match the hype brought by their high-profile owners. First it was the Class of ’92 who guided them up through the non-league system into the fourth tier but failed to progress any further. Gary Neville and David Beckham remain, part of a new group that took over in May 2025, with this year beginning to look transformational after securing an eighth straight win, against Exeter, to put them five points clear at the top.",
-    "The budget has increased, allowing the club to sign a number of players who will feel they are above League Two standard. Striker Macaulay Langstaff arrived from Millwall; the last time he played at this level, he scored 28 league goals in a season for Notts County. Match-winner Will Aimson spent the past two seasons in the division above with Wigan and has dropped down because of Salford’s project.",
-    "Continue reading...",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-third-choice-inside-alexander-arnold-s-struggles",
-   "slug": "third-choice-inside-alexander-arnold-s-struggles-in-madrid-ggles",
-   "title": "Third choice? Inside Alexander-Arnold's struggles in Madrid",
-   "dek": "Trent Alexander-Arnold is currently third-choice right-back at Real Madrid - where does his future lie?",
-   "description": "Trent Alexander-Arnold is currently third-choice right-back at Real Madrid - where does his future lie?",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-01T07:42:08.000Z",
-   "fetched_at": "2026-11-01T15:50:41.190Z",
-   "body": [
-    "Our briefing: Trent Alexander-Arnold is currently third-choice right-back at Real Madrid - where does his future lie?",
-    "Trent Alexander-Arnold is currently third-choice right-back at Real Madrid - where does his future lie?",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-anfield-intensity-rotation-how-iraola-improving-",
-   "slug": "anfield-intensity-rotation-how-iraola-is-improving-liverpool-ving-",
-   "title": "Anfield, intensity, rotation - how Iraola is improving Liverpool",
-   "dek": "Liverpool fans are finding joy at Anfield again with a feel-good factor around the club before the visit of reigning champions Arsenal on Sunday.",
-   "description": "Liverpool fans are finding joy at Anfield again with a feel-good factor around the club before the visit of reigning champions Arsenal on Sunday.",
-   "category": "Tactics & Analysis",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-01T07:38:15.000Z",
-   "fetched_at": "2026-11-01T15:50:41.189Z",
-   "body": [
-    "Our briefing: Liverpool fans are finding joy at Anfield again with a feel-good factor around the club before the visit of reigning champions Arsenal on Sunday.",
-    "Liverpool fans are finding joy at Anfield again with a feel-good factor around the club before the visit of reigning champions Arsenal on Sunday.",
-    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Liverpool_anfield_road_stadium.jpg/960px-Liverpool_anfield_road_stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
-  },
-  {
-   "id": "bbc-who-am-i-guess-wsl-star-no-10",
-   "slug": "who-am-i-guess-wsl-star-no-10-no-10",
-   "title": "Who am I? Guess WSL star No 10",
-   "dek": "Work out the identity of today's player in as few attempts as possible.",
-   "description": "Work out the identity of today's player in as few attempts as possible.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-01T06:56:19.000Z",
-   "fetched_at": "2026-11-01T08:51:07.109Z",
-   "body": [
-    "Our briefing: Work out the identity of today's player in as few attempts as possible.",
-    "Work out the identity of today's player in as few attempts as possible.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
-  },
-  {
-   "id": "bbc-who-am-i-plus-today-s-other-quizzes",
-   "slug": "who-am-i-plus-today-s-other-quizzes-izzes",
-   "title": "Who am I? Plus today's other quizzes",
-   "dek": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-   "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-01T06:54:38.000Z",
-   "fetched_at": "2026-11-01T15:50:41.190Z",
-   "body": [
-    "Our briefing: Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-    "Test your ball knowledge against today's Who Am I? , Five in Five and Brainteaser.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/CPSL_2005_semifinals_-_Esther_Shiner_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "Robin Glover — CC BY 4.0"
-  },
-  {
-   "id": "bbc-fishlock-out-keep-career-alive-nwsl-play-offs",
-   "slug": "fishlock-out-to-keep-career-alive-in-nwsl-play-offs--offs",
-   "title": "Fishlock out to keep career alive in NWSL play-offs",
-   "dek": "On Sunday, 1 November, Jess Fishlock takes to the pitch for Seattle Reign against Orlando Pride, not knowing if it will be her final match.",
-   "description": "On Sunday, 1 November, Jess Fishlock takes to the pitch for Seattle Reign against Orlando Pride, not knowing if it will be her final match.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-01T05:15:00.000Z",
-   "fetched_at": "2026-11-01T15:50:41.191Z",
-   "body": [
-    "Our briefing: On Sunday, 1 November, Jess Fishlock takes to the pitch for Seattle Reign against Orlando Pride, not knowing if it will be her final match.",
-    "On Sunday, 1 November, Jess Fishlock takes to the pitch for Seattle Reign against Orlando Pride, not knowing if it will be her final match.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Kashima_Soccer_Stadium_6.jpg/960px-Kashima_Soccer_Stadium_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-williams-heart-warning-after-career-ended-22",
-   "slug": "williams-heart-warning-after-career-ended-at-22-ed-22",
-   "title": "Williams heart warning after career ended at 22",
-   "dek": "At just 22, Keelan Williams faced the hardest decision of his life as stage one heart failure made him call an end to his football career.",
-   "description": "At just 22, Keelan Williams faced the hardest decision of his life as stage one heart failure made him call an end to his football career.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-01T05:01:19.000Z",
-   "fetched_at": "2026-11-01T08:51:07.109Z",
-   "body": [
-    "Our briefing: At just 22, Keelan Williams faced the hardest decision of his life as stage one heart failure made him call an end to his football career.",
-    "At just 22, Keelan Williams faced the hardest decision of his life as stage one heart failure made him call an end to his football career.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-wales-fight-retain-rising-female-stars",
-   "slug": "wales-in-fight-to-retain-rising-female-stars-stars",
-   "title": "Wales in fight to retain rising female stars",
-   "dek": "Wales face an \"increasingly aggressive\" battle to secure the international futures of talented youngsters tempted to switch to England.",
-   "description": "Wales face an \"increasingly aggressive\" battle to secure the international futures of talented youngsters tempted to switch to England.",
-   "category": "Transfers & Rumours",
-   "league": "International",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-01T05:00:11.000Z",
-   "fetched_at": "2026-11-01T08:51:07.109Z",
-   "body": [
-    "Our briefing: Wales face an \"increasingly aggressive\" battle to secure the international futures of talented youngsters tempted to switch to England.",
-    "Wales face an \"increasingly aggressive\" battle to secure the international futures of talented youngsters tempted to switch to England.",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "YHC — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-how-brave-balanced-brighton-beat-man-city",
-   "slug": "how-brave-balanced-brighton-beat-man-city--city",
-   "title": "How 'brave & balanced' Brighton beat Man City",
-   "dek": "Match of the Day pundits Danny Murphy and Stephan Warnock analyse Brighton's impressive 1-0 victory over Manchester City, with Warnock praising the balance of the…",
-   "description": "Match of the Day pundits Danny Murphy and Stephan Warnock analyse Brighton's impressive 1-0 victory over Manchester City, with Warnock praising the balance of the Seagulls squad.",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-31T23:59:24.000Z",
-   "fetched_at": "2026-11-01T15:50:41.191Z",
-   "body": [
-    "Our briefing: Match of the Day pundits Danny Murphy and Stephan Warnock analyse Brighton's impressive 1-0 victory over Manchester City, with Warnock praising the balance of the…",
-    "Match of the Day pundits Danny Murphy and Stephan Warnock analyse Brighton's impressive 1-0 victory over Manchester City, with Warnock praising the balance of the Seagulls squad.",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Final_Manchester_City_Match_at_Maine_Road_-_geograph.org.uk_-_3820257.jpg/960px-Final_Manchester_City_Match_at_Maine_Road_-_geograph.org.uk_-_3820257.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Richard Cooke — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-has-martinez-become-liability-man-utd",
-   "slug": "has-martinez-become-a-liability-for-man-utd-n-utd",
-   "title": "Has Martinez become a liability for Man Utd?",
-   "dek": "Match of the Day pundits Danny Murphy and Stephan Warnock analyse Lisandro Martinez's performance in Manchester United's 2-0 defeat to Chelsea, where the Argentinian…",
-   "description": "Match of the Day pundits Danny Murphy and Stephan Warnock analyse Lisandro Martinez's performance in Manchester United's 2-0 defeat to Chelsea, where the Argentinian defender was sent off.",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-31T23:59:22.000Z",
-   "fetched_at": "2026-11-01T15:50:41.191Z",
-   "body": [
-    "Our briefing: Match of the Day pundits Danny Murphy and Stephan Warnock analyse Lisandro Martinez's performance in Manchester United's 2-0 defeat to Chelsea, where the Argentinian…",
-    "Match of the Day pundits Danny Murphy and Stephan Warnock analyse Lisandro Martinez's performance in Manchester United's 2-0 defeat to Chelsea, where the Argentinian defender was sent off.",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/25_July_2010_Kansas_City_Wizards_vs_Manchester_United_friendly.jpg/960px-25_July_2010_Kansas_City_Wizards_vs_Manchester_United_friendly.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Conman33 — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-are-manchester-united-really-risk-relegation-scr",
-   "slug": "are-manchester-united-really-at-risk-of-a-relegation-scrap-n-scr",
-   "title": "Are Manchester United really at risk of a relegation scrap?",
-   "dek": "Manchester United's current tally of seven points from nine games would not even get them 30 points if it was continued for the full season.",
-   "description": "Manchester United's current tally of seven points from nine games would not even get them 30 points if it was continued for the full season.",
-   "category": "News",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-31T23:52:28.000Z",
-   "fetched_at": "2026-11-01T15:50:41.189Z",
-   "body": [
-    "Our briefing: Manchester United's current tally of seven points from nine games would not even get them 30 points if it was continued for the full season.",
-    "Manchester United's current tally of seven points from nine games would not even get them 30 points if it was continued for the full season.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Manchester_United_v_Tottenham_Hotspur%2C_12_March_2022_%2805%29.jpg/960px-Manchester_United_v_Tottenham_Hotspur%2C_12_March_2022_%2805%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ardfern — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-coventry-ipswich-hull-promoted-trio-enjoy-positi",
-   "slug": "coventry-ipswich-hull-promoted-trio-enjoy-positive-starts-ositi",
-   "title": "Coventry, Ipswich, Hull - promoted trio enjoy positive starts",
-   "dek": "The three teams have collected a respectable 31 points in total after nine games, and all currently sit above the relegation zone.",
-   "description": "The three teams have collected a respectable 31 points in total after nine games, and all currently sit above the relegation zone.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-31T23:08:07.000Z",
-   "fetched_at": "2026-11-01T15:50:41.191Z",
-   "body": [
-    "Our briefing: The three teams have collected a respectable 31 points in total after nine games, and all currently sit above the relegation zone.",
-    "The three teams have collected a respectable 31 points in total after nine games, and all currently sit above the relegation zone.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-kane-misses-bayern-penalty-before-late-dortmund-",
-   "slug": "kane-misses-bayern-penalty-before-late-dortmund-goal-earns-d-mund-",
-   "title": "Kane misses Bayern penalty before late Dortmund goal earns draw",
-   "dek": "Harry Kane misses from the spot as Bayern Muich are held to a 2-2 draw with Borussia Dortmund in Der Klassiker after Fabio Silva's late equaliser.",
-   "description": "Harry Kane misses from the spot as Bayern Muich are held to a 2-2 draw with Borussia Dortmund in Der Klassiker after Fabio Silva's late equaliser.",
-   "category": "Match Reports",
-   "league": "Bundesliga",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-31T23:05:55.000Z",
-   "fetched_at": "2026-11-01T15:50:41.191Z",
-   "body": [
-    "Our briefing: Harry Kane misses from the spot as Bayern Muich are held to a 2-2 draw with Borussia Dortmund in Der Klassiker after Fabio Silva's late equaliser.",
-    "Harry Kane misses from the spot as Bayern Muich are held to a 2-2 draw with Borussia Dortmund in Der Klassiker after Fabio Silva's late equaliser.",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/The_European_Cup_soccer_match_Bayern_M%C3%BCnich_vs_RSC_Anderlecht_in_Brussels_on_March_19%2C_1986.tif/lossy-page1-960px-The_European_Cup_soccer_match_Bayern_M%C3%BCnich_vs_RSC_Anderlecht_in_Brussels_on_March_19%2C_1986.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Mauritz Antin — CC BY 4.0"
-  },
-  {
-   "id": "guardian-european-football-kane-misses-penalty-dortmund-s",
-   "slug": "european-football-kane-misses-penalty-as-dortmund-share-spoi-und-s",
-   "title": "European football: Kane misses penalty as Dortmund share spoils in Der Klassiker",
-   "dek": "Bayern Munich held to 2-2 draw after Silva equaliser Barcelona on top of La Liga after thrashng Alaves The Ballon d’Or winner Harry Kane missed a penalty and hit the post…",
-   "description": "Bayern Munich held to 2-2 draw after Silva equaliser Barcelona on top of La Liga after thrashng Alaves The Ballon d’Or winner Harry Kane missed a penalty and hit the post for ⁠ Bayern Munich as Borussia Dortmund snatched a last-gasp equaliser through Fabio Silva for a 2-2 draw ⁠in Der Klassiker on ⁠Saturday ​that kept the teams level on points at the top. Kane, who collected his prize in a ceremony ⁠in London on Monday, was an unused substitute in the 6-1 German Cup second-round demolition of Magdeburg on Wednesday ⁠but returned to the starting lineup on Saturday, missing from the spot with Bayern 1-0 up. He also hit ​the post, one of four ‌times Bayern struck ‌the woodwork. Silva snatched the equaliser in the 89th minute to leave both ‌teams on 18 points, with Bayern top on goal difference. Continue reading...",
-   "category": "Match Reports",
-   "league": "Bundesliga",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-10-31T22:41:08.000Z",
-   "fetched_at": "2026-11-01T01:55:22.545Z",
-   "body": [
-    "Our briefing: Bayern Munich held to 2-2 draw after Silva equaliser Barcelona on top of La Liga after thrashng Alaves The Ballon d’Or winner Harry Kane missed a penalty and hit the post…",
-    "Bayern Munich held to 2-2 draw after Silva equaliser Barcelona on top of La Liga after thrashng Alaves The Ballon d’Or winner Harry Kane missed a penalty and hit the post for ⁠ Bayern Munich as Borussia Dortmund snatched a last-gasp equaliser through Fabio Silva for a 2-2 draw ⁠in Der Klassiker on ⁠Saturday ​that kept the teams level on points at the top. Kane, who collected his prize in a ceremony ⁠in London on Monday, was an unused substitute in the 6-1 German Cup second-round demolition of Magdeburg on Wednesday ⁠but returned to the starting lineup on Saturday, missing from the spot with Bayern 1-0 up. He also hit ​the post, one of four ‌times Bayern struck ‌the woodwork.",
-    "Silva snatched the equaliser in the 89th minute to leave both ‌teams on 18 points, with Bayern top on goal difference. Continue reading...",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/2021-11-06_Fu%C3%9Fball%2C_M%C3%A4nner%2C_1._Bundesliga%2C_RB_Leipzig_-_Borussia_Dortmund_1DX_1725_by_Stepro.jpg/960px-2021-11-06_Fu%C3%9Fball%2C_M%C3%A4nner%2C_1._Bundesliga%2C_RB_Leipzig_-_Borussia_Dortmund_1DX_1725_by_Stepro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Steffen Prößdorf — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-mcinnes-demands-more-after-delivering-rangers-tr",
-   "slug": "mcinnes-demands-more-after-delivering-rangers-trophy-chance-rs-tr",
-   "title": "McInnes demands more after delivering Rangers' trophy chance",
-   "dek": "Derek McInnes knows there is room for improvement as he steers in-form Rangers to the Premier Sports Cup final with a 1-0 win over Aberdeen.",
-   "description": "Derek McInnes knows there is room for improvement as he steers in-form Rangers to the Premier Sports Cup final with a 1-0 win over Aberdeen.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-31T22:40:38.000Z",
-   "fetched_at": "2026-11-01T15:50:41.192Z",
-   "body": [
-    "Our briefing: Derek McInnes knows there is room for improvement as he steers in-form Rangers to the Premier Sports Cup final with a 1-0 win over Aberdeen.",
-    "Derek McInnes knows there is room for improvement as he steers in-form Rangers to the Premier Sports Cup final with a 1-0 win over Aberdeen.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Ibrox_Stadium%2C_Rangers_FC.jpg/960px-Ibrox_Stadium%2C_Rangers_FC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Lesterhobbes764 — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-chelsea-beat-10-man-man-utd-pile-more-pressure-c",
-   "slug": "chelsea-beat-10-man-man-utd-to-pile-more-pressure-on-carrick-ure-c",
-   "title": "Chelsea beat 10-man Man Utd to pile more pressure on Carrick",
-   "dek": "Lisandro Martinez is sent off for Manchester United as they suffer a 2-0 defeat against Chelsea at Stamford Bridge to pile more pressure on under-fire manager Michael…",
-   "description": "Lisandro Martinez is sent off for Manchester United as they suffer a 2-0 defeat against Chelsea at Stamford Bridge to pile more pressure on under-fire manager Michael Carrick.",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-31T22:30:16.000Z",
-   "fetched_at": "2026-11-01T15:50:41.190Z",
-   "body": [
-    "Our briefing: Lisandro Martinez is sent off for Manchester United as they suffer a 2-0 defeat against Chelsea at Stamford Bridge to pile more pressure on under-fire manager Michael…",
-    "Lisandro Martinez is sent off for Manchester United as they suffer a 2-0 defeat against Chelsea at Stamford Bridge to pile more pressure on under-fire manager Michael Carrick.",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Chelsea_Randall_at_Adelaide%E2%80%93Sydney_AFLW_Round_1_match_%28028A9959%29.jpg/960px-Chelsea_Randall_at_Adelaide%E2%80%93Sydney_AFLW_Round_1_match_%28028A9959%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Yu Chu Chin — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-brighton-pick-up-first-away-league-victory-over-",
-   "slug": "brighton-pick-up-first-away-league-victory-over-man-city-over-",
-   "title": "Brighton pick up first away league victory over Man City",
-   "dek": "Brighton pick up their first away league victory at Manchester City, winning 1-0 to condemn City to a second successive Premier League defeat.",
-   "description": "Brighton pick up their first away league victory at Manchester City, winning 1-0 to condemn City to a second successive Premier League defeat.",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-31T22:30:05.000Z",
-   "fetched_at": "2026-11-01T15:50:41.190Z",
-   "body": [
-    "Our briefing: Brighton pick up their first away league victory at Manchester City, winning 1-0 to condemn City to a second successive Premier League defeat.",
-    "Brighton pick up their first away league victory at Manchester City, winning 1-0 to condemn City to a second successive Premier League defeat.",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Etihad_Stadium%2C_Manchester_City_Football_Club_%28Ank_Kumar%2C_Infosys%29_16.jpg/960px-Etihad_Stadium%2C_Manchester_City_Football_Club_%28Ank_Kumar%2C_Infosys%29_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ank kumar — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-brighton-pick-up-first-away-league-victory-over-",
-   "slug": "brighton-pick-up-first-away-league-victory-over-man-city-to--over-",
-   "title": "Brighton pick up first away league victory over Man City to go third",
-   "dek": "Brighton pick up their first away league victory at Manchester City after winning 1-0 at the Etihad to condemn City to back-to-back defeats in the Premier League.",
-   "description": "Brighton pick up their first away league victory at Manchester City after winning 1-0 at the Etihad to condemn City to back-to-back defeats in the Premier League.",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-31T22:30:05.000Z",
-   "fetched_at": "2026-10-31T22:44:46.532Z",
-   "body": [
-    "Our briefing: Brighton pick up their first away league victory at Manchester City after winning 1-0 at the Etihad to condemn City to back-to-back defeats in the Premier League.",
-    "Brighton pick up their first away league victory at Manchester City after winning 1-0 at the Etihad to condemn City to back-to-back defeats in the Premier League.",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Final_Manchester_City_Match_at_Maine_Road_-_geograph.org.uk_-_3820257.jpg/960px-Final_Manchester_City_Match_at_Maine_Road_-_geograph.org.uk_-_3820257.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Richard Cooke — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-coventry-out-bottom-three-win-over-struggling-su",
-   "slug": "coventry-out-of-bottom-three-with-win-over-struggling-sunder-ng-su",
-   "title": "Coventry out of bottom three with win over struggling Sunderland",
-   "dek": "Frank Lampard's Coventry City lift themselves out of the relegation zone after beating struggling Sunderland, who remain rooted to the bottom of the Premier League table.",
-   "description": "Frank Lampard's Coventry City lift themselves out of the relegation zone after beating struggling Sunderland, who remain rooted to the bottom of the Premier League table.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-31T22:29:50.000Z",
-   "fetched_at": "2026-11-01T15:50:41.190Z",
-   "body": [
-    "Our briefing: Frank Lampard's Coventry City lift themselves out of the relegation zone after beating struggling Sunderland, who remain rooted to the bottom of the Premier League table.",
-    "Frank Lampard's Coventry City lift themselves out of the relegation zone after beating struggling Sunderland, who remain rooted to the bottom of the Premier League table.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "bbc-coventry-out-bottom-three-after-win-over-struggl",
-   "slug": "coventry-out-of-bottom-three-after-win-over-struggling-sunde-ruggl",
-   "title": "Coventry out of bottom three after win over struggling Sunderland",
-   "dek": "Frank Lampard's Coventry City lift themselves out of the relegation zone after beating struggling Sunderland, who remain rooted to the bottom of the Premier League table.",
-   "description": "Frank Lampard's Coventry City lift themselves out of the relegation zone after beating struggling Sunderland, who remain rooted to the bottom of the Premier League table.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-10-31T22:29:50.000Z",
-   "fetched_at": "2026-11-01T01:55:22.352Z",
-   "body": [
-    "Our briefing: Frank Lampard's Coventry City lift themselves out of the relegation zone after beating struggling Sunderland, who remain rooted to the bottom of the Premier League table.",
-    "Frank Lampard's Coventry City lift themselves out of the relegation zone after beating struggling Sunderland, who remain rooted to the bottom of the Premier League table.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
   }
  ]
 }
