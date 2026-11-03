@@ -1,45 +1,6 @@
 {
- "generated_at": "2026-11-02T22:25:46.905Z",
+ "generated_at": "2026-11-03T03:37:41.053Z",
  "matches": [
-  {
-   "league": "Bundesliga",
-   "home": "1. FC Union Berlin",
-   "away": "FC Cologne",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
-   "homeScore": 1,
-   "awayScore": 1,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-11-01T14:30Z"
-  },
-  {
-   "league": "Bundesliga",
-   "home": "Eintracht Frankfurt",
-   "away": "Hamburg SV",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png",
-   "homeScore": 3,
-   "awayScore": 1,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-11-01T16:30Z"
-  },
-  {
-   "league": "Ligue 1",
-   "home": "Lorient",
-   "away": "Brest",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
-   "homeScore": 0,
-   "awayScore": 2,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-11-02T19:45Z"
-  },
   {
    "league": "Serie A",
    "home": "Sassuolo",
@@ -91,6 +52,45 @@
    "clock": "",
    "time": "FT",
    "date": "2026-11-02T20:00Z"
+  },
+  {
+   "league": "Bundesliga",
+   "home": "1. FC Union Berlin",
+   "away": "FC Cologne",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
+   "homeScore": 1,
+   "awayScore": 1,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-11-01T14:30Z"
+  },
+  {
+   "league": "Bundesliga",
+   "home": "Eintracht Frankfurt",
+   "away": "Hamburg SV",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png",
+   "homeScore": 3,
+   "awayScore": 1,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-11-01T16:30Z"
+  },
+  {
+   "league": "Ligue 1",
+   "home": "Lorient",
+   "away": "Brest",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
+   "homeScore": 0,
+   "awayScore": 2,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-11-02T19:45Z"
   }
  ]
 }
