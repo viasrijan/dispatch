@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-03T11:40:45.754Z",
- "updated_utc": "2026-11-03T11:40Z",
- "cycle": 29895100,
+ "generated_at": "2026-11-03T19:11:25.247Z",
+ "updated_utc": "2026-11-03T19:11Z",
+ "cycle": 29895551,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,8 +16,684 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "guardian-david-squires-mikel-arteta-s-view-that-football-",
+ "hero_id": "bbc-kenny-s-background-not-that-important-o-neill",
  "articles": [
+  {
+   "id": "guardian-manchester-united-v-roma-champions-league-live",
+   "slug": "manchester-united-v-roma-champions-league-live--live",
+   "title": "Manchester United v Roma: Champions League – live",
+   "dek": "⚽️ Champions League updates from the 8pm GMT kick-off ⚽️ Barcelona v Aston Villa – follow it live ⚽️ Live scores | League phase standings | And email Will Gene Salorio…",
+   "description": "⚽️ Champions League updates from the 8pm GMT kick-off ⚽️ Barcelona v Aston Villa – follow it live ⚽️ Live scores | League phase standings | And email Will Gene Salorio asks: “So now that Nuno is back on the market, does he get a ticket to the Manchester United new manager sweepstakes?” NO! Continue reading...",
+   "category": "News",
+   "league": "Premier League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-11-03T19:02:23.000Z",
+   "fetched_at": "2026-11-03T19:11:14.551Z",
+   "body": [
+    "Our briefing: ⚽️ Champions League updates from the 8pm GMT kick-off ⚽️ Barcelona v Aston Villa – follow it live ⚽️ Live scores | League phase standings | And email Will Gene Salorio…",
+    "⚽️ Champions League updates from the 8pm GMT kick-off ⚽️ Barcelona v Aston Villa – follow it live ⚽️ Live scores | League phase standings | And email Will Gene Salorio asks: “So now that Nuno is back on the market, does he get a ticket to the Manchester United new manager sweepstakes? ” NO! Continue reading...",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Manchester_United_Old_Trafford.jpg/960px-Manchester_United_Old_Trafford.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
+  },
+  {
+   "id": "guardian-barcelona-v-aston-villa-champions-league-live",
+   "slug": "barcelona-v-aston-villa-champions-league-live--live",
+   "title": "Barcelona v Aston Villa: Champions League – live",
+   "dek": "⚽️ Champions League updates from the 8pm GMT kick-off ⚽️ Manchester United v Roma – follow it live ⚽️ Live scores | League phase standings | And email Luke Emery makes…",
+   "description": "⚽️ Champions League updates from the 8pm GMT kick-off ⚽️ Manchester United v Roma – follow it live ⚽️ Live scores | League phase standings | And email Luke Emery makes two changes to the side that drew 1-1 with Fulham on Saturday: João Gomes into midfield, for Leon Goretzka, plus Emi Buendía into the forward line, for Alysson. Barcelona (4-2-3-1) : Joan García; Fariñas, Cubarsi, Gerard, Cancelo; Rodri, Gonzalez; Yamal, López, Gordon; Raphinha. Subtitutes : Szczesny, Livakovic, Balde, Gavi, Gabriel Jesus, Adeyemi, de Jong, Bernal, Abdelkarim, Goren, Victor, Campos. Continue reading...",
+   "category": "News",
+   "league": "Premier League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-11-03T19:02:09.000Z",
+   "fetched_at": "2026-11-03T19:11:14.551Z",
+   "body": [
+    "Our briefing: ⚽️ Champions League updates from the 8pm GMT kick-off ⚽️ Manchester United v Roma – follow it live ⚽️ Live scores | League phase standings | And email Luke Emery makes…",
+    "⚽️ Champions League updates from the 8pm GMT kick-off ⚽️ Manchester United v Roma – follow it live ⚽️ Live scores | League phase standings | And email Luke Emery makes two changes to the side that drew 1-1 with Fulham on Saturday: João Gomes into midfield, for Leon Goretzka, plus Emi Buendía into the forward line, for Alysson. Barcelona (4-2-3-1) : Joan García; Fariñas, Cubarsi, Gerard, Cancelo; Rodri, Gonzalez; Yamal, López, Gordon; Raphinha. Subtitutes : Szczesny, Livakovic, Balde, Gavi, Gabriel Jesus, Adeyemi, de Jong, Bernal, Abdelkarim, Goren, Victor, Campos.",
+    "Continue reading...",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/20140211_Cardiff_City_v_Aston_Villa%2C_Cardiff_City_Stadium%2C_Cardiff%2C_Wales.jpg/960px-20140211_Cardiff_City_v_Aston_Villa%2C_Cardiff_City_Stadium%2C_Cardiff%2C_Wales.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Jon Candy — CC BY-SA 2.0"
+  },
+  {
+   "id": "independent-former-fifa-chair-says-climate-fear-could-block-",
+   "slug": "former-fifa-chair-says-climate-of-fear-could-block-challenge-lock-",
+   "title": "Former Fifa chair says ‘climate of fear’ could block challenges to Gianni Infantino’s re-election",
+   "dek": "Gianni Infantino is set to run for re-election as Fifa president in March",
+   "description": "Gianni Infantino is set to run for re-election as Fifa president in March",
+   "category": "News",
+   "league": "Football",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-11-03T18:44:00.000Z",
+   "fetched_at": "2026-11-03T19:11:14.626Z",
+   "body": [
+    "Our briefing: Gianni Infantino is set to run for re-election as Fifa president in March",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "John Shorten — CC BY 4.0"
+  },
+  {
+   "id": "guardian-andoni-iraola-calls-liverpool-sharpen-up-attack-",
+   "slug": "andoni-iraola-calls-on-liverpool-to-sharpen-up-in-attack-bef-tack-",
+   "title": "Andoni Iraola calls on Liverpool to sharpen up in attack before Fenerbahce test",
+   "dek": "Reds target fourth straight Champions League win Turkish side led by ex-Liverpool forward Dirk Kuyt Andoni Iraola has said Liverpool must improve their attacking play but…",
+   "description": "Reds target fourth straight Champions League win Turkish side led by ex-Liverpool forward Dirk Kuyt Andoni Iraola has said Liverpool must improve their attacking play but dismissed concerns over the contrast between his team’s output in the Premier League and Champions League. Liverpool boast a 100% record in Europe this season and can take a significant step towards qualification for the knockout phase with victory away at Fenerbahce on Wednesday. Former Liverpool favourite Dirk Kuyt will take charge of his first European game with the Turkish club, having replaced Ismail Kartal on an interim basis last week. Continue reading...",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-11-03T18:42:11.000Z",
+   "fetched_at": "2026-11-03T19:11:14.551Z",
+   "body": [
+    "Our briefing: Reds target fourth straight Champions League win Turkish side led by ex-Liverpool forward Dirk Kuyt Andoni Iraola has said Liverpool must improve their attacking play but…",
+    "Reds target fourth straight Champions League win Turkish side led by ex-Liverpool forward Dirk Kuyt Andoni Iraola has said Liverpool must improve their attacking play but dismissed concerns over the contrast between his team’s output in the Premier League and Champions League. Liverpool boast a 100% record in Europe this season and can take a significant step towards qualification for the knockout phase with victory away at Fenerbahce on Wednesday. Former Liverpool favourite Dirk Kuyt will take charge of his first European game with the Turkish club, having replaced Ismail Kartal on an interim basis last week.",
+    "Continue reading...",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Galatasaray_Liverpool_CL_2006.jpg/960px-Galatasaray_Liverpool_CL_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "tekinim — CC BY 2.0"
+  },
+  {
+   "id": "bbc-parkinson-eyes-wrexham-response-after-honest-tal",
+   "slug": "parkinson-eyes-wrexham-response-after-honest-talks-t-tal",
+   "title": "Parkinson eyes Wrexham response after honest talks",
+   "dek": "Wrexham manager Phil Parkinson has held \"honest\" discussions with his players they look to respond to defeat at Sheffield United.",
+   "description": "Wrexham manager Phil Parkinson has held \"honest\" discussions with his players they look to respond to defeat at Sheffield United.",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-03T18:28:41.000Z",
+   "fetched_at": "2026-11-03T19:11:14.506Z",
+   "body": [
+    "Our briefing: Wrexham manager Phil Parkinson has held \"honest\" discussions with his players they look to respond to defeat at Sheffield United.",
+    "Wrexham manager Phil Parkinson has held \"honest\" discussions with his players they look to respond to defeat at Sheffield United.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": null
+  },
+  {
+   "id": "bbc-kenny-s-background-not-that-important-o-neill",
+   "slug": "kenny-s-background-not-that-important-to-o-neill-neill",
+   "title": "Kenny's background 'not that important' to O'Neill",
+   "dek": "Northern Ireland manager Michael O'Neill says new call-up Eoin Kenny's family connection to the Republic of Ireland is not something he considered before bringing him…",
+   "description": "Northern Ireland manager Michael O'Neill says new call-up Eoin Kenny's family connection to the Republic of Ireland is not something he considered before bringing him into the senior squad for this month's Nations League fixtures against Ukraine and Hungary.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-03T18:26:55.000Z",
+   "fetched_at": "2026-11-03T19:11:14.505Z",
+   "body": [
+    "Our briefing: Northern Ireland manager Michael O'Neill says new call-up Eoin Kenny's family connection to the Republic of Ireland is not something he considered before bringing him…",
+    "Northern Ireland manager Michael O'Neill says new call-up Eoin Kenny's family connection to the Republic of Ireland is not something he considered before bringing him into the senior squad for this month's Nations League fixtures against Ukraine and Hungary.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+  },
+  {
+   "id": "independent-man-city-could-face-further-charges-premier-leag",
+   "slug": "man-city-could-face-further-charges-as-premier-league-confro--leag",
+   "title": "Man City could face further charges as Premier League confronted with ‘dilemma’",
+   "dek": "Some executives are pushing for Man City to be investigated for the seasons since 2018 after they were found guilty of 114 charges of breaches of financial rules",
+   "description": "Some executives are pushing for Man City to be investigated for the seasons since 2018 after they were found guilty of 114 charges of breaches of financial rules",
+   "category": "News",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-11-03T17:40:25.000Z",
+   "fetched_at": "2026-11-03T19:11:14.626Z",
+   "body": [
+    "Our briefing: Some executives are pushing for Man City to be investigated for the seasons since 2018 after they were found guilty of 114 charges of breaches of financial rules",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Manchester_City_dressing_room_2022.jpg/960px-Manchester_City_dressing_room_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Christian David — CC BY-SA 4.0"
+  },
+  {
+   "id": "guardian-tenerife-footballer-jes-s-de-miguel-dies-aged-30",
+   "slug": "tenerife-footballer-jes-s-de-miguel-dies-aged-30-after-on-pi-ed-30",
+   "title": "Tenerife footballer Jesús de Miguel dies aged 30 after on-pitch collision",
+   "dek": "Police homicide division opens judicial proceedings He was struck in the chest when challenging for ball Spanish football was in shock on Tuesday after the Tenerife…",
+   "description": "Police homicide division opens judicial proceedings He was struck in the chest when challenging for ball Spanish football was in shock on Tuesday after the Tenerife striker Jesús de Miguel died after a collision with the Andorra goalkeeper Jesús Owono during a match in the second division. The homicide division of the national police has opened judicial proceedings into a possible involuntary manslaughter, a routine procedure after any death not by natural causes. The chief public prosecutor in Santa Cruz de Tenerife told the state news agency EFE that it was “very difficult” for a case to come to court. Tenerife announced that De Miguel had died at 8am on Tuesday after he had been taken into intensive care on Monday afternoon. He did not regain consciousness after a cardiorespiratory arrest. Continue reading...",
+   "category": "News",
+   "league": "Football",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-11-03T17:17:29.000Z",
+   "fetched_at": "2026-11-03T19:11:14.551Z",
+   "body": [
+    "Our briefing: Police homicide division opens judicial proceedings He was struck in the chest when challenging for ball Spanish football was in shock on Tuesday after the Tenerife…",
+    "Police homicide division opens judicial proceedings He was struck in the chest when challenging for ball Spanish football was in shock on Tuesday after the Tenerife striker Jesús de Miguel died after a collision with the Andorra goalkeeper Jesús Owono during a match in the second division. The homicide division of the national police has opened judicial proceedings into a possible involuntary manslaughter, a routine procedure after any death not by natural causes. The chief public prosecutor in Santa Cruz de Tenerife told the state news agency EFE that it was “very difficult” for a case to come to court.",
+    "Tenerife announced that De Miguel had died at 8am on Tuesday after he had been taken into intensive care on Monday afternoon. He did not regain consciousness after a cardiorespiratory arrest. Continue reading...",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+  },
+  {
+   "id": "independent-andoni-iraola-gives-ryan-gravenberch-injury-upda",
+   "slug": "andoni-iraola-gives-ryan-gravenberch-injury-update-after-liv--upda",
+   "title": "Andoni Iraola gives Ryan Gravenberch injury update after Liverpool star misses Fenerbahce trip",
+   "dek": "Gravenberch was absent from the 22-man travelling squad that flew out to Turkey on Tuesday morning",
+   "description": "Gravenberch was absent from the 22-man travelling squad that flew out to Turkey on Tuesday morning",
+   "category": "Injuries",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-11-03T16:55:13.000Z",
+   "fetched_at": "2026-11-03T19:11:14.626Z",
+   "body": [
+    "Our briefing: Gravenberch was absent from the 22-man travelling squad that flew out to Turkey on Tuesday morning",
+    "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Danger_Risk_of_Life-Changing_Injuries%2C_Liverpool_Street_tube_station_2025-11-16.jpg/960px-Danger_Risk_of_Life-Changing_Injuries%2C_Liverpool_Street_tube_station_2025-11-16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Cory Doctorow — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-pocognoli-focus-scotland-tidy-up-euros-loom",
+   "slug": "pocognoli-focus-on-scotland-tidy-up-as-euros-loom--loom",
+   "title": "Pocognoli focus on Scotland tidy-up as Euros loom",
+   "dek": "The Scotland head coach insists radical change is not required to improve his team after a mixed maiden camp.",
+   "description": "The Scotland head coach insists radical change is not required to improve his team after a mixed maiden camp.",
+   "category": "News",
+   "league": "International",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-03T16:54:35.000Z",
+   "fetched_at": "2026-11-03T19:11:14.505Z",
+   "body": [
+    "Our briefing: The Scotland head coach insists radical change is not required to improve his team after a mixed maiden camp.",
+    "The Scotland head coach insists radical change is not required to improve his team after a mixed maiden camp.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+  },
+  {
+   "id": "independent-brian-brobbey-signs-contract-extension-bottom-cl",
+   "slug": "brian-brobbey-signs-contract-extension-at-bottom-club-sunder-om-cl",
+   "title": "Brian Brobbey signs contract extension at bottom club Sunderland after Bayern Munich interest",
+   "dek": "It was understood German giants Bayern were monitoring the Dutchman earlier in the year",
+   "description": "It was understood German giants Bayern were monitoring the Dutchman earlier in the year",
+   "category": "Transfers & Rumours",
+   "league": "Bundesliga",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-11-03T16:32:33.000Z",
+   "fetched_at": "2026-11-03T19:11:14.626Z",
+   "body": [
+    "Our briefing: It was understood German giants Bayern were monitoring the Dutchman earlier in the year",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Allianz_Arena_Bayern_Munich_soccer-stadion_%28450603187%29.jpg/960px-Allianz_Arena_Bayern_Munich_soccer-stadion_%28450603187%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Depeche Mode *wrong* — CC BY 2.0"
+  },
+  {
+   "id": "bbc-how-follow-champions-league-bbc",
+   "slug": "how-to-follow-the-champions-league-on-the-bbc-e-bbc",
+   "title": "How to follow the Champions League on the BBC",
+   "dek": "The Champions League returns this week and you will be able to listen to commentary and watch highlights of the best of the action on the BBC.",
+   "description": "The Champions League returns this week and you will be able to listen to commentary and watch highlights of the best of the action on the BBC.",
+   "category": "Tactics & Analysis",
+   "league": "Champions League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-03T16:11:06.000Z",
+   "fetched_at": "2026-11-03T19:11:14.506Z",
+   "body": [
+    "Our briefing: The Champions League returns this week and you will be able to listen to commentary and watch highlights of the best of the action on the BBC.",
+    "The Champions League returns this week and you will be able to listen to commentary and watch highlights of the best of the action on the BBC.",
+    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
+  },
+  {
+   "id": "guardian-football-daily-west-ham-want-promotion-so-it-s-t",
+   "slug": "daily-west-ham-want-promotion-so-it-s-time-to-call-in-an-und-t-s-t",
+   "title": "Daily | West Ham want promotion – so it’s time to call in an understated club legend",
+   "dek": "Sign up now! Sign up now! Sign up now? Sign up now! While Football Daily hasn’t actually seen much of West Ham this season, we’ve noted enough of their results to presume…",
+   "description": "Sign up now! Sign up now! Sign up now? Sign up now! While Football Daily hasn’t actually seen much of West Ham this season, we’ve noted enough of their results to presume they were doing OK in their attempt to bounce back to the Premier League after relegation. Less than a third of the way through the Championship season under Nuno Espírito Santo, they’d already spanked six without reply past both Wrexham and Lincoln, while scoring three or more in wins over Wolves, Derby and Bolton. However, it turns out that of the 13 matches they’ve played in a league that is famously difficult to get out of (unless you were Sheffield Wednesday last season ), they have actually lost three times and currently sit in eighth place, a whopping six points off leaders Middlesbrough. Given the context of such an unbridgeable chasm, it is small wonder West Ham fans woke up to news that Nuno had been unceremoniously bounced out of the London Stadium with a P45 in hand. While my heart aches for Jesús de Miguel, who has died after a collision with the Andorra goalkeeper Jesús Owono, I shudder to think the trauma that shall haunt Owono for the rest of his life. I do hope and pray the wider community understands and extends their support in his recuperation” – Krishna Moorthy. As an upgrade to Steve Plever’s suggestion of paper thin shirts [ Monday’s letters ]: how about Velcro shirts? If the bit comes off, it is a shirt pull and the offender has the honour of putting it back in place before being awarded a yellow card” – Mike Harold. To dive or not to dive seems to be biggest dilemma in the Premier League right now. It’s not. The problem with today’s highly paid professionals is that they simply have no panache at all when they go down. I recall watching Francis Lee pick up the ball on the halfway line at a mud soaked Maine Road in the late 1960s, he put his head down and headed for goal, he was determined, he was single minded. He was 30 yards from goal, he was in full flow. He was tackled from behind and then he really took off, he grew wings, he soared. I swear he landed in the penalty area over 10 yards away. He dragged himself to his feet and without a semblance of a smile smashed the well-deserved penalty, with a very heavy leather ball straight at the centre of the goal at over 70 mph. The goalkeeper, obviously no fool, simply dived out of the way. The press christened him “Lee Won Pen” He was my hero. That man had panache, he had style” – Myles Flynn. I am interested to read that Aston Villa considered the words of Jamie Carragher “unacceptable insults” . It would obviously help matters if they could publish examples of acceptable insults” – Rupert Jeffery. This is an extract from our daily football email … Football Daily. To get the full version, just visit this page and follow the instructions . Continue reading...",
+   "category": "Transfers & Rumours",
+   "league": "Premier League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-11-03T15:55:01.000Z",
+   "fetched_at": "2026-11-03T19:11:14.551Z",
+   "body": [
+    "Our briefing: Sign up now! Sign up now! Sign up now? Sign up now! While Football Daily hasn’t actually seen much of West Ham this season, we’ve noted enough of their results to presume…",
+    "Sign up now! Sign up now! Sign up now?",
+    "Sign up now! While Football Daily hasn’t actually seen much of West Ham this season, we’ve noted enough of their results to presume they were doing OK in their attempt to bounce back to the Premier League after relegation. Less than a third of the way through the Championship season under Nuno Espírito Santo, they’d already spanked six without reply past both Wrexham and Lincoln, while scoring three or more in wins over Wolves, Derby and Bolton.",
+    "However, it turns out that of the 13 matches they’ve played in a league that is famously difficult to get out of (unless you were Sheffield Wednesday last season ), they have actually lost three times and currently sit in eighth place, a whopping six points off leaders Middlesbrough. Given the context of such an unbridgeable chasm, it is small wonder West Ham fans woke up to news that Nuno had been unceremoniously bounced out of the London Stadium with a P45 in hand. While my heart aches for Jesús de Miguel, who has died after a collision with the Andorra goalkeeper Jesús Owono, I shudder to think the trauma that shall haunt Owono for the rest of his life.",
+    "I do hope and pray the wider community understands and extends their support in his recuperation” – Krishna Moorthy. As an upgrade to Steve Plever’s suggestion of paper thin shirts [ Monday’s letters ]: how about Velcro shirts? If the bit comes off, it is a shirt pull and the offender has the honour of putting it back in place before being awarded a yellow card” – Mike Harold.",
+    "To dive or not to dive seems to be biggest dilemma in the Premier League right now. It’s not. The problem with today’s highly paid professionals is that they simply have no panache at all when they go down.",
+    "I recall watching Francis Lee pick up the ball on the halfway line at a mud soaked Maine Road in the late 1960s, he put his head down and headed for goal, he was determined, he was single minded. He was 30 yards from goal, he was in full flow. He was tackled from behind and then he really took off, he grew wings, he soared.",
+    "I swear he landed in the penalty area over 10 yards away. He dragged himself to his feet and without a semblance of a smile smashed the well-deserved penalty, with a very heavy leather ball straight at the centre of the goal at over 70 mph. The goalkeeper, obviously no fool, simply dived out of the way.",
+    "The press christened him “Lee Won Pen” He was my hero. That man had panache, he had style” – Myles Flynn. I am interested to read that Aston Villa considered the words of Jamie Carragher “unacceptable insults” .",
+    "It would obviously help matters if they could publish examples of acceptable insults” – Rupert Jeffery. This is an extract from our daily football email … Football Daily. To get the full version, just visit this page and follow the instructions .",
+    "Continue reading...",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/West_Ham_United%2C_co-owners.jpg/960px-West_Ham_United%2C_co-owners.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Hilton Teper — CC BY-SA 3.0"
+  },
+  {
+   "id": "bbc-lionesses-face-france-portugal-nations-league",
+   "slug": "lionesses-to-face-france-and-portugal-in-nations-league-eague",
+   "title": "Lionesses to face France and Portugal in Nations League",
+   "dek": "England have been drawn to face France, Austria and Portugal in next year's Women's Nations League.",
+   "description": "England have been drawn to face France, Austria and Portugal in next year's Women's Nations League.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-03T15:39:21.000Z",
+   "fetched_at": "2026-11-03T19:11:14.505Z",
+   "body": [
+    "Our briefing: England have been drawn to face France, Austria and Portugal in next year's Women's Nations League.",
+    "England have been drawn to face France, Austria and Portugal in next year's Women's Nations League.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/CPSL_2005_semifinals_-_Esther_Shiner_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "Robin Glover — CC BY 4.0"
+  },
+  {
+   "id": "bbc-wrexham-suffer-significant-smith-injury-blow",
+   "slug": "wrexham-suffer-significant-smith-injury-blow--blow",
+   "title": "Wrexham suffer 'significant' Smith injury blow",
+   "dek": "Wrexham forward Sam Smith faces a \"significant\" spell out of action due to a knee injury, manager Phil Parkinson confirms.",
+   "description": "Wrexham forward Sam Smith faces a \"significant\" spell out of action due to a knee injury, manager Phil Parkinson confirms.",
+   "category": "Injuries",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-03T15:20:23.000Z",
+   "fetched_at": "2026-11-03T19:11:14.505Z",
+   "body": [
+    "Our briefing: Wrexham forward Sam Smith faces a \"significant\" spell out of action due to a knee injury, manager Phil Parkinson confirms.",
+    "Wrexham forward Sam Smith faces a \"significant\" spell out of action due to a knee injury, manager Phil Parkinson confirms.",
+    "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Health_Report-_Soccer_Concussions.webm/500px--Health_Report-_Soccer_Concussions.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "imageCredit": null
+  },
+  {
+   "id": "bbc-former-rangers-player-kyle-hutton-stand-trial-ov",
+   "slug": "former-rangers-player-kyle-hutton-to-stand-trial-over-road-d-al-ov",
+   "title": "Former Rangers player Kyle Hutton to stand trial over road death",
+   "dek": "Victoria Cairns died four days after the crash in Rutherglen in November 2024.",
+   "description": "Victoria Cairns died four days after the crash in Rutherglen in November 2024.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-03T15:10:54.000Z",
+   "fetched_at": "2026-11-03T19:11:14.507Z",
+   "body": [
+    "Our briefing: Victoria Cairns died four days after the crash in Rutherglen in November 2024.",
+    "Victoria Cairns died four days after the crash in Rutherglen in November 2024.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Ibrox_Stadium%2C_Rangers_FC.jpg/960px-Ibrox_Stadium%2C_Rangers_FC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Lesterhobbes764 — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-saliba-s-back-arsenal-how-does-arteta-solve-his-",
+   "slug": "saliba-s-back-for-arsenal-how-does-arteta-solve-his-defensiv--his-",
+   "title": "Saliba's back for Arsenal - how does Arteta solve his defensive dilemma?",
+   "dek": "William Saliba returning to first-team training before Arsenal's game with Slavia Prague in the Champions League is a huge boost for the club but now presents Mikel…",
+   "description": "William Saliba returning to first-team training before Arsenal's game with Slavia Prague in the Champions League is a huge boost for the club but now presents Mikel Arteta with a selection headache.",
+   "category": "Tactics & Analysis",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-03T15:07:49.000Z",
+   "fetched_at": "2026-11-03T19:11:14.505Z",
+   "body": [
+    "Our briefing: William Saliba returning to first-team training before Arsenal's game with Slavia Prague in the Champions League is a huge boost for the club but now presents Mikel…",
+    "William Saliba returning to first-team training before Arsenal's game with Slavia Prague in the Champions League is a huge boost for the club but now presents Mikel Arteta with a selection headache.",
+    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Arsenal_Stadium_Highbury_east_facade.jpg/960px-Arsenal_Stadium_Highbury_east_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "No machine-readable author provided. Qwghlm~commonswiki assumed (based on copyright claims). — CC BY-SA 3.0"
+  },
+  {
+   "id": "bbc-palace-launch-mateta-red-card-appeal",
+   "slug": "palace-launch-mateta-red-card-appeal-ppeal",
+   "title": "Palace launch Mateta red card appeal",
+   "dek": "Crystal Palace are appealing against Jean-Philippe Mateta's red card in the defeat by Tottenham on Saturday.",
+   "description": "Crystal Palace are appealing against Jean-Philippe Mateta's red card in the defeat by Tottenham on Saturday.",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-03T14:54:55.000Z",
+   "fetched_at": "2026-11-03T19:11:14.505Z",
+   "body": [
+    "Our briefing: Crystal Palace are appealing against Jean-Philippe Mateta's red card in the defeat by Tottenham on Saturday.",
+    "Crystal Palace are appealing against Jean-Philippe Mateta's red card in the defeat by Tottenham on Saturday.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
+   "id": "independent-dirk-kuyt-makes-loyalty-vow-ahead-managing-fener",
+   "slug": "dirk-kuyt-makes-loyalty-vow-ahead-of-managing-fenerbahce-aga-fener",
+   "title": "Dirk Kuyt makes loyalty vow ahead of managing Fenerbahce against former club Liverpool",
+   "dek": "Dirk Kuyt will take charge of Fenerbahce for their Champions League game against Liverpool on Wednesday",
+   "description": "Dirk Kuyt will take charge of Fenerbahce for their Champions League game against Liverpool on Wednesday",
+   "category": "Previews",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-11-03T14:43:32.000Z",
+   "fetched_at": "2026-11-03T19:11:14.626Z",
+   "body": [
+    "Our briefing: Dirk Kuyt will take charge of Fenerbahce for their Champions League game against Liverpool on Wednesday",
+    "Team news can change right up to kick-off. Bookmark this story for the final line-ups and confirmed sides.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Elftal_van_Liverpool%2C_Bestanddeelnr_919-7002.jpg/960px-Elftal_van_Liverpool%2C_Bestanddeelnr_919-7002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
+   "id": "independent-west-ham-were-right-be-ruthless-nuno-but-are-the",
+   "slug": "west-ham-were-right-to-be-ruthless-with-nuno-but-are-they-ri-e-the",
+   "title": "West Ham were right to be ruthless with Nuno, but are they right about Scott Parker?",
+   "dek": "Comment: Some feel it was harsh to sack Nuno now, but truthfully, he could have gone in the summer. The bigger question is whether his reported replacement is the right…",
+   "description": "Comment: Some feel it was harsh to sack Nuno now, but truthfully, he could have gone in the summer. The bigger question is whether his reported replacement is the right pick",
+   "category": "News",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-11-03T14:41:16.000Z",
+   "fetched_at": "2026-11-03T19:11:14.626Z",
+   "body": [
+    "Our briefing: Comment: Some feel it was harsh to sack Nuno now, but truthfully, he could have gone in the summer. The bigger question is whether his reported replacement is the right…",
+    "Comment: Some feel it was harsh to sack Nuno now, but truthfully, he could have gone in the summer.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/London_Olympic_Stadium_West_Ham.jpg/960px-London_Olympic_Stadium_West_Ham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
+  },
+  {
+   "id": "independent-lionesses-discover-nations-league-opponents-sari",
+   "slug": "lionesses-discover-nations-league-opponents-as-sarina-wiegma--sari",
+   "title": "Lionesses discover Nations League opponents as Sarina Wiegman's side eye LA Olympics qualification",
+   "dek": "England missed out on the 2024 Paris Olympics in agonising fashion",
+   "description": "England missed out on the 2024 Paris Olympics in agonising fashion",
+   "category": "News",
+   "league": "Football",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-11-03T14:21:43.000Z",
+   "fetched_at": "2026-11-03T19:11:14.626Z",
+   "body": [
+    "Our briefing: England missed out on the 2024 Paris Olympics in agonising fashion",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+  },
+  {
+   "id": "independent-police-open-investigation-into-death-footballer-",
+   "slug": "police-open-investigation-into-death-of-footballer-after-on--ller-",
+   "title": "Police open investigation into death of footballer after on-field collision",
+   "dek": "Jesus de Miguel died in hospital as a result of injuries sustained while playing for Tenerife against FC Andorra in the Spanish second tier on Monday",
+   "description": "Jesus de Miguel died in hospital as a result of injuries sustained while playing for Tenerife against FC Andorra in the Spanish second tier on Monday",
+   "category": "News",
+   "league": "Football",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-11-03T14:08:02.000Z",
+   "fetched_at": "2026-11-03T19:11:14.626Z",
+   "body": [
+    "Our briefing: Jesus de Miguel died in hospital as a result of injuries sustained while playing for Tenerife against FC Andorra in the Spanish second tier on Monday",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
+   "id": "bbc-scotland-draw-germany-netherlands-sweden-nations",
+   "slug": "scotland-draw-germany-netherlands-sweden-in-nations-league-tions",
+   "title": "Scotland draw Germany, Netherlands & Sweden in Nations League",
+   "dek": "Scotland will meet Germany, Netherlands and Sweden in the next edition of the women's Nations League.",
+   "description": "Scotland will meet Germany, Netherlands and Sweden in the next edition of the women's Nations League.",
+   "category": "Match Reports",
+   "league": "International",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-03T13:10:35.000Z",
+   "fetched_at": "2026-11-03T19:11:14.507Z",
+   "body": [
+    "Our briefing: Scotland will meet Germany, Netherlands and Sweden in the next edition of the women's Nations League.",
+    "Scotland will meet Germany, Netherlands and Sweden in the next edition of the women's Nations League.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-west-ham-approach-parker-after-sacking-boss-nuno",
+   "slug": "west-ham-approach-parker-after-sacking-boss-nuno--nuno",
+   "title": "West Ham approach Parker after sacking boss Nuno",
+   "dek": "West Ham United sack head coach Nuno Espirito Santo and are said to be in talks with Scott Parker as his replacement.",
+   "description": "West Ham United sack head coach Nuno Espirito Santo and are said to be in talks with Scott Parker as his replacement.",
+   "category": "News",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-03T12:42:04.000Z",
+   "fetched_at": "2026-11-03T19:11:14.505Z",
+   "body": [
+    "Our briefing: West Ham United sack head coach Nuno Espirito Santo and are said to be in talks with Scott Parker as his replacement.",
+    "West Ham United sack head coach Nuno Espirito Santo and are said to be in talks with Scott Parker as his replacement.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/West_Ham_Stadium_Store_in_2021.jpg/960px-West_Ham_Stadium_Store_in_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "CybJubal — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-green-backs-proven-parker-hammers-job",
+   "slug": "green-backs-proven-parker-for-hammers-job-s-job",
+   "title": "Green backs 'proven' Parker for Hammers job",
+   "dek": "Rob Green says Scott Parker's \"proven record\" of getting teams promoted makes him a perfect fit as the club's next boss.",
+   "description": "Rob Green says Scott Parker's \"proven record\" of getting teams promoted makes him a perfect fit as the club's next boss.",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-03T12:32:53.000Z",
+   "fetched_at": "2026-11-03T19:11:14.506Z",
+   "body": [
+    "Our briefing: Rob Green says Scott Parker's \"proven record\" of getting teams promoted makes him a perfect fit as the club's next boss.",
+    "Rob Green says Scott Parker's \"proven record\" of getting teams promoted makes him a perfect fit as the club's next boss.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
+  },
+  {
+   "id": "independent-arsenal-receive-huge-boost-william-saliba-return",
+   "slug": "arsenal-receive-huge-boost-as-william-saliba-returns-to-trai-eturn",
+   "title": "Arsenal receive huge boost as William Saliba returns to training",
+   "dek": "Ezri Konsa has impressed as Saliba’s replacement so far this season",
+   "description": "Ezri Konsa has impressed as Saliba’s replacement so far this season",
+   "category": "News",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-11-03T12:31:42.000Z",
+   "fetched_at": "2026-11-03T19:11:14.626Z",
+   "body": [
+    "Our briefing: Ezri Konsa has impressed as Saliba’s replacement so far this season",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Arsenal_Stadium_in_Tula.jpg/960px-Arsenal_Stadium_in_Tula.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "UMNICK — CC BY-SA 3.0"
+  },
+  {
+   "id": "bbc-shaw-among-big-names-miss-out-fifpro-world-xi",
+   "slug": "shaw-among-big-names-to-miss-out-on-fifpro-world-xi-ld-xi",
+   "title": "Shaw among big names to miss out on FifPro World XI",
+   "dek": "Eyebrows are raised at the announcement of the FifPro Women's World XI shortlist with several big names missing.",
+   "description": "Eyebrows are raised at the announcement of the FifPro Women's World XI shortlist with several big names missing.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-03T12:28:26.000Z",
+   "fetched_at": "2026-11-03T19:11:14.505Z",
+   "body": [
+    "Our briefing: Eyebrows are raised at the announcement of the FifPro Women's World XI shortlist with several big names missing.",
+    "Eyebrows are raised at the announcement of the FifPro Women's World XI shortlist with several big names missing.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+  },
+  {
+   "id": "guardian-manchester-city-win-again-ballon-d-or-comes-brom",
+   "slug": "manchester-city-win-again-and-the-ballon-d-or-comes-to-broml--brom",
+   "title": "Manchester City win again and the Ballon d’Or comes to Bromley – Women’s Football Weekly podcast",
+   "dek": "Faye Carruthers is joined by Suzanne Wrack , Tom Garry and Freddie Cardy to discuss the weekend’s WSL action Faye Carruthers is joined by Suzanne Wrack , Tom Garry and…",
+   "description": "Faye Carruthers is joined by Suzanne Wrack , Tom Garry and Freddie Cardy to discuss the weekend’s WSL action Faye Carruthers is joined by Suzanne Wrack , Tom Garry and Freddie Cardy to discuss the weekend’s WSL action. On the podcast today: Bunny Shaw and Lauren Hemp star for Manchester City as they battle past London City Lionesses. It’s yet another draw for Arsenal against Aston Villa, with the panel wondering what is Alessia Russo’s best position. Continue reading...",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-11-03T12:15:09.000Z",
+   "fetched_at": "2026-11-03T19:11:14.553Z",
+   "body": [
+    "Our briefing: Faye Carruthers is joined by Suzanne Wrack , Tom Garry and Freddie Cardy to discuss the weekend’s WSL action Faye Carruthers is joined by Suzanne Wrack , Tom Garry and…",
+    "Faye Carruthers is joined by Suzanne Wrack , Tom Garry and Freddie Cardy to discuss the weekend’s WSL action Faye Carruthers is joined by Suzanne Wrack , Tom Garry and Freddie Cardy to discuss the weekend’s WSL action. On the podcast today: Bunny Shaw and Lauren Hemp star for Manchester City as they battle past London City Lionesses. It’s yet another draw for Arsenal against Aston Villa, with the panel wondering what is Alessia Russo’s best position.",
+    "Continue reading...",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
+   "id": "independent-james-penrice-earns-first-scotland-call-up-while",
+   "slug": "james-penrice-earns-first-scotland-call-up-while-scott-mctom-while",
+   "title": "James Penrice earns first Scotland call-up while Scott McTominay returns to squad",
+   "dek": "Sebastien Pocognoli’s side will play North Macedonia and Switzerland to conclude their Nations League campaign",
+   "description": "Sebastien Pocognoli’s side will play North Macedonia and Switzerland to conclude their Nations League campaign",
+   "category": "News",
+   "league": "International",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-11-03T12:09:25.000Z",
+   "fetched_at": "2026-11-03T19:11:14.626Z",
+   "body": [
+    "Our briefing: Sebastien Pocognoli’s side will play North Macedonia and Switzerland to conclude their Nations League campaign",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Kashima_Soccer_Stadium_5.jpg/960px-Kashima_Soccer_Stadium_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
+  },
+  {
+   "id": "independent-tenerife-player-jesus-de-miguel-dies-hospital-af",
+   "slug": "tenerife-player-jesus-de-miguel-dies-in-hospital-after-on-pi-al-af",
+   "title": "Tenerife player Jesus de Miguel dies in hospital after on-pitch collision",
+   "dek": "The striker died as a result of injuries sustained in an incident during Tenerife’s second-tier match on Monday",
+   "description": "The striker died as a result of injuries sustained in an incident during Tenerife’s second-tier match on Monday",
+   "category": "News",
+   "league": "Football",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-11-03T12:06:17.000Z",
+   "fetched_at": "2026-11-03T19:11:14.627Z",
+   "body": [
+    "Our briefing: The striker died as a result of injuries sustained in an incident during Tenerife’s second-tier match on Monday",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "IPPA photographer — CC BY 4.0"
+  },
+  {
+   "id": "independent-west-ham-sack-nuno-espirito-santo",
+   "slug": "west-ham-sack-nuno-espirito-santo-santo",
+   "title": "West Ham sack Nuno Espirito Santo",
+   "dek": "The Hammers, who are close to appointing Scott Parker as Nuno’s replacement, have suffered back-to-back Championship defeats",
+   "description": "The Hammers, who are close to appointing Scott Parker as Nuno’s replacement, have suffered back-to-back Championship defeats",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-11-03T11:52:45.000Z",
+   "fetched_at": "2026-11-03T19:11:14.627Z",
+   "body": [
+    "Our briefing: The Hammers, who are close to appointing Scott Parker as Nuno’s replacement, have suffered back-to-back Championship defeats",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Jack_Wilshere_-_Hertha_BSC_vs._West_Ham_United_%2820190731%29.jpg/960px-Jack_Wilshere_-_Hertha_BSC_vs._West_Ham_United_%2820190731%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "--Steindy (talk) 16:09, 29 August 2019 (UTC) — CC BY-SA 4.0"
+  },
+  {
+   "id": "guardian-absolute-afterthought-story-nigeria-women-s-team",
+   "slug": "an-absolute-afterthought-the-story-of-the-nigeria-women-s-te--team",
+   "title": "‘An absolute afterthought’: the story of the Nigeria women’s team’s fall from grace",
+   "dek": "The Super Falcons won’t be at the World Cup and with the prize money going up, they risk being left even further behind It was a historic result in Casablanca – but not…",
+   "description": "The Super Falcons won’t be at the World Cup and with the prize money going up, they risk being left even further behind It was a historic result in Casablanca – but not in a good way. Nigeria’s 2-1 defeat against South Africa in a playoff in August meant that the Super Falcons are missing out on the World Cup for the first time. It is a crushing blow for the most decorated national side in Africa across both men and women, one that has won no fewer than 10 Wafcon titles . The journalist and lecturer Dr Victor Ademola was in Morocco the day of the defeat. “It was a very difficult evening,” he says. “Some players were visibly emotional while others appeared to be processing what had just happened. I saw players crying as they got on to the team bus while some sat alone or remained on their phones, looking very sad.” Continue reading...",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-11-03T11:33:56.000Z",
+   "fetched_at": "2026-11-03T19:11:14.551Z",
+   "body": [
+    "Our briefing: The Super Falcons won’t be at the World Cup and with the prize money going up, they risk being left even further behind It was a historic result in Casablanca – but not…",
+    "The Super Falcons won’t be at the World Cup and with the prize money going up, they risk being left even further behind It was a historic result in Casablanca – but not in a good way. Nigeria’s 2-1 defeat against South Africa in a playoff in August meant that the Super Falcons are missing out on the World Cup for the first time. It is a crushing blow for the most decorated national side in Africa across both men and women, one that has won no fewer than 10 Wafcon titles .",
+    "The journalist and lecturer Dr Victor Ademola was in Morocco the day of the defeat. “It was a very difficult evening,” he says. “Some players were visibly emotional while others appeared to be processing what had just happened.",
+    "I saw players crying as they got on to the team bus while some sat alone or remained on their phones, looking very sad. ” Continue reading...",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "IPPA photographer — CC BY 4.0"
+  },
   {
    "id": "independent-police-arrest-14-year-old-boy-over-bradley-lower",
    "slug": "police-arrest-14-year-old-boy-over-bradley-lowery-taunt-lower",
@@ -29,14 +705,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-11-03T11:32:13.000Z",
-   "fetched_at": "2026-11-03T11:40:30.343Z",
+   "fetched_at": "2026-11-03T19:11:14.627Z",
    "body": [
     "Our briefing: The boy had handed himself in on Sunday after using a picture of Lowery to mock Sunderland fans during the Premier League match between the teams",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "John Shorten — CC BY 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
    "id": "bbc-mctominay-returns-penrice-earns-first-scotland-c",
@@ -49,56 +725,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-03T11:29:06.000Z",
-   "fetched_at": "2026-11-03T11:40:30.213Z",
+   "fetched_at": "2026-11-03T19:11:14.505Z",
    "body": [
     "Our briefing: Scott McTominay, Kieran Tierney and Che Adams return to the Scotland squad, while there is a first call for James Penrice for the remaining Nations League matches against…",
     "Scott McTominay, Kieran Tierney and Che Adams return to the Scotland squad, while there is a first call for James Penrice for the remaining Nations League matches against North Macedonia and Switzerland.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
-  },
-  {
-   "id": "independent-tenerife-player-jesus-de-miguel-dies-hospital-af",
-   "slug": "tenerife-player-jesus-de-miguel-dies-in-hospital-after-on-pi-al-af",
-   "title": "Tenerife player Jesus de Miguel dies in hospital after on-pitch collision",
-   "dek": "The striker died as a result of injuries sustained in an incident during Tenerife’s second-tier match on Monday",
-   "description": "The striker died as a result of injuries sustained in an incident during Tenerife’s second-tier match on Monday",
-   "category": "News",
-   "league": "Football",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-11-03T11:24:46.000Z",
-   "fetched_at": "2026-11-03T11:40:30.344Z",
-   "body": [
-    "Our briefing: The striker died as a result of injuries sustained in an incident during Tenerife’s second-tier match on Monday",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-west-ham-approach-parker-after-sacking-boss-nuno",
-   "slug": "west-ham-approach-parker-after-sacking-boss-nuno--nuno",
-   "title": "West Ham approach Parker after sacking boss Nuno",
-   "dek": "West Ham United sack head coach Nuno Espirito Santo and are said to be in talks with Scott Parker as his replacement.",
-   "description": "West Ham United sack head coach Nuno Espirito Santo and are said to be in talks with Scott Parker as his replacement.",
-   "category": "News",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-03T11:06:46.000Z",
-   "fetched_at": "2026-11-03T11:40:30.213Z",
-   "body": [
-    "Our briefing: West Ham United sack head coach Nuno Espirito Santo and are said to be in talks with Scott Parker as his replacement.",
-    "West Ham United sack head coach Nuno Espirito Santo and are said to be in talks with Scott Parker as his replacement.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/London_Olympic_Stadium_West_Ham.jpg/960px-London_Olympic_Stadium_West_Ham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Soccer_fans_put_town_in_siege_%28FL62506945%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506945%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
    "id": "guardian-david-squires-mikel-arteta-s-view-that-football-",
@@ -111,35 +746,15 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-11-03T10:57:42.000Z",
-   "fetched_at": "2026-11-03T11:40:30.287Z",
+   "fetched_at": "2026-11-03T19:11:14.551Z",
    "body": [
     "Our briefing: Our cartoonist on whether the Arsenal manager is right about the game not being an entertainment industry Buy a cartoon | Some of David’s favourite works And his latest…",
     "Our cartoonist on whether the Arsenal manager is right about the game not being an entertainment industry Buy a cartoon | Some of David’s favourite works And his latest book, Chaos in the Box: get it now Continue reading...",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
-  },
-  {
-   "id": "independent-west-ham-sack-nuno-espirito-santo",
-   "slug": "west-ham-sack-nuno-espirito-santo-santo",
-   "title": "West Ham sack Nuno Espirito Santo",
-   "dek": "The Hammers, who are close to appointing Scott Parker as Nuno’s replacement, have suffered back-to-back Championship defeats",
-   "description": "The Hammers, who are close to appointing Scott Parker as Nuno’s replacement, have suffered back-to-back Championship defeats",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-11-03T10:24:57.000Z",
-   "fetched_at": "2026-11-03T11:40:30.344Z",
-   "body": [
-    "Our briefing: The Hammers, who are close to appointing Scott Parker as Nuno’s replacement, have suffered back-to-back Championship defeats",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Jack_Wilshere_-_Hertha_BSC_vs._West_Ham_United_%2820190731%29.jpg/960px-Jack_Wilshere_-_Hertha_BSC_vs._West_Ham_United_%2820190731%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "--Steindy (talk) 16:09, 29 August 2019 (UTC) — CC BY-SA 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Soccer_fans_put_town_in_siege_%28FL62506919%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506919%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
    "id": "bbc-mee-kenny-handed-first-northern-ireland-call-ups",
@@ -152,15 +767,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-03T10:07:54.000Z",
-   "fetched_at": "2026-11-03T11:40:30.213Z",
+   "fetched_at": "2026-11-03T19:11:14.506Z",
    "body": [
     "Our briefing: Manchester United goalkeeper Dermot Mee and Portsmouth's Eoin Kenny are handed their first Northern Ireland call-ups for November's Nations League games with Ukraine and…",
     "Manchester United goalkeeper Dermot Mee and Portsmouth's Eoin Kenny are handed their first Northern Ireland call-ups for November's Nations League games with Ukraine and Hungary.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/CPSL_2005_semifinals_-_Esther_Shiner_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "Robin Glover — CC BY 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Soccer_fans_put_town_in_siege_%28FL62506613%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506613%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
    "id": "guardian-west-ham-turn-scott-parker-after-sacking-nuno-es",
@@ -195,38 +810,13 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-03T09:21:56.000Z",
-   "fetched_at": "2026-11-03T11:40:30.213Z",
+   "fetched_at": "2026-11-03T19:11:14.505Z",
    "body": [
     "Our briefing: Police are investigating an incident at Coventry's Premier League match with Sunderland on Saturday.",
     "Police are investigating an incident at Coventry's Premier League match with Sunderland on Saturday.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
-  },
-  {
-   "id": "guardian-tenerife-footballer-jes-s-de-miguel-dies-aged-30",
-   "slug": "tenerife-footballer-jes-s-de-miguel-dies-aged-30-after-on-pi-ed-30",
-   "title": "Tenerife footballer Jesús de Miguel dies aged 30 after on-pitch collision",
-   "dek": "Forward had cardiac arrest and was taken to hospital He was struck in the chest when challenging for ball The Tenerife striker Jesús de Miguel has died following a…",
-   "description": "Forward had cardiac arrest and was taken to hospital He was struck in the chest when challenging for ball The Tenerife striker Jesús de Miguel has died following a collision with Andorra goalkeeper Jesús Owono during a match in Spain’s second division. Tenerife announced that the 30-year-old had tragically passed away at 8am on Tuesday after he had been taken into intensive care on Monday afternoon. De Miguel suffered a cardiorespiratory arrest and did not regain consciousness. The collision occurred in added time at the end of Andorra’s visit to Tenerife, a game that had been put back 24 hours because of the risk of torrential rain on the island. With the score 2-2, late in the 96th minute, a long ball was played away from the Tenerife area and up the pitch. De Miguel chased it into space and Owono came a long way out of his goal, jumping forward and crashing into the attacking player inside the centre circle. Owono was immediately sent off. De Miguel was left unconscious with players from both sides appealing for medical assistance. Continue reading...",
-   "category": "News",
-   "league": "Football",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-11-03T09:13:33.000Z",
-   "fetched_at": "2026-11-03T11:40:30.287Z",
-   "body": [
-    "Our briefing: Forward had cardiac arrest and was taken to hospital He was struck in the chest when challenging for ball The Tenerife striker Jesús de Miguel has died following a…",
-    "Forward had cardiac arrest and was taken to hospital He was struck in the chest when challenging for ball The Tenerife striker Jesús de Miguel has died following a collision with Andorra goalkeeper Jesús Owono during a match in Spain’s second division. Tenerife announced that the 30-year-old had tragically passed away at 8am on Tuesday after he had been taken into intensive care on Monday afternoon. De Miguel suffered a cardiorespiratory arrest and did not regain consciousness.",
-    "The collision occurred in added time at the end of Andorra’s visit to Tenerife, a game that had been put back 24 hours because of the risk of torrential rain on the island. With the score 2-2, late in the 96th minute, a long ball was played away from the Tenerife area and up the pitch. De Miguel chased it into space and Owono came a long way out of his goal, jumping forward and crashing into the attacking player inside the centre circle.",
-    "Owono was immediately sent off. De Miguel was left unconscious with players from both sides appealing for medical assistance. Continue reading...",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": null
+   ]
   },
   {
    "id": "bbc-tenerife-striker-de-miguel-dies-after-field-coll",
@@ -239,15 +829,13 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-03T09:09:18.000Z",
-   "fetched_at": "2026-11-03T11:40:30.213Z",
+   "fetched_at": "2026-11-03T19:11:14.505Z",
    "body": [
     "Our briefing: Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match.",
     "Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   ]
   },
   {
    "id": "bbc-how-arteta-getting-best-rice",
@@ -260,587 +848,11 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-03T08:18:04.000Z",
-   "fetched_at": "2026-11-03T11:40:30.213Z",
+   "fetched_at": "2026-11-03T19:11:14.505Z",
    "body": [
     "Our briefing: Declan Rice was a key cog in Arsenal winning the Premier League title - so how is Mikel Arteta getting even more from him this season?",
     "Declan Rice was a key cog in Arsenal winning the Premier League title - so how is Mikel Arteta getting even more from him this season?",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
-  },
-  {
-   "id": "independent-how-arsenal-just-proved-they-re-still-premier-le",
-   "slug": "how-arsenal-just-proved-they-re-still-the-premier-league-s-b-er-le",
-   "title": "How Arsenal just proved they’re still the Premier League’s best team",
-   "dek": "Arsenal beat Liverpool at Anfield for the first time in 14 years, and limited Andoni Iraola's side to 0 shots on target. But did Liverpool actually win the tactical…",
-   "description": "Arsenal beat Liverpool at Anfield for the first time in 14 years, and limited Andoni Iraola's side to 0 shots on target. But did Liverpool actually win the tactical battle? Adam Clery looks at where this game was won and lost, how Arsenal responded to Liverpool's territorial dominance and what Liverpool did wrong in trying to break down the Gunners' low block.",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-11-03T08:11:20.000Z",
-   "fetched_at": "2026-11-03T11:40:30.344Z",
-   "body": [
-    "Our briefing: Arsenal beat Liverpool at Anfield for the first time in 14 years, and limited Andoni Iraola's side to 0 shots on target. But did Liverpool actually win the tactical…",
-    "Arsenal beat Liverpool at Anfield for the first time in 14 years, and limited Andoni Iraola's side to 0 shots on target. But did Liverpool actually win the tactical battle? Adam Clery looks at where this game was won and lost, how Arsenal responded to Liverpool's territorial dominance and what Liverpool did wrong in trying to break down the Gunners' low block.",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Manchester_City_v_Arsenal%2C_League_Cup_2004-5_-_geograph.org.uk_-_3841596.jpg/960px-Manchester_City_v_Arsenal%2C_League_Cup_2004-5_-_geograph.org.uk_-_3841596.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Richard Cooke — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-celtic-track-teenager-doumbia-gossip",
-   "slug": "celtic-track-teenager-doumbia-gossip-ossip",
-   "title": "Celtic track teenager Doumbia - gossip",
-   "dek": "Celtic monitor Ivory Coast teenager playing in Sweden as one of their Europa League opponents seek a new manager.",
-   "description": "Celtic monitor Ivory Coast teenager playing in Sweden as one of their Europa League opponents seek a new manager.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-03T08:04:45.000Z",
-   "fetched_at": "2026-11-03T11:40:30.215Z",
-   "body": [
-    "Our briefing: Celtic monitor Ivory Coast teenager playing in Sweden as one of their Europa League opponents seek a new manager.",
-    "Celtic monitor Ivory Coast teenager playing in Sweden as one of their Europa League opponents seek a new manager.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Celtic_Park_during_an_Old_Firm_derby_between_Celtic_FC_and_Rangers_FC.jpg/960px-Celtic_Park_during_an_Old_Firm_derby_between_Celtic_FC_and_Rangers_FC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Vincenzo.togni — CC BY-SA 4.0"
-  },
-  {
-   "id": "independent-asian-cup-postponed-following-houthi-attacks-sau",
-   "slug": "asian-cup-postponed-following-houthi-attacks-on-saudi-arabia-s-sau",
-   "title": "Asian Cup postponed following Houthi attacks on Saudi Arabia",
-   "dek": "The 24-team tournament was due to kick off in January but has been moved back to at least December 2027",
-   "description": "The 24-team tournament was due to kick off in January but has been moved back to at least December 2027",
-   "category": "News",
-   "league": "Football",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-11-03T08:01:14.000Z",
-   "fetched_at": "2026-11-03T11:40:30.344Z",
-   "body": [
-    "Our briefing: The 24-team tournament was due to kick off in January but has been moved back to at least December 2027",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-teenage-limbo-mangotsfield-united-champions-leag",
-   "slug": "from-teenage-limbo-and-mangotsfield-united-to-champions-leag--leag",
-   "title": "From teenage limbo and Mangotsfield United to Champions League dream",
-   "dek": "In just two and a half years, Miguel Freckleton has gone from non-league to Champions League and being a fully fledged international.",
-   "description": "In just two and a half years, Miguel Freckleton has gone from non-league to Champions League and being a fully fledged international.",
-   "category": "News",
-   "league": "Champions League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-03T08:00:40.000Z",
-   "fetched_at": "2026-11-03T11:40:30.213Z",
-   "body": [
-    "Our briefing: In just two and a half years, Miguel Freckleton has gone from non-league to Champions League and being a fully fledged international.",
-    "In just two and a half years, Miguel Freckleton has gone from non-league to Champions League and being a fully fledged international.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-podcast-dunfermline-arrive-championship-title-ra",
-   "slug": "podcast-dunfermline-arrive-in-championship-title-race-le-ra",
-   "title": "Podcast: Dunfermline arrive in Championship title race",
-   "dek": "Dunfermline impress as the Championship heats up and County set the pace in League one.",
-   "description": "Dunfermline impress as the Championship heats up and County set the pace in League one.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-03T08:00:00.000Z",
-   "fetched_at": "2026-11-03T11:40:30.215Z",
-   "body": [
-    "Our briefing: Dunfermline impress as the Championship heats up and County set the pace in League one.",
-    "Dunfermline impress as the Championship heats up and County set the pace in League one.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-emery-looks-show-villa-can-compete-elite",
-   "slug": "emery-looks-to-show-villa-can-compete-with-elite-elite",
-   "title": "Emery looks to show Villa can compete with elite",
-   "dek": "Aston Villa are looking to become the first English team to win at the Nou Camp in almost 20 years.",
-   "description": "Aston Villa are looking to become the first English team to win at the Nou Camp in almost 20 years.",
-   "category": "Tactics & Analysis",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-03T07:33:17.000Z",
-   "fetched_at": "2026-11-03T11:40:30.213Z",
-   "body": [
-    "Our briefing: Aston Villa are looking to become the first English team to win at the Nou Camp in almost 20 years.",
-    "Aston Villa are looking to become the first English team to win at the Nou Camp in almost 20 years.",
-    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "guardian-don-t-call-it-remontada-emery-s-camp-nou-comebac",
-   "slug": "don-t-call-it-a-remontada-emery-s-camp-nou-comeback-focuses--mebac",
-   "title": "Don’t call it a remontada: Emery’s Camp Nou comeback focuses European blur",
-   "dek": "The expanded Champions League is often shapeless, but Aston Villa’s manager returning to the scene of his greatest trauma stands out “One more match. Just one more…",
-   "description": "The expanded Champions League is often shapeless, but Aston Villa’s manager returning to the scene of his greatest trauma stands out “One more match. Just one more match.” Sure, Unai. Sure. Just like all the other matches that generated a local tremor measured at 1 on the Richter scale when that seventh and final goal went in at the Camp Nou in March 2017. It was inevitable that Unai Emery would be asked about the Remontada game on the eve of Aston Villa’s Champions League engagement with Barcelona, his own first trip back to the Camp Nou in this competition since one of the most visceral and traumatic experiences of his managerial career. Continue reading...",
-   "category": "Match Reports",
-   "league": "Football",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-11-03T07:30:41.000Z",
-   "fetched_at": "2026-11-03T11:40:30.287Z",
-   "body": [
-    "Our briefing: The expanded Champions League is often shapeless, but Aston Villa’s manager returning to the scene of his greatest trauma stands out “One more match. Just one more…",
-    "The expanded Champions League is often shapeless, but Aston Villa’s manager returning to the scene of his greatest trauma stands out “One more match. Just one more match. ” Sure, Unai.",
-    "Sure. Just like all the other matches that generated a local tremor measured at 1 on the Richter scale when that seventh and final goal went in at the Camp Nou in March 2017. It was inevitable that Unai Emery would be asked about the Remontada game on the eve of Aston Villa’s Champions League engagement with Barcelona, his own first trip back to the Camp Nou in this competition since one of the most visceral and traumatic experiences of his managerial career.",
-    "Continue reading...",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Kashima_Soccer_Stadium_6.jpg/960px-Kashima_Soccer_Stadium_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
-  },
-  {
-   "id": "independent-david-moyes-salutes-everton-after-successive-win",
-   "slug": "david-moyes-salutes-everton-after-successive-wins-against-ne-e-win",
-   "title": "David Moyes salutes Everton after successive wins against Newcastle",
-   "dek": "The Toffees backed up their 3-1 Carabao Cup victory last Thursday with a 1-0 success at St James’ Park",
-   "description": "The Toffees backed up their 3-1 Carabao Cup victory last Thursday with a 1-0 success at St James’ Park",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-11-03T07:17:03.000Z",
-   "fetched_at": "2026-11-03T11:40:30.344Z",
-   "body": [
-    "Our briefing: The Toffees backed up their 3-1 Carabao Cup victory last Thursday with a 1-0 success at St James’ Park",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Fulham_v_Newcastle_United_24052026_%281%29.jpg/960px-Fulham_v_Newcastle_United_24052026_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "bbc-asian-cup-postponed-wake-attacks-saudi-arabia",
-   "slug": "asian-cup-postponed-in-wake-of-attacks-on-saudi-arabia-rabia",
-   "title": "Asian Cup postponed in wake of attacks on Saudi Arabia",
-   "dek": "The 2027 Asian Cup in Saudi Arabia is postponed because of a series of deadly attacks on the host country.",
-   "description": "The 2027 Asian Cup in Saudi Arabia is postponed because of a series of deadly attacks on the host country.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-03T07:15:17.000Z",
-   "fetched_at": "2026-11-03T11:40:30.214Z",
-   "body": [
-    "Our briefing: The 2027 Asian Cup in Saudi Arabia is postponed because of a series of deadly attacks on the host country.",
-    "The 2027 Asian Cup in Saudi Arabia is postponed because of a series of deadly attacks on the host country.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "independent-baffling-question-surrounding-unai-emery-aston-v",
-   "slug": "the-baffling-question-surrounding-unai-emery-and-aston-villa-ton-v",
-   "title": "The baffling question surrounding Unai Emery and Aston Villa ahead of Barcelona showdown",
-   "dek": "Emery has worked wonders at Villa Park, with a Champions League trip to Camp Nou the latest reward, but where his managerial future lies continues to be a topic of debate",
-   "description": "Emery has worked wonders at Villa Park, with a Champions League trip to Camp Nou the latest reward, but where his managerial future lies continues to be a topic of debate",
-   "category": "Previews",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-11-03T07:10:40.000Z",
-   "fetched_at": "2026-11-03T11:40:30.344Z",
-   "body": [
-    "Our briefing: Emery has worked wonders at Villa Park, with a Champions League trip to Camp Nou the latest reward, but where his managerial future lies continues to be a topic of debate",
-    "Team news can change right up to kick-off. Bookmark this story for the final line-ups and confirmed sides.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Aston_Villa_v_Hibs_-_April_1887.jpg/960px-Aston_Villa_v_Hibs_-_April_1887.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "independent-magical-night-man-united-must-replicate-halt-sli",
-   "slug": "the-magical-night-man-united-must-replicate-to-halt-slide-in-t-sli",
-   "title": "The ‘magical night’ Man United must replicate to halt slide into chaos",
-   "dek": "With a fractured dressing room and fans in open revolt, the beleaguered head coach needs a result against Roma akin to their 2007 triumph to arrest the club’s decline",
-   "description": "With a fractured dressing room and fans in open revolt, the beleaguered head coach needs a result against Roma akin to their 2007 triumph to arrest the club’s decline",
-   "category": "News",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-11-03T07:07:35.000Z",
-   "fetched_at": "2026-11-03T11:40:30.344Z",
-   "body": [
-    "Our briefing: With a fractured dressing room and fans in open revolt, the beleaguered head coach needs a result against Roma akin to their 2007 triumph to arrest the club’s decline",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "bbc-referee-who-became-role-model-after-bouncing-bac",
-   "slug": "the-referee-who-became-a-role-model-after-bouncing-back-from-g-bac",
-   "title": "The referee who became a role model after bouncing back from Diaz error",
-   "dek": "Referee Darren England shares how he has moved on from the VAR error that stalled his career to the FA Cup final and the Champions League.",
-   "description": "Referee Darren England shares how he has moved on from the VAR error that stalled his career to the FA Cup final and the Champions League.",
-   "category": "Tactics & Analysis",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-03T06:41:31.000Z",
-   "fetched_at": "2026-11-03T11:40:30.213Z",
-   "body": [
-    "Our briefing: Referee Darren England shares how he has moved on from the VAR error that stalled his career to the FA Cup final and the Champions League.",
-    "Referee Darren England shares how he has moved on from the VAR error that stalled his career to the FA Cup final and the Champions League.",
-    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "bbc-who-am-i-plus-today-s-other-quizzes",
-   "slug": "who-am-i-plus-today-s-other-quizzes-izzes",
-   "title": "Who am I? Plus today's other quizzes",
-   "dek": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-   "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-03T06:12:20.000Z",
-   "fetched_at": "2026-11-03T11:40:30.214Z",
-   "body": [
-    "Our briefing: Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-    "Test your ball knowledge against today's Who Am I? , Five in Five and Brainteaser.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Soccer_fans_put_town_in_siege_%28FL62506945%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506945%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "guardian-socceroos-matildas-sue-football-australia-over-r",
-   "slug": "socceroos-and-matildas-sue-football-australia-over-revenue-s-ver-r",
-   "title": "Socceroos and Matildas sue Football Australia over revenue share dispute",
-   "dek": "Union is pursuing seven-figure sum on behalf of players Central issue believed to surround FA’s commercial deals Socceroos and Matildas players have sued Football…",
-   "description": "Union is pursuing seven-figure sum on behalf of players Central issue believed to surround FA’s commercial deals Socceroos and Matildas players have sued Football Australia as part of a multi-million dollar dispute between the governing body and its national team players. AAP understands the players’ union, Professional Footballers Australia (PFA), is pursuing FA for a seven-figure sum on behalf of the players. Continue reading...",
-   "category": "News",
-   "league": "Football",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-11-03T03:15:23.000Z",
-   "fetched_at": "2026-11-03T11:40:30.287Z",
-   "body": [
-    "Our briefing: Union is pursuing seven-figure sum on behalf of players Central issue believed to surround FA’s commercial deals Socceroos and Matildas players have sued Football…",
-    "Union is pursuing seven-figure sum on behalf of players Central issue believed to surround FA’s commercial deals Socceroos and Matildas players have sued Football Australia as part of a multi-million dollar dispute between the governing body and its national team players. AAP understands the players’ union, Professional Footballers Australia (PFA), is pursuing FA for a seven-figure sum on behalf of the players. Continue reading...",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Soccer_fans_put_town_in_siege_%28FL62506613%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506613%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "bbc-jeers-again-home-woes-continue-jaissle-has-big-p",
-   "slug": "jeers-again-as-home-woes-continue-jaissle-has-big-problems-a-big-p",
-   "title": "Jeers again as home woes continue - Jaissle has big problems at Newcastle",
-   "dek": "Three months into a four-year contract, the problems are mounting for Newcastle boss Matthias Jaissle as his side are booed off the pitch by fans following another…",
-   "description": "Three months into a four-year contract, the problems are mounting for Newcastle boss Matthias Jaissle as his side are booed off the pitch by fans following another defeat.",
-   "category": "Transfers & Rumours",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-02T23:53:46.000Z",
-   "fetched_at": "2026-11-03T11:40:30.213Z",
-   "body": [
-    "Our briefing: Three months into a four-year contract, the problems are mounting for Newcastle boss Matthias Jaissle as his side are booed off the pitch by fans following another…",
-    "Three months into a four-year contract, the problems are mounting for Newcastle boss Matthias Jaissle as his side are booed off the pitch by fans following another defeat.",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Outside_Newcastle_Central_Station_-_geograph.org.uk_-_2661040.jpg/960px-Outside_Newcastle_Central_Station_-_geograph.org.uk_-_2661040.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "David Hillas — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-nightmare-debut-season-everton-hero-barry-s-revi",
-   "slug": "from-nightmare-debut-season-to-everton-hero-barry-s-revival--revi",
-   "title": "From nightmare debut season to Everton hero - Barry's revival",
-   "dek": "Last season Thierno Barry scored eight goals in 41 appearances. This season it's taken him just 12 games to match that tally.",
-   "description": "Last season Thierno Barry scored eight goals in 41 appearances. This season it's taken him just 12 games to match that tally.",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-02T23:28:17.000Z",
-   "fetched_at": "2026-11-03T11:40:30.213Z",
-   "body": [
-    "Our briefing: Last season Thierno Barry scored eight goals in 41 appearances. This season it's taken him just 12 games to match that tally.",
-    "Last season Thierno Barry scored eight goals in 41 appearances. This season it's taken him just 12 games to match that tally.",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Everton_v_tottenham_arg_match_1909.jpg/960px-Everton_v_tottenham_arg_match_1909.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "bbc-grealish-can-still-have-everton-future-moyes",
-   "slug": "grealish-can-still-have-everton-future-moyes-moyes",
-   "title": "Grealish can still have Everton future - Moyes",
-   "dek": "Everton boss David Moyes says there is a way back for Jack Grealish at the club - but does not know when he might return to the team.",
-   "description": "Everton boss David Moyes says there is a way back for Jack Grealish at the club - but does not know when he might return to the team.",
-   "category": "News",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-02T23:14:27.000Z",
-   "fetched_at": "2026-11-03T11:40:30.213Z",
-   "body": [
-    "Our briefing: Everton boss David Moyes says there is a way back for Jack Grealish at the club - but does not know when he might return to the team.",
-    "Everton boss David Moyes says there is a way back for Jack Grealish at the club - but does not know when he might return to the team.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Victoria_Tower_and_construction_of_the_new_Everton_Stadium_%28geograph_7449307%29.jpg/960px-Victoria_Tower_and_construction_of_the_new_Everton_Stadium_%28geograph_7449307%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "James T M Towill — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-who-has-made-troy-s-premier-league-team-week",
-   "slug": "who-has-made-troy-s-premier-league-team-of-the-week--week",
-   "title": "Who has made Troy's Premier League team of the week?",
-   "dek": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
-   "description": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
-   "category": "News",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-02T23:09:36.000Z",
-   "fetched_at": "2026-11-03T11:40:30.213Z",
-   "body": [
-    "Our briefing: After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
-    "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Soccer_fans_put_town_in_siege_%28FL62506919%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506919%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "bbc-jaissle-unhappy-clear-foul-before-barry-goal",
-   "slug": "jaissle-unhappy-with-clear-foul-before-barry-goal--goal",
-   "title": "Jaissle unhappy with 'clear foul' before Barry goal",
-   "dek": "Newcastle United head coach Matthias Jaissle takes issue with referee John Brooks' decision not to call a \"clear foul\" on Fabian Schar in the build-up to Thierno Barry's…",
-   "description": "Newcastle United head coach Matthias Jaissle takes issue with referee John Brooks' decision not to call a \"clear foul\" on Fabian Schar in the build-up to Thierno Barry's goal in their loss to Everton in the Premier League.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-02T23:01:13.000Z",
-   "fetched_at": "2026-11-03T11:40:30.213Z",
-   "body": [
-    "Our briefing: Newcastle United head coach Matthias Jaissle takes issue with referee John Brooks' decision not to call a \"clear foul\" on Fabian Schar in the build-up to Thierno Barry's…",
-    "Newcastle United head coach Matthias Jaissle takes issue with referee John Brooks' decision not to call a \"clear foul\" on Fabian Schar in the build-up to Thierno Barry's goal in their loss to Everton in the Premier League.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ]
-  },
-  {
-   "id": "bbc-he-s-unavailable-moyes-tight-lipped-grealish",
-   "slug": "he-s-unavailable-moyes-tight-lipped-on-grealish-alish",
-   "title": "'He's unavailable' - Moyes tight-lipped on Grealish",
-   "dek": "Everton manager David Moyes' post-match reaction to his side's one-goal win against struggling Newcastle United, as well as the availability of Jack Grealish following…",
-   "description": "Everton manager David Moyes' post-match reaction to his side's one-goal win against struggling Newcastle United, as well as the availability of Jack Grealish following disciplinary action.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-02T22:54:52.000Z",
-   "fetched_at": "2026-11-03T11:40:30.213Z",
-   "body": [
-    "Our briefing: Everton manager David Moyes' post-match reaction to his side's one-goal win against struggling Newcastle United, as well as the availability of Jack Grealish following…",
-    "Everton manager David Moyes' post-match reaction to his side's one-goal win against struggling Newcastle United, as well as the availability of Jack Grealish following disciplinary action.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ]
-  },
-  {
-   "id": "bbc-everton-hold-off-newcastle-move-into-seventh",
-   "slug": "everton-hold-off-newcastle-to-move-into-seventh-venth",
-   "title": "Everton hold off Newcastle to move into seventh",
-   "dek": "Thierno Barry scores against Newcastle United for the second time in five days as his Everton side earn a narrow win at St James' Park in the Premier League.",
-   "description": "Thierno Barry scores against Newcastle United for the second time in five days as his Everton side earn a narrow win at St James' Park in the Premier League.",
-   "category": "News",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-02T22:44:30.000Z",
-   "fetched_at": "2026-11-03T11:40:30.213Z",
-   "body": [
-    "Our briefing: Thierno Barry scores against Newcastle United for the second time in five days as his Everton side earn a narrow win at St James' Park in the Premier League.",
-    "Thierno Barry scores against Newcastle United for the second time in five days as his Everton side earn a narrow win at St James' Park in the Premier League.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Newcastle_Fans_at_Stadium_of_Light_-_geograph.org.uk_-_7688866.jpg/960px-Newcastle_Fans_at_Stadium_of_Light_-_geograph.org.uk_-_7688866.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Les Hull — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-arsenal-want-kroupi-january-tuesday-s-gossip",
-   "slug": "arsenal-want-kroupi-in-january-tuesday-s-gossip-ossip",
-   "title": "Arsenal want Kroupi in January - Tuesday's gossip",
-   "dek": "Arsenal want to boost their striking options with Bournemouth's Eli Junior Kroupi, Manchester United scout Borussia Dortmund quartet, plus more.",
-   "description": "Arsenal want to boost their striking options with Bournemouth's Eli Junior Kroupi, Manchester United scout Borussia Dortmund quartet, plus more.",
-   "category": "News",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-02T22:24:56.000Z",
-   "fetched_at": "2026-11-03T11:40:30.214Z",
-   "body": [
-    "Our briefing: Arsenal want to boost their striking options with Bournemouth's Eli Junior Kroupi, Manchester United scout Borussia Dortmund quartet, plus more.",
-    "Arsenal want to boost their striking options with Bournemouth's Eli Junior Kroupi, Manchester United scout Borussia Dortmund quartet, plus more.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Arsenal_Stadium_Highbury_east_facade.jpg/960px-Arsenal_Stadium_Highbury_east_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "No machine-readable author provided. Qwghlm~commonswiki assumed (based on copyright claims). — CC BY-SA 3.0"
-  },
-  {
-   "id": "independent-everton-beat-newcastle-again-10-man-magpies-booe",
-   "slug": "everton-beat-newcastle-again-as-10-man-magpies-booed-off-by---booe",
-   "title": "Everton beat Newcastle again as 10-man Magpies booed off by own fans after dismal display",
-   "dek": "Newcastle 0-1 Everton: The Magpies slipped to their second defeat against Everton in the space of four days",
-   "description": "Newcastle 0-1 Everton: The Magpies slipped to their second defeat against Everton in the space of four days",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-11-02T22:24:16.000Z",
-   "fetched_at": "2026-11-03T11:40:30.344Z",
-   "body": [
-    "Our briefing: Newcastle 0-1 Everton: The Magpies slipped to their second defeat against Everton in the space of four days",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Manchester_United_v_Newcastle_United%2C_11_September_2021_%2810%29.jpg/960px-Manchester_United_v_Newcastle_United%2C_11_September_2021_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ardfern — CC BY-SA 4.0"
-  },
-  {
-   "id": "guardian-fifa-share-documents-world-cup-sell-off-plans-co",
-   "slug": "fifa-to-share-documents-on-world-cup-sell-off-plans-with-cou-ns-co",
-   "title": "Fifa to share documents on World Cup sell-off plans with council members",
-   "dek": "Viewings to take place at Fifa’s headquarters in Zurich No direct response to Uefa’s questions on governance Fifa will grant its council members access to documents…",
-   "description": "Viewings to take place at Fifa’s headquarters in Zurich No direct response to Uefa’s questions on governance Fifa will grant its council members access to documents regarding the doomed Fifa Forward Enterprise scheme but has not responded directly to more than 50 questions from Uefa about its governance and recent scandals. In a letter sent to the Fifa Council by Mattias Grafström, the governing body’s secretary general, members were told material relating to FFE will be released for them to view in person at Fifa’s headquarters in Zurich. They will be allowed only to view the documents, of which the exact nature and scope are unclear, under strict confidentiality protocols. A deadline of 16 November has been set to apply for such visits; eyebrows may be raised in some quarters about the fact this is two days before candidates for the Fifa election next year are required to declare their hand. Continue reading...",
-   "category": "News",
-   "league": "International",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-11-02T22:23:20.000Z",
-   "fetched_at": "2026-11-03T11:40:30.287Z",
-   "body": [
-    "Our briefing: Viewings to take place at Fifa’s headquarters in Zurich No direct response to Uefa’s questions on governance Fifa will grant its council members access to documents…",
-    "Viewings to take place at Fifa’s headquarters in Zurich No direct response to Uefa’s questions on governance Fifa will grant its council members access to documents regarding the doomed Fifa Forward Enterprise scheme but has not responded directly to more than 50 questions from Uefa about its governance and recent scandals. In a letter sent to the Fifa Council by Mattias Grafström, the governing body’s secretary general, members were told material relating to FFE will be released for them to view in person at Fifa’s headquarters in Zurich. They will be allowed only to view the documents, of which the exact nature and scope are unclear, under strict confidentiality protocols.",
-    "A deadline of 16 November has been set to apply for such visits; eyebrows may be raised in some quarters about the fact this is two days before candidates for the Fifa election next year are required to declare their hand. Continue reading...",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Guardian."
-   ]
-  },
-  {
-   "id": "bbc-who-produced-kind-performance-moyes-loves-player",
-   "slug": "who-produced-the-kind-of-performance-moyes-loves-player-rati-layer",
-   "title": "Who produced the kind of performance Moyes loves? - player ratings",
-   "dek": "Newcastle United and Everton's players rated following their Premier League match.",
-   "description": "Newcastle United and Everton's players rated following their Premier League match.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-02T22:08:43.000Z",
-   "fetched_at": "2026-11-03T11:40:30.214Z",
-   "body": [
-    "Our briefing: Newcastle United and Everton's players rated following their Premier League match.",
-    "Newcastle United and Everton's players rated following their Premier League match.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ]
-  },
-  {
-   "id": "guardian-newcastle-unrest-grows-barry-everton-give-jaissl",
-   "slug": "newcastle-unrest-grows-as-barry-and-everton-give-jaissle-ano-aissl",
-   "title": "Newcastle unrest grows as Barry and Everton give Jaissle another headache",
-   "dek": "Jack Grealish will do well to get back into the Everton starting lineup when he returns to the squad – as David Moyes’s side are doing just fine without him. Newcastle…",
-   "description": "Jack Grealish will do well to get back into the Everton starting lineup when he returns to the squad – as David Moyes’s side are doing just fine without him. Newcastle were condemned to a second defeat in five days by Moyes’s young team, with a second-half goal from Thierno Barry giving Everton victory against opponents who ended with 10 men after the substitute Jacob Ramsey’s late red card. Continue reading...",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-11-02T22:04:11.000Z",
-   "fetched_at": "2026-11-03T11:40:30.287Z",
-   "body": [
-    "Our briefing: Jack Grealish will do well to get back into the Everton starting lineup when he returns to the squad – as David Moyes’s side are doing just fine without him. Newcastle…",
-    "Jack Grealish will do well to get back into the Everton starting lineup when he returns to the squad – as David Moyes’s side are doing just fine without him. Newcastle were condemned to a second defeat in five days by Moyes’s young team, with a second-half goal from Thierno Barry giving Everton victory against opponents who ended with 10 men after the substitute Jacob Ramsey’s late red card. Continue reading...",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Fulham_v_Newcastle_United_24052026_%282%29.jpg/960px-Fulham_v_Newcastle_United_24052026_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "bbc-kane-would-swap-ballon-d-or-champions-league-vic",
-   "slug": "kane-would-swap-ballon-d-or-for-champions-league-victory-e-vic",
-   "title": "Kane would swap Ballon d'Or for Champions League victory",
-   "dek": "Bayern Munich striker Harry Kane says he would swap his Ballon d'Or trophy for a Champions League winner's medal.",
-   "description": "Bayern Munich striker Harry Kane says he would swap his Ballon d'Or trophy for a Champions League winner's medal.",
-   "category": "Match Reports",
-   "league": "Champions League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-02T21:46:42.000Z",
-   "fetched_at": "2026-11-03T11:40:30.214Z",
-   "body": [
-    "Our briefing: Bayern Munich striker Harry Kane says he would swap his Ballon d'Or trophy for a Champions League winner's medal.",
-    "Bayern Munich striker Harry Kane says he would swap his Ballon d'Or trophy for a Champions League winner's medal.",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ]
-  },
-  {
-   "id": "bbc-football-daily",
-   "slug": "daily-daily",
-   "title": "Daily",
-   "dek": "Are Villa being hindered, should Carragher have apologised, & can Serie A succeed again?",
-   "description": "Are Villa being hindered, should Carragher have apologised, & can Serie A succeed again?",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-02T21:20:00.000Z",
-   "fetched_at": "2026-11-03T11:40:30.214Z",
-   "body": [
-    "Our briefing: Are Villa being hindered, should Carragher have apologised, & can Serie A succeed again?",
-    "Are Villa being hindered, should Carragher have apologised, & can Serie A succeed again?",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ]
   }
