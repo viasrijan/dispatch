@@ -1,19 +1,6 @@
 {
- "generated_at": "2026-11-04T00:06:44.521Z",
+ "generated_at": "2026-11-04T06:52:45.843Z",
  "matches": [
-  {
-   "league": "La Liga",
-   "home": "Sevilla",
-   "away": "Alavés",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, November 6th at 3:00 PM EST",
-   "date": "2026-11-06T20:00Z"
-  },
   {
    "league": "Serie A",
    "home": "Venezia",
@@ -26,6 +13,19 @@
    "clock": "",
    "time": "Fri, November 6th at 2:45 PM EST",
    "date": "2026-11-06T19:45Z"
+  },
+  {
+   "league": "Bundesliga",
+   "home": "Hamburg SV",
+   "away": "Borussia Mönchengladbach",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, November 6th at 2:30 PM EST",
+   "date": "2026-11-06T19:30Z"
   },
   {
    "league": "Premier League",
@@ -54,17 +54,17 @@
    "date": "2026-11-06T19:45Z"
   },
   {
-   "league": "Bundesliga",
-   "home": "Hamburg SV",
-   "away": "Borussia Mönchengladbach",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
+   "league": "La Liga",
+   "home": "Sevilla",
+   "away": "Alavés",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
    "homeScore": 0,
    "awayScore": 0,
    "status": "pre",
    "clock": "",
-   "time": "Fri, November 6th at 2:30 PM EST",
-   "date": "2026-11-06T19:30Z"
+   "time": "Fri, November 6th at 3:00 PM EST",
+   "date": "2026-11-06T20:00Z"
   }
  ]
 }
