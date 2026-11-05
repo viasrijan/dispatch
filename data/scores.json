@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T01:42:13.842Z",
+ "generated_at": "2026-11-05T09:04:08.365Z",
  "matches": [
   {
    "league": "La Liga",
@@ -13,19 +13,6 @@
    "clock": "",
    "time": "Fri, November 6th at 3:00 PM EST",
    "date": "2026-11-06T20:00Z"
-  },
-  {
-   "league": "Serie A",
-   "home": "Venezia",
-   "away": "Udinese",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, November 6th at 2:45 PM EST",
-   "date": "2026-11-06T19:45Z"
   },
   {
    "league": "Premier League",
@@ -59,6 +46,19 @@
    "away": "Strasbourg",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, November 6th at 2:45 PM EST",
+   "date": "2026-11-06T19:45Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Venezia",
+   "away": "Udinese",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
    "homeScore": 0,
    "awayScore": 0,
    "status": "pre",
