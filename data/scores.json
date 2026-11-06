@@ -1,6 +1,58 @@
 {
- "generated_at": "2026-11-06T18:58:48.050Z",
+ "generated_at": "2026-11-06T23:41:57.509Z",
  "matches": [
+  {
+   "league": "Premier League",
+   "home": "Everton",
+   "away": "Coventry City",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
+   "homeScore": 3,
+   "awayScore": 1,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-11-06T20:00Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Venezia",
+   "away": "Udinese",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
+   "homeScore": 2,
+   "awayScore": 1,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-11-06T19:45Z"
+  },
+  {
+   "league": "Bundesliga",
+   "home": "Hamburg SV",
+   "away": "Borussia Mönchengladbach",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
+   "homeScore": 3,
+   "awayScore": 1,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-11-06T19:30Z"
+  },
+  {
+   "league": "Ligue 1",
+   "home": "Toulouse",
+   "away": "Strasbourg",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
+   "homeScore": 3,
+   "awayScore": 1,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-11-06T19:45Z"
+  },
   {
    "league": "La Liga",
    "home": "Sevilla",
@@ -9,62 +61,10 @@
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
    "homeScore": 0,
    "awayScore": 0,
-   "status": "pre",
+   "status": "final",
    "clock": "",
-   "time": "Fri, November 6th at 3:00 PM EST",
+   "time": "FT",
    "date": "2026-11-06T20:00Z"
-  },
-  {
-   "league": "Ligue 1",
-   "home": "Toulouse",
-   "away": "Strasbourg",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, November 6th at 2:45 PM EST",
-   "date": "2026-11-06T19:45Z"
-  },
-  {
-   "league": "Premier League",
-   "home": "Everton",
-   "away": "Coventry City",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, November 6th at 3:00 PM EST",
-   "date": "2026-11-06T20:00Z"
-  },
-  {
-   "league": "Bundesliga",
-   "home": "Hamburg SV",
-   "away": "Borussia Mönchengladbach",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, November 6th at 2:30 PM EST",
-   "date": "2026-11-06T19:30Z"
-  },
-  {
-   "league": "Serie A",
-   "home": "Venezia",
-   "away": "Udinese",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, November 6th at 2:45 PM EST",
-   "date": "2026-11-06T19:45Z"
   }
  ]
 }
