@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-06T23:41:57.508Z",
- "updated_utc": "2026-11-06T23:41Z",
- "cycle": 29900141,
+ "generated_at": "2026-11-07T04:58:18.401Z",
+ "updated_utc": "2026-11-07T04:58Z",
+ "cycle": 29900458,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,8 +16,29 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "bbc-not-good-performance-but-we-got-result-moyes",
+ "hero_id": "guardian-premier-league-news-arteta-insists-rice-isn-t-pl",
  "articles": [
+  {
+   "id": "bbc-england-disappointment-fuels-dewsbury-hall-s-eve",
+   "slug": "england-disappointment-fuels-dewsbury-hall-s-everton-heroics-s-eve",
+   "title": "England 'disappointment' fuels Dewsbury-Hall's Everton heroics",
+   "dek": "Kiernan Dewsbury-Hall responds to his England omission by scoring a stunning goal to inspire Everton's 3-1 comeback victory over Coventry City.",
+   "description": "Kiernan Dewsbury-Hall responds to his England omission by scoring a stunning goal to inspire Everton's 3-1 comeback victory over Coventry City.",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-06T23:53:06.000Z",
+   "fetched_at": "2026-11-07T04:58:11.131Z",
+   "body": [
+    "Our briefing: Kiernan Dewsbury-Hall responds to his England omission by scoring a stunning goal to inspire Everton's 3-1 comeback victory over Coventry City.",
+    "Kiernan Dewsbury-Hall responds to his England omission by scoring a stunning goal to inspire Everton's 3-1 comeback victory over Coventry City.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Everton_v_tottenham_arg_match_1909.jpg/960px-Everton_v_tottenham_arg_match_1909.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
   {
    "id": "bbc-leicester-hold-nerve-knock-out-sixth-tier-oxford",
    "slug": "leicester-hold-nerve-to-knock-out-sixth-tier-oxford-city-xford",
@@ -29,7 +50,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-06T23:37:23.000Z",
-   "fetched_at": "2026-11-06T23:41:50.015Z",
+   "fetched_at": "2026-11-07T04:58:11.132Z",
    "body": [
     "Our briefing: League One side, and 2021 champions, Leicester City avoid an upset as they beat sixth-tier Oxford City 4-2 at the MGroup Stadium, to reach the second round of the FA Cup.",
     "League One side, and 2021 champions, Leicester City avoid an upset as they beat sixth-tier Oxford City 4-2 at the MGroup Stadium, to reach the second round of the FA Cup.",
@@ -50,7 +71,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-06T23:26:39.000Z",
-   "fetched_at": "2026-11-06T23:41:50.015Z",
+   "fetched_at": "2026-11-07T04:58:11.132Z",
    "body": [
     "Our briefing: League Two side Bristol Rovers end a run of six matches without a win, as they shock League One side Cambridge United, beating them 2-0 at the Memorial Stadium, to reach…",
     "League Two side Bristol Rovers end a run of six matches without a win, as they shock League One side Cambridge United, beating them 2-0 at the Memorial Stadium, to reach the second round of the FA Cup.",
@@ -71,7 +92,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-06T23:22:21.000Z",
-   "fetched_at": "2026-11-06T23:41:50.014Z",
+   "fetched_at": "2026-11-07T04:58:11.132Z",
    "body": [
     "Our briefing: Coventry had a trio of decisions go against them in defeat at Everton, with Frank Lampard suggesting a hair pull should have been a penalty.",
     "Coventry had a trio of decisions go against them in defeat at Everton, with Frank Lampard suggesting a hair pull should have been a penalty.",
@@ -92,7 +113,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-11-06T23:09:22.000Z",
-   "fetched_at": "2026-11-06T23:41:50.081Z",
+   "fetched_at": "2026-11-07T04:58:11.243Z",
    "body": [
     "Our briefing: The Arsenal manager says ‘we’re really looking after’ midfielder, while Andoni Iraola backs keeper Alisson Continue reading...",
     "The Arsenal manager says ‘we’re really looking after’ midfielder, while Andoni Iraola backs keeper Alisson Continue reading...",
@@ -113,7 +134,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-06T22:40:58.000Z",
-   "fetched_at": "2026-11-06T23:41:50.015Z",
+   "fetched_at": "2026-11-07T04:58:11.133Z",
    "body": [
     "Our briefing: Coventry City head coach Frank Lampard is frustrated after three \"big decisions\" went against his side in their 3-1 defeat by Everton at the Hill Dickinson Stadium.",
     "Coventry City head coach Frank Lampard is frustrated after three \"big decisions\" went against his side in their 3-1 defeat by Everton at the Hill Dickinson Stadium.",
@@ -134,14 +155,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-06T22:40:56.000Z",
-   "fetched_at": "2026-11-06T23:41:50.015Z",
+   "fetched_at": "2026-11-07T04:58:11.133Z",
    "body": [
     "Our briefing: Everton manager David Moyes is pleased with his side's reaction to turn around a one goal deficit to win 3-1 against Coventry, but isn't pleased with their overall…",
     "Everton manager David Moyes is pleased with his side's reaction to turn around a one goal deficit to win 3-1 against Coventry, but isn't pleased with their overall performance.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -155,15 +176,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-06T22:30:12.000Z",
-   "fetched_at": "2026-11-06T23:41:50.014Z",
+   "fetched_at": "2026-11-07T04:58:11.132Z",
    "body": [
     "Our briefing: In-form Thierno Barry scores twice as Everton came from behind to beat Coventry as the Toffees move into fifth in the Premier League table.",
     "In-form Thierno Barry scores twice as Everton came from behind to beat Coventry as the Toffees move into fifth in the Premier League table.",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Everton_v_tottenham_arg_match_1909.jpg/960px-Everton_v_tottenham_arg_match_1909.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Manchester_City_v_Everton_2006-2007_-_geograph.org.uk_-_3897371.jpg/960px-Manchester_City_v_Everton_2006-2007_-_geograph.org.uk_-_3897371.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Richard Cooke — CC BY-SA 2.0"
   },
   {
    "id": "independent-thierno-barry-shows-his-prowess-again-everton-st",
@@ -176,15 +197,15 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-11-06T22:29:21.000Z",
-   "fetched_at": "2026-11-06T23:41:50.147Z",
+   "fetched_at": "2026-11-07T04:58:11.452Z",
    "body": [
     "Our briefing: Everton 3-1 Coventry City: The forward’s form as the club’s only recognised striker is proving a major boost. Only Erling Haaland has scored more than him in the League",
     "Everton 3-1 Coventry City: The forward’s form as the club’s only recognised striker is proving a major boost.",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Manchester_City_v_Everton_2006-2007_-_geograph.org.uk_-_3897371.jpg/960px-Manchester_City_v_Everton_2006-2007_-_geograph.org.uk_-_3897371.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Richard Cooke — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/OL-Everton_-_nov_2017_-_Match.jpg/960px-OL-Everton_-_nov_2017_-_Match.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Sebleouf — CC BY-SA 4.0"
   },
   {
    "id": "bbc-raith-rovers-go-top-dunfermline-draw",
@@ -197,15 +218,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-06T22:06:01.000Z",
-   "fetched_at": "2026-11-06T23:41:50.015Z",
+   "fetched_at": "2026-11-07T04:58:11.133Z",
    "body": [
     "Our briefing: Watch highlights as Raith Rovers take over at the top of the Scottish Championship from Partick Thistle on goal difference, with visitors Dunfermline Athletic third on…",
     "Watch highlights as Raith Rovers take over at the top of the Scottish Championship from Partick Thistle on goal difference, with visitors Dunfermline Athletic third on the same points as the Fife derby ends goalless.",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Duke_soccer_match_1960_01.jpg/960px-Duke_soccer_match_1960_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
   },
   {
    "id": "bbc-watch-raith-rovers-go-top-dunfermline-draw",
@@ -218,32 +239,33 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-06T22:06:01.000Z",
-   "fetched_at": "2026-11-06T23:41:50.018Z",
+   "fetched_at": "2026-11-07T04:58:11.134Z",
    "body": [
     "Our briefing: Watch highlights as Raith Rovers take over at the top of the Scottish Championship from Partick Thistle on goal difference, with visitors Dunfermline Athletic third on…",
     "Watch highlights as Raith Rovers take over at the top of the Scottish Championship from Partick Thistle on goal difference, with visitors Dunfermline Athletic third on the same points as the Fife derby ends goalless.",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
    "id": "guardian-thierno-barry-double-fires-everton-comeback-win-",
    "slug": "thierno-barry-double-fires-everton-to-comeback-win-against-c--win-",
    "title": "Thierno Barry double fires Everton to comeback win against Coventry",
-   "dek": "The most optimistic Evertonian – if that is not an oxymoron – could not have envisaged David Moyes’s team sitting fifth in the Premier League and Thierno Barry just…",
-   "description": "The most optimistic Evertonian – if that is not an oxymoron – could not have envisaged David Moyes’s team sitting fifth in the Premier League and Thierno Barry just behind Erling Haaland in the goalscoring chart at the end of the club’s calamitous transfer window. Yet there they are, team and striker defying all expectations, following a rousing if fortuitous comeback against luckless Coventry. Frank Lampard endured a torturous night against his old club as Coventry had two strong penalty shouts dismissed while the second of Barry’s double, taking him to 10 goals for the season in all competitions, appeared to come off his arm. Kiernan Dewsbury-Hall sealed Everton’s third consecutive win in convincing style late on. Continue reading...",
+   "dek": "The wildly optimistic Evertonian – if such a being exists – could not have envisaged David Moyes’ side fifth in the Premier League with Thierno Barry just behind Erling…",
+   "description": "The wildly optimistic Evertonian – if such a being exists – could not have envisaged David Moyes’ side fifth in the Premier League with Thierno Barry just behind Erling Haaland in the goalscoring chart when their transfer window closed in calamitous fashion. Yet there they sit, team and striker defying all expectations, following a stirring comeback against luckless Coventry. Frank Lampard endured a torturous night against his old club as Coventry impressed but were refused two strong penalty claims. The Coventry manager felt his team were denied a third time by the video assistant referee for an apparent handball by Barry when edging Everton ahead. Replays were inconclusive. It was the dancing French forward’s second goal of the game and 10th in all competitions this season. He also delivered a fine assist for Kiernan Dewsbury-Hall as the in-form midfielder put his latest England disappointment behind him to seal victory in convincing style. Continue reading...",
    "category": "Transfers & Rumours",
    "league": "Premier League",
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-11-06T22:03:48.000Z",
-   "fetched_at": "2026-11-06T23:41:50.081Z",
+   "fetched_at": "2026-11-07T04:58:11.243Z",
    "body": [
-    "Our briefing: The most optimistic Evertonian – if that is not an oxymoron – could not have envisaged David Moyes’s team sitting fifth in the Premier League and Thierno Barry just…",
-    "The most optimistic Evertonian – if that is not an oxymoron – could not have envisaged David Moyes’s team sitting fifth in the Premier League and Thierno Barry just behind Erling Haaland in the goalscoring chart at the end of the club’s calamitous transfer window. Yet there they are, team and striker defying all expectations, following a rousing if fortuitous comeback against luckless Coventry. Frank Lampard endured a torturous night against his old club as Coventry had two strong penalty shouts dismissed while the second of Barry’s double, taking him to 10 goals for the season in all competitions, appeared to come off his arm.",
-    "Kiernan Dewsbury-Hall sealed Everton’s third consecutive win in convincing style late on. Continue reading...",
+    "Our briefing: The wildly optimistic Evertonian – if such a being exists – could not have envisaged David Moyes’ side fifth in the Premier League with Thierno Barry just behind Erling…",
+    "The wildly optimistic Evertonian – if such a being exists – could not have envisaged David Moyes’ side fifth in the Premier League with Thierno Barry just behind Erling Haaland in the goalscoring chart when their transfer window closed in calamitous fashion. Yet there they sit, team and striker defying all expectations, following a stirring comeback against luckless Coventry. Frank Lampard endured a torturous night against his old club as Coventry impressed but were refused two strong penalty claims.",
+    "The Coventry manager felt his team were denied a third time by the video assistant referee for an apparent handball by Barry when edging Everton ahead. Replays were inconclusive. It was the dancing French forward’s second goal of the game and 10th in all competitions this season.",
+    "He also delivered a fine assist for Kiernan Dewsbury-Hall as the in-form midfielder put his latest England disappointment behind him to seal victory in convincing style. Continue reading...",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Guardian."
    ],
@@ -261,7 +283,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-06T21:08:04.000Z",
-   "fetched_at": "2026-11-06T23:41:50.014Z",
+   "fetched_at": "2026-11-07T04:58:11.132Z",
    "body": [
     "Our briefing: Paris St-Germain and Real Madrid interested in Aston Villa keeper Zion Suzuki, Inter Milan weighing up move for Crystal Palace's Chris Richards, plus more.",
     "Paris St-Germain and Real Madrid interested in Aston Villa keeper Zion Suzuki, Inter Milan weighing up move for Crystal Palace's Chris Richards, plus more.",
@@ -282,14 +304,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-11-06T19:53:37.000Z",
-   "fetched_at": "2026-11-06T23:41:50.147Z",
+   "fetched_at": "2026-11-07T04:58:11.452Z",
    "body": [
     "Our briefing: A vintage Old Trafford comeback, encouraging underlying numbers and doubts over the list of potential replacements mean there is a growing sense that Carrick could yet…",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   },
   {
    "id": "bbc-football-daily",
@@ -302,13 +324,13 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-06T19:52:00.000Z",
-   "fetched_at": "2026-11-06T23:41:50.016Z",
+   "fetched_at": "2026-11-07T04:58:11.133Z",
    "body": [
     "Our briefing: John, Ian and Ali tell us what makes a good radio football summariser",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -322,7 +344,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-11-06T19:00:50.000Z",
-   "fetched_at": "2026-11-06T23:41:50.081Z",
+   "fetched_at": "2026-11-07T04:58:11.243Z",
    "body": [
     "Our briefing: Jude had asked head coach to scout Dortmund midfielder ‘It will be beautiful for Jude to have his brother close’ Thomas Tuchel has given a first England call-up to Jobe…",
     "Jude had asked head coach to scout Dortmund midfielder ‘It will be beautiful for Jude to have his brother close’ Thomas Tuchel has given a first England call-up to Jobe Bellingham , admitting the midfielder’s older brother, Jude, had nagged him to do so, as he set up the prospect of their family dream being realised. Tuchel’s inclusion of the younger Bellingham for the Nations League games against Croatia and Spain was further evidence of his shift away from the squad that served him well at the World Cup last summer and towards a fresh dynamic for the mission to win Euro 2028. The manager has named a 25-man group for the game against Croatia at Wembley on Thursday and the one against Spain in Madrid three days after; of the 22 outfield players, only 11 were at the World Cup.",
@@ -344,7 +366,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-11-06T19:00:49.000Z",
-   "fetched_at": "2026-11-06T23:41:50.081Z",
+   "fetched_at": "2026-11-07T04:58:11.243Z",
    "body": [
     "Our briefing: Panic building among fans as club visit Craven Cottage but head coach has resolute support of hierarchy At least Matthias Jaissle has a sense of humour. “There’s a lot of…",
     "Panic building among fans as club visit Craven Cottage but head coach has resolute support of hierarchy At least Matthias Jaissle has a sense of humour. “There’s a lot of storm at the moment,” reflected Newcastle’s head coach on Thursday. A wry smile suggested he was not referring to the north-east weather.",
@@ -389,7 +411,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-11-06T17:53:01.000Z",
-   "fetched_at": "2026-11-06T23:41:50.147Z",
+   "fetched_at": "2026-11-07T04:58:11.452Z",
    "body": [
     "Our briefing: Jorge Jesus insists he has no regrets over the rift with Ronaldo, who brought an end to his 23-year Portugal career without informing the national team manager",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -409,7 +431,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-11-06T17:44:10.000Z",
-   "fetched_at": "2026-11-06T23:41:50.148Z",
+   "fetched_at": "2026-11-07T04:58:11.452Z",
    "body": [
     "Our briefing: The ex-England goalkeeper said that she and her partner had been ‘keeping a little secret’ from fans in announcing the news",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -429,7 +451,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-06T16:44:44.000Z",
-   "fetched_at": "2026-11-06T23:41:50.015Z",
+   "fetched_at": "2026-11-07T04:58:11.132Z",
    "body": [
     "Our briefing: Sonia Bompastor says Lauren James is out for at least the next few weeks, casting doubt on her availability for England's World Cup qualifying play-off matches.",
     "Sonia Bompastor says Lauren James is out for at least the next few weeks, casting doubt on her availability for England's World Cup qualifying play-off matches.",
@@ -450,7 +472,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-11-06T16:43:45.000Z",
-   "fetched_at": "2026-11-06T23:41:50.081Z",
+   "fetched_at": "2026-11-07T04:58:11.243Z",
    "body": [
     "Our briefing: Manchester United host Aston Villa seeking a first league win in eight games to ease pressure on Michael Carrick Saturday 12.30pm TNT Sports 1 Venue Elland Road Continue…",
     "Manchester United host Aston Villa seeking a first league win in eight games to ease pressure on Michael Carrick Saturday 12. 30pm TNT Sports 1 Venue Elland Road Continue reading...",
@@ -471,14 +493,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-11-06T16:31:52.000Z",
-   "fetched_at": "2026-11-06T23:41:50.148Z",
+   "fetched_at": "2026-11-07T04:58:11.452Z",
    "body": [
     "Our briefing: From childhood Champions League finals on a patch of grass in Stourbridge to the biggest stage in international football, Jobe Bellingham is determined to step out of his…",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
    "id": "bbc-palmer-s-england-career-over-under-tuchel",
@@ -491,15 +513,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-06T16:30:03.000Z",
-   "fetched_at": "2026-11-06T23:41:50.014Z",
+   "fetched_at": "2026-11-07T04:58:11.132Z",
    "body": [
     "Our briefing: Cole Palmer faces a fight to save his England career after he was excluded from Thomas Tuchel's latest squad, says chief football writer Phil McNulty.",
     "Cole Palmer faces a fight to save his England career after he was excluded from Thomas Tuchel's latest squad, says chief football writer Phil McNulty.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "independent-thomas-tuchel-s-secret-worry-reveals-truth-about",
@@ -512,14 +534,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-11-06T16:09:04.000Z",
-   "fetched_at": "2026-11-06T23:41:50.148Z",
+   "fetched_at": "2026-11-07T04:58:11.452Z",
    "body": [
     "Our briefing: Thomas Tuchel has made togetherness the defining principle of his England reign, and the latest squad suggests those who helped build his new brotherhood will continue to…",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Kashima_Soccer_Stadium_6.jpg/960px-Kashima_Soccer_Stadium_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   },
   {
    "id": "guardian-premier-league-news-united-s-baleba-out-weeks-ma",
@@ -553,7 +575,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-06T16:00:00.000Z",
-   "fetched_at": "2026-11-06T23:41:50.016Z",
+   "fetched_at": "2026-11-07T04:58:11.133Z",
    "body": [
     "Our briefing: HJK assistant coach Erkka Lehtola ahead of a fascinating final weekend in Finland.",
     "HJK assistant coach Erkka Lehtola ahead of a fascinating final weekend in Finland.",
@@ -574,15 +596,15 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-11-06T15:21:42.000Z",
-   "fetched_at": "2026-11-06T23:41:50.148Z",
+   "fetched_at": "2026-11-07T04:58:11.452Z",
    "body": [
     "Our briefing: Alberto Nunez Feijoo has called for Spain to abandon its co-hosting duties if Fifa awards the tournament's showpiece fixture to Morocco.",
     "Alberto Nunez Feijoo has called for Spain to abandon its co-hosting duties if Fifa awards the tournament's showpiece fixture to Morocco.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Kashima_Soccer_Stadium_5.jpg/960px-Kashima_Soccer_Stadium_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
    "id": "bbc-fifa-hopeful-hoping-take-infantino-down-samurai-",
@@ -595,14 +617,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-06T15:21:40.000Z",
-   "fetched_at": "2026-11-06T23:41:50.014Z",
+   "fetched_at": "2026-11-07T04:58:11.132Z",
    "body": [
     "Our briefing: Gianni Infantino's first challenger for the presidency tells BBC Sport why he is standing in the election.",
     "Gianni Infantino's first challenger for the presidency tells BBC Sport why he is standing in the election.",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
@@ -616,13 +638,13 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-11-06T14:32:33.000Z",
-   "fetched_at": "2026-11-06T23:41:50.148Z",
+   "fetched_at": "2026-11-07T04:58:11.452Z",
    "body": [
     "Our briefing: Cole Palmer was left out of Thomas Tuchel’s latest England squad after ‘missing too many opportunities to impress’",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
@@ -636,7 +658,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-11-06T14:26:00.000Z",
-   "fetched_at": "2026-11-06T23:41:50.148Z",
+   "fetched_at": "2026-11-07T04:58:11.452Z",
    "body": [
     "Our briefing: Off the back of two defeats, the Liverpool boss was speaking ahead of his side’s match at Crystal Palace on Sunday",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -656,14 +678,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-06T14:25:41.000Z",
-   "fetched_at": "2026-11-06T23:41:50.014Z",
+   "fetched_at": "2026-11-07T04:58:11.132Z",
    "body": [
     "Our briefing: Portugal coach Jorge Jesus says he \"found out when we all did\" about Cristiano Ronaldo's retirement from international football.",
     "Portugal coach Jorge Jesus says he \"found out when we all did\" about Cristiano Ronaldo's retirement from international football.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Soccer_fans_put_town_in_siege_%28FL62506613%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506613%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
@@ -677,14 +699,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-06T14:16:34.000Z",
-   "fetched_at": "2026-11-06T23:41:50.014Z",
+   "fetched_at": "2026-11-07T04:58:11.132Z",
    "body": [
     "Our briefing: It may be a surprise to some but Jobe Bellingham's call up to the England senior side has been a long time coming.",
     "It may be a surprise to some but Jobe Bellingham's call up to the England senior side has been a long time coming.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Soccer_fans_put_town_in_siege_%28FL62506613%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506613%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Soccer_fans_put_town_in_siege_%28FL62506919%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506919%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
@@ -698,13 +720,13 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-11-06T14:08:14.000Z",
-   "fetched_at": "2026-11-06T23:41:50.148Z",
+   "fetched_at": "2026-11-07T04:58:11.452Z",
    "body": [
     "Our briefing: Arsenal are meanwhile waiting to see if William Saliba will be called up by France after returning from injury",
     "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Rocky_Mountain_Arsenal_National_Wildlife_Refuge%E2%80%99s_Amphitheater_%287495500328%29.jpg/960px-Rocky_Mountain_Arsenal_National_Wildlife_Refuge%E2%80%99s_Amphitheater_%287495500328%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Rocky_Mountain_Arsenal_National_Wildlife_Refuge%E2%80%99s_Amphitheater_%287495499128%29.jpg/960px-Rocky_Mountain_Arsenal_National_Wildlife_Refuge%E2%80%99s_Amphitheater_%287495499128%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
   },
   {
@@ -718,7 +740,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-11-06T14:05:11.000Z",
-   "fetched_at": "2026-11-06T23:41:50.148Z",
+   "fetched_at": "2026-11-07T04:58:11.452Z",
    "body": [
     "Our briefing: The £70m summer signing felt his hamstring during United’s comeback win against Roma on Tuesday",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -738,14 +760,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-06T13:54:50.000Z",
-   "fetched_at": "2026-11-06T23:41:50.015Z",
+   "fetched_at": "2026-11-07T04:58:11.133Z",
    "body": [
     "Our briefing: Non-league Harborough Town sign striker Kyle Hudlin, one of the world's tallest professional players, in time for their FA Cup trip to Leyton Orient.",
     "Non-league Harborough Town sign striker Kyle Hudlin, one of the world's tallest professional players, in time for their FA Cup trip to Leyton Orient.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Soccer_fans_put_town_in_siege_%28FL62506919%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506919%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Soccer_fans_put_town_in_siege_%28FL62506945%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506945%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
@@ -759,15 +781,13 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-06T13:44:22.000Z",
-   "fetched_at": "2026-11-06T23:41:50.015Z",
+   "fetched_at": "2026-11-07T04:58:11.133Z",
    "body": [
     "Our briefing: Celtic and Hearts return to Scottish Premiership action with contrasting European fortunes, so what are the key talking points in the last fixtures before the November…",
     "Celtic and Hearts return to Scottish Premiership action with contrasting European fortunes, so what are the key talking points in the last fixtures before the November international break?",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
     "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Soccer_fans_put_town_in_siege_%28FL62506945%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506945%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
+   ]
   },
   {
    "id": "bbc-oxford-city-can-shock-leicester-foxes-fan-polloc",
@@ -801,7 +821,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-11-06T12:43:15.000Z",
-   "fetched_at": "2026-11-06T23:41:50.148Z",
+   "fetched_at": "2026-11-07T04:58:11.452Z",
    "body": [
     "Our briefing: Tuchel explained that Palmer ‘misses too many opportunities to impress’ as he kept faith with his previous squad while offering first-time call-ups to Josh King and Jobe…",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
@@ -819,7 +839,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-06T12:00:18.000Z",
-   "fetched_at": "2026-11-06T23:41:50.014Z",
+   "fetched_at": "2026-11-07T04:58:11.132Z",
    "body": [
     "Our briefing: As Elliot Anderson returns to Nottingham Forest after his £116m move to Manchester City, has he lived up to the price tag?",
     "As Elliot Anderson returns to Nottingham Forest after his £116m move to Manchester City, has he lived up to the price tag?",
@@ -828,25 +848,6 @@
    ],
    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/A_Bus_in_Manchester_City_Centre_-_geograph.org.uk_-_2876841.jpg/960px-A_Bus_in_Manchester_City_Centre_-_geograph.org.uk_-_2876841.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "David Hillas — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-palmer-misses-too-many-chances-impress-tuchel",
-   "slug": "palmer-misses-too-many-chances-to-impress-tuchel-uchel",
-   "title": "Palmer misses too many chances to impress - Tuchel",
-   "dek": "England manager Thomas Tuchel says Cole Palmer \"misses too many chances to impress\" after not selecting the Chelsea forward for November's Nations League fixtures.",
-   "description": "England manager Thomas Tuchel says Cole Palmer \"misses too many chances to impress\" after not selecting the Chelsea forward for November's Nations League fixtures.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-06T11:59:37.000Z",
-   "fetched_at": "2026-11-06T23:41:50.015Z",
-   "body": [
-    "Our briefing: England manager Thomas Tuchel says Cole Palmer \"misses too many chances to impress\" after not selecting the Chelsea forward for November's Nations League fixtures.",
-    "England manager Thomas Tuchel says Cole Palmer \"misses too many chances to impress\" after not selecting the Chelsea forward for November's Nations League fixtures.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ]
   }
  ]
 }
