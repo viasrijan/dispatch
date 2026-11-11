@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-11T15:02:24.793Z",
- "updated_utc": "2026-11-11T15:02Z",
- "cycle": 29906822,
+ "generated_at": "2026-11-11T22:07:37.494Z",
+ "updated_utc": "2026-11-11T22:07Z",
+ "cycle": 29907247,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,8 +16,413 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "independent-perfect-captain-harry-kane-be-presented-ballon-d",
+ "hero_id": "guardian-meeting-two-lost-souls-can-pochettino-make-it-wo",
  "articles": [
+  {
+   "id": "bbc-arsenal-join-scott-chase-thursday-s-gossip",
+   "slug": "arsenal-join-scott-chase-thursday-s-gossip-ossip",
+   "title": "Arsenal join Scott chase - Thursday's gossip",
+   "dek": "Arsenal contact Bournemouth about midfielder Alex Scott, Manchester United add two defenders to list of potential targets, Aston Villa weigh up move for Chelsea…",
+   "description": "Arsenal contact Bournemouth about midfielder Alex Scott, Manchester United add two defenders to list of potential targets, Aston Villa weigh up move for Chelsea midfielder Romeo Lavia, plus more.",
+   "category": "News",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-11T21:38:01.000Z",
+   "fetched_at": "2026-11-11T22:07:30.735Z",
+   "body": [
+    "Our briefing: Arsenal contact Bournemouth about midfielder Alex Scott, Manchester United add two defenders to list of potential targets, Aston Villa weigh up move for Chelsea…",
+    "Arsenal contact Bournemouth about midfielder Alex Scott, Manchester United add two defenders to list of potential targets, Aston Villa weigh up move for Chelsea midfielder Romeo Lavia, plus more.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Arsenal_Stadium_Highbury_east_facade.jpg/960px-Arsenal_Stadium_Highbury_east_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "No machine-readable author provided. Qwghlm~commonswiki assumed (based on copyright claims). — CC BY-SA 3.0"
+  },
+  {
+   "id": "guardian-meeting-two-lost-souls-can-pochettino-make-it-wo",
+   "slug": "meeting-of-two-lost-souls-can-pochettino-make-it-work-at-man-it-wo",
+   "title": "Meeting of two lost souls: can Pochettino make it work at Manchester United? | Barney Ronay",
+   "dek": "Manager has been hurt by experiences at elite clubs but several players at Old Trafford could fit his playing style Welcome, Mauricio, to the meat grinder. Or rather,…",
+   "description": "Manager has been hurt by experiences at elite clubs but several players at Old Trafford could fit his playing style Welcome, Mauricio, to the meat grinder. Or rather, welcome back. We’ve been expecting you. There is nothing surprising in the news Manchester United may be on the verge of appointing Mauricio Pochettino. United are always on the verge of appointing Pochettino. This is a club that has spent 13 years hiring and firing the same structurally doomed manager – same shellshocked eyes, same irresolvable macro-problems – and the last eight years almost but not quite doing this to Pochettino. Well, maybe we’re finally here. Maybe he just needed to be broken enough to make it fit. And who knows, perhaps there is even a kind of accidental synergy here. Continue reading...",
+   "category": "News",
+   "league": "Premier League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-11-11T21:10:31.000Z",
+   "fetched_at": "2026-11-11T22:07:30.817Z",
+   "body": [
+    "Our briefing: Manager has been hurt by experiences at elite clubs but several players at Old Trafford could fit his playing style Welcome, Mauricio, to the meat grinder. Or rather,…",
+    "Manager has been hurt by experiences at elite clubs but several players at Old Trafford could fit his playing style Welcome, Mauricio, to the meat grinder. Or rather, welcome back. We’ve been expecting you.",
+    "There is nothing surprising in the news Manchester United may be on the verge of appointing Mauricio Pochettino. United are always on the verge of appointing Pochettino. This is a club that has spent 13 years hiring and firing the same structurally doomed manager – same shellshocked eyes, same irresolvable macro-problems – and the last eight years almost but not quite doing this to Pochettino.",
+    "Well, maybe we’re finally here. Maybe he just needed to be broken enough to make it fit. And who knows, perhaps there is even a kind of accidental synergy here.",
+    "Continue reading...",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Manchester_United_Old_Trafford.jpg/960px-Manchester_United_Old_Trafford.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
+  },
+  {
+   "id": "bbc-football-daily",
+   "slug": "daily-daily",
+   "title": "Daily",
+   "dek": "Mauricio Pochettino could replace Michael Carrick at Manchester United.",
+   "description": "Mauricio Pochettino could replace Michael Carrick at Manchester United.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-11T20:53:00.000Z",
+   "fetched_at": "2026-11-11T22:07:30.735Z",
+   "body": [
+    "Our briefing: Mauricio Pochettino could replace Michael Carrick at Manchester United.",
+    "Mauricio Pochettino could replace Michael Carrick at Manchester United.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "John Shorten — CC BY 4.0"
+  },
+  {
+   "id": "guardian-i-ve-had-prove-people-wrong-kane-still-striving-",
+   "slug": "i-ve-had-to-prove-people-wrong-kane-still-striving-before-re-ving-",
+   "title": "‘I’ve had to prove people wrong’: Kane still striving before record England cap",
+   "dek": "Captain to surpass Shilton with 126th cap against Croatia Kane aims to increase record for younger players to catch Harry Kane says he still feels a pressure to prove his…",
+   "description": "Captain to surpass Shilton with 126th cap against Croatia Kane aims to increase record for younger players to catch Harry Kane says he still feels a pressure to prove his worth, even as he prepares to become England’s most capped men’s player, as he outlined his determination to set records that will stand for years. The captain will make his 126th appearance against Croatia at ­Wembley on Thursday night, moving him ahead of Peter Shilton on the all-time list. Kane is England’s record ­goalscorer with 91, comfortably clear of Wayne Rooney, who retired with 53. Continue reading...",
+   "category": "Previews",
+   "league": "International",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-11-11T19:00:02.000Z",
+   "fetched_at": "2026-11-11T22:07:30.817Z",
+   "body": [
+    "Our briefing: Captain to surpass Shilton with 126th cap against Croatia Kane aims to increase record for younger players to catch Harry Kane says he still feels a pressure to prove his…",
+    "Captain to surpass Shilton with 126th cap against Croatia Kane aims to increase record for younger players to catch Harry Kane says he still feels a pressure to prove his worth, even as he prepares to become England’s most capped men’s player, as he outlined his determination to set records that will stand for years. The captain will make his 126th appearance against Croatia at ­Wembley on Thursday night, moving him ahead of Peter Shilton on the all-time list. Kane is England’s record ­goalscorer with 91, comfortably clear of Wayne Rooney, who retired with 53.",
+    "Continue reading...",
+    "Team news can change right up to kick-off. Bookmark this story for the final line-ups and confirmed sides.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/20180602_FIFA_Friendly_Match_Austria_vs._Germany_Team_Germany_850_0740.jpg/960px-20180602_FIFA_Friendly_Match_Austria_vs._Germany_Team_Germany_850_0740.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Granada — CC BY-SA 4.0"
+  },
+  {
+   "id": "guardian-complaint-filed-irs-relation-fifa-head-gianni-in",
+   "slug": "complaint-filed-to-irs-in-relation-to-fifa-head-gianni-infan-ni-in",
+   "title": "Complaint filed to IRS in relation to Fifa head Gianni Infantino’s housekeeper",
+   "dek": "It calls for inquiry into claims she was on Fifa payroll Fifa: Infantino personally pays for ‘any domestic staff’ A complaint has been filed to the United States Internal…",
+   "description": "It calls for inquiry into claims she was on Fifa payroll Fifa: Infantino personally pays for ‘any domestic staff’ A complaint has been filed to the United States Internal Revenue Service calling for an investigation into claims an individual on the Fifa payroll was working privately as a housekeeper for Gianni Infantino. If the IRS investigates and finds the claims to be proven then Fifa could lose its tax-exempt status in the US. Fifa has 501(c)(4) status in the country, a category for organisations “created to promote community welfare for charitable, educational or recreational purposes”. Continue reading...",
+   "category": "News",
+   "league": "Football",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-11-11T19:00:01.000Z",
+   "fetched_at": "2026-11-11T22:07:30.817Z",
+   "body": [
+    "Our briefing: It calls for inquiry into claims she was on Fifa payroll Fifa: Infantino personally pays for ‘any domestic staff’ A complaint has been filed to the United States Internal…",
+    "It calls for inquiry into claims she was on Fifa payroll Fifa: Infantino personally pays for ‘any domestic staff’ A complaint has been filed to the United States Internal Revenue Service calling for an investigation into claims an individual on the Fifa payroll was working privately as a housekeeper for Gianni Infantino. If the IRS investigates and finds the claims to be proven then Fifa could lose its tax-exempt status in the US. Fifa has 501(c)(4) status in the country, a category for organisations “created to promote community welfare for charitable, educational or recreational purposes”.",
+    "Continue reading...",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+  },
+  {
+   "id": "guardian-thomas-tuchel-keeps-laser-focus-unfinished-busin",
+   "slug": "thomas-tuchel-keeps-laser-focus-on-unfinished-business-with--busin",
+   "title": "Thomas Tuchel keeps laser focus on ‘unfinished business’ with England",
+   "dek": "Head coach did not insert release clause into contract Tuchel ‘open to everything’ including staying after Euros Thomas Tuchel will not be going anywhere before Euro…",
+   "description": "Head coach did not insert release clause into contract Tuchel ‘open to everything’ including staying after Euros Thomas Tuchel will not be going anywhere before Euro 2028. Mauricio Pochettino is expected to leave his role as the USA men’s head coach to replace Michael Carrick at Manchester United , but Tuchel has not lost his passion for international football and has revealed he did not insert a release clause when he extended his deal as England’s manager this year. It will not matter whether there is an approach from a big club before the next tournament. United can pay about £7m to get Pochettino out of his deal, but the Football Association does not have to worry about being forced to let Tuchel go. “There’s no intention [of leaving],” Tuchel said. “I signed the contract. I want to stay until the Euros. I want to do the Euros. We have unfinished business.” Continue reading...",
+   "category": "Transfers & Rumours",
+   "league": "International",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-11-11T19:00:00.000Z",
+   "fetched_at": "2026-11-11T22:07:30.817Z",
+   "body": [
+    "Our briefing: Head coach did not insert release clause into contract Tuchel ‘open to everything’ including staying after Euros Thomas Tuchel will not be going anywhere before Euro…",
+    "Head coach did not insert release clause into contract Tuchel ‘open to everything’ including staying after Euros Thomas Tuchel will not be going anywhere before Euro 2028. Mauricio Pochettino is expected to leave his role as the USA men’s head coach to replace Michael Carrick at Manchester United , but Tuchel has not lost his passion for international football and has revealed he did not insert a release clause when he extended his deal as England’s manager this year. It will not matter whether there is an approach from a big club before the next tournament.",
+    "United can pay about £7m to get Pochettino out of his deal, but the Football Association does not have to worry about being forced to let Tuchel go. “There’s no intention [of leaving],” Tuchel said. “I signed the contract.",
+    "I want to stay until the Euros. I want to do the Euros. We have unfinished business.",
+    "” Continue reading...",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
+  },
+  {
+   "id": "independent-harry-kane-my-biggest-fear-finishing-my-career-t",
+   "slug": "harry-kane-my-biggest-fear-is-finishing-my-career-thinking-i-eer-t",
+   "title": "Harry Kane: ‘My biggest fear is finishing my career thinking I could have done more’",
+   "dek": "Interview : The England captain discusses his elite mentality and the long journey from debut nerves to a historic 126th cap when he surpasses Peter Shilton’s record at…",
+   "description": "Interview : The England captain discusses his elite mentality and the long journey from debut nerves to a historic 126th cap when he surpasses Peter Shilton’s record at Wembley on Thursday night",
+   "category": "News",
+   "league": "Football",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-11-11T18:59:56.000Z",
+   "fetched_at": "2026-11-11T22:07:30.969Z",
+   "body": [
+    "Our briefing: Interview : The England captain discusses his elite mentality and the long journey from debut nerves to a historic 126th cap when he surpasses Peter Shilton’s record at…",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+  },
+  {
+   "id": "bbc-shrewsbury-hit-all-boxes-new-owners-friedel",
+   "slug": "shrewsbury-hit-all-the-boxes-for-new-owners-friedel-iedel",
+   "title": "Shrewsbury 'hit all the boxes' for new owners - Friedel",
+   "dek": "In an exclusive interview with BBC Radio Shropshire new Shrewsbury Town sporting director Brad Friedel says the club is a perfect fit for the new owners.",
+   "description": "In an exclusive interview with BBC Radio Shropshire new Shrewsbury Town sporting director Brad Friedel says the club is a perfect fit for the new owners.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-11T17:44:42.000Z",
+   "fetched_at": "2026-11-11T22:07:30.736Z",
+   "body": [
+    "Our briefing: In an exclusive interview with BBC Radio Shropshire new Shrewsbury Town sporting director Brad Friedel says the club is a perfect fit for the new owners.",
+    "In an exclusive interview with BBC Radio Shropshire new Shrewsbury Town sporting director Brad Friedel says the club is a perfect fit for the new owners.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+  },
+  {
+   "id": "bbc-legally-restrict-heading-football-training-says-",
+   "slug": "legally-restrict-heading-a-football-in-training-says-mp-says-",
+   "title": "Legally restrict heading a football in training, says MP",
+   "dek": "An MP is calling for legal safeguards to limit repetitive heading in football training, amid growing concerns about the risk of brain injury.",
+   "description": "An MP is calling for legal safeguards to limit repetitive heading in football training, amid growing concerns about the risk of brain injury.",
+   "category": "Injuries",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-11T17:38:18.000Z",
+   "fetched_at": "2026-11-11T22:07:30.735Z",
+   "body": [
+    "Our briefing: An MP is calling for legal safeguards to limit repetitive heading in football training, amid growing concerns about the risk of brain injury.",
+    "An MP is calling for legal safeguards to limit repetitive heading in football training, amid growing concerns about the risk of brain injury.",
+    "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Health_Report-_Soccer_Concussions.webm/500px--Health_Report-_Soccer_Concussions.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "imageCredit": null
+  },
+  {
+   "id": "bbc-o-shea-proud-how-team-mates-handled-israel-games",
+   "slug": "o-shea-proud-of-how-team-mates-handled-israel-games-games",
+   "title": "O'Shea proud of how team-mates handled Israel games",
+   "dek": "Republic of Ireland defender Dara O'Shea is \"proud\" of how he and his team-mates came through a trying October international window.",
+   "description": "Republic of Ireland defender Dara O'Shea is \"proud\" of how he and his team-mates came through a trying October international window.",
+   "category": "Tactics & Analysis",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-11T17:33:37.000Z",
+   "fetched_at": "2026-11-11T22:07:30.735Z",
+   "body": [
+    "Our briefing: Republic of Ireland defender Dara O'Shea is \"proud\" of how he and his team-mates came through a trying October international window.",
+    "Republic of Ireland defender Dara O'Shea is \"proud\" of how he and his team-mates came through a trying October international window.",
+    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
+  },
+  {
+   "id": "independent-man-united-legend-slams-club-s-very-disrespectfu",
+   "slug": "man-united-legend-slams-club-s-very-disrespectful-treatment--ectfu",
+   "title": "Man United legend slams club's 'very disrespectful' treatment of Michael Carrick",
+   "dek": "Michael Carrick is expected to be sacked, but Manchester United are yet to make an official announcement after days of speculation",
+   "description": "Michael Carrick is expected to be sacked, but Manchester United are yet to make an official announcement after days of speculation",
+   "category": "News",
+   "league": "Football",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-11-11T17:31:09.000Z",
+   "fetched_at": "2026-11-11T22:07:30.969Z",
+   "body": [
+    "Our briefing: Michael Carrick is expected to be sacked, but Manchester United are yet to make an official announcement after days of speculation",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+  },
+  {
+   "id": "independent-scottish-defender-makes-comeback-after-seven-yea",
+   "slug": "scottish-defender-makes-comeback-after-seven-year-absence-fr-n-yea",
+   "title": "Scottish defender makes comeback after seven-year absence from national team",
+   "dek": "The defender has impressed since moving to Turkey this summer, earning a chance to add to his four international caps as Scotland prepare for a crucial double-header.",
+   "description": "The defender has impressed since moving to Turkey this summer, earning a chance to add to his four international caps as Scotland prepare for a crucial double-header.",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-11-11T17:26:08.000Z",
+   "fetched_at": "2026-11-11T22:07:30.969Z",
+   "body": [
+    "Our briefing: The defender has impressed since moving to Turkey this summer, earning a chance to add to his four international caps as Scotland prepare for a crucial double-header.",
+    "The defender has impressed since moving to Turkey this summer, earning a chance to add to his four international caps as Scotland prepare for a crucial double-header.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": null
+  },
+  {
+   "id": "bbc-leader-role-model-extraordinary-how-kane-s-fairy",
+   "slug": "leader-role-model-extraordinary-how-kane-s-fairytale-came-tr-fairy",
+   "title": "Leader, role model, extraordinary - how Kane's 'fairytale' came true",
+   "dek": "From 21-year-old who scored 79 seconds into his debut to being on the brink of breaking his nation's appearance record, BBC Sport looks at Harry Kane's England career.",
+   "description": "From 21-year-old who scored 79 seconds into his debut to being on the brink of breaking his nation's appearance record, BBC Sport looks at Harry Kane's England career.",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-11T16:44:58.000Z",
+   "fetched_at": "2026-11-11T22:07:30.735Z",
+   "body": [
+    "Our briefing: From 21-year-old who scored 79 seconds into his debut to being on the brink of breaking his nation's appearance record, BBC Sport looks at Harry Kane's England career.",
+    "From 21-year-old who scored 79 seconds into his debut to being on the brink of breaking his nation's appearance record, BBC Sport looks at Harry Kane's England career.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
+   "id": "bbc-no-excuses-pocognoli-seeks-first-hampden-victory",
+   "slug": "no-excuses-as-pocognoli-seeks-first-hampden-victory-ctory",
+   "title": "No excuses as Pocognoli seeks first Hampden victory",
+   "dek": "Having lost his first two home matches, Scotland head coach Sebastien Pocognoli needs to deliver a convincing win against North Macedonia, writes Tom English.",
+   "description": "Having lost his first two home matches, Scotland head coach Sebastien Pocognoli needs to deliver a convincing win against North Macedonia, writes Tom English.",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-11T16:38:14.000Z",
+   "fetched_at": "2026-11-11T22:07:30.737Z",
+   "body": [
+    "Our briefing: Having lost his first two home matches, Scotland head coach Sebastien Pocognoli needs to deliver a convincing win against North Macedonia, writes Tom English.",
+    "Having lost his first two home matches, Scotland head coach Sebastien Pocognoli needs to deliver a convincing win against North Macedonia, writes Tom English.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-referee-observer-banned-discriminatory-comments",
+   "slug": "referee-observer-banned-for-discriminatory-comments-ments",
+   "title": "Referee observer banned for discriminatory comments",
+   "dek": "A Pro Ref referee observer is banned for nine weeks and fined £200 for making discriminatory remarks after a match he was working at.",
+   "description": "A Pro Ref referee observer is banned for nine weeks and fined £200 for making discriminatory remarks after a match he was working at.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-11T16:26:24.000Z",
+   "fetched_at": "2026-11-11T22:07:30.735Z",
+   "body": [
+    "Our briefing: A Pro Ref referee observer is banned for nine weeks and fined £200 for making discriminatory remarks after a match he was working at.",
+    "A Pro Ref referee observer is banned for nine weeks and fined £200 for making discriminatory remarks after a match he was working at.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+  },
+  {
+   "id": "guardian-top-four-teams-fifa-rankings-set-be-kept-apart-u",
+   "slug": "top-four-teams-in-fifa-rankings-set-to-be-kept-apart-until-s-art-u",
+   "title": "Top four teams in Fifa rankings set to be kept apart until semi-finals at 2027 Women’s World Cup",
+   "dek": "Team must win World Cup group to trigger rule Spain, US, Germany and England currently in top four The top four ranked teams will be separated until the semi-finals at…",
+   "description": "Team must win World Cup group to trigger rule Spain, US, Germany and England currently in top four The top four ranked teams will be separated until the semi-finals at the 2027 Women’s World Cup, ­provided they each win their group, after a change to the tournament’s draw procedure was confirmed by Fifa. Spain, USA, Germany and England are ranked one to four in the world respectively, although USA and England still need to qualify for the tournament. The seedings will be based on the 7 December updated rankings, meaning the standings could change before the draw, which will take place on 11 December in Rio de Janeiro. Continue reading...",
+   "category": "Match Reports",
+   "league": "International",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-11-11T16:03:44.000Z",
+   "fetched_at": "2026-11-11T22:07:30.817Z",
+   "body": [
+    "Our briefing: Team must win World Cup group to trigger rule Spain, US, Germany and England currently in top four The top four ranked teams will be separated until the semi-finals at…",
+    "Team must win World Cup group to trigger rule Spain, US, Germany and England currently in top four The top four ranked teams will be separated until the semi-finals at the 2027 Women’s World Cup, ­provided they each win their group, after a change to the tournament’s draw procedure was confirmed by Fifa. Spain, USA, Germany and England are ranked one to four in the world respectively, although USA and England still need to qualify for the tournament. The seedings will be based on the 7 December updated rankings, meaning the standings could change before the draw, which will take place on 11 December in Rio de Janeiro.",
+    "Continue reading...",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
+  },
+  {
+   "id": "bbc-pochettino-ready-accept-man-utd-offer-replace-ca",
+   "slug": "pochettino-ready-to-accept-man-utd-offer-to-replace-carrick-ce-ca",
+   "title": "Pochettino ready to accept Man Utd offer to replace Carrick",
+   "dek": "Mauricio Pochettino is ready to accept an offer from Manchester United to become their next head coach.",
+   "description": "Mauricio Pochettino is ready to accept an offer from Manchester United to become their next head coach.",
+   "category": "News",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-11T16:03:02.000Z",
+   "fetched_at": "2026-11-11T22:07:30.735Z",
+   "body": [
+    "Our briefing: Mauricio Pochettino is ready to accept an offer from Manchester United to become their next head coach.",
+    "Mauricio Pochettino is ready to accept an offer from Manchester United to become their next head coach.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Manchester_United_Old_Trafford_%28cropped%29.jpg/960px-Manchester_United_Old_Trafford_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
+  },
+  {
+   "id": "bbc-bristol-city-give-skubala-opportunity-improve-fo",
+   "slug": "bristol-city-give-skubala-opportunity-to-improve-form-ve-fo",
+   "title": "Bristol City give Skubala opportunity to improve form",
+   "dek": "Bristol City chief executive Charlie Boss says head coach Michael Skubala will be given more time to improve their results.",
+   "description": "Bristol City chief executive Charlie Boss says head coach Michael Skubala will be given more time to improve their results.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-11T15:52:30.000Z",
+   "fetched_at": "2026-11-11T22:07:30.735Z",
+   "body": [
+    "Our briefing: Bristol City chief executive Charlie Boss says head coach Michael Skubala will be given more time to improve their results.",
+    "Bristol City chief executive Charlie Boss says head coach Michael Skubala will be given more time to improve their results.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+  },
+  {
+   "id": "independent-man-united-face-final-hurdle-close-deal-mauricio",
+   "slug": "man-united-face-final-hurdle-to-close-deal-for-mauricio-poch-ricio",
+   "title": "Man United face final hurdle to close deal for Mauricio Pochettino as new manager",
+   "dek": "The Argentine coach is the front-runner to replace Michael Carrick at Old Trafford, with the club inside the relegation zone during the international break",
+   "description": "The Argentine coach is the front-runner to replace Michael Carrick at Old Trafford, with the club inside the relegation zone during the international break",
+   "category": "News",
+   "league": "Football",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-11-11T15:38:17.000Z",
+   "fetched_at": "2026-11-11T22:07:30.969Z",
+   "body": [
+    "Our briefing: The Argentine coach is the front-runner to replace Michael Carrick at Old Trafford, with the club inside the relegation zone during the international break",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
   {
    "id": "independent-usmnt-cancel-media-access-man-united-eye-maurici",
    "slug": "usmnt-cancel-media-access-as-man-united-eye-mauricio-pochett-urici",
@@ -29,7 +434,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-11-11T14:43:34.000Z",
-   "fetched_at": "2026-11-11T15:02:14.491Z",
+   "fetched_at": "2026-11-11T22:07:30.969Z",
    "body": [
     "Our briefing: Mauricio Pochettino has emerged as the clear frontrunner to be the next Manchester United manager",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -43,16 +448,16 @@
    "slug": "hear-the-goals-during-the-afterlife-bar-a-fans-get-to-inter--ter-a",
    "title": "‘Hear the goals during the afterlife’: Barça fans get to inter ashes at club’s new memorial",
    "dek": "Memorial FC Barcelona, part of upgrade to Camp Nou stadium, will consist of 26,000 niches where fans can deposit their ashes Lifelong supporters of Barcelona football…",
-   "description": "Memorial FC Barcelona, part of upgrade to Camp Nou stadium, will consist of 26,000 niches where fans can deposit their ashes Lifelong supporters of Barcelona football club will soon be able to cheer on the club from beyond the grave but, like everything else at Barça, eternal devotion comes at a price. As part of an upgrade to the Camp Nou stadium the club has inaugurated the Memorial FC Barcelona consisting of 26,000 niches where fans can deposit their ashes after their own final whistle has blown. Continue reading...",
+   "description": "Memorial FC Barcelona, part of upgrade to Camp Nou stadium, will consist of 26,000 niches where fans can deposit their ashes Lifelong supporters of Barcelona football club will soon be able to cheer on the club from beyond the grave – but, like everything else at Barça, eternal devotion comes at a price. As part of an upgrade to the Camp Nou, the club has inaugurated the Memorial FC Barcelona, consisting of 26,000 niches where fans can deposit their ashes after their own final whistle has blown. Continue reading...",
    "category": "Injuries",
    "league": "Serie A",
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-11-11T14:30:15.000Z",
-   "fetched_at": "2026-11-11T15:02:14.315Z",
+   "fetched_at": "2026-11-11T22:07:30.818Z",
    "body": [
     "Our briefing: Memorial FC Barcelona, part of upgrade to Camp Nou stadium, will consist of 26,000 niches where fans can deposit their ashes Lifelong supporters of Barcelona football…",
-    "Memorial FC Barcelona, part of upgrade to Camp Nou stadium, will consist of 26,000 niches where fans can deposit their ashes Lifelong supporters of Barcelona football club will soon be able to cheer on the club from beyond the grave but, like everything else at Barça, eternal devotion comes at a price. As part of an upgrade to the Camp Nou stadium the club has inaugurated the Memorial FC Barcelona consisting of 26,000 niches where fans can deposit their ashes after their own final whistle has blown. Continue reading...",
+    "Memorial FC Barcelona, part of upgrade to Camp Nou stadium, will consist of 26,000 niches where fans can deposit their ashes Lifelong supporters of Barcelona football club will soon be able to cheer on the club from beyond the grave – but, like everything else at Barça, eternal devotion comes at a price. As part of an upgrade to the Camp Nou, the club has inaugurated the Memorial FC Barcelona, consisting of 26,000 niches where fans can deposit their ashes after their own final whistle has blown. Continue reading...",
     "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
     "This summary was compiled from reporting published by The Guardian."
    ],
@@ -70,14 +475,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-11-11T14:21:06.000Z",
-   "fetched_at": "2026-11-11T15:02:14.491Z",
+   "fetched_at": "2026-11-11T22:07:30.969Z",
    "body": [
     "Our briefing: Tuchel confirmed Kane would start the Nations League game against Croatia, when he will set an all-time record for England appearances",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "John Shorten — CC BY 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Kashima_Soccer_Stadium_6.jpg/960px-Kashima_Soccer_Stadium_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   },
   {
    "id": "independent-man-united-live-mauricio-pochettino-agreement-cl",
@@ -90,34 +495,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-11-11T14:13:49.000Z",
-   "fetched_at": "2026-11-11T15:02:14.491Z",
+   "fetched_at": "2026-11-11T22:07:30.969Z",
    "body": [
     "Our briefing: The former United midfielder could be let go today after the club’s worst start to a domestic season in 40 years",
     "Team news can change right up to kick-off. Bookmark this story for the final line-ups and confirmed sides.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/20180602_FIFA_Friendly_Match_Austria_vs._Germany_Team_Germany_850_0740.jpg/960px-20180602_FIFA_Friendly_Match_Austria_vs._Germany_Team_Germany_850_0740.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Granada — CC BY-SA 4.0"
-  },
-  {
-   "id": "independent-man-united-face-final-hurdle-close-deal-mauricio",
-   "slug": "man-united-face-final-hurdle-to-close-deal-for-mauricio-poch-ricio",
-   "title": "Man United face final hurdle to close deal for Mauricio Pochettino as new manager",
-   "dek": "The Argentine coach is the front-runner to replace Michael Carrick at Old Trafford, with the club inside the relegation zone during the international break",
-   "description": "The Argentine coach is the front-runner to replace Michael Carrick at Old Trafford, with the club inside the relegation zone during the international break",
-   "category": "News",
-   "league": "Football",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-11-11T14:07:01.000Z",
-   "fetched_at": "2026-11-11T15:02:14.491Z",
-   "body": [
-    "Our briefing: The Argentine coach is the front-runner to replace Michael Carrick at Old Trafford, with the club inside the relegation zone during the international break",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/U.S._soccer_team%2C_1916.jpg/960px-U.S._soccer_team%2C_1916.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "guardian-football-daily-mauricio-pochettino-readies-his-j",
@@ -147,17 +532,17 @@
    "id": "guardian-manchester-united-reach-framework-deal-pochettin",
    "slug": "manchester-united-reach-framework-deal-with-pochettino-befor-ettin",
    "title": "Manchester United reach framework deal with Pochettino before settling Carrick’s fate",
-   "dek": "Pochettino wants to leave USA role for United United board meeting scheduled for Wednesday Manchester United have a framework agreement with Mauricio Pochettino for him…",
-   "description": "Pochettino wants to leave USA role for United United board meeting scheduled for Wednesday Manchester United have a framework agreement with Mauricio Pochettino for him to become their head coach if Michael Carrick is sacked. Carrick is expected to be fired in line with the recommendation from Jason Wilcox, the director of football, and Omar Berrada, the chief executive, to Sir Jim Ratcliffe. Pochettino is the US men’s national team head coach and in August signed a contract to 2030 but he wants the United job after managing in the Premier League with Southampton, Tottenham and Chelsea. Continue reading...",
+   "dek": "Pochettino wants to leave USA role for United United board meeting scheduled for Wednesday Manchester United have a framework agreement with Mauricio ­Pochettino for him…",
+   "description": "Pochettino wants to leave USA role for United United board meeting scheduled for Wednesday Manchester United have a framework agreement with Mauricio ­Pochettino for him to become their head coach if Michael Carrick is sacked. ­Carrick is expected to be fired in line with the recommendation from Jason ­Wilcox, the director of football, and Omar ­Berrada, the chief executive, to Sir Jim Ratcliffe. Pochettino is the USA men’s national team head coach and in August signed a contract to 2030 but he wants the United job after ­managing in the Premier League with Southampton, Tottenham and ­Chelsea. Continue reading...",
    "category": "Transfers & Rumours",
    "league": "Premier League",
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-11-11T13:52:39.000Z",
-   "fetched_at": "2026-11-11T15:02:14.315Z",
+   "fetched_at": "2026-11-11T22:07:30.818Z",
    "body": [
-    "Our briefing: Pochettino wants to leave USA role for United United board meeting scheduled for Wednesday Manchester United have a framework agreement with Mauricio Pochettino for him…",
-    "Pochettino wants to leave USA role for United United board meeting scheduled for Wednesday Manchester United have a framework agreement with Mauricio Pochettino for him to become their head coach if Michael Carrick is sacked. Carrick is expected to be fired in line with the recommendation from Jason Wilcox, the director of football, and Omar Berrada, the chief executive, to Sir Jim Ratcliffe. Pochettino is the US men’s national team head coach and in August signed a contract to 2030 but he wants the United job after managing in the Premier League with Southampton, Tottenham and Chelsea.",
+    "Our briefing: Pochettino wants to leave USA role for United United board meeting scheduled for Wednesday Manchester United have a framework agreement with Mauricio ­Pochettino for him…",
+    "Pochettino wants to leave USA role for United United board meeting scheduled for Wednesday Manchester United have a framework agreement with Mauricio ­Pochettino for him to become their head coach if Michael Carrick is sacked. ­Carrick is expected to be fired in line with the recommendation from Jason ­Wilcox, the director of football, and Omar ­Berrada, the chief executive, to Sir Jim Ratcliffe. Pochettino is the USA men’s national team head coach and in August signed a contract to 2030 but he wants the United job after ­managing in the Premier League with Southampton, Tottenham and ­Chelsea.",
     "Continue reading...",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Guardian."
@@ -176,31 +561,31 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-11T13:37:08.000Z",
-   "fetched_at": "2026-11-11T15:02:14.266Z",
+   "fetched_at": "2026-11-11T22:07:30.735Z",
    "body": [
     "Our briefing: David Bates has been called up to the Scotland squad as fellow defender Luis Binks drops out for the matches against North Macedonia and Switzerland.",
     "David Bates has been called up to the Scotland squad as fellow defender Luis Binks drops out for the matches against North Macedonia and Switzerland.",
     "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Health_Report-_Soccer_Concussions.webm/500px--Health_Report-_Soccer_Concussions.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Field_hockey_and_soccer_for_women_%28IA_fieldhockeysocce00fros%29.pdf/page1-960px-Field_hockey_and_soccer_for_women_%28IA_fieldhockeysocce00fros%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": null
   },
   {
    "id": "bbc-pochettino-decade-man-utd-s-making-but-carrick-d",
    "slug": "pochettino-a-decade-in-man-utd-s-making-but-carrick-deserves-ick-d",
    "title": "Pochettino a decade in Man Utd's making - but Carrick deserves better",
-   "dek": "Mauricio Pochettino looks set to turn a decade-long courtship with Manchester United into a full-blown relationship, says chief football writer Phil McNulty.",
-   "description": "Mauricio Pochettino looks set to turn a decade-long courtship with Manchester United into a full-blown relationship, says chief football writer Phil McNulty.",
+   "dek": "Mauricio Pochettino looks set to turn a decade-long courtship with Man Utd into a full-blown relationship, says chief football writer Phil McNulty.",
+   "description": "Mauricio Pochettino looks set to turn a decade-long courtship with Man Utd into a full-blown relationship, says chief football writer Phil McNulty.",
    "category": "Injuries",
    "league": "Premier League",
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-11T12:58:17.000Z",
-   "fetched_at": "2026-11-11T15:02:14.265Z",
+   "fetched_at": "2026-11-11T22:07:30.734Z",
    "body": [
-    "Our briefing: Mauricio Pochettino looks set to turn a decade-long courtship with Manchester United into a full-blown relationship, says chief football writer Phil McNulty.",
-    "Mauricio Pochettino looks set to turn a decade-long courtship with Manchester United into a full-blown relationship, says chief football writer Phil McNulty.",
+    "Our briefing: Mauricio Pochettino looks set to turn a decade-long courtship with Man Utd into a full-blown relationship, says chief football writer Phil McNulty.",
+    "Mauricio Pochettino looks set to turn a decade-long courtship with Man Utd into a full-blown relationship, says chief football writer Phil McNulty.",
     "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
@@ -212,21 +597,21 @@
    "slug": "an-eternal-shame-bilic-and-croatia-aim-to-use-7-0-humbling-a-bling",
    "title": "‘An eternal shame’: Bilic and Croatia aim to use 7-0 humbling as fuel against England",
    "dek": "The home humiliation last month has left a scar on Croatian football but their manager wants them to use it to positive effect in the Wembley rematch As Croatia prepare…",
-   "description": "The home humiliation last month has left a scar on Croatian football but their manager wants them to use it to positive effect in the Wembley rematch As Croatia prepare to face England at Wembley on Thursday in the Nations League, wounds from a humiliating defeat by the same opponents just over a month ago are fresh and there is a lingering feeling of unease. No one will say it – certainly not Slaven Bilic, who always believes in goals that may seem unreachable to most others – but the impression is that Croatia would be satisfied to accept another defeat, provided it was gentle enough by score and hard-fought by approach; that this game is not so much about the points as the (self-)respect they can regain. Continue reading...",
+   "description": "The home humiliation last month has left a scar on Croatian football but their manager wants them to use it to positive effect in the Wembley rematch As Croatia prepare to face England at Wembley on Thursday in the Nations League, wounds from a humiliating defeat by the same opponents last month are fresh and there is a lingering feeling of unease. No one will say it – certainly not Slaven Bilic, who always believes in achieving goals that may seem unreachable to most others – but the impression is that Croatia would be satisfied to accept another defeat, provided it was gentle enough by score and hard‑fought by approach; that this game is not so much about the points as the (self-)respect they can regain. Continue reading...",
    "category": "Match Reports",
    "league": "International",
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-11-11T12:30:30.000Z",
-   "fetched_at": "2026-11-11T15:02:14.315Z",
+   "fetched_at": "2026-11-11T22:07:30.817Z",
    "body": [
     "Our briefing: The home humiliation last month has left a scar on Croatian football but their manager wants them to use it to positive effect in the Wembley rematch As Croatia prepare…",
-    "The home humiliation last month has left a scar on Croatian football but their manager wants them to use it to positive effect in the Wembley rematch As Croatia prepare to face England at Wembley on Thursday in the Nations League, wounds from a humiliating defeat by the same opponents just over a month ago are fresh and there is a lingering feeling of unease. No one will say it – certainly not Slaven Bilic, who always believes in goals that may seem unreachable to most others – but the impression is that Croatia would be satisfied to accept another defeat, provided it was gentle enough by score and hard-fought by approach; that this game is not so much about the points as the (self-)respect they can regain. Continue reading...",
+    "The home humiliation last month has left a scar on Croatian football but their manager wants them to use it to positive effect in the Wembley rematch As Croatia prepare to face England at Wembley on Thursday in the Nations League, wounds from a humiliating defeat by the same opponents last month are fresh and there is a lingering feeling of unease. No one will say it – certainly not Slaven Bilic, who always believes in achieving goals that may seem unreachable to most others – but the impression is that Croatia would be satisfied to accept another defeat, provided it was gentle enough by score and hard‑fought by approach; that this game is not so much about the points as the (self-)respect they can regain. Continue reading...",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": null
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
    "id": "bbc-how-promotion-relegation-knockouts-work-nations-",
@@ -239,37 +624,37 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-11T12:09:22.000Z",
-   "fetched_at": "2026-11-11T15:02:14.266Z",
+   "fetched_at": "2026-11-11T22:07:30.735Z",
    "body": [
     "Our briefing: With more than half of the 2026-27 Nations League group stage completed, BBC Sport looks at what will happen next in the competition.",
     "With more than half of the 2026-27 Nations League group stage completed, BBC Sport looks at what will happen next in the competition.",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
    "id": "guardian-danny-kelly-football-broadcaster-renowned-editor",
    "slug": "danny-kelly-football-broadcaster-and-renowned-editor-dies-ag-ditor",
    "title": "Danny Kelly, football broadcaster and renowned editor, dies aged 69",
    "dek": "Danny Baker pays tribute to the ‘funniest man I knew’ Kelly was former editor of the NME and Q magazines The journalist and broadcaster Danny Kelly, who helped define…",
-   "description": "Danny Baker pays tribute to the ‘funniest man I knew’ Kelly was former editor of the NME and Q magazines The journalist and broadcaster Danny Kelly, who helped define coverage of music and football in the UK for a generation, has died at the age of 69. Kelly edited the NME and Q Magazine and launched the Football 365 website before going on to be a presenter and pundit on the BBC and TalkSport. He had been receiving treatment for oesophageal cancer. Continue reading...",
+   "description": "Danny Baker pays tribute to the ‘funniest man I knew’ Kelly was former editor of the NME and Q magazines The journalist and broadcaster Danny Kelly, who helped define coverage of music and football in the UK for a generation, has died at the age of 69. Kelly edited the NME and Q magazine, and launched the Football 365 website before going on to be a presenter and pundit on the BBC and TalkSport. He had been receiving treatment for oesophageal cancer. Continue reading...",
    "category": "News",
    "league": "Football",
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-11-11T11:56:39.000Z",
-   "fetched_at": "2026-11-11T15:02:14.315Z",
+   "fetched_at": "2026-11-11T22:07:30.817Z",
    "body": [
     "Our briefing: Danny Baker pays tribute to the ‘funniest man I knew’ Kelly was former editor of the NME and Q magazines The journalist and broadcaster Danny Kelly, who helped define…",
-    "Danny Baker pays tribute to the ‘funniest man I knew’ Kelly was former editor of the NME and Q magazines The journalist and broadcaster Danny Kelly, who helped define coverage of music and football in the UK for a generation, has died at the age of 69. Kelly edited the NME and Q Magazine and launched the Football 365 website before going on to be a presenter and pundit on the BBC and TalkSport. He had been receiving treatment for oesophageal cancer.",
+    "Danny Baker pays tribute to the ‘funniest man I knew’ Kelly was former editor of the NME and Q magazines The journalist and broadcaster Danny Kelly, who helped define coverage of music and football in the UK for a generation, has died at the age of 69. Kelly edited the NME and Q magazine, and launched the Football 365 website before going on to be a presenter and pundit on the BBC and TalkSport. He had been receiving treatment for oesophageal cancer.",
     "Continue reading...",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Soccer_fans_put_town_in_siege_%28FL62506613%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506613%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
    "id": "bbc-assessing-reasons-man-city-s-decline-form-under-",
@@ -282,7 +667,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-11T11:47:09.000Z",
-   "fetched_at": "2026-11-11T15:02:14.265Z",
+   "fetched_at": "2026-11-11T22:07:30.735Z",
    "body": [
     "Our briefing: The ongoing international break gives manager Enzo Maresca much-needed time to fix the growing issues in his Man City squad.",
     "The ongoing international break gives manager Enzo Maresca much-needed time to fix the growing issues in his Man City squad.",
@@ -303,14 +688,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-11-11T11:41:53.000Z",
-   "fetched_at": "2026-11-11T15:02:14.491Z",
+   "fetched_at": "2026-11-11T22:07:30.969Z",
    "body": [
     "Our briefing: Widely popular on radio, with a long spell at talkSport, Kelly, a lifelong Tottenham fan, confirmed he was diagnosed with oesophageal cancer earlier this year",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Soccer_fans_put_town_in_siege_%28FL62506919%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506919%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
    "id": "independent-how-man-city-case-could-spark-drastic-change-eng",
@@ -323,7 +708,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-11-11T11:40:47.000Z",
-   "fetched_at": "2026-11-11T15:02:14.491Z",
+   "fetched_at": "2026-11-11T22:07:30.969Z",
    "body": [
     "Our briefing: Over a third of the league is now up for sale, writes Miguel Delaney, but despite the Man City case, this major shift could bring a solve one of English football’s major…",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
@@ -343,15 +728,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-11T11:33:55.000Z",
-   "fetched_at": "2026-11-11T15:02:14.268Z",
+   "fetched_at": "2026-11-11T22:07:30.737Z",
    "body": [
     "Our briefing: Put yourself in the shoes of Scotland head coach Sebastien Pocognoli as he picks his starting XI for the home game with North Macedonia.",
     "Put yourself in the shoes of Scotland head coach Sebastien Pocognoli as he picks his starting XI for the home game with North Macedonia.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Soccer_fans_in_2021.jpg/960px-Soccer_fans_in_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Miguel Discart & Kiri Karma — CC BY-SA 4.0"
   },
   {
    "id": "independent-graham-potter-his-swedish-love-affair-viktor-gyo",
@@ -364,14 +749,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-11-11T11:13:12.000Z",
-   "fetched_at": "2026-11-11T15:02:14.491Z",
+   "fetched_at": "2026-11-11T22:07:30.969Z",
    "body": [
     "Our briefing: Sweden manager Graham Potter tells Lawrence Ostlere about the ‘strange’ emptiness of World Cup elimination, lessons of tournament football and the challenge of building a…",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
    "id": "guardian-league-one-clubs-aim-further-curbs-spending-budg",
@@ -384,16 +769,14 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-11-11T11:02:46.000Z",
-   "fetched_at": "2026-11-11T15:02:14.315Z",
+   "fetched_at": "2026-11-11T22:07:30.817Z",
    "body": [
     "Our briefing: Wage bills in third tier have increased by 15% this season ‘Luxury tax’ and three-year limits on losses considered League One clubs want to introduce new spending…",
     "Wage bills in third tier have increased by 15% this season ‘Luxury tax’ and three-year limits on losses considered League One clubs want to introduce new spending restrictions to reduce losses by limiting investment from owners. Clubs in the division voted to tighten the rules last summer by reducing spending limits from 60% to 50% of turnover, and removed a staggered approach to owner investment, so that only 50% of equity injections can be spent on squad costs, with the rest assigned to infrastructure projects. Less than six months later many want to go further.",
     "Continue reading...",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+   ]
   },
   {
    "id": "independent-sir-alex-ferguson-endorsed-mauricio-pochettino-d",
@@ -406,35 +789,12 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-11-11T10:43:09.000Z",
-   "fetched_at": "2026-11-11T15:02:14.491Z",
+   "fetched_at": "2026-11-11T22:07:30.969Z",
    "body": [
     "Our briefing: The legendary Scottish manager hailed Mauricio Pochettino back in 2016, with the Argentine strongly linked a decade on to succeed Michael Carrick after a dismal run of…",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-pochettino-ready-accept-man-utd-offer-replace-ca",
-   "slug": "pochettino-ready-to-accept-man-utd-offer-to-replace-carrick-ce-ca",
-   "title": "Pochettino ready to accept Man Utd offer to replace Carrick",
-   "dek": "Mauricio Pochettino is ready to accept an offer from Manchester United to become their next head coach.",
-   "description": "Mauricio Pochettino is ready to accept an offer from Manchester United to become their next head coach.",
-   "category": "News",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-11T10:34:01.000Z",
-   "fetched_at": "2026-11-11T15:02:14.265Z",
-   "body": [
-    "Our briefing: Mauricio Pochettino is ready to accept an offer from Manchester United to become their next head coach.",
-    "Mauricio Pochettino is ready to accept an offer from Manchester United to become their next head coach.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Manchester_United_Old_Trafford.jpg/960px-Manchester_United_Old_Trafford.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
+   ]
   },
   {
    "id": "bbc-bromley-signings-not-good-enough-ex-boss-woodman",
@@ -447,15 +807,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-11T10:32:23.000Z",
-   "fetched_at": "2026-11-11T15:02:14.266Z",
+   "fetched_at": "2026-11-11T22:07:30.736Z",
    "body": [
     "Our briefing: Ex-Bromley boss Andy Woodman criticises the club's summer recruitment and says he is looking forward to his next challenge.",
     "Ex-Bromley boss Andy Woodman criticises the club's summer recruitment and says he is looking forward to his next challenge.",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
+   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "YHC — CC BY-SA 4.0"
   },
   {
    "id": "bbc-shirt-pull-isak-should-have-been-penalty-panel",
@@ -468,15 +828,13 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-11T10:23:37.000Z",
-   "fetched_at": "2026-11-11T15:02:14.266Z",
+   "fetched_at": "2026-11-11T22:07:30.735Z",
    "body": [
     "Our briefing: Liverpool should have been awarded a penalty against Arsenal for Jurrien Timber's shirt pull on Alexander Isak, says a Premier League panel.",
     "Liverpool should have been awarded a penalty against Arsenal for Jurrien Timber's shirt pull on Alexander Isak, says a Premier League panel.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+   ]
   },
   {
    "id": "bbc-wayne-rooney-leads-i-m-celebrity-get-me-out-here",
@@ -496,366 +854,7 @@
     "Team news can change right up to kick-off. Bookmark this story for the final line-ups and confirmed sides.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/U.S._soccer_team%2C_1916.jpg/960px-U.S._soccer_team%2C_1916.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "guardian-pochettino-s-manchester-united-interest-natural-",
-   "slug": "pochettino-s-manchester-united-interest-is-as-natural-as-it--ural-",
-   "title": "Pochettino’s Manchester United interest is as natural as it is disruptive to the US",
-   "dek": "The former Tottenham manager is always going to be a subject of interest, but United’s job carries a rare power As Mauricio Pochettino left the podium to close his final…",
-   "description": "The former Tottenham manager is always going to be a subject of interest, but United’s job carries a rare power As Mauricio Pochettino left the podium to close his final press conference of the last international window, he offered an ambiguous farewell. “See you next …” Pochettino began as he headed to the tunnels of Allianz Field in Saint Paul, before cutting his sentence short. Then, a bit of a sing-song: “See you next, see you next.” Continue reading...",
-   "category": "Tactics & Analysis",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-11-11T10:00:36.000Z",
-   "fetched_at": "2026-11-11T15:02:14.316Z",
-   "body": [
-    "Our briefing: The former Tottenham manager is always going to be a subject of interest, but United’s job carries a rare power As Mauricio Pochettino left the podium to close his final…",
-    "The former Tottenham manager is always going to be a subject of interest, but United’s job carries a rare power As Mauricio Pochettino left the podium to close his final press conference of the last international window, he offered an ambiguous farewell. “See you next …” Pochettino began as he headed to the tunnels of Allianz Field in Saint Paul, before cutting his sentence short. Then, a bit of a sing-song: “See you next, see you next.",
-    "” Continue reading...",
-    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Manchester_United_Old_Trafford_%28cropped%29.jpg/960px-Manchester_United_Old_Trafford_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
-  },
-  {
-   "id": "bbc-robinson-unfazed-pochettino-departure-talk",
-   "slug": "robinson-unfazed-by-pochettino-departure-talk--talk",
-   "title": "Robinson unfazed by Pochettino departure talk",
-   "dek": "Defender Antonee Robinson says speculation over USA manager Mauricio Pochettino's future has not affected the team's preparations for their Concacaf Nations League…",
-   "description": "Defender Antonee Robinson says speculation over USA manager Mauricio Pochettino's future has not affected the team's preparations for their Concacaf Nations League campaign.",
-   "category": "Transfers & Rumours",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-11T09:54:38.000Z",
-   "fetched_at": "2026-11-11T15:02:14.266Z",
-   "body": [
-    "Our briefing: Defender Antonee Robinson says speculation over USA manager Mauricio Pochettino's future has not affected the team's preparations for their Concacaf Nations League…",
-    "Defender Antonee Robinson says speculation over USA manager Mauricio Pochettino's future has not affected the team's preparations for their Concacaf Nations League campaign.",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "YHC — CC BY-SA 4.0"
-  },
-  {
-   "id": "independent-next-man-united-manager-who-could-replace-michae",
-   "slug": "next-man-united-manager-who-could-replace-michael-carrick-ichae",
-   "title": "Next Man United manager: Who could replace Michael Carrick?",
-   "dek": "Carrick is on the brink after another chaotic performance in the 4-4 draw with Aston Villa, which leaves United stuck in the bottom three during the international break",
-   "description": "Carrick is on the brink after another chaotic performance in the 4-4 draw with Aston Villa, which leaves United stuck in the bottom three during the international break",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-11-11T08:59:00.000Z",
-   "fetched_at": "2026-11-11T15:02:14.491Z",
-   "body": [
-    "Our briefing: Carrick is on the brink after another chaotic performance in the 4-4 draw with Aston Villa, which leaves United stuck in the bottom three during the international break",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "bbc-ni-can-draw-strong-club-form-key-window",
-   "slug": "ni-can-draw-on-strong-club-form-in-key-window-indow",
-   "title": "NI can draw on strong club form in key window",
-   "dek": "Northern Ireland manager Michael O'Neill believes there are players in his squad who have the ability to become Premier League regulars.",
-   "description": "Northern Ireland manager Michael O'Neill believes there are players in his squad who have the ability to become Premier League regulars.",
-   "category": "Match Reports",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-11T08:09:02.000Z",
-   "fetched_at": "2026-11-11T15:02:14.266Z",
-   "body": [
-    "Our briefing: Northern Ireland manager Michael O'Neill believes there are players in his squad who have the ability to become Premier League regulars.",
-    "Northern Ireland manager Michael O'Neill believes there are players in his squad who have the ability to become Premier League regulars.",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Kashima_Soccer_Stadium_6.jpg/960px-Kashima_Soccer_Stadium_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
-  },
-  {
-   "id": "guardian-which-football-club-has-had-most-international-c",
-   "slug": "which-football-club-has-had-most-international-captains-in-t-nal-c",
-   "title": "Which football club has had most international captains in the same team? | The Knowledge",
-   "dek": "Plus: more speedy marathons by footballers, headed goals of the season and chairs acting as managers Mail us with all of your questions and answers “Which club team has…",
-   "description": "Plus: more speedy marathons by footballers, headed goals of the season and chairs acting as managers Mail us with all of your questions and answers “Which club team has had the most international captains playing together at one time?” asks MH Zahid. “Conversely, which international team has had the most club captains in its starting lineup at one time?” A quick web search finds a fuss being made in various corners of the internet of Chelsea’s 2009-10 squad because it contained six national team captains in Michael Ballack (Germany), Petr Cech (Czech Republic), Didier Drogba (Côte d’Ivoire), Branislav Ivanovic (Serbia), Mikel John Obi (Nigeria) and John Terry (England). These are, indeed, six people who captained their countries, playing together at one time, but crucially they were not all international captains at that time, which because we like to have our hands bound as tight as possible – no questions please – mean they are disqualified from this particular tournament. Ivanovic, you see, was not named Serbia captain until 2012 and Mikel, who was but a whippersnapper at 22 when the 2009-10 season started, was still seven years from getting his hands on the Nigeria armband. Continue reading...",
-   "category": "Match Reports",
-   "league": "International",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-11-11T08:00:33.000Z",
-   "fetched_at": "2026-11-11T15:02:14.315Z",
-   "body": [
-    "Our briefing: Plus: more speedy marathons by footballers, headed goals of the season and chairs acting as managers Mail us with all of your questions and answers “Which club team has…",
-    "Plus: more speedy marathons by footballers, headed goals of the season and chairs acting as managers Mail us with all of your questions and answers “Which club team has had the most international captains playing together at one time? ” asks MH Zahid. “Conversely, which international team has had the most club captains in its starting lineup at one time?",
-    "” A quick web search finds a fuss being made in various corners of the internet of Chelsea’s 2009-10 squad because it contained six national team captains in Michael Ballack (Germany), Petr Cech (Czech Republic), Didier Drogba (Côte d’Ivoire), Branislav Ivanovic (Serbia), Mikel John Obi (Nigeria) and John Terry (England). These are, indeed, six people who captained their countries, playing together at one time, but crucially they were not all international captains at that time, which because we like to have our hands bound as tight as possible – no questions please – mean they are disqualified from this particular tournament. Ivanovic, you see, was not named Serbia captain until 2012 and Mikel, who was but a whippersnapper at 22 when the 2009-10 season started, was still seven years from getting his hands on the Nigeria armband.",
-    "Continue reading...",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "guardian-no-10-still-best-or-no-41-myths-maths-premier-le",
-   "slug": "is-no-10-still-the-best-or-no-41-the-myths-and-maths-of-prem-er-le",
-   "title": "Is No 10 still the best, or No 41? The myths and maths of Premier League shirt numbers",
-   "dek": "While No 9s still score the most goals and No 1s try to stop them, trends have changed since the introduction of squad numbers in the early 1990s How much is a shirt…",
-   "description": "While No 9s still score the most goals and No 1s try to stop them, trends have changed since the introduction of squad numbers in the early 1990s How much is a shirt number worth? It costs £8 if you want two digits added to the back of Arsenal’s 2026-27 home shirt, whereas Manchester City add on £16 for customisation, whether you want a name as well as a number or not. That is cheap compared to what baseball players decide among themselves. Juan Soto bought Brett Baty a $92,000 (£69,000) car in exchange for getting his preferred number (22) when he joined the New York Mets last year. But that’s baseball, where they allow players to wear ‘0’. Anything goes. Continue reading...",
-   "category": "Tactics & Analysis",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-11-11T08:00:32.000Z",
-   "fetched_at": "2026-11-11T15:02:14.315Z",
-   "body": [
-    "Our briefing: While No 9s still score the most goals and No 1s try to stop them, trends have changed since the introduction of squad numbers in the early 1990s How much is a shirt…",
-    "While No 9s still score the most goals and No 1s try to stop them, trends have changed since the introduction of squad numbers in the early 1990s How much is a shirt number worth? It costs £8 if you want two digits added to the back of Arsenal’s 2026-27 home shirt, whereas Manchester City add on £16 for customisation, whether you want a name as well as a number or not. That is cheap compared to what baseball players decide among themselves.",
-    "Juan Soto bought Brett Baty a $92,000 (£69,000) car in exchange for getting his preferred number (22) when he joined the New York Mets last year. But that’s baseball, where they allow players to wear ‘0’. Anything goes.",
-    "Continue reading...",
-    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "bbc-dalkeith-la-pays-off-porteous-scotland-recall",
-   "slug": "dalkeith-to-la-pays-off-for-porteous-with-scotland-recall-ecall",
-   "title": "Dalkeith to LA pays off for Porteous with Scotland recall",
-   "dek": "Centre-half Ryan Porteous has taken a long journey to Los Angeles to rekindle his Scotland career, writes Kheredine Idessane.",
-   "description": "Centre-half Ryan Porteous has taken a long journey to Los Angeles to rekindle his Scotland career, writes Kheredine Idessane.",
-   "category": "News",
-   "league": "International",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-11T08:00:14.000Z",
-   "fetched_at": "2026-11-11T15:02:14.266Z",
-   "body": [
-    "Our briefing: Centre-half Ryan Porteous has taken a long journey to Los Angeles to rekindle his Scotland career, writes Kheredine Idessane.",
-    "Centre-half Ryan Porteous has taken a long journey to Los Angeles to rekindle his Scotland career, writes Kheredine Idessane.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Soccer_fans_put_town_in_siege_%28FL62506613%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506613%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "bbc-podcast-what-s-going-wrong-hearts",
-   "slug": "podcast-what-s-going-wrong-at-hearts-earts",
-   "title": "Podcast: What’s going wrong at Hearts?",
-   "dek": "Why are Hearts conceding so many goals and how do they stop the slide?",
-   "description": "Why are Hearts conceding so many goals and how do they stop the slide?",
-   "category": "Tactics & Analysis",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-11T08:00:00.000Z",
-   "fetched_at": "2026-11-11T15:02:14.268Z",
-   "body": [
-    "Our briefing: Why are Hearts conceding so many goals and how do they stop the slide?",
-    "Why are Hearts conceding so many goals and how do they stop the slide?",
-    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Soccer_fans_put_town_in_siege_%28FL62506919%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506919%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "bbc-wimmer-among-aberdeen-applicants-gossip",
-   "slug": "wimmer-among-aberdeen-applicants-gossip-ossip",
-   "title": "Wimmer among Aberdeen applicants - gossip",
-   "dek": "Former Motherwell manager keen on Aberdeen vacancy and former Rangers loan winger keen on return to Ibrox one day...",
-   "description": "Former Motherwell manager keen on Aberdeen vacancy and former Rangers loan winger keen on return to Ibrox one day...",
-   "category": "Transfers & Rumours",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-11T07:40:54.000Z",
-   "fetched_at": "2026-11-11T15:02:14.268Z",
-   "body": [
-    "Our briefing: Former Motherwell manager keen on Aberdeen vacancy and former Rangers loan winger keen on return to Ibrox one day...",
-    "Former Motherwell manager keen on Aberdeen vacancy and former Rangers loan winger keen on return to Ibrox one day...",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Badalik_Szabolcs_Hungarian_beach_soccer_player.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "Pacsottiti — CC BY 4.0"
-  },
-  {
-   "id": "bbc-jersey-somalia-via-liverpool-man-city",
-   "slug": "from-jersey-to-somalia-via-liverpool-man-city--city",
-   "title": "From Jersey to Somalia... via Liverpool & Man City",
-   "dek": "BBC Sport charts Jarma Mohamed's surprising football journey from Premier League academies to the Somalia national team, via an app and Jersey Bulls.",
-   "description": "BBC Sport charts Jarma Mohamed's surprising football journey from Premier League academies to the Somalia national team, via an app and Jersey Bulls.",
-   "category": "News",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-11T07:13:52.000Z",
-   "fetched_at": "2026-11-11T15:02:14.266Z",
-   "body": [
-    "Our briefing: BBC Sport charts Jarma Mohamed's surprising football journey from Premier League academies to the Somalia national team, via an app and Jersey Bulls.",
-    "BBC Sport charts Jarma Mohamed's surprising football journey from Premier League academies to the Somalia national team, via an app and Jersey Bulls.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Liverpool_anfield_road_stadium.jpg/960px-Liverpool_anfield_road_stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
-  },
-  {
-   "id": "bbc-who-am-i-plus-today-s-other-quizzes",
-   "slug": "who-am-i-plus-today-s-other-quizzes-izzes",
-   "title": "Who am I? Plus today's other quizzes",
-   "dek": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-   "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-11T06:47:18.000Z",
-   "fetched_at": "2026-11-11T15:02:14.266Z",
-   "body": [
-    "Our briefing: Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-    "Test your ball knowledge against today's Who Am I? , Five in Five and Brainteaser.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Soccer_fans_in_2021.jpg/960px-Soccer_fans_in_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Miguel Discart & Kiri Karma — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-does-pickford-finally-face-serious-competition-h",
-   "slug": "does-pickford-finally-face-serious-competition-for-his-engla-ion-h",
-   "title": "Does Pickford finally face serious competition for his England place?",
-   "dek": "Does England's long-time first-choice goalkeeper Jordan Pickford finally face serious competition for his place, asks chief football writer Phil McNulty.",
-   "description": "Does England's long-time first-choice goalkeeper Jordan Pickford finally face serious competition for his place, asks chief football writer Phil McNulty.",
-   "category": "News",
-   "league": "International",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-11T06:24:28.000Z",
-   "fetched_at": "2026-11-11T15:02:14.266Z",
-   "body": [
-    "Our briefing: Does England's long-time first-choice goalkeeper Jordan Pickford finally face serious competition for his place, asks chief football writer Phil McNulty.",
-    "Does England's long-time first-choice goalkeeper Jordan Pickford finally face serious competition for his place, asks chief football writer Phil McNulty.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Soccer_fans_put_town_in_siege_%28FL62506945%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506945%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "independent-man-city-appeal-outcome-over-premier-league-rule",
-   "slug": "man-city-appeal-outcome-over-premier-league-rules-breach-can--rule",
-   "title": "Man City appeal outcome over Premier League rules breach 'cannot leave room for doubt', says integrity chief",
-   "dek": "Manchester City were found guilty of breaching Premier League financial rules in September but have since lodged an appeal",
-   "description": "Manchester City were found guilty of breaching Premier League financial rules in September but have since lodged an appeal",
-   "category": "Injuries",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-11-11T06:00:43.000Z",
-   "fetched_at": "2026-11-11T15:02:14.491Z",
-   "body": [
-    "Our briefing: Manchester City were found guilty of breaching Premier League financial rules in September but have since lodged an appeal",
-    "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Etihad_Stadium%2C_Manchester_City_Football_Club_%28Ank_Kumar%2C_Infosys%29_16.jpg/960px-Etihad_Stadium%2C_Manchester_City_Football_Club_%28Ank_Kumar%2C_Infosys%29_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ank kumar — CC BY-SA 4.0"
-  },
-  {
-   "id": "guardian-bone-broth-sweets-ban-acupuncture-harry-kane-s-r",
-   "slug": "bone-broth-sweets-ban-and-acupuncture-harry-kane-s-road-to-r-e-s-r",
-   "title": "Bone broth, sweets ban and acupuncture: Harry Kane’s road to record England cap",
-   "dek": "Obsessive attention to detail is helping striker to reach new heights – and a 126th international appearance on Thursday It was Harry Kane’s dirty little secret.…",
-   "description": "Obsessive attention to detail is helping striker to reach new heights – and a 126th international appearance on Thursday It was Harry Kane’s dirty little secret. Something the England captain got up to after matches. He felt he deserved the indulgence. Yes, it can be revealed, Kane loved to reward himself after a gruelling 90 minutes with a bag of sweets. “I do like a Haribo,” he said with a smile after the Nations League win against Czechia in Prague at the end of September. No more. At the beginning of last season, Kane took the decision to cut out the naughty treats. After a while, he noticed a difference. He felt sharper; able to sprint more, make a greater number of accelerations. Was it down to this latest entry on the list of personal sacrifices? Or was it a consequence of his broader health regime, the scope of which is mind-blowing? Continue reading...",
-   "category": "Injuries",
-   "league": "International",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-11-11T06:00:32.000Z",
-   "fetched_at": "2026-11-11T15:02:14.315Z",
-   "body": [
-    "Our briefing: Obsessive attention to detail is helping striker to reach new heights – and a 126th international appearance on Thursday It was Harry Kane’s dirty little secret.…",
-    "Obsessive attention to detail is helping striker to reach new heights – and a 126th international appearance on Thursday It was Harry Kane’s dirty little secret. Something the England captain got up to after matches. He felt he deserved the indulgence.",
-    "Yes, it can be revealed, Kane loved to reward himself after a gruelling 90 minutes with a bag of sweets. “I do like a Haribo,” he said with a smile after the Nations League win against Czechia in Prague at the end of September. No more.",
-    "At the beginning of last season, Kane took the decision to cut out the naughty treats. After a while, he noticed a difference. He felt sharper; able to sprint more, make a greater number of accelerations.",
-    "Was it down to this latest entry on the list of personal sacrifices? Or was it a consequence of his broader health regime, the scope of which is mind-blowing? Continue reading...",
-    "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Field_hockey_and_soccer_for_women_%28IA_fieldhockeysocce00fros%29.pdf/page1-960px-Field_hockey_and_soccer_for_women_%28IA_fieldhockeysocce00fros%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "bbc-vin-cius-jr-sends-message-sudan-boy-who-received",
-   "slug": "vin-cius-jr-sends-message-to-sudan-boy-who-received-prosthet-eived",
-   "title": "Vinícius Jr sends message to Sudan boy who received prosthetic legs after BBC report sparks appeal",
-   "dek": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again.",
-   "description": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-11T00:19:42.000Z",
-   "fetched_at": "2026-11-11T15:02:14.266Z",
-   "body": [
-    "Our briefing: Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again.",
-    "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ]
-  },
-  {
-   "id": "bbc-arsenal-eye-real-s-endrick-wednesday-s-gossip",
-   "slug": "arsenal-eye-real-s-endrick-wednesday-s-gossip-ossip",
-   "title": "Arsenal eye Real's Endrick - Wednesday's gossip",
-   "dek": "Real Madrid forward Endrick is on Arsenal's radar, Liverpool right-back Jeremie Frimpong is not headed for the Anfield exit door, Newcastle and Sunderland among the clubs…",
-   "description": "Real Madrid forward Endrick is on Arsenal's radar, Liverpool right-back Jeremie Frimpong is not headed for the Anfield exit door, Newcastle and Sunderland among the clubs interested in Croatian striker Dion Beljo, plus more.",
-   "category": "News",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-10T23:08:35.000Z",
-   "fetched_at": "2026-11-11T15:02:14.266Z",
-   "body": [
-    "Our briefing: Real Madrid forward Endrick is on Arsenal's radar, Liverpool right-back Jeremie Frimpong is not headed for the Anfield exit door, Newcastle and Sunderland among the clubs…",
-    "Real Madrid forward Endrick is on Arsenal's radar, Liverpool right-back Jeremie Frimpong is not headed for the Anfield exit door, Newcastle and Sunderland among the clubs interested in Croatian striker Dion Beljo, plus more.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Arsenal_Stadium_Highbury_east_facade.jpg/960px-Arsenal_Stadium_Highbury_east_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "No machine-readable author provided. Qwghlm~commonswiki assumed (based on copyright claims). — CC BY-SA 3.0"
-  },
-  {
-   "id": "independent-scott-mctominay-had-heart-shocked-eve-scotland-s",
-   "slug": "scott-mctominay-had-heart-shocked-on-eve-of-scotland-s-world-and-s",
-   "title": "Scott McTominay had heart 'shocked' on eve of Scotland's World Cup campaign",
-   "dek": "The Napoli midfielder also underwent a cardiac ablation procedure in Manchester in September to treat a mild, benign heart arrhythmia",
-   "description": "The Napoli midfielder also underwent a cardiac ablation procedure in Manchester in September to treat a mild, benign heart arrhythmia",
-   "category": "News",
-   "league": "International",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-11-10T23:08:27.000Z",
-   "fetched_at": "2026-11-11T15:02:14.491Z",
-   "body": [
-    "Our briefing: The Napoli midfielder also underwent a cardiac ablation procedure in Manchester in September to treat a mild, benign heart arrhythmia",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ]
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/U.S._soccer_team%2C_1916.jpg/960px-U.S._soccer_team%2C_1916.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   }
  ]
 }
