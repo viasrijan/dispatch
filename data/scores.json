@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T15:37:08.402Z",
+ "generated_at": "2026-11-14T20:28:25.132Z",
  "matches": [
   {
    "league": "La Liga",
@@ -13,97 +13,6 @@
    "clock": "",
    "time": "Fri, November 20th at 3:00 PM EST",
    "date": "2026-11-20T20:00Z"
-  },
-  {
-   "league": "Premier League",
-   "home": "Brighton & Hove Albion",
-   "away": "Brentford",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png",
-   "homeScore": 2,
-   "awayScore": 0,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-11-08T14:00Z"
-  },
-  {
-   "league": "Premier League",
-   "home": "Crystal Palace",
-   "away": "Liverpool",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-   "homeScore": 1,
-   "awayScore": 3,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-11-08T14:00Z"
-  },
-  {
-   "league": "Premier League",
-   "home": "Ipswich Town",
-   "away": "AFC Bournemouth",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
-   "homeScore": 1,
-   "awayScore": 2,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-11-08T14:00Z"
-  },
-  {
-   "league": "Premier League",
-   "home": "Sunderland",
-   "away": "Chelsea",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-   "homeScore": 1,
-   "awayScore": 0,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-11-08T14:00Z"
-  },
-  {
-   "league": "Premier League",
-   "home": "Manchester United",
-   "away": "Aston Villa",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-   "homeScore": 4,
-   "awayScore": 4,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-11-08T16:30Z"
-  },
-  {
-   "league": "Bundesliga",
-   "home": "Bayern Munich",
-   "away": "FC Cologne",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, November 20th at 2:30 PM EST",
-   "date": "2026-11-20T19:30Z"
-  },
-  {
-   "league": "Ligue 1",
-   "home": "Troyes",
-   "away": "Le Havre AC",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/170.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3236.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, November 20th at 2:45 PM EST",
-   "date": "2026-11-20T19:45Z"
   },
   {
    "league": "Serie A",
@@ -169,6 +78,97 @@
    "clock": "",
    "time": "FT",
    "date": "2026-11-08T19:45Z"
+  },
+  {
+   "league": "Bundesliga",
+   "home": "Bayern Munich",
+   "away": "FC Cologne",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, November 20th at 2:30 PM EST",
+   "date": "2026-11-20T19:30Z"
+  },
+  {
+   "league": "Ligue 1",
+   "home": "Troyes",
+   "away": "Le Havre AC",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/170.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3236.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, November 20th at 2:45 PM EST",
+   "date": "2026-11-20T19:45Z"
+  },
+  {
+   "league": "Premier League",
+   "home": "Brighton & Hove Albion",
+   "away": "Brentford",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png",
+   "homeScore": 2,
+   "awayScore": 0,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-11-08T14:00Z"
+  },
+  {
+   "league": "Premier League",
+   "home": "Crystal Palace",
+   "away": "Liverpool",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+   "homeScore": 1,
+   "awayScore": 3,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-11-08T14:00Z"
+  },
+  {
+   "league": "Premier League",
+   "home": "Ipswich Town",
+   "away": "AFC Bournemouth",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
+   "homeScore": 1,
+   "awayScore": 2,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-11-08T14:00Z"
+  },
+  {
+   "league": "Premier League",
+   "home": "Sunderland",
+   "away": "Chelsea",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
+   "homeScore": 1,
+   "awayScore": 0,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-11-08T14:00Z"
+  },
+  {
+   "league": "Premier League",
+   "home": "Manchester United",
+   "away": "Aston Villa",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+   "homeScore": 4,
+   "awayScore": 4,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-11-08T16:30Z"
   }
  ]
 }
