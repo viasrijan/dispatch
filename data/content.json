@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-15T00:08:58.944Z",
- "updated_utc": "2026-11-15T00:08Z",
- "cycle": 29911688,
+ "generated_at": "2026-11-15T06:58:24.005Z",
+ "updated_utc": "2026-11-15T06:58Z",
+ "cycle": 29912098,
  "sources_used": [
   {
    "id": "bbc",
@@ -19,6 +19,48 @@
  "hero_id": "bbc-devlin-nets-winner-ni-top-nations-league-group",
  "articles": [
   {
+   "id": "bbc-who-am-i-plus-today-s-other-quizzes",
+   "slug": "who-am-i-plus-today-s-other-quizzes-izzes",
+   "title": "Who am I? Plus today's other quizzes",
+   "dek": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "description": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-15T06:47:10.000Z",
+   "fetched_at": "2026-11-15T06:58:20.183Z",
+   "body": [
+    "Our briefing: Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+    "Test your football knowledge against today's Who Am I? , Five in Five and Brainteaser.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "John Shorten — CC BY 4.0"
+  },
+  {
+   "id": "bbc-respect-exposure-why-england-s-star-names-are-go",
+   "slug": "respect-exposure-why-england-s-star-names-are-going-abroad-re-go",
+   "title": "Respect? Exposure? Why England's star names are going abroad",
+   "dek": "Harry Kane, Jude Bellingham and Anthony Gordon are three of England's current biggest stars, but all have chosen to play their club football abroad.",
+   "description": "Harry Kane, Jude Bellingham and Anthony Gordon are three of England's current biggest stars, but all have chosen to play their club football abroad.",
+   "category": "Tactics & Analysis",
+   "league": "International",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-15T06:25:41.000Z",
+   "fetched_at": "2026-11-15T06:58:20.183Z",
+   "body": [
+    "Our briefing: Harry Kane, Jude Bellingham and Anthony Gordon are three of England's current biggest stars, but all have chosen to play their club football abroad.",
+    "Harry Kane, Jude Bellingham and Anthony Gordon are three of England's current biggest stars, but all have chosen to play their club football abroad.",
+    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
+  },
+  {
    "id": "bbc-manager-s-dream-who-has-put-ni-one-game-history",
    "slug": "the-manager-s-dream-who-has-put-ni-one-game-from-history-story",
    "title": "The 'manager's dream' who has put NI one game from history",
@@ -29,15 +71,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-14T23:21:45.000Z",
-   "fetched_at": "2026-11-15T00:08:53.411Z",
+   "fetched_at": "2026-11-15T06:58:20.183Z",
    "body": [
     "Our briefing: After scoring his first international goal in the 1-0 win over Ukraine, Northern Ireland boss Michael O'Neill says Terry Devlin is \"a bit of a dream\" to manage.",
     "After scoring his first international goal in the 1-0 win over Ukraine, Northern Ireland boss Michael O'Neill says Terry Devlin is \"a bit of a dream\" to manage.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "John Shorten — CC BY 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
   },
   {
    "id": "bbc-hallgrimsson-rues-painful-defeat-republic-irelan",
@@ -50,7 +92,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-14T22:40:02.000Z",
-   "fetched_at": "2026-11-15T00:08:53.411Z",
+   "fetched_at": "2026-11-15T06:58:20.183Z",
    "body": [
     "Our briefing: Republic of Ireland boss Heimir Hallgrimsson says their 1-0 defeat against Austria in their penultimate Nations League game was \"painful\".",
     "Republic of Ireland boss Heimir Hallgrimsson says their 1-0 defeat against Austria in their penultimate Nations League game was \"painful\".",
@@ -71,7 +113,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-14T22:38:02.000Z",
-   "fetched_at": "2026-11-15T00:08:53.411Z",
+   "fetched_at": "2026-11-15T06:58:20.184Z",
    "body": [
     "Our briefing: Watch highlights as Northern Ireland beat Ukraine 1-0 at Windsor Park in the Nations League.",
     "Watch highlights as Northern Ireland beat Ukraine 1-0 at Windsor Park in the Nations League.",
@@ -92,15 +134,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-14T22:26:56.000Z",
-   "fetched_at": "2026-11-15T00:08:53.411Z",
+   "fetched_at": "2026-11-15T06:58:20.183Z",
    "body": [
     "Our briefing: Midfielder Declan Rice has defended his Arsenal team-mate Ben White after he was booed during England's win over Croatia at Wembley.",
     "Midfielder Declan Rice has defended his Arsenal team-mate Ben White after he was booed during England's win over Croatia at Wembley.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "guardian-nations-league-roundup-portugal-mauled-denmark-n",
@@ -113,15 +155,15 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-11-14T22:23:39.000Z",
-   "fetched_at": "2026-11-15T00:08:53.632Z",
+   "fetched_at": "2026-11-15T06:58:20.308Z",
    "body": [
     "Our briefing: Portugal thrashed 4-1 at home by Denmark Wales bottom of Group A4 after 3-1 loss Portugal were hammered 4-1 by Denmark on Saturday, an embarrassing Nations League defeat…",
     "Portugal thrashed 4-1 at home by Denmark Wales bottom of Group A4 after 3-1 loss Portugal were hammered 4-1 by Denmark on Saturday, an embarrassing Nations League defeat in their first match without Cristiano Ronaldo after his retirement from international football. Rasmus Højlund starred with a superb double as Denmark moved into second place in Group A4 and closed in on a spot in the quarter-finals with an exceptional display in Braga. Continue reading...",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
    "id": "bbc-arsenal-target-nusa-could-cost-66m-sunday-s-goss",
@@ -134,7 +176,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-14T21:48:45.000Z",
-   "fetched_at": "2026-11-15T00:08:53.411Z",
+   "fetched_at": "2026-11-15T06:58:20.184Z",
    "body": [
     "Our briefing: Arsenal could have to pay £66m for RB Leipzig's Antonio Nusa, Real Betis reject Chelsea's bid for Jose Morante, plus more.",
     "Arsenal could have to pay £66m for RB Leipzig's Antonio Nusa, Real Betis reject Chelsea's bid for Jose Morante, plus more.",
@@ -155,15 +197,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-14T20:52:48.000Z",
-   "fetched_at": "2026-11-15T00:08:53.411Z",
+   "fetched_at": "2026-11-15T06:58:20.184Z",
    "body": [
     "Our briefing: BBC Sport Wales explains how Wales can stay in the Nations League top tier despite finishing bottom of their group.",
     "BBC Sport Wales explains how Wales can stay in the Nations League top tier despite finishing bottom of their group.",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   },
   {
    "id": "bbc-no-racism-spain-de-la-fuente-message-tuchel",
@@ -176,14 +218,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-14T20:43:57.000Z",
-   "fetched_at": "2026-11-15T00:08:53.411Z",
+   "fetched_at": "2026-11-15T06:58:20.183Z",
    "body": [
     "Our briefing: Spain manager Luis de la Fuente says \"there is no racism in Spain\" and England boss Thomas Tuchel reiterates that he does not believe it will be an issue at Sunday's…",
     "Spain manager Luis de la Fuente says \"there is no racism in Spain\" and England boss Thomas Tuchel reiterates that he does not believe it will be an issue at Sunday's Nations League meeting in Madrid.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -197,7 +239,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-11-14T20:36:53.000Z",
-   "fetched_at": "2026-11-15T00:08:53.805Z",
+   "fetched_at": "2026-11-15T06:58:20.447Z",
    "body": [
     "Our briefing: The England and Arsenal midfielder, who has been accused of playing ‘old man football’, is only just returning to full fitness after a demanding season for club and…",
     "The England and Arsenal midfielder, who has been accused of playing ‘old man football’, is only just returning to full fitness after a demanding season for club and country.",
@@ -218,15 +260,15 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-11-14T20:33:50.000Z",
-   "fetched_at": "2026-11-15T00:08:53.632Z",
+   "fetched_at": "2026-11-15T06:58:20.308Z",
    "body": [
     "Our briefing: Tanzanian scores second-half winner in 2-1 victory Spirit reach fifth NWSL final and third in succession Washington will chase second title at home ground Clara Luvanga…",
     "Tanzanian scores second-half winner in 2-1 victory Spirit reach fifth NWSL final and third in succession Washington will chase second title at home ground Clara Luvanga scored her second goal of the postseason in the 57th minute, capitalizing on an errant pass as the Washington Spirit reached their fifth NWSL Championship and third straight with a 2-1 semi-final victory over the Utah Royals on Saturday. Luvanga raced on to Nuria Rábano’s ill-advised ball after it rolled past Utah center-back Tatumn Milazzo, then chipped it delicately over the advancing goalkeeper Mandy McGlynn for the winner. Continue reading...",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
    "id": "guardian-declan-rice-accepts-he-had-average-world-cup-eng",
@@ -239,7 +281,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-11-14T20:30:00.000Z",
-   "fetched_at": "2026-11-15T00:08:53.632Z",
+   "fetched_at": "2026-11-15T06:58:20.308Z",
    "body": [
     "Our briefing: Midfielder needed a break ‘to come back stronger’ James Trafford selected to start in goal for England Declan Rice has admitted he had an “average” World Cup at the end…",
     "Midfielder needed a break ‘to come back stronger’ James Trafford selected to start in goal for England Declan Rice has admitted he had an “average” World Cup at the end of a gruelling season and needed time out during the international window in September and October in order to return stronger. The Arsenal midfielder believes the break has served its purpose, having produced starring performances against Bayern Munich and Liverpool in recent weeks . He is now ready to hit his best level for England in Sunday’s Nations League showdown against Spain at the Metropolitano Stadium.",
@@ -247,7 +289,7 @@
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -261,7 +303,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-11-14T20:27:02.000Z",
-   "fetched_at": "2026-11-15T00:08:53.632Z",
+   "fetched_at": "2026-11-15T06:58:20.308Z",
    "body": [
     "Our briefing: De la Fuente tells Tuchel ‘we’re not racists, none of us’ Tuchel hits out at media for ‘creating confusion’ Luis de la Fuente has told Thomas Tuchel there is no racism in…",
     "De la Fuente tells Tuchel ‘we’re not racists, none of us’ Tuchel hits out at media for ‘creating confusion’ Luis de la Fuente has told Thomas Tuchel there is no racism in Spain after the England coach’s admission that he would remind his players of the anti-racism protocol prior to their meeting at the Metropolitano on Sunday night. This will be the first time the countries play each other in Madrid since some of England’s black players were subjected to racist abuse in a match at the Santiago Bernabéu in 2004 . And although England have returned to Spain three times without incident since then, twice in Seville and once in Alicante, Tuchel was asked on Friday about going back in the buildup to Sunday’s game.",
@@ -269,7 +311,7 @@
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
@@ -283,15 +325,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-14T20:22:00.000Z",
-   "fetched_at": "2026-11-15T00:08:53.410Z",
+   "fetched_at": "2026-11-15T06:58:20.183Z",
    "body": [
     "Our briefing: England's game with world champions Spain will reveal if head coach Thomas Tuchel has learned from summer disappointment, says chief football writer Phil McNulty.",
     "England's game with world champions Spain will reveal if head coach Thomas Tuchel has learned from summer disappointment, says chief football writer Phil McNulty.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "guardian-here-manchester-united-go-again-taking-two-ronni",
@@ -304,7 +346,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-11-14T20:00:53.000Z",
-   "fetched_at": "2026-11-15T00:08:53.632Z",
+   "fetched_at": "2026-11-15T06:58:20.308Z",
    "body": [
     "Our briefing: Mauricio Pochettino’s arrival feels like yet another appointment that would have been better made a few years ago Magnusson: And your time starts ... now! What is…",
     "Mauricio Pochettino’s arrival feels like yet another appointment that would have been better made a few years ago Magnusson: And your time starts ... now! What is paleontology?",
@@ -329,15 +371,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-14T19:23:13.000Z",
-   "fetched_at": "2026-11-15T00:08:53.411Z",
+   "fetched_at": "2026-11-15T06:58:20.184Z",
    "body": [
     "Our briefing: Watch the best of the action as Norway beat Wales in the Nations League in Oslo.",
     "Watch the best of the action as Norway beat Wales in the Nations League in Oslo.",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Kashima_Soccer_Stadium_6.jpg/960px-Kashima_Soccer_Stadium_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   },
   {
    "id": "guardian-clinical-norway-dent-wales-nations-league-top-ti",
@@ -370,7 +412,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-11-14T19:13:43.000Z",
-   "fetched_at": "2026-11-15T00:08:53.632Z",
+   "fetched_at": "2026-11-15T06:58:20.308Z",
    "body": [
     "Our briefing: Original No 7 design preserved to honour player Career brought 146 goals and three major titles Portugal have made a permanent change to the No 7 shirt to honour the…",
     "Original No 7 design preserved to honour player Career brought 146 goals and three major titles Portugal have made a permanent change to the No 7 shirt to honour the legacy of Cristiano Ronaldo and ensure the number remains forever associated with their greatest footballing icon. The former forward, whose career spanned 23 years and 246 caps in which he scored 146 goals, announced his retirement on 5 November after a falling out with coach Jorge Jesus. His last appearance for Portugal was on 24 September, in a 1-0 home win over Wales in the Nations League.",
@@ -378,8 +420,8 @@
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
    "id": "bbc-bompastor-s-risks-pay-off-chelsea-go-top-wsl",
@@ -392,7 +434,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-14T18:55:34.000Z",
-   "fetched_at": "2026-11-15T00:08:53.411Z",
+   "fetched_at": "2026-11-15T06:58:20.183Z",
    "body": [
     "Our briefing: In any big encounter you will often hear managers say it is the \"fine margins\" that decide a game. In this case, it was Sonia Bompastor's decisions.",
     "In any big encounter you will often hear managers say it is the \"fine margins\" that decide a game. In this case, it was Sonia Bompastor's decisions.",
@@ -413,7 +455,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-14T18:27:23.000Z",
-   "fetched_at": "2026-11-15T00:08:53.411Z",
+   "fetched_at": "2026-11-15T06:58:20.184Z",
    "body": [
     "Our briefing: Maya le Tissier scores a stunning strike on her 150th appearance for Manchester United to help her side beat Crystal Palace 2-0 in the WSL, as the home side extend their…",
     "Maya le Tissier scores a stunning strike on her 150th appearance for Manchester United to help her side beat Crystal Palace 2-0 in the WSL, as the home side extend their unbeaten run in all competitions to 12 matches.",
@@ -434,7 +476,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-11-14T17:44:29.000Z",
-   "fetched_at": "2026-11-15T00:08:53.805Z",
+   "fetched_at": "2026-11-15T06:58:20.447Z",
    "body": [
     "Our briefing: Chelsea 1-0 Manchester City: Sandy Baltimore’s stunning goal on the stroke of half-time condemned the champions to their first defeat of the season as the Blues replaced…",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
@@ -454,15 +496,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-14T16:26:49.000Z",
-   "fetched_at": "2026-11-15T00:08:53.411Z",
+   "fetched_at": "2026-11-15T06:58:20.184Z",
    "body": [
     "Our briefing: Tenerife boss Alvaro Cervera reacts to goalkeeper Jesus Owono's 12-match ban as the club prepare for their first game since the death of Jesus de Miguel.",
     "Tenerife boss Alvaro Cervera reacts to goalkeeper Jesus Owono's 12-match ban as the club prepare for their first game since the death of Jesus de Miguel.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Kashima_Soccer_Stadium_6.jpg/960px-Kashima_Soccer_Stadium_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
    "id": "bbc-former-stoke-city-manager-thordarson-dies-aged-7",
@@ -475,14 +517,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-14T15:04:59.000Z",
-   "fetched_at": "2026-11-15T00:08:53.411Z",
+   "fetched_at": "2026-11-15T06:58:20.184Z",
    "body": [
     "Our briefing: Gudjon Thordarson, who led Stoke City to promotion from the third tier in 2002 and managed three other English clubs, dies aged 71.",
     "Gudjon Thordarson, who led Stoke City to promotion from the third tier in 2002 and managed three other English clubs, dies aged 71.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
@@ -496,7 +538,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-11-14T14:06:37.000Z",
-   "fetched_at": "2026-11-15T00:08:53.632Z",
+   "fetched_at": "2026-11-15T06:58:20.308Z",
    "body": [
     "Our briefing: The coach’s tenure with the USMNT brought a whiplash of highs and lows. He met some goals but also left many with the impression he never truly bought in It did not take…",
     "The coach’s tenure with the USMNT brought a whiplash of highs and lows. He met some goals but also left many with the impression he never truly bought in It did not take US men’s national team coach Mauricio Pochettino very long to take his first big swing. He’d just taken the reins of the program after a disastrous performance at the 2024 Copa América cost his predecessor his job, with the first home World Cup in three decades looming on the horizon.",
@@ -505,7 +547,7 @@
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Soccer_fans_put_town_in_siege_%28FL62506613%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506613%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
@@ -540,7 +582,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-11-14T13:07:33.000Z",
-   "fetched_at": "2026-11-15T00:08:53.632Z",
+   "fetched_at": "2026-11-15T06:58:20.308Z",
    "body": [
     "Our briefing: Brazil loss in Singapore marred by unruly end to friendly Argentina beaten 2-1 by Uruguay in Buenos Aires Raphinha was sent off as Brazil crashed to a 3-2 defeat by Japan…",
     "Brazil loss in Singapore marred by unruly end to friendly Argentina beaten 2-1 by Uruguay in Buenos Aires Raphinha was sent off as Brazil crashed to a 3-2 defeat by Japan in their international friendly in Singapore. The Barcelona captain had been substituted after 71 minutes, but was shown a red card after protesting against Tatsuhiro Sakamoto’s stoppage-time winner on the touchline. The Brazil head coach, Carlo Ancelotti, was also sent off in a fractious ending to the match.",
@@ -548,7 +590,7 @@
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Soccer_fans_put_town_in_siege_%28FL62506613%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506613%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Soccer_fans_put_town_in_siege_%28FL62506919%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506919%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
@@ -604,14 +646,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-14T09:13:30.000Z",
-   "fetched_at": "2026-11-15T00:08:53.411Z",
+   "fetched_at": "2026-11-15T06:58:20.184Z",
    "body": [
     "Our briefing: Manager Thomas Tuchel will remind England's players of Uefa's anti-racism protocols before Sunday's Nations League fixture against Spain in Madrid.",
     "Manager Thomas Tuchel will remind England's players of Uefa's anti-racism protocols before Sunday's Nations League fixture against Spain in Madrid.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Soccer_fans_put_town_in_siege_%28FL62506919%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506919%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Soccer_fans_put_town_in_siege_%28FL62506945%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506945%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
@@ -625,15 +667,13 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-14T08:57:49.000Z",
-   "fetched_at": "2026-11-15T00:08:53.411Z",
+   "fetched_at": "2026-11-15T06:58:20.184Z",
    "body": [
     "Our briefing: How many England players do you think would make the Spain team?",
     "How many England players do you think would make the Spain team?",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
     "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
+   ]
   },
   {
    "id": "guardian-pochettino-manchester-united-latest-wsl-nations-",
@@ -667,15 +707,13 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-14T08:35:00.000Z",
-   "fetched_at": "2026-11-15T00:08:53.411Z",
+   "fetched_at": "2026-11-15T06:58:20.184Z",
    "body": [
     "Our briefing: Mansfield boss Nigel Clough discusses his longevity and staying power as he becomes a club's longest-serving manager for a second time in his career.",
     "Mansfield boss Nigel Clough discusses his longevity and staying power as he becomes a club's longest-serving manager for a second time in his career.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Soccer_fans_put_town_in_siege_%28FL62506945%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506945%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
+   ]
   },
   {
    "id": "bbc-titz-clarke-aberdeen-shortlist-gossip",
@@ -688,7 +726,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-14T08:28:16.000Z",
-   "fetched_at": "2026-11-15T00:08:53.412Z",
+   "fetched_at": "2026-11-15T06:58:20.185Z",
    "body": [
     "Our briefing: Steve Clarke and Christian Titz are reportedly on Aberdeen's shortlist to replace Stephen Robinson as manager.",
     "Steve Clarke and Christian Titz are reportedly on Aberdeen's shortlist to replace Stephen Robinson as manager.",
@@ -751,7 +789,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-14T07:49:46.000Z",
-   "fetched_at": "2026-11-15T00:08:53.411Z",
+   "fetched_at": "2026-11-15T06:58:20.184Z",
    "body": [
     "Our briefing: After drawing level with Hughie Gallacher on 24 Scotland goals, will midfielder John McGinn reach Kenny Dalglish and Denis Law's record tally of 30?",
     "After drawing level with Hughie Gallacher on 24 Scotland goals, will midfielder John McGinn reach Kenny Dalglish and Denis Law's record tally of 30?",
@@ -770,7 +808,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-11-14T06:53:23.000Z",
-   "fetched_at": "2026-11-15T00:08:53.633Z",
+   "fetched_at": "2026-11-15T06:58:20.309Z",
    "body": [
     "Our briefing: The captain, the talisman, the brand: former teammates and experts discuss Portugal entering a new era after 23 years There are days football fans hope will never come.…",
     "The captain, the talisman, the brand: former teammates and experts discuss Portugal entering a new era after 23 years There are days football fans hope will never come. For Portugal, this is one of them. For 23 years, Cristiano Ronaldo has been more than the country’s greatest footballer; he has been its defining sporting figure, a symbol of national pride and constant presence in the lives of supporters.",
@@ -802,25 +840,6 @@
    "imageCredit": "Chris Whippet — CC BY-SA 2.0"
   },
   {
-   "id": "bbc-who-am-i-plus-today-s-other-quizzes",
-   "slug": "who-am-i-plus-today-s-other-quizzes-izzes",
-   "title": "Who am I? Plus today's other quizzes",
-   "dek": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-   "description": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-14T06:27:36.000Z",
-   "fetched_at": "2026-11-15T00:08:53.411Z",
-   "body": [
-    "Our briefing: Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-    "Test your football knowledge against today's Who Am I? , Five in Five and Brainteaser.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ]
-  },
-  {
    "id": "guardian-nations-league-germany-set-up-netherlands-clash-",
    "slug": "nations-league-germany-set-up-netherlands-clash-after-beatin-lash-",
    "title": "Nations League: Germany set up Netherlands clash after beating Serbia",
@@ -840,26 +859,6 @@
     "This summary was compiled from reporting published by The Guardian."
    ],
    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-  },
-  {
-   "id": "independent-john-mcginn-sets-sights-scotland-scoring-record-",
-   "slug": "john-mcginn-sets-sights-on-scotland-scoring-record-after-bra-cord-",
-   "title": "John McGinn sets sights on Scotland scoring record after brace in win over North Macedonia",
-   "dek": "Scotland 2-1 North Macedonia: McGinn struck twice at Hampden Park on the night that captain Andy Robertson equalled a Scottish record of his own",
-   "description": "Scotland 2-1 North Macedonia: McGinn struck twice at Hampden Park on the night that captain Andy Robertson equalled a Scottish record of his own",
-   "category": "News",
-   "league": "International",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-11-13T23:10:47.000Z",
-   "fetched_at": "2026-11-14T20:28:17.766Z",
-   "body": [
-    "Our briefing: Scotland 2-1 North Macedonia: McGinn struck twice at Hampden Park on the night that captain Andy Robertson equalled a Scottish record of his own",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
   }
  ]
 }
