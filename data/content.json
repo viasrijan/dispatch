@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-18T17:50:41.753Z",
- "updated_utc": "2026-11-18T17:50Z",
- "cycle": 29917070,
+ "generated_at": "2026-11-18T23:57:59.214Z",
+ "updated_utc": "2026-11-18T23:57Z",
+ "cycle": 29917437,
  "sources_used": [
   {
    "id": "bbc",
@@ -16,8 +16,472 @@
    "name": "The Independent"
   }
  ],
- "hero_id": "bbc-72-efl-podcast",
+ "hero_id": "bbc-buurman-rescues-late-chelsea-win-against-psg",
  "articles": [
+  {
+   "id": "independent-buurman-scores-late-winner-chelsea-while-man-cit",
+   "slug": "buurman-scores-late-winner-for-chelsea-while-man-city-earn-b-n-cit",
+   "title": "Buurman scores late winner for Chelsea while Man City earn back-to-back Champions League victories",
+   "dek": "Elsewhere there were wins for Real Madrid and Juventus",
+   "description": "Elsewhere there were wins for Real Madrid and Juventus",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-11-18T22:59:07.000Z",
+   "fetched_at": "2026-11-18T23:57:51.456Z",
+   "body": [
+    "Our briefing: Elsewhere there were wins for Real Madrid and Juventus",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Chelsea_vs_union_1929.jpg/960px-Chelsea_vs_union_1929.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
+   "id": "bbc-man-utd-pursuing-como-s-paz-thursday-s-gossip",
+   "slug": "man-utd-pursuing-como-s-paz-thursday-s-gossip-ossip",
+   "title": "Man Utd pursuing Como's Paz - Thursday's gossip",
+   "dek": "Manchester United pursuing Nico Paz, Besiktas plot move for Amad Diallo, Barcelona to rebuff offers for Alejandro Balde, plus more.",
+   "description": "Manchester United pursuing Nico Paz, Besiktas plot move for Amad Diallo, Barcelona to rebuff offers for Alejandro Balde, plus more.",
+   "category": "News",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-18T22:34:05.000Z",
+   "fetched_at": "2026-11-18T23:57:51.109Z",
+   "body": [
+    "Our briefing: Manchester United pursuing Nico Paz, Besiktas plot move for Amad Diallo, Barcelona to rebuff offers for Alejandro Balde, plus more.",
+    "Manchester United pursuing Nico Paz, Besiktas plot move for Amad Diallo, Barcelona to rebuff offers for Alejandro Balde, plus more.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Manchester_United_Old_Trafford.jpg/960px-Manchester_United_Old_Trafford.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
+  },
+  {
+   "id": "guardian-manchester-united-s-infamous-1974-relegation-war",
+   "slug": "manchester-united-s-infamous-1974-relegation-is-a-warning-fr-n-war",
+   "title": "Manchester United’s infamous 1974 relegation is a warning from history",
+   "dek": "It may have been a different era, but the 1970s contain salutary lessons for a club in serious decline once again In many ways, there are striking parallels between the…",
+   "description": "It may have been a different era, but the 1970s contain salutary lessons for a club in serious decline once again In many ways, there are striking parallels between the Manchester United relegated in 1974 and the Manchester United sitting in the relegation zone at this stage of the season for the first time in 40 years. A legendary manager leaves, his shadow remains; with boardroom dithering and uncertainty, his replacements churn and burn as the club slide over several years. Sir Matt Busby stepped aside as manager of the 1968 European Cup-winning side, but stayed on as a director, just as Sir Alex Ferguson did, watching from the Old Trafford directors’ box as successors tried and failed. Continue reading...",
+   "category": "News",
+   "league": "Premier League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-11-18T22:30:10.000Z",
+   "fetched_at": "2026-11-18T23:57:51.281Z",
+   "body": [
+    "Our briefing: It may have been a different era, but the 1970s contain salutary lessons for a club in serious decline once again In many ways, there are striking parallels between the…",
+    "It may have been a different era, but the 1970s contain salutary lessons for a club in serious decline once again In many ways, there are striking parallels between the Manchester United relegated in 1974 and the Manchester United sitting in the relegation zone at this stage of the season for the first time in 40 years. A legendary manager leaves, his shadow remains; with boardroom dithering and uncertainty, his replacements churn and burn as the club slide over several years. Sir Matt Busby stepped aside as manager of the 1968 European Cup-winning side, but stayed on as a director, just as Sir Alex Ferguson did, watching from the Old Trafford directors’ box as successors tried and failed.",
+    "Continue reading...",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Manchester_United_Old_Trafford_%28cropped%29.jpg/960px-Manchester_United_Old_Trafford_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
+  },
+  {
+   "id": "bbc-buurman-rescues-late-chelsea-win-against-psg",
+   "slug": "buurman-rescues-late-chelsea-win-against-psg-t-psg",
+   "title": "Buurman rescues late Chelsea win against PSG",
+   "dek": "Veerle Buurman scores an 87th-minute winner for Chelsea as they edge past Paris St-Germain 1-0 in the Women's Champions League to move top of the table.",
+   "description": "Veerle Buurman scores an 87th-minute winner for Chelsea as they edge past Paris St-Germain 1-0 in the Women's Champions League to move top of the table.",
+   "category": "Transfers & Rumours",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-18T22:13:49.000Z",
+   "fetched_at": "2026-11-18T23:57:51.110Z",
+   "body": [
+    "Our briefing: Veerle Buurman scores an 87th-minute winner for Chelsea as they edge past Paris St-Germain 1-0 in the Women's Champions League to move top of the table.",
+    "Veerle Buurman scores an 87th-minute winner for Chelsea as they edge past Paris St-Germain 1-0 in the Women's Champions League to move top of the table.",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Dr_Christian_Pathak_at_Chelsea_%26_Westminster_Hospital.jpg/960px-Dr_Christian_Pathak_at_Chelsea_%26_Westminster_Hospital.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Isselerhof — CC BY-SA 4.0"
+  },
+  {
+   "id": "guardian-veerle-buurman-scrambles-late-wcl-winner-push-bl",
+   "slug": "veerle-buurman-scrambles-late-wcl-winner-to-push-blunt-chels-sh-bl",
+   "title": "Veerle Buurman scrambles late WCL winner to push blunt Chelsea past PSG",
+   "dek": "Chelsea were made to work hard for three Champions League points against a resilient Paris Saint-Germain side but their patience paid off, Veerle Buurman squeezing the…",
+   "description": "Chelsea were made to work hard for three Champions League points against a resilient Paris Saint-Germain side but their patience paid off, Veerle Buurman squeezing the ball in at the near post to put them, temporarily at least, at the top of the table in the league phase. Buurman had stolen the show in Chelsea’s defeat of Manchester City at the weekend, coming on 12 minutes in and nullifying Khadija Shaw’s threat to be named player of the match, and she was the hero under the lights with Chelsea doing everything but score prior to her goal. Continue reading...",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-11-18T22:06:45.000Z",
+   "fetched_at": "2026-11-18T23:57:51.281Z",
+   "body": [
+    "Our briefing: Chelsea were made to work hard for three Champions League points against a resilient Paris Saint-Germain side but their patience paid off, Veerle Buurman squeezing the…",
+    "Chelsea were made to work hard for three Champions League points against a resilient Paris Saint-Germain side but their patience paid off, Veerle Buurman squeezing the ball in at the near post to put them, temporarily at least, at the top of the table in the league phase. Buurman had stolen the show in Chelsea’s defeat of Manchester City at the weekend, coming on 12 minutes in and nullifying Khadija Shaw’s threat to be named player of the match, and she was the hero under the lights with Chelsea doing everything but score prior to her goal. Continue reading...",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Chelsea_Randall_at_Adelaide%E2%80%93Sydney_AFLW_Round_1_match_%28028A9959%29.jpg/960px-Chelsea_Randall_at_Adelaide%E2%80%93Sydney_AFLW_Round_1_match_%28028A9959%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Yu Chu Chin — CC BY-SA 4.0"
+  },
+  {
+   "id": "independent-leicester-city-part-ways-sponsor-after-controver",
+   "slug": "leicester-city-part-ways-with-sponsor-after-controversial-po-rover",
+   "title": "Leicester City part ways with sponsor after controversial porn actress partnership",
+   "dek": "The club said they had “differing commercial priorities” after BC Game’s partnership with Eva Elfie was heavily criticised",
+   "description": "The club said they had “differing commercial priorities” after BC Game’s partnership with Eva Elfie was heavily criticised",
+   "category": "News",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-11-18T22:06:23.000Z",
+   "fetched_at": "2026-11-18T23:57:51.456Z",
+   "body": [
+    "Our briefing: The club said they had “differing commercial priorities” after BC Game’s partnership with Eva Elfie was heavily criticised",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/The_Walkers_Stadium%2C_Leicester_-_geograph.org.uk_-_2339401.jpg/960px-The_Walkers_Stadium%2C_Leicester_-_geograph.org.uk_-_2339401.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Mat Fascione — CC BY-SA 2.0"
+  },
+  {
+   "id": "bbc-euro-leagues",
+   "slug": "euro-leagues-agues",
+   "title": "Euro Leagues",
+   "dek": "Who makes the list of the Top 10 European Strikers of the Century so far?",
+   "description": "Who makes the list of the Top 10 European Strikers of the Century so far?",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-18T22:06:00.000Z",
+   "fetched_at": "2026-11-18T23:57:51.110Z",
+   "body": [
+    "Our briefing: Who makes the list of the Top 10 European Strikers of the Century so far?",
+    "Who makes the list of the Top 10 European Strikers of the Century so far?",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "John Shorten — CC BY 4.0"
+  },
+  {
+   "id": "bbc-ukrainian-fa-blame-failed-drugs-test-mudryk",
+   "slug": "ukrainian-fa-to-blame-for-failed-drugs-test-mudryk-udryk",
+   "title": "Ukrainian FA to blame for failed drugs test - Mudryk",
+   "dek": "Tottenham's on-loan Chelsea winger Mykhailo Mudryk says he blames the Ukrainian Association of Football for his failed drugs test and subsequent ban.",
+   "description": "Tottenham's on-loan Chelsea winger Mykhailo Mudryk says he blames the Ukrainian Association of Football for his failed drugs test and subsequent ban.",
+   "category": "Transfers & Rumours",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-18T21:22:18.000Z",
+   "fetched_at": "2026-11-18T23:57:51.109Z",
+   "body": [
+    "Our briefing: Tottenham's on-loan Chelsea winger Mykhailo Mudryk says he blames the Ukrainian Association of Football for his failed drugs test and subsequent ban.",
+    "Tottenham's on-loan Chelsea winger Mykhailo Mudryk says he blames the Ukrainian Association of Football for his failed drugs test and subsequent ban.",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "YHC — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-england-defender-carter-joins-bay-fc-after-gotha",
+   "slug": "england-defender-carter-joins-bay-fc-after-gotham-exit-gotha",
+   "title": "England defender Carter joins Bay FC after Gotham exit",
+   "dek": "England defender Jess Carter completes a move to Bay FC after leaving Gotham FC as a free agent.",
+   "description": "England defender Jess Carter completes a move to Bay FC after leaving Gotham FC as a free agent.",
+   "category": "Transfers & Rumours",
+   "league": "International",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-18T21:07:26.000Z",
+   "fetched_at": "2026-11-18T23:57:51.110Z",
+   "body": [
+    "Our briefing: England defender Jess Carter completes a move to Bay FC after leaving Gotham FC as a free agent.",
+    "England defender Jess Carter completes a move to Bay FC after leaving Gotham FC as a free agent.",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
+  },
+  {
+   "id": "bbc-strasbourg-appoint-swansea-boss-matos",
+   "slug": "strasbourg-appoint-swansea-boss-matos-matos",
+   "title": "Strasbourg appoint Swansea boss Matos",
+   "dek": "Strasbourg appoint Swansea City's Vitor Matos as the club's new head coach.",
+   "description": "Strasbourg appoint Swansea City's Vitor Matos as the club's new head coach.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-18T20:57:54.000Z",
+   "fetched_at": "2026-11-18T23:57:51.110Z",
+   "body": [
+    "Our briefing: Strasbourg appoint Swansea City's Vitor Matos as the club's new head coach.",
+    "Strasbourg appoint Swansea City's Vitor Matos as the club's new head coach.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+  },
+  {
+   "id": "bbc-fa-explored-legal-challenge-infantino-staying",
+   "slug": "fa-explored-legal-challenge-to-infantino-staying-on-aying",
+   "title": "FA explored legal challenge to Infantino staying on",
+   "dek": "The Football Association considered challenging Gianni Infantino's eligibility to run for a fourth term as Fifa president, but it felt a case was likely to fail.",
+   "description": "The Football Association considered challenging Gianni Infantino's eligibility to run for a fourth term as Fifa president, but it felt a case was likely to fail.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-18T20:55:01.000Z",
+   "fetched_at": "2026-11-18T23:57:51.109Z",
+   "body": [
+    "Our briefing: The Football Association considered challenging Gianni Infantino's eligibility to run for a fourth term as Fifa president, but it felt a case was likely to fail.",
+    "The Football Association considered challenging Gianni Infantino's eligibility to run for a fourth term as Fifa president, but it felt a case was likely to fail.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+  },
+  {
+   "id": "bbc-hemp-shaw-star-manchester-city-get-vital-win-hac",
+   "slug": "hemp-and-shaw-star-as-manchester-city-get-vital-win-at-hacke-n-hac",
+   "title": "Hemp and Shaw star as Manchester City get vital win at Hacken",
+   "dek": "Substitutes Lauren Hemp and Khadija Shaw both get on the scoresheet to help Manchester City secure a crucial 2-0 win against Swedish side Hacken in the Champions League.",
+   "description": "Substitutes Lauren Hemp and Khadija Shaw both get on the scoresheet to help Manchester City secure a crucial 2-0 win against Swedish side Hacken in the Champions League.",
+   "category": "News",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-18T20:25:40.000Z",
+   "fetched_at": "2026-11-18T23:57:51.110Z",
+   "body": [
+    "Our briefing: Substitutes Lauren Hemp and Khadija Shaw both get on the scoresheet to help Manchester City secure a crucial 2-0 win against Swedish side Hacken in the Champions League.",
+    "Substitutes Lauren Hemp and Khadija Shaw both get on the scoresheet to help Manchester City secure a crucial 2-0 win against Swedish side Hacken in the Champions League.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+  },
+  {
+   "id": "guardian-honour-pochettino-up-challenge-leading-mancheste",
+   "slug": "an-honour-pochettino-up-for-challenge-of-leading-manchester--heste",
+   "title": "‘An honour’: Pochettino up for challenge of leading Manchester United revival",
+   "dek": "New head coach faces tough opening match at Anfield ‘It’s a big challenge but at the same time it’s adrenaline’ Mauricio Pochettino said it was “an honour” and “a…",
+   "description": "New head coach faces tough opening match at Anfield ‘It’s a big challenge but at the same time it’s adrenaline’ Mauricio Pochettino said it was “an honour” and “a privilege” to be the new Manchester United head coach after arriving in England on Wednesday. Pochettino flew from Cincinnati to Manchester overnight after overseeing the USA beating Haiti in his final game in charge. Members of Pochettino’s staff landed earlier in the week to begin work at Carrington , laying the foundations as United seek to turn their season around. His right-hand man, Jesús Pérez, the goalkeeping coach Toni Jiménez and the fitness coach Sebastiano Pochettino, who continues to work with his father, have already taken training with those not on international duty. Continue reading...",
+   "category": "Injuries",
+   "league": "Premier League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-11-18T19:58:26.000Z",
+   "fetched_at": "2026-11-18T23:57:51.282Z",
+   "body": [
+    "Our briefing: New head coach faces tough opening match at Anfield ‘It’s a big challenge but at the same time it’s adrenaline’ Mauricio Pochettino said it was “an honour” and “a…",
+    "New head coach faces tough opening match at Anfield ‘It’s a big challenge but at the same time it’s adrenaline’ Mauricio Pochettino said it was “an honour” and “a privilege” to be the new Manchester United head coach after arriving in England on Wednesday. Pochettino flew from Cincinnati to Manchester overnight after overseeing the USA beating Haiti in his final game in charge. Members of Pochettino’s staff landed earlier in the week to begin work at Carrington , laying the foundations as United seek to turn their season around.",
+    "His right-hand man, Jesús Pérez, the goalkeeping coach Toni Jiménez and the fitness coach Sebastiano Pochettino, who continues to work with his father, have already taken training with those not on international duty. Continue reading...",
+    "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Manchester_United_v_Manchester_City%2C_10_December_2017_%2812%29.jpg/960px-Manchester_United_v_Manchester_City%2C_10_December_2017_%2812%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ardfern — CC BY-SA 4.0"
+  },
+  {
+   "id": "independent-german-fa-backs-gianni-infantino-challenger-phil",
+   "slug": "german-fa-backs-gianni-infantino-challenger-philippe-diallo---phil",
+   "title": "German FA backs Gianni Infantino challenger Philippe Diallo for Fifa presidency",
+   "dek": "Philippe Diallo has been given Uefa’s backing as he seeks to topple Gianni Infantino",
+   "description": "Philippe Diallo has been given Uefa’s backing as he seeks to topple Gianni Infantino",
+   "category": "News",
+   "league": "Football",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-11-18T19:51:51.000Z",
+   "fetched_at": "2026-11-18T23:57:51.456Z",
+   "body": [
+    "Our briefing: Philippe Diallo has been given Uefa’s backing as he seeks to topple Gianni Infantino",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+  },
+  {
+   "id": "bbc-leicester-split-sponsor-after-porn-actress-row",
+   "slug": "leicester-split-with-sponsor-after-porn-actress-row-s-row",
+   "title": "Leicester split with sponsor after porn actress row",
+   "dek": "A fans group had complained after BC Game appointed a porn actress as a brand ambassador.",
+   "description": "A fans group had complained after BC Game appointed a porn actress as a brand ambassador.",
+   "category": "News",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-18T19:10:21.000Z",
+   "fetched_at": "2026-11-18T23:57:51.110Z",
+   "body": [
+    "Our briefing: A fans group had complained after BC Game appointed a porn actress as a brand ambassador.",
+    "A fans group had complained after BC Game appointed a porn actress as a brand ambassador.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Inside_Leicester_Stadium_fanshop.jpg/960px-Inside_Leicester_Stadium_fanshop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Thomas Dahlstrøm Nielsen — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-kit-boy-manager-28-dumbarton-appoint-fellowes",
+   "slug": "from-kit-boy-to-manager-at-28-dumbarton-appoint-fellowes-lowes",
+   "title": "From kit boy to manager at 28 - Dumbarton appoint Fellowes",
+   "dek": "Martin Fellowes becomes the youngest manager in SPFL history, taking on the Dumbarton job at the age of 28.",
+   "description": "Martin Fellowes becomes the youngest manager in SPFL history, taking on the Dumbarton job at the age of 28.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-18T19:09:00.000Z",
+   "fetched_at": "2026-11-18T23:57:51.110Z",
+   "body": [
+    "Our briefing: Martin Fellowes becomes the youngest manager in SPFL history, taking on the Dumbarton job at the age of 28.",
+    "Martin Fellowes becomes the youngest manager in SPFL history, taking on the Dumbarton job at the age of 28.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+  },
+  {
+   "id": "guardian-leicester-part-ways-bc-game-after-sponsor-s-part",
+   "slug": "leicester-part-ways-with-bc-game-after-sponsor-s-partnership--part",
+   "title": "Leicester part ways with BC Game after sponsor’s partnership with porn actor",
+   "dek": "Cryptocurrency casino made Eva Elfie a brand ambassador Club end deal early citing ‘differing commercial priorities’ Leicester City have ditched their front-of-shirt…",
+   "description": "Cryptocurrency casino made Eva Elfie a brand ambassador Club end deal early citing ‘differing commercial priorities’ Leicester City have ditched their front-of-shirt sponsor, BC Game, after the cryptocurrency casino’s partnership with a porn actor sparked a fan backlash. BC Game, an offshore company registered in Belize that is unlicensed to operate in the UK , had been Leicester’s main sponsor since 2024. This month BC Game named Eva Elfie a brand ambassador, leading the Foxes Trust, Leicester’s supporters’ trust, to highlight the “devastating impacts” caused by gambling and pornography. On Wednesday the club said they prematurely ended their agreement with the online betting firm after they “recognised our differing commercial priorities”. Continue reading...",
+   "category": "News",
+   "league": "Premier League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-11-18T19:01:59.000Z",
+   "fetched_at": "2026-11-18T23:57:51.281Z",
+   "body": [
+    "Our briefing: Cryptocurrency casino made Eva Elfie a brand ambassador Club end deal early citing ‘differing commercial priorities’ Leicester City have ditched their front-of-shirt…",
+    "Cryptocurrency casino made Eva Elfie a brand ambassador Club end deal early citing ‘differing commercial priorities’ Leicester City have ditched their front-of-shirt sponsor, BC Game, after the cryptocurrency casino’s partnership with a porn actor sparked a fan backlash. BC Game, an offshore company registered in Belize that is unlicensed to operate in the UK , had been Leicester’s main sponsor since 2024. This month BC Game named Eva Elfie a brand ambassador, leading the Foxes Trust, Leicester’s supporters’ trust, to highlight the “devastating impacts” caused by gambling and pornography.",
+    "On Wednesday the club said they prematurely ended their agreement with the online betting firm after they “recognised our differing commercial priorities”. Continue reading...",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Close_up_of_The_Walkers_Stadium%2C_Leicester_-_geograph.org.uk_-_2339402.jpg/960px-Close_up_of_The_Walkers_Stadium%2C_Leicester_-_geograph.org.uk_-_2339402.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Mat Fascione — CC BY-SA 2.0"
+  },
+  {
+   "id": "guardian-emma-hayes-assist-us-soccer-hiring-process-next-",
+   "slug": "emma-hayes-to-assist-in-us-soccer-hiring-process-for-next-us-next-",
+   "title": "Emma Hayes to assist in US Soccer hiring process for next USMNT coach",
+   "dek": "US women’s head coach won Olympics in 2024 Hayes enjoyed trophy-laden tenure at Chelsea The US women’s national team head coach, Emma Hayes, said she was “confident in…",
+   "description": "US women’s head coach won Olympics in 2024 Hayes enjoyed trophy-laden tenure at Chelsea The US women’s national team head coach, Emma Hayes, said she was “confident in the group that is being put together” to select her next counterpart for the men’s team – a group that includes her. Speaking after announcing her team’s squad for the ­Concacaf championship and World Cup qualifier, Hayes shed light for the first time on her role in searching for Mauricio Pochettino’s replacement after the Argentinian decamped to Manchester United . US Soccer had previously said Hayes – alongside the federation CEO, JT Batson, the chief operating officer, Dan Helfrich, and Oguchi Onyewu, the vice-president of sporting – would assist with the search. Continue reading...",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-11-18T18:44:26.000Z",
+   "fetched_at": "2026-11-18T23:57:51.282Z",
+   "body": [
+    "Our briefing: US women’s head coach won Olympics in 2024 Hayes enjoyed trophy-laden tenure at Chelsea The US women’s national team head coach, Emma Hayes, said she was “confident in…",
+    "US women’s head coach won Olympics in 2024 Hayes enjoyed trophy-laden tenure at Chelsea The US women’s national team head coach, Emma Hayes, said she was “confident in the group that is being put together” to select her next counterpart for the men’s team – a group that includes her. Speaking after announcing her team’s squad for the ­Concacaf championship and World Cup qualifier, Hayes shed light for the first time on her role in searching for Mauricio Pochettino’s replacement after the Argentinian decamped to Manchester United . US Soccer had previously said Hayes – alongside the federation CEO, JT Batson, the chief operating officer, Dan Helfrich, and Oguchi Onyewu, the vice-president of sporting – would assist with the search.",
+    "Continue reading...",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Folarin_Balogun_USMNT_v_Belgium_Mar_28_2026-161.jpg/960px-Folarin_Balogun_USMNT_v_Belgium_Mar_28_2026-161.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Bryan Berlin — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-ward-close-new-republic-ireland-deal-world-cup-c",
+   "slug": "ward-close-to-new-republic-of-ireland-deal-as-world-cup-chan-cup-c",
+   "title": "Ward close to new Republic of Ireland deal as World Cup chance beckons",
+   "dek": "Republic of Ireland manager Carla Ward says she is close to agreeing a new contract as she names her squad for the World Cup play-off final.",
+   "description": "Republic of Ireland manager Carla Ward says she is close to agreeing a new contract as she names her squad for the World Cup play-off final.",
+   "category": "Transfers & Rumours",
+   "league": "International",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-18T18:06:04.000Z",
+   "fetched_at": "2026-11-18T23:57:51.110Z",
+   "body": [
+    "Our briefing: Republic of Ireland manager Carla Ward says she is close to agreeing a new contract as she names her squad for the World Cup play-off final.",
+    "Republic of Ireland manager Carla Ward says she is close to agreeing a new contract as she names her squad for the World Cup play-off final.",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Badalik_Szabolcs_Hungarian_beach_soccer_player.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": "Pacsottiti — CC BY 4.0"
+  },
+  {
+   "id": "bbc-ward-close-new-deal-noonan-returns-squad",
+   "slug": "ward-close-to-new-deal-as-noonan-returns-to-squad-squad",
+   "title": "Ward close to new deal as Noonan returns to squad",
+   "dek": "Republic of Ireland manager Carla Ward says she is close to agreeing a new contract as she names her squad for the World Cup play-off final.",
+   "description": "Republic of Ireland manager Carla Ward says she is close to agreeing a new contract as she names her squad for the World Cup play-off final.",
+   "category": "Transfers & Rumours",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-18T18:06:04.000Z",
+   "fetched_at": "2026-11-18T23:57:51.113Z",
+   "body": [
+    "Our briefing: Republic of Ireland manager Carla Ward says she is close to agreeing a new contract as she names her squad for the World Cup play-off final.",
+    "Republic of Ireland manager Carla Ward says she is close to agreeing a new contract as she names her squad for the World Cup play-off final.",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": null
+  },
+  {
+   "id": "guardian-mauricio-pochettino-s-usmnt-time-will-be-remembe",
+   "slug": "mauricio-pochettino-s-usmnt-time-will-be-remembered-fondly-b-membe",
+   "title": "Mauricio Pochettino’s USMNT time will be remembered fondly, but it wasn’t transformational",
+   "dek": "The incoming Manchester United manager improved the US team’s culture and competitiveness, but could not bring about sea change in two years In a theater high up in a…",
+   "description": "The incoming Manchester United manager improved the US team’s culture and competitiveness, but could not bring about sea change in two years In a theater high up in a midtown Manhattan skyscraper built from lots of glass, a highlight reel played to deafening music. And then, on “a monumental day for US Soccer”, federation president, Cindy Parlow Cone, announced they had bagged their man, Mauricio Pochettino, to become the highest-profile United States manager in the men’s national team’s history. Pochettino held court for three-quarters of an hour in his signature blend of Spanglish before the assembled media and a grab bag of sponsors. Then he recorded some TV hits. And after that, in a bit of accidental prescience, he went off to record a podcast with Gary Neville. Continue reading...",
+   "category": "Tactics & Analysis",
+   "league": "Football",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-11-18T18:00:04.000Z",
+   "fetched_at": "2026-11-18T23:57:51.282Z",
+   "body": [
+    "Our briefing: The incoming Manchester United manager improved the US team’s culture and competitiveness, but could not bring about sea change in two years In a theater high up in a…",
+    "The incoming Manchester United manager improved the US team’s culture and competitiveness, but could not bring about sea change in two years In a theater high up in a midtown Manhattan skyscraper built from lots of glass, a highlight reel played to deafening music. And then, on “a monumental day for US Soccer”, federation president, Cindy Parlow Cone, announced they had bagged their man, Mauricio Pochettino, to become the highest-profile United States manager in the men’s national team’s history. Pochettino held court for three-quarters of an hour in his signature blend of Spanglish before the assembled media and a grab bag of sponsors.",
+    "Then he recorded some TV hits. And after that, in a bit of accidental prescience, he went off to record a podcast with Gary Neville. Continue reading...",
+    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/FirstEnergy_Stadium_panoramic_USMNT_vs._Belgium.jpg/960px-FirstEnergy_Stadium_panoramic_USMNT_vs._Belgium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Erik Drost — CC BY 2.0"
+  },
+  {
+   "id": "bbc-rooney-revelations-important-bradford-boss-duff",
+   "slug": "rooney-revelations-important-bradford-boss-duff--duff",
+   "title": "Rooney revelations important - Bradford boss Duff",
+   "dek": "Bradford boss Michael Duff praises former England captain Wayne Rooney for speaking out about the mental health struggles he had while playing.",
+   "description": "Bradford boss Michael Duff praises former England captain Wayne Rooney for speaking out about the mental health struggles he had while playing.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-18T17:52:23.000Z",
+   "fetched_at": "2026-11-18T23:57:51.111Z",
+   "body": [
+    "Our briefing: Bradford boss Michael Duff praises former England captain Wayne Rooney for speaking out about the mental health struggles he had while playing.",
+    "Bradford boss Michael Duff praises former England captain Wayne Rooney for speaking out about the mental health struggles he had while playing.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
   {
    "id": "independent-man-united-s-players-can-t-play-mauricio-pochett",
    "slug": "man-united-s-players-can-t-play-mauricio-pochettino-s-style--chett",
@@ -29,7 +493,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-11-18T17:32:21.000Z",
-   "fetched_at": "2026-11-18T17:50:35.650Z",
+   "fetched_at": "2026-11-18T23:57:51.456Z",
    "body": [
     "Our briefing: Pochettino requires an incredibly fit, mobile squad that can press with intensity and tempo, which Man United do not have. But, as Miguel Delaney explains, there could be…",
     "Pochettino requires an incredibly fit, mobile squad that can press with intensity and tempo, which Man United do not have.",
@@ -50,15 +514,36 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-18T17:06:29.000Z",
-   "fetched_at": "2026-11-18T17:50:35.154Z",
+   "fetched_at": "2026-11-18T23:57:51.111Z",
    "body": [
     "Our briefing: James McPake has left Scottish football behind for the time being, plying his trade in coaching in Dubai.",
     "James McPake has left Scottish football behind for the time being, plying his trade in coaching in Dubai.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "John Shorten — CC BY 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-watch-non-league-player-scores-own-half",
+   "slug": "watch-non-league-player-scores-from-own-half--half",
+   "title": "Watch: Non-league player scores from own half",
+   "dek": "The midfielder speaks of his \"special moment\" as fans roared from around the ground.",
+   "description": "The midfielder speaks of his \"special moment\" as fans roared from around the ground.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-18T16:46:34.000Z",
+   "fetched_at": "2026-11-18T23:57:51.110Z",
+   "body": [
+    "Our briefing: The midfielder speaks of his \"special moment\" as fans roared from around the ground.",
+    "The midfielder speaks of his \"special moment\" as fans roared from around the ground.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   },
   {
    "id": "bbc-72-efl-podcast",
@@ -71,15 +556,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-18T16:15:00.000Z",
-   "fetched_at": "2026-11-18T17:50:35.154Z",
+   "fetched_at": "2026-11-18T23:57:51.111Z",
    "body": [
     "Our briefing: Aaron, Jobi and Tommy Smith talk all things EFL.",
     "Aaron, Jobi and Tommy Smith talk all things EFL.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kiran891 — CC BY-SA 4.0"
   },
   {
    "id": "bbc-tightest-survival-scrap-years-why-it-s-not-too-e",
@@ -92,15 +577,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-18T16:09:55.000Z",
-   "fetched_at": "2026-11-18T17:50:35.153Z",
+   "fetched_at": "2026-11-18T23:57:51.109Z",
    "body": [
     "Our briefing: The Premier League resumes on Saturday with Crystal Palace, Sunderland and Man Utd in the relegation zone. But is it too early to be worried?",
     "The Premier League resumes on Saturday with Crystal Palace, Sunderland and Man Utd in the relegation zone. But is it too early to be worried?",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
   },
   {
    "id": "independent-manchester-united-willing-sue-if-other-clubs-mad",
@@ -113,7 +598,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-11-18T16:09:39.000Z",
-   "fetched_at": "2026-11-18T17:50:35.650Z",
+   "fetched_at": "2026-11-18T23:57:51.456Z",
    "body": [
     "Our briefing: The 16-year-old announced his departure from Man United on Tuesday night",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -127,23 +612,23 @@
    "slug": "uswnt-squad-emma-hayes-names-veteran-group-for-concacaf-cham-conca",
    "title": "USWNT squad: Emma Hayes names veteran group for Concacaf championship and World Cup qualifier",
    "dek": "Win over El Salvador would qualify US for Brazil 2027 Naomi Girma misses squad due to injury Sam Coffey returns after injury absence In the two years since the Paris…",
-   "description": "Win over El Salvador would qualify US for Brazil 2027 Naomi Girma misses squad due to injury Sam Coffey returns after injury absence In the two years since the Paris Olympics, Emma Hayes has thoroughly tested fresh faces and new combinations, gathering a considerable amount of data about the US women’s national team. It’s been a thorough process, with 33 players earning their first caps since Hayes assumed the post, to bring her roster of options to 61 players. At last, the main event is nearing. On Black Friday, the United States will enter the Concacaf W Championship with a clear objective: beat El Salvador. Winning the whole thing is nice, of course, and the USWNT have done so in nine of its 11 installments to date. But by far the most important game on that journey is the first one, a 27 November quarter-final date with clear stakes: overcome El Salvador or rely on a playoff to reach next summer’s World Cup. Continue reading...",
+   "description": "Win over El Salvador would qualify US for Brazil 2027 Naomi Girma misses squad due to injury Sam Coffey returns after injury absence In the two years since the Paris Olympics, Emma Hayes has thoroughly tested fresh faces and new combinations, gathering a considerable amount of data about the US women’s national team. It’s been a thorough process, with 33 players earning their first caps since Hayes assumed the post, to bring her roster of options to 61 players. At last, the main event is nearing. On 27 November, the United States will enter the Concacaf W Championship with a clear objective: beat El Salvador. Winning the whole thing is nice, of course, and the USWNT have done so in nine of the tournament’s 11 installments to date. But by far the most important game on that journey is the first one, that quarter-final date with clear stakes: overcome El Salvador, or rely on a playoff to reach next summer’s World Cup. Continue reading...",
    "category": "Match Reports",
    "league": "International",
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-11-18T16:00:05.000Z",
-   "fetched_at": "2026-11-18T17:50:35.316Z",
+   "fetched_at": "2026-11-18T23:57:51.282Z",
    "body": [
     "Our briefing: Win over El Salvador would qualify US for Brazil 2027 Naomi Girma misses squad due to injury Sam Coffey returns after injury absence In the two years since the Paris…",
     "Win over El Salvador would qualify US for Brazil 2027 Naomi Girma misses squad due to injury Sam Coffey returns after injury absence In the two years since the Paris Olympics, Emma Hayes has thoroughly tested fresh faces and new combinations, gathering a considerable amount of data about the US women’s national team. It’s been a thorough process, with 33 players earning their first caps since Hayes assumed the post, to bring her roster of options to 61 players. At last, the main event is nearing.",
-    "On Black Friday, the United States will enter the Concacaf W Championship with a clear objective: beat El Salvador. Winning the whole thing is nice, of course, and the USWNT have done so in nine of its 11 installments to date. But by far the most important game on that journey is the first one, a 27 November quarter-final date with clear stakes: overcome El Salvador or rely on a playoff to reach next summer’s World Cup.",
+    "On 27 November, the United States will enter the Concacaf W Championship with a clear objective: beat El Salvador. Winning the whole thing is nice, of course, and the USWNT have done so in nine of the tournament’s 11 installments to date. But by far the most important game on that journey is the first one, that quarter-final date with clear stakes: overcome El Salvador, or rely on a playoff to reach next summer’s World Cup.",
     "Continue reading...",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": null
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Kashima_Soccer_Stadium_6.jpg/960px-Kashima_Soccer_Stadium_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
   },
   {
    "id": "independent-who-supporting-gianni-infantino-how-many-votes-w",
@@ -156,14 +641,14 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-11-18T15:45:58.000Z",
-   "fetched_at": "2026-11-18T17:50:35.650Z",
+   "fetched_at": "2026-11-18T23:57:51.456Z",
    "body": [
     "Our briefing: Infantino needs to reach the magic number of 106 votes to secure re-election next March",
     "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
     "This summary was compiled from reporting published by The Independent."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
    "id": "guardian-football-daily-cincinnati-manchester-pochettino-",
@@ -176,7 +661,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-11-18T15:16:44.000Z",
-   "fetched_at": "2026-11-18T17:50:35.315Z",
+   "fetched_at": "2026-11-18T23:57:51.285Z",
    "body": [
     "Our briefing: Sign up now! Sign up now! Sign up now? Sign up now! With his team mired in the relegation zone and a massive match at Liverpool this weekend, Mauricio Pochettino has been…",
     "Sign up now! Sign up now! Sign up now?",
@@ -185,8 +670,8 @@
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Guardian."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "YHC — CC BY-SA 4.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
    "id": "bbc-pressley-calls-national-centre-enhance-scottish-",
@@ -199,15 +684,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-18T15:07:43.000Z",
-   "fetched_at": "2026-11-18T17:50:35.155Z",
+   "fetched_at": "2026-11-18T23:57:51.112Z",
    "body": [
     "Our briefing: Scotland would benefit from the creation of a national football centre, argues Dundee head coach Steven Pressley, who likens the current structure of the game to building…",
     "Scotland would benefit from the creation of a national football centre, argues Dundee head coach Steven Pressley, who likens the current structure of the game to building on sand.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Soccer_fans_put_town_in_siege_%28FL62506945%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506945%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
    "id": "independent-has-uefa-fumbled-chance-bring-down-gianni-infant",
@@ -220,7 +705,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-11-18T14:38:59.000Z",
-   "fetched_at": "2026-11-18T17:50:35.650Z",
+   "fetched_at": "2026-11-18T23:57:51.456Z",
    "body": [
     "Our briefing: Infantino was badly wounded after his disastrous attempt to sell of stakes in the World Cup and Club World Cup. But ahead of Fifa’s presidential election, his strength…",
     "Infantino was badly wounded after his disastrous attempt to sell of stakes in the World Cup and Club World Cup.",
@@ -241,7 +726,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-11-18T14:11:47.000Z",
-   "fetched_at": "2026-11-18T17:50:35.650Z",
+   "fetched_at": "2026-11-18T23:57:51.456Z",
    "body": [
     "Our briefing: Pochettino has arrived at Carrington after signing off his reign with the USA by beating Haiti on Tuesday night",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
@@ -261,7 +746,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-18T13:55:58.000Z",
-   "fetched_at": "2026-11-18T17:50:35.155Z",
+   "fetched_at": "2026-11-18T23:57:51.112Z",
    "body": [
     "Our briefing: Celtic legend Paul McStay says having a supporters representative on the board would be a significant step to halting the unrest between the club and the fans.",
     "Celtic legend Paul McStay says having a supporters representative on the board would be a significant step to halting the unrest between the club and the fans.",
@@ -282,15 +767,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-18T13:05:48.000Z",
-   "fetched_at": "2026-11-18T17:50:35.153Z",
+   "fetched_at": "2026-11-18T23:57:51.110Z",
    "body": [
     "Our briefing: Republic of Ireland manager Heimir Hallgrimsson says the controversy surrounding the Nations League games against Israel has made \"this group stronger\".",
     "Republic of Ireland manager Heimir Hallgrimsson says the controversy surrounding the Nations League games against Israel has made \"this group stronger\".",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
    "id": "bbc-toney-loses-bid-avoid-euro-2028-court-clash",
@@ -303,15 +788,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-18T12:46:12.000Z",
-   "fetched_at": "2026-11-18T17:50:35.153Z",
+   "fetched_at": "2026-11-18T23:57:51.110Z",
    "body": [
     "Our briefing: Ivan Toney's trial, for an alleged assault which he denies, is due to take place during the Euro 2028 tournament.",
     "Ivan Toney's trial, for an alleged assault which he denies, is due to take place during the Euro 2028 tournament.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Soccer_fans_put_town_in_siege_%28FL62506613%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506613%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
    "id": "bbc-joint-record-six-referee-errors-last-premier-lea",
@@ -324,15 +809,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-18T12:38:38.000Z",
-   "fetched_at": "2026-11-18T17:50:35.153Z",
+   "fetched_at": "2026-11-18T23:57:51.109Z",
    "body": [
     "Our briefing: The Premier League's Key Match Incidents Panel rules there were six on-field errors in the last round of games - the joint-highest in one weekend.",
     "The Premier League's Key Match Incidents Panel rules there were six on-field errors in the last round of games - the joint-highest in one weekend.",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Soccer_fans_put_town_in_siege_%28FL62506919%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506919%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "IPPA photographer — CC BY 4.0"
   },
   {
    "id": "independent-man-united-want-mauricio-pochettino-turn-them-in",
@@ -345,7 +830,7 @@
    "source": "independent",
    "sourceName": "The Independent",
    "published": "2026-11-18T12:02:02.000Z",
-   "fetched_at": "2026-11-18T17:50:35.650Z",
+   "fetched_at": "2026-11-18T23:57:51.457Z",
    "body": [
     "Our briefing: As Pochettino takes the Old Trafford job, there are a slew of obstacles that will prevent him from immediately turning Man United into his Spurs side of a decade ago",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
@@ -365,7 +850,7 @@
    "source": "guardian",
    "sourceName": "The Guardian",
    "published": "2026-11-18T12:01:00.000Z",
-   "fetched_at": "2026-11-18T17:50:35.315Z",
+   "fetched_at": "2026-11-18T23:57:51.282Z",
    "body": [
     "Our briefing: The battle for the US TV rights to the tournament will pit the traditional broadcaster and the ‘whatever-it-takes’ streamer. It could be a tipping point in the industry…",
     "The battle for the US TV rights to the tournament will pit the traditional broadcaster and the ‘whatever-it-takes’ streamer. It could be a tipping point in the industry The awarding of broadcast rights in the United States for this year’s World Cup was a cut-price deal to avoid legal action from the existing rights holders, Fox Sports. This week’s tender process for the 2030 tournament will be anything but.",
@@ -373,478 +858,7 @@
     "13bn) and $2bn, with some predicting the outcome could be a landmark moment for the sports and entertainment industry. Continue reading...",
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif/lossy-page1-960px-Soccer_player_Arto_Tolsa_in_1979_%28JOKAJUK3B_H-1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Jukka Kuusisto — CC BY 4.0"
-  },
-  {
-   "id": "guardian-when-i-walked-burberry-i-met-kanye-west-two-live",
-   "slug": "when-i-walked-for-burberry-i-met-kanye-west-the-two-lives-of--live",
-   "title": "‘When I walked for Burberry I met Kanye West’: the two lives of Bromley footballer Omar Sowunmi",
-   "dek": "Full-time defender and part-time model, the 31-year-old is happy to shine a light on both sides of his dual career “I was walking down the street one day and someone came…",
-   "description": "Full-time defender and part-time model, the 31-year-old is happy to shine a light on both sides of his dual career “I was walking down the street one day and someone came up to me and said: ‘I think you should be a model,’” the Bromley defender Omar Sowunmi says. He was already living out many people’s dreams as a professional footballer but was able to assume an alter ego in the world of fashion. There are few parallels between the grind of lower-league football and Milan fashion week but the 31-year-old is adept in both worlds. Sowunmi’s dual career mixes trips to Doncaster with visits to Paris. On Saturday Bromley travel to Reading under their new manager, Karl Robinson, as they attempt to move off the bottom of League One and the centre-back is clear where his focus lies even after his chance encounter with a model agency employee expanded his horizons. Continue reading...",
-   "category": "News",
-   "league": "Football",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-11-18T12:00:59.000Z",
-   "fetched_at": "2026-11-18T17:50:35.315Z",
-   "body": [
-    "Our briefing: Full-time defender and part-time model, the 31-year-old is happy to shine a light on both sides of his dual career “I was walking down the street one day and someone came…",
-    "Full-time defender and part-time model, the 31-year-old is happy to shine a light on both sides of his dual career “I was walking down the street one day and someone came up to me and said: ‘I think you should be a model,’” the Bromley defender Omar Sowunmi says. He was already living out many people’s dreams as a professional footballer but was able to assume an alter ego in the world of fashion. There are few parallels between the grind of lower-league football and Milan fashion week but the 31-year-old is adept in both worlds.",
-    "Sowunmi’s dual career mixes trips to Doncaster with visits to Paris. On Saturday Bromley travel to Reading under their new manager, Karl Robinson, as they attempt to move off the bottom of League One and the centre-back is clear where his focus lies even after his chance encounter with a model agency employee expanded his horizons. Continue reading...",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "independent-kai-havertz-should-have-been-awarded-penalty-aga",
-   "slug": "kai-havertz-should-have-been-awarded-penalty-against-hull-km-y-aga",
-   "title": "Kai Havertz should have been awarded penalty against Hull, KMI panel finds",
-   "dek": "The panel also backed penalty decisions involving Coventry and Everton, while agreeing Manchester United’s late equaliser against Aston Villa was correctly allowed to…",
-   "description": "The panel also backed penalty decisions involving Coventry and Everton, while agreeing Manchester United’s late equaliser against Aston Villa was correctly allowed to stand.",
-   "category": "News",
-   "league": "Football",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-11-18T11:57:34.000Z",
-   "fetched_at": "2026-11-18T17:50:35.650Z",
-   "body": [
-    "Our briefing: The panel also backed penalty decisions involving Coventry and Everton, while agreeing Manchester United’s late equaliser against Aston Villa was correctly allowed to…",
-    "The panel also backed penalty decisions involving Coventry and Everton, while agreeing Manchester United’s late equaliser against Aston Villa was correctly allowed to stand.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
-  },
-  {
-   "id": "independent-kozo-tashima-submits-fifa-presidential-bid-signi",
-   "slug": "kozo-tashima-submits-fifa-presidential-bid-to-signify-ruptur-signi",
-   "title": "Kozo Tashima submits Fifa presidential bid to signify rupture in Asia’s backing of Gianni Infantino",
-   "dek": "JFA honorary president Tashima officially submitted his candidacy for the Fifa presidency after securing the support of five national federations",
-   "description": "JFA honorary president Tashima officially submitted his candidacy for the Fifa presidency after securing the support of five national federations",
-   "category": "News",
-   "league": "Football",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-11-18T11:51:26.000Z",
-   "fetched_at": "2026-11-18T17:50:35.651Z",
-   "body": [
-    "Our briefing: JFA honorary president Tashima officially submitted his candidacy for the Fifa presidency after securing the support of five national federations",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "independent-former-manchester-united-midfielder-juan-mata-an",
-   "slug": "former-manchester-united-midfielder-juan-mata-announces-reti-ta-an",
-   "title": "Former Manchester United midfielder Juan Mata announces retirement from football",
-   "dek": "The Spaniard won the World Cup, European Championship and major honours with Chelsea and Manchester United",
-   "description": "The Spaniard won the World Cup, European Championship and major honours with Chelsea and Manchester United",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-11-18T11:34:16.000Z",
-   "fetched_at": "2026-11-18T17:50:35.651Z",
-   "body": [
-    "Our briefing: The Spaniard won the World Cup, European Championship and major honours with Chelsea and Manchester United",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Manchester_United_v_Manchester_City%2C_6_November_2021_%2815%29.jpg/960px-Manchester_United_v_Manchester_City%2C_6_November_2021_%2815%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ardfern — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-record-crowds-legends-bordeaux-bid-escape-amateu",
-   "slug": "record-crowds-legends-bordeaux-bid-to-escape-amateur-game-mateu",
-   "title": "Record crowds, legends - Bordeaux bid to escape amateur game",
-   "dek": "Bordeaux fans thought things could not get any worse, then they were demoted to France's amateur sixth tier.",
-   "description": "Bordeaux fans thought things could not get any worse, then they were demoted to France's amateur sixth tier.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-18T10:51:37.000Z",
-   "fetched_at": "2026-11-18T17:50:35.153Z",
-   "body": [
-    "Our briefing: Bordeaux fans thought things could not get any worse, then they were demoted to France's amateur sixth tier.",
-    "Bordeaux fans thought things could not get any worse, then they were demoted to France's amateur sixth tier.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Kashima_Soccer_Stadium_6.jpg/960px-Kashima_Soccer_Stadium_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-williams-join-temporary-swansea-coaching-team",
-   "slug": "williams-to-join-temporary-swansea-coaching-team--team",
-   "title": "Williams to join temporary Swansea coaching team",
-   "dek": "Ashley Williams is set to join a temporary Swansea City coaching team as the Championship club attempt to fill the void left by Vitor Matos.",
-   "description": "Ashley Williams is set to join a temporary Swansea City coaching team as the Championship club attempt to fill the void left by Vitor Matos.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-18T10:48:39.000Z",
-   "fetched_at": "2026-11-18T17:50:35.154Z",
-   "body": [
-    "Our briefing: Ashley Williams is set to join a temporary Swansea City coaching team as the Championship club attempt to fill the void left by Vitor Matos.",
-    "Ashley Williams is set to join a temporary Swansea City coaching team as the Championship club attempt to fill the void left by Vitor Matos.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "bbc-former-spain-midfielder-mata-retires-aged-38",
-   "slug": "former-spain-midfielder-mata-retires-aged-38-ed-38",
-   "title": "Former Spain midfielder Mata retires aged 38",
-   "dek": "Former Spain midfielder Juan Mata, who had spells at Chelsea and Manchester United in the Premier League, announces his retirement from playing at the age of 38.",
-   "description": "Former Spain midfielder Juan Mata, who had spells at Chelsea and Manchester United in the Premier League, announces his retirement from playing at the age of 38.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-18T10:12:46.000Z",
-   "fetched_at": "2026-11-18T17:50:35.153Z",
-   "body": [
-    "Our briefing: Former Spain midfielder Juan Mata, who had spells at Chelsea and Manchester United in the Premier League, announces his retirement from playing at the age of 38.",
-    "Former Spain midfielder Juan Mata, who had spells at Chelsea and Manchester United in the Premier League, announces his retirement from playing at the age of 38.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "bbc-ni-will-carry-momentum-into-euro-2028-qualifiers",
-   "slug": "ni-will-carry-momentum-into-euro-2028-qualifiers-fiers",
-   "title": "NI will carry momentum into Euro 2028 qualifiers",
-   "dek": "Northern Ireland manager Michael O'Neill says his Nations League promotion winners will plot their next 12 months after the Euro 2028 qualifying draw in December.",
-   "description": "Northern Ireland manager Michael O'Neill says his Nations League promotion winners will plot their next 12 months after the Euro 2028 qualifying draw in December.",
-   "category": "Match Reports",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-18T10:04:44.000Z",
-   "fetched_at": "2026-11-18T17:50:35.153Z",
-   "body": [
-    "Our briefing: Northern Ireland manager Michael O'Neill says his Nations League promotion winners will plot their next 12 months after the Euro 2028 qualifying draw in December.",
-    "Northern Ireland manager Michael O'Neill says his Nations League promotion winners will plot their next 12 months after the Euro 2028 qualifying draw in December.",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62505953%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "bbc-when-nations-league-quarter-final-draw",
-   "slug": "when-is-the-nations-league-quarter-final-draw--draw",
-   "title": "When is the Nations League quarter-final draw?",
-   "dek": "Our Ask Me Anything Team tell you all you need to know about the Nations League quarter-final draw.",
-   "description": "Our Ask Me Anything Team tell you all you need to know about the Nations League quarter-final draw.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-18T09:33:42.000Z",
-   "fetched_at": "2026-11-18T17:50:35.155Z",
-   "body": [
-    "Our briefing: Our Ask Me Anything Team tell you all you need to know about the Nations League quarter-final draw.",
-    "Our Ask Me Anything Team tell you all you need to know about the Nations League quarter-final draw.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Soccer_fans_put_town_in_siege_%28FL62506613%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506613%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "guardian-fifa-s-world-cup-tv-rights-documents-indicate-hy",
-   "slug": "fifa-s-world-cup-tv-rights-documents-indicate-hydration-brea-te-hy",
-   "title": "Fifa’s World Cup TV rights documents indicate hydration breaks to stay in 2030",
-   "dek": "Controversial breaks were financial boon for broadcasters Fifa flags possible benefits but says no decision made Fifa’s tender documents for TV rights for the 2030 World…",
-   "description": "Controversial breaks were financial boon for broadcasters Fifa flags possible benefits but says no decision made Fifa’s tender documents for TV rights for the 2030 World Cup include a provision for broadcasters to sell adverts during hydration breaks in a strong indication the controversial ­stoppages will be retained. A three-minute break midway through each half was introduced for the first time at all 104 matches at last summer’s World Cup in the interests of player welfare, a radical move that also provided a commercial boon for broadcasters, particularly the rights holders in the United States, Fox Sports and Telemundo. Continue reading...",
-   "category": "News",
-   "league": "International",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-11-18T09:29:03.000Z",
-   "fetched_at": "2026-11-18T17:50:35.316Z",
-   "body": [
-    "Our briefing: Controversial breaks were financial boon for broadcasters Fifa flags possible benefits but says no decision made Fifa’s tender documents for TV rights for the 2030 World…",
-    "Controversial breaks were financial boon for broadcasters Fifa flags possible benefits but says no decision made Fifa’s tender documents for TV rights for the 2030 World Cup include a provision for broadcasters to sell adverts during hydration breaks in a strong indication the controversial ­stoppages will be retained. A three-minute break midway through each half was introduced for the first time at all 104 matches at last summer’s World Cup in the interests of player welfare, a radical move that also provided a commercial boon for broadcasters, particularly the rights holders in the United States, Fox Sports and Telemundo. Continue reading...",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Soccer_fans_put_town_in_siege_%28FL62506919%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506919%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "independent-troy-parrott-dreaming-home-euros-ireland-boost-s",
-   "slug": "troy-parrott-dreaming-of-home-euros-as-ireland-boost-seeding-ost-s",
-   "title": "Troy Parrott dreaming of home Euros as Ireland boost seeding with Nations League win",
-   "dek": "Republic of Ireland 3-0 Kosovo: Parrott’s brace ensured Ireland will be in pot two for the qualifying draw as they co-host the 2028 tournament",
-   "description": "Republic of Ireland 3-0 Kosovo: Parrott’s brace ensured Ireland will be in pot two for the qualifying draw as they co-host the 2028 tournament",
-   "category": "Match Reports",
-   "league": "Football",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-11-18T09:07:04.000Z",
-   "fetched_at": "2026-11-18T17:50:35.651Z",
-   "body": [
-    "Our briefing: Republic of Ireland 3-0 Kosovo: Parrott’s brace ensured Ireland will be in pot two for the qualifying draw as they co-host the 2028 tournament",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Soccer_fans_put_town_in_siege_%28FL62506945%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506945%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "bbc-bbc-women-s-footballer-year-2026-be-named-13-dec",
-   "slug": "bbc-women-s-footballer-of-the-year-2026-to-be-named-on-13-de-3-dec",
-   "title": "BBC Women's Footballer of the Year 2026 to be named on 13 December",
-   "dek": "Voting has closed for the BBC Women's Footballer of the Year 2026, with five players on the shortlist.",
-   "description": "Voting has closed for the BBC Women's Footballer of the Year 2026, with five players on the shortlist.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-18T09:00:06.000Z",
-   "fetched_at": "2026-11-18T17:50:35.156Z",
-   "body": [
-    "Our briefing: Voting has closed for the BBC Women's Footballer of the Year 2026, with five players on the shortlist.",
-    "Voting has closed for the BBC Women's Footballer of the Year 2026, with five players on the shortlist.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
    ]
-  },
-  {
-   "id": "bbc-manchester-won-t-always-be-blue-pochettino",
-   "slug": "manchester-won-t-always-be-blue-pochettino-ttino",
-   "title": "Manchester won't always be blue - Pochettino",
-   "dek": "New Manchester United boss Mauricio Pochettino says he will restore Manchester United to being the most successful footballing side in the city.",
-   "description": "New Manchester United boss Mauricio Pochettino says he will restore Manchester United to being the most successful footballing side in the city.",
-   "category": "News",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-18T08:42:28.000Z",
-   "fetched_at": "2026-11-18T17:50:35.154Z",
-   "body": [
-    "Our briefing: New Manchester United boss Mauricio Pochettino says he will restore Manchester United to being the most successful footballing side in the city.",
-    "New Manchester United boss Mauricio Pochettino says he will restore Manchester United to being the most successful footballing side in the city.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ]
-  },
-  {
-   "id": "bbc-rangers-explore-return-cerny-gossip",
-   "slug": "rangers-explore-return-for-cerny-gossip-ossip",
-   "title": "Rangers explore return for Cerny - gossip",
-   "dek": "Two familiar wingers linked with Rangers returns in January as SFA redraft proposals to address youth development crisis...",
-   "description": "Two familiar wingers linked with Rangers returns in January as SFA redraft proposals to address youth development crisis...",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-18T08:15:37.000Z",
-   "fetched_at": "2026-11-18T17:50:35.156Z",
-   "body": [
-    "Our briefing: Two familiar wingers linked with Rangers returns in January as SFA redraft proposals to address youth development crisis...",
-    "Two familiar wingers linked with Rangers returns in January as SFA redraft proposals to address youth development crisis...",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Ibrox_Stadium%2C_Rangers_FC.jpg/960px-Ibrox_Stadium%2C_Rangers_FC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Lesterhobbes764 — CC BY-SA 4.0"
-  },
-  {
-   "id": "guardian-swing-when-you-re-winning-biggest-leaps-across-f",
-   "slug": "swing-when-you-re-winning-biggest-leaps-across-fifa-s-footba-oss-f",
-   "title": "Swing when you’re winning? Biggest leaps across Fifa’s football rankings | The Knowledge",
-   "dek": "Plus: clubs with roads on their team badges, most and fewest managers per league title, and more Mail us with all of your questions and answers “The Scotland men’s team’s…",
-   "description": "Plus: clubs with roads on their team badges, most and fewest managers per league title, and more Mail us with all of your questions and answers “The Scotland men’s team’s highest Fifa ranking was 13th (in 2007) and the worst was 88th place (in 2005) – a difference of 75 positions,” writes Bogdan Kotarlic. “Is this the biggest gap between the best and worst ranking for one national team?” The gap between Scotland’s best and worst Fifa rankings isn’t the biggest in men’s international football; in fact, Pete Tomlin calculates that a 75-place swing puts them joint 141st with Ghana and Seychelles. And, as Chris Lewis and others point out, there are a couple of other home nations who have had more dramatic swings. Wales and Northern Ireland both moved up 109 places: Wales from 117th to eighth under Gary Speed and then Chris Coleman, Northern Ireland from 129th in 2004 to 20th in 2017. 183 places Montenegro (16th/199th) 165 Kuwait (24/189) 160 Bosnia and Herzegovina (13/173) 155 Cape Verde (27/182) 153 Central African Republic (49/202) 151 Libya (36/187) 146 Equatorial Guinea (49/195) 144 Moldova (37/181) 141 El Salvador (49/190) 136 Cuba (46/182), Slovakia (14/150) Continue reading...",
-   "category": "News",
-   "league": "Football",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-11-18T08:00:36.000Z",
-   "fetched_at": "2026-11-18T17:50:35.316Z",
-   "body": [
-    "Our briefing: Plus: clubs with roads on their team badges, most and fewest managers per league title, and more Mail us with all of your questions and answers “The Scotland men’s team’s…",
-    "Plus: clubs with roads on their team badges, most and fewest managers per league title, and more Mail us with all of your questions and answers “The Scotland men’s team’s highest Fifa ranking was 13th (in 2007) and the worst was 88th place (in 2005) – a difference of 75 positions,” writes Bogdan Kotarlic. “Is this the biggest gap between the best and worst ranking for one national team? ” The gap between Scotland’s best and worst Fifa rankings isn’t the biggest in men’s international football; in fact, Pete Tomlin calculates that a 75-place swing puts them joint 141st with Ghana and Seychelles.",
-    "And, as Chris Lewis and others point out, there are a couple of other home nations who have had more dramatic swings. Wales and Northern Ireland both moved up 109 places: Wales from 117th to eighth under Gary Speed and then Chris Coleman, Northern Ireland from 129th in 2004 to 20th in 2017. 183 places Montenegro (16th/199th) 165 Kuwait (24/189) 160 Bosnia and Herzegovina (13/173) 155 Cape Verde (27/182) 153 Central African Republic (49/202) 151 Libya (36/187) 146 Equatorial Guinea (49/195) 144 Moldova (37/181) 141 El Salvador (49/190) 136 Cuba (46/182), Slovakia (14/150) Continue reading...",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Guardian."
-   ]
-  },
-  {
-   "id": "guardian-jack-grealish-recalls-golden-age-mavericks-but-f",
-   "slug": "jack-grealish-recalls-a-golden-age-of-mavericks-but-football-but-f",
-   "title": "Jack Grealish recalls a golden age of mavericks – but football has moved on",
-   "dek": "Everton forward has magical talent and popularity to burn, but has come up against hard reality of the modern game Thomas Tuchel has never called up the player he once…",
-   "description": "Everton forward has magical talent and popularity to burn, but has come up against hard reality of the modern game Thomas Tuchel has never called up the player he once claimed to love “everything about”. The reason for Jack Grealish’s omission from Tuchel’s first England squad in March 2025 was given as “he simply has no rhythm”. Catch a falling star? Last month Grealish was suspended by Everton for three matches after “a breach of club discipline”. Suggestions his loan from Manchester City might be cancelled were calmed by David Moyes. Last week, Grealish played in a behind-closed-doors friendly against Derby before issuing an Instagram statement: “I want to apologise to the fans and everyone at the club for not being able to help the team the last few weeks.” Amid tabloid tales of karaoke nights and extended socialising, how close is the former boy wonder, now 31, to blowing it? Continue reading...",
-   "category": "Transfers & Rumours",
-   "league": "Football",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-11-18T08:00:36.000Z",
-   "fetched_at": "2026-11-18T17:50:35.316Z",
-   "body": [
-    "Our briefing: Everton forward has magical talent and popularity to burn, but has come up against hard reality of the modern game Thomas Tuchel has never called up the player he once…",
-    "Everton forward has magical talent and popularity to burn, but has come up against hard reality of the modern game Thomas Tuchel has never called up the player he once claimed to love “everything about”. The reason for Jack Grealish’s omission from Tuchel’s first England squad in March 2025 was given as “he simply has no rhythm”. Catch a falling star?",
-    "Last month Grealish was suspended by Everton for three matches after “a breach of club discipline”. Suggestions his loan from Manchester City might be cancelled were calmed by David Moyes. Last week, Grealish played in a behind-closed-doors friendly against Derby before issuing an Instagram statement: “I want to apologise to the fans and everyone at the club for not being able to help the team the last few weeks.",
-    "” Amid tabloid tales of karaoke nights and extended socialising, how close is the former boy wonder, now 31, to blowing it? Continue reading...",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Badalik_Szabolcs_Hungarian_beach_soccer_player.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "Pacsottiti — CC BY 4.0"
-  },
-  {
-   "id": "guardian-overlap-underlap-or-sit-back-how-premier-league-",
-   "slug": "overlap-underlap-or-sit-back-how-premier-league-teams-use-th-ague-",
-   "title": "Overlap, underlap or sit back? How Premier League teams use their full-backs",
-   "dek": "The role of full-back has changed massively in recent years. We analyse how all 20 sides are approaching the position By Opta Analyst Overlapping. Underlapping. Inverted.…",
-   "description": "The role of full-back has changed massively in recent years. We analyse how all 20 sides are approaching the position By Opta Analyst Overlapping. Underlapping. Inverted. Traditional. The role of full-back has evolved dramatically. Once a defensive-first position that provided some auxiliary attacking support, the role has developed into something far more multifaceted. Just ask right-back Ben White, who – with Riccardo Calafiori on the left – has been an important figure in Arsenal’s superb start to the campaign. Talking a few years ago, he said: “Playing full-back the way [Mikel Arteta] wants is completely different to any other manager. To play full-back for him, you’ve got to be a centre-midfielder, a centre-back, a winger and a No 10.” Continue reading...",
-   "category": "Tactics & Analysis",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-11-18T08:00:35.000Z",
-   "fetched_at": "2026-11-18T17:50:35.315Z",
-   "body": [
-    "Our briefing: The role of full-back has changed massively in recent years. We analyse how all 20 sides are approaching the position By Opta Analyst Overlapping. Underlapping. Inverted.…",
-    "The role of full-back has changed massively in recent years. We analyse how all 20 sides are approaching the position By Opta Analyst Overlapping. Underlapping.",
-    "Inverted. Traditional. The role of full-back has evolved dramatically.",
-    "Once a defensive-first position that provided some auxiliary attacking support, the role has developed into something far more multifaceted. Just ask right-back Ben White, who – with Riccardo Calafiori on the left – has been an important figure in Arsenal’s superb start to the campaign. Talking a few years ago, he said: “Playing full-back the way [Mikel Arteta] wants is completely different to any other manager.",
-    "To play full-back for him, you’ve got to be a centre-midfielder, a centre-back, a winger and a No 10. ” Continue reading...",
-    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
-    "This summary was compiled from reporting published by The Guardian."
-   ]
-  },
-  {
-   "id": "bbc-listen-what-needs-change-pocognoli-scotland",
-   "slug": "listen-what-needs-to-change-for-pocognoli-and-scotland-tland",
-   "title": "Listen: What needs to change for Pocognoli and Scotland?",
-   "dek": "What needs to change to turn Scotland’s fortunes around?",
-   "description": "What needs to change to turn Scotland’s fortunes around?",
-   "category": "News",
-   "league": "International",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-18T08:00:00.000Z",
-   "fetched_at": "2026-11-18T17:50:35.156Z",
-   "body": [
-    "Our briefing: What needs to change to turn Scotland’s fortunes around?",
-    "What needs to change to turn Scotland’s fortunes around?",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ]
-  },
-  {
-   "id": "independent-how-does-euro-2028-qualifying-work-confirmed-pot",
-   "slug": "how-does-euro-2028-qualifying-work-confirmed-pots-format-and-d-pot",
-   "title": "How does Euro 2028 qualifying work? Confirmed pots, format, and rules for co-hosts",
-   "dek": "England, Scotland, Wales and the Republic of Ireland will co-host the tournament as the qualifying draw takes place in Belfast on Sunday December 6",
-   "description": "England, Scotland, Wales and the Republic of Ireland will co-host the tournament as the qualifying draw takes place in Belfast on Sunday December 6",
-   "category": "Match Reports",
-   "league": "Football",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-11-18T07:27:07.000Z",
-   "fetched_at": "2026-11-18T17:50:35.651Z",
-   "body": [
-    "Our briefing: England, Scotland, Wales and the Republic of Ireland will co-host the tournament as the qualifying draw takes place in Belfast on Sunday December 6",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Independent."
-   ]
-  },
-  {
-   "id": "bbc-one-ajax-s-future-stars-quitting-football-music",
-   "slug": "from-one-of-ajax-s-future-stars-to-quitting-football-for-mus-music",
-   "title": "From one of Ajax's future stars to quitting football for music",
-   "dek": "Former Ajax academy player Elikia Mbinga tells BBC Sport how he swapped football for music after playing with some Premier League stars.",
-   "description": "Former Ajax academy player Elikia Mbinga tells BBC Sport how he swapped football for music after playing with some Premier League stars.",
-   "category": "Tactics & Analysis",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-18T07:02:42.000Z",
-   "fetched_at": "2026-11-18T17:50:35.153Z",
-   "body": [
-    "Our briefing: Former Ajax academy player Elikia Mbinga tells BBC Sport how he swapped football for music after playing with some Premier League stars.",
-    "Former Ajax academy player Elikia Mbinga tells BBC Sport how he swapped football for music after playing with some Premier League stars.",
-    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ]
-  },
-  {
-   "id": "bbc-who-am-i-plus-today-s-other-quizzes",
-   "slug": "who-am-i-plus-today-s-other-quizzes-izzes",
-   "title": "Who am I? Plus today's other quizzes",
-   "dek": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-   "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-18T06:56:12.000Z",
-   "fetched_at": "2026-11-18T17:50:35.154Z",
-   "body": [
-    "Our briefing: Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-    "Test your ball knowledge against today's Who Am I? , Five in Five and Brainteaser.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ]
-  },
-  {
-   "id": "bbc-3pm-football-blackout-outdated-or-still-relevant",
-   "slug": "the-3pm-football-blackout-outdated-or-still-relevant-in-2026-evant",
-   "title": "The 3pm football blackout: Outdated or still relevant in 2026?",
-   "dek": "After 60 years, is time finally running out on the 3pm blackout in football?",
-   "description": "After 60 years, is time finally running out on the 3pm blackout in football?",
-   "category": "News",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-18T06:27:11.000Z",
-   "fetched_at": "2026-11-18T17:50:35.153Z",
-   "body": [
-    "Our briefing: After 60 years, is time finally running out on the 3pm blackout in football?",
-    "After 60 years, is time finally running out on the 3pm blackout in football?",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ]
-  },
-  {
-   "id": "guardian-2-0-win-over-haiti-ends-pochettino-s-usmnt-tenur",
-   "slug": "a-2-0-win-over-haiti-ends-pochettino-s-usmnt-tenure-with-con-tenur",
-   "title": "A 2-0 win over Haiti ends Pochettino’s USMNT tenure with confident hope",
-   "dek": "Christian Pulisic and Julian Hall score in first half US advance to Nations League finals 8-0 on aggregate Mauricio Pochettino departs to take over Man United The US…",
-   "description": "Christian Pulisic and Julian Hall score in first half US advance to Nations League finals 8-0 on aggregate Mauricio Pochettino departs to take over Man United The US men’s national team is through to the semi-final of the Concacaf Nations League, following Saturday’s 6-0 romp with a workmanlike 2-0 win over Haiti in the Cincinnati-hosted second leg. Christian Pulisic opened the scoring with an acrobatic overhead goal, while 18-year-old Julian Hall scored his fifth goal in six caps since debuting in September. Towering 19-year-old center back Neil Pierre was cap-tied to the US with an appearance, eliminating the potential for him to represent Haiti in future windows. In keeping a clean sheet, the United States has now played over 400 minutes without conceding a goal, last allowing a goal against Chile on 29 September. Continue reading...",
-   "category": "Match Reports",
-   "league": "Football",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-11-18T02:19:36.000Z",
-   "fetched_at": "2026-11-18T08:55:04.945Z",
-   "body": [
-    "Our briefing: Christian Pulisic and Julian Hall score in first half US advance to Nations League finals 8-0 on aggregate Mauricio Pochettino departs to take over Man United The US…",
-    "Christian Pulisic and Julian Hall score in first half US advance to Nations League finals 8-0 on aggregate Mauricio Pochettino departs to take over Man United The US men’s national team is through to the semi-final of the Concacaf Nations League, following Saturday’s 6-0 romp with a workmanlike 2-0 win over Haiti in the Cincinnati-hosted second leg. Christian Pulisic opened the scoring with an acrobatic overhead goal, while 18-year-old Julian Hall scored his fifth goal in six caps since debuting in September. Towering 19-year-old center back Neil Pierre was cap-tied to the US with an appearance, eliminating the potential for him to represent Haiti in future windows.",
-    "In keeping a clean sheet, the United States has now played over 400 minutes without conceding a goal, last allowing a goal against Chile on 29 September. Continue reading...",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Folarin_Balogun_USMNT_v_Belgium_Mar_28_2026-161.jpg/960px-Folarin_Balogun_USMNT_v_Belgium_Mar_28_2026-161.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Bryan Berlin — CC BY-SA 4.0"
   }
  ]
 }
