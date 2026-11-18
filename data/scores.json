@@ -1,84 +1,6 @@
 {
- "generated_at": "2026-11-18T08:55:11.493Z",
+ "generated_at": "2026-11-18T17:50:41.754Z",
  "matches": [
-  {
-   "league": "Serie A",
-   "home": "Como",
-   "away": "Cagliari",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Sat, November 21st at 9:00 AM EST",
-   "date": "2026-11-21T14:00Z"
-  },
-  {
-   "league": "Serie A",
-   "home": "Lazio",
-   "away": "Lecce",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Sat, November 21st at 9:00 AM EST",
-   "date": "2026-11-21T14:00Z"
-  },
-  {
-   "league": "Serie A",
-   "home": "Parma",
-   "away": "AS Roma",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Sat, November 21st at 12:00 PM EST",
-   "date": "2026-11-21T17:00Z"
-  },
-  {
-   "league": "Serie A",
-   "home": "Napoli",
-   "away": "Torino",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Sat, November 21st at 2:45 PM EST",
-   "date": "2026-11-21T19:45Z"
-  },
-  {
-   "league": "Bundesliga",
-   "home": "Bayern Munich",
-   "away": "FC Cologne",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, November 20th at 2:30 PM EST",
-   "date": "2026-11-20T19:30Z"
-  },
-  {
-   "league": "La Liga",
-   "home": "Athletic Club",
-   "away": "Espanyol",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, November 20th at 3:00 PM EST",
-   "date": "2026-11-20T20:00Z"
-  },
   {
    "league": "Premier League",
    "home": "Manchester City",
@@ -171,6 +93,32 @@
    "date": "2026-11-21T17:30Z"
   },
   {
+   "league": "Bundesliga",
+   "home": "Bayern Munich",
+   "away": "FC Cologne",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, November 20th at 2:30 PM EST",
+   "date": "2026-11-20T19:30Z"
+  },
+  {
+   "league": "La Liga",
+   "home": "Athletic Club",
+   "away": "Espanyol",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, November 20th at 3:00 PM EST",
+   "date": "2026-11-20T20:00Z"
+  },
+  {
    "league": "Ligue 1",
    "home": "Troyes",
    "away": "Le Havre AC",
@@ -182,6 +130,58 @@
    "clock": "",
    "time": "Fri, November 20th at 2:45 PM EST",
    "date": "2026-11-20T19:45Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Como",
+   "away": "Cagliari",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Sat, November 21st at 9:00 AM EST",
+   "date": "2026-11-21T14:00Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Lazio",
+   "away": "Lecce",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Sat, November 21st at 9:00 AM EST",
+   "date": "2026-11-21T14:00Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Parma",
+   "away": "AS Roma",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Sat, November 21st at 12:00 PM EST",
+   "date": "2026-11-21T17:00Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Napoli",
+   "away": "Torino",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Sat, November 21st at 2:45 PM EST",
+   "date": "2026-11-21T19:45Z"
   }
  ]
 }
