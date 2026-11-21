@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T21:27:04.611Z",
+ "generated_at": "2026-11-21T02:43:15.359Z",
  "matches": [
   {
    "league": "Serie A",
@@ -52,6 +52,19 @@
    "clock": "",
    "time": "Sat, November 21st at 2:45 PM EST",
    "date": "2026-11-21T19:45Z"
+  },
+  {
+   "league": "Bundesliga",
+   "home": "Bayern Munich",
+   "away": "FC Cologne",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
+   "homeScore": 1,
+   "awayScore": 1,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-11-20T19:30Z"
   },
   {
    "league": "Premier League",
@@ -145,17 +158,17 @@
    "date": "2026-11-21T17:30Z"
   },
   {
-   "league": "Bundesliga",
-   "home": "Bayern Munich",
-   "away": "FC Cologne",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
-   "homeScore": 1,
+   "league": "Ligue 1",
+   "home": "Troyes",
+   "away": "Le Havre AC",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/170.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3236.png",
+   "homeScore": 3,
    "awayScore": 1,
    "status": "final",
    "clock": "",
    "time": "FT",
-   "date": "2026-11-20T19:30Z"
+   "date": "2026-11-20T19:45Z"
   },
   {
    "league": "La Liga",
@@ -165,23 +178,10 @@
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png",
    "homeScore": 0,
    "awayScore": 1,
-   "status": "live",
-   "clock": "67'",
-   "time": "67'",
+   "status": "final",
+   "clock": "",
+   "time": "FT",
    "date": "2026-11-20T20:00Z"
-  },
-  {
-   "league": "Ligue 1",
-   "home": "Troyes",
-   "away": "Le Havre AC",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/170.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3236.png",
-   "homeScore": 2,
-   "awayScore": 1,
-   "status": "live",
-   "clock": "83'",
-   "time": "83'",
-   "date": "2026-11-20T19:45Z"
   }
  ]
 }
