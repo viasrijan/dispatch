@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-22T18:16:15.659Z",
- "updated_utc": "2026-11-22T18:16Z",
- "cycle": 29922856,
+ "generated_at": "2026-11-22T23:44:14.325Z",
+ "updated_utc": "2026-11-22T23:44Z",
+ "cycle": 29923184,
  "sources_used": [
   {
    "id": "bbc",
@@ -14,14 +14,509 @@
   {
    "id": "independent",
    "name": "The Independent"
-  },
-  {
-   "id": "espn",
-   "name": "ESPN FC"
   }
  ],
- "hero_id": "bbc-man-utd-score-dramatic-late-winner-extend-record",
+ "hero_id": "guardian-european-football-barcelona-roar-back-two-goals-",
  "articles": [
+  {
+   "id": "bbc-wow-player-why-ngumoha-already-liverpool-game-ch",
+   "slug": "a-wow-player-why-ngumoha-is-already-a-liverpool-game-changer-me-ch",
+   "title": "A 'wow' player - why Ngumoha is already a Liverpool game-changer",
+   "dek": "Match of the Day pundit Danny Murphy explains how Rio Ngumoha showed everyone what he is capable of in Liverpool's 4-0 win over Manchester United.",
+   "description": "Match of the Day pundit Danny Murphy explains how Rio Ngumoha showed everyone what he is capable of in Liverpool's 4-0 win over Manchester United.",
+   "category": "Tactics & Analysis",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-22T23:20:16.000Z",
+   "fetched_at": "2026-11-22T23:44:04.831Z",
+   "body": [
+    "Our briefing: Match of the Day pundit Danny Murphy explains how Rio Ngumoha showed everyone what he is capable of in Liverpool's 4-0 win over Manchester United.",
+    "Match of the Day pundit Danny Murphy explains how Rio Ngumoha showed everyone what he is capable of in Liverpool's 4-0 win over Manchester United.",
+    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Liverpool_anfield_road_stadium.jpg/960px-Liverpool_anfield_road_stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
+  },
+  {
+   "id": "bbc-football-daily",
+   "slug": "daily-daily",
+   "title": "Daily",
+   "dek": "Dale Johnson & Umir Irfan join Rick & Lloyd after Man Utd’s 4-0 defeat at Liverpool.",
+   "description": "Dale Johnson & Umir Irfan join Rick & Lloyd after Man Utd’s 4-0 defeat at Liverpool.",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-22T23:14:00.000Z",
+   "fetched_at": "2026-11-22T23:44:04.832Z",
+   "body": [
+    "Our briefing: Dale Johnson & Umir Irfan join Rick & Lloyd after Man Utd’s 4-0 defeat at Liverpool.",
+    "Dale Johnson & Umir Irfan join Rick & Lloyd after Man Utd’s 4-0 defeat at Liverpool.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "imageCredit": null
+  },
+  {
+   "id": "guardian-european-football-barcelona-roar-back-two-goals-",
+   "slug": "european-football-barcelona-roar-back-from-two-goals-down-to-oals-",
+   "title": "European football: Barcelona roar back from two goals down to sink Villarreal",
+   "dek": "Barça prevail 3-2 despite Lamine Yamal’s missed penalty Atalanta snatch point in thrilling 4-4 draw with Inter Barcelona came back from two goals behind to beat…",
+   "description": "Barça prevail 3-2 despite Lamine Yamal’s missed penalty Atalanta snatch point in thrilling 4-4 draw with Inter Barcelona came back from two goals behind to beat Villarreal 3-2 at home on Sunday and restore their three-point lead at the top of La Liga. Two goals inside seven minutes from Tajon Buchanan and Tani Oluwaseyi gave Villarreal a commanding lead at Camp Nou and things got worse for Barça when winger Lamine Yamal missed a first-half penalty. Continue reading...",
+   "category": "Match Reports",
+   "league": "La Liga",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-11-22T22:20:43.000Z",
+   "fetched_at": "2026-11-22T23:44:04.875Z",
+   "body": [
+    "Our briefing: Barça prevail 3-2 despite Lamine Yamal’s missed penalty Atalanta snatch point in thrilling 4-4 draw with Inter Barcelona came back from two goals behind to beat…",
+    "Barça prevail 3-2 despite Lamine Yamal’s missed penalty Atalanta snatch point in thrilling 4-4 draw with Inter Barcelona came back from two goals behind to beat Villarreal 3-2 at home on Sunday and restore their three-point lead at the top of La Liga. Two goals inside seven minutes from Tajon Buchanan and Tani Oluwaseyi gave Villarreal a commanding lead at Camp Nou and things got worse for Barça when winger Lamine Yamal missed a first-half penalty. Continue reading...",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/LFP_-_Barcelona_vs_Mallorca_pre-match_-_Oct_3rd_2010.jpg/960px-LFP_-_Barcelona_vs_Mallorca_pre-match_-_Oct_3rd_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Paolo Costa Baldi — CC BY-SA 3.0"
+  },
+  {
+   "id": "bbc-fifa-confirm-uk-host-2035-women-s-world-cup",
+   "slug": "fifa-to-confirm-uk-as-host-for-2035-women-s-world-cup-d-cup",
+   "title": "Fifa to confirm UK as host for 2035 Women's World Cup",
+   "dek": "Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966.",
+   "description": "Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966.",
+   "category": "News",
+   "league": "International",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-22T21:44:37.000Z",
+   "fetched_at": "2026-11-22T23:44:04.831Z",
+   "body": [
+    "Our briefing: Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966.",
+    "Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "John Shorten — CC BY 4.0"
+  },
+  {
+   "id": "bbc-world-s-best-could-ve-lost-4-0-but-should-man-ut",
+   "slug": "world-s-best-could-ve-lost-4-0-but-should-man-utd-have-done--an-ut",
+   "title": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
+   "dek": "Mauricio Pochettino believes even the best team in the world could have conceded four goals at Liverpool in Manchester United's circumstances - but should the Red Devils…",
+   "description": "Mauricio Pochettino believes even the best team in the world could have conceded four goals at Liverpool in Manchester United's circumstances - but should the Red Devils have done more in defeat?",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-22T21:36:00.000Z",
+   "fetched_at": "2026-11-22T23:44:04.831Z",
+   "body": [
+    "Our briefing: Mauricio Pochettino believes even the best team in the world could have conceded four goals at Liverpool in Manchester United's circumstances - but should the Red Devils…",
+    "Mauricio Pochettino believes even the best team in the world could have conceded four goals at Liverpool in Manchester United's circumstances - but should the Red Devils have done more in defeat?",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Manchester_United_v_Manchester_City%2C_6_November_2021_%2815%29.jpg/960px-Manchester_United_v_Manchester_City%2C_6_November_2021_%2815%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ardfern — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-chaotic-week-nightmare-start-huge-reality-check-",
+   "slug": "chaotic-week-nightmare-start-and-huge-reality-check-for-poch-heck-",
+   "title": "Chaotic week, nightmare start and huge reality check for Pochettino",
+   "dek": "Mauricio Pochettino's reign as Manchester United boss could barely have got off to a more chastening start, writes Simon Stone.",
+   "description": "Mauricio Pochettino's reign as Manchester United boss could barely have got off to a more chastening start, writes Simon Stone.",
+   "category": "News",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-22T21:22:10.000Z",
+   "fetched_at": "2026-11-22T23:44:04.831Z",
+   "body": [
+    "Our briefing: Mauricio Pochettino's reign as Manchester United boss could barely have got off to a more chastening start, writes Simon Stone.",
+    "Mauricio Pochettino's reign as Manchester United boss could barely have got off to a more chastening start, writes Simon Stone.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Saputo_Stadium_Impact_New_York_2012-07-28.jpg/960px-Saputo_Stadium_Impact_New_York_2012-07-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Gates of Ale — CC BY-SA 3.0"
+  },
+  {
+   "id": "bbc-pepe-did-not-injure-eyes-staring-sun-say-villarr",
+   "slug": "pepe-did-not-injure-eyes-staring-at-sun-say-villarreal-llarr",
+   "title": "Pepe did not injure eyes staring at sun, say Villarreal",
+   "dek": "Villarreal say reports striker Nicolas Pepe needed eye surgery because he stared directly at the solar eclipse are \"completely false\".",
+   "description": "Villarreal say reports striker Nicolas Pepe needed eye surgery because he stared directly at the solar eclipse are \"completely false\".",
+   "category": "News",
+   "league": "La Liga",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-22T21:04:55.000Z",
+   "fetched_at": "2026-11-22T23:44:04.832Z",
+   "body": [
+    "Our briefing: Villarreal say reports striker Nicolas Pepe needed eye surgery because he stared directly at the solar eclipse are \"completely false\".",
+    "Villarreal say reports striker Nicolas Pepe needed eye surgery because he stared directly at the solar eclipse are \"completely false\".",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/City_v_Villarreal.jpg/960px-City_v_Villarreal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Oldelpaso — CC BY-SA 3.0"
+  },
+  {
+   "id": "bbc-man-utd-plotting-toney-move-monday-s-gossip",
+   "slug": "man-utd-plotting-toney-move-monday-s-gossip-ossip",
+   "title": "Man Utd plotting Toney move - Monday's gossip",
+   "dek": "Manchester United eye move for Al-Ahli striker Ivan Toney, Fulham hold contract talks with Calvin Bassey and PSG could step up pursuit of Eli Junior Kroupi.",
+   "description": "Manchester United eye move for Al-Ahli striker Ivan Toney, Fulham hold contract talks with Calvin Bassey and PSG could step up pursuit of Eli Junior Kroupi.",
+   "category": "Transfers & Rumours",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-22T21:04:15.000Z",
+   "fetched_at": "2026-11-22T23:44:04.831Z",
+   "body": [
+    "Our briefing: Manchester United eye move for Al-Ahli striker Ivan Toney, Fulham hold contract talks with Calvin Bassey and PSG could step up pursuit of Eli Junior Kroupi.",
+    "Manchester United eye move for Al-Ahli striker Ivan Toney, Fulham hold contract talks with Calvin Bassey and PSG could step up pursuit of Eli Junior Kroupi.",
+    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Manchester_United_1908-09.jpg/960px-Manchester_United_1908-09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
+   "id": "guardian-pochettino-s-new-manager-bounce-falls-flat-de-li",
+   "slug": "pochettino-s-new-manager-bounce-falls-flat-with-de-ligt-move-de-li",
+   "title": "Pochettino’s new-manager bounce falls flat with De Ligt move a disastrous step | Jamie Jackson",
+   "dek": "Decision to pick the Dutch defender over Harry Maguire backfired as Manchester United fell apart in the Anfield bearpit Chaotic, bewildering, and on this evidence in a…",
+   "description": "Decision to pick the Dutch defender over Harry Maguire backfired as Manchester United fell apart in the Anfield bearpit Chaotic, bewildering, and on this evidence in a relegation dogfight: welcome to the three‑ring circus that is Manchester United, Mauricio Pochettino. This ended as a 4-0 rout in favour of Liverpool, the new head coach overseeing the poorest opening result of the eight who have followed Sir Alex Ferguson since May 2013. Factor in this result coming against United’s fiercest rivals and Pochettino’s despair is complete. Continue reading...",
+   "category": "News",
+   "league": "Football",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-11-22T20:58:35.000Z",
+   "fetched_at": "2026-11-22T23:44:04.876Z",
+   "body": [
+    "Our briefing: Decision to pick the Dutch defender over Harry Maguire backfired as Manchester United fell apart in the Anfield bearpit Chaotic, bewildering, and on this evidence in a…",
+    "Decision to pick the Dutch defender over Harry Maguire backfired as Manchester United fell apart in the Anfield bearpit Chaotic, bewildering, and on this evidence in a relegation dogfight: welcome to the three‑ring circus that is Manchester United, Mauricio Pochettino. This ended as a 4-0 rout in favour of Liverpool, the new head coach overseeing the poorest opening result of the eight who have followed Sir Alex Ferguson since May 2013. Factor in this result coming against United’s fiercest rivals and Pochettino’s despair is complete.",
+    "Continue reading...",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543696161%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
+  },
+  {
+   "id": "independent-liverpool-vs-man-united-player-ratings-two-9-10s",
+   "slug": "liverpool-vs-man-united-player-ratings-two-9-10s-inspire-as--9-10s",
+   "title": "Liverpool vs Man United player ratings: Two 9/10s inspire as Mauricio Pochettino endures nightmare bow",
+   "dek": "Liverpool 4-0 Manchester United: Rio Ngumoha and Florian Wirtz starred as Mauricio Pochettino endured horror in his first game as United manager",
+   "description": "Liverpool 4-0 Manchester United: Rio Ngumoha and Florian Wirtz starred as Mauricio Pochettino endured horror in his first game as United manager",
+   "category": "News",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-11-22T20:39:03.000Z",
+   "fetched_at": "2026-11-22T23:44:04.961Z",
+   "body": [
+    "Our briefing: Liverpool 4-0 Manchester United: Rio Ngumoha and Florian Wirtz starred as Mauricio Pochettino endured horror in his first game as United manager",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Anfield_Stadium%2C_Liverpool_-_geograph.org.uk_-_5885062.jpg/960px-Anfield_Stadium%2C_Liverpool_-_geograph.org.uk_-_5885062.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Mike Pennington — CC BY-SA 2.0"
+  },
+  {
+   "id": "independent-liverpool-v-man-united-live-mauricio-pochettino-",
+   "slug": "liverpool-v-man-united-live-mauricio-pochettino-off-to-worst-tino-",
+   "title": "Liverpool v Man United LIVE: Mauricio Pochettino off to worst possible start as United manager",
+   "dek": "Liverpool 4-0 Manchester United: Pochettino’s nightmares come true as 10-man United were outclassed by their north-west rivals",
+   "description": "Liverpool 4-0 Manchester United: Pochettino’s nightmares come true as 10-man United were outclassed by their north-west rivals",
+   "category": "News",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-11-22T20:31:13.000Z",
+   "fetched_at": "2026-11-22T23:44:04.961Z",
+   "body": [
+    "Our briefing: Liverpool 4-0 Manchester United: Pochettino’s nightmares come true as 10-man United were outclassed by their north-west rivals",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/The_Kop_at_Anfield_Stadium%2C_Liverpool_-_geograph.org.uk_-_5885064.jpg/960px-The_Kop_at_Anfield_Stadium%2C_Liverpool_-_geograph.org.uk_-_5885064.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Mike Pennington — CC BY-SA 2.0"
+  },
+  {
+   "id": "independent-mauricio-pochettino-fumes-over-red-card-decision",
+   "slug": "mauricio-pochettino-fumes-over-red-card-decision-after-night-ision",
+   "title": "Mauricio Pochettino fumes over red card decision after nightmare start to life at Manchester United",
+   "dek": "Pochettino and Kobbie Mainoo both denied that Leny Yoro should have been sent off for a last-man challenge on Alexander Isak",
+   "description": "Pochettino and Kobbie Mainoo both denied that Leny Yoro should have been sent off for a last-man challenge on Alexander Isak",
+   "category": "News",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-11-22T20:16:46.000Z",
+   "fetched_at": "2026-11-22T23:44:04.961Z",
+   "body": [
+    "Our briefing: Pochettino and Kobbie Mainoo both denied that Leny Yoro should have been sent off for a last-man challenge on Alexander Isak",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Manchester_United_Old_Trafford.jpg/960px-Manchester_United_Old_Trafford.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
+  },
+  {
+   "id": "independent-welcome-man-united-mauricio-pochettino-it-s-awfu",
+   "slug": "welcome-to-man-united-mauricio-pochettino-it-s-awful--awfu",
+   "title": "Welcome to Man United, Mauricio Pochettino. It’s awful",
+   "dek": "Liverpool 4-0 Manchester United: It took a 13-minute crash course for Pochettino to realise what he was in for as United were hammered by their rivals on his bow",
+   "description": "Liverpool 4-0 Manchester United: It took a 13-minute crash course for Pochettino to realise what he was in for as United were hammered by their rivals on his bow",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-11-22T20:05:19.000Z",
+   "fetched_at": "2026-11-22T23:44:04.961Z",
+   "body": [
+    "Our briefing: Liverpool 4-0 Manchester United: It took a 13-minute crash course for Pochettino to realise what he was in for as United were hammered by their rivals on his bow",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
+   "id": "bbc-mcburnie-stoppage-time-double-earns-hull-win-ove",
+   "slug": "mcburnie-stoppage-time-double-earns-hull-win-over-10-man-bri-n-ove",
+   "title": "McBurnie stoppage-time double earns Hull win over 10-man Brighton",
+   "dek": "Oli McBurnie's stoppage-time double earns victory for Hull City against second-placed Brighton in the Premier League.",
+   "description": "Oli McBurnie's stoppage-time double earns victory for Hull City against second-placed Brighton in the Premier League.",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-22T19:59:38.000Z",
+   "fetched_at": "2026-11-22T23:44:04.831Z",
+   "body": [
+    "Our briefing: Oli McBurnie's stoppage-time double earns victory for Hull City against second-placed Brighton in the Premier League.",
+    "Oli McBurnie's stoppage-time double earns victory for Hull City against second-placed Brighton in the Premier League.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Fulham_vs_Brighton_%26_Hove_Albion_24012026_%283%29.jpg/960px-Fulham_vs_Brighton_%26_Hove_Albion_24012026_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
+   "id": "bbc-ngumoha-stars-liverpool-thrash-10-man-man-utd",
+   "slug": "ngumoha-stars-as-liverpool-thrash-10-man-man-utd-n-utd",
+   "title": "Ngumoha stars as Liverpool thrash 10-man Man Utd",
+   "dek": "Mauricio Pochettino's reign as Manchester United head coach begins in desperate fashion as his team are thrashed by rivals Liverpool to remain in the Premier League…",
+   "description": "Mauricio Pochettino's reign as Manchester United head coach begins in desperate fashion as his team are thrashed by rivals Liverpool to remain in the Premier League relegation zone.",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-22T19:59:35.000Z",
+   "fetched_at": "2026-11-22T23:44:04.831Z",
+   "body": [
+    "Our briefing: Mauricio Pochettino's reign as Manchester United head coach begins in desperate fashion as his team are thrashed by rivals Liverpool to remain in the Premier League…",
+    "Mauricio Pochettino's reign as Manchester United head coach begins in desperate fashion as his team are thrashed by rivals Liverpool to remain in the Premier League relegation zone.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Galatasaray_Liverpool_CL_2006.jpg/960px-Galatasaray_Liverpool_CL_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "tekinim — CC BY 2.0"
+  },
+  {
+   "id": "independent-why-was-leny-yoro-sent-off-against-liverpool",
+   "slug": "why-was-leny-yoro-sent-off-against-liverpool-rpool",
+   "title": "Why was Leny Yoro sent off against Liverpool?",
+   "dek": "Yoro was sent off inside eight minutes before Liverpool scored from the subsequent free-kick",
+   "description": "Yoro was sent off inside eight minutes before Liverpool scored from the subsequent free-kick",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-11-22T19:59:20.000Z",
+   "fetched_at": "2026-11-22T23:44:04.961Z",
+   "body": [
+    "Our briefing: Yoro was sent off inside eight minutes before Liverpool scored from the subsequent free-kick",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Elftal_van_Liverpool%2C_Bestanddeelnr_919-7002.jpg/960px-Elftal_van_Liverpool%2C_Bestanddeelnr_919-7002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": null
+  },
+  {
+   "id": "independent-sacked-morning-mauricio-pochettino-taunted-liver",
+   "slug": "sacked-in-the-morning-mauricio-pochettino-taunted-by-liverpo-liver",
+   "title": "‘Sacked in the morning’: Mauricio Pochettino taunted by Liverpool fans during catastrophic Man Utd bow",
+   "dek": "Pochettino started life as Man United manager with a 4-0 hammering at the hands of Liverpool",
+   "description": "Pochettino started life as Man United manager with a 4-0 hammering at the hands of Liverpool",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-11-22T19:58:52.000Z",
+   "fetched_at": "2026-11-22T23:44:04.961Z",
+   "body": [
+    "Our briefing: Pochettino started life as Man United manager with a 4-0 hammering at the hands of Liverpool",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Liverpool_players_before_match_vs_Rabotnicki.jpg/960px-Liverpool_players_before_match_vs_Rabotnicki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Kevin Walsh — CC BY 2.0"
+  },
+  {
+   "id": "independent-roy-keane-accuses-man-united-fans-applauding-rub",
+   "slug": "roy-keane-accuses-man-united-fans-of-applauding-rubbish-in-l-g-rub",
+   "title": "Roy Keane accuses Man United fans of ‘applauding rubbish’ in Liverpool hammering",
+   "dek": "Mauricio Pochettino’s first game in charge got off to the worst possible start when Leny Yoro was red-carded after eight minutes",
+   "description": "Mauricio Pochettino’s first game in charge got off to the worst possible start when Leny Yoro was red-carded after eight minutes",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "independent",
+   "sourceName": "The Independent",
+   "published": "2026-11-22T19:58:38.000Z",
+   "fetched_at": "2026-11-22T23:44:04.961Z",
+   "body": [
+    "Our briefing: Mauricio Pochettino’s first game in charge got off to the worst possible start when Leny Yoro was red-carded after eight minutes",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by The Independent."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/2022-07-21_Fu%C3%9Fball%2C_M%C3%A4nner%2CFreundschaftsspiel%2C_RB_Leipzig_-_FC_Liverpool_1DX_2224_by_Stepro.jpg/960px-2022-07-21_Fu%C3%9Fball%2C_M%C3%A4nner%2CFreundschaftsspiel%2C_RB_Leipzig_-_FC_Liverpool_1DX_2224_by_Stepro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Steffen Prößdorf — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-charlton-earn-maiden-wsl-point-against-villa",
+   "slug": "charlton-earn-maiden-wsl-point-against-villa-villa",
+   "title": "Charlton earn maiden WSL point against Villa",
+   "dek": "Charlton earn their first WSL point after 11 matches with a hard-fought draw against Aston Villa, who withstand late pressure from the hosts to avoid defeat.",
+   "description": "Charlton earn their first WSL point after 11 matches with a hard-fought draw against Aston Villa, who withstand late pressure from the hosts to avoid defeat.",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-22T19:50:45.000Z",
+   "fetched_at": "2026-11-22T23:44:04.832Z",
+   "body": [
+    "Our briefing: Charlton earn their first WSL point after 11 matches with a hard-fought draw against Aston Villa, who withstand late pressure from the hosts to avoid defeat.",
+    "Charlton earn their first WSL point after 11 matches with a hard-fought draw against Aston Villa, who withstand late pressure from the hosts to avoid defeat.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-iraola-enjoyed-big-win-over-man-utd",
+   "slug": "iraola-enjoyed-big-win-over-man-utd-n-utd",
+   "title": "Iraola 'enjoyed' big win over Man Utd",
+   "dek": "Liverpool head coach Andoni Iraola is pleased with his side's performance in their dominant win over Manchester United although he says that his side can still play…",
+   "description": "Liverpool head coach Andoni Iraola is pleased with his side's performance in their dominant win over Manchester United although he says that his side can still play better.",
+   "category": "News",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-22T19:25:21.000Z",
+   "fetched_at": "2026-11-22T23:44:04.831Z",
+   "body": [
+    "Our briefing: Liverpool head coach Andoni Iraola is pleased with his side's performance in their dominant win over Manchester United although he says that his side can still play…",
+    "Liverpool head coach Andoni Iraola is pleased with his side's performance in their dominant win over Manchester United although he says that his side can still play better.",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Manchester_United_Old_Trafford_%28cropped%29.jpg/960px-Manchester_United_Old_Trafford_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
+  },
+  {
+   "id": "bbc-conceding-seven-hull-heroics-how-tzolakis-recove",
+   "slug": "from-conceding-seven-to-hull-heroics-how-tzolakis-recovered--ecove",
+   "title": "From conceding seven to Hull heroics - how Tzolakis recovered to defy Brighton",
+   "dek": "Nine days after playing for Greece in a nightmare 7-0 loss, keeper Konstantinos Tzolakis plays a pivotal role in Hull's Premier League win against Brighton.",
+   "description": "Nine days after playing for Greece in a nightmare 7-0 loss, keeper Konstantinos Tzolakis plays a pivotal role in Hull's Premier League win against Brighton.",
+   "category": "Tactics & Analysis",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-22T19:03:32.000Z",
+   "fetched_at": "2026-11-22T23:44:04.831Z",
+   "body": [
+    "Our briefing: Nine days after playing for Greece in a nightmare 7-0 loss, keeper Konstantinos Tzolakis plays a pivotal role in Hull's Premier League win against Brighton.",
+    "Nine days after playing for Greece in a nightmare 7-0 loss, keeper Konstantinos Tzolakis plays a pivotal role in Hull's Premier League win against Brighton.",
+    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/View_of_the_Brighton_and_Hove_Albion_FC_Amex_Stadium_from_The_Drove_-_geograph.org.uk_-_2717285.jpg/960px-View_of_the_Brighton_and_Hove_Albion_FC_Amex_Stadium_from_The_Drove_-_geograph.org.uk_-_2717285.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Robert Lamb — CC BY-SA 2.0"
+  },
+  {
+   "id": "bbc-pochettino-painful-defeat-first-game-man-utd-bos",
+   "slug": "pochettino-on-painful-defeat-in-first-game-as-man-utd-boss-d-bos",
+   "title": "Pochettino on 'painful' defeat in first game as Man Utd boss",
+   "dek": "Manchester United's new head coach Mauricio Pochettino says his side must transform \"anger\" from their thumping at the hands of Liverpool into \"energy\" to improve under…",
+   "description": "Manchester United's new head coach Mauricio Pochettino says his side must transform \"anger\" from their thumping at the hands of Liverpool into \"energy\" to improve under his reign.",
+   "category": "Match Reports",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-22T19:03:24.000Z",
+   "fetched_at": "2026-11-22T23:44:04.831Z",
+   "body": [
+    "Our briefing: Manchester United's new head coach Mauricio Pochettino says his side must transform \"anger\" from their thumping at the hands of Liverpool into \"energy\" to improve under…",
+    "Manchester United's new head coach Mauricio Pochettino says his side must transform \"anger\" from their thumping at the hands of Liverpool into \"energy\" to improve under his reign.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/25_July_2010_Kansas_City_Wizards_vs_Manchester_United_friendly.jpg/960px-25_July_2010_Kansas_City_Wizards_vs_Manchester_United_friendly.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Conman33 — CC BY-SA 4.0"
+  },
+  {
+   "id": "guardian-liverpool-hand-pochettino-nightmare-manchester-u",
+   "slug": "liverpool-hand-pochettino-nightmare-manchester-united-start--ter-u",
+   "title": "Liverpool hand Pochettino nightmare Manchester United start after Yoro sees red",
+   "dek": "Green shoots of recovery have lasted longer in a blast furnace than in the Mauricio Pochettino era at Manchester United. On another abysmal Anfield day for the fallen…",
+   "description": "Green shoots of recovery have lasted longer in a blast furnace than in the Mauricio Pochettino era at Manchester United. On another abysmal Anfield day for the fallen giants of Manchester, Pochettino endured a baptism of fire from the eighth minute onwards when Leny Yoro was sent off for denying Alexander Isak a clear goalscoring opportunity. Liverpool would not be denied anything else while tormenting their old rivals yet again. Andoni Iraola indulged in his first fist-pumps towards the Kop after an utterly dominant, comfortable win illuminated by Rio Ngumoha and Florian Wirtz brilliance plus goals from Dominik Szoboszlai and Víctor Muñoz. Liverpool’s two creative forces were also on the scoresheet as Ngumoha became the youngster scorer in the fixture’s Premier League history. Continue reading...",
+   "category": "News",
+   "league": "Premier League",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "published": "2026-11-22T18:35:14.000Z",
+   "fetched_at": "2026-11-22T23:44:04.875Z",
+   "body": [
+    "Our briefing: Green shoots of recovery have lasted longer in a blast furnace than in the Mauricio Pochettino era at Manchester United. On another abysmal Anfield day for the fallen…",
+    "Green shoots of recovery have lasted longer in a blast furnace than in the Mauricio Pochettino era at Manchester United. On another abysmal Anfield day for the fallen giants of Manchester, Pochettino endured a baptism of fire from the eighth minute onwards when Leny Yoro was sent off for denying Alexander Isak a clear goalscoring opportunity. Liverpool would not be denied anything else while tormenting their old rivals yet again.",
+    "Andoni Iraola indulged in his first fist-pumps towards the Kop after an utterly dominant, comfortable win illuminated by Rio Ngumoha and Florian Wirtz brilliance plus goals from Dominik Szoboszlai and Víctor Muñoz. Liverpool’s two creative forces were also on the scoresheet as Ngumoha became the youngster scorer in the fixture’s Premier League history. Continue reading...",
+    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
+    "This summary was compiled from reporting published by The Guardian."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/The_Liverpool_Football_Club_Stadium%2C_Anfield_Road_-_geograph.org.uk_-_5541901.jpg/960px-The_Liverpool_Football_Club_Stadium%2C_Anfield_Road_-_geograph.org.uk_-_5541901.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Humphrey Bolton — CC BY-SA 2.0"
+  },
+  {
+   "id": "bbc-yoro-sees-red-ngumoha-shines-liverpool-v-man-utd",
+   "slug": "yoro-sees-red-as-ngumoha-shines-liverpool-v-man-utd-player-r-n-utd",
+   "title": "Yoro sees red as Ngumoha shines - Liverpool v Man Utd player ratings",
+   "dek": "How Liverpool and Manchester United's players rated following their Premier League match.",
+   "description": "How Liverpool and Manchester United's players rated following their Premier League match.",
+   "category": "Tactics & Analysis",
+   "league": "Premier League",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-22T18:28:51.000Z",
+   "fetched_at": "2026-11-22T23:44:04.832Z",
+   "body": [
+    "Our briefing: How Liverpool and Manchester United's players rated following their Premier League match.",
+    "How Liverpool and Manchester United's players rated following their Premier League match.",
+    "The broader tactical picture will sharpen as more data comes in — this story will be updated with fresh numbers and context.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Pre-match_fanzone_at_Anfield_Stadium%2C_Liverpool_-_geograph.org.uk_-_5885065.jpg/960px-Pre-match_fanzone_at_Anfield_Stadium%2C_Liverpool_-_geograph.org.uk_-_5885065.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Mike Pennington — CC BY-SA 2.0"
+  },
   {
    "id": "independent-liverpool-v-man-united-live-victor-munoz-makes-i",
    "slug": "liverpool-v-man-united-live-victor-munoz-makes-it-four-as-po-kes-i",
@@ -76,15 +571,15 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-22T17:55:54.000Z",
-   "fetched_at": "2026-11-22T18:16:01.840Z",
+   "fetched_at": "2026-11-22T23:44:04.831Z",
    "body": [
     "Our briefing: Leny Yoro's red card after eight minutes changed Liverpool v Manchester United - did officials make the correct call?",
     "Leny Yoro's red card after eight minutes changed Liverpool v Manchester United - did officials make the correct call?",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/The_Kop_at_Anfield_Stadium%2C_Liverpool_-_geograph.org.uk_-_5885064.jpg/960px-The_Kop_at_Anfield_Stadium%2C_Liverpool_-_geograph.org.uk_-_5885064.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Mike Pennington — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Anfield_stadium_%28Liverpool%29_panorama_view_from_main_stand.jpg/960px-Anfield_stadium_%28Liverpool%29_panorama_view_from_main_stand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Yurificacion — CC BY-SA 4.0"
   },
   {
    "id": "bbc-spurs-deny-man-city-top-spot-statement-win",
@@ -97,7 +592,7 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-22T17:54:36.000Z",
-   "fetched_at": "2026-11-22T18:16:01.841Z",
+   "fetched_at": "2026-11-22T23:44:04.831Z",
    "body": [
     "Our briefing: Despite taking an early lead through Khadija Shaw, Manchester City suffer a second consecutive defeat as Spurs earn an impressive victory and deny them the chance to…",
     "Despite taking an early lead through Khadija Shaw, Manchester City suffer a second consecutive defeat as Spurs earn an impressive victory and deny them the chance to return to the top of the table.",
@@ -118,15 +613,36 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-22T17:54:32.000Z",
-   "fetched_at": "2026-11-22T18:16:01.841Z",
+   "fetched_at": "2026-11-22T23:44:04.832Z",
    "body": [
     "Our briefing: Simi Awujo's last-gasp winner caps a remarkable Manchester United comeback at Birmingham, securing a dramatic victory and stretching the club's record unbeaten run to 14…",
     "Simi Awujo's last-gasp winner caps a remarkable Manchester United comeback at Birmingham, securing a dramatic victory and stretching the club's record unbeaten run to 14 matches.",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Manchester_United_v_Manchester_City%2C_6_November_2021_%2815%29.jpg/960px-Manchester_United_v_Manchester_City%2C_6_November_2021_%2815%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Manchester_United_v_Tottenham_Hotspur%2C_12_March_2022_%2805%29.jpg/960px-Manchester_United_v_Tottenham_Hotspur%2C_12_March_2022_%2805%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "Ardfern — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-holders-celtic-win-17-0-women-s-scottish-cup",
+   "slug": "holders-celtic-win-17-0-in-women-s-scottish-cup-h-cup",
+   "title": "Holders Celtic win 17-0 in Women's Scottish Cup",
+   "dek": "Holders Celtic as well as Rangers, Glasgow City, Hearts, Montrose, Aberdeen and Falkirk progress with big wins in the Women's Scottish Cup.",
+   "description": "Holders Celtic as well as Rangers, Glasgow City, Hearts, Montrose, Aberdeen and Falkirk progress with big wins in the Women's Scottish Cup.",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-22T17:53:41.000Z",
+   "fetched_at": "2026-11-22T23:44:04.832Z",
+   "body": [
+    "Our briefing: Holders Celtic as well as Rangers, Glasgow City, Hearts, Montrose, Aberdeen and Falkirk progress with big wins in the Women's Scottish Cup.",
+    "Holders Celtic as well as Rangers, Glasgow City, Hearts, Montrose, Aberdeen and Falkirk progress with big wins in the Women's Scottish Cup.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Match_Day_Celtic_Park_-_geograph.org.uk_-_2596994.jpg/960px-Match_Day_Celtic_Park_-_geograph.org.uk_-_2596994.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "edward mcmaihin — CC BY-SA 2.0"
   },
   {
    "id": "bbc-big-wins-celtic-rangers-city-hearts-progress",
@@ -139,15 +655,36 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-22T17:53:41.000Z",
-   "fetched_at": "2026-11-22T18:16:01.841Z",
+   "fetched_at": "2026-11-22T23:44:04.833Z",
    "body": [
     "Our briefing: Holders Celtic as well as Rangers, Glasgow City, Hearts, Montrose, Aberdeen and Falkirk progress with big wins in the Women's Scottish Cup.",
     "Holders Celtic as well as Rangers, Glasgow City, Hearts, Montrose, Aberdeen and Falkirk progress with big wins in the Women's Scottish Cup.",
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Match_Day_Celtic_Park_-_geograph.org.uk_-_2596994.jpg/960px-Match_Day_Celtic_Park_-_geograph.org.uk_-_2596994.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "edward mcmaihin — CC BY-SA 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Celtic_Park_during_an_Old_Firm_derby_between_Celtic_FC_and_Rangers_FC.jpg/960px-Celtic_Park_during_an_Old_Firm_derby_between_Celtic_FC_and_Rangers_FC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Vincenzo.togni — CC BY-SA 4.0"
+  },
+  {
+   "id": "bbc-holders-celtic-win-17-0-scottish-cup-rangers-hea",
+   "slug": "holders-celtic-win-17-0-in-scottish-cup-rangers-hearts-city--s-hea",
+   "title": "Holders Celtic win 17-0 in Scottish Cup - Rangers, Hearts, City also through",
+   "dek": "Holders Celtic as well as Rangers, Glasgow City, Hearts, Montrose, Aberdeen and Falkirk progress with big wins in the Women's Scottish Cup.",
+   "description": "Holders Celtic as well as Rangers, Glasgow City, Hearts, Montrose, Aberdeen and Falkirk progress with big wins in the Women's Scottish Cup.",
+   "category": "Match Reports",
+   "league": "Football",
+   "source": "bbc",
+   "sourceName": "BBC Sport",
+   "published": "2026-11-22T17:53:41.000Z",
+   "fetched_at": "2026-11-22T23:44:04.833Z",
+   "body": [
+    "Our briefing: Holders Celtic as well as Rangers, Glasgow City, Hearts, Montrose, Aberdeen and Falkirk progress with big wins in the Women's Scottish Cup.",
+    "Holders Celtic as well as Rangers, Glasgow City, Hearts, Montrose, Aberdeen and Falkirk progress with big wins in the Women's Scottish Cup.",
+    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
+    "This summary was compiled from reporting published by BBC Sport."
+   ],
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Celtic_FC-FK_Sarajevo.png/960px-Celtic_FC-FK_Sarajevo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "PeppermintSA — CC BY-SA 4.0"
   },
   {
    "id": "bbc-podcast-premiership-review-ross-county-dumbarton",
@@ -160,34 +697,14 @@
    "source": "bbc",
    "sourceName": "BBC Sport",
    "published": "2026-11-22T17:40:00.000Z",
-   "fetched_at": "2026-11-22T18:16:01.842Z",
+   "fetched_at": "2026-11-22T23:44:04.833Z",
    "body": [
     "Our briefing: SPFL review plus Ross County's Stuart Kettlewell, Dumbarton's new manager & Largs Thistle",
     "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
     "This summary was compiled from reporting published by BBC Sport."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png/960px-Swangard_Stadium_for_Vancouver_Rise_FC_soccer_game.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "John Shorten — CC BY 4.0"
-  },
-  {
-   "id": "independent-why-was-leny-yoro-sent-off-against-liverpool",
-   "slug": "why-was-leny-yoro-sent-off-against-liverpool-rpool",
-   "title": "Why was Leny Yoro sent off against Liverpool?",
-   "dek": "Yoro was sent off inside eight minutes before Liverpool scored from the subsequent free-kick",
-   "description": "Yoro was sent off inside eight minutes before Liverpool scored from the subsequent free-kick",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-11-22T17:35:00.000Z",
-   "fetched_at": "2026-11-22T18:16:02.032Z",
-   "body": [
-    "Our briefing: Yoro was sent off inside eight minutes before Liverpool scored from the subsequent free-kick",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Galatasaray_Liverpool_CL_2006.jpg/960px-Galatasaray_Liverpool_CL_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "tekinim — CC BY 2.0"
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
   },
   {
    "id": "espn-live-updates-liverpool-running-riot-over-man-uni",
@@ -270,8 +787,7 @@
     "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
     "This summary was compiled from reporting published by ESPN FC."
    ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Manchester_United_1908-09.jpg/960px-Manchester_United_1908-09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Manchester_United_1908-09.jpg/960px-Manchester_United_1908-09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   {
    "id": "espn-flick-bar-comeback-unbelievable-not-happy-ref",
@@ -291,8 +807,7 @@
     "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
     "This summary was compiled from reporting published by ESPN FC."
    ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": null
+   "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Duke_goalkeeper_v_maryland_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
   },
   {
    "id": "espn-messi-miami-staring-early-playoff-exit-after-col",
@@ -335,523 +850,6 @@
    ],
    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Milano_-_stadio_Giuseppe_Meazza_-_202209050049.jpeg/960px-Milano_-_stadio_Giuseppe_Meazza_-_202209050049.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "imageCredit": "POAN68 — CC BY-SA 4.0"
-  },
-  {
-   "id": "espn-supersub-esp-s-most-special-goal-earns-win-madri",
-   "slug": "supersub-esp-s-most-special-goal-earns-win-for-madrid-and-pr-madri",
-   "title": "Supersub Espí's 'most special' goal earns win for Madrid and praise from Nadal",
-   "dek": "Real Madrid supersub Carlos Espí said his late goal against Celta Vigo was his \"most special\" yet after earning his team the win and praise from Rafael Nadal.",
-   "description": "Real Madrid supersub Carlos Espí said his late goal against Celta Vigo was his \"most special\" yet after earning his team the win and praise from Rafael Nadal.",
-   "category": "News",
-   "league": "Football",
-   "source": "espn",
-   "sourceName": "ESPN FC",
-   "published": "2026-11-22T17:31:24.000Z",
-   "fetched_at": "2026-11-22T18:16:02.070Z",
-   "body": [
-    "Our briefing: Real Madrid supersub Carlos Espí said his late goal against Celta Vigo was his \"most special\" yet after earning his team the win and praise from Rafael Nadal.",
-    "Real Madrid supersub Carlos Espí said his late goal against Celta Vigo was his \"most special\" yet after earning his team the win and praise from Rafael Nadal.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by ESPN FC."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2846820059464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
-  },
-  {
-   "id": "espn-last-time-gta-was-released-peak-messi-vs-ronaldo",
-   "slug": "last-time-gta-was-released-peak-messi-vs-ronaldo-moyes-at-ma-naldo",
-   "title": "⚽ Last time GTA was released: Peak Messi vs. Ronaldo, Moyes at Man Utd",
-   "dek": "As Grand Theft Auto VI is finally unleashed, here is what was happening in the world of soccer when the previous game was released 13 years ago",
-   "description": "As Grand Theft Auto VI is finally unleashed, here is what was happening in the world of soccer when the previous game was released 13 years ago",
-   "category": "News",
-   "league": "Premier League",
-   "source": "espn",
-   "sourceName": "ESPN FC",
-   "published": "2026-11-22T17:31:24.000Z",
-   "fetched_at": "2026-11-22T18:16:02.070Z",
-   "body": [
-    "Our briefing: As Grand Theft Auto VI is finally unleashed, here is what was happening in the world of soccer when the previous game was released 13 years ago",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by ESPN FC."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Manchester_United_Old_Trafford.jpg/960px-Manchester_United_Old_Trafford.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Arne Müseler — CC BY-SA 3.0 de"
-  },
-  {
-   "id": "espn-dibernardo-s-olimpico-goal-leads-kansas-city-1st",
-   "slug": "dibernardo-s-olimpico-goal-leads-kansas-city-to-1st-nwsl-cha-y-1st",
-   "title": "DiBernardo's Olimpico goal leads Kansas City to 1st NWSL Championship",
-   "dek": "The Kansas City Current won their first NWSL Championship, defeating the Washington Spirit 2-1 to hand the Spirit a third consecutive loss in the league final.",
-   "description": "The Kansas City Current won their first NWSL Championship, defeating the Washington Spirit 2-1 to hand the Spirit a third consecutive loss in the league final.",
-   "category": "Match Reports",
-   "league": "Football",
-   "source": "espn",
-   "sourceName": "ESPN FC",
-   "published": "2026-11-22T17:31:23.000Z",
-   "fetched_at": "2026-11-22T18:16:02.070Z",
-   "body": [
-    "Our briefing: The Kansas City Current won their first NWSL Championship, defeating the Washington Spirit 2-1 to hand the Spirit a third consecutive loss in the league final.",
-    "The Kansas City Current won their first NWSL Championship, defeating the Washington Spirit 2-1 to hand the Spirit a third consecutive loss in the league final.",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by ESPN FC."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Duke_soccer_match_1963.jpg/960px-Duke_soccer_match_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "espn-columbus-coach-says-messi-should-ve-got-red-card",
-   "slug": "columbus-coach-says-messi-should-ve-got-red-card-everyone-kn--card",
-   "title": "Columbus coach says Messi should've got red card: 'Everyone knows'",
-   "dek": "Columbus Crew head coach Laurent Courtois said Lionel Messi should have received a red card for taking a throw-in straight into the face of Gonzalo Tapia.",
-   "description": "Columbus Crew head coach Laurent Courtois said Lionel Messi should have received a red card for taking a throw-in straight into the face of Gonzalo Tapia.",
-   "category": "News",
-   "league": "Football",
-   "source": "espn",
-   "sourceName": "ESPN FC",
-   "published": "2026-11-22T17:31:23.000Z",
-   "fetched_at": "2026-11-22T18:16:02.070Z",
-   "body": [
-    "Our briefing: Columbus Crew head coach Laurent Courtois said Lionel Messi should have received a red card for taking a throw-in straight into the face of Gonzalo Tapia.",
-    "Columbus Crew head coach Laurent Courtois said Lionel Messi should have received a red card for taking a throw-in straight into the face of Gonzalo Tapia.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by ESPN FC."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847490942382%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-arsenal-frustrations-grow-winless-home-run-conti",
-   "slug": "arsenal-frustrations-grow-as-winless-home-run-continues-conti",
-   "title": "Arsenal frustrations grow as winless home run continues",
-   "dek": "Arsenal remain without a home win in the WSL as they play out a goalless draw with West Ham, increasing the pressure on Renee Slegers.",
-   "description": "Arsenal remain without a home win in the WSL as they play out a goalless draw with West Ham, increasing the pressure on Renee Slegers.",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-22T17:30:45.000Z",
-   "fetched_at": "2026-11-22T18:16:01.841Z",
-   "body": [
-    "Our briefing: Arsenal remain without a home win in the WSL as they play out a goalless draw with West Ham, increasing the pressure on Renee Slegers.",
-    "Arsenal remain without a home win in the WSL as they play out a goalless draw with West Ham, increasing the pressure on Renee Slegers.",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Manchester_City_v_Arsenal%2C_League_Cup_2004-5_-_geograph.org.uk_-_3841596.jpg/960px-Manchester_City_v_Arsenal%2C_League_Cup_2004-5_-_geograph.org.uk_-_3841596.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Richard Cooke — CC BY-SA 2.0"
-  },
-  {
-   "id": "independent-tottenham-stun-man-city-end-17-match-winning-wsl",
-   "slug": "tottenham-stun-man-city-to-end-17-match-winning-wsl-run-g-wsl",
-   "title": "Tottenham stun Man City to end 17-match winning WSL run",
-   "dek": "Manchester City 1-3 Tottenham: Spurs came from behind to shock the defending champions at home",
-   "description": "Manchester City 1-3 Tottenham: Spurs came from behind to shock the defending champions at home",
-   "category": "News",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-11-22T17:24:35.000Z",
-   "fetched_at": "2026-11-22T18:16:02.032Z",
-   "body": [
-    "Our briefing: Manchester City 1-3 Tottenham: Spurs came from behind to shock the defending champions at home",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Manchester_City_dressing_room_2022.jpg/960px-Manchester_City_dressing_room_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Christian David — CC BY-SA 4.0"
-  },
-  {
-   "id": "independent-interim-blackburn-boss-reveals-tony-mowbray-mess",
-   "slug": "interim-blackburn-boss-reveals-tony-mowbray-message-to-playe--mess",
-   "title": "Interim Blackburn boss reveals Tony Mowbray message to players before derby",
-   "dek": "Blackburn came back twice to draw against rivals Burnley in their first match since Mowbray stood down",
-   "description": "Blackburn came back twice to draw against rivals Burnley in their first match since Mowbray stood down",
-   "category": "Match Reports",
-   "league": "Football",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-11-22T17:23:34.000Z",
-   "fetched_at": "2026-11-22T18:16:02.032Z",
-   "body": [
-    "Our briefing: Blackburn came back twice to draw against rivals Burnley in their first match since Mowbray stood down",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Petrovskiy_football_stadium_in_SPB.jpg/960px-Petrovskiy_football_stadium_in_SPB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Florstein (Telegram:WikiPhoto.Space) — CC BY-SA 4.0"
-  },
-  {
-   "id": "bbc-jakirovic-full-praise-tzolakis-performance",
-   "slug": "jakirovic-full-of-praise-for-tzolakis-performance-mance",
-   "title": "Jakirovic full of praise for Tzolakis performance",
-   "dek": "Hull head coach Sergej Jakirovic is pleased with his side's \"precise\" counter-attacking to earn a victory over Brighton, and describes goalkeeper Konstantinos Tzolakis'…",
-   "description": "Hull head coach Sergej Jakirovic is pleased with his side's \"precise\" counter-attacking to earn a victory over Brighton, and describes goalkeeper Konstantinos Tzolakis' performance as \"unbelievable.\"",
-   "category": "Match Reports",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-22T17:18:07.000Z",
-   "fetched_at": "2026-11-22T18:16:01.841Z",
-   "body": [
-    "Our briefing: Hull head coach Sergej Jakirovic is pleased with his side's \"precise\" counter-attacking to earn a victory over Brighton, and describes goalkeeper Konstantinos Tzolakis'…",
-    "Hull head coach Sergej Jakirovic is pleased with his side's \"precise\" counter-attacking to earn a victory over Brighton, and describes goalkeeper Konstantinos Tzolakis' performance as \"unbelievable.",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Soccer_Stadium_bleachers%2C_Syracuse_University.jpg/960px-Soccer_Stadium_bleachers%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
-  },
-  {
-   "id": "independent-arsenal-s-lisa-baum-stretchered-off-after-pitch-",
-   "slug": "arsenal-s-lisa-baum-stretchered-off-after-on-pitch-collapse-itch-",
-   "title": "Arsenal’s Lisa Baum stretchered off after on-pitch collapse",
-   "dek": "Arsenal said she was suffering from breathlessness but is now recovering",
-   "description": "Arsenal said she was suffering from breathlessness but is now recovering",
-   "category": "News",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-11-22T17:16:33.000Z",
-   "fetched_at": "2026-11-22T18:16:02.032Z",
-   "body": [
-    "Our briefing: Arsenal said she was suffering from breathlessness but is now recovering",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Arsenal_Stadium_Highbury_east_facade.jpg/960px-Arsenal_Stadium_Highbury_east_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "No machine-readable author provided. Qwghlm~commonswiki assumed (based on copyright claims). — CC BY-SA 3.0"
-  },
-  {
-   "id": "bbc-rolls-royce-iqbal-s-dream-journey-old-trafford-t",
-   "slug": "rolls-royce-iqbal-s-dream-journey-from-old-trafford-to-tanna-ord-t",
-   "title": "'Rolls-Royce' Iqbal's 'dream' journey from Old Trafford to Tannadice",
-   "dek": "Zidane Iqbal is starting to live up to his famous name and wowing Scottish Premiership fans after his move to Dundee United.",
-   "description": "Zidane Iqbal is starting to live up to his famous name and wowing Scottish Premiership fans after his move to Dundee United.",
-   "category": "Transfers & Rumours",
-   "league": "Football",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-22T17:00:01.000Z",
-   "fetched_at": "2026-11-22T18:16:01.841Z",
-   "body": [
-    "Our briefing: Zidane Iqbal is starting to live up to his famous name and wowing Scottish Premiership fans after his move to Dundee United.",
-    "Zidane Iqbal is starting to live up to his famous name and wowing Scottish Premiership fans after his move to Dundee United.",
-    "Details and medical terms are still subject to confirmation. We'll keep tracking this story and bring you developments as they land.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Soccer_Player_Candace_edwards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "imageCredit": "YHC — CC BY-SA 4.0"
-  },
-  {
-   "id": "guardian-european-football-barcelona-roar-back-two-goals-",
-   "slug": "european-football-barcelona-roar-back-from-two-goals-down-to-oals-",
-   "title": "European football: Barcelona roar back from two goals down to sink Villarreal",
-   "dek": "Barça prevail 3-2 despite Lamine Yamal’s missed penalty Juventus put four past Venezia, Paris FC climb to second Barcelona came back from two goals behind to beat…",
-   "description": "Barça prevail 3-2 despite Lamine Yamal’s missed penalty Juventus put four past Venezia, Paris FC climb to second Barcelona came back from two goals behind to beat Villarreal 3-2 at home on Sunday and restore their three-point lead at the top of La Liga. Two goals inside seven minutes from Tajon Buchanan and Tani Oluwaseyi gave Villarreal a commanding lead at Camp Nou, and things got worse for Barça when winger Lamine Yamal missed a first-half penalty. Continue reading...",
-   "category": "Match Reports",
-   "league": "La Liga",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-11-22T16:53:47.000Z",
-   "fetched_at": "2026-11-22T18:16:01.894Z",
-   "body": [
-    "Our briefing: Barça prevail 3-2 despite Lamine Yamal’s missed penalty Juventus put four past Venezia, Paris FC climb to second Barcelona came back from two goals behind to beat…",
-    "Barça prevail 3-2 despite Lamine Yamal’s missed penalty Juventus put four past Venezia, Paris FC climb to second Barcelona came back from two goals behind to beat Villarreal 3-2 at home on Sunday and restore their three-point lead at the top of La Liga. Two goals inside seven minutes from Tajon Buchanan and Tani Oluwaseyi gave Villarreal a commanding lead at Camp Nou, and things got worse for Barça when winger Lamine Yamal missed a first-half penalty. Continue reading...",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/LFP_-_Barcelona_vs_Mallorca_pre-match_-_Oct_3rd_2010.jpg/960px-LFP_-_Barcelona_vs_Mallorca_pre-match_-_Oct_3rd_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Paolo Costa Baldi — CC BY-SA 3.0"
-  },
-  {
-   "id": "independent-desire-doue-undergo-surgery-torn-acl-after-seaso",
-   "slug": "desire-doue-to-undergo-surgery-on-torn-acl-after-season-endi-seaso",
-   "title": "Desire Doue to undergo surgery on torn ACL after season-ending injury for PSG",
-   "dek": "Doue ruptured his ACL in PSG’s win over Nice on Saturday",
-   "description": "Doue ruptured his ACL in PSG’s win over Nice on Saturday",
-   "category": "Injuries",
-   "league": "Ligue 1",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-11-22T16:32:16.000Z",
-   "fetched_at": "2026-11-22T18:16:02.032Z",
-   "body": [
-    "Our briefing: Doue ruptured his ACL in PSG’s win over Nice on Saturday",
-    "Recovery timelines in football are rarely fixed. We'll monitor the situation and update this story as club statements arrive.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/World_Football_Challenge_-_Chelsea_FC_vs_Paris_Saint-Germain_FC.jpg/960px-World_Football_Challenge_-_Chelsea_FC_vs_Paris_Saint-Germain_FC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Shinya Suzuki — CC BY 2.0"
-  },
-  {
-   "id": "independent-hull-stun-brighton-stoppage-time-double-seagulls",
-   "slug": "hull-stun-brighton-with-stoppage-time-double-as-seagulls-red-gulls",
-   "title": "Hull stun Brighton with stoppage-time double as Seagulls reduced to 10 men",
-   "dek": "Fabian Hurzeler’s side were dominant but could not find a way through as Hull secured their first win since August",
-   "description": "Fabian Hurzeler’s side were dominant but could not find a way through as Hull secured their first win since August",
-   "category": "News",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-11-22T16:26:53.000Z",
-   "fetched_at": "2026-11-22T18:16:02.032Z",
-   "body": [
-    "Our briefing: Fabian Hurzeler’s side were dominant but could not find a way through as Hull secured their first win since August",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/View_of_the_Brighton_and_Hove_Albion_FC_Amex_Stadium_from_The_Drove_-_geograph.org.uk_-_2717285.jpg/960px-View_of_the_Brighton_and_Hove_Albion_FC_Amex_Stadium_from_The_Drove_-_geograph.org.uk_-_2717285.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Robert Lamb — CC BY-SA 2.0"
-  },
-  {
-   "id": "guardian-mcburnie-s-added-time-double-snatches-win-hull-s",
-   "slug": "mcburnie-s-added-time-double-snatches-win-for-hull-to-shock--ull-s",
-   "title": "McBurnie’s added-time double snatches win for Hull to shock 10-man Brighton",
-   "dek": "Oli McBurnie’s injury-time double helped Hull to a dramatic victory over Brighton but the Tigers had the heroics of their goalkeeper Konstantinos Tzolakis to thank for a…",
-   "description": "Oli McBurnie’s injury-time double helped Hull to a dramatic victory over Brighton but the Tigers had the heroics of their goalkeeper Konstantinos Tzolakis to thank for a result which continued their unbeaten home start since returning to the Premier League. Fabian Hürzeler’s side were much the stronger of the teams on an afternoon they largely dominated. However, a string of chances in both halves passed them by without the goal their play deserved, thanks largely to Tzolakis, with the Greek international producing a string of sensational saves in both halves. Continue reading...",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-11-22T16:10:48.000Z",
-   "fetched_at": "2026-11-22T18:16:01.894Z",
-   "body": [
-    "Our briefing: Oli McBurnie’s injury-time double helped Hull to a dramatic victory over Brighton but the Tigers had the heroics of their goalkeeper Konstantinos Tzolakis to thank for a…",
-    "Oli McBurnie’s injury-time double helped Hull to a dramatic victory over Brighton but the Tigers had the heroics of their goalkeeper Konstantinos Tzolakis to thank for a result which continued their unbeaten home start since returning to the Premier League. Fabian Hürzeler’s side were much the stronger of the teams on an afternoon they largely dominated. However, a string of chances in both halves passed them by without the goal their play deserved, thanks largely to Tzolakis, with the Greek international producing a string of sensational saves in both halves.",
-    "Continue reading...",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Fulham_vs_Brighton_%26_Hove_Albion_24012026_%283%29.jpg/960px-Fulham_vs_Brighton_%26_Hove_Albion_24012026_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "espn-boca-juniors-win-copa-sudamericana-but-can-they-",
-   "slug": "boca-juniors-win-copa-sudamericana-but-can-they-keep-budding-they-",
-   "title": "Boca Juniors win Copa Sudamericana, but can they keep budding stars?",
-   "dek": "Boca Juniors had gone almost 20 years without a continental trophy. That ended on Saturday with success in the Copa Sudamericana, but an exodus could follow.",
-   "description": "Boca Juniors had gone almost 20 years without a continental trophy. That ended on Saturday with success in the Copa Sudamericana, but an exodus could follow.",
-   "category": "News",
-   "league": "Football",
-   "source": "espn",
-   "sourceName": "ESPN FC",
-   "published": "2026-11-22T16:10:40.000Z",
-   "fetched_at": "2026-11-22T18:16:02.071Z",
-   "body": [
-    "Our briefing: Boca Juniors had gone almost 20 years without a continental trophy. That ended on Saturday with success in the Copa Sudamericana, but an exodus could follow.",
-    "Boca Juniors had gone almost 20 years without a continental trophy. That ended on Saturday with success in the Copa Sudamericana, but an exodus could follow.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by ESPN FC."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg/960px-Bank_of_America_Stadium%2C_Charlotte%2C_North_Carolina_%2847543695591%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Ken Lund from Reno, Nevada, USA — CC BY-SA 2.0"
-  },
-  {
-   "id": "bbc-psg-s-doue-have-surgery-ruptured-acl",
-   "slug": "psg-s-doue-to-have-surgery-on-ruptured-acl-d-acl",
-   "title": "PSG's Doue to have surgery on ruptured ACL",
-   "dek": "Paris St-Germain forward Desire Doue will have surgery later this month after rupturing the anterior cruciate ligament in his right knee.",
-   "description": "Paris St-Germain forward Desire Doue will have surgery later this month after rupturing the anterior cruciate ligament in his right knee.",
-   "category": "News",
-   "league": "Ligue 1",
-   "source": "bbc",
-   "sourceName": "BBC Sport",
-   "published": "2026-11-22T15:50:05.000Z",
-   "fetched_at": "2026-11-22T18:16:01.841Z",
-   "body": [
-    "Our briefing: Paris St-Germain forward Desire Doue will have surgery later this month after rupturing the anterior cruciate ligament in his right knee.",
-    "Paris St-Germain forward Desire Doue will have surgery later this month after rupturing the anterior cruciate ligament in his right knee.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by BBC Sport."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Yankee_Stadium_soccer_configuration_Chelsea_vs_PSG_2012-07-20.jpg/960px-Yankee_Stadium_soccer_configuration_Chelsea_vs_PSG_2012-07-20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Shinya Suzuki — CC BY 2.0"
-  },
-  {
-   "id": "guardian-blackburn-earn-derby-draw-mowbray-extend-burnley",
-   "slug": "blackburn-earn-derby-draw-for-mowbray-and-extend-burnley-s-w-rnley",
-   "title": "Blackburn earn derby draw for Mowbray and extend Burnley’s wait for home win",
-   "dek": "Todd Cantwell’s penalty earned Blackburn a 2-2 draw at Burnley in their first match since head coach Tony Mowbray stepped back because of health issues. In a gripping,…",
-   "description": "Todd Cantwell’s penalty earned Blackburn a 2-2 draw at Burnley in their first match since head coach Tony Mowbray stepped back because of health issues. In a gripping, physical East Lancashire derby, the home side led twice, through Largie Ramazani’s rising first-half drive and Jaydon Banel’s steered finish after the break. But Andri Gudjohnsen scored Blackburn’s first equaliser, then earned the penalty which Cantwell converted. Continue reading...",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-11-22T15:12:24.000Z",
-   "fetched_at": "2026-11-22T18:16:01.894Z",
-   "body": [
-    "Our briefing: Todd Cantwell’s penalty earned Blackburn a 2-2 draw at Burnley in their first match since head coach Tony Mowbray stepped back because of health issues. In a gripping,…",
-    "Todd Cantwell’s penalty earned Blackburn a 2-2 draw at Burnley in their first match since head coach Tony Mowbray stepped back because of health issues. In a gripping, physical East Lancashire derby, the home side led twice, through Largie Ramazani’s rising first-half drive and Jaydon Banel’s steered finish after the break. But Andri Gudjohnsen scored Blackburn’s first equaliser, then earned the penalty which Cantwell converted.",
-    "Continue reading...",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Kashima_Soccer_Stadium_1.jpg/960px-Kashima_Soccer_Stadium_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
-  },
-  {
-   "id": "guardian-footballer-turned-booktuber-who-made-obscure-tol",
-   "slug": "the-footballer-turned-booktuber-who-made-an-obscure-tolstoy--e-tol",
-   "title": "The footballer-turned-BookTuber who made an obscure Tolstoy novella a belated bestseller",
-   "dek": "Once named the best player in Brazil, Gustavo Scarpa’s literature obsession has inspired thousands to become bookworms Julián Scatolaro noticed something odd was…",
-   "description": "Once named the best player in Brazil, Gustavo Scarpa’s literature obsession has inspired thousands to become bookworms Julián Scatolaro noticed something odd was occurring when several people came into his bookshop over the space of a few days, all asking for Leo Tolstoy’s novella The Death of Ivan Ilyich . The 35-year-old, who owns a bookshop in the small Argentine city of Chajarí, 311 miles from Buenos Aires, said the sudden interest in a book written in 1886 was surprising enough. But this was particularly strange because when his customers ask for works by the Russian writer, they usually want War and Peace . In a video he posted about the mystery, he called it the “ Tolstoy enigma ”. Continue reading...",
-   "category": "News",
-   "league": "Football",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "published": "2026-11-22T15:00:29.000Z",
-   "fetched_at": "2026-11-22T18:16:01.894Z",
-   "body": [
-    "Our briefing: Once named the best player in Brazil, Gustavo Scarpa’s literature obsession has inspired thousands to become bookworms Julián Scatolaro noticed something odd was…",
-    "Once named the best player in Brazil, Gustavo Scarpa’s literature obsession has inspired thousands to become bookworms Julián Scatolaro noticed something odd was occurring when several people came into his bookshop over the space of a few days, all asking for Leo Tolstoy’s novella The Death of Ivan Ilyich . The 35-year-old, who owns a bookshop in the small Argentine city of Chajarí, 311 miles from Buenos Aires, said the sudden interest in a book written in 1886 was surprising enough. But this was particularly strange because when his customers ask for works by the Russian writer, they usually want War and Peace .",
-    "In a video he posted about the mystery, he called it the “ Tolstoy enigma ”. Continue reading...",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Guardian."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg/960px-Ensley_Athletic_Center_%26_Soccer_Stadium%2C_Syracuse_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Kiran891 — CC BY-SA 4.0"
-  },
-  {
-   "id": "independent-bayern-munich-considering-jamal-musiala-sale-aft",
-   "slug": "bayern-munich-considering-jamal-musiala-sale-after-health-pr-e-aft",
-   "title": "Bayern Munich considering Jamal Musiala sale after health problems",
-   "dek": "Musiala was diagnosed with a “neurological dysfunction” after suffering an on-pitch collapse twice in a matter of days during pre-season",
-   "description": "Musiala was diagnosed with a “neurological dysfunction” after suffering an on-pitch collapse twice in a matter of days during pre-season",
-   "category": "News",
-   "league": "Bundesliga",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-11-22T14:53:25.000Z",
-   "fetched_at": "2026-11-22T18:16:02.032Z",
-   "body": [
-    "Our briefing: Musiala was diagnosed with a “neurological dysfunction” after suffering an on-pitch collapse twice in a matter of days during pre-season",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Allianz_Arena_Bayern_Munich_soccer-stadion_%28450603187%29.jpg/960px-Allianz_Arena_Bayern_Munich_soccer-stadion_%28450603187%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Depeche Mode *wrong* — CC BY 2.0"
-  },
-  {
-   "id": "independent-blackburn-rally-without-tony-mowbray-deny-burnle",
-   "slug": "blackburn-rally-without-tony-mowbray-to-deny-burnley-long-aw-urnle",
-   "title": "Blackburn rally without Tony Mowbray to deny Burnley long-awaited home win",
-   "dek": "Burnley 2-2 Blackburn: The Clarets have not won at Turf Moor since October 2025 and were pegged back twice by their fierce rivals",
-   "description": "Burnley 2-2 Blackburn: The Clarets have not won at Turf Moor since October 2025 and were pegged back twice by their fierce rivals",
-   "category": "Match Reports",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-11-22T14:38:43.000Z",
-   "fetched_at": "2026-11-22T18:16:02.032Z",
-   "body": [
-    "Our briefing: Burnley 2-2 Blackburn: The Clarets have not won at Turf Moor since October 2025 and were pegged back twice by their fierce rivals",
-    "The result continues to shape the season picture — we'll have more reaction, statistics and analysis in the coming hours.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Kashima_Soccer_Stadium_Interior_View.jpg/960px-Kashima_Soccer_Stadium_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "espn-kansas-city-s-nwsl-title-shows-investing-women-s",
-   "slug": "kansas-city-s-nwsl-title-shows-investing-in-women-s-soccer-p-men-s",
-   "title": "Kansas City's NWSL title shows investing in women's soccer pays off",
-   "dek": "Only a small group of clubs now truly compete for the NWSL Championship. Kansas City Current is one of them, and now it's a champion for the first time.",
-   "description": "Only a small group of clubs now truly compete for the NWSL Championship. Kansas City Current is one of them, and now it's a champion for the first time.",
-   "category": "News",
-   "league": "Football",
-   "source": "espn",
-   "sourceName": "ESPN FC",
-   "published": "2026-11-22T13:56:26.000Z",
-   "fetched_at": "2026-11-22T18:16:02.070Z",
-   "body": [
-    "Our briefing: Only a small group of clubs now truly compete for the NWSL Championship. Kansas City Current is one of them, and now it's a champion for the first time.",
-    "Only a small group of clubs now truly compete for the NWSL Championship. Kansas City Current is one of them, and now it's a champion for the first time.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by ESPN FC."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Kashima_Soccer_Stadium_6.jpg/960px-Kashima_Soccer_Stadium_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "TAKA@P.P.R.S — CC BY-SA 2.0"
-  },
-  {
-   "id": "espn-kc-finally-deservedly-breaks-nwsl-title-drought",
-   "slug": "kc-finally-and-deservedly-breaks-nwsl-title-drought-ought",
-   "title": "KC finally, and deservedly, breaks NWSL title drought",
-   "dek": "Kansas City Current's first title was a story of conviction and resilience.",
-   "description": "Kansas City Current's first title was a story of conviction and resilience.",
-   "category": "News",
-   "league": "Football",
-   "source": "espn",
-   "sourceName": "ESPN FC",
-   "published": "2026-11-22T13:56:26.000Z",
-   "fetched_at": "2026-11-22T18:16:02.070Z",
-   "body": [
-    "Our briefing: Kansas City Current's first title was a story of conviction and resilience.",
-    "Kansas City Current's first title was a story of conviction and resilience.",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by ESPN FC."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506449%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
-  },
-  {
-   "id": "independent-liverpool-boss-andoni-iraola-speaks-out-man-utd-",
-   "slug": "liverpool-boss-andoni-iraola-speaks-out-on-man-utd-drone-inc--utd-",
-   "title": "Liverpool boss Andoni Iraola speaks out on Man Utd drone incident",
-   "dek": "Iraola was speaking ahead of his first match against United as Liverpool manager at Anfield on Sunday afternoon",
-   "description": "Iraola was speaking ahead of his first match against United as Liverpool manager at Anfield on Sunday afternoon",
-   "category": "Previews",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-11-22T13:53:43.000Z",
-   "fetched_at": "2026-11-22T18:16:02.032Z",
-   "body": [
-    "Our briefing: Iraola was speaking ahead of his first match against United as Liverpool manager at Anfield on Sunday afternoon",
-    "Team news can change right up to kick-off. Bookmark this story for the final line-ups and confirmed sides.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Elftal_van_Liverpool%2C_Bestanddeelnr_919-7002.jpg/960px-Elftal_van_Liverpool%2C_Bestanddeelnr_919-7002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": null
-  },
-  {
-   "id": "independent-rafa-benitez-curse-xabi-alonso-could-suffer-if-c",
-   "slug": "the-rafa-benitez-curse-xabi-alonso-could-suffer-if-chelsea-d--if-c",
-   "title": "The Rafa Benitez curse Xabi Alonso could suffer if Chelsea don’t find an identity",
-   "dek": "Alonso is under growing pressure as Chelsea were booed by their own fans after their drubbing by Leeds",
-   "description": "Alonso is under growing pressure as Chelsea were booed by their own fans after their drubbing by Leeds",
-   "category": "News",
-   "league": "Premier League",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-11-22T13:21:04.000Z",
-   "fetched_at": "2026-11-22T18:16:02.032Z",
-   "body": [
-    "Our briefing: Alonso is under growing pressure as Chelsea were booed by their own fans after their drubbing by Leeds",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Stadium_Street%2C_Chelsea_-_geograph.org.uk_-_4585241.jpg/960px-Stadium_Street%2C_Chelsea_-_geograph.org.uk_-_4585241.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "Chris Whippet — CC BY-SA 2.0"
-  },
-  {
-   "id": "independent-that-s-you-tony-blackburn-s-andri-gudjohnsen-ded",
-   "slug": "that-s-for-you-tony-blackburn-s-andri-gudjohnsen-dedicates-d-n-ded",
-   "title": "‘That’s for you, Tony’: Blackburn’s Andri Gudjohnsen dedicates derby goal to Tony Mowbray",
-   "dek": "Mowbray stepped down as Blackburn manager due to health problems",
-   "description": "Mowbray stepped down as Blackburn manager due to health problems",
-   "category": "News",
-   "league": "Football",
-   "source": "independent",
-   "sourceName": "The Independent",
-   "published": "2026-11-22T13:07:49.000Z",
-   "fetched_at": "2026-11-22T18:16:02.033Z",
-   "body": [
-    "Our briefing: Mowbray stepped down as Blackburn manager due to health problems",
-    "Developments in this story are expected over the coming hours — check back for our next edition, which auto-publishes within 30 minutes.",
-    "This summary was compiled from reporting published by The Independent."
-   ],
-   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg/960px-Soccer_fans_put_town_in_siege_%28FL62506427%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "imageCredit": "IPPA photographer — CC BY 4.0"
   }
  ]
 }
