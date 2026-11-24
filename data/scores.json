@@ -1,44 +1,18 @@
 {
- "generated_at": "2026-11-23T18:37:51.543Z",
+ "generated_at": "2026-11-24T04:12:18.415Z",
  "matches": [
   {
-   "league": "Serie A",
-   "home": "Monza",
-   "away": "Fiorentina",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Mon, November 23rd at 2:45 PM EST",
-   "date": "2026-11-23T19:45Z"
-  },
-  {
-   "league": "Bundesliga",
-   "home": "FC Augsburg",
-   "away": "Mainz",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
-   "homeScore": 3,
-   "awayScore": 1,
-   "status": "final",
-   "clock": "",
-   "time": "FT",
-   "date": "2026-11-22T14:30Z"
-  },
-  {
-   "league": "Bundesliga",
-   "home": "Werder Bremen",
-   "away": "Hamburg SV",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png",
+   "league": "Premier League",
+   "home": "Brentford",
+   "away": "Everton",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
    "homeScore": 4,
    "awayScore": 0,
    "status": "final",
    "clock": "",
    "time": "FT",
-   "date": "2026-11-22T16:30Z"
+   "date": "2026-11-23T20:00Z"
   },
   {
    "league": "La Liga",
@@ -46,11 +20,11 @@
    "away": "Elche",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
+   "homeScore": 1,
+   "awayScore": 1,
+   "status": "final",
    "clock": "",
-   "time": "Mon, November 23rd at 3:00 PM EST",
+   "time": "FT",
    "date": "2026-11-23T20:00Z"
   },
   {
@@ -93,17 +67,43 @@
    "date": "2026-11-22T19:45Z"
   },
   {
-   "league": "Premier League",
-   "home": "Brentford",
-   "away": "Everton",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
+   "league": "Bundesliga",
+   "home": "FC Augsburg",
+   "away": "Mainz",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
+   "homeScore": 3,
+   "awayScore": 1,
+   "status": "final",
    "clock": "",
-   "time": "Mon, November 23rd at 3:00 PM EST",
-   "date": "2026-11-23T20:00Z"
+   "time": "FT",
+   "date": "2026-11-22T14:30Z"
+  },
+  {
+   "league": "Bundesliga",
+   "home": "Werder Bremen",
+   "away": "Hamburg SV",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png",
+   "homeScore": 4,
+   "awayScore": 0,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-11-22T16:30Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Monza",
+   "away": "Fiorentina",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
+   "homeScore": 3,
+   "awayScore": 0,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-11-23T19:45Z"
   }
  ]
 }
