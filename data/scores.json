@@ -1,19 +1,6 @@
 {
- "generated_at": "2026-11-25T18:46:26.059Z",
+ "generated_at": "2026-11-26T02:03:36.757Z",
  "matches": [
-  {
-   "league": "Bundesliga",
-   "home": "Werder Bremen",
-   "away": "Borussia Mönchengladbach",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, November 27th at 2:30 PM EST",
-   "date": "2026-11-27T19:30Z"
-  },
   {
    "league": "La Liga",
    "home": "Levante",
@@ -26,19 +13,6 @@
    "clock": "",
    "time": "Fri, November 27th at 3:00 PM EST",
    "date": "2026-11-27T20:00Z"
-  },
-  {
-   "league": "Serie A",
-   "home": "Venezia",
-   "away": "Bologna",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
-   "homeScore": 0,
-   "awayScore": 0,
-   "status": "pre",
-   "clock": "",
-   "time": "Fri, November 27th at 2:45 PM EST",
-   "date": "2026-11-27T19:45Z"
   },
   {
    "league": "Premier League",
@@ -54,11 +28,37 @@
    "date": "2026-11-27T20:00Z"
   },
   {
+   "league": "Bundesliga",
+   "home": "Werder Bremen",
+   "away": "Borussia Mönchengladbach",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, November 27th at 2:30 PM EST",
+   "date": "2026-11-27T19:30Z"
+  },
+  {
    "league": "Ligue 1",
    "home": "Brest",
    "away": "Paris FC",
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png",
+   "homeScore": 0,
+   "awayScore": 0,
+   "status": "pre",
+   "clock": "",
+   "time": "Fri, November 27th at 2:45 PM EST",
+   "date": "2026-11-27T19:45Z"
+  },
+  {
+   "league": "Serie A",
+   "home": "Venezia",
+   "away": "Bologna",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
    "homeScore": 0,
    "awayScore": 0,
    "status": "pre",
