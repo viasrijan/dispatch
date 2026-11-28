@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T21:52:36.905Z",
+ "generated_at": "2026-11-28T03:44:33.369Z",
  "matches": [
   {
    "league": "Premier League",
@@ -9,9 +9,9 @@
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
    "homeScore": 3,
    "awayScore": 2,
-   "status": "live",
-   "clock": "90'+4'",
-   "time": "90'+4'",
+   "status": "final",
+   "clock": "",
+   "time": "FT",
    "date": "2026-11-27T20:00Z"
   },
   {
@@ -21,24 +21,11 @@
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png",
    "homeScore": 1,
-   "awayScore": 2,
-   "status": "live",
-   "clock": "90'+4'",
-   "time": "90'+4'",
-   "date": "2026-11-27T20:00Z"
-  },
-  {
-   "league": "Ligue 1",
-   "home": "Brest",
-   "away": "Paris FC",
-   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
-   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png",
-   "homeScore": 1,
-   "awayScore": 0,
+   "awayScore": 3,
    "status": "final",
    "clock": "",
    "time": "FT",
-   "date": "2026-11-27T19:45Z"
+   "date": "2026-11-27T20:00Z"
   },
   {
    "league": "Bundesliga",
@@ -60,6 +47,19 @@
    "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png",
    "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
    "homeScore": 0,
+   "awayScore": 0,
+   "status": "final",
+   "clock": "",
+   "time": "FT",
+   "date": "2026-11-27T19:45Z"
+  },
+  {
+   "league": "Ligue 1",
+   "home": "Brest",
+   "away": "Paris FC",
+   "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
+   "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png",
+   "homeScore": 1,
    "awayScore": 0,
    "status": "final",
    "clock": "",
